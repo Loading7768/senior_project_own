@@ -22,7 +22,7 @@ LENGTH_RATIO = 80  # 設定 Y(被比對的推文) 的長度相對於 X(當基準
 
 TOKEN_OVERLAP_THRESHOLD = 30  # 設定 token_overlap 的臨界值   30 => 30%
 
-IS_CLUSTERED = False  # 設定是否要用有分群的檔案來比對
+IS_CLUSTERED = True  # 設定是否要用有分群的檔案來比對
 '''可修改參數'''
 
 
@@ -165,7 +165,7 @@ def process_tweet_group(tweets_group, json_output, json_output_path, cluster_id=
             writed_compare += 1
             json_output.append(write_json_result(res, cluster_id=cluster_id))
             # 寫入 JSON
-            with open(json_output_path, 'w', encoding='utf-8') as f_json:
+            with open(json_output_path, 'w', encoding='utf-8-sig') as f_json:
                 json.dump(json_output, f_json, indent=4, ensure_ascii=False)
 
             write_txt_result(filetxt, res)
@@ -191,12 +191,8 @@ if __name__ == "__main__":
         analysis_name = os.path.splitext(filename)[0]  # ex: DOGE_20210428
 
         # 設定 txtname, json_output_path 的名稱
-        if IS_CLUSTERED:
-            txtname = f"../LCS/analysis/{OUTPUT_FOLDER_NAME}/{analysis_name}_clustered.txt"
-            json_output_path = f"../LCS/analysis/{OUTPUT_FOLDER_NAME}/{analysis_name}_clustered.json"
-        else:
-            txtname = f"../LCS/analysis/{OUTPUT_FOLDER_NAME}/{analysis_name}.txt"
-            json_output_path = f"../LCS/analysis/{OUTPUT_FOLDER_NAME}/{analysis_name}.json"
+        txtname = f"../LCS/analysis/{OUTPUT_FOLDER_NAME}/{analysis_name}.txt"
+        json_output_path = f"../LCS/analysis/{OUTPUT_FOLDER_NAME}/{analysis_name}.json"
 
         output_folder_path = f"../LCS/analysis/{OUTPUT_FOLDER_NAME}/"
         os.makedirs(output_folder_path, exist_ok=True)
@@ -215,7 +211,7 @@ if __name__ == "__main__":
         json_output = []  # 用來儲存所有比對結果
 
         # 先把輸出的 json 檔裡清空
-        with open(json_output_path, 'w', encoding='utf-8') as f_json:
+        with open(json_output_path, 'w', encoding='utf-8-sig') as f_json:
             json.dump(json_output, f_json, indent=4, ensure_ascii=False)
 
 
