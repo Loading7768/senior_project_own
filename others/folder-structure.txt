@@ -1,0 +1,1982 @@
+﻿|-- coin_price
+  |-- assets
+    |-- DOGE_price.json
+    |-- PEPE_price.json
+    |-- TRUMP_price.json
+  |-- outs
+    |-- csvs
+      |-- DOGE_price.csv
+      |-- PEPE_price.csv
+      |-- TRUMP_price.csv
+    |-- plots
+      |-- DOGE_plot.png
+      |-- PEPE_plot.png
+      |-- TRUMP_plot.png
+  |-- Scripts
+    |-- get_crypto_price.py
+    |-- plot_cmkcp.py
+    |-- price_plot.py
+  |-- requirements.txt
+  |-- setup.bat
+|-- Dice
+  |-- analysis
+    |-- 202104
+      |-- Ahsan Butt_202104.json
+      |-- Ahsan Butt_202104.txt
+      |-- CRYPTO MANIA 🚀🚀🌝_202104.json
+      |-- CRYPTO MANIA 🚀🚀🌝_202104.txt
+      |-- David Rockefeller_202104.json
+      |-- David Rockefeller_202104.txt
+      |-- DHarpz_202104.json
+      |-- DHarpz_202104.txt
+      |-- Dogecoin For Life_202104.json
+      |-- Dogecoin For Life_202104.txt
+      |-- dogecoin_202104.json
+      |-- dogecoin_202104.txt
+      |-- F7ASH7_202104.json
+      |-- F7ASH7_202104.txt
+      |-- Flash - Dogecoin_202104.json
+      |-- Flash - Dogecoin_202104.txt
+      |-- Indiana Taylor_202104.json
+      |-- Indiana Taylor_202104.txt
+      |-- its_arthur_202104.json
+      |-- its_arthur_202104.txt
+      |-- JaY🥀🍷😋 🌙_202104.json
+      |-- JaY🥀🍷😋 🌙_202104.txt
+      |-- JazzedJerry_202104.json
+      |-- JazzedJerry_202104.txt
+      |-- Jordan W, WarnedWhitey96 🎮_202104.json
+      |-- Jordan W, WarnedWhitey96 🎮_202104.txt
+      |-- LeftLane_202104.json
+      |-- LeftLane_202104.txt
+      |-- Perfect Timing Podcast_202104.json
+      |-- Perfect Timing Podcast_202104.txt
+      |-- SephirothRising XS 🇺🇸_202104.json
+      |-- SephirothRising XS 🇺🇸_202104.txt
+      |-- SiegeMoto🌕🏴‍☠️_202104.json
+      |-- SiegeMoto🌕🏴‍☠️_202104.txt
+      |-- SlingShot_202104.json
+      |-- SlingShot_202104.txt
+      |-- Thinker_202104.json
+      |-- Thinker_202104.txt
+      |-- toadsuck85_202104.json
+      |-- toadsuck85_202104.txt
+      |-- UAPkisho_202104.json
+      |-- UAPkisho_202104.txt
+      |-- أجي تفهم💡_202104.json
+      |-- أجي تفهم💡_202104.txt
+      |-- 𝒀𝑶𝑼𝑺𝑬𝑭_202104.json
+      |-- 𝒀𝑶𝑼𝑺𝑬𝑭_202104.txt
+      |-- 🦄 🤡 Chad Illa-Petersen (The Story Catcher)_202104.json
+      |-- 🦄 🤡 Chad Illa-Petersen (The Story Catcher)_202104.txt
+    |-- 20210413
+      |-- clustered_30_DOGE_20210413.json
+      |-- clustered_30_DOGE_20210413.txt
+    |-- 20210416
+      |-- DOGE_20210416_Latest11037.json
+      |-- DOGE_20210416_Latest11037.txt
+    |-- 20210428
+      |-- clustered_30_DOGE_20210428.json
+      |-- clustered_30_DOGE_20210428.txt
+      |-- DOGE_20210428_Latest654.json
+      |-- DOGE_20210428_Latest654.txt
+    |-- 202105
+      |-- @diamondwhiskers_202105.json
+      |-- @diamondwhiskers_202105.txt
+      |-- faviiii_202105.json
+      |-- faviiii_202105.txt
+      |-- Hilvert S_202105.json
+      |-- Hilvert S_202105.txt
+      |-- Leo Cervantes_202105.json
+      |-- Leo Cervantes_202105.txt
+      |-- Pots Saucy_202105.json
+      |-- Pots Saucy_202105.txt
+      |-- Prince Mo_202105.json
+      |-- Prince Mo_202105.txt
+      |-- ĐogeDailyAffirmations_202105.json
+      |-- ĐogeDailyAffirmations_202105.txt
+  |-- robot_account
+    |-- 202104.txt
+    |-- 20210413.txt
+    |-- 20210416.txt
+    |-- 20210428.txt
+    |-- 202105.txt
+  |-- dice.py
+  |-- dice_multiprocessing.py
+|-- Kmeans
+  |-- data
+    |-- analysis
+      |-- clustered_30_DOGE_2025_3_analysis.txt
+      |-- clustered_80_DOGE_20210420_Latest37310_analysis.txt
+      |-- clustered_9_DOGE_20250322_Latest61_analysis.txt
+    |-- clustered
+      |-- clustered_100_DOGE_2025_3.json
+      |-- clustered_30_DOGE_20210413.json
+      |-- clustered_30_DOGE_20210428.json
+      |-- clustered_30_DOGE_2021_4.json
+      |-- clustered_30_DOGE_2025_2.json
+      |-- clustered_30_DOGE_2025_3.json
+      |-- clustered_4_DOGE_20250322_Latest61.json
+      |-- clustered_80_DOGE_20210420_Latest37310.json.json
+      |-- clustered_9_DOGE_20250322_Latest61.json.json
+    |-- combined
+      |-- DOGE_2021_4.json
+      |-- DOGE_2021_5.json
+      |-- DOGE_2024_11.json
+      |-- DOGE_2025_2.json
+      |-- DOGE_2025_3.json
+  |-- BERT.py
+  |-- BERT_best_cluster.py
+  |-- combined_data.py
+  |-- pip_install.txt
+  |-- sort_cluster.py
+|-- LCS
+  |-- analysis
+    |-- 202104
+      |-- Ahsan Butt_202104.json
+      |-- Ahsan Butt_202104.txt
+      |-- CRYPTO MANIA 🚀🚀🌝_202104.json
+      |-- CRYPTO MANIA 🚀🚀🌝_202104.txt
+      |-- David Rockefeller_202104.json
+      |-- David Rockefeller_202104.txt
+      |-- DHarpz_202104.json
+      |-- DHarpz_202104.txt
+      |-- Dogecoin For Life_202104.json
+      |-- Dogecoin For Life_202104.txt
+      |-- dogecoin_202104.json
+      |-- dogecoin_202104.txt
+      |-- F7ASH7_202104.json
+      |-- F7ASH7_202104.txt
+      |-- Flash - Dogecoin_202104.json
+      |-- Flash - Dogecoin_202104.txt
+      |-- Indiana Taylor_202104.json
+      |-- Indiana Taylor_202104.txt
+      |-- its_arthur_202104.txt
+      |-- JaY🥀🍷😋 🌙_202104.json
+      |-- JaY🥀🍷😋 🌙_202104.txt
+      |-- JazzedJerry_202104.json
+      |-- JazzedJerry_202104.txt
+      |-- Jordan W, WarnedWhitey96 🎮_202104.json
+      |-- Jordan W, WarnedWhitey96 🎮_202104.txt
+      |-- LeftLane_202104.json
+      |-- LeftLane_202104.txt
+      |-- Perfect Timing Podcast_202104.json
+      |-- Perfect Timing Podcast_202104.txt
+      |-- SephirothRising XS 🇺🇸_202104.json
+      |-- SephirothRising XS 🇺🇸_202104.txt
+      |-- SiegeMoto🌕🏴‍☠️_202104.json
+      |-- SiegeMoto🌕🏴‍☠️_202104.txt
+      |-- SlingShot_202104.json
+      |-- SlingShot_202104.txt
+      |-- Thinker_202104.json
+      |-- Thinker_202104.txt
+      |-- toadsuck85_202104.json
+      |-- toadsuck85_202104.txt
+      |-- UAPkisho_202104.json
+      |-- UAPkisho_202104.txt
+      |-- أجي تفهم💡_202104.json
+      |-- أجي تفهم💡_202104.txt
+      |-- 𝒀𝑶𝑼𝑺𝑬𝑭_202104.json
+      |-- 𝒀𝑶𝑼𝑺𝑬𝑭_202104.txt
+    |-- 20210412
+      |-- DOGE_20210412.txt
+    |-- 20210413
+      |-- DOGE_20210413_clustered.txt
+    |-- 20210428
+      |-- clustered_30_DOGE_20210428_clustered.json
+      |-- clustered_30_DOGE_20210428_clustered.txt
+      |-- DOGE_20210428_Latest654.json
+      |-- DOGE_20210428_Latest654.txt
+    |-- spammer_analysis
+      |-- DOGE
+        |-- 2021
+          |-- 04
+  |-- data
+  |-- robot_account
+    |-- 202104.txt
+    |-- 20210428.txt
+    |-- 202105.txt
+  |-- account_IsRobot.py
+  |-- delete_robot.py
+  |-- robot_classifier.py
+  |-- tweet_LCS.py
+  |-- tweet_LCS2.py
+|-- potentially_useful
+  |-- Tweets-Dogecoin.csv
+    |-- Tweets-Dogecoin.csv
+  |-- DOGE historical data from nasdaq.csv
+  |-- tweets (1).csv
+  |-- website.txt
+|-- project_vscode
+  |-- data
+    |-- DOGE
+      |-- 2021
+        |-- 04
+          |-- spammers
+            |-- #DogeLifer_202104.json
+            |-- #TradingAllIn™ PoorsGuide.com all markets research_202104.json
+            |-- $1400 stimulus is now worth_202104.json
+            |-- $ameboy_202104.json
+            |-- $DOGE TO $9.69 ⚡️⚡️⚡️_202104.json
+            |-- $DOGE 💎🐾🖖_202104.json
+            |-- $ShillcoinHERO_202104.json
+            |-- $Ðogecoin Raw 🍑_202104.json
+            |-- ..._202104.json
+            |-- ._202104.json
+            |-- 0xNhlanhla.eth_202104.json
+            |-- 10K Trades🇮🇱✝️_202104.json
+            |-- 2000_202104.json
+            |-- 24_7_202104.json
+            |-- 444 ✫_202104.json
+            |-- 4boyzmom_202104.json
+            |-- 4seasons_202104.json
+            |-- @misconfig_exe_202104.json
+            |-- @MPCamara_202104.json
+            |-- @MrROI2high AKA Levi GAINZ_202104.json
+            |-- @ralphyallover_202104.json
+            |-- A guy on a Sofa_202104.json
+            |-- A real person_202104.json
+            |-- A-Money_202104.json
+            |-- A. B._202104.json
+            |-- A.R.L.G_202104.json
+            |-- A._202104.json
+            |-- aaron silverstein_202104.json
+            |-- Aaron_202104.json
+            |-- Abdelghani_202104.json
+            |-- Abdiaziiz Omar_202104.json
+            |-- Abdul money💡💷_202104.json
+            |-- AC THE OPP🧙🏾‍♂️_202104.json
+            |-- Ace_202104.json
+            |-- AC_202104.json
+            |-- Adam Cardona_202104.json
+            |-- Adam_202104.json
+            |-- Adan_202104.json
+            |-- Adele Bedford 💙_202104.json
+            |-- Adolf Walter Jr._202104.json
+            |-- AFŞİNBEY_202104.json
+            |-- AgmKart_202104.json
+            |-- Ahilya_202104.json
+            |-- AHMAD ADEDAMOLA. Prophet Ahmad_202104.json
+            |-- Ahmed Hassan_202104.json
+            |-- Ahsan Butt_202104.json
+            |-- Airport Beers 🍻👽_202104.json
+            |-- Airport Beers 👽_202104.json
+            |-- AJ_202104.json
+            |-- AK23-9_202104.json
+            |-- Akinyemi Oluwafemi_202104.json
+            |-- al bodden_202104.json
+            |-- Alan_202104.json
+            |-- AlaskaCrypto_202104.json
+            |-- AlaskaLife_202104.json
+            |-- Albert N Milliron_202104.json
+            |-- Alee _ Voltix.ai 👾_202104.json
+            |-- Alessandro Savina_202104.json
+            |-- Alex Cernoch_202104.json
+            |-- Alex Rumba 🐕 🐶🚀🚀🚀_202104.json
+            |-- Alex Stuart_202104.json
+            |-- Alexa🦚_202104.json
+            |-- Alex_202104.json
+            |-- Alizeh_202104.json
+            |-- Ali_202104.json
+            |-- alper_202104.json
+            |-- Amber Harrison_202104.json
+            |-- Aminpa_202104.json
+            |-- amirhosein_202104.json
+            |-- AmirLFC_202104.json
+            |-- Amlie_202104.json
+            |-- AndreLeu87_202104.json
+            |-- Andrew_202104.json
+            |-- Andreyshunt_202104.json
+            |-- Android1321_202104.json
+            |-- Andy_202104.json
+            |-- Angel_202104.json
+            |-- Angie Marie_202104.json
+            |-- angryBird_202104.json
+            |-- ANISH PANDEY_202104.json
+            |-- Anonymous_202104.json
+            |-- Anthony Valenti_202104.json
+            |-- Anthony_202104.json
+            |-- Antoníus meta-McFlintoc 3.0Ⲁ_202104.json
+            |-- Ant_202104.json
+            |-- APES vs Wall St._202104.json
+            |-- Apple Thomas_202104.json
+            |-- arash zare_202104.json
+            |-- ARV2TRY_202104.json
+            |-- Ash Crypto_202104.json
+            |-- ashley cutts_202104.json
+            |-- Ashley_202104.json
+            |-- Ashton Cheekly_202104.json
+            |-- Ash_202104.json
+            |-- Aspandiyar Kurman_202104.json
+            |-- Astro Doge 🐶_202104.json
+            |-- Aud 🇺🇲_202104.json
+            |-- Auro Sapien_202104.json
+            |-- Austin_202104.json
+            |-- AutomaticTrading.it #prorealtime #trading_202104.json
+            |-- aWebAnalysis _ Crypto_202104.json
+            |-- Axmahunt_202104.json
+            |-- Ayodeji 🤩_202104.json
+            |-- a_202104.json
+            |-- BabakQolizadeh #BRG_202104.json
+            |-- Baby Stephen A. Ðoge_202104.json
+            |-- BAKALLI_202104.json
+            |-- Barbara_202104.json
+            |-- Base King_202104.json
+            |-- BDAY JULY 7_202104.json
+            |-- be jones_202104.json
+            |-- BeckytheDoge_202104.json
+            |-- bella unicorn_202104.json
+            |-- Benjamin_202104.json
+            |-- Benny G_202104.json
+            |-- BENSON J.L._202104.json
+            |-- Ben_202104.json
+            |-- Berlin_202104.json
+            |-- Beto Miranda_202104.json
+            |-- Bgod_202104.json
+            |-- BiFiance_202104.json
+            |-- BIG SOSA 🥶_202104.json
+            |-- Big Whale Alert 🐋 🚨_202104.json
+            |-- BIG WINS, CUTIE ✨_202104.json
+            |-- Bigdawg Financial_202104.json
+            |-- Bill Lonero_202104.json
+            |-- Bing Bing ♠️ 🇵🇭🇺🇸_202104.json
+            |-- Bit of Doge🐕🚀_202104.json
+            |-- BitcoinAgile_202104.json
+            |-- BitcoinMusic_202104.json
+            |-- Bitmosis 🧪_202104.json
+            |-- BitPerfect 💰_202104.json
+            |-- Bizgram Asia Pte Ltd_202104.json
+            |-- Bjkcoin_202104.json
+            |-- Blameshane_202104.json
+            |-- Blind Cat Crypto_202104.json
+            |-- Blockchain & Crypto Currency News_202104.json
+            |-- Blockchain Radio_202104.json
+            |-- bob ball_202104.json
+            |-- Bob_202104.json
+            |-- BORNHIVPOZ89_202104.json
+            |-- BOSS BABY_202104.json
+            |-- Boss Neutrale_202104.json
+            |-- boss1320.pcc.eth_202104.json
+            |-- Bossy_angel_202104.json
+            |-- Boston Segway Tours_202104.json
+            |-- Botty McBotface_202104.json
+            |-- BOXINGHEAD_202104.json
+            |-- Brady_202104.json
+            |-- Brandon Cummins_202104.json
+            |-- Brandon Weathers 📉🌐📈_202104.json
+            |-- Brandon_202104.json
+            |-- Brett Murphy_202104.json
+            |-- BrettFitz OfChampions_202104.json
+            |-- Bri Currently_202104.json
+            |-- Brian_202104.json
+            |-- BrightFuture🌻_202104.json
+            |-- Brilliant Gomez_202104.json
+            |-- Bruce Miller 🐶_202104.json
+            |-- Bubz Intern - Fan account 🫧 HL_202104.json
+            |-- Buddy leblanc_202104.json
+            |-- BuddyCastille_202104.json
+            |-- Bullshitting Fantasy Commander🫡_202104.json
+            |-- Bushy The Saint_202104.json
+            |-- Buy your Dogecoin_202104.json
+            |-- BwcDeals_202104.json
+            |-- ByBén_202104.json
+            |-- B_202104.json
+            |-- CaliCrypto209_202104.json
+            |-- can_202104.json
+            |-- Captain Crypto_202104.json
+            |-- Car Dano_202104.json
+            |-- Carlos_202104.json
+            |-- Carrie_202104.json
+            |-- casiotonelovin_202104.json
+            |-- Cemanahuac Entertainment_202104.json
+            |-- CEOofDOGE_202104.json
+            |-- CEO_202104.json
+            |-- Chad⚡️_202104.json
+            |-- Chaos Dragon ⚛️🐉_202104.json
+            |-- Charley James_202104.json
+            |-- Charlie Wells_202104.json
+            |-- Cheeto_202104.json
+            |-- Chicken of Death_202104.json
+            |-- Chickentoshi Tendamoto - Doge 4 Life! 🐕💨💰_202104.json
+            |-- Chilli 🌈_202104.json
+            |-- Chinese Doge Girl 🐳💎👐 鲸鱼_202104.json
+            |-- Chingo.Crypto_202104.json
+            |-- Chintan l patel_202104.json
+            |-- Choose Dragons_202104.json
+            |-- Chris k_202104.json
+            |-- Chris_202104.json
+            |-- CHRIS’WORLD_202104.json
+            |-- Chuck Maurice_202104.json
+            |-- Chuck_202104.json
+            |-- Church of Pumps ✨_202104.json
+            |-- CJ Fatts_202104.json
+            |-- CJ_202104.json
+            |-- ClankApp - Crypto Whales Tracker 🐳_202104.json
+            |-- Claudia_202104.json
+            |-- CleanTheAir_202104.json
+            |-- Cleric 💹🧲_202104.json
+            |-- Cody Maloney_202104.json
+            |-- COFFEEUR DOGE_202104.json
+            |-- Cointelegraph_202104.json
+            |-- Colin Cabral_202104.json
+            |-- come at me , ill wait_202104.json
+            |-- Commander Kaya Michiyu 🇯🇵 🇺🇦_202104.json
+            |-- Conservatism-1818_202104.json
+            |-- CoolSchmo_202104.json
+            |-- CoreKeep_202104.json
+            |-- Corey_202104.json
+            |-- CorndogJezus_202104.json
+            |-- COSMIC_202104.json
+            |-- CPdoge 👽_202104.json
+            |-- cptdefi_202104.json
+            |-- Craving Golf_202104.json
+            |-- Crazy Crypto hn_202104.json
+            |-- Criptomoeda News_202104.json
+            |-- crypjewls_202104.json
+            |-- Crypto Alpha_202104.json
+            |-- Crypto Bitlord_202104.json
+            |-- Crypto Crypto News_202104.json
+            |-- Crypto Fanatic_202104.json
+            |-- Crypto Investor not financial advice_202104.json
+            |-- CRYPTO MANIA 🚀🚀🌝_202104.json
+            |-- crypto post_202104.json
+            |-- Crypto Pup_202104.json
+            |-- crypto sosa_202104.json
+            |-- Crypto Trader Pro 🇺🇸_202104.json
+            |-- Crypto Upcoming Updates_202104.json
+            |-- crypto world_202104.json
+            |-- crypto- X_202104.json
+            |-- Crypto24x7🌻_202104.json
+            |-- CryptoAddict_202104.json
+            |-- cryptobang_202104.json
+            |-- CryptoCards_202104.json
+            |-- cryptochrismining_202104.json
+            |-- CryptoDev_202104.json
+            |-- CryptoGuy_202104.json
+            |-- CryptoHub_202104.json
+            |-- CryptoInsights_202104.json
+            |-- CryptoJournaal_202104.json
+            |-- cryptomaniac_202104.json
+            |-- CryptoMorri_202104.json
+            |-- Cryptophobia_202104.json
+            |-- cryptopotamus prime_202104.json
+            |-- CryptoQand_202104.json
+            |-- CryptosOnline.com_202104.json
+            |-- crypto_202104.json
+            |-- Crypto💰💰💰long term holder diamond hands💎💰💰💰_202104.json
+            |-- CurlyTail Media supports 🇺🇦_202104.json
+            |-- CyberGℹ️RL🌹™️©💫❤️SecuredEra💫_202104.json
+            |-- c_202104.json
+            |-- D. WILLIAMS MUCH WOW!!!_202104.json
+            |-- D.I.N.K._202104.json
+            |-- D.M.Burke72_202104.json
+            |-- DA VINCI MORNINGSTAR_202104.json
+            |-- Dakota_202104.json
+            |-- Dan D._202104.json
+            |-- Daniel Lipsmeyer_202104.json
+            |-- Daniel sanchez_202104.json
+            |-- Daniel_202104.json
+            |-- Danny Quintana_202104.json
+            |-- Danny_202104.json
+            |-- DANOLOGY_202104.json
+            |-- DanO_202104.json
+            |-- Dan_202104.json
+            |-- Dardaos_202104.json
+            |-- DaRealGetDOUGH🧑🏾‍🚀🍞💙_202104.json
+            |-- Dark! on ABS_202104.json
+            |-- Datona ❤️_202104.json
+            |-- Dave_202104.json
+            |-- David Hollers🗑️_202104.json
+            |-- David Koil_202104.json
+            |-- David M._202104.json
+            |-- David Rockefeller_202104.json
+            |-- David Wilson_202104.json
+            |-- davidwood.crypto_202104.json
+            |-- David_202104.json
+            |-- Daya Singh_202104.json
+            |-- DayMan_202104.json
+            |-- Dee_202104.json
+            |-- Degen 🤖_202104.json
+            |-- DemoA2z_202104.json
+            |-- Denis Potvin_202104.json
+            |-- Dennis Romback_202104.json
+            |-- DeoM_202104.json
+            |-- Dfelix04_202104.json
+            |-- DHarpz_202104.json
+            |-- Dhost 🍖🐕💪_202104.json
+            |-- DIAMOND DALLAS CRYPTO ➐_202104.json
+            |-- DiamondPaws_202104.json
+            |-- DIGIBYTE & DOGECOIN_202104.json
+            |-- Dimitris Damianos 🚀_202104.json
+            |-- Dinesh ladwa_202104.json
+            |-- Documenting Dogecoin_202104.json
+            |-- Doge & Hoge _202104.json
+            |-- Doge Army News Network_202104.json
+            |-- Doge Catcher_202104.json
+            |-- Doge Coin Family_202104.json
+            |-- Doge Community_202104.json
+            |-- Doge Corleone_202104.json
+            |-- Doge Deeds_202104.json
+            |-- Doge Emperor_202104.json
+            |-- DOGE GREECE 🇬🇷_202104.json
+            |-- Doge Is The Future !!!!!!_202104.json
+            |-- DOGE LIFE X_202104.json
+            |-- Doge Madness_202104.json
+            |-- Doge Man R2D2_202104.json
+            |-- Doge Node Runner_202104.json
+            |-- Doge Norway_202104.json
+            |-- Doge of Wall St_202104.json
+            |-- DOGE OG_202104.json
+            |-- Doge Private_202104.json
+            |-- Doge Since Point 001_202104.json
+            |-- Doge To The Moon🌙_202104.json
+            |-- Doge Value_202104.json
+            |-- Doge Watch 🔭_202104.json
+            |-- Doge Whisperer 🐕_202104.json
+            |-- DOGE 🌙_202104.json
+            |-- Doge2Andromeda_202104.json
+            |-- DogeAlert.com_202104.json
+            |-- dogeallday✨_202104.json
+            |-- DogeBeMoonin_202104.json
+            |-- dogecoin 2.0_202104.json
+            |-- Dogecoin and Bitcoin Cryptocurrency_202104.json
+            |-- Dogecoin Army TR_202104.json
+            |-- DOGECOIN BALLERS 💛🦮💛🦮💛_202104.json
+            |-- Dogecoin Beast_202104.json
+            |-- DogeCoin boi_202104.json
+            |-- Dogecoin Bot_202104.json
+            |-- Dogecoin Bully_202104.json
+            |-- DogeCoin Community 🚀_202104.json
+            |-- DOGECOIN CONTACT LENS_202104.json
+            |-- Dogecoin Empire_202104.json
+            |-- Dogecoin Entertainment_202104.json
+            |-- Dogecoin Evolution_202104.json
+            |-- Dogecoin Explosion_202104.json
+            |-- dogecoin fl._202104.json
+            |-- Dogecoin For Life_202104.json
+            |-- Dogecoin for Tesla_202104.json
+            |-- Dogecoin Gen🦮_202104.json
+            |-- Dogecoin Global_202104.json
+            |-- DogeCoin Grower_202104.json
+            |-- Dogecoin HODLers 🚀_202104.json
+            |-- Dogecoin INDIA 🇮🇳_202104.json
+            |-- Dogecoin India 🇳🇪_202104.json
+            |-- DogeCoin London_202104.json
+            |-- Dogecoin Maximalist_202104.json
+            |-- Dogecoin McRibblets🏆_202104.json
+            |-- Dogecoin Meme Stash 🚀_202104.json
+            |-- Dogecoin memes_202104.json
+            |-- DogeCoin Miner_202104.json
+            |-- Dogecoin Moon $$$$$ let's go_202104.json
+            |-- DogeCoin Movement 🚀_202104.json
+            |-- Dogecoin News Hub_202104.json
+            |-- Dogecoin Nick_202104.json
+            |-- dogecoin of venice_202104.json
+            |-- Dogecoin OG_202104.json
+            |-- dogecoin papi_202104.json
+            |-- Dogecoin PK 🇵🇰_202104.json
+            |-- Dogecoin Price_202104.json
+            |-- Dogecoin Pusha_202104.json
+            |-- Dogecoin Queen 🤑_202104.json
+            |-- Dogecoin Rise Community 🇮🇳_202104.json
+            |-- Dogecoin Rise 🌎🚀🌕_202104.json
+            |-- Dogecoin Rocket 🐕🚀🌕_202104.json
+            |-- Dogecoin Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿_202104.json
+            |-- Dogecoin Seeker_202104.json
+            |-- dogeCoin Thomas_202104.json
+            |-- Dogecoin to the moon !!!!_202104.json
+            |-- DOGECOIN TO THE MOON 🚀_202104.json
+            |-- DOGECOIN to the Moon_202104.json
+            |-- DOGECOIN UNIVERSE_202104.json
+            |-- Dogecoin Whales 🐶_202104.json
+            |-- DOGECOIN _ CRYPTO UPDATES_202104.json
+            |-- Dogecoin&Safemoon_202104.json
+            |-- Dogecoin-zxtz_202104.json
+            |-- dogecoin100_202104.json
+            |-- Dogecoin13 𝕏 Đ 🚀_202104.json
+            |-- DogeCoin4Dayz_202104.json
+            |-- Dogecoin8807_202104.json
+            |-- DogecoinBoy98_202104.json
+            |-- DogeCoinHolder_202104.json
+            |-- dogecointicker_202104.json
+            |-- Dogecoinworldwide_202104.json
+            |-- dogecoin_202104.json
+            |-- Dogecoin_a_la_luna_202104.json
+            |-- Dogecoin_bot_202104.json
+            |-- Dogecoin_Mexico 🇲🇽_202104.json
+            |-- DogeCoin📈🌑#DogeCoin420_202104.json
+            |-- Dogecoin🥇_202104.json
+            |-- DogeFamMomma_202104.json
+            |-- DogeFather_202104.json
+            |-- DogeForward➡_202104.json
+            |-- DogeGalaxy ____ Ancientsoul Official_202104.json
+            |-- dogegod_202104.json
+            |-- DOGEHODLER_202104.json
+            |-- Dogeism_202104.json
+            |-- DogeLoke_202104.json
+            |-- DogeMeTooDeMoon_202104.json
+            |-- DOGEm_202104.json
+            |-- DogeNinja The 69th_202104.json
+            |-- DogePorn_202104.json
+            |-- DogeRomeo_202104.json
+            |-- Doger_202104.json
+            |-- DogeSchwartz_202104.json
+            |-- DogeSpartan🚀💎🙌_202104.json
+            |-- Dogetheking_202104.json
+            |-- DogeToMars Coin 🚀🔴_202104.json
+            |-- DogeYouKnow_202104.json
+            |-- doge_202104.json
+            |-- Doge_Galaxy_202104.json
+            |-- DOGUE_202104.json
+            |-- DOGUSwap - Swap 0% fee any Coin you have_202104.json
+            |-- DogWealth 💰_202104.json
+            |-- Dohh🚀_202104.json
+            |-- Domain Address Info_202104.json
+            |-- Don Boobleone_202104.json
+            |-- DoodBot_202104.json
+            |-- Doug Brown_202104.json
+            |-- Dr Serac Engerraund_202104.json
+            |-- Dr.HamidReza_202104.json
+            |-- Dr.Nowzaradan_202104.json
+            |-- DreamTanks_202104.json
+            |-- Dream💭_202104.json
+            |-- Drew_202104.json
+            |-- Drew₿ull_202104.json
+            |-- DRTY GZUS_202104.json
+            |-- dtdking_202104.json
+            |-- DTM_202104.json
+            |-- DVuS_202104.json
+            |-- Dylan D Fleck_202104.json
+            |-- Dylan T._202104.json
+            |-- Dylan_202104.json
+            |-- D_202104.json
+            |-- E J 🏀_202104.json
+            |-- Eddie M_202104.json
+            |-- Eddie Rodriguez_202104.json
+            |-- Eddy Aman_202104.json
+            |-- Eddymunnyz_202104.json
+            |-- eduardo garcia_202104.json
+            |-- Edward Paperhands_202104.json
+            |-- EGOD_202104.json
+            |-- Eisa_202104.json
+            |-- Eish_202104.json
+            |-- El Gordo_202104.json
+            |-- El Güero Palma_202104.json
+            |-- El Man De La Hora_202104.json
+            |-- El Señor de los Acciones_202104.json
+            |-- Elon Dogecoin_202104.json
+            |-- Elvis_202104.json
+            |-- Emanuele Sertini_202104.json
+            |-- Emilio_202104.json
+            |-- EMMYLOVE_202104.json
+            |-- Erakinz_202104.json
+            |-- Eric Hines_202104.json
+            |-- Eric Ridgeway_202104.json
+            |-- eric_202104.json
+            |-- Erika_202104.json
+            |-- Eshel3427_202104.json
+            |-- Ethan_202104.json
+            |-- Evan_202104.json
+            |-- Evert Estrada_202104.json
+            |-- Express Business New_202104.json
+            |-- EzewestEmpire.com_202104.json
+            |-- e_202104.json
+            |-- F7ASH7_202104.json
+            |-- Factiive_202104.json
+            |-- Fadilija_202104.json
+            |-- Fahrid_202104.json
+            |-- FailuretoSuccess_202104.json
+            |-- Farid Ait Benali_202104.json
+            |-- fatboyfreddys_202104.json
+            |-- FiduLink ®_202104.json
+            |-- Fin_202104.json
+            |-- Firas_202104.json
+            |-- Fire Memecoins_202104.json
+            |-- Fitness Ventures_202104.json
+            |-- FIVETHOUSAND_202104.json
+            |-- Flare Community ☀️_202104.json
+            |-- Flash - Dogecoin_202104.json
+            |-- flowing37🐶_202104.json
+            |-- FNOD - Financial Fred_202104.json
+            |-- Fntx moon_202104.json
+            |-- Forsaken🇺🇸_202104.json
+            |-- Francisco Pinto._202104.json
+            |-- Franco Colomba_202104.json
+            |-- Frank The Tank_202104.json
+            |-- Freedman FBA_202104.json
+            |-- Freedom Legion_202104.json
+            |-- FreedomÐoge_202104.json
+            |-- Fronk_202104.json
+            |-- Frosty_202104.json
+            |-- FutureMan_202104.json
+            |-- FxEnabler_202104.json
+            |-- FÐ ✪_202104.json
+            |-- Gabriel_202104.json
+            |-- Galactic FizzPop_202104.json
+            |-- gala_202104.json
+            |-- GalleyNation_202104.json
+            |-- Gambit🃏Gambler_202104.json
+            |-- gary singh1_13_202104.json
+            |-- Gauss_202104.json
+            |-- Geedot media_202104.json
+            |-- General Ty 👑👑❤️❤️_202104.json
+            |-- getdogecoins.com_202104.json
+            |-- geudi_king_doge▫️_202104.json
+            |-- GGrim714_202104.json
+            |-- GG_202104.json
+            |-- GhostEssentials_202104.json
+            |-- Gid_202104.json
+            |-- GigaɃitcoin_202104.json
+            |-- GiGi of DOGE, The Best Crypto Family!!_202104.json
+            |-- Gilly™_202104.json
+            |-- Ginger Bustamante_202104.json
+            |-- Gio Ant_202104.json
+            |-- Giovanna Sun_202104.json
+            |-- Gisela_202104.json
+            |-- Giuseppe Dicuonzo_202104.json
+            |-- Glassman0918_202104.json
+            |-- glauco.martins_202104.json
+            |-- GO ⚡️DOGECOIN_202104.json
+            |-- Gober_202104.json
+            |-- Golden State Pickers_202104.json
+            |-- Gold_202104.json
+            |-- Goodluck McCyprian_202104.json
+            |-- GoodShibe_202104.json
+            |-- GooseTavo 🎭_202104.json
+            |-- Grazi.miami ❤️🐕🙏🏻_202104.json
+            |-- greg_202104.json
+            |-- GRUMPYTAC0S_202104.json
+            |-- gulizar Aktas_202104.json
+            |-- Guns_202104.json
+            |-- GuriqbalSinghDhillon_202104.json
+            |-- gustavo cortez_202104.json
+            |-- Gustavo Dias_202104.json
+            |-- G_202104.json
+            |-- haleh_202104.json
+            |-- HalfTime Zone_202104.json
+            |-- Hank_202104.json
+            |-- Happy Bagh⭕️lder_202104.json
+            |-- Harshad Joshi_202104.json
+            |-- Health and Beauty tips & Products._202104.json
+            |-- Hector_202104.json
+            |-- Hendrik Hooivork_202104.json
+            |-- Henry G.R_202104.json
+            |-- hePirateT_202104.json
+            |-- Her Crypto Highness_202104.json
+            |-- HEXRTFXCE_202104.json
+            |-- Hi-Rez The Rapper_202104.json
+            |-- HIGHWAY RAIDER_202104.json
+            |-- HippE_202104.json
+            |-- HK 🇺🇸🇬🇧_202104.json
+            |-- HOLDOGE_202104.json
+            |-- Holistic ƉOGE 𝕏_202104.json
+            |-- Holy Truth_202104.json
+            |-- Home of the Dogecoin_202104.json
+            |-- hoolu lilu_202104.json
+            |-- Hoot Hoot_202104.json
+            |-- Hooti_202104.json
+            |-- Hourly latest on Crypto, Fintech and Blockchain_202104.json
+            |-- houseperu_202104.json
+            |-- Howard of DoGe_202104.json
+            |-- HS 🐂_202104.json
+            |-- hua_202104.json
+            |-- HudL_202104.json
+            |-- Humble Beginnings_202104.json
+            |-- Hunter_202104.json
+            |-- H_202104.json
+            |-- i F____ ingLost_202104.json
+            |-- IAI1_202104.json
+            |-- IAMTOYAALISHA_202104.json
+            |-- iamwizzerd_202104.json
+            |-- Ian_202104.json
+            |-- ibeshocker_202104.json
+            |-- idil_202104.json
+            |-- Ilich_pe_202104.json
+            |-- illgottengains_202104.json
+            |-- IMKEV1N_202104.json
+            |-- ImpliedLies_202104.json
+            |-- In EGOD we trust “VUSD”🐶_202104.json
+            |-- Indiana Taylor_202104.json
+            |-- Indian_Alexei_Navalny_202104.json
+            |-- Indian_arts_202104.json
+            |-- InDogeWeTrust_202104.json
+            |-- Infinindy_202104.json
+            |-- Insider Cow_202104.json
+            |-- Insider Crypto - Crypto News_202104.json
+            |-- Insider Finance_202104.json
+            |-- Institutional Trading Dogecoin; Not Advice_202104.json
+            |-- Interstella 5555_202104.json
+            |-- Introae_202104.json
+            |-- InvestorDrissa💚(Ø,G)_202104.json
+            |-- InvestorPlace_202104.json
+            |-- Irony💡🐒_202104.json
+            |-- Isaac_202104.json
+            |-- isaac’s trade_202104.json
+            |-- isse_202104.json
+            |-- Its Pat 🐕🚀🌕 🆙️_202104.json
+            |-- its_arthur_202104.json
+            |-- Ivan_202104.json
+            |-- Izzak 🚀🐶🍿🎥🌈_202104.json
+            |-- J U B A_202104.json
+            |-- J ₿r₳nÐon {✖}_202104.json
+            |-- Jack Barbosa_202104.json
+            |-- Jack Harmis_202104.json
+            |-- jackamo_202104.json
+            |-- JackOf-ArtShop.com_202104.json
+            |-- Jackson Glasser🎶🎹_202104.json
+            |-- Jack_202104.json
+            |-- Jacob_202104.json
+            |-- Jake_202104.json
+            |-- JAllen_202104.json
+            |-- James CryptoGuru_202104.json
+            |-- James_202104.json
+            |-- Jane Roe_202104.json
+            |-- Jared J Rodriguez_202104.json
+            |-- Jasmine Singh_202104.json
+            |-- Jason_202104.json
+            |-- Javi_202104.json
+            |-- Jay - The Doge Dude_202104.json
+            |-- Jay Yan_202104.json
+            |-- JayCruz- #TitanUP ⚔️_202104.json
+            |-- jaydahit_202104.json
+            |-- Jaydee_202104.json
+            |-- jaysmxke7_202104.json
+            |-- Jay_202104.json
+            |-- JaY🥀🍷😋 🌙_202104.json
+            |-- JazzedJerry_202104.json
+            |-- JBenso_202104.json
+            |-- JB💫_202104.json
+            |-- Jcoop720_202104.json
+            |-- JDInvest_202104.json
+            |-- JDT_202104.json
+            |-- Jean J. Giron_202104.json
+            |-- Jeff OClair_202104.json
+            |-- Jefoss_202104.json
+            |-- Jen V.🌹🌹🌹🌹_202104.json
+            |-- Jeremy Conrad roth_202104.json
+            |-- jeremy dietrich_202104.json
+            |-- Jeremy_202104.json
+            |-- Jerm_202104.json
+            |-- Jesse_202104.json
+            |-- Jessica Hidgens_202104.json
+            |-- Jessir_202104.json
+            |-- Jesus Dominguez_202104.json
+            |-- JFL012_202104.json
+            |-- JF_202104.json
+            |-- Jgibbs1974_202104.json
+            |-- JG_1033_202104.json
+            |-- jimmy Dogefamforever_202104.json
+            |-- Jimmy Santos_202104.json
+            |-- Jimmy_202104.json
+            |-- JimScary_202104.json
+            |-- Jim_202104.json
+            |-- Jocel de Guzman_202104.json
+            |-- Jodi_202104.json
+            |-- Joe Duncan_202104.json
+            |-- Joe Weisenthal_202104.json
+            |-- Joel_202104.json
+            |-- Joe_202104.json
+            |-- Johann de Beer_202104.json
+            |-- John Courtney-Soper_202104.json
+            |-- John Morgan_202104.json
+            |-- John W. Rich (Wealthy)_202104.json
+            |-- John Ðoge_202104.json
+            |-- John Ɖ. Rich (Wealthy Doge)_202104.json
+            |-- JohnLikesDOGE_202104.json
+            |-- John_202104.json
+            |-- Jojo wang_202104.json
+            |-- JoKadir_202104.json
+            |-- Jonas_202104.json
+            |-- Jonathan_202104.json
+            |-- Jon_202104.json
+            |-- Jordan W, WarnedWhitey96 🎮_202104.json
+            |-- Jordan_202104.json
+            |-- Jorge Silva_202104.json
+            |-- Jorge_202104.json
+            |-- Joseph C_202104.json
+            |-- Joseph Sunga_202104.json
+            |-- Joseph_202104.json
+            |-- Jose_202104.json
+            |-- Josh38900_202104.json
+            |-- Josh_202104.json
+            |-- Jovi_202104.json
+            |-- JP_202104.json
+            |-- JT_202104.json
+            |-- Ju$￦xrdz_202104.json
+            |-- Juan Calvino 𝕏Đ_202104.json
+            |-- Juan Carlos Gonzalo_202104.json
+            |-- JUICE_202104.json
+            |-- Julian Lee_202104.json
+            |-- Junior_202104.json
+            |-- Just Your Average Bob_202104.json
+            |-- JustCallMeDoge_202104.json
+            |-- Justin Obody_202104.json
+            |-- Justin_202104.json
+            |-- J_202104.json
+            |-- József Bóbis_202104.json
+            |-- K8 Ape_202104.json
+            |-- kalila 🐶_202104.json
+            |-- kama_d_luffy_202104.json
+            |-- kat kot_202104.json
+            |-- KAWASAN INDUSTRI SADAI_202104.json
+            |-- Kay22330_202104.json
+            |-- Kaya_202104.json
+            |-- Ka⚡️ Tesla🟡Ð_202104.json
+            |-- KD_202104.json
+            |-- Keeping It Krypto_202104.json
+            |-- Kelly Martin_202104.json
+            |-- Kenos_202104.json
+            |-- KeonTHFC_202104.json
+            |-- Kevin Skipp_202104.json
+            |-- Kevin_202104.json
+            |-- kinda hopeless_202104.json
+            |-- KingKreative_202104.json
+            |-- KingNry9_202104.json
+            |-- KingSwaeLi_TTV_202104.json
+            |-- Kirstyn_202104.json
+            |-- kismet.eth ⭕ _ The Pixlverse 🧨_202104.json
+            |-- KITE🏄‍♂️🐕_202104.json
+            |-- kjcarrington_202104.json
+            |-- klutchmamba_202104.json
+            |-- Koyote Jag_202104.json
+            |-- KPid10t_202104.json
+            |-- KryptoCam_202104.json
+            |-- KsDAYI_202104.json
+            |-- Kurdi84_202104.json
+            |-- Kyle_202104.json
+            |-- ky_202104.json
+            |-- La Vigilante_202104.json
+            |-- LadyR_202104.json
+            |-- lamih rüzgar_202104.json
+            |-- Lancestipher_202104.json
+            |-- Latest Crypto XRP_202104.json
+            |-- Laura Blacyki aka Lux Lee Trudeau_202104.json
+            |-- Layce305_202104.json
+            |-- LBDRACULINO_202104.json
+            |-- Lee_202104.json
+            |-- LeftLane_202104.json
+            |-- leheretic_202104.json
+            |-- LEON_202104.json
+            |-- Leo_202104.json
+            |-- LewisGramilton_202104.json
+            |-- Lg Shurley_202104.json
+            |-- LilHumansBigImpact_202104.json
+            |-- liljazin_202104.json
+            |-- Lisa_202104.json
+            |-- Literal Cup of Coffee_202104.json
+            |-- Living with Luci 🏹_202104.json
+            |-- Liza Jane Jardiolin_202104.json
+            |-- Long Live The Chief_202104.json
+            |-- lou wise_202104.json
+            |-- louisvski_202104.json
+            |-- Lovely_AndReally_Lucky(Egod(Gyzx))_202104.json
+            |-- LTN 🐝_202104.json
+            |-- Lucci 🇺🇸🐕_202104.json
+            |-- LuckyLuger_202104.json
+            |-- LUCY2.0❤️‍🔥✨🌙_202104.json
+            |-- Luigi Marcon [NO2X]_202104.json
+            |-- Luis Angel Lopez_202104.json
+            |-- Luis Costa Jr._202104.json
+            |-- Luis Mendoza_202104.json
+            |-- Luis Villagran_202104.json
+            |-- Luis_202104.json
+            |-- luna shop_202104.json
+            |-- LunarCrush Developers_202104.json
+            |-- LunarCrush.com Social Data_202104.json
+            |-- Lynn Muri 🤑_202104.json
+            |-- Líque_202104.json
+            |-- Mabast Bahaden_202104.json
+            |-- MAC2009_202104.json
+            |-- Mack_202104.json
+            |-- MAGA HARRY, BABY!_202104.json
+            |-- MainStreet₿itcoin 👑_202104.json
+            |-- MaNiC_202104.json
+            |-- MansionsArizona_202104.json
+            |-- Marcin Kulxxx_202104.json
+            |-- MareitoMaremoto X_202104.json
+            |-- Marilyn Manson_202104.json
+            |-- Mario A Moreno_202104.json
+            |-- Mario Leal_202104.json
+            |-- Mark 1010 __ Vtopia_202104.json
+            |-- Mark Rochefort_202104.json
+            |-- mark._202104.json
+            |-- Mark_202104.json
+            |-- Marlon Morales 🇨🇭_202104.json
+            |-- martiandoge.ᵉᵗʰ🐕🚀🔴_202104.json
+            |-- mary🍀_202104.json
+            |-- Master J_202104.json
+            |-- Matt Schroeder_202104.json
+            |-- Matt Wallace_202104.json
+            |-- Matthew_202104.json
+            |-- Matt_202104.json
+            |-- Max DeGilio_202104.json
+            |-- Max Lasater 🌐_202104.json
+            |-- MayzeRunnuh.Cro♐️🔮💜🧬🎆_202104.json
+            |-- Mazzadogeio 🐕🌔🚀_202104.json
+            |-- McGuire_202104.json
+            |-- Mclovin_202104.json
+            |-- MD MOHOSIN MIAH_202104.json
+            |-- Md Nahid_202104.json
+            |-- MD SAJON .ink_202104.json
+            |-- MEGA DONKEY_202104.json
+            |-- Mehmet Ali Şahin 🗨️_202104.json
+            |-- Melissa Myers_202104.json
+            |-- MeloDramatical𐚁💙🐝_202104.json
+            |-- Mercuryo_202104.json
+            |-- Meta Crypto_202104.json
+            |-- Me_202104.json
+            |-- MF Astros_202104.json
+            |-- Mia_202104.json
+            |-- Michael Aud_202104.json
+            |-- Michael John_202104.json
+            |-- Michael Nuclear MAGA Musmeci_202104.json
+            |-- Michael Rufus_202104.json
+            |-- Michael Spencer_202104.json
+            |-- Michael_202104.json
+            |-- Miguel_202104.json
+            |-- Mike Smith_202104.json
+            |-- MikeDoge_202104.json
+            |-- MikeMW69420_202104.json
+            |-- Mike_202104.json
+            |-- MIRROY_202104.json
+            |-- Mirza Dedic_202104.json
+            |-- Misaelito_202104.json
+            |-- Moby_202104.json
+            |-- moderate rock_202104.json
+            |-- Moe_202104.json
+            |-- moe_dolla24_202104.json
+            |-- mofeed shaibi_202104.json
+            |-- Mohammad_202104.json
+            |-- MommaBear_202104.json
+            |-- Moonlit Monkey_202104.json
+            |-- Moon🌙DogeCoin🚀_202104.json
+            |-- Moore NFTs_202104.json
+            |-- Morgan Ralston_202104.json
+            |-- morminder35_202104.json
+            |-- Morpheus Much WoW 🇦🇺✝️🇮🇱_202104.json
+            |-- mory_202104.json
+            |-- Mouhamad_202104.json
+            |-- MR NELSON 🏆⚽🏆💯% SURE FIXED ODDS⚽+2349130565537_202104.json
+            |-- Mr Peanutbutter 🇫🇷_202104.json
+            |-- Mr TAAP_202104.json
+            |-- Mr. Bravo 🅱️_202104.json
+            |-- Mr. Doge and the coin_202104.json
+            |-- Mr. E - BAPsy, CST, CHEP 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇺🇸_202104.json
+            |-- Mr. Galaxy_202104.json
+            |-- Mr. H 🦑_202104.json
+            |-- Mr. Krab$_202104.json
+            |-- Mr.Perfectionist_202104.json
+            |-- mrmarceau5@gmail.com_202104.json
+            |-- MrNaTic_202104.json
+            |-- Mrs.Doge_202104.json
+            |-- MrWhoIsThis_202104.json
+            |-- Ms. Coffee_202104.json
+            |-- MuchDogeCurrency_202104.json
+            |-- Muddymuddigan_202104.json
+            |-- Muhammad usama_202104.json
+            |-- Muhammed Demirbaş 🇹🇷_202104.json
+            |-- Muktilandia_202104.json
+            |-- MuskBrat_202104.json
+            |-- muuuman_202104.json
+            |-- MXC EXCHANCE_202104.json
+            |-- Myco_202104.json
+            |-- M_202104.json
+            |-- M_Brae_202104.json
+            |-- Nahua Capital_202104.json
+            |-- Name cannot be blank_202104.json
+            |-- NAT TURNER’S REINCARNATION_202104.json
+            |-- Nate Bull_202104.json
+            |-- Nate_202104.json
+            |-- Need+more+dogecoin=😀_202104.json
+            |-- neo_125_202104.json
+            |-- Nettles_202104.json
+            |-- NettoBrasil_202104.json
+            |-- Next Up NFT’s 🔥_202104.json
+            |-- NextBillionaire_202104.json
+            |-- NFK_202104.json
+            |-- NFT kid “Keith Berry”_202104.json
+            |-- NFT Power Broker_202104.json
+            |-- NFTs Everyday_202104.json
+            |-- Nicholas L. Maze_202104.json
+            |-- Nicholas_202104.json
+            |-- Nick Ballz_202104.json
+            |-- Nick Ellis_202104.json
+            |-- Nick Petisce (Dogecoin Millionaire)_202104.json
+            |-- Nick Tucker_202104.json
+            |-- Nick_202104.json
+            |-- Nihad Vatreš ⚜️_202104.json
+            |-- nikki_202104.json
+            |-- Nikosmantarlis_202104.json
+            |-- Niroj Shanker Shrestha_202104.json
+            |-- Nitesh Bansal_202104.json
+            |-- nj doge_202104.json
+            |-- Noble Joe_202104.json
+            |-- nobody_202104.json
+            |-- Noel_202104.json
+            |-- norman yates_202104.json
+            |-- NotesFrom.NET_202104.json
+            |-- No_Name_202104.json
+            |-- Nu3 ebay_202104.json
+            |-- O.G. Doger_202104.json
+            |-- Oddie The Ðoge_202104.json
+            |-- Ohio Wrexham - M_A_S_H_202104.json
+            |-- Omar_202104.json
+            |-- OMG FUNK_202104.json
+            |-- Onell Aquino_202104.json
+            |-- OneSpicyMeatBall_202104.json
+            |-- OnlyLima_202104.json
+            |-- Onyx C Quill_202104.json
+            |-- Oonabot_202104.json
+            |-- Optimouse_202104.json
+            |-- Option Buyer India 🇮🇳_202104.json
+            |-- Otchi Okamania_202104.json
+            |-- overtime freedom_202104.json
+            |-- OxNation_202104.json
+            |-- PakeDriver.com 🅿️_202104.json
+            |-- Pardon Ross_202104.json
+            |-- Parisblue_202104.json
+            |-- par_202104.json
+            |-- Paul F ❤️⚡️⚡️🐶⚡️⚡️🦀🦍🌖⬆️_202104.json
+            |-- Paul_202104.json
+            |-- pedram_202104.json
+            |-- peppa stan_202104.json
+            |-- Percy Gibbons AKA 'The Fart Goblin'_202104.json
+            |-- Perfect Timing Podcast_202104.json
+            |-- Pete M._202104.json
+            |-- Peter Chavez_202104.json
+            |-- Peter Doge Trainer (✸,✸)_202104.json
+            |-- Picasso_202104.json
+            |-- Pif_202104.json
+            |-- Pillsbury Dogeboi_202104.json
+            |-- Pilot Matt_202104.json
+            |-- pilot_202104.json
+            |-- PineappleStocks_202104.json
+            |-- PJ_202104.json
+            |-- Pmacadoodle_202104.json
+            |-- pnwasteland_202104.json
+            |-- PoisonClanTechniques_202104.json
+            |-- Poisonous Pinups LLC🍒🐍NFTNYC2023_24 VIP Speaker_202104.json
+            |-- Pompcoin_202104.json
+            |-- PopulationPaste_202104.json
+            |-- Possum_202104.json
+            |-- Prince_202104.json
+            |-- profitvision_202104.json
+            |-- Promotional Advertisement_202104.json
+            |-- Psychic_Pav_202104.json
+            |-- PumpMoonshot_202104.json
+            |-- PYREX PRIME MINISTER_202104.json
+            |-- Quant Data_202104.json
+            |-- QueenDOGE 👑🐾🦄_202104.json
+            |-- Quesi_202104.json
+            |-- Rafayel Mkrtchyan_202104.json
+            |-- Rafe Mahmud_202104.json
+            |-- Rahman Şahin_202104.json
+            |-- Rahul khatri_202104.json
+            |-- raidho laguz_202104.json
+            |-- Raja Ali Riaz_202104.json
+            |-- Ramon L_202104.json
+            |-- rar0uni_202104.json
+            |-- RaribleBot_202104.json
+            |-- Rayan Belfort_202104.json
+            |-- Ray_202104.json
+            |-- Raz Khan_202104.json
+            |-- ra_202104.json
+            |-- Re-Up Gang Clips 🎥 MOST HATED_202104.json
+            |-- Read Scoops_202104.json
+            |-- REAL ENGINEERED LIFE_202104.json
+            |-- Real Talk_202104.json
+            |-- ReauMoon_202104.json
+            |-- ReelGooodMemes_202104.json
+            |-- Renevdriel_202104.json
+            |-- Resilient168_202104.json
+            |-- Retro Coast_202104.json
+            |-- Ret_202104.json
+            |-- Rich 616_202104.json
+            |-- Richard L ✈_202104.json
+            |-- Richard_202104.json
+            |-- Ripe News_202104.json
+            |-- RiSeR (doge)_202104.json
+            |-- Rm_202104.json
+            |-- Robert B Willsey_202104.json
+            |-- Robert Petty_202104.json
+            |-- Robert Vogan_202104.json
+            |-- Robert William Griffin III_202104.json
+            |-- Robert.Eth_202104.json
+            |-- Robert_202104.json
+            |-- RoboDoge_202104.json
+            |-- Roby Siciliano_202104.json
+            |-- Rob_202104.json
+            |-- RoliSOuLi 🦋🔜🍯_202104.json
+            |-- RollerKing_202104.json
+            |-- Romero_202104.json
+            |-- Ronnie St. Pierre_202104.json
+            |-- Ron_202104.json
+            |-- Rosin Cane_202104.json
+            |-- Roxy811_202104.json
+            |-- Roy_202104.json
+            |-- Russell_202104.json
+            |-- Ryan Stack_202104.json
+            |-- Ryan_202104.json
+            |-- Rylan_202104.json
+            |-- RZG_202104.json
+            |-- r_dogecoin_202104.json
+            |-- RΞX_202104.json
+            |-- Sacred Red Feather 🪶_202104.json
+            |-- Sadia 👑_202104.json
+            |-- SafeDogeEnthusiast_202104.json
+            |-- Saltripin Guitar and Pedal Co_202104.json
+            |-- Sam 🌻_202104.json
+            |-- Samantha Lee_202104.json
+            |-- Sam_202104.json
+            |-- Sara Banks - We Live In A Society_202104.json
+            |-- Sarah Blockchain 🔶🌐_202104.json
+            |-- Saran Smith_202104.json
+            |-- Sas Rares_202104.json
+            |-- Saurabh Sharma_202104.json
+            |-- SC86CS_202104.json
+            |-- ScottyDOESknow_202104.json
+            |-- Scott_202104.json
+            |-- Scrooge McBux_202104.json
+            |-- Sean Williams_202104.json
+            |-- Sean_202104.json
+            |-- Second Attention_202104.json
+            |-- SephirothRising XS 🇺🇸_202104.json
+            |-- Serhii Holub $SOL ⤵️_202104.json
+            |-- SEUNGHWAN SONG_202104.json
+            |-- SEVEN._202104.json
+            |-- SGT Esco _202104.json
+            |-- Sgt.at Arms Dogearmy_202104.json
+            |-- Shamir Givens 🚀_202104.json
+            |-- shawn russell🧸_202104.json
+            |-- Shayan Edalati_202104.json
+            |-- sheeeesh_202104.json
+            |-- Shelly VR Warrior_202104.json
+            |-- Shibatoshi Nafomoto 🇺🇦_202104.json
+            |-- Shiba_202104.json
+            |-- Shibewalker_202104.json
+            |-- Shill N Kill_202104.json
+            |-- Shine E-Commerce_202104.json
+            |-- shirley_202104.json
+            |-- ShootingStar_202104.json
+            |-- SidxCrypto_202104.json
+            |-- SiegeMoto🌕🏴‍☠️_202104.json
+            |-- Significant_Win _Satirical - as per Elon__202104.json
+            |-- Simone Remoli 🇮🇹_202104.json
+            |-- Simone_202104.json
+            |-- Sim_202104.json
+            |-- SipGrab_202104.json
+            |-- Sir Doge of the Coin ⚔️_202104.json
+            |-- SIR DOGEMAYNE_202104.json
+            |-- Sir_Komaandy_Dogecoin_GER 𝕏Ð_202104.json
+            |-- SkinnyWalletbro_202104.json
+            |-- Skochᶰᶠᵗ _202104.json
+            |-- Skyranch, LLC._202104.json
+            |-- Skyrod 🏳️‍🌈 🖖 (he_him)_202104.json
+            |-- SLEEXOO ♐️_202104.json
+            |-- SlingShot_202104.json
+            |-- SlumDOGE Millionaire_202104.json
+            |-- Smeagol_202104.json
+            |-- Smokedogge_202104.json
+            |-- Snoop-Doge$_202104.json
+            |-- Social Mortgage_202104.json
+            |-- sohaib o essa_202104.json
+            |-- Sonya Babe_202104.json
+            |-- Soraya Imperial_202104.json
+            |-- Spencer_202104.json
+            |-- Spud_202104.json
+            |-- Stani Mx_202104.json
+            |-- Star Trek Fan_202104.json
+            |-- StechiteGist TV_202104.json
+            |-- Stephen_202104.json
+            |-- steven_202104.json
+            |-- Steves Opinions_202104.json
+            |-- Steve_202104.json
+            |-- STEVIEBOY_202104.json
+            |-- Still Human_202104.json
+            |-- Stock Profit Secrets_202104.json
+            |-- STOCK-A-DAMUS_202104.json
+            |-- Stocks & Crypto_202104.json
+            |-- Stocks News Feed_202104.json
+            |-- StormX ⛈ Doge 🇬🇾🇺🇸_202104.json
+            |-- Stryker_202104.json
+            |-- STUDIO192.NL_202104.json
+            |-- ST_202104.json
+            |-- Sweet Laura_202104.json
+            |-- S_202104.json
+            |-- tankmcmanus_202104.json
+            |-- Tarık Aslan_202104.json
+            |-- TbayMufon_202104.json
+            |-- Teddy Roosevelt 🇺🇸✝️_202104.json
+            |-- TeviLawson.eth_202104.json
+            |-- Thankful_202104.json
+            |-- ThatsWhatsUp_202104.json
+            |-- The artist by JF_202104.json
+            |-- The Big Valbowski_202104.json
+            |-- The Coin Detective_202104.json
+            |-- The Dogecoin Family_202104.json
+            |-- The Dog_202104.json
+            |-- The Duke Of DogeCoin_202104.json
+            |-- The Fringed Wall_202104.json
+            |-- the goat_202104.json
+            |-- The Guy_202104.json
+            |-- the inferno_202104.json
+            |-- The Kennel 💪🇺🇸_202104.json
+            |-- The Loot_202104.json
+            |-- The Real Jay Bogart_202104.json
+            |-- The real Mr. Crayon_202104.json
+            |-- The Real Slim Doge 🐕🚀🌕_202104.json
+            |-- The Republic of Dogelandia_202104.json
+            |-- The Science_202104.json
+            |-- The spartan_202104.json
+            |-- The Unfinished Library_202104.json
+            |-- The Wise Crow 1_202104.json
+            |-- The Wolf of Sesame Street_202104.json
+            |-- The Ðoge Movement_202104.json
+            |-- The Ðogefather_202104.json
+            |-- The Đoge_202104.json
+            |-- TheCryptoTrucker DogeCoin Chat_202104.json
+            |-- TheeÐogeC₳tcher_202104.json
+            |-- Theknee_202104.json
+            |-- TheRedditStatistician_202104.json
+            |-- Theresa Lynn_202104.json
+            |-- Thesadbear_202104.json
+            |-- Theseus 😈_202104.json
+            |-- TheyCallMeNyquil_202104.json
+            |-- TheÐoge ❤️🐸🔆_202104.json
+            |-- TheÐogeGlory_202104.json
+            |-- Thinker_202104.json
+            |-- Thomas_202104.json
+            |-- thoughts of a millionaire_202104.json
+            |-- Tiberius Monk_202104.json
+            |-- TIKSTER_202104.json
+            |-- Tim_202104.json
+            |-- Tj_202104.json
+            |-- To The Shmoon !_202104.json
+            |-- toadsuck85_202104.json
+            |-- Todd Tuller_202104.json
+            |-- Todd wade_202104.json
+            |-- Tommy P_202104.json
+            |-- Tommy_202104.json
+            |-- Tonebone_202104.json
+            |-- Tonyanthony_202104.json
+            |-- Tony_202104.json
+            |-- Topher_202104.json
+            |-- Tourves_202104.json
+            |-- TowelieTrades_202104.json
+            |-- toxinburn_202104.json
+            |-- Trade Moneta_202104.json
+            |-- Trade the journey_202104.json
+            |-- Trader Fred_202104.json
+            |-- Trader🎻_202104.json
+            |-- Trainer Intentions_202104.json
+            |-- Travito_202104.json
+            |-- Trey Edwards_202104.json
+            |-- Trish Bentley_202104.json
+            |-- Tristan Reparejo BSN, RN_202104.json
+            |-- Trooper Terry_202104.json
+            |-- Trusting In Him!_202104.json
+            |-- Tsar ĐOGE_202104.json
+            |-- Tspooky_202104.json
+            |-- Tuff Laun_202104.json
+            |-- Turab Awan_202104.json
+            |-- Tyler Le_202104.json
+            |-- Tyler_202104.json
+            |-- tzahtzah_202104.json
+            |-- T_202104.json
+            |-- U.S. News Investing_202104.json
+            |-- UAPkisho_202104.json
+            |-- UFMJA_202104.json
+            |-- Uhriaha Aguilar_202104.json
+            |-- Uncle Carlos_202104.json
+            |-- UnderdogAI_202104.json
+            |-- Underrated tweet police 🚔 🚔_202104.json
+            |-- Ur CryptoFlipper_202104.json
+            |-- uwaru_202104.json
+            |-- vaguito_202104.json
+            |-- Vanpotheosis_202104.json
+            |-- vee hutchinson_202104.json
+            |-- Vellorian_202104.json
+            |-- Via News_202104.json
+            |-- Viking Rocket_202104.json
+            |-- VIRBESTO aka MONROE_202104.json
+            |-- Viriatus of Lvsitania_202104.json
+            |-- vitamin D(doge)🐕🪙🚀🌑$sage_202104.json
+            |-- Vito Covalucci_202104.json
+            |-- vi_202104.json
+            |-- Von Egod_202104.json
+            |-- von_202104.json
+            |-- Vormin666_202104.json
+            |-- V_202104.json
+            |-- Wario_Musk_202104.json
+            |-- WeAmDoge_202104.json
+            |-- webnow🌎_202104.json
+            |-- Weechii_202104.json
+            |-- Weirdo_202104.json
+            |-- wendoge_202104.json
+            |-- Wener Parker 🇻🇪_202104.json
+            |-- We’reAllThinkingItSoI’llSayit!_202104.json
+            |-- Wgl03_202104.json
+            |-- Whispers In The Corridors_202104.json
+            |-- White House of Doge_202104.json
+            |-- Wil Lemus_202104.json
+            |-- William Brown_202104.json
+            |-- William Gonzalez_Real Estate Broker_202104.json
+            |-- William_202104.json
+            |-- Willy 0ne$LYNK_202104.json
+            |-- Will_202104.json
+            |-- With All Marbles_202104.json
+            |-- Wolfie Woof_202104.json
+            |-- WSB Army_202104.json
+            |-- WSB Trader Rocko 🚀🚀🚀_202104.json
+            |-- X Dayan_202104.json
+            |-- Xander_202104.json
+            |-- xChuckWagonx_202104.json
+            |-- XRP Coins Army 🚀🚀🌕🌕 $100_202104.json
+            |-- xxDirtyDogexx_202104.json
+            |-- xXxSpyderxXx_202104.json
+            |-- X_202104.json
+            |-- yan_202104.json
+            |-- Yassin_202104.json
+            |-- Yazan AD_202104.json
+            |-- YeahNo😟_202104.json
+            |-- Yoshua Dogeberry_202104.json
+            |-- YouDontKnough_202104.json
+            |-- youknowhowibe_202104.json
+            |-- youngjuice_202104.json
+            |-- Yusuf_202104.json
+            |-- YY GA_202104.json
+            |-- Z()haK_202104.json
+            |-- Zach - Soberpreneur 📲🌪💰⚡️💵_202104.json
+            |-- ZachKlein_202104.json
+            |-- Zack @ Genzio_202104.json
+            |-- zackos_202104.json
+            |-- Zay_202104.json
+            |-- ZES_202104.json
+            |-- Zhenya Matviichuk_202104.json
+            |-- Zinsouvi celin_202104.json
+            |-- Zubin Anary (aka 1FastEV)_202104.json
+            |-- _Theon_222_202104.json
+            |-- _🇬🇧 SMITH ✡_202104.json
+            |-- Ðan_202104.json
+            |-- ÐOGE Climber 🐕⛰_202104.json
+            |-- Ðoge Hippie_202104.json
+            |-- Ðogecoin Boss Ⓜ️🕸️_202104.json
+            |-- Ðoge~Panda_202104.json
+            |-- ÐyLaN 𝕏Ð_202104.json
+            |-- Ððge Musk_202104.json
+            |-- Ðᴏɢᴇᴢɪʟʟᴀ 𝕏_202104.json
+            |-- Đamien_202104.json
+            |-- ĐOGE LOVER 💎🙌_202104.json
+            |-- ĐOGE Âmbassador©️_202104.json
+            |-- ĐOGEARMY GENERAL_202104.json
+            |-- Đogedollar_202104.json
+            |-- Đ_Monkey_202104.json
+            |-- Đ☾ǥē Ƀɍøs_202104.json
+            |-- ŠíÑǹÖҪҽÑț™_202104.json
+            |-- Ɖoge Digest_202104.json
+            |-- ƉOGECOIN 𝕏 POST_202104.json
+            |-- Ɖusk_202104.json
+            |-- ƎMTAƎ_202104.json
+            |-- βRΣΣZI_202104.json
+            |-- Владимир_202104.json
+            |-- Чолпон_202104.json
+            |-- юрий геращенко_202104.json
+            |-- שם עליך ___ #2_202104.json
+            |-- أجي تفهم💡_202104.json
+            |-- مشاري الدوسري_202104.json
+            |-- ً_202104.json
+            |-- ཞც-ʂŋı℘ɛʂ_202104.json
+            |-- ᴅᴏɢᴇɪʀᴀɴ 🚀_202104.json
+            |-- ᴍ.ᴄ.🇺🇸Đoɢᴇ_202104.json
+            |-- ₡ l⍲rk † _Đ_202104.json
+            |-- ₿erkan Lenck_202104.json
+            |-- ₿Ł₳sting(ƉogΞ)Tom🚀🌕_202104.json
+            |-- Ⓜⓐⓡⓖⓘⓝ ⓒⓐⓛⓛ_202104.json
+            |-- ☘️☘️ PLEASE MAY HAPPINESS COME TO ME IN AUGUST☘️☘️_202104.json
+            |-- ☹︎_202104.json
+            |-- ♧◇K♡♤_202104.json
+            |-- ✏️_202104.json
+            |-- ✨🌜Juney 🌛 ✨_202104.json
+            |-- ✨💗BIG WIN IN 2021 PLEAS💗✨_202104.json
+            |-- ❤LadyBird❤_202104.json
+            |-- ⬆️Dogecoin Interplanetary Chief Barista Officer⬆️_202104.json
+            |-- ⬆️⬆️ (Notguilty536) B-man Holman ⬆️⬆️_202104.json
+            |-- ⭐️ Alena ⭐️_202104.json
+            |-- ⭐️_202104.json
+            |-- 杨依霏_202104.json
+            |-- 管道智库pipeintelligence.com_202104.json
+            |-- 𝐎𝐥𝐝𝐌𝐚𝐧𝐃𝐨𝐠𝐞🚀_202104.json
+            |-- 𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ_202104.json
+            |-- 𝑴𝒂𝒓𝒕𝒊𝒂𝒏 🪐_202104.json
+            |-- 𝒀𝑶𝑼𝑺𝑬𝑭_202104.json
+            |-- 𝓣 𝓞 𝓟 𝓓 𝓞 𝓖 𝓔_202104.json
+            |-- 𝕏 Outlet Doge 𝕏_202104.json
+            |-- 𝕏HotÐoge42_202104.json
+            |-- 𝕏Ðivinegrackle_202104.json
+            |-- 𝕹𝖊𝖜𝕷𝖆𝖈𝖍𝖚𝖌𝖎𝖓_202104.json
+            |-- 𝟜𝟚⚕️_202104.json
+            |-- 🃏DogecoinFool🃏_202104.json
+            |-- 🆄🆂🅳oge 🇺🇲_202104.json
+            |-- 🇺🇸_202104.json
+            |-- 🌈Gina likes rainbows_202104.json
+            |-- 🌟🌟 Dogecoin 🌟🌟_202104.json
+            |-- 🌳Gary 💸 $BTC $ETH $SFM $STRX $GROVECOIN 💸_202104.json
+            |-- 🌾𝙴𝚕𝚕𝚒𝚎 𝚁𝚢𝚊𝚗🍂_202104.json
+            |-- 🎩💎🐕🛡️JWAAR15🛡️🐕💎🎩_202104.json
+            |-- 🐕🚀🌙 brett grant 🇺🇸🇺🇸_202104.json
+            |-- 🐶_202104.json
+            |-- 👑 Tyrion L₳nnister_202104.json
+            |-- 👩‍⚕️ Melissa ❤️‍🩹 Do A Favor ™ 💎©_202104.json
+            |-- 👮🏼‍♀️ Commissaire Gibert_202104.json
+            |-- 💎Bullishh_202104.json
+            |-- 💎Woof of Wall Street💎 🐾_202104.json
+            |-- 💎💎Doge Watcher 💎💎_202104.json
+            |-- 💦 📈Fetty VWAP 📈💦_202104.json
+            |-- 💦🕶️_202104.json
+            |-- 💸💸💸_202104.json
+            |-- 🔋Stonksy🔋_202104.json
+            |-- 🔮Oracle Of Dogecoin🐕🔥🚀_202104.json
+            |-- 😎_202104.json
+            |-- 🚀DOGECOIN RISE🚀_202104.json
+            |-- 🚨🚨DoGeCOIN 24_7🚨🚨_202104.json
+            |-- 🥑🏴󠁧󠁢󠁷󠁬󠁳󠁿_202104.json
+            |-- 🦄 🤡 Chad Illa-Petersen (The Story Catcher)_202104.json
+            |-- 🪙Ray D.🪙_202104.json
+            |-- （Kitty）🐈 Ⓜ️🕸MikeCryptoLife 🛡🐈_202104.json
+          |-- DOGE_20210412.json
+          |-- DOGE_20210413.json
+          |-- DOGE_20210414_Laetst23795.json
+          |-- DOGE_20210415_Latest25940.json
+          |-- DOGE_20210416_Latest11037.json
+          |-- DOGE_20210417_Latest463.json
+          |-- DOGE_20210418_Latest21553.json
+          |-- DOGE_20210419_Latest5173.json
+          |-- DOGE_20210420_Latest37310.json
+          |-- DOGE_20210421_Latest3160.json
+          |-- DOGE_20210422_Latest4137.json
+          |-- DOGE_20210423_Latest5088.json
+          |-- DOGE_20210424_Latest6266.json
+          |-- DOGE_20210425.json
+          |-- DOGE_20210426_Latest8792.json
+          |-- DOGE_20210427.json
+          |-- DOGE_20210428_Latest654.json
+          |-- DOGE_20210429_Latest11097.json
+          |-- DOGE_20210430.json
+          |-- doge_post_stats_202104.csv
+          |-- doge_prolific_author_tweets_202104.json
+          |-- spammer.txt
+          |-- spammer_analysis.txt
+        |-- 05
+          |-- DOGE_20210501.json
+          |-- DOGE_20210502.json
+          |-- DOGE_20210503.json
+          |-- DOGE_20210504_Latest50001_max.json
+          |-- DOGE_20210505_Latest24076_keyboard.json
+          |-- DOGE_20210506_Latest15060_http.json
+          |-- DOGE_20210507_Latest23920.json
+          |-- DOGE_20210508_Latest31173.json
+          |-- DOGE_20210509.json
+          |-- DOGE_20210510_Latest23093_twice.json
+          |-- DOGE_20210511.json
+          |-- DOGE_20210512.json
+          |-- doge_post_stats_202105.csv
+          |-- doge_prolific_author_tweets_202105.json
+          |-- spammer.txt
+        |-- 08
+          |-- DOGE_20210802_Latest45.json
+          |-- DOGE_20210803_Latest5693.json
+          |-- DOGE_20210804_Latest1050.json
+          |-- DOGE_20210805_Latest511.json
+          |-- DOGE_20210806_Latest2450.json
+          |-- DOGE_20210807_Lateat2381.json
+          |-- DOGE_20210808_Latest2337.json
+          |-- DOGE_20210809_Latest2559.json
+          |-- DOGE_20210810_Latest1621.json
+          |-- DOGE_20210811_Latest4304.json
+          |-- DOGE_20210812_Latest642.json
+          |-- DOGE_20210813_Latest3429.json
+          |-- DOGE_20210814_Latest3923.json
+          |-- DOGE_20210815.json
+          |-- DOGE_20210816_Latest6685.json
+          |-- DOGE_20210817_Latest4884.json
+          |-- DOGE_20210818.json
+          |-- DOGE_20210819_Latest1232.json
+      |-- 2024
+        |-- 02
+          |-- DOGE_20240225_Latest801.json
+          |-- DOGE_20240226_Latest781.json
+          |-- DOGE_20240227.json
+          |-- DOGE_20240228_Latest2592.json
+          |-- DOGE_20240229.json
+        |-- 03
+          |-- DOGE_20240301.json
+          |-- DOGE_20240302_Latest2231.json
+          |-- DOGE_20240303.json
+          |-- DOGE_20240304_Latest694.json
+          |-- DOGE_20240305_Latest1185.json
+          |-- DOGE_20240306_Latest17.json
+          |-- DOGE_20250316.json
+        |-- 11
+          |-- DOGE_20241106.json
+          |-- DOGE_20241107.json
+          |-- DOGE_20241108.json
+          |-- DOGE_20241109.json
+          |-- DOGE_20241110.json
+          |-- DOGE_20241111.json
+          |-- DOGE_20241112.json
+          |-- DOGE_20241113.json
+          |-- DOGE_20241114.json
+          |-- DOGE_20241115.json
+          |-- DOGE_20241116.json
+          |-- DOGE_20241117_Latest650.json
+        |-- 12
+          |-- DOGE_20241201.json
+          |-- DOGE_20241228_20241231.json
+      |-- 2025
+        |-- 02
+          |-- DOGE_20250201.json
+          |-- DOGE_20250202_Latest3271.json
+          |-- DOGE_20250203.json
+          |-- DOGE_20250204.json
+          |-- DOGE_20250205.json
+          |-- DOGE_20250206.json
+          |-- DOGE_20250207.json
+          |-- DOGE_20250208_Latest3190.json
+          |-- DOGE_20250209_Latest3623.json
+          |-- DOGE_20250210_Latest2597.json
+          |-- DOGE_20250211_Latest3274.json
+          |-- DOGE_20250212.json
+          |-- DOGE_20250213.json
+          |-- DOGE_20250214_Latest3289.json
+          |-- DOGE_20250215.json
+          |-- DOGE_20250216.json
+          |-- DOGE_20250217.json
+          |-- DOGE_20250218.json
+          |-- DOGE_20250219.json
+          |-- DOGE_20250220_Latest1921.json
+          |-- DOGE_20250221.json
+          |-- DOGE_20250222.json
+          |-- DOGE_20250223.json
+          |-- DOGE_20250224.json
+          |-- DOGE_20250225.json
+          |-- DOGE_20250226_Latest616.json
+          |-- DOGE_20250227.json
+          |-- DOGE_20250228.json
+        |-- 03
+          |-- DOGE_20250301_Latest571.json
+          |-- DOGE_20250302.json
+          |-- DOGE_20250303.json
+          |-- DOGE_20250304-Latest865.json
+          |-- DOGE_20250305.json
+          |-- DOGE_20250306.json
+          |-- DOGE_20250307.json
+          |-- DOGE_20250308.json
+          |-- DOGE_20250309.json
+          |-- DOGE_20250310.json
+          |-- DOGE_20250311.json
+          |-- DOGE_20250312.json
+          |-- DOGE_20250313_Latest282_Top178.json
+          |-- DOGE_20250314.json
+          |-- DOGE_20250315.json
+          |-- DOGE_20250317.json
+          |-- DOGE_20250318_Lateat2478.json
+          |-- DOGE_20250319_Latest2002.json
+          |-- DOGE_20250320.json
+          |-- DOGE_20250321_Latest1518.json
+          |-- DOGE_20250322_Latest61.json
+          |-- spammer.txt
+      |-- doge_price.csv
+    |-- PEPE
+      |-- 2024
+        |-- 02
+          |-- PEPE_20240201.json
+          |-- PEPE_20240202.json
+          |-- PEPE_20240203.json
+          |-- PEPE_20240204-2.json
+          |-- PEPE_20240204.json
+          |-- PEPE_20240205.json
+          |-- PEPE_20240206.json
+          |-- PEPE_20240207.json
+          |-- PEPE_20240208.json
+          |-- PEPE_20240209.json
+          |-- PEPE_20240212.json
+          |-- PEPE_20240213.json
+          |-- PEPE_20240214.json
+          |-- PEPE_20240215.json
+          |-- PEPE_20240216.json
+          |-- PEPE_20240217.json
+          |-- PEPE_20240218.json
+          |-- PEPE_20240220.json
+          |-- PEPE_20240221.json
+          |-- PEPE_20240222.json
+          |-- PEPE_20240223.json
+          |-- PEPE_20240224.json
+          |-- PEPE_20240225.json
+          |-- PEPE_20240226.json
+          |-- PEPE_20240227.json
+          |-- PEPE_20240228.json
+        |-- 03
+          |-- PEPE_20240301.json
+          |-- PEPE_20240302.json
+          |-- PEPE_20240303.json
+          |-- PEPE_20240304.json
+          |-- PEPE_20240305.json
+          |-- PEPE_20240309.json
+      |-- 2025
+        |-- 01
+          |-- PEPE_20250101.json
+        |-- 02
+          |-- PEPE_20250201.json
+          |-- PEPE_20250202.json
+          |-- PEPE_20250203.json
+          |-- PEPE_20250204.json
+          |-- PEPE_20250205.json
+          |-- PEPE_20250206.json
+          |-- PEPE_20250207.json
+          |-- PEPE_20250208.json
+          |-- PEPE_20250209.json
+          |-- PEPE_20250210.json
+          |-- PEPE_20250211.json
+          |-- PEPE_20250212.json
+          |-- PEPE_20250213.json
+          |-- PEPE_20250214.json
+          |-- PEPE_20250215.json
+          |-- PEPE_20250216.json
+          |-- PEPE_20250217.json
+          |-- PEPE_20250218.json
+          |-- PEPE_20250219.json
+          |-- PEPE_20250220.json
+          |-- PEPE_20250221.json
+          |-- PEPE_20250222.json
+          |-- PEPE_20250223.json
+          |-- PEPE_20250224.json
+          |-- PEPE_20250225.json
+          |-- PEPE_20250226.json
+          |-- PEPE_20250227.json
+          |-- PEPE_20250228.json
+        |-- 03
+          |-- PEPE_20250301.json
+          |-- PEPE_20250302.json
+          |-- PEPE_20250303.json
+          |-- PEPE_20250304.json
+          |-- PEPE_20250305.json
+          |-- PEPE_20250306.json
+          |-- PEPE_20250307.json
+          |-- PEPE_20250308.json
+          |-- PEPE_20250309.json
+          |-- PEPE_20250310.json
+        |-- PEPE_20250424.json
+        |-- PEPE_20250425.json
+    |-- spammer
+      |-- 04
+        |-- Ahsan Butt_202104.json
+        |-- CRYPTO MANIA 🚀🚀🌝_202104.json
+        |-- David Rockefeller_202104.json
+        |-- DHarpz_202104.json
+        |-- Dogecoin For Life_202104.json
+        |-- dogecoin_202104.json
+        |-- F7ASH7_202104.json
+        |-- Flash - Dogecoin_202104.json
+        |-- Indiana Taylor_202104.json
+        |-- its_arthur_202104.json
+        |-- JaY🥀🍷😋 🌙_202104.json
+        |-- JazzedJerry_202104.json
+        |-- Jordan W, WarnedWhitey96 🎮_202104.json
+        |-- LeftLane_202104.json
+        |-- Perfect Timing Podcast_202104.json
+        |-- SephirothRising XS 🇺🇸_202104.json
+        |-- SiegeMoto🌕🏴‍☠️_202104.json
+        |-- SlingShot_202104.json
+        |-- Thinker_202104.json
+        |-- toadsuck85_202104.json
+        |-- UAPkisho_202104.json
+        |-- أجي تفهم💡_202104.json
+        |-- 𝒀𝑶𝑼𝑺𝑬𝑭_202104.json
+        |-- 🦄 🤡 Chad Illa-Petersen (The Story Catcher)_202104.json
+      |-- 05
+        |-- @diamondwhiskers_202105.json
+        |-- faviiii_202105.json
+        |-- Hilvert S_202105.json
+        |-- Leo Cervantes_202105.json
+        |-- Pots Saucy_202105.json
+        |-- Prince Mo_202105.json
+        |-- ĐogeDailyAffirmations_202105.json
+      |-- spammer_04.txt
+      |-- spammer_05.txt
+    |-- TRUMP
+      |-- 01
+        |-- TRUMP_20250118.json
+        |-- TRUMP_20250119.json
+        |-- TRUMP_20250120.json
+        |-- TRUMP_20250121.json
+        |-- TRUMP_20250122.json
+        |-- TRUMP_20250123.json
+        |-- TRUMP_20250124.json
+        |-- TRUMP_20250125.json
+        |-- TRUMP_20250126.json
+        |-- TRUMP_20250127.json
+        |-- TRUMP_20250128.json
+        |-- TRUMP_20250129.json
+        |-- TRUMP_20250130.json
+        |-- TRUMP_20250131.json
+      |-- 02
+        |-- TRUMP_20250201.json
+        |-- TRUMP_20250202.json
+        |-- TRUMP_20250203.json
+        |-- TRUMP_20250204.json
+        |-- TRUMP_20250205.json
+        |-- TRUMP_20250206.json
+        |-- TRUMP_20250207.json
+        |-- TRUMP_20250208.json
+        |-- TRUMP_20250209.json
+        |-- TRUMP_20250210.json
+        |-- TRUMP_20250211.json
+        |-- TRUMP_20250212.json
+        |-- TRUMP_20250213.json
+        |-- TRUMP_20250214.json
+        |-- TRUMP_20250215.json
+        |-- TRUMP_20250216.json
+        |-- TRUMP_20250217.json
+        |-- TRUMP_20250218.json
+        |-- TRUMP_20250219.json
+        |-- TRUMP_20250220.json
+        |-- TRUMP_20250221.json
+        |-- TRUMP_20250222.json
+        |-- TRUMP_20250223.json
+        |-- TRUMP_20250224.json
+        |-- TRUMP_20250225.json
+        |-- TRUMP_20250226.json
+        |-- TRUMP_20250227.json
+        |-- TRUMP_20250228.json
+      |-- 03
+        |-- TRUMP_20250301.json
+        |-- TRUMP_20250302.json
+        |-- TRUMP_20250303.json
+        |-- TRUMP_20250304.json
+        |-- TRUMP_20250305.json
+        |-- TRUMP_20250306.json
+        |-- TRUMP_20250307.json
+        |-- TRUMP_20250308.json
+        |-- TRUMP_20250309.json
+        |-- TRUMP_20250310.json
+        |-- TRUMP_20250311.json
+        |-- TRUMP_20250312.json
+        |-- TRUMP_20250313.json
+        |-- TRUMP_20250314.json
+        |-- TRUMP_20250315.json
+        |-- TRUMP_20250316.json
+        |-- TRUMP_20250317.json
+        |-- TRUMP_20250318.json
+        |-- TRUMP_20250319.json
+        |-- TRUMP_20250320.json
+        |-- TRUMP_20250321.json
+        |-- TRUMP_20250322.json
+        |-- TRUMP_20250323.json
+        |-- TRUMP_20250324.json
+        |-- TRUMP_20250325.json
+        |-- TRUMP_20250327.json
+        |-- TRUMP_20250328.json
+        |-- TRUMP_20250329.json
+        |-- TRUMP_20250330.json
+        |-- TRUMP_20250331.json
+      |-- officialtrump.json
+      |-- trump_price.csv
+    |-- DOGE_20210513.json
+  |-- analysis.txt
+  |-- analysis_temp.txt
+  |-- analysis_temp2.txt
+  |-- cookies.json
+  |-- cookies2.json
+  |-- daily_analysis.py
+  |-- daily_author_detector.py
+  |-- isolate_user.py
+  |-- main.py
+  |-- resetCount.py
+  |-- second.py
+  |-- spammer.txt
+  |-- spammer_analysis.py
+  |-- spammer_list.py
+  |-- tweetCount_perHour.py
+|-- Sentiment
+  |-- analysis
+    |-- 202502
+      |-- DOGE_20250201.json
+      |-- DOGE_20250201.txt
+      |-- DOGE_20250202_Latest3271.json
+      |-- DOGE_20250202_Latest3271.txt
+      |-- DOGE_20250203.json
+      |-- DOGE_20250203.txt
+      |-- DOGE_20250204.json
+      |-- DOGE_20250204.txt
+      |-- DOGE_20250205.json
+      |-- DOGE_20250205.txt
+      |-- DOGE_20250206.json
+      |-- DOGE_20250206.txt
+      |-- DOGE_20250207.json
+      |-- DOGE_20250207.txt
+      |-- DOGE_20250208_Latest3190.json
+      |-- DOGE_20250208_Latest3190.txt
+      |-- DOGE_20250209_Latest3623.json
+      |-- DOGE_20250209_Latest3623.txt
+      |-- DOGE_20250210_Latest2597.json
+      |-- DOGE_20250210_Latest2597.txt
+      |-- DOGE_20250211_Latest3274.json
+      |-- DOGE_20250211_Latest3274.txt
+      |-- DOGE_20250212.json
+      |-- DOGE_20250212.txt
+      |-- DOGE_20250213.json
+      |-- DOGE_20250213.txt
+      |-- DOGE_20250214_Latest3289.json
+      |-- DOGE_20250214_Latest3289.txt
+      |-- DOGE_20250215.json
+      |-- DOGE_20250215.txt
+      |-- DOGE_20250216.json
+      |-- DOGE_20250216.txt
+      |-- DOGE_20250217.json
+      |-- DOGE_20250217.txt
+      |-- DOGE_20250218.json
+      |-- DOGE_20250218.txt
+      |-- DOGE_20250219.json
+      |-- DOGE_20250219.txt
+      |-- DOGE_20250220_Latest1921.json
+      |-- DOGE_20250220_Latest1921.txt
+      |-- DOGE_20250221.json
+      |-- DOGE_20250221.txt
+      |-- DOGE_20250222.json
+      |-- DOGE_20250222.txt
+      |-- DOGE_20250223.json
+      |-- DOGE_20250223.txt
+      |-- DOGE_20250224.json
+      |-- DOGE_20250224.txt
+      |-- DOGE_20250225.json
+      |-- DOGE_20250225.txt
+      |-- DOGE_20250226_Latest616.json
+      |-- DOGE_20250226_Latest616.txt
+      |-- DOGE_20250227.json
+      |-- DOGE_20250227.txt
+      |-- DOGE_20250228.json
+      |-- DOGE_20250228.txt
+    |-- test
+      |-- DOGE_20210416_Latest11037.json
+      |-- DOGE_20210416_Latest11037.txt
+      |-- DOGE_20210428_Latest654.json
+      |-- DOGE_20210428_Latest654.txt
+  |-- bar_chart.py
+  |-- daily_sentiment_ratio.png
+  |-- sentiment_analysis.py
+|-- temp_data
+  |-- clustered_30_DOGE_20210413.txt
+  |-- clustered_30_DOGE_20210428.txt
+  |-- DOGE_20210416_Latest11037.json
+  |-- DOGE_20210428_Latest654.json
+|-- abandonCode.txt
+|-- Dice.txt
+|-- folder-structure.txt
+|-- login錯誤.txt
+|-- OriginalCode.txt
+|-- Readme.md
+|-- requirements.txt
+|-- tree.txt
+|-- twitter爬蟲.txt
+|-- 延生題目.txt
+|-- 有趣的時段.txt

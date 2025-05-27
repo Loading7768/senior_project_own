@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "ReTweet if you're holding $DOGE to the moon 🚀\n\n#dogecoin #doge #dogetothemoon #DogecoinToTheMoon https://t.co/fQV8OifHCP",
+        "X_token": "retweet, holding, doge, moon, dogecoin, doge, dogetothemoon, dogecointothemoon, https",
+        "X_tweet_count": 30,
+        "X_username": "Dogecoin For Life",
+        "Y_text": "ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins https://t.co/6fgnCmR6UD",
+        "Y_token": "retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins, https",
+        "Y_tweet_count": 33,
+        "Y_username": "Dogecoin For Life",
+        "X_length": 120,
+        "Y_length": 108,
+        "Y_length_percent_of_X": 90.0,
+        "X_length_percent_of_Y": 111.11,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins https://t.co/6fgnCmR6UD",
+        "X_token": "retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins, https",
+        "X_tweet_count": 33,
+        "X_username": "Dogecoin For Life",
+        "Y_text": "@elonmusk ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins",
+        "Y_token": "elonmusk, retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins",
+        "Y_tweet_count": 44,
+        "Y_username": "Dogecoin For Life",
+        "X_length": 108,
+        "Y_length": 94,
+        "Y_length_percent_of_X": 87.04,
+        "X_length_percent_of_Y": 114.89,
+        "dice_coefficient": 87.5
+    },
+    {
+        "X_text": "@MattWallace888 Help @MattWallace888 reach ever further as we go to the moon #dogecoin \nhttps://t.co/7GE69ATTUi",
+        "X_token": "mattwallace888, help, mattwallace888, reach, ever, go, moon, dogecoin, https",
+        "X_tweet_count": 38,
+        "X_username": "Dogecoin For Life",
+        "Y_text": "Help @MattWallace888 reach ever further as we go to the moon #dogecoin \nhttps://t.co/7GE69ATTUi",
+        "Y_token": "help, mattwallace888, reach, ever, go, moon, dogecoin, https",
+        "Y_tweet_count": 39,
+        "Y_username": "Dogecoin For Life",
+        "X_length": 111,
+        "Y_length": 95,
+        "Y_length_percent_of_X": 85.59,
+        "X_length_percent_of_Y": 116.84,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins",
+        "X_token": "retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins",
+        "X_tweet_count": 43,
+        "X_username": "Dogecoin For Life",
+        "Y_text": "@elonmusk ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins",
+        "Y_token": "elonmusk, retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins",
+        "Y_tweet_count": 44,
+        "Y_username": "Dogecoin For Life",
+        "X_length": 84,
+        "Y_length": 94,
+        "Y_length_percent_of_X": 111.9,
+        "X_length_percent_of_Y": 89.36,
+        "dice_coefficient": 93.33
+    }
+]

@@ -1,0 +1,22 @@
+﻿X = [DOGECOIN]
+X_token = [dogecoin]
+	X tweet_count = [10]
+	X username = [JaY🥀🍷😋 🌙]
+Y = [DOGECOIN]
+Y_token = [dogecoin]
+	Y tweet_count = [20]
+	Y username = [JaY🥀🍷😋 🌙]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Buy now #DogeDay for #dogecoin \n#CryptoNews https://t.co/VqNB4QSGf2]
+X_token = [buy, dogeday, dogecoin, cryptonews, https]
+	X tweet_count = [12]
+	X username = [JaY🥀🍷😋 🌙]
+Y = [DOGECOIN 〽️ buy now, new investors #dogecoin #DogeDay https://t.co/OYw30yMfDr]
+Y_token = [dogecoin, buy, new, investors, dogecoin, dogeday, https]
+	Y tweet_count = [13]
+	Y username = [JaY🥀🍷😋 🌙]
+Total Length: X = 67, Y = 77 (Y / X = 114.93  X / Y = 87.01)
+Dice Coefficient: 72.73% 
+

@@ -7,7 +7,7 @@ from collections import defaultdict
 json_coin = "dogecoin"
 coin_type = "DOGE"
 year = "2021"
-month = "04"
+month = "05"
 
 # === 資料夾設定 ===
 folder_path = f"data/{coin_type}/{year}/{month}"

@@ -1,0 +1,44 @@
+﻿X = [ReTweet if you're holding $DOGE to the moon 🚀\n\n#dogecoin #doge #dogetothemoon #DogecoinToTheMoon https://t.co/fQV8OifHCP]
+X_token = [retweet, holding, doge, moon, dogecoin, doge, dogetothemoon, dogecointothemoon, https]
+	X tweet_count = [30]
+	X username = [Dogecoin For Life]
+Y = [ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins https://t.co/6fgnCmR6UD]
+Y_token = [retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins, https]
+	Y tweet_count = [33]
+	Y username = [Dogecoin For Life]
+Total Length: X = 120, Y = 108 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins https://t.co/6fgnCmR6UD]
+X_token = [retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins, https]
+	X tweet_count = [33]
+	X username = [Dogecoin For Life]
+Y = [@elonmusk ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins]
+Y_token = [elonmusk, retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins]
+	Y tweet_count = [44]
+	Y username = [Dogecoin For Life]
+Total Length: X = 108, Y = 94 (Y / X = 87.04  X / Y = 114.89)
+Dice Coefficient: 87.50% 
+
+X = [@MattWallace888 Help @MattWallace888 reach ever further as we go to the moon #dogecoin \nhttps://t.co/7GE69ATTUi]
+X_token = [mattwallace888, help, mattwallace888, reach, ever, go, moon, dogecoin, https]
+	X tweet_count = [38]
+	X username = [Dogecoin For Life]
+Y = [Help @MattWallace888 reach ever further as we go to the moon #dogecoin \nhttps://t.co/7GE69ATTUi]
+Y_token = [help, mattwallace888, reach, ever, go, moon, dogecoin, https]
+	Y tweet_count = [39]
+	Y username = [Dogecoin For Life]
+Total Length: X = 111, Y = 95 (Y / X = 85.59  X / Y = 116.84)
+Dice Coefficient: 100.00% 
+
+X = [ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins]
+X_token = [retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins]
+	X tweet_count = [43]
+	X username = [Dogecoin For Life]
+Y = [@elonmusk ReTweet if you're going to the moon with $DOGE \n\n#dogecoin #dogetothemoon #Dogecoins]
+Y_token = [elonmusk, retweet, going, moon, doge, dogecoin, dogetothemoon, dogecoins]
+	Y tweet_count = [44]
+	Y username = [Dogecoin For Life]
+Total Length: X = 84, Y = 94 (Y / X = 111.90  X / Y = 89.36)
+Dice Coefficient: 93.33% 
+

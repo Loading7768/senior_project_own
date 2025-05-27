@@ -6,7 +6,7 @@ from pathlib import Path
 json_coin = "dogecoin"
 coin_type = "DOGE"
 year = "2021"
-month = "04"
+month = "05"
 
 # === 資料夾設定 ===
 folder_path = f"data/{coin_type}/{year}/{month}"
@@ -52,5 +52,5 @@ for target_user in target_users:
 
         count += 1
 
-    with open(f"{output_folder_path}{target_user}_{year}{month}.json", "w") as file:
-        json.dump(filtered_tweets, file, indent=4)
+    with open(f"{output_folder_path}{target_user}_{year}{month}.json", "w", encoding="utf-8-sig") as file:
+        json.dump(filtered_tweets, file, indent=4, ensure_ascii=False)
