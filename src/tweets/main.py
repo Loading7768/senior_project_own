@@ -3,6 +3,7 @@ import asyncio
 from twikit import Client, TooManyRequests
 import json
 import httpx
+import os
 
 from random import randint, uniform
 import random
@@ -33,16 +34,18 @@ START_YEAR = 2021  # 開始的年份
 
 START_MONTH = 5  # 開始的月份
 
-START_DAY = 14  # 開始的日期
+START_DAY = 27  # 開始的日期
 
 DAY_COUNT = 1  # 要連續找幾天
 
 CHANGE_MONTH = 0  # 在哪個日期結束後有跨月 沒有填 0   ex. 如果要找的日期為 1/30 - 2/2 而其中包含 1/31 則需要填 31
 
+TRUN_ON_TIWCE_BREAK = False  # 看有沒有要當出現兩次 Rate limit reached 就馬上停止執行
+
 # 如果不需要程式執行完成後傳 gmail 給你, 則留空字串
 GMAIL = "nadodebisean@gmail.com"
 
-PASSWORD = "coxuwrhmmfkvzfvc"  # 帳號有啟用兩步驟驗證的話, PASSWORD 需要使用自行創建的「應用程式密碼」
+PASSWORD = ""  # 帳號有啟用兩步驟驗證的話, PASSWORD 需要使用自行創建的「應用程式密碼」
 '''可修改參數'''
 
 
@@ -103,7 +106,7 @@ async def write_analysis_temp(founded_count, filename, QUERY, timestamp):
 
 
     if founded_count > 0:
-        analysisFile = 'analysis_temp.txt'
+        analysisFile = '../data/tweets/analysis_temp.txt'
         with open(filename, 'r', encoding='utf-8-sig') as file:
             data_json = json.load(file)
         with open(analysisFile, 'w', encoding='utf-8-sig') as txtfile:
@@ -203,7 +206,7 @@ async def main():
 
             # 格式化為檔名 (可把個位數前面補零)
             date_str = start_date.strftime('%Y%m%d')  # 例：20210420
-            filename = f"./data/{COIN_SHORT_NAME}_{date_str}.json"
+            filename = f"../data/tweets/{COIN_SHORT_NAME}/{START_YEAR}/0{START_MONTH}/{COIN_SHORT_NAME}_{date_str}.json"
             
             try:
                 tweets = await get_tweets(client, tweets, QUERY)  # `await` 確保非同步運行
@@ -225,7 +228,7 @@ async def main():
                 
                 # 如果在 action == "limit" 表示上一個動作也是 rate limit reached => 代表此帳號今天的抓文達上限 => 立刻 break
                 # difference = datetime.now() - TooManyRequests_last
-                if action == "limit" and TooManyRequests_last != start_time:
+                if action == "limit" and TooManyRequests_last != start_time and TRUN_ON_TIWCE_BREAK:
                     timestamp.append([datetime.strftime(datetime.now(), '%Y-%m-%d %H:%M:%S'), f"TooManyRequests - TwiceBreak"])
                     TooManyRequests_bool = True
                     print(f"{datetime.now()} - This account rate limit reached - TooManyRequests twice")
@@ -253,6 +256,12 @@ async def main():
                 await asyncio.sleep(randint(5, 15)) # 等待一段時間後重試
 
                 continue
+            except Exception as e:  # 任何其他錯誤訊息
+                print(f"{datetime.now()} - Search failed: {e}. Retrying in 2 minutes...")
+                timestamp.append([datetime.strftime(datetime.now(), '%Y-%m-%d %H:%M:%S'), f"{e}"])
+
+                await asyncio.sleep(120)
+                continue
 
             if not tweets:
                 # 如果沒有推文了，結束爬取
@@ -275,6 +284,8 @@ async def main():
                     data_json[JSON_DICT_NAME] = []
 
             except (FileNotFoundError, json.JSONDecodeError):
+                os.makedirs(os.path.dirname(filename), exist_ok=True)
+
                 data_json = {JSON_DICT_NAME: []}  # 如果檔案不存在，初始化為空字典
                 with open(filename, 'w', encoding='utf-8-sig') as file:
                     json.dump(data_json, file, indent=4, ensure_ascii=False)
@@ -321,20 +332,22 @@ async def main():
                 # 將新的 tweet 加入 data_json 裡的 dogecoin 字典中
                 data_json[JSON_DICT_NAME].append(tweet_dict)
 
-                # 將推文資訊寫入 data.json 檔案
-                # ensure_ascii=False 直接輸出原本的字元，不會轉成 Unicode 編碼
-                try:
-                    await save_json(data_json, filename)
-                except OSError as e:
-                    print(f"寫入檔案失敗: {e}, 檔案名: {filename}, 長度: {len(filename)}")
 
-                    # 設定 timestamp
-                    timestamp.append([datetime.strftime(datetime.now(), '%Y-%m-%d %H:%M:%S'), f"WritingError-OSError - {e}"])
+            # 抓完後一次將推文資訊寫入 data.json 檔案 (不要每一筆都 json.dump)
+            # ensure_ascii=False 直接輸出原本的字元，不會轉成 Unicode 編碼
+            try:
+                await save_json(data_json, filename)
+            except OSError as e:
+                print(f"寫入檔案失敗: {e}, 檔案名: {filename}, 長度: {len(filename)}")
 
-                    continue
+                # 設定 timestamp
+                timestamp.append([datetime.strftime(datetime.now(), '%Y-%m-%d %H:%M:%S'), f"WritingError-OSError - {e}"])
+
+                continue
+
+            # 把資料存到 analysis_temp.txt
+            await write_analysis_temp(founded_count, filename, QUERY, timestamp)
                 
-                # 把資料存到 analysis_temp.txt
-                await write_analysis_temp(founded_count, filename, QUERY, timestamp)
 
             print(f'{datetime.now()} - Got {founded_count} tweets')
 
@@ -352,8 +365,8 @@ async def main():
         # 在有抓到資料的前提下 把資料存入 analysis.txt 裡
         analysis_temp = ""
         if founded_count > 0:
-            analysisFile = 'analysis.txt'
-            analysisTempFile = 'analysis_temp.txt'
+            analysisFile = '../data/tweets/analysis.txt'
+            analysisTempFile = '../data/tweets/analysis_temp.txt'
             with open(analysisTempFile, 'r', encoding='utf-8-sig') as file:
                 analysis_temp = file.read()
             with open(analysisFile, 'a', encoding='utf-8-sig') as txtfile:
