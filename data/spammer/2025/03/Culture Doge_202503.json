@@ -1,0 +1,636 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "Culture Doge",
+            "text": "@realdogeusa Noice!",
+            "created_at": "Sun Mar 02 22:28:32 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 2,
+            "username": "Culture Doge",
+            "text": "@The_REDWRITER Absolutely, it’s crazy! \nSo many new tools for the community and merchants alike! 🤯",
+            "created_at": "Mon Mar 03 21:04:02 +0000 2025",
+            "retweet": 0,
+            "likes": 4
+        },
+        {
+            "tweet_count": 3,
+            "username": "Culture Doge",
+            "text": "Relevant news about dogecoin mining rigs demand going ballistic 👾\n\nhttps://t.co/MzxisRGr9z",
+            "created_at": "Mon Mar 03 20:20:14 +0000 2025",
+            "retweet": 0,
+            "likes": 4
+        },
+        {
+            "tweet_count": 4,
+            "username": "Culture Doge",
+            "text": "Nasdaq filling ✅\n\nhttps://t.co/mQIAnD4udK",
+            "created_at": "Mon Mar 03 20:20:12 +0000 2025",
+            "retweet": 1,
+            "likes": 6
+        },
+        {
+            "tweet_count": 5,
+            "username": "Culture Doge",
+            "text": "New website ✅\n\nhttps://t.co/EUviYdRyC9",
+            "created_at": "Mon Mar 03 20:20:12 +0000 2025",
+            "retweet": 0,
+            "likes": 6
+        },
+        {
+            "tweet_count": 6,
+            "username": "Culture Doge",
+            "text": "Ok so HoÐ went from “hello world” to:\n\n- Launching their official website.\n\n- Announcing a filling for NASDAQ.\n\nI mean… wow! https://t.co/8VUsHuFExj",
+            "created_at": "Mon Mar 03 20:20:11 +0000 2025",
+            "retweet": 56,
+            "likes": 296
+        },
+        {
+            "tweet_count": 7,
+            "username": "Culture Doge",
+            "text": "@The_REDWRITER Let’s gooooooooo!!!!!!!",
+            "created_at": "Mon Mar 03 16:55:06 +0000 2025",
+            "retweet": 0,
+            "likes": 6
+        },
+        {
+            "tweet_count": 8,
+            "username": "Culture Doge",
+            "text": "It’s pretty cool how the dogecoin community has that - revolution against fiat tyranny - thing going on yet remains super light and cheerful while doing it. \n\nLove that!",
+            "created_at": "Mon Mar 03 05:01:53 +0000 2025",
+            "retweet": 0,
+            "likes": 10
+        },
+        {
+            "tweet_count": 9,
+            "username": "Culture Doge",
+            "text": "@blockydoge79 @tjstebbing Thanks for the great question btw!",
+            "created_at": "Mon Mar 03 04:57:17 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 10,
+            "username": "Culture Doge",
+            "text": "@blockydoge79 @tjstebbing From my understanding the “L1.5” only helps with the time it takes to transact. \n\nThe transaction is guaranteed by the relay, with a reputation score. Meaning the relays “vouches” that the transaction will go through to the merchant and therefore it can “happen” instantly. But",
+            "created_at": "Mon Mar 03 04:41:05 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 11,
+            "username": "Culture Doge",
+            "text": "@Vino97_ @Austrollian @tjstebbing @MyDogeCEO One feature that I love about dogecoin is the flat continuous issuance. \n\nI could be wrong but I feel it shields it from too much concentration in one place or another.",
+            "created_at": "Mon Mar 03 02:38:02 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 12,
+            "username": "Culture Doge",
+            "text": "@old_soon @EGOD_FATHER @xdcharity_ @MyDogeTip @probablyluda Wow! Thanks!",
+            "created_at": "Tue Mar 04 20:31:01 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 13,
+            "username": "Culture Doge",
+            "text": "@inevitable360 This is awesome 🔥",
+            "created_at": "Tue Mar 04 20:29:00 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 14,
+            "username": "Culture Doge",
+            "text": "@EGOD_FATHER @xdcharity_ @MyDogeTip @probablyluda Woooooow! Thanks a lot! 🙏💛🔥",
+            "created_at": "Wed Mar 05 13:50:25 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 15,
+            "username": "Culture Doge",
+            "text": "@eree757rp @EGOD_FATHER @xdcharity_ @MyDogeTip Wow! Thanks for the tip! 🍿💛🪐",
+            "created_at": "Wed Mar 05 04:36:34 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 16,
+            "username": "Culture Doge",
+            "text": "@CoffeeForTheWin @EGOD_FATHER @xdcharity_ @MyDogeTip Wow! Thanks a lot! 🙏💛",
+            "created_at": "Wed Mar 05 03:27:37 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 17,
+            "username": "Culture Doge",
+            "text": "@dogestore I know about sochain, which has some info but not all you’re talking about. \n\nI’d be curious as well to know if such a tool exists out there. \n\nhttps://t.co/Jl63AYGzi1",
+            "created_at": "Thu Mar 06 15:43:11 +0000 2025",
+            "retweet": 1,
+            "likes": 1
+        },
+        {
+            "tweet_count": 18,
+            "username": "Culture Doge",
+            "text": "Absolutely",
+            "created_at": "Thu Mar 06 15:37:52 +0000 2025",
+            "retweet": 0,
+            "likes": 5
+        },
+        {
+            "tweet_count": 19,
+            "username": "Culture Doge",
+            "text": "@danheld That’s a global phenomenon. \n\nThe digital gold narrative comes at a price.",
+            "created_at": "Thu Mar 06 03:42:25 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 20,
+            "username": "Culture Doge",
+            "text": "@Vino97_ Crazy when you think about it…\nWhat was once just a meme, has now a real chance at becoming a revolution.",
+            "created_at": "Thu Mar 06 02:33:24 +0000 2025",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 21,
+            "username": "Culture Doge",
+            "text": "@Vino97_ Everybody likes a good doge meme, even Google 😉",
+            "created_at": "Thu Mar 06 02:28:24 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 22,
+            "username": "Culture Doge",
+            "text": "@EGOD_FATHER @grok Crucial point 🎯",
+            "created_at": "Fri Mar 07 20:26:02 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 23,
+            "username": "Culture Doge",
+            "text": "@dogecoin4lif3 Thank you as well 🙏💛",
+            "created_at": "Fri Mar 07 02:50:15 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 24,
+            "username": "Culture Doge",
+            "text": "@dogecoin4lif3 Thanks man :)\nLove your memes btw! 🔥",
+            "created_at": "Fri Mar 07 02:48:28 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 25,
+            "username": "Culture Doge",
+            "text": "The People’s currency https://t.co/MLfHVKyTtq",
+            "created_at": "Fri Mar 07 02:24:01 +0000 2025",
+            "retweet": 3,
+            "likes": 40
+        },
+        {
+            "tweet_count": 26,
+            "username": "Culture Doge",
+            "text": "“A little bit of fun, a little bit of rebellion, and a whole lot of heart.”",
+            "created_at": "Sun Mar 09 22:49:58 +0000 2025",
+            "retweet": 1,
+            "likes": 5
+        },
+        {
+            "tweet_count": 27,
+            "username": "Culture Doge",
+            "text": "@Vino97_ @BuildrJ @DogeOS I had a shower thought this week that’s kind of related to what you’re saying.\n\nI feel like in the future, our children will use private money that is not issued by a state.\n\nBut I will be normal. They wouldn’t think about having a money printed by people or a government.",
+            "created_at": "Sun Mar 09 03:38:26 +0000 2025",
+            "retweet": 1,
+            "likes": 2
+        },
+        {
+            "tweet_count": 28,
+            "username": "Culture Doge",
+            "text": "When the revolution is being pushed on you by the mainstream, you no longer have a revolution.",
+            "created_at": "Sun Mar 09 02:00:20 +0000 2025",
+            "retweet": 1,
+            "likes": 11
+        },
+        {
+            "tweet_count": 29,
+            "username": "Culture Doge",
+            "text": "@The_REDWRITER @tjstebbing LFG this is the way!",
+            "created_at": "Tue Mar 11 06:03:56 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 30,
+            "username": "Culture Doge",
+            "text": "Now, don’t bet the farm on this, stay productive and accept Dogecoin. \n\nWe might or not get proven right, but at this point it’s not (and never has been) about the money.\n\nIt’s about fixing it.",
+            "created_at": "Tue Mar 11 06:02:11 +0000 2025",
+            "retweet": 1,
+            "likes": 1
+        },
+        {
+            "tweet_count": 31,
+            "username": "Culture Doge",
+            "text": "Dogecoin makes the most sense to become money. \n\nWhether it does or it doesn’t, that’s still what I believe. \n\nThe market isn’t always rational (lol) but I will stick to my thesis.",
+            "created_at": "Tue Mar 11 06:02:11 +0000 2025",
+            "retweet": 1,
+            "likes": 0
+        },
+        {
+            "tweet_count": 32,
+            "username": "Culture Doge",
+            "text": "Add on top of that the fact that a truely finite money supply has bad implications for the economy and the world + bad incentives.",
+            "created_at": "Tue Mar 11 06:02:11 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 33,
+            "username": "Culture Doge",
+            "text": "This basically sums up my thesis for Dogecoin.\n\nI used to believe bitcoin would stop the printer. \n\nIt won’t. It actually accelerates it.",
+            "created_at": "Tue Mar 11 06:02:10 +0000 2025",
+            "retweet": 1,
+            "likes": 8
+        },
+        {
+            "tweet_count": 34,
+            "username": "Culture Doge",
+            "text": "@cb_doge You can tell he’s really trying hard and honestly to do the right thing for his country. \n\nThat’s an American Hero. \n\nPeople in the US need to unplug from the old media and support this man. He’s one of the few that actually cares.",
+            "created_at": "Tue Mar 11 05:27:22 +0000 2025",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 35,
+            "username": "Culture Doge",
+            "text": "@gabbie_dogeA7x Good night then",
+            "created_at": "Wed Mar 12 05:07:35 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 36,
+            "username": "Culture Doge",
+            "text": "@gabbie_dogeA7x Get in, let’s talk about that",
+            "created_at": "Wed Mar 12 05:06:37 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 37,
+            "username": "Culture Doge",
+            "text": "@dogecoin4lif3 Same.",
+            "created_at": "Wed Mar 12 03:42:51 +0000 2025",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 38,
+            "username": "Culture Doge",
+            "text": "The two main ingredients of Dogecoin:",
+            "created_at": "Wed Mar 12 03:27:02 +0000 2025",
+            "retweet": 1,
+            "likes": 6
+        },
+        {
+            "tweet_count": 39,
+            "username": "Culture Doge",
+            "text": "I have so much respect for businesses that accept Dogecoin.\n\nI have so much respect for people building OSS for Dogecoin. \n\nI have so much respect for people spreading the word about Dogecoin.\n\nYou are a constant reminder that there is good in this world and it’s worth fighting",
+            "created_at": "Wed Mar 12 03:19:00 +0000 2025",
+            "retweet": 4,
+            "likes": 59
+        },
+        {
+            "tweet_count": 40,
+            "username": "Culture Doge",
+            "text": "@Vino97_ Not that I know of",
+            "created_at": "Fri Mar 14 23:28:02 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 41,
+            "username": "Culture Doge",
+            "text": "@kimdogex It’s just a meta joke. Quote tweeting a cool account who made a nice post.\n\nDon’t read too much into this ✌️",
+            "created_at": "Sat Mar 15 22:07:18 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 42,
+            "username": "Culture Doge",
+            "text": "@DogecoinNorway Meanwhile in bitcoin land https://t.co/2o0sZnlPC1",
+            "created_at": "Sat Mar 15 21:47:05 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 43,
+            "username": "Culture Doge",
+            "text": "@DOGECOINFamilyD No brainer 💯 https://t.co/rds8eAthdE",
+            "created_at": "Sat Mar 15 21:40:17 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 44,
+            "username": "Culture Doge",
+            "text": "Hello Mr Dogecoin representative. \nI am dogecoin representative!",
+            "created_at": "Sat Mar 15 21:14:43 +0000 2025",
+            "retweet": 1,
+            "likes": 6
+        },
+        {
+            "tweet_count": 45,
+            "username": "Culture Doge",
+            "text": "@DogeMacDogethy Much wisdom, very truth 💯",
+            "created_at": "Sat Mar 15 21:03:16 +0000 2025",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 46,
+            "username": "Culture Doge",
+            "text": "@blockydoge79 I like the meme\n\nWould sure make the complainoors lose their minds 🍿",
+            "created_at": "Sat Mar 15 20:58:42 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 47,
+            "username": "Culture Doge",
+            "text": "For the complainoors at the back:\n\nHoD claims to be the official corporate parter of the Dogecoin FOUNDATION.\n\nNot of Dogecoin itself. (Obviously)\n\nCan’t believe I’m posting this obvious fact but the grifters are out in force today. https://t.co/gyyso7WoNx",
+            "created_at": "Sat Mar 15 20:33:32 +0000 2025",
+            "retweet": 1,
+            "likes": 25
+        },
+        {
+            "tweet_count": 48,
+            "username": "Culture Doge",
+            "text": "Bitcoiners used to say “one day you won’t be able to buy bitcoin, you’ll have to work for it”.\n\nThey were wrong. \n\nBitcoin’s only use case is to be bought and sold as an asset.\n\nI believe however that this will be true with Dogecoin because it’s not an asset. \n\nIt’s money.",
+            "created_at": "Sat Mar 15 17:05:18 +0000 2025",
+            "retweet": 3,
+            "likes": 15
+        },
+        {
+            "tweet_count": 49,
+            "username": "Culture Doge",
+            "text": "@LNorstein Ordinals and liquid bros in disbelief 🍿👌",
+            "created_at": "Sat Mar 15 16:50:54 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 50,
+            "username": "Culture Doge",
+            "text": "Keeping it Lean + immutable. \n\nTokenize anything you want on Dogecoin without clogging the chain - while still getting the attestation of asset transfer on the main chain.\n\nIntroducing FractalEngine 👇",
+            "created_at": "Sat Mar 15 16:43:28 +0000 2025",
+            "retweet": 3,
+            "likes": 19
+        },
+        {
+            "tweet_count": 51,
+            "username": "Culture Doge",
+            "text": "@inevitable360 Lmao old media over thinking a meme never gets old 🤣👌",
+            "created_at": "Sat Mar 15 16:24:59 +0000 2025",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 52,
+            "username": "Culture Doge",
+            "text": "@saxe77615 @tjstebbing @Astro1062 Np! Actually tbh, your comment is also true. Because transactions won’t have to compete with data storage. \n\nSo it’s a leaner more efficient system which does also impact transaction speed in the end. 👌",
+            "created_at": "Sat Mar 15 16:18:31 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 53,
+            "username": "Culture Doge",
+            "text": "@saxe77615 @tjstebbing @Astro1062 No this is about data storage and where it happens. \n\nIt incentivizes people that want to store data to not do it on the main chain as to keep said main chain for its intended use case: money. \n\nIt creates a better sandbox for tokenized things to move into.\n\nIt’s brilliant tbh.",
+            "created_at": "Sat Mar 15 16:04:11 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 54,
+            "username": "Culture Doge",
+            "text": "This is the way 💯",
+            "created_at": "Sat Mar 15 05:27:37 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 55,
+            "username": "Culture Doge",
+            "text": "@Vino97_ Very possible, this feels like a tipping point indeed.",
+            "created_at": "Sat Mar 15 02:06:51 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 56,
+            "username": "Culture Doge",
+            "text": "@Vino97_ I think we’re still on stage 2 but things sure seem to be accelerating!",
+            "created_at": "Sat Mar 15 02:00:34 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 57,
+            "username": "Culture Doge",
+            "text": "@sgtesco @MyDogeTip Wow! Thank you!",
+            "created_at": "Sat Mar 15 01:47:06 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 58,
+            "username": "Culture Doge",
+            "text": "“How many chairs are you sitting on” https://t.co/olZKVCuqX8",
+            "created_at": "Sat Mar 15 01:08:40 +0000 2025",
+            "retweet": 0,
+            "likes": 6
+        },
+        {
+            "tweet_count": 59,
+            "username": "Culture Doge",
+            "text": "Sometimes I feel like I’m watching a snowball roll downhill in slow motion. \n\nThen I catch myself and say - “no, what I think is happening can’t be real”. \n\nBut then the snowball keeps on rolling and I’m like “wow”. https://t.co/4mnXZUG4hh",
+            "created_at": "Mon Mar 17 18:46:14 +0000 2025",
+            "retweet": 0,
+            "likes": 10
+        },
+        {
+            "tweet_count": 60,
+            "username": "Culture Doge",
+            "text": "@CoffeeForTheWin Nice! 🔥\n\nLet’s us know on here when it pops so we can share it!",
+            "created_at": "Tue Mar 18 21:09:27 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 61,
+            "username": "Culture Doge",
+            "text": "@killua_zoldx @GrassFedBitcoin Have fun forking off from blackrock and saylor my dude ✌️",
+            "created_at": "Tue Mar 18 20:24:59 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 62,
+            "username": "Culture Doge",
+            "text": "@killua_zoldx @GrassFedBitcoin That’s precisely where I disagree 🎯\n\nGlad you brought institutional transactions.\n\nOnce banks custody bitcoin, they will exchange paper contracts that represent ownership. \n\nSame is true for etf. \n\nYour gold 2.0 is going exactly where gold 1.0 went. \n\nBut hey, we can have",
+            "created_at": "Tue Mar 18 20:01:00 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 63,
+            "username": "Culture Doge",
+            "text": "Because the human lifespan is so short, we think some things will never change.\n\nBut that is not the case. \nChange - is the only constant. https://t.co/SB6QUKnx1Z",
+            "created_at": "Tue Mar 18 19:58:26 +0000 2025",
+            "retweet": 7,
+            "likes": 17
+        },
+        {
+            "tweet_count": 64,
+            "username": "Culture Doge",
+            "text": "@DogeRetweet Thanks!",
+            "created_at": "Tue Mar 18 19:54:54 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 65,
+            "username": "Culture Doge",
+            "text": "@killua_zoldx @GrassFedBitcoin You’re going to run out of transactions on L1. You know what happens after that.",
+            "created_at": "Tue Mar 18 19:50:50 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 66,
+            "username": "Culture Doge",
+            "text": "Imagine your own self hosted online store, tied to a self custodial payment system.\n\nAll in a plug and play solution. \n\nThat’s an actual incentive to accept only Dogecoin for your store as it would be easier and cheaper than the fiat alternative. \n\nNot because you believe in",
+            "created_at": "Tue Mar 18 19:28:14 +0000 2025",
+            "retweet": 12,
+            "likes": 64
+        },
+        {
+            "tweet_count": 67,
+            "username": "Culture Doge",
+            "text": "@killua_zoldx @GrassFedBitcoin No they’re not. \nThat’s the point.",
+            "created_at": "Tue Mar 18 19:10:51 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 68,
+            "username": "Culture Doge",
+            "text": "@GrassFedBitcoin Yup. \n\nSeparating money and state won’t come from NgU alone. \n\nThe “bitcoin is digital gold” thing condemns it. \n\nSame for all the L2s (mstr and etf included). These rob the network of its life force, aka transactions.",
+            "created_at": "Tue Mar 18 16:24:01 +0000 2025",
+            "retweet": 0,
+            "likes": 5
+        },
+        {
+            "tweet_count": 69,
+            "username": "Culture Doge",
+            "text": "@The_REDWRITER Let’s go!",
+            "created_at": "Tue Mar 18 16:10:36 +0000 2025",
+            "retweet": 0,
+            "likes": 4
+        },
+        {
+            "tweet_count": 70,
+            "username": "Culture Doge",
+            "text": "@The_REDWRITER Nice! 🔥",
+            "created_at": "Tue Mar 18 16:09:38 +0000 2025",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 71,
+            "username": "Culture Doge",
+            "text": "@The_REDWRITER Oh and also, behind the scenes content for when you organize a meetup! That’d be awesome too! \n\nBut in any case, thank you for all the cool things you post!",
+            "created_at": "Tue Mar 18 15:52:44 +0000 2025",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 72,
+            "username": "Culture Doge",
+            "text": "@The_REDWRITER I know it’s time consuming but I think you’re a great space host. So more spaces would be awesome imo 😁",
+            "created_at": "Tue Mar 18 15:51:12 +0000 2025",
+            "retweet": 0,
+            "likes": 8
+        },
+        {
+            "tweet_count": 73,
+            "username": "Culture Doge",
+            "text": "@kimdogex It’s on! https://t.co/bhyLckW8IH",
+            "created_at": "Wed Mar 19 16:55:29 +0000 2025",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 74,
+            "username": "Culture Doge",
+            "text": "Vote here 👇\n\nhttps://t.co/xGOAeuja3i",
+            "created_at": "Wed Mar 19 16:51:33 +0000 2025",
+            "retweet": 1,
+            "likes": 3
+        },
+        {
+            "tweet_count": 75,
+            "username": "Culture Doge",
+            "text": "No brainer 😏 https://t.co/jcdQq4BUZl",
+            "created_at": "Wed Mar 19 16:51:01 +0000 2025",
+            "retweet": 0,
+            "likes": 18
+        },
+        {
+            "tweet_count": 76,
+            "username": "Culture Doge",
+            "text": "This is very cool! \n\nYou can vote for your favorite wrap for the Dogecoin car running in the Indy 500!\n\nLegendary race! 🔥\nThe next one is on May 25th. \n\nVote for your wrapper and tune in to the race! 🍿🏎️",
+            "created_at": "Wed Mar 19 16:18:03 +0000 2025",
+            "retweet": 0,
+            "likes": 12
+        },
+        {
+            "tweet_count": 77,
+            "username": "Culture Doge",
+            "text": "Absolute banger article about how YOU can drive Dogecoin adoption worldwide. \n\nThis is epic.",
+            "created_at": "Thu Mar 20 21:50:03 +0000 2025",
+            "retweet": 0,
+            "likes": 15
+        },
+        {
+            "tweet_count": 78,
+            "username": "Culture Doge",
+            "text": "“Alright top lane, incoming from the river, get ready to tower dive” https://t.co/CuYS2LGXTN",
+            "created_at": "Fri Mar 21 21:10:12 +0000 2025",
+            "retweet": 0,
+            "likes": 7
+        },
+        {
+            "tweet_count": 79,
+            "username": "Culture Doge",
+            "text": "@CoffeeForTheWin @barrettsanders @The_REDWRITER Thank you! Still learning myself but always a pleasure to discuss doge things with you.",
+            "created_at": "Fri Mar 21 18:34:31 +0000 2025",
+            "retweet": 0,
+            "likes": 1
+        }
+    ]
+}

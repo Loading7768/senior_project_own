@@ -1,0 +1,84 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@PiccoloNamekGod @X1_blockchain @lavanetxyz @Starknet @dogecoin @_Bellscoin Its a dedicated bare metal server via Contabo.",
+            "created_at": "Mon Feb 26 17:29:05 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 2,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "1 validator node @X1_blockchain \n2 PoS nodes @lavanetxyz and @Starknet \n2 PoW nodes @dogecoin and @_Bellscoin \n\nMaximizing rent. https://t.co/CB35BVwTjy",
+            "created_at": "Mon Feb 26 17:16:41 +0000 2024",
+            "retweet": 0,
+            "likes": 6
+        },
+        {
+            "tweet_count": 3,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@wagmisaurus3 @dmtnatdogs @doggy_market FYI. The address you have on Doggy is not controlled by the site. It is non custodial. \n\nNow, regarding your issue, sending Doge to another wallet should not take long. \n\nHave you checked the tx on a Dogecoin explorer like SoChain?",
+            "created_at": "Mon Feb 26 17:02:43 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 4,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "cd\ncd dogecoin-1.14.6/bin\n./dogecoin-cli stop\npause\ncd\nmv dogecoin-1.14.6 doge-old\nwget https://t.co/QPybvGltCU\ntar -xvzf dogecoin-1.14.7-x86_64-linux-gnu.tar.gz\ncd dogecoin-1.14.7/bin\n./dogecoind -daemon",
+            "created_at": "Thu Feb 29 06:45:18 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 5,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "6/ Run the new Dogecoin core.\n\nFrom root directory, navigate to Dogecoin folder\n\ncd dogecoin-1.14.7\ncd bin\n./dogecoind -daemon\n\nNote:\nOptional step, renamed the folder to just \"doge\". As shown on the screenshot below https://t.co/IOWMu6hHog",
+            "created_at": "Thu Feb 29 02:50:31 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 6,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "5/ Extract the tar\n\ntar -xvzf dogecoin-1.14.7-x86_64-linux-gnu.tar.gz\n\nWait for extract to complete https://t.co/YY05delfxW",
+            "created_at": "Thu Feb 29 02:50:31 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 7,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "3/ Rename old Core folder\n\nFrom root directory:\n\ncd\nmv dogecoin-1.14.6 doge-old\n\nNote:\nMy core is named \"doge\" so I just rename it back to original folder named \"dogecoin-1.14.6. See screenshot. https://t.co/TrlBCVQpfa",
+            "created_at": "Thu Feb 29 02:50:29 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 8,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "2/ Stopping your Dogecoin Core!\n\nFrom root directory:\n\ncd dogecoin-1.14.6\ncd bin\n./dogecoin-cli stop\n\nWait until the core is completely stopped\n\nNote: \nIn may case I have renamed it to just \"doge\" as shown on the screenshot. https://t.co/dMjaWBIvff",
+            "created_at": "Thu Feb 29 02:50:28 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 9,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "1/ Backup your wallet!\n\nOn your terminal, go to root directory:\n\ncd\ncd ~/.dogecoin\ncp wallet.dat &lt;backup location&gt; https://t.co/qBLYkfSqnw",
+            "created_at": "Thu Feb 29 02:50:27 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 3099,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "Update your @dogecoin  core to 1.14.7\nhttps://t.co/Z3AtH2SWRD\n\nIt will be a quick simple process. Steps involve backing up your \"wallet.dat\", stopping daemon, renaming folder, downloading new core and running it.\n\nIf you are on LInux, here are the the commands.",
+            "created_at": "Thu Feb 29 02:50:27 +0000 2024",
+            "retweet": 1,
+            "likes": 10
+        }
+    ]
+}
