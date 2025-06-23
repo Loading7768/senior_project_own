@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "#dogecoin is pumping because a large trading group decided to pump it a few days ago! Check their last announcement about $doge on their Discord:  https://t.co/FlcglDLBZZ https://t.co/j1NOS7wrnq",
+        "X_token": "dogecoin, pumping, large, trading, group, decided, pump, days, ago, check, last, announcement, doge, discord, https, https",
+        "X_tweet_count": 1,
+        "X_username": "hua",
+        "Y_text": "The largest Discord trading group started pumping $doge yesterday! They are aiming to pump #dogecoin  to $0.50! Check their last announcement 👉 https://t.co/FlcglDLBZZ https://t.co/Qhis1KL3ks https://t.co/FLO0FzLotb",
+        "Y_token": "largest, discord, trading, group, started, pumping, doge, yesterday, aiming, pump, dogecoin, check, last, announcement, https, https, https",
+        "Y_tweet_count": 5,
+        "Y_username": "hua",
+        "X_length": 194,
+        "Y_length": 215,
+        "Y_length_percent_of_X": 110.82,
+        "X_length_percent_of_Y": 90.23,
+        "dice_coefficient": 73.33
+    },
+    {
+        "X_text": "The largest Discord trading group started pumping $doge yesterday! They are aiming to pump #dogecoin to $0.50 in the next few days! Read their last announcement: https://t.co/FlcglDLBZZ https://t.co/zfQrsmUbHz https://t.co/xltEhv6aYJ",
+        "X_token": "largest, discord, trading, group, started, pumping, doge, yesterday, aiming, pump, dogecoin, next, days, read, last, announcement, https, https, https",
+        "X_tweet_count": 3,
+        "X_username": "hua",
+        "Y_text": "The largest Discord trading group started pumping $doge yesterday! They are aiming to pump #dogecoin  to $0.50! Check their last announcement 👉 https://t.co/FlcglDLBZZ https://t.co/Qhis1KL3ks https://t.co/FLO0FzLotb",
+        "Y_token": "largest, discord, trading, group, started, pumping, doge, yesterday, aiming, pump, dogecoin, check, last, announcement, https, https, https",
+        "Y_tweet_count": 5,
+        "Y_username": "hua",
+        "X_length": 233,
+        "Y_length": 215,
+        "Y_length_percent_of_X": 92.27,
+        "X_length_percent_of_Y": 108.37,
+        "dice_coefficient": 87.5
+    },
+    {
+        "X_text": "#safemoon getting pumped by the same group that pumped #dogecoin. Check their last announcement on Discord: https://t.co/NwnLiEjWkf https://t.co/JZgXTyAlMI",
+        "X_token": "safemoon, getting, pumped, group, pumped, dogecoin, check, last, announcement, discord, https, https",
+        "X_tweet_count": 7,
+        "X_username": "hua",
+        "Y_text": "#SAFEMOON is currently getting pumped by the same group that pumped #dogecoin last week. Check the last announcement of the admin on Discord: https://t.co/NwnLiEjWkf https://t.co/EA6LBdIL6u",
+        "Y_token": "safemoon, currently, getting, pumped, group, pumped, dogecoin, last, week, check, last, announcement, admin, discord, https, https",
+        "Y_tweet_count": 10,
+        "Y_username": "hua",
+        "X_length": 155,
+        "Y_length": 189,
+        "Y_length_percent_of_X": 121.94,
+        "X_length_percent_of_Y": 82.01,
+        "dice_coefficient": 86.96
+    }
+]

@@ -1,0 +1,55 @@
+﻿X = [@business Can you buy a T-Mobile phone with #Dogecoin ?]
+X_token = [business, buy, phone, dogecoin]
+	X tweet_count = [7]
+	X username = [Nate Bull]
+Y = [@business Can I buy the yogurt with #dogecoin ?]
+Y_token = [business, buy, yogurt, dogecoin]
+	Y tweet_count = [38]
+	Y username = [Nate Bull]
+Total Length: X = 55, Y = 47 (Y / X = 85.45  X / Y = 117.02)
+Dice Coefficient: 75.00% 
+
+X = [@business They definitely invested in #dogecoin]
+X_token = [business, definitely, invested, dogecoin]
+	X tweet_count = [22]
+	X username = [Nate Bull]
+Y = [@business They must have invested in #dogecoin]
+Y_token = [business, must, invested, dogecoin]
+	Y tweet_count = [23]
+	Y username = [Nate Bull]
+Total Length: X = 47, Y = 46 (Y / X = 97.87  X / Y = 102.17)
+Dice Coefficient: 75.00% 
+
+X = [@latimes Can I purchase tickets with #dogecoin ?]
+X_token = [latimes, purchase, tickets, dogecoin]
+	X tweet_count = [24]
+	X username = [Nate Bull]
+Y = [@business Can I purchase tickets with #dogecoin ?]
+Y_token = [business, purchase, tickets, dogecoin]
+	Y tweet_count = [42]
+	Y username = [Nate Bull]
+Total Length: X = 48, Y = 49 (Y / X = 102.08  X / Y = 97.96)
+Dice Coefficient: 75.00% 
+
+X = [@business They should use #dogecoin]
+X_token = [business, use, dogecoin]
+	X tweet_count = [35]
+	X username = [Nate Bull]
+Y = [@business They should use #dogecoin]
+Y_token = [business, use, dogecoin]
+	Y tweet_count = [41]
+	Y username = [Nate Bull]
+Total Length: X = 35, Y = 35 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@business He invested in #dogecoin]
+X_token = [business, invested, dogecoin]
+	X tweet_count = [37]
+	X username = [Nate Bull]
+Y = [@business They invested in #dogecoin]
+Y_token = [business, invested, dogecoin]
+	Y tweet_count = [45]
+	Y username = [Nate Bull]
+Total Length: X = 34, Y = 36 (Y / X = 105.88  X / Y = 94.44)
+Dice Coefficient: 100.00% 
+

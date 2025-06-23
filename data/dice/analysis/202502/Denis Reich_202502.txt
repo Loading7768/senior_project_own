@@ -1,0 +1,110 @@
+﻿X = [@elonmusk And when you launch Dogecoin?]
+X_token = [elonmusk, launch, dogecoin]
+	X tweet_count = [6]
+	X username = [Denis Reich]
+Y = [@elonmusk Elon, when you launch a @dogecoin ?]
+Y_token = [elonmusk, elon, launch, dogecoin]
+	Y tweet_count = [20]
+	Y username = [Denis Reich]
+Total Length: X = 39, Y = 45 (Y / X = 115.38  X / Y = 86.67)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk Elon, why you ignore @dogecoin ?]
+X_token = [elonmusk, elon, ignore, dogecoin]
+	X tweet_count = [15]
+	X username = [Denis Reich]
+Y = [@elonmusk @XorDev Why you ignore @dogecoin ?]
+Y_token = [elonmusk, xordev, ignore, dogecoin]
+	Y tweet_count = [16]
+	Y username = [Denis Reich]
+Total Length: X = 42, Y = 44 (Y / X = 104.76  X / Y = 95.45)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk Elon, why you ignore @dogecoin ?]
+X_token = [elonmusk, elon, ignore, dogecoin]
+	X tweet_count = [15]
+	X username = [Denis Reich]
+Y = [@elonmusk Elon, when you launch a @dogecoin ?]
+Y_token = [elonmusk, elon, launch, dogecoin]
+	Y tweet_count = [20]
+	Y username = [Denis Reich]
+Total Length: X = 42, Y = 45 (Y / X = 107.14  X / Y = 93.33)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk Elon, why you ignore @dogecoin ?]
+X_token = [elonmusk, elon, ignore, dogecoin]
+	X tweet_count = [15]
+	X username = [Denis Reich]
+Y = [@elonmusk @Dogecoin, Mr. Musk. Why do you ignore it?]
+Y_token = [elonmusk, dogecoin, musk, ignore]
+	Y tweet_count = [23]
+	Y username = [Denis Reich]
+Total Length: X = 42, Y = 52 (Y / X = 123.81  X / Y = 80.77)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk Elon, why you ignore @dogecoin ?]
+X_token = [elonmusk, elon, ignore, dogecoin]
+	X tweet_count = [15]
+	X username = [Denis Reich]
+Y = [@elonmusk Elon, why you ignore @dogecoin ?]
+Y_token = [elonmusk, elon, ignore, dogecoin]
+	Y tweet_count = [33]
+	Y username = [Denis Reich]
+Total Length: X = 42, Y = 42 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk @XorDev Why you ignore @dogecoin ?]
+X_token = [elonmusk, xordev, ignore, dogecoin]
+	X tweet_count = [16]
+	X username = [Denis Reich]
+Y = [@elonmusk @Dogecoin, Mr. Musk. Why do you ignore it?]
+Y_token = [elonmusk, dogecoin, musk, ignore]
+	Y tweet_count = [23]
+	Y username = [Denis Reich]
+Total Length: X = 44, Y = 52 (Y / X = 118.18  X / Y = 84.62)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk @XorDev Why you ignore @dogecoin ?]
+X_token = [elonmusk, xordev, ignore, dogecoin]
+	X tweet_count = [16]
+	X username = [Denis Reich]
+Y = [@elonmusk Elon, why you ignore @dogecoin ?]
+Y_token = [elonmusk, elon, ignore, dogecoin]
+	Y tweet_count = [33]
+	Y username = [Denis Reich]
+Total Length: X = 44, Y = 42 (Y / X = 95.45  X / Y = 104.76)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk Elon, when you launch a @dogecoin ?]
+X_token = [elonmusk, elon, launch, dogecoin]
+	X tweet_count = [20]
+	X username = [Denis Reich]
+Y = [@elonmusk Elon, why you ignore @dogecoin ?]
+Y_token = [elonmusk, elon, ignore, dogecoin]
+	Y tweet_count = [33]
+	Y username = [Denis Reich]
+Total Length: X = 45, Y = 42 (Y / X = 93.33  X / Y = 107.14)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk @Dogecoin, Mr. Musk. Why do you ignore it?]
+X_token = [elonmusk, dogecoin, musk, ignore]
+	X tweet_count = [23]
+	X username = [Denis Reich]
+Y = [@elonmusk Elon, why you ignore @dogecoin ?]
+Y_token = [elonmusk, elon, ignore, dogecoin]
+	Y tweet_count = [33]
+	Y username = [Denis Reich]
+Total Length: X = 52, Y = 42 (Y / X = 80.77  X / Y = 123.81)
+Dice Coefficient: 75.00% 
+
+X = [@Investments_CEO @elonmusk abandoned @dogecoin]
+X_token = [elonmusk, abandoned, dogecoin]
+	X tweet_count = [29]
+	X username = [Denis Reich]
+Y = [@elonmusk @joerogan Mister, why you abandoned @dogecoin ?]
+Y_token = [elonmusk, joerogan, mister, abandoned, dogecoin]
+	Y tweet_count = [34]
+	Y username = [Denis Reich]
+Total Length: X = 46, Y = 57 (Y / X = 123.91  X / Y = 80.70)
+Dice Coefficient: 75.00% 
+

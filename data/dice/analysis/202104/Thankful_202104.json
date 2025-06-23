@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@WorldWideWob Grab some #dogecoin before #DogeDay420",
+        "X_token": "worldwidewob, grab, dogecoin, dogeday420",
+        "X_tweet_count": 9,
+        "X_username": "Thankful",
+        "Y_text": "@MSNBC Grab you some #dogecoin before #DogeDay420",
+        "Y_token": "msnbc, grab, dogecoin, dogeday420",
+        "Y_tweet_count": 10,
+        "Y_username": "Thankful",
+        "X_length": 52,
+        "Y_length": 49,
+        "Y_length_percent_of_X": 94.23,
+        "X_length_percent_of_Y": 106.12,
+        "dice_coefficient": 75.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Let's goooo #dogecoin 🚀🚀🚀",
+        "X_token": "let, goooo, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Bullshitting Fantasy Commander🫡",
+        "Y_text": "LET'S GOOOO #DOGECOIN",
+        "Y_token": "let, goooo, dogecoin",
+        "Y_tweet_count": 39,
+        "Y_username": "Bullshitting Fantasy Commander🫡",
+        "X_length": 25,
+        "Y_length": 21,
+        "Y_length_percent_of_X": 84.0,
+        "X_length_percent_of_Y": 119.05,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "#Dogecoin flyinggg !!! $0.34 \n\n#DogecoinRise #DogeArmy https://t.co/3UUsSDPvRx",
+        "X_token": "dogecoin, flyinggg, dogecoinrise, dogearmy, https",
+        "X_tweet_count": 16,
+        "X_username": "Bullshitting Fantasy Commander🫡",
+        "Y_text": "Let's goo #DogeArmy #DogecoinRise #Dogecoin https://t.co/DYgeN3kKY6",
+        "Y_token": "let, goo, dogearmy, dogecoinrise, dogecoin, https",
+        "Y_tweet_count": 32,
+        "Y_username": "Bullshitting Fantasy Commander🫡",
+        "X_length": 78,
+        "Y_length": 67,
+        "Y_length_percent_of_X": 85.9,
+        "X_length_percent_of_Y": 116.42,
+        "dice_coefficient": 72.73
+    }
+]

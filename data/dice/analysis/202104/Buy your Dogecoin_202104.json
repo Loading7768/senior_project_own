@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@MattWallace888 Ready for take off 🚀 #dogecoin",
+        "X_token": "mattwallace888, ready, take, dogecoin",
+        "X_tweet_count": 7,
+        "X_username": "Buy your Dogecoin",
+        "Y_text": "@dogecoin_rise Ready for take off #dogecoin #dogday  🚀🚀🚀",
+        "Y_token": "ready, take, dogecoin, dogday",
+        "Y_tweet_count": 30,
+        "Y_username": "Buy your Dogecoin",
+        "X_length": 46,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 121.74,
+        "X_length_percent_of_Y": 82.14,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@MattWallace888 Ready for take off 🚀 #dogecoin",
+        "X_token": "mattwallace888, ready, take, dogecoin",
+        "X_tweet_count": 7,
+        "X_username": "Buy your Dogecoin",
+        "Y_text": "@HG1095 Ready for take off 🚀 #dogecoin",
+        "Y_token": "hg1095, ready, take, dogecoin",
+        "Y_tweet_count": 31,
+        "Y_username": "Buy your Dogecoin",
+        "X_length": 46,
+        "Y_length": 38,
+        "Y_length_percent_of_X": 82.61,
+        "X_length_percent_of_Y": 121.05,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@_xxxxyN @BotOfDogecoin We are strong #dogecoin",
+        "X_token": "botofdogecoin, strong, dogecoin",
+        "X_tweet_count": 11,
+        "X_username": "Buy your Dogecoin",
+        "Y_text": "@dogecoin_rise #dogecoin is strong 💪🏻🚀",
+        "Y_token": "dogecoin, strong",
+        "Y_tweet_count": 16,
+        "Y_username": "Buy your Dogecoin",
+        "X_length": 47,
+        "Y_length": 38,
+        "Y_length_percent_of_X": 80.85,
+        "X_length_percent_of_Y": 123.68,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@_xxxxyN @BotOfDogecoin We are strong #dogecoin",
+        "X_token": "botofdogecoin, strong, dogecoin",
+        "X_tweet_count": 11,
+        "X_username": "Buy your Dogecoin",
+        "Y_text": "@QBullxrp @BotOfDogecoin #dogecoin is strong 🚀",
+        "Y_token": "qbullxrp, botofdogecoin, dogecoin, strong",
+        "Y_tweet_count": 24,
+        "Y_username": "Buy your Dogecoin",
+        "X_length": 47,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 97.87,
+        "X_length_percent_of_Y": 102.17,
+        "dice_coefficient": 85.71
+    }
+]

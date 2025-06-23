@@ -1,0 +1,33 @@
+﻿X = [@elonmusk DogeCoin]
+X_token = [elonmusk, dogecoin]
+	X tweet_count = [5]
+	X username = [DogeCoin is the Future]
+Y = [@elonmusk DogeCoin]
+Y_token = [elonmusk, dogecoin]
+	Y tweet_count = [93]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 18, Y = 18 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [.34 cents DogeCoin]
+X_token = [cents, dogecoin]
+	X tweet_count = [58]
+	X username = [DogeCoin is the Future]
+Y = [.36 cents DogeCoin]
+Y_token = [cents, dogecoin]
+	Y tweet_count = [83]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 18, Y = 18 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Bullish!]
+X_token = [bullish]
+	X tweet_count = [63]
+	X username = [DogeCoin is the Future]
+Y = [Bullish]
+Y_token = [bullish]
+	Y tweet_count = [91]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 8, Y = 7 (Y / X = 87.50  X / Y = 114.29)
+Dice Coefficient: 100.00% 
+

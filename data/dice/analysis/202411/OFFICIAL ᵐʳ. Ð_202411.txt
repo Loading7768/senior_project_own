@@ -1,0 +1,22 @@
+﻿X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [1]
+	X username = [OFFICIAL ᵐʳ. Ð]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [11]
+	Y username = [OFFICIAL ᵐʳ. Ð]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin https://t.co/El7JcYwCW8]
+X_token = [dogecoin, https]
+	X tweet_count = [24]
+	X username = [OFFICIAL ᵐʳ. Ð]
+Y = [DOGECOIN https://t.co/u7FW7EOVY6]
+Y_token = [dogecoin, https]
+	Y tweet_count = [25]
+	Y username = [OFFICIAL ᵐʳ. Ð]
+Total Length: X = 32, Y = 32 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@MrBeast Where is the whole video with CR7? @Cristiano",
+        "X_token": "mrbeast, whole, video, cr7, cristiano",
+        "X_tweet_count": 52,
+        "X_username": "Dogecoin_Mexico 🇲🇽",
+        "Y_text": "@Cristiano @MrBeast Where is the whole video?",
+        "Y_token": "cristiano, mrbeast, whole, video",
+        "Y_tweet_count": 53,
+        "Y_username": "Dogecoin_Mexico 🇲🇽",
+        "X_length": 54,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 83.33,
+        "X_length_percent_of_Y": 120.0,
+        "dice_coefficient": 88.89
+    }
+]

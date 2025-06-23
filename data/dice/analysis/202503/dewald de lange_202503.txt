@@ -1,0 +1,77 @@
+﻿X = [@Cointelegraph Dogecoin is the people's money , made in the USA and got no CEO]
+X_token = [cointelegraph, dogecoin, people, money, made, usa, got, ceo]
+	X tweet_count = [5]
+	X username = [dewald de lange]
+Y = [@EricTrump Dogecoin is the people's money and was made in the USA and got no CEO !!!!!!!]
+Y_token = [erictrump, dogecoin, people, money, made, usa, got, ceo]
+	Y tweet_count = [6]
+	Y username = [dewald de lange]
+Total Length: X = 78, Y = 88 (Y / X = 112.82  X / Y = 88.64)
+Dice Coefficient: 87.50% 
+
+X = [@NikolaBench More and more Dogecoin]
+X_token = [nikolabench, dogecoin]
+	X tweet_count = [8]
+	X username = [dewald de lange]
+Y = [@NikolaBench Dogecoin all the way]
+Y_token = [nikolabench, dogecoin, way]
+	Y tweet_count = [9]
+	Y username = [dewald de lange]
+Total Length: X = 35, Y = 33 (Y / X = 94.29  X / Y = 106.06)
+Dice Coefficient: 80.00% 
+
+X = [@NikolaBench More and more Dogecoin]
+X_token = [nikolabench, dogecoin]
+	X tweet_count = [8]
+	X username = [dewald de lange]
+Y = [@NikolaBench Dogecoin for the win]
+Y_token = [nikolabench, dogecoin, win]
+	Y tweet_count = [41]
+	Y username = [dewald de lange]
+Total Length: X = 35, Y = 33 (Y / X = 94.29  X / Y = 106.06)
+Dice Coefficient: 80.00% 
+
+X = [@NikolaBench Dogecoin all the way]
+X_token = [nikolabench, dogecoin, way]
+	X tweet_count = [9]
+	X username = [dewald de lange]
+Y = [@Gem_Sheriff Dogecoin all the way]
+Y_token = [dogecoin, way]
+	Y tweet_count = [86]
+	Y username = [dewald de lange]
+Total Length: X = 33, Y = 33 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 80.00% 
+
+X = [@AltcoinDailyio Dogecoin\nDogecoin\nDogecoin]
+X_token = [altcoindailyio, dogecoin, dogecoin, dogecoin]
+	X tweet_count = [15]
+	X username = [dewald de lange]
+Y = [@AltcoinDailyio Dogecoin for the win]
+Y_token = [altcoindailyio, dogecoin, win]
+	Y tweet_count = [106]
+	Y username = [dewald de lange]
+Total Length: X = 42, Y = 36 (Y / X = 85.71  X / Y = 116.67)
+Dice Coefficient: 80.00% 
+
+X = [@EricTrump Dogecoin 4 the win]
+X_token = [erictrump, dogecoin, 4, win]
+	X tweet_count = [23]
+	X username = [dewald de lange]
+Y = [@coinbureau Dogecoin 4 the win]
+Y_token = [coinbureau, dogecoin, 4, win]
+	Y tweet_count = [94]
+	Y username = [dewald de lange]
+Total Length: X = 29, Y = 30 (Y / X = 103.45  X / Y = 96.67)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk Dogecoin !!!!!!!!!!!]
+X_token = [elonmusk, dogecoin]
+	X tweet_count = [81]
+	X username = [dewald de lange]
+Y = [@alx Dogecoin only @elonmusk]
+Y_token = [alx, dogecoin, elonmusk]
+	Y tweet_count = [97]
+	Y username = [dewald de lange]
+Total Length: X = 30, Y = 28 (Y / X = 93.33  X / Y = 107.14)
+Dice Coefficient: 80.00% 
+

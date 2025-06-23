@@ -1,0 +1,22 @@
+﻿X = [DOGECOIN JUST BROKE IT’S ALL TIME HIGH!!!]
+X_token = [dogecoin, broke, time, high]
+	X tweet_count = [16]
+	X username = [Matt Wallace]
+Y = [DOGECOIN JUST SHATTERED IT’S ALL TIME HIGH!!!!!!!!]
+Y_token = [dogecoin, shattered, time, high]
+	Y tweet_count = [45]
+	Y username = [Matt Wallace]
+Total Length: X = 41, Y = 50 (Y / X = 121.95  X / Y = 82.00)
+Dice Coefficient: 75.00% 
+
+X = [Dogecoin up 6.8% in the last hour!]
+X_token = [dogecoin, last, hour]
+	X tweet_count = [50]
+	X username = [Matt Wallace]
+Y = [DOGECOIN UP 20% IN THE LAST HOUR!]
+Y_token = [dogecoin, 20, last, hour]
+	Y tweet_count = [74]
+	Y username = [Matt Wallace]
+Total Length: X = 34, Y = 33 (Y / X = 97.06  X / Y = 103.03)
+Dice Coefficient: 85.71% 
+

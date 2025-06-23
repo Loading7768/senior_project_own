@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Rt or like this if you’re not selling #dogecoin, even if it gets to $1",
+        "X_token": "rt, like, selling, dogecoin, even, gets, 1",
+        "X_tweet_count": 18,
+        "X_username": "HalfTime Zone",
+        "Y_text": "Rt and like if you’re going to hodl #dogecoin even when it gets to $1 #dogearmy",
+        "Y_token": "rt, like, going, hodl, dogecoin, even, gets, 1, dogearmy",
+        "Y_tweet_count": 36,
+        "Y_username": "HalfTime Zone",
+        "X_length": 70,
+        "Y_length": 79,
+        "Y_length_percent_of_X": 112.86,
+        "X_length_percent_of_Y": 88.61,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Ok it’s starting to do that thing again 👀#dogecoin",
+        "X_token": "ok, starting, thing, dogecoin",
+        "X_tweet_count": 24,
+        "X_username": "HalfTime Zone",
+        "Y_text": "Is #dogecoin starting to do the thing again? #dogearmy",
+        "Y_token": "dogecoin, starting, thing, dogearmy",
+        "Y_tweet_count": 25,
+        "Y_username": "HalfTime Zone",
+        "X_length": 50,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 108.0,
+        "X_length_percent_of_Y": 92.59,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "SHOULD AMAZON ACCEPT #DOGECOIN? \n\nYes           Yes               Yes\n👇             👇                👇",
+        "X_token": "amazon, accept, dogecoin, yes, yes, yes",
+        "X_tweet_count": 34,
+        "X_username": "HalfTime Zone",
+        "Y_text": "Should Amazon accept  #DOGECOIN? \n\nYes           Yes               Yes\n👇             👇                👇",
+        "Y_token": "amazon, accept, dogecoin, yes, yes, yes",
+        "Y_tweet_count": 52,
+        "Y_username": "HalfTime Zone",
+        "X_length": 102,
+        "Y_length": 103,
+        "Y_length_percent_of_X": 100.98,
+        "X_length_percent_of_Y": 99.03,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Doge, that’s it, that’s the tweet #dogecoin #DogecoinRise",
+        "X_token": "doge, tweet, dogecoin, dogecoinrise",
+        "X_tweet_count": 47,
+        "X_username": "HalfTime Zone",
+        "Y_text": "Doge is on the rise again! 🚀 #dogecoin #DogecoinRise",
+        "Y_token": "doge, rise, dogecoin, dogecoinrise",
+        "Y_tweet_count": 61,
+        "Y_username": "HalfTime Zone",
+        "X_length": 57,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 91.23,
+        "X_length_percent_of_Y": 109.62,
+        "dice_coefficient": 75.0
+    }
+]

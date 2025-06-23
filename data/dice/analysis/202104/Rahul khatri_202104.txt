@@ -1,0 +1,44 @@
+﻿X = [@mlmamantv @elonmusk @dogecoin Buy #dogecoin before it goes to the moon $1🌛]
+X_token = [mlmamantv, elonmusk, dogecoin, buy, dogecoin, goes, moon]
+	X tweet_count = [3]
+	X username = [Rahul khatri]
+Y = [@elonmusk Buy #dogecoin before it goes to the moon 🌜$1.................😎]
+Y_token = [elonmusk, buy, dogecoin, goes, moon, 1]
+	Y tweet_count = [4]
+	Y username = [Rahul khatri]
+Total Length: X = 75, Y = 72 (Y / X = 96.00  X / Y = 104.17)
+Dice Coefficient: 83.33% 
+
+X = [@mlmamantv @elonmusk @dogecoin Buy #dogecoin before it goes to the moon $1🌛]
+X_token = [mlmamantv, elonmusk, dogecoin, buy, dogecoin, goes, moon]
+	X tweet_count = [3]
+	X username = [Rahul khatri]
+Y = [@elonmusk Buy dogecoin before it goes to the moon 🌗$1 .............]
+Y_token = [elonmusk, buy, dogecoin, goes, moon, 1]
+	Y tweet_count = [5]
+	Y username = [Rahul khatri]
+Total Length: X = 75, Y = 67 (Y / X = 89.33  X / Y = 111.94)
+Dice Coefficient: 83.33% 
+
+X = [@elonmusk Buy #dogecoin before it goes to the moon 🌜$1.................😎]
+X_token = [elonmusk, buy, dogecoin, goes, moon, 1]
+	X tweet_count = [4]
+	X username = [Rahul khatri]
+Y = [@elonmusk Buy dogecoin before it goes to the moon 🌗$1 .............]
+Y_token = [elonmusk, buy, dogecoin, goes, moon, 1]
+	Y tweet_count = [5]
+	Y username = [Rahul khatri]
+Total Length: X = 72, Y = 67 (Y / X = 93.06  X / Y = 107.46)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Buy dogecoin before it goes to the moon 🌗$1 .............]
+X_token = [elonmusk, buy, dogecoin, goes, moon, 1]
+	X tweet_count = [5]
+	X username = [Rahul khatri]
+Y = [@elonmusk Buy #dogecoin , it will go to the moon soon😎🌛]
+Y_token = [elonmusk, buy, dogecoin, go, moon]
+	Y tweet_count = [6]
+	Y username = [Rahul khatri]
+Total Length: X = 67, Y = 55 (Y / X = 82.09  X / Y = 121.82)
+Dice Coefficient: 72.73% 
+

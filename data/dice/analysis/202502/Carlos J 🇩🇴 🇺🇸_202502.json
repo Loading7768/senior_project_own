@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@MOONPORN_ #dogecoin to the moon",
+        "X_token": "dogecoin, moon",
+        "X_tweet_count": 1,
+        "X_username": "Carlos J 🇩🇴 🇺🇸",
+        "Y_text": "@GloryDoge #dogecoin to the moon",
+        "Y_token": "glorydoge, dogecoin, moon",
+        "Y_tweet_count": 7,
+        "Y_username": "Carlos J 🇩🇴 🇺🇸",
+        "X_length": 32,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@MOONPORN_ #dogecoin to the moon",
+        "X_token": "dogecoin, moon",
+        "X_tweet_count": 1,
+        "X_username": "Carlos J 🇩🇴 🇺🇸",
+        "Y_text": "@MaxBrownBTC #dogecoin to the moon 🌕",
+        "Y_token": "maxbrownbtc, dogecoin, moon",
+        "Y_tweet_count": 13,
+        "Y_username": "Carlos J 🇩🇴 🇺🇸",
+        "X_length": 32,
+        "Y_length": 36,
+        "Y_length_percent_of_X": 112.5,
+        "X_length_percent_of_Y": 88.89,
+        "dice_coefficient": 80.0
+    }
+]

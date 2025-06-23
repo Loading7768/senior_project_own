@@ -1,0 +1,11 @@
+﻿X = [Where do you buy your #dogecoin]
+X_token = [buy, dogecoin]
+	X tweet_count = [3]
+	X username = [KingKreative]
+Y = [Can we buy @SlimJim with #dogecoin 👀]
+Y_token = [buy, slimjim, dogecoin]
+	Y tweet_count = [4]
+	Y username = [KingKreative]
+Total Length: X = 31, Y = 36 (Y / X = 116.13  X / Y = 86.11)
+Dice Coefficient: 80.00% 
+

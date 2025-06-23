@@ -1,0 +1,11 @@
+﻿X = [#dogecoin is dippin right now! Let’s grab it up! #dogetothemoon #holdthedoge #buy]
+X_token = [dogecoin, dippin, right, let, grab, dogetothemoon, holdthedoge, buy]
+	X tweet_count = [14]
+	X username = [Thesadbear]
+Y = [#dogecoin still dippin some, let’s buy that right back up! #dogetothemoon #DogeToAdollar]
+Y_token = [dogecoin, still, dippin, let, buy, right, back, dogetothemoon, dogetoadollar]
+	Y tweet_count = [40]
+	Y username = [Thesadbear]
+Total Length: X = 81, Y = 88 (Y / X = 108.64  X / Y = 92.05)
+Dice Coefficient: 70.59% 
+

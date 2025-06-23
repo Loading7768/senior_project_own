@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "$doge #dogecoin #dogetothemoon #DogeDay https://t.co/9b0tQcjVIg",
+        "X_token": "doge, dogecoin, dogetothemoon, dogeday, https",
+        "X_tweet_count": 6,
+        "X_username": "BDAY JULY 7",
+        "Y_text": "#dogecoin #doge #dogearmy #dogeday $doge https://t.co/NQAsysqTyK",
+        "Y_token": "dogecoin, doge, dogearmy, dogeday, doge, https",
+        "Y_tweet_count": 11,
+        "Y_username": "BDAY JULY 7",
+        "X_length": 63,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 101.59,
+        "X_length_percent_of_Y": 98.44,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "#dogecoin $doge https://t.co/4uapbXs0i0",
+        "X_token": "dogecoin, doge, https",
+        "X_tweet_count": 7,
+        "X_username": "BDAY JULY 7",
+        "Y_text": "$doge #dogecoin https://t.co/X5jkIs3PyB",
+        "Y_token": "doge, dogecoin, https",
+        "Y_tweet_count": 10,
+        "Y_username": "BDAY JULY 7",
+        "X_length": 39,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

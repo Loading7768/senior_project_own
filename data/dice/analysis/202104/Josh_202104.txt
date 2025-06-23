@@ -1,0 +1,44 @@
+﻿X = [So $.420 on 4/20? #dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [7]
+	X username = [Josh]
+Y = [Dogecoin is up to 8¢ 👀]
+Y_token = [dogecoin]
+	Y tweet_count = [11]
+	Y username = [Josh]
+Total Length: X = 27, Y = 22 (Y / X = 81.48  X / Y = 122.73)
+Dice Coefficient: 100.00% 
+
+X = [DOGECOIN TO THE MOON BOYS]
+X_token = [dogecoin, moon, boys]
+	X tweet_count = [18]
+	X username = [Josh]
+Y = [Dogecoin to the moon]
+Y_token = [dogecoin, moon]
+	Y tweet_count = [31]
+	Y username = [Josh]
+Total Length: X = 25, Y = 20 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 80.00% 
+
+X = [DOGECOIN TO THE MOON BOYS]
+X_token = [dogecoin, moon, boys]
+	X tweet_count = [18]
+	X username = [Josh]
+Y = [$dogecoin to the moon!]
+Y_token = [dogecoin, moon]
+	Y tweet_count = [47]
+	Y username = [Josh]
+Total Length: X = 25, Y = 22 (Y / X = 88.00  X / Y = 113.64)
+Dice Coefficient: 80.00% 
+
+X = [Dogecoin to the moon]
+X_token = [dogecoin, moon]
+	X tweet_count = [31]
+	X username = [Josh]
+Y = [$dogecoin to the moon!]
+Y_token = [dogecoin, moon]
+	Y tweet_count = [47]
+	Y username = [Josh]
+Total Length: X = 20, Y = 22 (Y / X = 110.00  X / Y = 90.91)
+Dice Coefficient: 100.00% 
+

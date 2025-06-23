@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@mlmamantv @elonmusk @dogecoin Buy #dogecoin before it goes to the moon $1🌛",
+        "X_token": "mlmamantv, elonmusk, dogecoin, buy, dogecoin, goes, moon",
+        "X_tweet_count": 3,
+        "X_username": "Rahul khatri",
+        "Y_text": "@elonmusk Buy #dogecoin before it goes to the moon 🌜$1.................😎",
+        "Y_token": "elonmusk, buy, dogecoin, goes, moon, 1",
+        "Y_tweet_count": 4,
+        "Y_username": "Rahul khatri",
+        "X_length": 75,
+        "Y_length": 72,
+        "Y_length_percent_of_X": 96.0,
+        "X_length_percent_of_Y": 104.17,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@mlmamantv @elonmusk @dogecoin Buy #dogecoin before it goes to the moon $1🌛",
+        "X_token": "mlmamantv, elonmusk, dogecoin, buy, dogecoin, goes, moon",
+        "X_tweet_count": 3,
+        "X_username": "Rahul khatri",
+        "Y_text": "@elonmusk Buy dogecoin before it goes to the moon 🌗$1 .............",
+        "Y_token": "elonmusk, buy, dogecoin, goes, moon, 1",
+        "Y_tweet_count": 5,
+        "Y_username": "Rahul khatri",
+        "X_length": 75,
+        "Y_length": 67,
+        "Y_length_percent_of_X": 89.33,
+        "X_length_percent_of_Y": 111.94,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@elonmusk Buy #dogecoin before it goes to the moon 🌜$1.................😎",
+        "X_token": "elonmusk, buy, dogecoin, goes, moon, 1",
+        "X_tweet_count": 4,
+        "X_username": "Rahul khatri",
+        "Y_text": "@elonmusk Buy dogecoin before it goes to the moon 🌗$1 .............",
+        "Y_token": "elonmusk, buy, dogecoin, goes, moon, 1",
+        "Y_tweet_count": 5,
+        "Y_username": "Rahul khatri",
+        "X_length": 72,
+        "Y_length": 67,
+        "Y_length_percent_of_X": 93.06,
+        "X_length_percent_of_Y": 107.46,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@elonmusk Buy dogecoin before it goes to the moon 🌗$1 .............",
+        "X_token": "elonmusk, buy, dogecoin, goes, moon, 1",
+        "X_tweet_count": 5,
+        "X_username": "Rahul khatri",
+        "Y_text": "@elonmusk Buy #dogecoin , it will go to the moon soon😎🌛",
+        "Y_token": "elonmusk, buy, dogecoin, go, moon",
+        "Y_tweet_count": 6,
+        "Y_username": "Rahul khatri",
+        "X_length": 67,
+        "Y_length": 55,
+        "Y_length_percent_of_X": 82.09,
+        "X_length_percent_of_Y": 121.82,
+        "dice_coefficient": 72.73
+    }
+]

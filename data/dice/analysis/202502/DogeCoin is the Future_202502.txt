@@ -1,0 +1,77 @@
+﻿X = [@elonmusk DogeCoin is the way]
+X_token = [elonmusk, dogecoin, way]
+	X tweet_count = [14]
+	X username = [DogeCoin is the Future]
+Y = [@elonmusk When DogeCoin?]
+Y_token = [elonmusk, dogecoin]
+	Y tweet_count = [107]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 29, Y = 24 (Y / X = 82.76  X / Y = 120.83)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk @realDonaldTrump When DogeCoin @elonmusk ?]
+X_token = [elonmusk, realdonaldtrump, dogecoin, elonmusk]
+	X tweet_count = [20]
+	X username = [DogeCoin is the Future]
+Y = [@elonmusk What about DogeCoin @elonmusk ? When]
+Y_token = [elonmusk, dogecoin, elonmusk]
+	Y tweet_count = [60]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 52, Y = 46 (Y / X = 88.46  X / Y = 113.04)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk @realDonaldTrump When DogeCoin @elonmusk ?]
+X_token = [elonmusk, realdonaldtrump, dogecoin, elonmusk]
+	X tweet_count = [20]
+	X username = [DogeCoin is the Future]
+Y = [@elonmusk @realDonaldTrump @seanhannity When DogeCoin?]
+Y_token = [elonmusk, realdonaldtrump, seanhannity, dogecoin]
+	Y tweet_count = [100]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 52, Y = 54 (Y / X = 103.85  X / Y = 96.30)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk @CBP When DogeCoin @elonmusk]
+X_token = [elonmusk, cbp, dogecoin, elonmusk]
+	X tweet_count = [54]
+	X username = [DogeCoin is the Future]
+Y = [@elonmusk What about DogeCoin @elonmusk ? When]
+Y_token = [elonmusk, dogecoin, elonmusk]
+	Y tweet_count = [60]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 38, Y = 46 (Y / X = 121.05  X / Y = 82.61)
+Dice Coefficient: 80.00% 
+
+X = [Feed the DogeCoin @elonmusk]
+X_token = [feed, dogecoin, elonmusk]
+	X tweet_count = [59]
+	X username = [DogeCoin is the Future]
+Y = [@elonmusk When DogeCoin?]
+Y_token = [elonmusk, dogecoin]
+	Y tweet_count = [107]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 27, Y = 24 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk What about DogeCoin @elonmusk ? When]
+X_token = [elonmusk, dogecoin, elonmusk]
+	X tweet_count = [60]
+	X username = [DogeCoin is the Future]
+Y = [@elonmusk Does he hold any DogeCoin @elonmusk ?]
+Y_token = [elonmusk, hold, dogecoin, elonmusk]
+	Y tweet_count = [88]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 46, Y = 47 (Y / X = 102.17  X / Y = 97.87)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk He bought DogeCoin]
+X_token = [elonmusk, bought, dogecoin]
+	X tweet_count = [99]
+	X username = [DogeCoin is the Future]
+Y = [@elonmusk When DogeCoin?]
+Y_token = [elonmusk, dogecoin]
+	Y tweet_count = [107]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 28, Y = 24 (Y / X = 85.71  X / Y = 116.67)
+Dice Coefficient: 80.00% 
+

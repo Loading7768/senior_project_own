@@ -1,0 +1,143 @@
+﻿X = [#Coinbase let list #BabyDogeCoin]
+X_token = [coinbase, let, list, babydogecoin]
+	X tweet_count = [11]
+	X username = [DOGECOIN & XMoNeY]
+Y = [@coinbase should list #BabyDogeCoin!!!]
+Y_token = [coinbase, list, babydogecoin]
+	Y tweet_count = [23]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 32, Y = 38 (Y / X = 118.75  X / Y = 84.21)
+Dice Coefficient: 85.71% 
+
+X = [#Coinbase let list #BabyDogeCoin]
+X_token = [coinbase, let, list, babydogecoin]
+	X tweet_count = [11]
+	X username = [DOGECOIN & XMoNeY]
+Y = [@coinbase please list #BabyDogeCoin!! 🙏]
+Y_token = [coinbase, please, list, babydogecoin]
+	Y tweet_count = [95]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 32, Y = 39 (Y / X = 121.88  X / Y = 82.05)
+Dice Coefficient: 75.00% 
+
+X = [Exactly]
+X_token = [exactly]
+	X tweet_count = [13]
+	X username = [DOGECOIN & XMoNeY]
+Y = [Exactly]
+Y_token = [exactly]
+	Y tweet_count = [82]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 7, Y = 7 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@coinbase should list #BabyDogeCoin!!!]
+X_token = [coinbase, list, babydogecoin]
+	X tweet_count = [23]
+	X username = [DOGECOIN & XMoNeY]
+Y = [@coinbase please list #BabyDogeCoin!! 🙏]
+Y_token = [coinbase, please, list, babydogecoin]
+	Y tweet_count = [95]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 38, Y = 39 (Y / X = 102.63  X / Y = 97.44)
+Dice Coefficient: 85.71% 
+
+X = [Send it now]
+X_token = [send]
+	X tweet_count = [45]
+	X username = [DOGECOIN & XMoNeY]
+Y = [Send it now!!]
+Y_token = [send]
+	Y tweet_count = [47]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 11, Y = 13 (Y / X = 118.18  X / Y = 84.62)
+Dice Coefficient: 100.00% 
+
+X = [Send it now]
+X_token = [send]
+	X tweet_count = [45]
+	X username = [DOGECOIN & XMoNeY]
+Y = [Send it now!]
+Y_token = [send]
+	Y tweet_count = [66]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 11, Y = 12 (Y / X = 109.09  X / Y = 91.67)
+Dice Coefficient: 100.00% 
+
+X = [Send it now]
+X_token = [send]
+	X tweet_count = [45]
+	X username = [DOGECOIN & XMoNeY]
+Y = [Send it!!!]
+Y_token = [send]
+	Y tweet_count = [91]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 11, Y = 10 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 100.00% 
+
+X = [Send it now!!]
+X_token = [send]
+	X tweet_count = [47]
+	X username = [DOGECOIN & XMoNeY]
+Y = [Send it now!]
+Y_token = [send]
+	Y tweet_count = [66]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 13, Y = 12 (Y / X = 92.31  X / Y = 108.33)
+Dice Coefficient: 100.00% 
+
+X = [More than ready!]
+X_token = [ready]
+	X tweet_count = [49]
+	X username = [DOGECOIN & XMoNeY]
+Y = [More than ready!!]
+Y_token = [ready]
+	Y tweet_count = [64]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 16, Y = 17 (Y / X = 106.25  X / Y = 94.12)
+Dice Coefficient: 100.00% 
+
+X = [True]
+X_token = [true]
+	X tweet_count = [52]
+	X username = [DOGECOIN & XMoNeY]
+Y = [True]
+Y_token = [true]
+	Y tweet_count = [58]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 4, Y = 4 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Send it now!]
+X_token = [send]
+	X tweet_count = [66]
+	X username = [DOGECOIN & XMoNeY]
+Y = [Send it!!!]
+Y_token = [send]
+	Y tweet_count = [91]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 12, Y = 10 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 100.00% 
+
+X = [Yes.. Send it]
+X_token = [yes, send]
+	X tweet_count = [67]
+	X username = [DOGECOIN & XMoNeY]
+Y = [Yes. Send it now]
+Y_token = [yes, send]
+	Y tweet_count = [69]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 13, Y = 16 (Y / X = 123.08  X / Y = 81.25)
+Dice Coefficient: 100.00% 
+
+X = [Don't be to late!]
+X_token = [late]
+	X tweet_count = [83]
+	X username = [DOGECOIN & XMoNeY]
+Y = [🔥🔥🔥 Don't be late!!!]
+Y_token = [late]
+	Y tweet_count = [103]
+	Y username = [DOGECOIN & XMoNeY]
+Total Length: X = 17, Y = 20 (Y / X = 117.65  X / Y = 85.00)
+Dice Coefficient: 100.00% 
+

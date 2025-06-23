@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@Mericamemed The world is going nuts over \"Big Ball Gate\". It's hilarious! 😂",
+        "X_token": "mericamemed, world, going, nuts, big, ball, gate, hilarious",
+        "X_tweet_count": 19,
+        "X_username": "Sebastian, The Dogecoin Bull",
+        "Y_text": "@hodgetwins The world is going nuts over \"Big Ball Gate\". It's hilarious! 😂",
+        "Y_token": "hodgetwins, world, going, nuts, big, ball, gate, hilarious",
+        "Y_tweet_count": 23,
+        "Y_username": "Sebastian, The Dogecoin Bull",
+        "X_length": 76,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 98.68,
+        "X_length_percent_of_Y": 101.33,
+        "dice_coefficient": 87.5
+    },
+    {
+        "X_text": "@Mericamemed The world is going nuts over \"Big Ball Gate\". It's hilarious! 😂",
+        "X_token": "mericamemed, world, going, nuts, big, ball, gate, hilarious",
+        "X_tweet_count": 19,
+        "X_username": "Sebastian, The Dogecoin Bull",
+        "Y_text": "The world is going nuts over \"Big Ball Gate\". It's hilarious! 😂",
+        "Y_token": "world, going, nuts, big, ball, gate, hilarious",
+        "Y_tweet_count": 24,
+        "Y_username": "Sebastian, The Dogecoin Bull",
+        "X_length": 76,
+        "Y_length": 63,
+        "Y_length_percent_of_X": 82.89,
+        "X_length_percent_of_Y": 120.63,
+        "dice_coefficient": 93.33
+    },
+    {
+        "X_text": "@hodgetwins The world is going nuts over \"Big Ball Gate\". It's hilarious! 😂",
+        "X_token": "hodgetwins, world, going, nuts, big, ball, gate, hilarious",
+        "X_tweet_count": 23,
+        "X_username": "Sebastian, The Dogecoin Bull",
+        "Y_text": "The world is going nuts over \"Big Ball Gate\". It's hilarious! 😂",
+        "Y_token": "world, going, nuts, big, ball, gate, hilarious",
+        "Y_tweet_count": 24,
+        "Y_username": "Sebastian, The Dogecoin Bull",
+        "X_length": 75,
+        "Y_length": 63,
+        "Y_length_percent_of_X": 84.0,
+        "X_length_percent_of_Y": 119.05,
+        "dice_coefficient": 93.33
+    },
+    {
+        "X_text": "@UpdateNews724 Jezus is King, not this cunŧ",
+        "X_token": "updatenews724, jezus, king, cunŧ",
+        "X_tweet_count": 107,
+        "X_username": "Sebastian, The Dogecoin Bull",
+        "Y_text": "@UpdateNews724 Your King is a Cunŧ!",
+        "Y_token": "updatenews724, king, cunŧ",
+        "Y_tweet_count": 108,
+        "Y_username": "Sebastian, The Dogecoin Bull",
+        "X_length": 43,
+        "Y_length": 35,
+        "Y_length_percent_of_X": 81.4,
+        "X_length_percent_of_Y": 122.86,
+        "dice_coefficient": 85.71
+    }
+]

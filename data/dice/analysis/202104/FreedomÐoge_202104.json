@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@BillyM2k I like Bitcoin. Bitcoin is future gold. Dogecoin is future currency",
+        "X_token": "billym2k, like, bitcoin, bitcoin, future, gold, dogecoin, future, currency",
+        "X_tweet_count": 60,
+        "X_username": "FreedomÐoge",
+        "Y_text": "@BillyM2k Dogecoin and Bitcoin has no conflit. One is gold   The other one is currency.",
+        "Y_token": "billym2k, dogecoin, bitcoin, conflit, one, gold, one, currency",
+        "Y_tweet_count": 113,
+        "Y_username": "FreedomÐoge",
+        "X_length": 77,
+        "Y_length": 87,
+        "Y_length_percent_of_X": 112.99,
+        "X_length_percent_of_Y": 88.51,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "@elonmusk @28delayslater @Tesla @Huawei @SamsungMobile   When Huawei mobile takes over the market in China, Chinese market took out Samsung by accusing their battery issues. Now there is Tesla “break issue” when Huawei launches Huawei Cars. Good Luck Tesla   Wish you the best. #dogearmy @elonmusk",
+        "X_token": "elonmusk, 28delayslater, tesla, huawei, samsungmobile, huawei, mobile, takes, market, china, chinese, market, took, samsung, accusing, battery, issues, tesla, break, issue, huawei, launches, huawei, cars, good, luck, tesla, wish, best, dogearmy, elonmusk",
+        "X_tweet_count": 99,
+        "X_username": "FreedomÐoge",
+        "Y_text": "@Tesla @Huawei @SamsungMobile   When Huawei mobile takes over the market in China, they took out Samsung by accusing their battery issues. Now there is Tesla “break issue” when Huawei launches Huawei Cars. Good Luck Tesla   Wish you the best. #dogearmy @elonmusk",
+        "Y_token": "tesla, huawei, samsungmobile, huawei, mobile, takes, market, china, took, samsung, accusing, battery, issues, tesla, break, issue, huawei, launches, huawei, cars, good, luck, tesla, wish, best, dogearmy, elonmusk",
+        "Y_tweet_count": 100,
+        "Y_username": "FreedomÐoge",
+        "X_length": 297,
+        "Y_length": 262,
+        "Y_length_percent_of_X": 88.22,
+        "X_length_percent_of_Y": 113.36,
+        "dice_coefficient": 95.65
+    }
+]

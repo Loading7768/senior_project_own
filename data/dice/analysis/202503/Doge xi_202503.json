@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@cb_doge Dogecoin is an expression of democracy.",
+        "X_token": "dogecoin, expression, democracy",
+        "X_tweet_count": 6,
+        "X_username": "Doge xi",
+        "Y_text": "Dogecoin is an expression of democracy.",
+        "Y_token": "dogecoin, expression, democracy",
+        "Y_tweet_count": 8,
+        "Y_username": "Doge xi",
+        "X_length": 48,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 81.25,
+        "X_length_percent_of_Y": 123.08,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@cb_doge Dogecoin is an expression of democracy.",
+        "X_token": "dogecoin, expression, democracy",
+        "X_tweet_count": 6,
+        "X_username": "Doge xi",
+        "Y_text": "@elonmusk Dogecoin is an expression of democracy.",
+        "Y_token": "elonmusk, dogecoin, expression, democracy",
+        "Y_tweet_count": 9,
+        "Y_username": "Doge xi",
+        "X_length": 48,
+        "Y_length": 49,
+        "Y_length_percent_of_X": 102.08,
+        "X_length_percent_of_Y": 97.96,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@TOPDOGE007 Dogecoin is not a strategic reserve, Dogecoin is the people's currency.",
+        "X_token": "topdoge007, dogecoin, strategic, reserve, dogecoin, people, currency",
+        "X_tweet_count": 13,
+        "X_username": "Doge xi",
+        "Y_text": "Dogecoin is not a strategic reserve, Dogecoin is the people's currency.",
+        "Y_token": "dogecoin, strategic, reserve, dogecoin, people, currency",
+        "Y_tweet_count": 14,
+        "Y_username": "Doge xi",
+        "X_length": 83,
+        "Y_length": 71,
+        "Y_length_percent_of_X": 85.54,
+        "X_length_percent_of_Y": 116.9,
+        "dice_coefficient": 90.91
+    },
+    {
+        "X_text": "Will you be paid in Dogecoin?",
+        "X_token": "paid, dogecoin",
+        "X_tweet_count": 21,
+        "X_username": "Doge xi",
+        "Y_text": "@cb_doge Paid with Dogecoin?",
+        "Y_token": "paid, dogecoin",
+        "Y_tweet_count": 24,
+        "Y_username": "Doge xi",
+        "X_length": 29,
+        "Y_length": 28,
+        "Y_length_percent_of_X": 96.55,
+        "X_length_percent_of_Y": 103.57,
+        "dice_coefficient": 100.0
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Me looking at #Dogecoin 24/7 https://t.co/Q4jVayH36N",
+        "X_token": "looking, dogecoin, https",
+        "X_tweet_count": 21,
+        "X_username": "Dan D.",
+        "Y_text": "#Dogecoin looking at .25 cents like..... https://t.co/cC3rD39U0N",
+        "Y_token": "dogecoin, looking, cents, like, https",
+        "Y_tweet_count": 25,
+        "Y_username": "Dan D.",
+        "X_length": 52,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 123.08,
+        "X_length_percent_of_Y": 81.25,
+        "dice_coefficient": 75.0
+    }
+]

@@ -1,0 +1,11 @@
+﻿X = [@MrBeast Where is the whole video with CR7? @Cristiano]
+X_token = [mrbeast, whole, video, cr7, cristiano]
+	X tweet_count = [52]
+	X username = [Dogecoin_Mexico 🇲🇽]
+Y = [@Cristiano @MrBeast Where is the whole video?]
+Y_token = [cristiano, mrbeast, whole, video]
+	Y tweet_count = [53]
+	Y username = [Dogecoin_Mexico 🇲🇽]
+Total Length: X = 54, Y = 45 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 88.89% 
+

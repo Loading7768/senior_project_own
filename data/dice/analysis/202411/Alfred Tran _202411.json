@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@dogecoin_empire I love it! 😂❤️",
+        "X_token": "love",
+        "X_tweet_count": 2,
+        "X_username": "Alfred Tran ",
+        "Y_text": "@dogecoin_empire i love it! 💯",
+        "Y_token": "love",
+        "Y_tweet_count": 21,
+        "Y_username": "Alfred Tran ",
+        "X_length": 31,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 93.55,
+        "X_length_percent_of_Y": 106.9,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@dogecoin_empire for real lol 😂",
+        "X_token": "real, lol",
+        "X_tweet_count": 9,
+        "X_username": "Alfred Tran ",
+        "Y_text": "@dogecoin_empire it’s real lol 😝",
+        "Y_token": "real, lol",
+        "Y_tweet_count": 29,
+        "Y_username": "Alfred Tran ",
+        "X_length": 31,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 103.23,
+        "X_length_percent_of_Y": 96.88,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@dogecoin_empire lfg it’s gonna get there 🚀",
+        "X_token": "lfg, gon, na, get",
+        "X_tweet_count": 36,
+        "X_username": "Alfred Tran ",
+        "Y_text": "@dogecoin_empire i’m gonna get you a ring now",
+        "Y_token": "gon, na, get, ring",
+        "Y_tweet_count": 37,
+        "Y_username": "Alfred Tran ",
+        "X_length": 43,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 104.65,
+        "X_length_percent_of_Y": 95.56,
+        "dice_coefficient": 75.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@Cocochaneladair @dogecoin_empire @CyberBoo_ @thisiswhatimth3 @helladdict69 Which title am I 😂😂😂?",
+        "X_token": "cocochaneladair, thisiswhatimth3, helladdict69, title",
+        "X_tweet_count": 211,
+        "X_username": "PopulationPaste",
+        "Y_text": "@Cocochaneladair @dogecoin_empire @CyberBoo_ @thisiswhatimth3 @helladdict69 What did I miss 😂",
+        "Y_token": "cocochaneladair, thisiswhatimth3, helladdict69, miss",
+        "Y_tweet_count": 213,
+        "Y_username": "PopulationPaste",
+        "X_length": 97,
+        "Y_length": 93,
+        "Y_length_percent_of_X": 95.88,
+        "X_length_percent_of_Y": 104.3,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@dogecoin_empire To the moon and stars",
+        "X_token": "moon, stars",
+        "X_tweet_count": 150,
+        "X_username": "PopulationPaste",
+        "Y_text": "@dogecoin_empire Written in the stars, moon.",
+        "Y_token": "written, stars, moon",
+        "Y_tweet_count": 179,
+        "Y_username": "PopulationPaste",
+        "X_length": 38,
+        "Y_length": 44,
+        "Y_length_percent_of_X": 115.79,
+        "X_length_percent_of_Y": 86.36,
+        "dice_coefficient": 80.0
+    }
+]

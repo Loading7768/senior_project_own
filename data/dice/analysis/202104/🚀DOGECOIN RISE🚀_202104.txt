@@ -1,0 +1,209 @@
+﻿X = [Will #Dogecoin hit .25 soon!#dogearmy \n\nYes               Yes             Yes\n  👇                👇              👇]
+X_token = [dogecoin, hit, soon, dogearmy, yes, yes, yes]
+	X tweet_count = [1]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Will #Dogecoin hit .25 soon!? #DOGE\n\nYes               Yes             Yes\n  👇                👇              👇]
+Y_token = [dogecoin, hit, soon, doge, yes, yes, yes]
+	Y tweet_count = [5]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 113, Y = 110 (Y / X = 97.35  X / Y = 102.73)
+Dice Coefficient: 80.00% 
+
+X = [Will #Dogecoin hit .25 soon!#dogearmy \n\nYes               Yes             Yes\n  👇                👇              👇]
+X_token = [dogecoin, hit, soon, dogearmy, yes, yes, yes]
+	X tweet_count = [1]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Will #Dogecoin hit .25 soon?\n\nYes               Yes             Yes\n  👇                👇              👇]
+Y_token = [dogecoin, hit, soon, yes, yes, yes]
+	Y tweet_count = [6]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 113, Y = 103 (Y / X = 91.15  X / Y = 109.71)
+Dice Coefficient: 88.89% 
+
+X = [Will #Dogecoin hit .25 soon!? #DOGE\n\nYes               Yes             Yes\n  👇                👇              👇]
+X_token = [dogecoin, hit, soon, doge, yes, yes, yes]
+	X tweet_count = [5]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Will #Dogecoin hit .25 soon?\n\nYes               Yes             Yes\n  👇                👇              👇]
+Y_token = [dogecoin, hit, soon, yes, yes, yes]
+	Y tweet_count = [6]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 110, Y = 103 (Y / X = 93.64  X / Y = 106.80)
+Dice Coefficient: 88.89% 
+
+X = [Hit Like ❤️ if you hold 1200+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [10]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 100+ $DOGE 🚀#dogecoin #DOGE]
+Y_token = [hit, like, hold, doge, dogecoin, doge]
+	Y tweet_count = [11]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 52, Y = 51 (Y / X = 98.08  X / Y = 101.96)
+Dice Coefficient: 100.00% 
+
+X = [Hit Like ❤️ if you hold 1200+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [10]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 🚀#dogecoin #DOGE]
+Y_token = [hit, like, hold, doge, dogecoin, doge]
+	Y tweet_count = [12]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 52, Y = 52 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Hit Like ❤️ if you hold 1200+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [10]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 😳 \n#doge]
+Y_token = [hit, like, hold, doge, doge]
+	Y tweet_count = [13]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 52, Y = 44 (Y / X = 84.62  X / Y = 118.18)
+Dice Coefficient: 88.89% 
+
+X = [Hit Like ❤️ if you hold 1200+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [10]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 😳 \n#dogecoin]
+Y_token = [hit, like, hold, doge, dogecoin]
+	Y tweet_count = [14]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 52, Y = 48 (Y / X = 92.31  X / Y = 108.33)
+Dice Coefficient: 100.00% 
+
+X = [Hit Like ❤️ if you hold 100+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [11]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 🚀#dogecoin #DOGE]
+Y_token = [hit, like, hold, doge, dogecoin, doge]
+	Y tweet_count = [12]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 51, Y = 52 (Y / X = 101.96  X / Y = 98.08)
+Dice Coefficient: 100.00% 
+
+X = [Hit Like ❤️ if you hold 100+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [11]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 😳 \n#doge]
+Y_token = [hit, like, hold, doge, doge]
+	Y tweet_count = [13]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 51, Y = 44 (Y / X = 86.27  X / Y = 115.91)
+Dice Coefficient: 88.89% 
+
+X = [Hit Like ❤️ if you hold 100+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [11]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 😳 \n#dogecoin]
+Y_token = [hit, like, hold, doge, dogecoin]
+	Y tweet_count = [14]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 51, Y = 48 (Y / X = 94.12  X / Y = 106.25)
+Dice Coefficient: 100.00% 
+
+X = [Hit Like ❤️ if you hold 1000+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [12]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 😳 \n#doge]
+Y_token = [hit, like, hold, doge, doge]
+	Y tweet_count = [13]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 52, Y = 44 (Y / X = 84.62  X / Y = 118.18)
+Dice Coefficient: 88.89% 
+
+X = [Hit Like ❤️ if you hold 1000+ $DOGE 🚀#dogecoin #DOGE]
+X_token = [hit, like, hold, doge, dogecoin, doge]
+	X tweet_count = [12]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 😳 \n#dogecoin]
+Y_token = [hit, like, hold, doge, dogecoin]
+	Y tweet_count = [14]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 52, Y = 48 (Y / X = 92.31  X / Y = 108.33)
+Dice Coefficient: 100.00% 
+
+X = [Hit Like ❤️ if you hold 1000+ $DOGE 😳 \n#doge]
+X_token = [hit, like, hold, doge, doge]
+	X tweet_count = [13]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Hit Like ❤️ if you hold 1000+ $DOGE 😳 \n#dogecoin]
+Y_token = [hit, like, hold, doge, dogecoin]
+	Y tweet_count = [14]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 44, Y = 48 (Y / X = 109.09  X / Y = 91.67)
+Dice Coefficient: 88.89% 
+
+X = [Who believes #Dogecoin gonna hit $10? #dogetothemoon \n\nYes                Yes            Yes\n  👇                👇              👇]
+X_token = [believes, dogecoin, gon, na, hit, 10, dogetothemoon, yes, yes, yes]
+	X tweet_count = [16]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Who believes #Dogecoin gonna hit $10? #DOGE \n\nYes                Yes            Yes\n  👇                👇              👇]
+Y_token = [believes, dogecoin, gon, na, hit, 10, doge, yes, yes, yes]
+	Y tweet_count = [17]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 128, Y = 119 (Y / X = 92.97  X / Y = 107.56)
+Dice Coefficient: 87.50% 
+
+X = [Who believes #Dogecoin will spike on 4/20 &amp; break records? 🚀🚀\n#DogeDay420 #DOGE \n\nYes                Yes            Yes\n  👇                👇              👇]
+X_token = [believes, dogecoin, spike, amp, break, records, dogeday420, doge, yes, yes, yes]
+	X tweet_count = [18]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Who believes #Dogecoin will spike today on 4/20 &amp; break records? 🚀🚀\n#DogeDay #DOGE \n\nYes               Yes            Yes\n  👇                👇              👇]
+Y_token = [believes, dogecoin, spike, today, amp, break, records, dogeday, doge, yes, yes, yes]
+	Y tweet_count = [36]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 159, Y = 161 (Y / X = 101.26  X / Y = 98.76)
+Dice Coefficient: 84.21% 
+
+X = [Retweet this &amp; spread word, \n\ntomorrow we storm the gates &amp; travel to the moon 🚀\n #dogeday #dogecoin #DOGE #DogeDay420 https://t.co/Y4KehzkF4B]
+X_token = [retweet, amp, spread, word, tomorrow, storm, gates, amp, travel, moon, dogeday, dogecoin, doge, dogeday420, https]
+	X tweet_count = [21]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Retweet this &amp; spread word, \n\ntomorrow we storm the gates &amp; travel to the moon 🚀\n #dogeday #dogecoin #DOGE https://t.co/G213GhxW3l]
+Y_token = [retweet, amp, spread, word, tomorrow, storm, gates, amp, travel, moon, dogeday, dogecoin, doge, https]
+	Y tweet_count = [22]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 150, Y = 138 (Y / X = 92.00  X / Y = 108.70)
+Dice Coefficient: 96.30% 
+
+X = [Who believes #Dogecoin will make a history tomorrow?  #DOGE  🚀🚀 #DogeDay \n\nYes                Yes            Yes\n  👇                👇              👇]
+X_token = [believes, dogecoin, make, history, tomorrow, doge, dogeday, yes, yes, yes]
+	X tweet_count = [23]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Who believes #Dogecoin will make a history this week?  #DogeDay \n\nYes                Yes            Yes\n  👇                👇              👇]
+Y_token = [believes, dogecoin, make, history, week, dogeday, yes, yes, yes]
+	Y tweet_count = [28]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 148, Y = 139 (Y / X = 93.92  X / Y = 106.47)
+Dice Coefficient: 80.00% 
+
+X = [Like this tweet if you’re HODLing your #dogecoin strong on #doge420 🚀 #420DogeDay #Dogecoinarmy]
+X_token = [like, tweet, hodling, dogecoin, strong, doge420, 420dogeday, dogecoinarmy]
+	X tweet_count = [31]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [Like this tweet if you’re HODLing your #dogecoin strong on #doge420 🚀 #DogeDay]
+Y_token = [like, tweet, hodling, dogecoin, strong, doge420, dogeday]
+	Y tweet_count = [32]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 95, Y = 78 (Y / X = 82.11  X / Y = 121.79)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin movement is STILL being doubted. \n\nRetweet this if you’re HODLing proudly 🚀 #DogeDay #DOGE #Dogecoin420]
+X_token = [dogecoin, movement, still, doubted, retweet, hodling, proudly, dogeday, doge, dogecoin420]
+	X tweet_count = [33]
+	X username = [🚀DOGECOIN RISE🚀]
+Y = [#dogecoin movement is STILL being doubted. \n\nRetweet this if you’re HODLing proudly 🚀 #DogeDay #DOGE]
+Y_token = [dogecoin, movement, still, doubted, retweet, hodling, proudly, dogeday, doge]
+	Y tweet_count = [37]
+	Y username = [🚀DOGECOIN RISE🚀]
+Total Length: X = 113, Y = 100 (Y / X = 88.50  X / Y = 113.00)
+Dice Coefficient: 94.74% 
+

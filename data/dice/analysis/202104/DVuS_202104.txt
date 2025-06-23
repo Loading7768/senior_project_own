@@ -1,0 +1,55 @@
+﻿X = [#dogecoin today is like https://t.co/ZvBduc2EIT]
+X_token = [dogecoin, today, like, https]
+	X tweet_count = [3]
+	X username = [DVuS]
+Y = [#dogecoin is like https://t.co/Uas5wXWEnI]
+Y_token = [dogecoin, like, https]
+	Y tweet_count = [11]
+	Y username = [DVuS]
+Total Length: X = 47, Y = 41 (Y / X = 87.23  X / Y = 114.63)
+Dice Coefficient: 85.71% 
+
+X = [#dogecoin today is like https://t.co/ZvBduc2EIT]
+X_token = [dogecoin, today, like, https]
+	X tweet_count = [3]
+	X username = [DVuS]
+Y = [#dogecoin today https://t.co/p5Cy6bluop]
+Y_token = [dogecoin, today, https]
+	Y tweet_count = [16]
+	Y username = [DVuS]
+Total Length: X = 47, Y = 39 (Y / X = 82.98  X / Y = 120.51)
+Dice Coefficient: 85.71% 
+
+X = [#dogecoin today is like https://t.co/ZvBduc2EIT]
+X_token = [dogecoin, today, like, https]
+	X tweet_count = [3]
+	X username = [DVuS]
+Y = [#dogecoin today https://t.co/TWkC1NPTDc]
+Y_token = [dogecoin, today, https]
+	Y tweet_count = [24]
+	Y username = [DVuS]
+Total Length: X = 47, Y = 39 (Y / X = 82.98  X / Y = 120.51)
+Dice Coefficient: 85.71% 
+
+X = [#dogecoin #HODL I think https://t.co/zTmKMUlTZe]
+X_token = [dogecoin, hodl, think, https]
+	X tweet_count = [8]
+	X username = [DVuS]
+Y = [If you are #HODL to your #dogecoin https://t.co/k8AQUKNWYe]
+Y_token = [hodl, dogecoin, https]
+	Y tweet_count = [10]
+	Y username = [DVuS]
+Total Length: X = 47, Y = 58 (Y / X = 123.40  X / Y = 81.03)
+Dice Coefficient: 85.71% 
+
+X = [#dogecoin today https://t.co/p5Cy6bluop]
+X_token = [dogecoin, today, https]
+	X tweet_count = [16]
+	X username = [DVuS]
+Y = [#dogecoin today https://t.co/TWkC1NPTDc]
+Y_token = [dogecoin, today, https]
+	Y tweet_count = [24]
+	Y username = [DVuS]
+Total Length: X = 39, Y = 39 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

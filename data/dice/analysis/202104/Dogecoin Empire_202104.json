@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#dogecoin community\nBest people ever!\n#Doge to the moon.\nFollow! Retweet! Like!\n🚀🌖🚀🌖🚀🌖🚀🌖",
+        "X_token": "dogecoin, community, best, people, ever, doge, moon, follow, retweet, like",
+        "X_tweet_count": 28,
+        "X_username": "Dogecoin Empire",
+        "Y_text": "Be part of the #dogecoin community!\nFollow! Retweet! Like! Comment!\n#Doge to the moon",
+        "Y_token": "part, dogecoin, community, follow, retweet, like, comment, doge, moon",
+        "Y_tweet_count": 29,
+        "Y_username": "Dogecoin Empire",
+        "X_length": 88,
+        "Y_length": 85,
+        "Y_length_percent_of_X": 96.59,
+        "X_length_percent_of_Y": 103.53,
+        "dice_coefficient": 73.68
+    },
+    {
+        "X_text": "#doge #dogefamily #elonmusk #crypto\nOnly invest what you are ready to lose. Do not panic sales. Be patient. Best example: Dogecoin was at 5cent few weeks ago. Has risen to 40cent then below about 20cent and is now holding at 30cent.\n#Dogecoin\n🚀🌖🚀🌖🚀🌖🚀🌖",
+        "X_token": "doge, dogefamily, elonmusk, crypto, invest, ready, lose, panic, sales, patient, best, example, dogecoin, 5cent, weeks, ago, risen, 40cent, 20cent, holding, 30cent, dogecoin",
+        "X_tweet_count": 42,
+        "X_username": "Dogecoin Empire",
+        "Y_text": "Only invest what you are ready to lose. Do not panic sales. Be patient. Best example: Dogecoin was at 5cent few weeks ago. Has risen to 40cent then below about 20cent and is now holding at 30cent.\n#Dogecoin\n🚀🌖🚀🌖🚀🌖🚀🌖",
+        "Y_token": "invest, ready, lose, panic, sales, patient, best, example, dogecoin, 5cent, weeks, ago, risen, 40cent, 20cent, holding, 30cent, dogecoin",
+        "Y_tweet_count": 43,
+        "Y_username": "Dogecoin Empire",
+        "X_length": 251,
+        "Y_length": 215,
+        "Y_length_percent_of_X": 85.66,
+        "X_length_percent_of_Y": 116.74,
+        "dice_coefficient": 89.47
+    }
+]

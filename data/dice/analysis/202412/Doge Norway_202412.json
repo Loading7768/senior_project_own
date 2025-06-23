@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@Optimus_796573 Haha 🤣",
+        "X_token": "haha",
+        "X_tweet_count": 28,
+        "X_username": "Doge Norway",
+        "Y_text": "@vanheel_timmy Haha 🤣",
+        "Y_token": "haha",
+        "Y_tweet_count": 44,
+        "Y_username": "Doge Norway",
+        "X_length": 22,
+        "Y_length": 21,
+        "Y_length_percent_of_X": 95.45,
+        "X_length_percent_of_Y": 104.76,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@Optimus_796573 Haha 🤣",
+        "X_token": "haha",
+        "X_tweet_count": 28,
+        "X_username": "Doge Norway",
+        "Y_text": "@vanheel_timmy Haha 🤣🔥",
+        "Y_token": "haha",
+        "Y_tweet_count": 71,
+        "Y_username": "Doge Norway",
+        "X_length": 22,
+        "Y_length": 22,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@iGotStripez Haha yeah it is🤣",
+        "X_token": "igotstripez, haha, yeah",
+        "X_tweet_count": 34,
+        "X_username": "Doge Norway",
+        "Y_text": "@iGotStripez Haha yeah me 2 🤣",
+        "Y_token": "igotstripez, haha, yeah, 2",
+        "Y_tweet_count": 39,
+        "Y_username": "Doge Norway",
+        "X_length": 29,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@vanheel_timmy Haha 🤣",
+        "X_token": "haha",
+        "X_tweet_count": 44,
+        "X_username": "Doge Norway",
+        "Y_text": "@vanheel_timmy Haha 🤣🔥",
+        "Y_token": "haha",
+        "Y_tweet_count": 71,
+        "Y_username": "Doge Norway",
+        "X_length": 21,
+        "Y_length": 22,
+        "Y_length_percent_of_X": 104.76,
+        "X_length_percent_of_Y": 95.45,
+        "dice_coefficient": 100.0
+    }
+]

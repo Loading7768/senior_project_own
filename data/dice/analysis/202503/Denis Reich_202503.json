@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@elonmusk @grok When @dogecoin ?",
+        "X_token": "elonmusk, grok, dogecoin",
+        "X_tweet_count": 22,
+        "X_username": "Denis Reich",
+        "Y_text": "@elonmusk What about @dogecoin ?",
+        "Y_token": "elonmusk, dogecoin",
+        "Y_tweet_count": 37,
+        "Y_username": "Denis Reich",
+        "X_length": 32,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@TeslaModelDoge And @elonmusk just abandoned @dogecoin",
+        "X_token": "teslamodeldoge, elonmusk, abandoned, dogecoin",
+        "X_tweet_count": 26,
+        "X_username": "Denis Reich",
+        "Y_text": "@dogeofficialceo Because @elonmusk abandoned @dogecoin",
+        "Y_token": "dogeofficialceo, elonmusk, abandoned, dogecoin",
+        "Y_tweet_count": 30,
+        "Y_username": "Denis Reich",
+        "X_length": 54,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 75.0
+    }
+]

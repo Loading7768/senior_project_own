@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#dogecoin Dogecoin will grow 10,000 times in 10 years",
+        "X_token": "dogecoin, dogecoin, grow, times, 10, years",
+        "X_tweet_count": 65,
+        "X_username": "Dogecoin-zxtz",
+        "Y_text": "@davidgokhshtein Dogecoin will grow 10,000 times in 10 years",
+        "Y_token": "davidgokhshtein, dogecoin, grow, times, 10, years",
+        "Y_tweet_count": 66,
+        "Y_username": "Dogecoin-zxtz",
+        "X_length": 53,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 113.21,
+        "X_length_percent_of_Y": 88.33,
+        "dice_coefficient": 90.91
+    },
+    {
+        "X_text": "#dogecoin 4-20 dogecoin https://t.co/AkOIcOwPND",
+        "X_token": "dogecoin, dogecoin, https",
+        "X_tweet_count": 88,
+        "X_username": "Dogecoin-zxtz",
+        "Y_text": "#dogecoin  love https://t.co/O0e9Bu2TWv",
+        "Y_token": "dogecoin, love, https",
+        "Y_tweet_count": 110,
+        "Y_username": "Dogecoin-zxtz",
+        "X_length": 47,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 82.98,
+        "X_length_percent_of_Y": 120.51,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "#dogecoin 4-20 dogecoin https://t.co/AkOIcOwPND",
+        "X_token": "dogecoin, dogecoin, https",
+        "X_tweet_count": 88,
+        "X_username": "Dogecoin-zxtz",
+        "Y_text": "#dogecoin The general https://t.co/Y8b2hOT3Ik",
+        "Y_token": "dogecoin, general, https",
+        "Y_tweet_count": 114,
+        "Y_username": "Dogecoin-zxtz",
+        "X_length": 47,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 95.74,
+        "X_length_percent_of_Y": 104.44,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "#dogecoin From a scientist's point of view, the universe exists because of observation. It's like playing a game. If you see it, the map opens. If you don't see it, it's black and uncreated. In a way, God is real because we created him",
+        "X_token": "dogecoin, scientist, point, view, universe, exists, observation, like, playing, game, see, map, opens, see, black, uncreated, way, god, real, created",
+        "X_tweet_count": 117,
+        "X_username": "Dogecoin-zxtz",
+        "Y_text": "@PPathole @elonmusk From a scientist's point of view, the universe exists because of observation. It's like playing a game. If you see it, the map opens. If you don't see it, it's black and uncreated. In a way, God is real because we created him.",
+        "Y_token": "ppathole, elonmusk, scientist, point, view, universe, exists, observation, like, playing, game, see, map, opens, see, black, uncreated, way, god, real, created",
+        "Y_tweet_count": 118,
+        "Y_username": "Dogecoin-zxtz",
+        "X_length": 235,
+        "Y_length": 246,
+        "Y_length_percent_of_X": 104.68,
+        "X_length_percent_of_Y": 95.53,
+        "dice_coefficient": 92.31
+    }
+]

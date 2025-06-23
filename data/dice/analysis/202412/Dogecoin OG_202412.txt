@@ -1,0 +1,11 @@
+﻿X = [In the last hour $1.9 million in Doge Shorts got REKT.  #Dogecoin https://t.co/VBUbTMjo6I]
+X_token = [last, hour, million, doge, shorts, got, rekt, dogecoin, https]
+	X tweet_count = [6]
+	X username = [Dogecoin OG]
+Y = [In the last hour over $750K in Doge shorts were REKT.  Let’s go!  #Dogecoin https://t.co/NgbqNzpPP8]
+Y_token = [last, hour, 750k, doge, shorts, rekt, let, go, dogecoin, https]
+	Y tweet_count = [17]
+	Y username = [Dogecoin OG]
+Total Length: X = 89, Y = 99 (Y / X = 111.24  X / Y = 89.90)
+Dice Coefficient: 73.68% 
+

@@ -1,0 +1,11 @@
+﻿X = [@Reuters Did you buy your #dogecoin yet???]
+X_token = [reuters, buy, dogecoin, yet]
+	X tweet_count = [13]
+	X username = [bella unicorn]
+Y = [@Reuters Do the mean buy #dogecoin ???]
+Y_token = [reuters, mean, buy, dogecoin]
+	Y tweet_count = [70]
+	Y username = [bella unicorn]
+Total Length: X = 42, Y = 38 (Y / X = 90.48  X / Y = 110.53)
+Dice Coefficient: 75.00% 
+

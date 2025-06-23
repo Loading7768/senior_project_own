@@ -1,0 +1,22 @@
+﻿X = [#doge #dogecoin #Dogecoins #DogecoinToTheMoon $DOGE]
+X_token = [doge, dogecoin, dogecoins, dogecointothemoon, doge]
+	X tweet_count = [2]
+	X username = [Wolfie Woof]
+Y = [#DOGE $DOGE #Dogecoin #Dogecoins \nTO THE ANDROMEDA!!! 💙🚀🚀🚀💙]
+Y_token = [doge, doge, dogecoin, dogecoins, andromeda]
+	Y tweet_count = [5]
+	Y username = [Wolfie Woof]
+Total Length: X = 51, Y = 59 (Y / X = 115.69  X / Y = 86.44)
+Dice Coefficient: 75.00% 
+
+X = [#DOGE $DOGE #Dogecoin #Dogecoins \nTO THE ANDROMEDA!!! 💙🚀🚀🚀💙]
+X_token = [doge, doge, dogecoin, dogecoins, andromeda]
+	X tweet_count = [5]
+	X username = [Wolfie Woof]
+Y = [#DOGE #Dogecoin #Dogecoins \nTo the Moon and Andromeda after that!]
+Y_token = [doge, dogecoin, dogecoins, moon, andromeda]
+	Y tweet_count = [6]
+	Y username = [Wolfie Woof]
+Total Length: X = 59, Y = 65 (Y / X = 110.17  X / Y = 90.77)
+Dice Coefficient: 88.89% 
+

@@ -1,0 +1,22 @@
+﻿X = [The $DOGE ETF is coming. https://t.co/hxQIhd9ci7]
+X_token = [doge, etf, coming, https]
+	X tweet_count = [110]
+	X username = [Dogecoin ETF (Community)]
+Y = [You can't have $DOGE with out ETF https://t.co/d7IBNHv04s]
+Y_token = [ca, doge, etf, https]
+	Y tweet_count = [151]
+	Y username = [Dogecoin ETF (Community)]
+Total Length: X = 48, Y = 57 (Y / X = 118.75  X / Y = 84.21)
+Dice Coefficient: 75.00% 
+
+X = [@The_REDWRITER Nice]
+X_token = [nice]
+	X tweet_count = [177]
+	X username = [Dogecoin ETF (Community)]
+Y = [@Crappy_PFP Nice!]
+Y_token = [nice]
+	Y tweet_count = [191]
+	Y username = [Dogecoin ETF (Community)]
+Total Length: X = 19, Y = 17 (Y / X = 89.47  X / Y = 111.76)
+Dice Coefficient: 100.00% 
+

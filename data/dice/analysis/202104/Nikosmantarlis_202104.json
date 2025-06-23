@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@dogecoin_rise Sell doge save money",
+        "X_token": "sell, doge, save, money",
+        "X_tweet_count": 2,
+        "X_username": "Nikosmantarlis",
+        "Y_text": "@dogecoin_rise Sell save money",
+        "Y_token": "sell, save, money",
+        "Y_tweet_count": 10,
+        "Y_username": "Nikosmantarlis",
+        "X_length": 35,
+        "Y_length": 30,
+        "Y_length_percent_of_X": 85.71,
+        "X_length_percent_of_Y": 116.67,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@dogecoin_rise @coinbase Sell guys let’s sell and save our money",
+        "X_token": "coinbase, sell, guys, let, sell, save, money",
+        "X_tweet_count": 3,
+        "X_username": "Nikosmantarlis",
+        "Y_text": "@dogecoin_rise @coinbase Guys let’s sell at save our money #sell #dogecoin",
+        "Y_token": "coinbase, guys, let, sell, save, money, sell, dogecoin",
+        "Y_tweet_count": 4,
+        "Y_username": "Nikosmantarlis",
+        "X_length": 64,
+        "Y_length": 74,
+        "Y_length_percent_of_X": 115.62,
+        "X_length_percent_of_Y": 86.49,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "@dogecoin_rise Let’s start selling",
+        "X_token": "let, start, selling",
+        "X_tweet_count": 7,
+        "X_username": "Nikosmantarlis",
+        "Y_text": "@dogecoin_rise Let’s start selling",
+        "Y_token": "let, start, selling",
+        "Y_tweet_count": 8,
+        "Y_username": "Nikosmantarlis",
+        "X_length": 34,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@dogecoin_rise Let’s buy the fucking dip",
+        "X_token": "let, buy, fucking, dip",
+        "X_tweet_count": 24,
+        "X_username": "Nikosmantarlis",
+        "Y_text": "@dogecoin_rise Guys let’s buy the dip",
+        "Y_token": "guys, let, buy, dip",
+        "Y_tweet_count": 25,
+        "Y_username": "Nikosmantarlis",
+        "X_length": 40,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 92.5,
+        "X_length_percent_of_Y": 108.11,
+        "dice_coefficient": 75.0
+    }
+]

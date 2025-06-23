@@ -1,0 +1,22 @@
+﻿X = [Hold the #Dogecoin and let I grow like the Bitcoin!]
+X_token = [hold, dogecoin, let, grow, like, bitcoin]
+	X tweet_count = [2]
+	X username = [Jefoss]
+Y = [@elonmusk do you like #dogecoin?? If you do, let it grow!!]
+Y_token = [elonmusk, like, dogecoin, let, grow]
+	Y tweet_count = [26]
+	Y username = [Jefoss]
+Total Length: X = 51, Y = 58 (Y / X = 113.73  X / Y = 87.93)
+Dice Coefficient: 72.73% 
+
+X = [Check the #instagram of @elonmusk look what’s in his story!  #dogecoin https://t.co/ekTJcVuJ2H]
+X_token = [check, instagram, elonmusk, look, story, dogecoin, https]
+	X tweet_count = [10]
+	X username = [Jefoss]
+Y = [@elonmusk put this story on his #instagram #dogecoin https://t.co/LY8GpUlk5O]
+Y_token = [elonmusk, put, story, instagram, dogecoin, https]
+	Y tweet_count = [11]
+	Y username = [Jefoss]
+Total Length: X = 94, Y = 76 (Y / X = 80.85  X / Y = 123.68)
+Dice Coefficient: 76.92% 
+

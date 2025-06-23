@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@SimonYuSEA #Dogecoin FAM! We just hit 15 cents ATH!!\n\n#Dogecoins #doge #dogecoin #DogecoinToTheMoon https://t.co/0qw1uo9lsr",
+        "X_token": "simonyusea, dogecoin, fam, hit, 15, cents, ath, dogecoins, doge, dogecoin, dogecointothemoon, https",
+        "X_tweet_count": 19,
+        "X_username": "BeckytheDoge",
+        "Y_text": "#Doge FAM WE JUST HIT 15 CENTS!!!!!!!!!\n\n#dogearmy\n#Dogecoins \n#dogecoin #DogecoinToTheMoon https://t.co/EPQjMxgVNd",
+        "Y_token": "doge, fam, hit, 15, cents, dogearmy, dogecoins, dogecoin, dogecointothemoon, https",
+        "Y_tweet_count": 20,
+        "Y_username": "BeckytheDoge",
+        "X_length": 124,
+        "Y_length": 115,
+        "Y_length_percent_of_X": 92.74,
+        "X_length_percent_of_Y": 107.83,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "Let's get #dogecoin trending again! https://t.co/uokI4IZv3p",
+        "X_token": "let, get, dogecoin, trending, https",
+        "X_tweet_count": 31,
+        "X_username": "BeckytheDoge",
+        "Y_text": "@MattWallace888 let's get #dogecoin trending again!",
+        "Y_token": "mattwallace888, let, get, dogecoin, trending",
+        "Y_tweet_count": 32,
+        "Y_username": "BeckytheDoge",
+        "X_length": 59,
+        "Y_length": 51,
+        "Y_length_percent_of_X": 86.44,
+        "X_length_percent_of_Y": 115.69,
+        "dice_coefficient": 80.0
+    }
+]

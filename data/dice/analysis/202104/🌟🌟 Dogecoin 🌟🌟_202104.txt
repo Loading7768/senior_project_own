@@ -1,0 +1,33 @@
+﻿X = [Who can make me happy with some #dogecoin #ElonMusk\n#doge #DogecoinToTheMoon\n\nDLM1d3Hjs1igvFpFAFtCYjTVmeuigpjnXL\n\nThank you]
+X_token = [make, happy, dogecoin, elonmusk, doge, dogecointothemoon, dlm1d3hjs1igvfpfaftcyjtvmeuigpjnxl, thank]
+	X tweet_count = [1]
+	X username = [🌟🌟 Dogecoin 🌟🌟]
+Y = [Who can make me happy with some #dogecoin #ElonMusk\n#doge #DogecoinToTheMoon\n\nDLM1d3Hjs1igvFpFAFtCYjTVmeuigpjnXL\n\nThank you 🥰]
+Y_token = [make, happy, dogecoin, elonmusk, doge, dogecointothemoon, dlm1d3hjs1igvfpfaftcyjtvmeuigpjnxl, thank]
+	Y tweet_count = [2]
+	Y username = [🌟🌟 Dogecoin 🌟🌟]
+Total Length: X = 123, Y = 125 (Y / X = 101.63  X / Y = 98.40)
+Dice Coefficient: 100.00% 
+
+X = [Who can make me happy with some #dogecoin #ElonMusk\n#doge #DogecoinToTheMoon\n\nDLM1d3Hjs1igvFpFAFtCYjTVmeuigpjnXL\n\nThank you]
+X_token = [make, happy, dogecoin, elonmusk, doge, dogecointothemoon, dlm1d3hjs1igvfpfaftcyjtvmeuigpjnxl, thank]
+	X tweet_count = [1]
+	X username = [🌟🌟 Dogecoin 🌟🌟]
+Y = [Who can make me happy with some #dogecoin #ElonMusk\n#doge #DogecoinToTheMoon\nDLM1d3Hjs1igvFpFAFtCYjTVmeuigpjnXL\n\nThank you 🥰]
+Y_token = [make, happy, dogecoin, elonmusk, doge, dogecointothemoon, dlm1d3hjs1igvfpfaftcyjtvmeuigpjnxl, thank]
+	Y tweet_count = [3]
+	Y username = [🌟🌟 Dogecoin 🌟🌟]
+Total Length: X = 123, Y = 124 (Y / X = 100.81  X / Y = 99.19)
+Dice Coefficient: 100.00% 
+
+X = [Who can make me happy with some #dogecoin #ElonMusk\n#doge #DogecoinToTheMoon\n\nDLM1d3Hjs1igvFpFAFtCYjTVmeuigpjnXL\n\nThank you 🥰]
+X_token = [make, happy, dogecoin, elonmusk, doge, dogecointothemoon, dlm1d3hjs1igvfpfaftcyjtvmeuigpjnxl, thank]
+	X tweet_count = [2]
+	X username = [🌟🌟 Dogecoin 🌟🌟]
+Y = [Who can make me happy with some #dogecoin #ElonMusk\n#doge #DogecoinToTheMoon\nDLM1d3Hjs1igvFpFAFtCYjTVmeuigpjnXL\n\nThank you 🥰]
+Y_token = [make, happy, dogecoin, elonmusk, doge, dogecointothemoon, dlm1d3hjs1igvfpfaftcyjtvmeuigpjnxl, thank]
+	Y tweet_count = [3]
+	Y username = [🌟🌟 Dogecoin 🌟🌟]
+Total Length: X = 125, Y = 124 (Y / X = 99.20  X / Y = 100.81)
+Dice Coefficient: 100.00% 
+

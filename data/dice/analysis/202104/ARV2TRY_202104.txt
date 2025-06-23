@@ -1,0 +1,286 @@
+﻿X = [@SNICKERS Still holding dogecoin?]
+X_token = [snickers, still, holding, dogecoin]
+	X tweet_count = [1]
+	X username = [ARV2TRY]
+Y = [still holding  #Dogecoin and how much ?]
+Y_token = [still, holding, dogecoin, much]
+	Y tweet_count = [52]
+	Y username = [ARV2TRY]
+Total Length: X = 33, Y = 39 (Y / X = 118.18  X / Y = 84.62)
+Dice Coefficient: 75.00% 
+
+X = [#dogecoin army hold dont sell’]
+X_token = [dogecoin, army, hold, dont, sell]
+	X tweet_count = [3]
+	X username = [ARV2TRY]
+Y = [#dogecoin army hold dont sell]
+Y_token = [dogecoin, army, hold, dont, sell]
+	Y tweet_count = [4]
+	Y username = [ARV2TRY]
+Total Length: X = 30, Y = 29 (Y / X = 96.67  X / Y = 103.45)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin army hold dont sell’]
+X_token = [dogecoin, army, hold, dont, sell]
+	X tweet_count = [3]
+	X username = [ARV2TRY]
+Y = [Hold and not sell #dogecoin]
+Y_token = [hold, sell, dogecoin]
+	Y tweet_count = [83]
+	Y username = [ARV2TRY]
+Total Length: X = 30, Y = 27 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [#dogecoin army hold dont sell]
+X_token = [dogecoin, army, hold, dont, sell]
+	X tweet_count = [4]
+	X username = [ARV2TRY]
+Y = [Hold and not sell #dogecoin]
+Y_token = [hold, sell, dogecoin]
+	Y tweet_count = [83]
+	Y username = [ARV2TRY]
+Total Length: X = 29, Y = 27 (Y / X = 93.10  X / Y = 107.41)
+Dice Coefficient: 75.00% 
+
+X = [@coinbase need to add  #Dogecoin]
+X_token = [coinbase, need, add, dogecoin]
+	X tweet_count = [8]
+	X username = [ARV2TRY]
+Y = [@coinbase  need to add #dogecoin]
+Y_token = [coinbase, need, add, dogecoin]
+	Y tweet_count = [28]
+	Y username = [ARV2TRY]
+Total Length: X = 32, Y = 32 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Keep holding #Dogecoin]
+X_token = [keep, holding, dogecoin]
+	X tweet_count = [11]
+	X username = [ARV2TRY]
+Y = [Keep holding #dogecoin]
+Y_token = [keep, holding, dogecoin]
+	Y tweet_count = [29]
+	Y username = [ARV2TRY]
+Total Length: X = 22, Y = 22 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Keep holding #Dogecoin]
+X_token = [keep, holding, dogecoin]
+	X tweet_count = [11]
+	X username = [ARV2TRY]
+Y = [Keep holding  #dogecoin]
+Y_token = [keep, holding, dogecoin]
+	Y tweet_count = [32]
+	Y username = [ARV2TRY]
+Total Length: X = 22, Y = 23 (Y / X = 104.55  X / Y = 95.65)
+Dice Coefficient: 100.00% 
+
+X = [Keep holding #Dogecoin]
+X_token = [keep, holding, dogecoin]
+	X tweet_count = [11]
+	X username = [ARV2TRY]
+Y = [Keep holding #Dogecoin]
+Y_token = [keep, holding, dogecoin]
+	Y tweet_count = [37]
+	Y username = [ARV2TRY]
+Total Length: X = 22, Y = 22 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#Dogecoin is future]
+X_token = [dogecoin, future]
+	X tweet_count = [12]
+	X username = [ARV2TRY]
+Y = [#dogecoin is future!]
+Y_token = [dogecoin, future]
+	Y tweet_count = [48]
+	Y username = [ARV2TRY]
+Total Length: X = 19, Y = 20 (Y / X = 105.26  X / Y = 95.00)
+Dice Coefficient: 100.00% 
+
+X = [Hold  #doge hold #dogecoin]
+X_token = [hold, doge, hold, dogecoin]
+	X tweet_count = [26]
+	X username = [ARV2TRY]
+Y = [Hold #Dogecoin\n\nHold #Dogecoin]
+Y_token = [hold, dogecoin, hold, dogecoin]
+	Y tweet_count = [58]
+	Y username = [ARV2TRY]
+Total Length: X = 26, Y = 30 (Y / X = 115.38  X / Y = 86.67)
+Dice Coefficient: 80.00% 
+
+X = [Keep holding #dogecoin]
+X_token = [keep, holding, dogecoin]
+	X tweet_count = [29]
+	X username = [ARV2TRY]
+Y = [Keep holding  #dogecoin]
+Y_token = [keep, holding, dogecoin]
+	Y tweet_count = [32]
+	Y username = [ARV2TRY]
+Total Length: X = 22, Y = 23 (Y / X = 104.55  X / Y = 95.65)
+Dice Coefficient: 100.00% 
+
+X = [Keep holding #dogecoin]
+X_token = [keep, holding, dogecoin]
+	X tweet_count = [29]
+	X username = [ARV2TRY]
+Y = [Keep holding #Dogecoin]
+Y_token = [keep, holding, dogecoin]
+	Y tweet_count = [37]
+	Y username = [ARV2TRY]
+Total Length: X = 22, Y = 22 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Hold #dogecoin and don’t worry]
+X_token = [hold, dogecoin, worry]
+	X tweet_count = [30]
+	X username = [ARV2TRY]
+Y = [Hold #Dogecoin\n\nHold #Dogecoin]
+Y_token = [hold, dogecoin, hold, dogecoin]
+	Y tweet_count = [58]
+	Y username = [ARV2TRY]
+Total Length: X = 30, Y = 30 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 80.00% 
+
+X = [Keep holding  #dogecoin]
+X_token = [keep, holding, dogecoin]
+	X tweet_count = [32]
+	X username = [ARV2TRY]
+Y = [Keep holding #Dogecoin]
+Y_token = [keep, holding, dogecoin]
+	Y tweet_count = [37]
+	Y username = [ARV2TRY]
+Total Length: X = 23, Y = 22 (Y / X = 95.65  X / Y = 104.55)
+Dice Coefficient: 100.00% 
+
+X = [Lets hold #dogecoin]
+X_token = [lets, hold, dogecoin]
+	X tweet_count = [44]
+	X username = [ARV2TRY]
+Y = [Hold hold  #dogecoin]
+Y_token = [hold, hold, dogecoin]
+	Y tweet_count = [84]
+	Y username = [ARV2TRY]
+Total Length: X = 19, Y = 20 (Y / X = 105.26  X / Y = 95.00)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin is future!]
+X_token = [dogecoin, future]
+	X tweet_count = [48]
+	X username = [ARV2TRY]
+Y = [Best future is  #Dogecoin]
+Y_token = [best, future, dogecoin]
+	Y tweet_count = [56]
+	Y username = [ARV2TRY]
+Total Length: X = 20, Y = 25 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin is future!]
+X_token = [dogecoin, future]
+	X tweet_count = [48]
+	X username = [ARV2TRY]
+Y = [Doge is future  #dogecoin]
+Y_token = [doge, future, dogecoin]
+	Y tweet_count = [62]
+	Y username = [ARV2TRY]
+Total Length: X = 20, Y = 25 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 80.00% 
+
+X = [When is #dogecoin gonna hit 1 dollar]
+X_token = [dogecoin, gon, na, hit, 1, dollar]
+	X tweet_count = [57]
+	X username = [ARV2TRY]
+Y = [Lets hit the 1 dollar  #dogecoin]
+Y_token = [lets, hit, 1, dollar, dogecoin]
+	Y tweet_count = [85]
+	Y username = [ARV2TRY]
+Total Length: X = 36, Y = 32 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 72.73% 
+
+X = [Hold #Dogecoin\n\nHold #Dogecoin]
+X_token = [hold, dogecoin, hold, dogecoin]
+	X tweet_count = [58]
+	X username = [ARV2TRY]
+Y = [Hold and not sell #dogecoin]
+Y_token = [hold, sell, dogecoin]
+	Y tweet_count = [83]
+	Y username = [ARV2TRY]
+Total Length: X = 30, Y = 27 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 80.00% 
+
+X = [No one free time to answe my question? \n. I need to know one thing! When @coinbase gonna add #dogecoin please]
+X_token = [one, free, time, answe, question, need, know, one, thing, coinbase, gon, na, add, dogecoin, please]
+	X tweet_count = [72]
+	X username = [ARV2TRY]
+Y = [Why I can’t get answer on thisss ???? \n\nI need to know one thing! When @coinbase gonna add #dogecoin please]
+Y_token = [get, answer, thisss, need, know, one, thing, coinbase, gon, na, add, dogecoin, please]
+	Y tweet_count = [73]
+	Y username = [ARV2TRY]
+Total Length: X = 109, Y = 107 (Y / X = 98.17  X / Y = 101.87)
+Dice Coefficient: 74.07% 
+
+X = [I need to know one thing! When @coinbase gonna add #dogecoin please please]
+X_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please, please]
+	X tweet_count = [74]
+	X username = [ARV2TRY]
+Y = [I need to know one thing! When @coinbase gonna add #dogecoin please answer me]
+Y_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please, answer]
+	Y tweet_count = [75]
+	Y username = [ARV2TRY]
+Total Length: X = 74, Y = 77 (Y / X = 104.05  X / Y = 96.10)
+Dice Coefficient: 95.24% 
+
+X = [I need to know one thing! When @coinbase gonna add #dogecoin please please]
+X_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please, please]
+	X tweet_count = [74]
+	X username = [ARV2TRY]
+Y = [⚠️⚠️⚠️ I need to know one thing! When @coinbase gonna add #dogecoin please ⚠️⚠️⚠️]
+Y_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please]
+	Y tweet_count = [76]
+	Y username = [ARV2TRY]
+Total Length: X = 74, Y = 81 (Y / X = 109.46  X / Y = 91.36)
+Dice Coefficient: 100.00% 
+
+X = [I need to know one thing! When @coinbase gonna add #dogecoin please please]
+X_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please, please]
+	X tweet_count = [74]
+	X username = [ARV2TRY]
+Y = [I need to know one thing! When @coinbase gonna add #dogecoin please]
+Y_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please]
+	Y tweet_count = [77]
+	Y username = [ARV2TRY]
+Total Length: X = 74, Y = 67 (Y / X = 90.54  X / Y = 110.45)
+Dice Coefficient: 100.00% 
+
+X = [I need to know one thing! When @coinbase gonna add #dogecoin please answer me]
+X_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please, answer]
+	X tweet_count = [75]
+	X username = [ARV2TRY]
+Y = [⚠️⚠️⚠️ I need to know one thing! When @coinbase gonna add #dogecoin please ⚠️⚠️⚠️]
+Y_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please]
+	Y tweet_count = [76]
+	Y username = [ARV2TRY]
+Total Length: X = 77, Y = 81 (Y / X = 105.19  X / Y = 95.06)
+Dice Coefficient: 95.24% 
+
+X = [I need to know one thing! When @coinbase gonna add #dogecoin please answer me]
+X_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please, answer]
+	X tweet_count = [75]
+	X username = [ARV2TRY]
+Y = [I need to know one thing! When @coinbase gonna add #dogecoin please]
+Y_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please]
+	Y tweet_count = [77]
+	Y username = [ARV2TRY]
+Total Length: X = 77, Y = 67 (Y / X = 87.01  X / Y = 114.93)
+Dice Coefficient: 95.24% 
+
+X = [⚠️⚠️⚠️ I need to know one thing! When @coinbase gonna add #dogecoin please ⚠️⚠️⚠️]
+X_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please]
+	X tweet_count = [76]
+	X username = [ARV2TRY]
+Y = [I need to know one thing! When @coinbase gonna add #dogecoin please]
+Y_token = [need, know, one, thing, coinbase, gon, na, add, dogecoin, please]
+	Y tweet_count = [77]
+	Y username = [ARV2TRY]
+Total Length: X = 81, Y = 67 (Y / X = 82.72  X / Y = 120.90)
+Dice Coefficient: 100.00% 
+

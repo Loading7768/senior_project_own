@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Damn! #dogecoin $doge",
+        "X_token": "damn, dogecoin, doge",
+        "X_tweet_count": 2,
+        "X_username": "Her Crypto Highness",
+        "Y_text": "#dogecoin $doge 🚀",
+        "Y_token": "dogecoin, doge",
+        "Y_tweet_count": 3,
+        "Y_username": "Her Crypto Highness",
+        "X_length": 21,
+        "Y_length": 17,
+        "Y_length_percent_of_X": 80.95,
+        "X_length_percent_of_Y": 123.53,
+        "dice_coefficient": 80.0
+    }
+]

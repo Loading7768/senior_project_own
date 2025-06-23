@@ -1,0 +1,33 @@
+﻿X = [@dogecoin_rise Hold]
+X_token = [hold]
+	X tweet_count = [3]
+	X username = [Justin]
+Y = [@dogecoin_rise Hold]
+Y_token = [hold]
+	Y tweet_count = [6]
+	Y username = [Justin]
+Total Length: X = 19, Y = 19 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@ShowtimerHD @Nitro_Bee2020 @dogecoin_rise I fucking love u]
+X_token = [showtimerhd, fucking, love, u]
+	X tweet_count = [31]
+	X username = [Justin]
+Y = [@robhild @ShowtimerHD @Nitro_Bee2020 @dogecoin_rise I love u]
+Y_token = [robhild, showtimerhd, love, u]
+	Y tweet_count = [32]
+	Y username = [Justin]
+Total Length: X = 59, Y = 60 (Y / X = 101.69  X / Y = 98.33)
+Dice Coefficient: 75.00% 
+
+X = [@DogeCoin_Boom HELLA FUCKING AWESOME]
+X_token = [hella, fucking, awesome]
+	X tweet_count = [51]
+	X username = [Justin]
+Y = [@DogeCoin_Boom HELLA FUCKING AWESOME]
+Y_token = [hella, fucking, awesome]
+	Y tweet_count = [54]
+	Y username = [Justin]
+Total Length: X = 36, Y = 36 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

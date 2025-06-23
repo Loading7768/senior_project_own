@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#dogecoin #teamnosleep let’s go to the moon!!! 🚀🚀🚀🚀🚀🚀🚀 https://t.co/E1jMAneU8F",
+        "X_token": "dogecoin, teamnosleep, let, go, moon, https",
+        "X_tweet_count": 5,
+        "X_username": "JFL012",
+        "Y_text": "#dogecoin let’s go to .15!!!!  #dogetothemoon 🚀🚀🚀🚀🚀 https://t.co/n2y4AkdsCg",
+        "Y_token": "dogecoin, let, go, dogetothemoon, https",
+        "Y_tweet_count": 7,
+        "Y_username": "JFL012",
+        "X_length": 78,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 96.15,
+        "X_length_percent_of_Y": 104.0,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "#dogecoin #teamnosleep let’s go to the moon!!! 🚀🚀🚀🚀🚀🚀🚀 https://t.co/E1jMAneU8F",
+        "X_token": "dogecoin, teamnosleep, let, go, moon, https",
+        "X_tweet_count": 5,
+        "X_username": "JFL012",
+        "Y_text": "#dogearmy let’s go to the moon!!! 🚀🚀🚀🚀#dogecoin #DogecoinToTheMoon #doge https://t.co/h0TLIx6D1R",
+        "Y_token": "dogearmy, let, go, moon, dogecoin, dogecointothemoon, doge, https",
+        "Y_tweet_count": 19,
+        "Y_username": "JFL012",
+        "X_length": 78,
+        "Y_length": 96,
+        "Y_length_percent_of_X": 123.08,
+        "X_length_percent_of_Y": 81.25,
+        "dice_coefficient": 71.43
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#DOGECOIN JUST HIT 25 CENTS!!!",
+        "X_token": "dogecoin, hit, 25, cents",
+        "X_tweet_count": 12,
+        "X_username": "SlumDOGE Millionaire",
+        "Y_text": "#DOGECOIN is about to hit 35 cents!!!",
+        "Y_token": "dogecoin, hit, 35, cents",
+        "Y_tweet_count": 45,
+        "Y_username": "SlumDOGE Millionaire",
+        "X_length": 30,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 123.33,
+        "X_length_percent_of_Y": 81.08,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "#DOGECOIN JUST HIT 25 CENTS!!!",
+        "X_token": "dogecoin, hit, 25, cents",
+        "X_tweet_count": 12,
+        "X_username": "SlumDOGE Millionaire",
+        "Y_text": "#DOGECOIN is about to hit 34 cents",
+        "Y_token": "dogecoin, hit, 34, cents",
+        "Y_tweet_count": 46,
+        "Y_username": "SlumDOGE Millionaire",
+        "X_length": 30,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 113.33,
+        "X_length_percent_of_Y": 88.24,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "NEW YOUTUBE VIDEO!!!! Will AMC Accept #Dogecoin??? My thoughts! Click here to watch 👉🏼 https://t.co/CF12NrTsUe https://t.co/GIyJglLtcg",
+        "X_token": "new, youtube, video, amc, accept, dogecoin, thoughts, click, watch, https, https",
+        "X_tweet_count": 41,
+        "X_username": "SlumDOGE Millionaire",
+        "Y_text": "New YOUTUBE video! Does #Dogecoin have an official soccer team???? Click here to watch 👉🏼 https://t.co/pZXypZsktG https://t.co/9WRXCPnUeM",
+        "Y_token": "new, youtube, video, dogecoin, official, soccer, team, click, watch, https, https",
+        "Y_tweet_count": 54,
+        "Y_username": "SlumDOGE Millionaire",
+        "X_length": 134,
+        "Y_length": 137,
+        "Y_length_percent_of_X": 102.24,
+        "X_length_percent_of_Y": 97.81,
+        "dice_coefficient": 70.0
+    },
+    {
+        "X_text": "#DOGECOIN is about to hit 35 cents!!!",
+        "X_token": "dogecoin, hit, 35, cents",
+        "X_tweet_count": 45,
+        "X_username": "SlumDOGE Millionaire",
+        "Y_text": "#DOGECOIN is about to hit 34 cents",
+        "Y_token": "dogecoin, hit, 34, cents",
+        "Y_tweet_count": 46,
+        "Y_username": "SlumDOGE Millionaire",
+        "X_length": 37,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 91.89,
+        "X_length_percent_of_Y": 108.82,
+        "dice_coefficient": 75.0
+    }
+]

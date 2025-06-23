@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@heyyDREW_ Congrats 🎊🎉🍾",
+        "X_token": "congrats",
+        "X_tweet_count": 216,
+        "X_username": "The Duke Of DogeCoin",
+        "Y_text": "@Its_her_tmac Congrats 🎊🍾",
+        "Y_token": "congrats",
+        "Y_tweet_count": 221,
+        "Y_username": "The Duke Of DogeCoin",
+        "X_length": 23,
+        "Y_length": 25,
+        "Y_length_percent_of_X": 108.7,
+        "X_length_percent_of_Y": 92.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@_Leo_ns_ I’m sure it’s some , gotta be",
+        "X_token": "sure, got, ta",
+        "X_tweet_count": 3,
+        "X_username": "The Duke Of DogeCoin",
+        "Y_text": "@BlowSumMo_ 🤷🏾‍♂️Somebody gotta do it 🤣",
+        "Y_token": "got, ta",
+        "Y_tweet_count": 72,
+        "Y_username": "The Duke Of DogeCoin",
+        "X_length": 39,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 80.0
+    }
+]

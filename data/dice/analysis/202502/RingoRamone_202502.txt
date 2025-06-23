@@ -1,0 +1,110 @@
+﻿X = [@elonmusk But still, DOGECOIN!]
+X_token = [elonmusk, still, dogecoin]
+	X tweet_count = [1]
+	X username = [RingoRamone]
+Y = [@elonmusk DOGECOIN! @dogecoin]
+Y_token = [elonmusk, dogecoin, dogecoin]
+	Y tweet_count = [25]
+	Y username = [RingoRamone]
+Total Length: X = 30, Y = 29 (Y / X = 96.67  X / Y = 103.45)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk @DOGE Let's get DOGECOIN up !]
+X_token = [elonmusk, doge, let, get, dogecoin]
+	X tweet_count = [2]
+	X username = [RingoRamone]
+Y = [@elonmusk Let's get that DOGECOIN up!]
+Y_token = [elonmusk, let, get, dogecoin]
+	Y tweet_count = [7]
+	Y username = [RingoRamone]
+Total Length: X = 39, Y = 37 (Y / X = 94.87  X / Y = 105.41)
+Dice Coefficient: 88.89% 
+
+X = [@elonmusk @DOGE Let's get DOGECOIN up !]
+X_token = [elonmusk, doge, let, get, dogecoin]
+	X tweet_count = [2]
+	X username = [RingoRamone]
+Y = [@elonmusk Get the DOGECOIN up! @dogecoin]
+Y_token = [elonmusk, get, dogecoin, dogecoin]
+	Y tweet_count = [19]
+	Y username = [RingoRamone]
+Total Length: X = 39, Y = 40 (Y / X = 102.56  X / Y = 97.50)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk DOGECOIN to the rescue!]
+X_token = [elonmusk, dogecoin, rescue]
+	X tweet_count = [4]
+	X username = [RingoRamone]
+Y = [@elonmusk @DOGE DOGECOIN to the rescue!]
+Y_token = [elonmusk, doge, dogecoin, rescue]
+	Y tweet_count = [11]
+	Y username = [RingoRamone]
+Total Length: X = 33, Y = 39 (Y / X = 118.18  X / Y = 84.62)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk DOGECOIN to the rescue!]
+X_token = [elonmusk, dogecoin, rescue]
+	X tweet_count = [4]
+	X username = [RingoRamone]
+Y = [@elonmusk DOGECOIN! @dogecoin]
+Y_token = [elonmusk, dogecoin, dogecoin]
+	Y tweet_count = [25]
+	Y username = [RingoRamone]
+Total Length: X = 33, Y = 29 (Y / X = 87.88  X / Y = 113.79)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk DOGECOIN is inevitable!]
+X_token = [elonmusk, dogecoin, inevitable]
+	X tweet_count = [5]
+	X username = [RingoRamone]
+Y = [@elonmusk DOGECOIN! @dogecoin]
+Y_token = [elonmusk, dogecoin, dogecoin]
+	Y tweet_count = [25]
+	Y username = [RingoRamone]
+Total Length: X = 33, Y = 29 (Y / X = 87.88  X / Y = 113.79)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk Let's get that DOGECOIN up!]
+X_token = [elonmusk, let, get, dogecoin]
+	X tweet_count = [7]
+	X username = [RingoRamone]
+Y = [@elonmusk Get the DOGECOIN up! @dogecoin]
+Y_token = [elonmusk, get, dogecoin, dogecoin]
+	Y tweet_count = [19]
+	Y username = [RingoRamone]
+Total Length: X = 37, Y = 40 (Y / X = 108.11  X / Y = 92.50)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk @DOGE DOGECOIN to the rescue!]
+X_token = [elonmusk, doge, dogecoin, rescue]
+	X tweet_count = [11]
+	X username = [RingoRamone]
+Y = [@elonmusk @DOGE ans DOGECOIN ! @dogecoin]
+Y_token = [elonmusk, doge, ans, dogecoin, dogecoin]
+	Y tweet_count = [27]
+	Y username = [RingoRamone]
+Total Length: X = 39, Y = 40 (Y / X = 102.56  X / Y = 97.50)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk DOGECOIN in SPACE!]
+X_token = [elonmusk, dogecoin, space]
+	X tweet_count = [15]
+	X username = [RingoRamone]
+Y = [@elonmusk DOGECOIN! @dogecoin]
+Y_token = [elonmusk, dogecoin, dogecoin]
+	Y tweet_count = [25]
+	Y username = [RingoRamone]
+Total Length: X = 28, Y = 29 (Y / X = 103.57  X / Y = 96.55)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk Get the DOGECOIN up! @dogecoin]
+X_token = [elonmusk, get, dogecoin, dogecoin]
+	X tweet_count = [19]
+	X username = [RingoRamone]
+Y = [@elonmusk Lets get DOGECOIN into the conversation!]
+Y_token = [elonmusk, lets, get, dogecoin, conversation]
+	Y tweet_count = [20]
+	Y username = [RingoRamone]
+Total Length: X = 40, Y = 50 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 75.00% 
+

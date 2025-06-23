@@ -1,0 +1,11 @@
+﻿X = [#dogecoin someone sold it but we will hold it]
+X_token = [dogecoin, someone, sold, hold]
+	X tweet_count = [1]
+	X username = [Ahilya]
+Y = [#dogecoin we hold it, losers sold it]
+Y_token = [dogecoin, hold, losers, sold]
+	Y tweet_count = [2]
+	Y username = [Ahilya]
+Total Length: X = 45, Y = 36 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 75.00% 
+

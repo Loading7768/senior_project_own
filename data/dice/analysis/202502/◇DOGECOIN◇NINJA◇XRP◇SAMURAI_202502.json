@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@chooserich @stoolpresidente Lol I am impressed",
+        "X_token": "chooserich, stoolpresidente, lol, impressed",
+        "X_tweet_count": 25,
+        "X_username": "◇DOGECOIN◇NINJA◇XRP◇SAMURAI",
+        "Y_text": "@chooserich @stoolpresidente My dog lol",
+        "Y_token": "chooserich, stoolpresidente, dog, lol",
+        "Y_tweet_count": 26,
+        "Y_username": "◇DOGECOIN◇NINJA◇XRP◇SAMURAI",
+        "X_length": 47,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 82.98,
+        "X_length_percent_of_Y": 120.51,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@lynk0x Check out libra https://t.co/McIGD2NBDT",
+        "X_token": "lynk0x, check, libra, https",
+        "X_tweet_count": 30,
+        "X_username": "◇DOGECOIN◇NINJA◇XRP◇SAMURAI",
+        "Y_text": "@lynk0x Check out libra @lynk0x https://t.co/wpL89njvWA",
+        "Y_token": "lynk0x, check, libra, lynk0x, https",
+        "Y_tweet_count": 44,
+        "Y_username": "◇DOGECOIN◇NINJA◇XRP◇SAMURAI",
+        "X_length": 47,
+        "Y_length": 55,
+        "Y_length_percent_of_X": 117.02,
+        "X_length_percent_of_Y": 85.45,
+        "dice_coefficient": 100.0
+    }
+]

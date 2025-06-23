@@ -1,0 +1,22 @@
+﻿X = [#hodl strong #dogefam @dogecoin #dogeday #doge420]
+X_token = [hodl, strong, dogefam, dogecoin, dogeday, doge420]
+	X tweet_count = [10]
+	X username = [Edward Paperhands]
+Y = [Roar #dogefam #dogeday #dogecoin #doge420 !!!!!]
+Y_token = [roar, dogefam, dogeday, dogecoin, doge420]
+	Y tweet_count = [12]
+	Y username = [Edward Paperhands]
+Total Length: X = 49, Y = 47 (Y / X = 95.92  X / Y = 104.26)
+Dice Coefficient: 72.73% 
+
+X = [Buy the dips! #dogeday #doge420 #dogecoin]
+X_token = [buy, dips, dogeday, doge420, dogecoin]
+	X tweet_count = [11]
+	X username = [Edward Paperhands]
+Y = [buy the dips! #doge #dogecoin #doge420]
+Y_token = [buy, dips, doge, dogecoin, doge420]
+	Y tweet_count = [14]
+	Y username = [Edward Paperhands]
+Total Length: X = 41, Y = 38 (Y / X = 92.68  X / Y = 107.89)
+Dice Coefficient: 80.00% 
+

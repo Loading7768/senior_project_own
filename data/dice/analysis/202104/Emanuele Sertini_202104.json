@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@coinbase Add #dogecoin  in #Coinbase .. 🚀🥇🐾🐾🐾🐾🐕‍🦺🐕🐩💸💸💸🍀🍀🍀💥🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏",
+        "X_token": "coinbase, add, dogecoin, coinbase",
+        "X_tweet_count": 5,
+        "X_username": "Emanuele Sertini",
+        "Y_text": "@coinbase Dogecoin is the King 👑 🔥🔥 💥💥🐾🐾🥇🏝️ 🏝️ #Dogecoin  add Dogecoin 💸🚀",
+        "Y_token": "coinbase, dogecoin, king, dogecoin, add, dogecoin",
+        "Y_tweet_count": 14,
+        "Y_username": "Emanuele Sertini",
+        "X_length": 72,
+        "Y_length": 73,
+        "Y_length_percent_of_X": 101.39,
+        "X_length_percent_of_Y": 98.63,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@DogecoinRise @amazon @JeffBezos #dogecoin #Amazon  Please adopt Dogecoin 💸🚀🚀🚀 ..  dogefamily go and look #arrival is the future Tesla of commercial vehicles and public transport. Dogecoin + Arrival = Future 🙏🥂🍾 @arrival #Crypto #Cryptocurrency https://t.co/NFFvnlDg92",
+        "X_token": "dogecoinrise, amazon, jeffbezos, dogecoin, amazon, please, adopt, dogecoin, dogefamily, go, look, arrival, future, tesla, commercial, vehicles, public, transport, dogecoin, arrival, future, arrival, crypto, cryptocurrency, https",
+        "X_tweet_count": 29,
+        "X_username": "Emanuele Sertini",
+        "Y_text": "@DogecoinRise @JeffBezos @amazon @Change #dogecoin 🚀🚀🏝️🥂🍾🙏 🍀 check out #arrival too, this will be the future Tesla in the field of commercial vehicles and public transport @arrival #Amazon arrival Please adopt Dogecoin 🙏 https://t.co/sJYKUoW4pI",
+        "Y_token": "dogecoinrise, jeffbezos, amazon, change, dogecoin, check, arrival, future, tesla, field, commercial, vehicles, public, transport, arrival, amazon, arrival, please, adopt, dogecoin, https",
+        "Y_tweet_count": 30,
+        "Y_username": "Emanuele Sertini",
+        "X_length": 268,
+        "Y_length": 244,
+        "Y_length_percent_of_X": 91.04,
+        "X_length_percent_of_Y": 109.84,
+        "dice_coefficient": 77.78
+    },
+    {
+        "X_text": "@Walmart #Walmart Please adopt #dogecoin 🙏",
+        "X_token": "walmart, walmart, please, adopt, dogecoin",
+        "X_tweet_count": 37,
+        "X_username": "Emanuele Sertini",
+        "Y_text": "@Walmart Walmart please accept Dogecoin 🙏 #dogecoin",
+        "Y_token": "walmart, walmart, please, accept, dogecoin, dogecoin",
+        "Y_tweet_count": 53,
+        "Y_username": "Emanuele Sertini",
+        "X_length": 42,
+        "Y_length": 51,
+        "Y_length_percent_of_X": 121.43,
+        "X_length_percent_of_Y": 82.35,
+        "dice_coefficient": 75.0
+    }
+]

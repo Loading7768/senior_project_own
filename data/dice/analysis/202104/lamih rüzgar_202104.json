@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "the rebellion of the doge oppressed like la case de papel film #dogecoin",
+        "X_token": "rebellion, doge, oppressed, like, la, case, de, papel, film, dogecoin",
+        "X_tweet_count": 4,
+        "X_username": "lamih rüzgar",
+        "Y_text": "the rebellion of the doge oppressed like la case de papel film #dogecoin #elon musk",
+        "Y_token": "rebellion, doge, oppressed, like, la, case, de, papel, film, dogecoin, elon, musk",
+        "Y_tweet_count": 5,
+        "Y_username": "lamih rüzgar",
+        "X_length": 72,
+        "Y_length": 83,
+        "Y_length_percent_of_X": 115.28,
+        "X_length_percent_of_Y": 86.75,
+        "dice_coefficient": 90.91
+    }
+]

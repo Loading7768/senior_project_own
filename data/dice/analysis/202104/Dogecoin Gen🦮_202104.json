@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Happy to share this free #dogecards got’em https://t.co/PV1W1cl4AC",
+        "X_token": "happy, share, free, dogecards, got, em, https",
+        "X_tweet_count": 7,
+        "X_username": "Dogecoin Gen🦮",
+        "Y_text": "@TopLoaderSports Got’em happy to share this free dogecards to my son🚀🚀🚀🚀",
+        "Y_token": "toploadersports, got, em, happy, share, free, dogecards",
+        "Y_tweet_count": 8,
+        "Y_username": "Dogecoin Gen🦮",
+        "X_length": 66,
+        "Y_length": 72,
+        "Y_length_percent_of_X": 109.09,
+        "X_length_percent_of_Y": 91.67,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "Don’t forget our #DOGE https://t.co/j3bwv3tEio",
+        "X_token": "forget, doge, https",
+        "X_tweet_count": 31,
+        "X_username": "Dogecoin Gen🦮",
+        "Y_text": "Don’t forget our #DOGE https://t.co/ytMzCGNlWV",
+        "Y_token": "forget, doge, https",
+        "Y_tweet_count": 32,
+        "Y_username": "Dogecoin Gen🦮",
+        "X_length": 46,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

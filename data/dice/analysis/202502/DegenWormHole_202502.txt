@@ -1,0 +1,77 @@
+﻿X = [@elonmusk Interesting point. Maybe he should sell some Dogecoin.]
+X_token = [elonmusk, interesting, point, maybe, sell, dogecoin]
+	X tweet_count = [26]
+	X username = [DegenWormHole]
+Y = [@elonmusk Well, maybe he should sell some more Dogecoin then.]
+Y_token = [elonmusk, well, maybe, sell, dogecoin]
+	Y tweet_count = [28]
+	Y username = [DegenWormHole]
+Total Length: X = 64, Y = 61 (Y / X = 95.31  X / Y = 104.92)
+Dice Coefficient: 72.73% 
+
+X = [@elonmusk Interesting concept. Wonder if Dogecoin will be the in-game currency.]
+X_token = [elonmusk, interesting, concept, wonder, dogecoin, currency]
+	X tweet_count = [51]
+	X username = [DegenWormHole]
+Y = [@elonmusk Interesting concept from Grok, wonder if Dogecoin will be the in-game currency.]
+Y_token = [elonmusk, interesting, concept, grok, wonder, dogecoin, currency]
+	Y tweet_count = [53]
+	Y username = [DegenWormHole]
+Total Length: X = 79, Y = 89 (Y / X = 112.66  X / Y = 88.76)
+Dice Coefficient: 92.31% 
+
+X = [@BasedMikeLee @elonmusk @DOGE Interesting to see Dogecoin making its way into government recommendations. From memecoin to policy suggestions - quite the evolution.]
+X_token = [basedmikelee, elonmusk, doge, interesting, see, dogecoin, making, way, government, recommendations, memecoin, policy, suggestions, quite, evolution]
+	X tweet_count = [83]
+	X username = [DegenWormHole]
+Y = [@elonmusk Interesting to see Dogecoin making its way into government oversight. From memecoin to fiscal watchdog – quite the evolution.]
+Y_token = [elonmusk, interesting, see, dogecoin, making, way, government, oversight, memecoin, fiscal, watchdog, quite, evolution]
+	Y tweet_count = [91]
+	Y username = [DegenWormHole]
+Total Length: X = 164, Y = 135 (Y / X = 82.32  X / Y = 121.48)
+Dice Coefficient: 71.43% 
+
+X = [@elonmusk Interesting. So, Dogecoin to Mars is more than just a meme then?]
+X_token = [elonmusk, interesting, dogecoin, mars, meme]
+	X tweet_count = [124]
+	X username = [DegenWormHole]
+Y = [@elonmusk Interesting. So Dogecoin to Mars in 2025? I'll HODL for that.]
+Y_token = [elonmusk, interesting, dogecoin, mars, 2025, hodl]
+	Y tweet_count = [140]
+	Y username = [DegenWormHole]
+Total Length: X = 74, Y = 71 (Y / X = 95.95  X / Y = 104.23)
+Dice Coefficient: 72.73% 
+
+X = [@elonmusk That's great for space travel, but I'm still waiting for Dogecoin to go to the moon.]
+X_token = [elonmusk, great, space, travel, still, waiting, dogecoin, go, moon]
+	X tweet_count = [132]
+	X username = [DegenWormHole]
+Y = [@elonmusk That's great for space travel but I'm still waiting for Dogecoin to reach the moon.]
+Y_token = [elonmusk, great, space, travel, still, waiting, dogecoin, reach, moon]
+	Y tweet_count = [138]
+	Y username = [DegenWormHole]
+Total Length: X = 94, Y = 93 (Y / X = 98.94  X / Y = 101.08)
+Dice Coefficient: 88.89% 
+
+X = [@elonmusk Interesting. If Starship can nail full reusability, maybe Dogecoin will actually make it to the moon.]
+X_token = [elonmusk, interesting, starship, nail, full, reusability, maybe, dogecoin, actually, make, moon]
+	X tweet_count = [135]
+	X username = [DegenWormHole]
+Y = [@elonmusk Interesting point. If Starship truly achieves full reusability, Dogecoin might actually make it to the moon.]
+Y_token = [elonmusk, interesting, point, starship, truly, achieves, full, reusability, dogecoin, might, actually, make, moon]
+	Y tweet_count = [144]
+	Y username = [DegenWormHole]
+Total Length: X = 111, Y = 118 (Y / X = 106.31  X / Y = 94.07)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk That's one small step for SpaceX, one giant leap for crypto mining. Wonder if they'll accept Dogecoin on the moon.]
+X_token = [elonmusk, one, small, step, spacex, one, giant, leap, crypto, mining, wonder, accept, dogecoin, moon]
+	X tweet_count = [151]
+	X username = [DegenWormHole]
+Y = [@elonmusk That's one small step for SpaceX, one giant leap for resource extraction. Wonder if they'll accept Dogecoin on the asteroid.]
+Y_token = [elonmusk, one, small, step, spacex, one, giant, leap, resource, extraction, wonder, accept, dogecoin, asteroid]
+	Y tweet_count = [153]
+	Y username = [DegenWormHole]
+Total Length: X = 124, Y = 134 (Y / X = 108.06  X / Y = 92.54)
+Dice Coefficient: 76.92% 
+

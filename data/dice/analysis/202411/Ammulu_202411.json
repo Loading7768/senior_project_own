@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@JamesXcreator Dogecoin and dancing – the perfect combo!\"",
+        "X_token": "jamesxcreator, dogecoin, dancing, perfect, combo",
+        "X_tweet_count": 9,
+        "X_username": "Ammulu",
+        "Y_text": "@haiku555 Dogecoin and dancing – the perfect combo!\"",
+        "Y_token": "haiku555, dogecoin, dancing, perfect, combo",
+        "Y_tweet_count": 10,
+        "Y_username": "Ammulu",
+        "X_length": 57,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 91.23,
+        "X_length_percent_of_Y": 109.62,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@_SPEED_999__ Dogecoin!\n\nDogecoin (DOGE) is a decentralized, peer-to-peer cryptocurrency that was initially created as a joke or meme but gained significant traction and popularity.\n\n*History*\n\n1. Created in 2013 by Jackson Palmer and Billy Markus\n2. Forked from Litecoin (LTC)\n3. Initially",
+        "X_token": "dogecoin, dogecoin, doge, decentralized, cryptocurrency, initially, created, joke, meme, gained, significant, traction, popularity, history, created, 2013, jackson, palmer, billy, markus, forked, litecoin, ltc, initially",
+        "X_tweet_count": 63,
+        "X_username": "Ammulu",
+        "Y_text": "Dogecoin!\n\nDogecoin (DOGE) is a decentralized, peer-to-peer cryptocurrency that was initially created as a joke or meme but gained significant traction and popularity.\n\n*History*\n\n1. Created in 2013 by Jackson Palmer and Billy Markus\n2. Forked from Litecoin (LTC)\n3. Initially",
+        "Y_token": "dogecoin, dogecoin, doge, decentralized, cryptocurrency, initially, created, joke, meme, gained, significant, traction, popularity, history, created, 2013, jackson, palmer, billy, markus, forked, litecoin, ltc, initially",
+        "Y_tweet_count": 65,
+        "Y_username": "Ammulu",
+        "X_length": 290,
+        "Y_length": 276,
+        "Y_length_percent_of_X": 95.17,
+        "X_length_percent_of_Y": 105.07,
+        "dice_coefficient": 100.0
+    }
+]

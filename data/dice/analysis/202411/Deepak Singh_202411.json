@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@elonmusk Elon when we can pay for X payments with #Dogecoin ????",
+        "X_token": "elonmusk, elon, pay, x, payments, dogecoin",
+        "X_tweet_count": 23,
+        "X_username": "Deepak Singh",
+        "Y_text": "@elonmusk @DOGE So Elon when we can pay with #Dogecoin on #X",
+        "Y_token": "elonmusk, doge, elon, pay, dogecoin, x",
+        "Y_tweet_count": 39,
+        "Y_username": "Deepak Singh",
+        "X_length": 65,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 92.31,
+        "X_length_percent_of_Y": 108.33,
+        "dice_coefficient": 83.33
+    }
+]

@@ -1,0 +1,22 @@
+﻿X = [#dogecoin To The Moon]
+X_token = [dogecoin, moon]
+	X tweet_count = [5]
+	X username = [Brandon]
+Y = [TO THE MOON  #Dogecoin]
+Y_token = [moon, dogecoin]
+	Y tweet_count = [19]
+	Y username = [Brandon]
+Total Length: X = 21, Y = 22 (Y / X = 104.76  X / Y = 95.45)
+Dice Coefficient: 100.00% 
+
+X = [Let’s go! Let’s get to .15! #dogecoin]
+X_token = [let, go, let, get, dogecoin]
+	X tweet_count = [25]
+	X username = [Brandon]
+Y = [Let’s get to .15!!!!! #dogecoin]
+Y_token = [let, get, dogecoin]
+	Y tweet_count = [29]
+	Y username = [Brandon]
+Total Length: X = 37, Y = 31 (Y / X = 83.78  X / Y = 119.35)
+Dice Coefficient: 85.71% 
+

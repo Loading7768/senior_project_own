@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "#Dogecoin (DOGE) Price Prediction: What Lies Above $0.10?  https://t.co/02zsAQOlsJ",
+        "X_token": "dogecoin, doge, price, prediction, lies, https",
+        "X_tweet_count": 4,
+        "X_username": "Cryptolid.io",
+        "Y_text": "#Dogecoin (DOGE) Price Prediction: What Lies Above $0.10? https://t.co/02zsAQOlsJ",
+        "Y_token": "dogecoin, doge, price, prediction, lies, https",
+        "Y_tweet_count": 10,
+        "Y_username": "Cryptolid.io",
+        "X_length": 82,
+        "Y_length": 81,
+        "Y_length_percent_of_X": 98.78,
+        "X_length_percent_of_Y": 101.23,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "The #DOGE are out Again. #Dogecoin is up by More Than 18% as Others Follows https://t.co/FXgh3l8T0X",
+        "X_token": "doge, dogecoin, 18, others, follows, https",
+        "X_tweet_count": 5,
+        "X_username": "Cryptolid.io",
+        "Y_text": "The DOGE are out Again. #Dogecoin is up by More Than 18% as Others Follows https://t.co/FXgh3l8T0X",
+        "Y_token": "doge, dogecoin, 18, others, follows, https",
+        "Y_tweet_count": 11,
+        "Y_username": "Cryptolid.io",
+        "X_length": 99,
+        "Y_length": 98,
+        "Y_length_percent_of_X": 98.99,
+        "X_length_percent_of_Y": 101.02,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "#Dogecoin (DOGE) Scores New Listing on Major Japanese Crypto Exchange https://t.co/kuVz70h7Le",
+        "X_token": "dogecoin, doge, scores, new, listing, major, japanese, crypto, exchange, https",
+        "X_tweet_count": 7,
+        "X_username": "Cryptolid.io",
+        "Y_text": "#Dogecoin (DOGE) Rockets 14% Higher After Major Japanese Exchange Listing https://t.co/I0xKwtnNy8",
+        "Y_token": "dogecoin, doge, rockets, 14, higher, major, japanese, exchange, listing, https",
+        "Y_tweet_count": 9,
+        "Y_username": "Cryptolid.io",
+        "X_length": 93,
+        "Y_length": 97,
+        "Y_length_percent_of_X": 104.3,
+        "X_length_percent_of_Y": 95.88,
+        "dice_coefficient": 70.0
+    }
+]

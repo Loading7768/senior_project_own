@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "WE DID IT!!!! $DOGE #dogecoin #dogetothemoon #DogecoinRise https://t.co/1HJR39PLLk",
+        "X_token": "doge, dogecoin, dogetothemoon, dogecoinrise, https",
+        "X_tweet_count": 5,
+        "X_username": "DogeBeMoonin",
+        "Y_text": "$DOGE IS ABOUT TO KISS .40 AGAIN! #dogecoin #DogecoinRise #dogearmy https://t.co/uqQqAAK2Gp",
+        "Y_token": "doge, kiss, dogecoin, dogecoinrise, dogearmy, https",
+        "Y_tweet_count": 6,
+        "Y_username": "DogeBeMoonin",
+        "X_length": 82,
+        "Y_length": 91,
+        "Y_length_percent_of_X": 110.98,
+        "X_length_percent_of_Y": 90.11,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "$DOGE IS ABOUT TO KISS .40 AGAIN! #dogecoin #DogecoinRise #dogearmy https://t.co/uqQqAAK2Gp",
+        "X_token": "doge, kiss, dogecoin, dogecoinrise, dogearmy, https",
+        "X_tweet_count": 6,
+        "X_username": "DogeBeMoonin",
+        "Y_text": "So $DOGE new home is .30, I like it. #dogecoin #dogearmy #DogecoinRise https://t.co/THdSPQuvFr",
+        "Y_token": "doge, new, home, like, dogecoin, dogearmy, dogecoinrise, https",
+        "Y_tweet_count": 8,
+        "Y_username": "DogeBeMoonin",
+        "X_length": 91,
+        "Y_length": 94,
+        "Y_length_percent_of_X": 103.3,
+        "X_length_percent_of_Y": 96.81,
+        "dice_coefficient": 71.43
+    }
+]

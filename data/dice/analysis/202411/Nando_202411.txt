@@ -1,0 +1,55 @@
+﻿X = [@dogecoin_empire Good morning ! have a great day MAGA]
+X_token = [good, morning, great, day, maga]
+	X tweet_count = [4]
+	X username = [Nando]
+Y = [@dogecoin_empire Good morning ! have a great day]
+Y_token = [good, morning, great, day]
+	Y tweet_count = [67]
+	Y username = [Nando]
+Total Length: X = 53, Y = 48 (Y / X = 90.57  X / Y = 110.42)
+Dice Coefficient: 88.89% 
+
+X = [@dogecoin_empire Good morning Alena !]
+X_token = [good, morning, alena]
+	X tweet_count = [17]
+	X username = [Nando]
+Y = [@dogecoin_empire Good morning Alena 💙]
+Y_token = [good, morning, alena]
+	Y tweet_count = [28]
+	Y username = [Nando]
+Total Length: X = 37, Y = 37 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@dogecoin_empire Good morning Alena !]
+X_token = [good, morning, alena]
+	X tweet_count = [17]
+	X username = [Nando]
+Y = [@dogecoin_empire Good morning Alena !]
+Y_token = [good, morning, alena]
+	Y tweet_count = [55]
+	Y username = [Nando]
+Total Length: X = 37, Y = 37 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@dogecoin_empire lol awesome!]
+X_token = [lol, awesome]
+	X tweet_count = [27]
+	X username = [Nando]
+Y = [@dogecoin_empire lol this is awesome]
+Y_token = [lol, awesome]
+	Y tweet_count = [75]
+	Y username = [Nando]
+Total Length: X = 29, Y = 36 (Y / X = 124.14  X / Y = 80.56)
+Dice Coefficient: 100.00% 
+
+X = [@dogecoin_empire Good morning Alena 💙]
+X_token = [good, morning, alena]
+	X tweet_count = [28]
+	X username = [Nando]
+Y = [@dogecoin_empire Good morning Alena !]
+Y_token = [good, morning, alena]
+	Y tweet_count = [55]
+	Y username = [Nando]
+Total Length: X = 37, Y = 37 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

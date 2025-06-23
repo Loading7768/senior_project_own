@@ -1,0 +1,44 @@
+﻿X = [@Klondikebar YO YOU BUYING ANY #dogecoin ??????????]
+X_token = [klondikebar, yo, buying, dogecoin]
+	X tweet_count = [5]
+	X username = [Jon]
+Y = [@SNICKERS YO SNICKERS ARE YOU BUYING SOME DOGECOIN?]
+Y_token = [snickers, yo, snickers, buying, dogecoin]
+	Y tweet_count = [7]
+	Y username = [Jon]
+Total Length: X = 51, Y = 51 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [@Klondikebar YO YOU BUYING ANY #dogecoin ??????????]
+X_token = [klondikebar, yo, buying, dogecoin]
+	X tweet_count = [5]
+	X username = [Jon]
+Y = [@mmschocolate YO YOU BUYING ANY #dogecoin]
+Y_token = [mmschocolate, yo, buying, dogecoin]
+	Y tweet_count = [13]
+	Y username = [Jon]
+Total Length: X = 51, Y = 41 (Y / X = 80.39  X / Y = 124.39)
+Dice Coefficient: 75.00% 
+
+X = [@SNICKERS YO SNICKERS ARE YOU BUYING SOME DOGECOIN?]
+X_token = [snickers, yo, snickers, buying, dogecoin]
+	X tweet_count = [7]
+	X username = [Jon]
+Y = [@mmschocolate YO YOU BUYING ANY #dogecoin]
+Y_token = [mmschocolate, yo, buying, dogecoin]
+	Y tweet_count = [13]
+	Y username = [Jon]
+Total Length: X = 51, Y = 41 (Y / X = 80.39  X / Y = 124.39)
+Dice Coefficient: 75.00% 
+
+X = [@mmschocolate YO YOU BUYING ANY #dogecoin]
+X_token = [mmschocolate, yo, buying, dogecoin]
+	X tweet_count = [13]
+	X username = [Jon]
+Y = [@mmschocolate so are you buying @dogecoin????]
+Y_token = [mmschocolate, buying, dogecoin]
+	Y tweet_count = [113]
+	Y username = [Jon]
+Total Length: X = 41, Y = 45 (Y / X = 109.76  X / Y = 91.11)
+Dice Coefficient: 85.71% 
+

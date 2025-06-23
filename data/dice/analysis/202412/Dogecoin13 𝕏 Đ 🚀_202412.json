@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@daanksy GM Daanksy ☕️ Happy Sunday Funday!",
+        "X_token": "daanksy, gm, daanksy, happy, sunday, funday",
+        "X_tweet_count": 12,
+        "X_username": "Dogecoin13 𝕏 Đ 🚀",
+        "Y_text": "@Whotfisnixn Gm Legend 🌄 Have a happy Sunday Funday!!",
+        "Y_token": "whotfisnixn, gm, legend, happy, sunday, funday",
+        "Y_tweet_count": 22,
+        "Y_username": "Dogecoin13 𝕏 Đ 🚀",
+        "X_length": 43,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 123.26,
+        "X_length_percent_of_Y": 81.13,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@DogecoinNorway 😂 here's typical American 🇺🇸 https://t.co/IhxrY4LOzE",
+        "X_token": "dogecoinnorway, typical, american, https",
+        "X_tweet_count": 31,
+        "X_username": "Dogecoin13 𝕏 Đ 🚀",
+        "Y_text": "@DogecoinNorway 😂 here's typical American 🇺🇸 https://t.co/IhxrY4LOzE",
+        "Y_token": "dogecoinnorway, typical, american, https",
+        "Y_tweet_count": 33,
+        "Y_username": "Dogecoin13 𝕏 Đ 🚀",
+        "X_length": 68,
+        "Y_length": 68,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

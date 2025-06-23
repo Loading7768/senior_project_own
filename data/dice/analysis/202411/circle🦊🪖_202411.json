@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "It’s $DOGE day 🐶\n\n#Dogecoin #Doge https://t.co/sb5gRuplLQ",
+        "X_token": "doge, day, dogecoin, doge, https",
+        "X_tweet_count": 12,
+        "X_username": "circle🦊🪖",
+        "Y_text": "Another Doge day 🤑 \n#DOGE #Dogecoin https://t.co/H32EMbN1oG",
+        "Y_token": "another, doge, day, doge, dogecoin, https",
+        "Y_tweet_count": 15,
+        "Y_username": "circle🦊🪖",
+        "X_length": 57,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 103.51,
+        "X_length_percent_of_Y": 96.61,
+        "dice_coefficient": 88.89
+    }
+]

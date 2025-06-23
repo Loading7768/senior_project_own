@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Only the finest 🇮🇹 #Doge #Dogecoin #Dogecoins #Egod #DogecoinToTheMoon",
+        "X_token": "finest, doge, dogecoin, dogecoins, egod, dogecointothemoon",
+        "X_tweet_count": 65,
+        "X_username": "Anthony",
+        "Y_text": "SEND IT !!!! #Doge #Dogecoin #Dogecoins #DogecoinToTheMoon",
+        "Y_token": "send, doge, dogecoin, dogecoins, dogecointothemoon",
+        "Y_tweet_count": 67,
+        "Y_username": "Anthony",
+        "X_length": 70,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 82.86,
+        "X_length_percent_of_Y": 120.69,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "DOGEMOTHER 1 HOUR AGO STARTED!\nSLIPPAGE 13%\n✅CA: 0xFbeEBE19CA1Dea6fe866981d7ce1D3216fE3B4D0\n#dogecoin #elongate #SAFEMOON #PancakeSwap",
+        "X_token": "dogemother, 1, hour, ago, started, slippage, 13, 0xfbeebe19ca1dea6fe866981d7ce1d3216fe3b4d0, dogecoin, elongate, safemoon, pancakeswap",
+        "X_tweet_count": 118,
+        "X_username": "Anthony",
+        "Y_text": "DOGEMOTHER 1 HOUR AGO STARTED!\n✅CA: 0xFbeEBE19CA1Dea6fe866981d7ce1D3216fE3B4D0\n#dogecoin #elongate #SAFEMOON #PancakeSwap",
+        "Y_token": "dogemother, 1, hour, ago, started, 0xfbeebe19ca1dea6fe866981d7ce1d3216fe3b4d0, dogecoin, elongate, safemoon, pancakeswap",
+        "Y_tweet_count": 119,
+        "Y_username": "Anthony",
+        "X_length": 134,
+        "Y_length": 121,
+        "Y_length_percent_of_X": 90.3,
+        "X_length_percent_of_Y": 110.74,
+        "dice_coefficient": 90.91
+    }
+]

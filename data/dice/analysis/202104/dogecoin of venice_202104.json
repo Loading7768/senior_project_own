@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "*whispers* abolish the senate",
+        "X_token": "whispers, abolish, senate",
+        "X_tweet_count": 123,
+        "X_username": "dogecoin of venice",
+        "Y_text": "Once again \nAbolish the senate",
+        "Y_token": "abolish, senate",
+        "Y_tweet_count": 182,
+        "Y_username": "dogecoin of venice",
+        "X_length": 29,
+        "Y_length": 30,
+        "Y_length_percent_of_X": 103.45,
+        "X_length_percent_of_Y": 96.67,
+        "dice_coefficient": 80.0
+    }
+]

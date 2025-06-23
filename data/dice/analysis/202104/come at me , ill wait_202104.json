@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@MrBeast I love you #dogecoin",
+        "X_token": "mrbeast, love, dogecoin",
+        "X_tweet_count": 3,
+        "X_username": "come at me , ill wait",
+        "Y_text": "@Investments_CEO We love dogecoin",
+        "Y_token": "love, dogecoin",
+        "Y_tweet_count": 29,
+        "Y_username": "come at me , ill wait",
+        "X_length": 29,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 113.79,
+        "X_length_percent_of_Y": 87.88,
+        "dice_coefficient": 80.0
+    }
+]

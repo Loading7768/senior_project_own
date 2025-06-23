@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Next 0.25 https://t.co/Tfncfi8dVO",
+        "X_token": "next, https",
+        "X_tweet_count": 18,
+        "X_username": "Nature Dream Paradise",
+        "Y_text": "Next $4.20 https://t.co/znNtMbUfnY",
+        "Y_token": "next, https",
+        "Y_tweet_count": 23,
+        "Y_username": "Nature Dream Paradise",
+        "X_length": 33,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 103.03,
+        "X_length_percent_of_Y": 97.06,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Let’s go https://t.co/LVKeyvf437",
+        "X_token": "let, go, https",
+        "X_tweet_count": 22,
+        "X_username": "Nature Dream Paradise",
+        "Y_text": "Here we go  https://t.co/tP3HD10BfL",
+        "Y_token": "go, https",
+        "Y_tweet_count": 40,
+        "Y_username": "Nature Dream Paradise",
+        "X_length": 32,
+        "Y_length": 35,
+        "Y_length_percent_of_X": 109.38,
+        "X_length_percent_of_Y": 91.43,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "DOGE https://t.co/gExUZ1riEM",
+        "X_token": "doge, https",
+        "X_tweet_count": 38,
+        "X_username": "Nature Dream Paradise",
+        "Y_text": "DOGE https://t.co/W4byKDR1AX",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 45,
+        "Y_username": "Nature Dream Paradise",
+        "X_length": 28,
+        "Y_length": 28,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Dogecoin https://t.co/6Eu9g4IrFB",
+        "X_token": "dogecoin, https",
+        "X_tweet_count": 41,
+        "X_username": "Nature Dream Paradise",
+        "Y_text": "DOGECOIN https://t.co/u8hn1hNb97",
+        "Y_token": "dogecoin, https",
+        "Y_tweet_count": 47,
+        "Y_username": "Nature Dream Paradise",
+        "X_length": 32,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

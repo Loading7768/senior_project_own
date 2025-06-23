@@ -1,0 +1,22 @@
+﻿X = [@ExpAwesome @mynamelim @DimsGus @Newegg @dogecoin I'm sure there's some of that.]
+X_token = [expawesome, mynamelim, dimsgus, newegg, dogecoin, sure]
+	X tweet_count = [3]
+	X username = [Justin Obody]
+Y = [@mynamelim @ExpAwesome @DimsGus @Newegg @dogecoin If only it were that easy.]
+Y_token = [mynamelim, expawesome, dimsgus, newegg, dogecoin, easy]
+	Y tweet_count = [6]
+	Y username = [Justin Obody]
+Total Length: X = 80, Y = 76 (Y / X = 95.00  X / Y = 105.26)
+Dice Coefficient: 83.33% 
+
+X = [@nickgub @Newegg @dogecoin Sure, whatever, genius.]
+X_token = [nickgub, newegg, dogecoin, sure, whatever, genius]
+	X tweet_count = [18]
+	X username = [Justin Obody]
+Y = [@ToknSquirrel @Newegg @dogecoin Sure, whatever.]
+Y_token = [toknsquirrel, newegg, dogecoin, sure, whatever]
+	Y tweet_count = [19]
+	Y username = [Justin Obody]
+Total Length: X = 50, Y = 47 (Y / X = 94.00  X / Y = 106.38)
+Dice Coefficient: 72.73% 
+

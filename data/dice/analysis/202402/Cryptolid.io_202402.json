@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#Dogecoin (DOGE) &amp; Internet Computer (#ICP ) investors delve into #Pushd (PUSHD) e-commerce platform for big https://t.co/ggvc0PsLhG",
+        "X_token": "dogecoin, doge, amp, internet, computer, icp, investors, delve, pushd, pushd, platform, big, https",
+        "X_tweet_count": 1,
+        "X_username": "Cryptolid.io",
+        "Y_text": "#Dogecoin (DOGE) &amp; Internet Computer (#ICP ) investors delve into #Pushd (PUSHD) e-commerce platform for big gains https://t.co/ggvc0PsLhG",
+        "Y_token": "dogecoin, doge, amp, internet, computer, icp, investors, delve, pushd, pushd, platform, big, gains, https",
+        "Y_tweet_count": 2,
+        "Y_username": "Cryptolid.io",
+        "X_length": 136,
+        "Y_length": 142,
+        "Y_length_percent_of_X": 104.41,
+        "X_length_percent_of_Y": 95.77,
+        "dice_coefficient": 96.0
+    },
+    {
+        "X_text": "Investors expect #Pullix  to replicate #Dogecoin and #ShibaInu's 2021 success https://t.co/kePp09Ggnw",
+        "X_token": "investors, expect, pullix, replicate, dogecoin, shibainu, 2021, success, https",
+        "X_tweet_count": 20,
+        "X_username": "Cryptolid.io",
+        "Y_text": "Investors expect #Pullix to replicate #Dogecoin and # \n #ShibaInu's 2021 success https://t.co/qzWjRzlU10",
+        "Y_token": "investors, expect, pullix, replicate, dogecoin, shibainu, 2021, success, https",
+        "Y_tweet_count": 25,
+        "Y_username": "Cryptolid.io",
+        "X_length": 101,
+        "Y_length": 104,
+        "Y_length_percent_of_X": 102.97,
+        "X_length_percent_of_Y": 97.12,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "#Tron  (TRX) investors see turbulent waters arising, as more #Dogecoin (DOGE) investors buy #Kelexo (KLXO) presale https://t.co/iFAqaicQd5",
+        "X_token": "tron, trx, investors, see, turbulent, waters, arising, dogecoin, doge, investors, buy, kelexo, klxo, presale, https",
+        "X_tweet_count": 21,
+        "X_username": "Cryptolid.io",
+        "Y_text": "#TRON  (TRX) investors see turbulent waters arising, as more #Dogecoin (DOGE) investors buy #Kelexo (KLXO) presale https://t.co/iFAqaicQd5",
+        "Y_token": "tron, trx, investors, see, turbulent, waters, arising, dogecoin, doge, investors, buy, kelexo, klxo, presale, https",
+        "Y_tweet_count": 22,
+        "Y_username": "Cryptolid.io",
+        "X_length": 138,
+        "Y_length": 138,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "#PEPE Outshines #Dogecoin And #SHIB With 53% Price Eruption Amid Parabolic #Bitcoin  Rally https://t.co/BoLAHpdgrW",
+        "X_token": "pepe, outshines, dogecoin, shib, 53, price, eruption, amid, parabolic, bitcoin, rally, https",
+        "X_tweet_count": 24,
+        "X_username": "Cryptolid.io",
+        "Y_text": "#PEPE  Outshines #Dogecoin And #SHIB  With 53% Price Eruption Amid Parabolic #Bitcoin  Rally https://t.co/BoLAHpdgrW",
+        "Y_token": "pepe, outshines, dogecoin, shib, 53, price, eruption, amid, parabolic, bitcoin, rally, https",
+        "Y_tweet_count": 34,
+        "Y_username": "Cryptolid.io",
+        "X_length": 114,
+        "Y_length": 116,
+        "Y_length_percent_of_X": 101.75,
+        "X_length_percent_of_Y": 98.28,
+        "dice_coefficient": 100.0
+    }
+]

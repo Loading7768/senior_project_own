@@ -1,0 +1,44 @@
+﻿X = [@APompliano Elon hosting SNL May 8th means DOGE will ramp up starting reeaaaal soon. When the rumour of a Tesla commercial for the Super Bowl arrived, they thought he would put a Dogecoin hidden in it somewhere and the price ran from .055 to .085. No brainer. All in for 2 weeks.]
+X_token = [apompliano, elon, hosting, snl, may, 8th, means, doge, ramp, starting, reeaaaal, soon, rumour, tesla, commercial, super, bowl, arrived, thought, would, put, dogecoin, hidden, somewhere, price, ran, brainer, 2, weeks]
+	X tweet_count = [1]
+	X username = [BrettFitz OfChampions]
+Y = [@The_RockTrading I would put it in doge for two weeks re: Elon hosting SNL May 8th. No brainer. When the rumour that there was a Tesla commercial for the Super Bowl and they thought he would put a Dogecoin hidden in it somewhere, the price ran from .055 to .0875 . Eaaaasy money :)]
+Y_token = [would, put, doge, two, weeks, elon, hosting, snl, may, 8th, brainer, rumour, tesla, commercial, super, bowl, thought, would, put, dogecoin, hidden, somewhere, price, ran, eaaaasy, money]
+	Y tweet_count = [3]
+	Y username = [BrettFitz OfChampions]
+Total Length: X = 279, Y = 281 (Y / X = 100.72  X / Y = 99.29)
+Dice Coefficient: 79.25% 
+
+X = [@CNBC When the rumour that there was a Tesla commercial for the Super Bowl and they thought he would put a Dogecoin hidden in it somewhere, the price ran from .06 to .085+ . Easy money re: the run up from now until May 8th]
+X_token = [cnbc, rumour, tesla, commercial, super, bowl, thought, would, put, dogecoin, hidden, somewhere, price, ran, easy, money, run, may, 8th]
+	X tweet_count = [2]
+	X username = [BrettFitz OfChampions]
+Y = [@ItsDogeCoin Elon to host SNL May 8th. When the rumour that there was a Tesla commercial for the Super Bowl and they thought he would put a Dogecoin hidden in it somewhere, the price ran from .055 to .09. Easy money. Get in now.]
+Y_token = [itsdogecoin, elon, host, snl, may, 8th, rumour, tesla, commercial, super, bowl, thought, would, put, dogecoin, hidden, somewhere, price, ran, easy, money, get]
+	Y tweet_count = [4]
+	Y username = [BrettFitz OfChampions]
+Total Length: X = 222, Y = 228 (Y / X = 102.70  X / Y = 97.37)
+Dice Coefficient: 82.93% 
+
+X = [@CNBC When the rumour that there was a Tesla commercial for the Super Bowl and they thought he would put a Dogecoin hidden in it somewhere, the price ran from .06 to .085+ . Easy money re: the run up from now until May 8th]
+X_token = [cnbc, rumour, tesla, commercial, super, bowl, thought, would, put, dogecoin, hidden, somewhere, price, ran, easy, money, run, may, 8th]
+	X tweet_count = [2]
+	X username = [BrettFitz OfChampions]
+Y = [@Manpree31938145 When the rumour that there was a Tesla commercial for the Super Bowl and they thought he would put a Dogecoin hidden in it somewhere, the price ran from .06 to .09]
+Y_token = [manpree31938145, rumour, tesla, commercial, super, bowl, thought, would, put, dogecoin, hidden, somewhere, price, ran]
+	Y tweet_count = [6]
+	Y username = [BrettFitz OfChampions]
+Total Length: X = 222, Y = 180 (Y / X = 81.08  X / Y = 123.33)
+Dice Coefficient: 78.79% 
+
+X = [@The_RockTrading I would put it in doge for two weeks re: Elon hosting SNL May 8th. No brainer. When the rumour that there was a Tesla commercial for the Super Bowl and they thought he would put a Dogecoin hidden in it somewhere, the price ran from .055 to .0875 . Eaaaasy money :)]
+X_token = [would, put, doge, two, weeks, elon, hosting, snl, may, 8th, brainer, rumour, tesla, commercial, super, bowl, thought, would, put, dogecoin, hidden, somewhere, price, ran, eaaaasy, money]
+	X tweet_count = [3]
+	X username = [BrettFitz OfChampions]
+Y = [@ItsDogeCoin Elon to host SNL May 8th. When the rumour that there was a Tesla commercial for the Super Bowl and they thought he would put a Dogecoin hidden in it somewhere, the price ran from .055 to .09. Easy money. Get in now.]
+Y_token = [itsdogecoin, elon, host, snl, may, 8th, rumour, tesla, commercial, super, bowl, thought, would, put, dogecoin, hidden, somewhere, price, ran, easy, money, get]
+	Y tweet_count = [4]
+	Y username = [BrettFitz OfChampions]
+Total Length: X = 281, Y = 228 (Y / X = 81.14  X / Y = 123.25)
+Dice Coefficient: 78.26% 
+

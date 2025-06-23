@@ -1,0 +1,33 @@
+﻿X = [@coinbase Why can't I buy Dogecoin on coinbase?]
+X_token = [coinbase, ca, buy, dogecoin, coinbase]
+	X tweet_count = [2]
+	X username = [Simone]
+Y = [@coinbase Why can't I buy Dogecoin on coinbase?]
+Y_token = [coinbase, ca, buy, dogecoin, coinbase]
+	Y tweet_count = [3]
+	Y username = [Simone]
+Total Length: X = 47, Y = 47 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@coinbase Why can't I buy Dogecoin on coinbase?]
+X_token = [coinbase, ca, buy, dogecoin, coinbase]
+	X tweet_count = [2]
+	X username = [Simone]
+Y = [@coinbase Why can't I buy Dogecoin on coinbase?]
+Y_token = [coinbase, ca, buy, dogecoin, coinbase]
+	Y tweet_count = [4]
+	Y username = [Simone]
+Total Length: X = 47, Y = 47 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@coinbase Why can't I buy Dogecoin on coinbase?]
+X_token = [coinbase, ca, buy, dogecoin, coinbase]
+	X tweet_count = [3]
+	X username = [Simone]
+Y = [@coinbase Why can't I buy Dogecoin on coinbase?]
+Y_token = [coinbase, ca, buy, dogecoin, coinbase]
+	Y tweet_count = [4]
+	Y username = [Simone]
+Total Length: X = 47, Y = 47 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

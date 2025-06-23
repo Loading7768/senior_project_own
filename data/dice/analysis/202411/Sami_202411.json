@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "hello .. i have cant open dogecoin wallet info",
+        "X_token": "hello, cant, open, dogecoin, wallet, info",
+        "X_tweet_count": 1,
+        "X_username": "Sami",
+        "Y_text": "@DogecoinFdn  hello i cant open wallet dogecoin info",
+        "Y_token": "dogecoinfdn, hello, cant, open, wallet, dogecoin, info",
+        "Y_tweet_count": 2,
+        "Y_username": "Sami",
+        "X_length": 46,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 113.04,
+        "X_length_percent_of_Y": 88.46,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "@BillyM2k hello  i have problem with dogecoin info wallet",
+        "X_token": "billym2k, hello, problem, dogecoin, info, wallet",
+        "X_tweet_count": 6,
+        "X_username": "Sami",
+        "Y_text": "@dogecoin  hello i have problem with my wallet",
+        "Y_token": "dogecoin, hello, problem, wallet",
+        "Y_tweet_count": 8,
+        "Y_username": "Sami",
+        "X_length": 57,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 80.7,
+        "X_length_percent_of_Y": 123.91,
+        "dice_coefficient": 80.0
+    }
+]

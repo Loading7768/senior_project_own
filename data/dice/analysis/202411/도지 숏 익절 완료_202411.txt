@@ -1,0 +1,44 @@
+﻿X = [$DOGE #doge #Dogecoin\nquick dump to $0.185 first due to delusional longs on doge careful!]
+X_token = [doge, doge, dogecoin, quick, dump, first, due, delusional, longs, doge, careful]
+	X tweet_count = [4]
+	X username = [도지 숏 익절 완료]
+Y = [$DOGE #doge #Dogecoin\nquick dump to $0.185 first due to delusional longs on doge]
+Y_token = [doge, doge, dogecoin, quick, dump, first, due, delusional, longs, doge]
+	Y tweet_count = [5]
+	Y username = [도지 숏 익절 완료]
+Total Length: X = 89, Y = 80 (Y / X = 89.89  X / Y = 111.25)
+Dice Coefficient: 94.12% 
+
+X = [$DOGE #doge #Dogecoin\nsell now dumping 😂]
+X_token = [doge, doge, dogecoin, sell, dumping]
+	X tweet_count = [7]
+	X username = [도지 숏 익절 완료]
+Y = [$DOGE #doge #Dogecoin \nsell now dumping 😂😂]
+Y_token = [doge, doge, dogecoin, sell, dumping]
+	Y tweet_count = [8]
+	Y username = [도지 숏 익절 완료]
+Total Length: X = 40, Y = 42 (Y / X = 105.00  X / Y = 95.24)
+Dice Coefficient: 100.00% 
+
+X = [$DOGE #doge #Dogecoin\nsell now dumping 😂]
+X_token = [doge, doge, dogecoin, sell, dumping]
+	X tweet_count = [7]
+	X username = [도지 숏 익절 완료]
+Y = [$DOGE #doge #Dogecoin \ndumping now get out]
+Y_token = [doge, doge, dogecoin, dumping, get]
+	Y tweet_count = [10]
+	Y username = [도지 숏 익절 완료]
+Total Length: X = 40, Y = 42 (Y / X = 105.00  X / Y = 95.24)
+Dice Coefficient: 75.00% 
+
+X = [$DOGE #doge #Dogecoin \nsell now dumping 😂😂]
+X_token = [doge, doge, dogecoin, sell, dumping]
+	X tweet_count = [8]
+	X username = [도지 숏 익절 완료]
+Y = [$DOGE #doge #Dogecoin \ndumping now get out]
+Y_token = [doge, doge, dogecoin, dumping, get]
+	Y tweet_count = [10]
+	Y username = [도지 숏 익절 완료]
+Total Length: X = 42, Y = 42 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+

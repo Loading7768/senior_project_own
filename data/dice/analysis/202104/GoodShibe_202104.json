@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Buying more #Dogecoin at 13.5 cents is so surreal.",
+        "X_token": "buying, dogecoin, cents, surreal",
+        "X_tweet_count": 19,
+        "X_username": "GoodShibe",
+        "Y_text": "Buying more #Dogecoin at 17 cents is so surreal.",
+        "Y_token": "buying, dogecoin, 17, cents, surreal",
+        "Y_tweet_count": 42,
+        "Y_username": "GoodShibe",
+        "X_length": 50,
+        "Y_length": 48,
+        "Y_length_percent_of_X": 96.0,
+        "X_length_percent_of_Y": 104.17,
+        "dice_coefficient": 88.89
+    }
+]

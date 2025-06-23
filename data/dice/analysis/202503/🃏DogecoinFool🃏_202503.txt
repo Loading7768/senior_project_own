@@ -1,0 +1,11 @@
+﻿X = [@amuse The city of Los Angeles is facing a 1 billion dollar budget "shortfall"... any guesses as to where all the money goes?]
+X_token = [amuse, city, los, angeles, facing, 1, billion, dollar, budget, shortfall, guesses, money, goes]
+	X tweet_count = [216]
+	X username = [🃏DogecoinFool🃏]
+Y = [@WallStreetApes Sanctuary city Los Angeles is facing a 1 BILLION dollar budget crisis, any guesses why?]
+Y_token = [wallstreetapes, sanctuary, city, los, angeles, facing, 1, billion, dollar, budget, crisis, guesses]
+	Y tweet_count = [219]
+	Y username = [🃏DogecoinFool🃏]
+Total Length: X = 125, Y = 103 (Y / X = 82.40  X / Y = 121.36)
+Dice Coefficient: 72.00% 
+

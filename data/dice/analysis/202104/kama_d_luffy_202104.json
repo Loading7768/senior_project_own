@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "One Piece, The Will of D.(Doge) #Dogecoin",
+        "X_token": "one, piece, doge, dogecoin",
+        "X_tweet_count": 14,
+        "X_username": "kama_d_luffy",
+        "Y_text": "Dogecoin is the ONE PIECE #Dogecoin @OnePieceAnime",
+        "Y_token": "dogecoin, one, piece, dogecoin, onepieceanime",
+        "Y_tweet_count": 15,
+        "Y_username": "kama_d_luffy",
+        "X_length": 41,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 121.95,
+        "X_length_percent_of_Y": 82.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Doge Power💪💪💪 #Dogecoin 🐶💎🙌🚀🚀🚀🚀🌔🌖😁👊🤙🏼 https://t.co/pP0boKTGEL",
+        "X_token": "doge, dogecoin, https",
+        "X_tweet_count": 29,
+        "X_username": "kama_d_luffy",
+        "Y_text": "Everytime Doge spike #Dogecoin 🐶💎🙌🚀🚀🚀🚀🌔🌖😁👊🤙🏼 https://t.co/DsQYLXdT8X",
+        "Y_token": "everytime, doge, spike, dogecoin, https",
+        "Y_tweet_count": 30,
+        "Y_username": "kama_d_luffy",
+        "X_length": 61,
+        "Y_length": 68,
+        "Y_length_percent_of_X": 111.48,
+        "X_length_percent_of_Y": 89.71,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Doge Power💪💪💪 #Dogecoin 🐶💎🙌🚀🚀🚀🚀🌔🌖😁👊🤙🏼 https://t.co/pP0boKTGEL",
+        "X_token": "doge, dogecoin, https",
+        "X_tweet_count": 29,
+        "X_username": "kama_d_luffy",
+        "Y_text": "Doge Going UP🔝 #Dogecoin 🐶💎🙌🚀🚀🚀🚀🌖🌔 https://t.co/pY8Vo79Pdu",
+        "Y_token": "doge, going, dogecoin, https",
+        "Y_tweet_count": 31,
+        "Y_username": "kama_d_luffy",
+        "X_length": 61,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 95.08,
+        "X_length_percent_of_Y": 105.17,
+        "dice_coefficient": 85.71
+    }
+]

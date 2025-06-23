@@ -1,0 +1,55 @@
+﻿X = [DOGECOIN LIKE A ROCK 🐕🐾🐾👣👣🐾🐾👣👣🐾🐾]
+X_token = [dogecoin, like, rock]
+	X tweet_count = [3]
+	X username = [JDT]
+Y = [DOGECOIN 🐕🐾🐾👣🐾🐾👣🐾👣🐾 LIKE A ROCK $]
+Y_token = [dogecoin, like, rock]
+	Y tweet_count = [6]
+	Y username = [JDT]
+Total Length: X = 32, Y = 33 (Y / X = 103.12  X / Y = 96.97)
+Dice Coefficient: 100.00% 
+
+X = [GO DOGECOIN 🐕]
+X_token = [go, dogecoin]
+	X tweet_count = [8]
+	X username = [JDT]
+Y = [GO DOGECOIN]
+Y_token = [go, dogecoin]
+	Y tweet_count = [24]
+	Y username = [JDT]
+Total Length: X = 13, Y = 11 (Y / X = 84.62  X / Y = 118.18)
+Dice Coefficient: 100.00% 
+
+X = [https://t.co/hylVRlyW3E \nGO DOGECOIN 🐕🐾🐾👣🐾👣🐾🐾🐕]
+X_token = [https, go, dogecoin]
+	X tweet_count = [13]
+	X username = [JDT]
+Y = [https://t.co/hylVRlyW3E \nLET'S GO DOGECOIN COMMUNITY]
+Y_token = [https, let, go, dogecoin, community]
+	Y tweet_count = [22]
+	Y username = [JDT]
+Total Length: X = 46, Y = 52 (Y / X = 113.04  X / Y = 88.46)
+Dice Coefficient: 75.00% 
+
+X = [https://t.co/hylVRlyW3E \nGO DOGECOIN 🐕🐾🐾👣🐾👣🐾🐾🐕]
+X_token = [https, go, dogecoin]
+	X tweet_count = [13]
+	X username = [JDT]
+Y = [https://t.co/hylVRlyW3E \nGO DOGECOIN 🐕 COMMUNITY]
+Y_token = [https, go, dogecoin, community]
+	Y tweet_count = [23]
+	Y username = [JDT]
+Total Length: X = 46, Y = 48 (Y / X = 104.35  X / Y = 95.83)
+Dice Coefficient: 85.71% 
+
+X = [https://t.co/hylVRlyW3E \nLET'S GO DOGECOIN COMMUNITY]
+X_token = [https, let, go, dogecoin, community]
+	X tweet_count = [22]
+	X username = [JDT]
+Y = [https://t.co/hylVRlyW3E \nGO DOGECOIN 🐕 COMMUNITY]
+Y_token = [https, go, dogecoin, community]
+	Y tweet_count = [23]
+	Y username = [JDT]
+Total Length: X = 52, Y = 48 (Y / X = 92.31  X / Y = 108.33)
+Dice Coefficient: 88.89% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@Palgrani2 @dogecoin $lester coded https://t.co/14rnREoD92",
+        "X_token": "palgrani2, dogecoin, lester, coded, https",
+        "X_tweet_count": 9,
+        "X_username": "MaxTearCEO",
+        "Y_text": "@pumpdotfun + @dogecoin lester coded https://t.co/5gk33oF7kK",
+        "Y_token": "pumpdotfun, dogecoin, lester, coded, https",
+        "Y_tweet_count": 15,
+        "Y_username": "MaxTearCEO",
+        "X_length": 58,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 103.45,
+        "X_length_percent_of_Y": 96.67,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@gate_io @litecoin List $lester now 200M volume\nOfficial ltc mascot made by @dogecoin https://t.co/PDYVO98GUR",
+        "X_token": "litecoin, list, lester, 200m, volume, official, ltc, mascot, made, dogecoin, https",
+        "X_tweet_count": 22,
+        "X_username": "MaxTearCEO",
+        "Y_text": "@krakenfx @litecoin List $lester litecoin mascot\n190M volume a day \nMade by dogecoin https://t.co/UVcV83NLJF",
+        "Y_token": "krakenfx, litecoin, list, lester, litecoin, mascot, 190m, volume, day, made, dogecoin, https",
+        "Y_tweet_count": 23,
+        "Y_username": "MaxTearCEO",
+        "X_length": 109,
+        "Y_length": 108,
+        "Y_length_percent_of_X": 99.08,
+        "X_length_percent_of_Y": 100.93,
+        "dice_coefficient": 72.73
+    }
+]

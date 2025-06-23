@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Bitcoin, dogecoin: Crypto prices surge amid investor enthusiasm about Trump https://t.co/K96CGyG7YA\n#Dogecoin #DOGE",
+        "X_token": "bitcoin, dogecoin, crypto, prices, surge, amid, investor, enthusiasm, trump, https, dogecoin, doge",
+        "X_tweet_count": 2,
+        "X_username": "SocialSavant",
+        "Y_text": "Bitcoin, dogecoin: Crypto prices surge amid investor enthusiasm about Trump https://t.co/K96CGyG7YA\n#DOGE",
+        "Y_token": "bitcoin, dogecoin, crypto, prices, surge, amid, investor, enthusiasm, trump, https, doge",
+        "Y_tweet_count": 19,
+        "Y_username": "SocialSavant",
+        "X_length": 115,
+        "Y_length": 105,
+        "Y_length_percent_of_X": 91.3,
+        "X_length_percent_of_Y": 109.52,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "If You Invested $100 In Dogecoin When The Meme Coin Launched, Here&amp;#39;s How Much You’d Have Today https://t.co/slymBpJZeM\n#DOGE",
+        "X_token": "invested, 100, dogecoin, meme, coin, launched, amp, 39, much, today, https, doge",
+        "X_tweet_count": 13,
+        "X_username": "SocialSavant",
+        "Y_text": "If You Invested $100 In Dogecoin When The Meme Coin Launched, Here's How Much You'd Have Today $DOGE $BTC https://t.co/slymBpJZeM via @Benzinga\n#DOGE",
+        "Y_token": "invested, 100, dogecoin, meme, coin, launched, much, today, doge, btc, https, via, benzinga, doge",
+        "Y_tweet_count": 35,
+        "Y_username": "SocialSavant",
+        "X_length": 132,
+        "Y_length": 149,
+        "Y_length_percent_of_X": 112.88,
+        "X_length_percent_of_Y": 88.59,
+        "dice_coefficient": 80.0
+    }
+]

@@ -1,0 +1,22 @@
+﻿X = [Welcome to the #Dogearmy @RRRawlings!\n#dogecoin https://t.co/HwddmmCmgj]
+X_token = [welcome, dogearmy, rrrawlings, dogecoin, https]
+	X tweet_count = [12]
+	X username = [The Đoge]
+Y = [@TheEllenShow @mcuban Welcome to the #DogeArmy? #dogecoin https://t.co/VoqBXDs3mR]
+Y_token = [theellenshow, mcuban, welcome, dogearmy, dogecoin, https]
+	Y tweet_count = [59]
+	Y username = [The Đoge]
+Total Length: X = 71, Y = 81 (Y / X = 114.08  X / Y = 87.65)
+Dice Coefficient: 72.73% 
+
+X = [@coinbase Offer #dogecoin!]
+X_token = [coinbase, offer, dogecoin]
+	X tweet_count = [31]
+	X username = [The Đoge]
+Y = [@coinbase Offer #dogecoin!]
+Y_token = [coinbase, offer, dogecoin]
+	Y tweet_count = [32]
+	Y username = [The Đoge]
+Total Length: X = 26, Y = 26 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

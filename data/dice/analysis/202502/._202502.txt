@@ -1,0 +1,11 @@
+﻿X = [Which Coin is best?\n\n• Dogecoin is best \n• Bitcoin is best]
+X_token = [coin, best, dogecoin, best, bitcoin, best]
+	X tweet_count = [10]
+	X username = [.]
+Y = [Which Coin is best?\n\n- Dogecoin is best \n- Bitcoin is best]
+Y_token = [coin, best, dogecoin, best, bitcoin, best]
+	Y tweet_count = [62]
+	Y username = [.]
+Total Length: X = 58, Y = 58 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

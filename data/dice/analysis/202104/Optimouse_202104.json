@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Woof woof! #dogecoin",
+        "X_token": "woof, woof, dogecoin",
+        "X_tweet_count": 1,
+        "X_username": "Optimouse",
+        "Y_text": "We woof you! #dogecoin",
+        "Y_token": "woof, dogecoin",
+        "Y_tweet_count": 51,
+        "Y_username": "Optimouse",
+        "X_length": 20,
+        "Y_length": 22,
+        "Y_length_percent_of_X": 110.0,
+        "X_length_percent_of_Y": 90.91,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@brian_armstrong  Just add Dogecoin bro, don’t be baldy no fun McPants #dogecoin",
+        "X_token": "add, dogecoin, bro, baldy, fun, mcpants, dogecoin",
+        "X_tweet_count": 10,
+        "X_username": "Optimouse",
+        "Y_text": "@brian_armstrong Just add Dogecoin bro, don’t be no fun pants #dogecoin",
+        "Y_token": "add, dogecoin, bro, fun, pants, dogecoin",
+        "Y_tweet_count": 11,
+        "Y_username": "Optimouse",
+        "X_length": 80,
+        "Y_length": 71,
+        "Y_length_percent_of_X": 88.75,
+        "X_length_percent_of_Y": 112.68,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "You did the right thing, neighbor. We woof you. 🧡 #dogecoin #dogearmy https://t.co/70dO9KJwUW",
+        "X_token": "right, thing, neighbor, woof, dogecoin, dogearmy, https",
+        "X_tweet_count": 41,
+        "X_username": "Optimouse",
+        "Y_text": "@Coinsquare You did the right thing, neighbor. We woof you 🧡 #dogecoin #dogearmy https://t.co/Qc2JItpViO",
+        "Y_token": "coinsquare, right, thing, neighbor, woof, dogecoin, dogearmy, https",
+        "Y_tweet_count": 42,
+        "Y_username": "Optimouse",
+        "X_length": 93,
+        "Y_length": 104,
+        "Y_length_percent_of_X": 111.83,
+        "X_length_percent_of_Y": 89.42,
+        "dice_coefficient": 93.33
+    }
+]

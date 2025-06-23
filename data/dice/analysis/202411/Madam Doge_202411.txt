@@ -1,0 +1,11 @@
+﻿X = [Dogecoin to 29 cents by Monday afternoon. Bet! https://t.co/jTjeqfyNjR]
+X_token = [dogecoin, 29, cents, monday, afternoon, bet, https]
+	X tweet_count = [14]
+	X username = [Madam Doge]
+Y = [DOGECOIN TO 23 CENTS NOW! \n24 cents by Monday. Bet. https://t.co/taOBiCTcZ1]
+Y_token = [dogecoin, 23, cents, 24, cents, monday, bet, https]
+	Y tweet_count = [20]
+	Y username = [Madam Doge]
+Total Length: X = 70, Y = 75 (Y / X = 107.14  X / Y = 93.33)
+Dice Coefficient: 71.43% 
+

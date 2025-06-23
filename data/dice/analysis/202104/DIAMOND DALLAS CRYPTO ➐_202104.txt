@@ -1,0 +1,66 @@
+﻿X = [DOGE\n\nTHATS THE TWEET. #dogecoin]
+X_token = [doge, thats, tweet, dogecoin]
+	X tweet_count = [2]
+	X username = [DIAMOND DALLAS CRYPTO ➐]
+Y = [#dogecoin \n\nTHATS THE TWEET!]
+Y_token = [dogecoin, thats, tweet]
+	Y tweet_count = [32]
+	Y username = [DIAMOND DALLAS CRYPTO ➐]
+Total Length: X = 32, Y = 28 (Y / X = 87.50  X / Y = 114.29)
+Dice Coefficient: 85.71% 
+
+X = [DOGE\n\nTHATS THE TWEET. #dogecoin]
+X_token = [doge, thats, tweet, dogecoin]
+	X tweet_count = [2]
+	X username = [DIAMOND DALLAS CRYPTO ➐]
+Y = [#dogecoin \n\nTHATS THE TWEET]
+Y_token = [dogecoin, thats, tweet]
+	Y tweet_count = [36]
+	Y username = [DIAMOND DALLAS CRYPTO ➐]
+Total Length: X = 32, Y = 27 (Y / X = 84.38  X / Y = 118.52)
+Dice Coefficient: 85.71% 
+
+X = [#NewProfilePic 📈 $DOGE #dogecoin https://t.co/HMrahAcqka]
+X_token = [newprofilepic, doge, dogecoin, https]
+	X tweet_count = [14]
+	X username = [DIAMOND DALLAS CRYPTO ➐]
+Y = [#DogeDay420 #dogecoin $DOGE https://t.co/7DJs1xz3M3]
+Y_token = [dogeday420, dogecoin, doge, https]
+	Y tweet_count = [28]
+	Y username = [DIAMOND DALLAS CRYPTO ➐]
+Total Length: X = 56, Y = 51 (Y / X = 91.07  X / Y = 109.80)
+Dice Coefficient: 75.00% 
+
+X = [#NewProfilePic 📈 $DOGE #dogecoin https://t.co/HMrahAcqka]
+X_token = [newprofilepic, doge, dogecoin, https]
+	X tweet_count = [14]
+	X username = [DIAMOND DALLAS CRYPTO ➐]
+Y = [#Dogefather #dogecoin $DOGE https://t.co/1fWY1sUXsj]
+Y_token = [dogefather, dogecoin, doge, https]
+	Y tweet_count = [46]
+	Y username = [DIAMOND DALLAS CRYPTO ➐]
+Total Length: X = 56, Y = 51 (Y / X = 91.07  X / Y = 109.80)
+Dice Coefficient: 75.00% 
+
+X = [#DogeDay420 #dogecoin $DOGE https://t.co/7DJs1xz3M3]
+X_token = [dogeday420, dogecoin, doge, https]
+	X tweet_count = [28]
+	X username = [DIAMOND DALLAS CRYPTO ➐]
+Y = [#Dogefather #dogecoin $DOGE https://t.co/1fWY1sUXsj]
+Y_token = [dogefather, dogecoin, doge, https]
+	Y tweet_count = [46]
+	Y username = [DIAMOND DALLAS CRYPTO ➐]
+Total Length: X = 51, Y = 51 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [#dogecoin \n\nTHATS THE TWEET!]
+X_token = [dogecoin, thats, tweet]
+	X tweet_count = [32]
+	X username = [DIAMOND DALLAS CRYPTO ➐]
+Y = [#dogecoin \n\nTHATS THE TWEET]
+Y_token = [dogecoin, thats, tweet]
+	Y tweet_count = [36]
+	Y username = [DIAMOND DALLAS CRYPTO ➐]
+Total Length: X = 28, Y = 27 (Y / X = 96.43  X / Y = 103.70)
+Dice Coefficient: 100.00% 
+

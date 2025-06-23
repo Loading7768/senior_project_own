@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "We are going ↗️.\n#dogecoin the unstoppable force.\n#dogecointo1000",
+        "X_token": "going, dogecoin, unstoppable, force, dogecointo1000",
+        "X_tweet_count": 13,
+        "X_username": "Jimmy Santos",
+        "Y_text": "@MattWallace888 We are going ↗️.\n #dogecoin the unstoppable force.",
+        "Y_token": "mattwallace888, going, dogecoin, unstoppable, force",
+        "Y_tweet_count": 14,
+        "Y_username": "Jimmy Santos",
+        "X_length": 65,
+        "Y_length": 66,
+        "Y_length_percent_of_X": 101.54,
+        "X_length_percent_of_Y": 98.48,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@MattWallace888 We are going ↗️.\n #dogecoin the unstoppable force.",
+        "X_token": "mattwallace888, going, dogecoin, unstoppable, force",
+        "X_tweet_count": 14,
+        "X_username": "Jimmy Santos",
+        "Y_text": "@MattWallace888 This is it, #dogecoin the unstoppable force!",
+        "Y_token": "mattwallace888, dogecoin, unstoppable, force",
+        "Y_tweet_count": 21,
+        "Y_username": "Jimmy Santos",
+        "X_length": 66,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 90.91,
+        "X_length_percent_of_Y": 110.0,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "New members, jump in!!! #dogecoin #dogefam #DogeDay420\n#DogeDay #dogearmy\n\nJoin Robinhood with my link and we'll both get free stock 🤝 https://t.co/t8cHMZAc4e",
+        "X_token": "new, members, jump, dogecoin, dogefam, dogeday420, dogeday, dogearmy, join, robinhood, link, get, free, stock, https",
+        "X_tweet_count": 36,
+        "X_username": "Jimmy Santos",
+        "Y_text": "New members, jump in!!! #dogecoin #dogefam #DogeDay420\n#DogeDay #dogearmy\n\nJoin Robinhood with my link and we'll both get free stock 🤝 https://t.co/t8cHMZAc4e",
+        "Y_token": "new, members, jump, dogecoin, dogefam, dogeday420, dogeday, dogearmy, join, robinhood, link, get, free, stock, https",
+        "Y_tweet_count": 37,
+        "Y_username": "Jimmy Santos",
+        "X_length": 158,
+        "Y_length": 158,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@MattWallace888 @dogecoin_rise buying, holding, buying, holding, buying  holding.....all day. #dogecoin #DogecoinRise #DogecoinToTheMoon #dogefam #dogearmy #DOGE #DogeDay",
+        "X_token": "mattwallace888, buying, holding, buying, holding, buying, holding, day, dogecoin, dogecoinrise, dogecointothemoon, dogefam, dogearmy, doge, dogeday",
+        "X_tweet_count": 57,
+        "X_username": "Jimmy Santos",
+        "Y_text": "@dogecoin_rise buying, holding, buying, holding, buying  holding.....all day. #dogecoin #DogecoinRise #DogecoinToTheMoon #dogefam #dogearmy #DOGE #DogeDay",
+        "Y_token": "buying, holding, buying, holding, buying, holding, day, dogecoin, dogecoinrise, dogecointothemoon, dogefam, dogearmy, doge, dogeday",
+        "Y_tweet_count": 58,
+        "Y_username": "Jimmy Santos",
+        "X_length": 170,
+        "Y_length": 154,
+        "Y_length_percent_of_X": 90.59,
+        "X_length_percent_of_Y": 110.39,
+        "dice_coefficient": 95.24
+    }
+]

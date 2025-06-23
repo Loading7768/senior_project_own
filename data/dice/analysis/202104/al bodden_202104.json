@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@DailyCaller Time to buy #dogecoin!!  Get in now and hold! Two years from now you will be happy happy!",
+        "X_token": "dailycaller, time, buy, dogecoin, get, hold, two, years, happy, happy",
+        "X_tweet_count": 8,
+        "X_username": "al bodden",
+        "Y_text": "@DonaldJTrumpJr #dogecoin is not!  Time to buy and HOLD!  Two years from now you wil be happy happy",
+        "Y_token": "donaldjtrumpjr, dogecoin, time, buy, hold, two, years, wil, happy, happy",
+        "Y_tweet_count": 11,
+        "Y_username": "al bodden",
+        "X_length": 102,
+        "Y_length": 99,
+        "Y_length_percent_of_X": 97.06,
+        "X_length_percent_of_Y": 103.03,
+        "dice_coefficient": 77.78
+    },
+    {
+        "X_text": "@dogecoin_rise Hold!",
+        "X_token": "hold",
+        "X_tweet_count": 20,
+        "X_username": "al bodden",
+        "Y_text": "@dogecoin_rise Hold it!",
+        "Y_token": "hold",
+        "Y_tweet_count": 28,
+        "Y_username": "al bodden",
+        "X_length": 20,
+        "Y_length": 23,
+        "Y_length_percent_of_X": 115.0,
+        "X_length_percent_of_Y": 86.96,
+        "dice_coefficient": 100.0
+    }
+]

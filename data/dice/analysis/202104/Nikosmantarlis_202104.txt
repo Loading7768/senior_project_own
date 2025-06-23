@@ -1,0 +1,44 @@
+﻿X = [@dogecoin_rise Sell doge save money]
+X_token = [sell, doge, save, money]
+	X tweet_count = [2]
+	X username = [Nikosmantarlis]
+Y = [@dogecoin_rise Sell save money]
+Y_token = [sell, save, money]
+	Y tweet_count = [10]
+	Y username = [Nikosmantarlis]
+Total Length: X = 35, Y = 30 (Y / X = 85.71  X / Y = 116.67)
+Dice Coefficient: 85.71% 
+
+X = [@dogecoin_rise @coinbase Sell guys let’s sell and save our money]
+X_token = [coinbase, sell, guys, let, sell, save, money]
+	X tweet_count = [3]
+	X username = [Nikosmantarlis]
+Y = [@dogecoin_rise @coinbase Guys let’s sell at save our money #sell #dogecoin]
+Y_token = [coinbase, guys, let, sell, save, money, sell, dogecoin]
+	Y tweet_count = [4]
+	Y username = [Nikosmantarlis]
+Total Length: X = 64, Y = 74 (Y / X = 115.62  X / Y = 86.49)
+Dice Coefficient: 92.31% 
+
+X = [@dogecoin_rise Let’s start selling]
+X_token = [let, start, selling]
+	X tweet_count = [7]
+	X username = [Nikosmantarlis]
+Y = [@dogecoin_rise Let’s start selling]
+Y_token = [let, start, selling]
+	Y tweet_count = [8]
+	Y username = [Nikosmantarlis]
+Total Length: X = 34, Y = 34 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@dogecoin_rise Let’s buy the fucking dip]
+X_token = [let, buy, fucking, dip]
+	X tweet_count = [24]
+	X username = [Nikosmantarlis]
+Y = [@dogecoin_rise Guys let’s buy the dip]
+Y_token = [guys, let, buy, dip]
+	Y tweet_count = [25]
+	Y username = [Nikosmantarlis]
+Total Length: X = 40, Y = 37 (Y / X = 92.50  X / Y = 108.11)
+Dice Coefficient: 75.00% 
+

@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "We did it!!!! AGAIN!! AGAIN!!!!17¢!!!!!!! 💎🐶📈🚀 #DogeCoin",
+        "X_token": "dogecoin",
+        "X_tweet_count": 6,
+        "X_username": "𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ",
+        "Y_text": "We did it!!!! AGAIN!!!! 16¢!!!!!!! 💎🐶📈🚀 #DogeCoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 7,
+        "Y_username": "𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ",
+        "X_length": 56,
+        "Y_length": 49,
+        "Y_length_percent_of_X": 87.5,
+        "X_length_percent_of_Y": 114.29,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "We did it!!!! AGAIN!!!! 16¢!!!!!!! 💎🐶📈🚀 #DogeCoin",
+        "X_token": "dogecoin",
+        "X_tweet_count": 7,
+        "X_username": "𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ",
+        "Y_text": "We did it!!!! .15¢!!!!!!! 💎🐶📈🚀 #DogeCoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 8,
+        "Y_username": "𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ",
+        "X_length": 49,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 81.63,
+        "X_length_percent_of_Y": 122.5,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@ESavsa @dogelettuce @leastImAlive @dogecoin_empire TO.\nTHE.\nMOON.",
+        "X_token": "esavsa, dogelettuce, leastimalive, moon",
+        "X_tweet_count": 31,
+        "X_username": "𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ",
+        "Y_text": "@ESavsa @dogecoin_empire @leastImAlive @dogelettuce Jokes on you.",
+        "Y_token": "esavsa, leastimalive, dogelettuce, jokes",
+        "Y_tweet_count": 39,
+        "Y_username": "𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ",
+        "X_length": 66,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 98.48,
+        "X_length_percent_of_Y": 101.54,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@ESavsa @dogecoin_empire Im still good. \n\nhttps://t.co/kEgh2mVUh3",
+        "X_token": "esavsa, im, still, good, https",
+        "X_tweet_count": 43,
+        "X_username": "𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ",
+        "Y_text": "@ESavsa @dogecoin_empire I’m good. \n\nhttps://t.co/kEgh2mVUh3",
+        "Y_token": "esavsa, good, https",
+        "Y_tweet_count": 44,
+        "Y_username": "𝑍ᴀᴄᴋ Ꮹɪᴀɴɪɴᴏ",
+        "X_length": 65,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 92.31,
+        "X_length_percent_of_Y": 108.33,
+        "dice_coefficient": 75.0
+    }
+]

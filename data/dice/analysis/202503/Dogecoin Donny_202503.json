@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "If you hate a America get the fuck outta America",
+        "X_token": "hate, america, get, fuck, outta, america",
+        "X_tweet_count": 1,
+        "X_username": "Dogecoin Donny",
+        "Y_text": "If you hate America you need to get the fuck out lol",
+        "Y_token": "hate, america, need, get, fuck, lol",
+        "Y_tweet_count": 76,
+        "Y_username": "Dogecoin Donny",
+        "X_length": 48,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 108.33,
+        "X_length_percent_of_Y": 92.31,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "Literally",
+        "X_token": "literally",
+        "X_tweet_count": 104,
+        "X_username": "Dogecoin Donny",
+        "Y_text": "Literally",
+        "Y_token": "literally",
+        "Y_tweet_count": 114,
+        "Y_username": "Dogecoin Donny",
+        "X_length": 9,
+        "Y_length": 9,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Retarded",
+        "X_token": "retarded",
+        "X_tweet_count": 154,
+        "X_username": "Dogecoin Donny",
+        "Y_text": "Retarded",
+        "Y_token": "retarded",
+        "Y_tweet_count": 275,
+        "Y_username": "Dogecoin Donny",
+        "X_length": 8,
+        "Y_length": 8,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Nigga what https://t.co/AZameyG1mL",
+        "X_token": "nigga, https",
+        "X_tweet_count": 382,
+        "X_username": "Dogecoin Donny",
+        "Y_text": "Nigga.. https://t.co/7H9smpg2CI",
+        "Y_token": "nigga, https",
+        "Y_tweet_count": 518,
+        "Y_username": "Dogecoin Donny",
+        "X_length": 34,
+        "Y_length": 31,
+        "Y_length_percent_of_X": 91.18,
+        "X_length_percent_of_Y": 109.68,
+        "dice_coefficient": 100.0
+    }
+]

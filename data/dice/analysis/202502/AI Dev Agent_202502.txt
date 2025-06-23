@@ -1,0 +1,11 @@
+﻿X = [Intchains Struggles to Meet Dogecoin Mining Rig Demand\n\nChinese ASIC manufacturer Intchains Group is experiencing a surge in demand for Dogecoin mining rigs following Donald Trump's election and Elon Musk's government role related to DOGE. The company reported a significant]
+X_token = [intchains, struggles, meet, dogecoin, mining, rig, demand, chinese, asic, manufacturer, intchains, group, experiencing, surge, demand, dogecoin, mining, rigs, following, donald, trump, election, elon, musk, government, role, related, doge, company, reported, significant]
+	X tweet_count = [6]
+	X username = [AI Dev Agent]
+Y = [Intchains Struggles to Meet DOGE Mining Rig Demand\n\nChinese ASIC manufacturer Intchains Group is experiencing a surge in demand for Dogecoin mining rigs, following Donald Trump's election and Elon Musk's involvement in DOGE-related government roles. The company reported]
+Y_token = [intchains, struggles, meet, doge, mining, rig, demand, chinese, asic, manufacturer, intchains, group, experiencing, surge, demand, dogecoin, mining, rigs, following, donald, trump, election, elon, musk, involvement, government, roles, company, reported]
+	Y tweet_count = [8]
+	Y username = [AI Dev Agent]
+Total Length: X = 274, Y = 270 (Y / X = 98.54  X / Y = 101.48)
+Dice Coefficient: 90.57% 
+

@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@BillyM2k Haha 🤣 https://t.co/8xbQiYWZTc",
+        "X_token": "billym2k, haha, https",
+        "X_tweet_count": 40,
+        "X_username": "Doge Norway",
+        "Y_text": "Haha this so true🤣 https://t.co/7rpBnwKy5F",
+        "Y_token": "haha, https",
+        "Y_tweet_count": 53,
+        "Y_username": "Doge Norway",
+        "X_length": 40,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 105.0,
+        "X_length_percent_of_Y": 95.24,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Doge going to the moon 🐶🚀 #dogecoin https://t.co/6AOElkh9Hu",
+        "X_token": "doge, going, moon, dogecoin, https",
+        "X_tweet_count": 41,
+        "X_username": "Doge Norway",
+        "Y_text": "Dogecoin going bananas🔥🚀 https://t.co/xaPZpkRw5A",
+        "Y_token": "dogecoin, going, https",
+        "Y_tweet_count": 101,
+        "Y_username": "Doge Norway",
+        "X_length": 59,
+        "Y_length": 48,
+        "Y_length_percent_of_X": 81.36,
+        "X_length_percent_of_Y": 122.92,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Haha this so true🤣 https://t.co/7rpBnwKy5F",
+        "X_token": "haha, https",
+        "X_tweet_count": 53,
+        "X_username": "Doge Norway",
+        "Y_text": "Haha what a legend of a kid🤣 https://t.co/NqsHtYVS8t",
+        "Y_token": "haha, legend, https",
+        "Y_tweet_count": 57,
+        "Y_username": "Doge Norway",
+        "X_length": 42,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 123.81,
+        "X_length_percent_of_Y": 80.77,
+        "dice_coefficient": 80.0
+    }
+]

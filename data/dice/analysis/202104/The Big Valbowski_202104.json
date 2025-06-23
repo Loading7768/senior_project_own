@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@chevrolet\n ALLOW US TO BUY CARS WITH #dogecoin JOIN THE #DogeDay420  WAVE",
+        "X_token": "chevrolet, allow, us, buy, cars, dogecoin, join, dogeday420, wave",
+        "X_tweet_count": 17,
+        "X_username": "The Big Valbowski",
+        "Y_text": "@chevrolet ALLOW US TO BUY CARS WITH #dogecoin #DogecoinToTheMoon",
+        "Y_token": "chevrolet, allow, us, buy, cars, dogecoin, dogecointothemoon",
+        "Y_tweet_count": 18,
+        "Y_username": "The Big Valbowski",
+        "X_length": 74,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 87.84,
+        "X_length_percent_of_Y": 113.85,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "And buy more #dogecoin",
+        "X_token": "buy, dogecoin",
+        "X_tweet_count": 26,
+        "X_username": "The Big Valbowski",
+        "Y_text": "BUY #Dogecoin instead !!!",
+        "Y_token": "buy, dogecoin, instead",
+        "Y_tweet_count": 28,
+        "Y_username": "The Big Valbowski",
+        "X_length": 22,
+        "Y_length": 25,
+        "Y_length_percent_of_X": 113.64,
+        "X_length_percent_of_Y": 88.0,
+        "dice_coefficient": 80.0
+    }
+]

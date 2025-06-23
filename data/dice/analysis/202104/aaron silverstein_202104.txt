@@ -1,0 +1,33 @@
+﻿X = [@holdthedoge we need a cap on the number of coins...a cap on the number of coins would make dogecoin a $100 coin in less then 24 hours...]
+X_token = [holdthedoge, need, cap, number, coins, cap, number, coins, would, make, dogecoin, 100, coin, less, 24, hours]
+	X tweet_count = [2]
+	X username = [aaron silverstein]
+Y = [@Dogecoinupdate We need a cap on the number of coins....a cap would make dogecoin a $100 coin in less then 24 hours...]
+Y_token = [dogecoinupdate, need, cap, number, coins, cap, would, make, dogecoin, 100, coin, less, 24, hours]
+	Y tweet_count = [3]
+	Y username = [aaron silverstein]
+Total Length: X = 137, Y = 118 (Y / X = 86.13  X / Y = 116.10)
+Dice Coefficient: 92.31% 
+
+X = [@holdthedoge we need a cap on the number of coins...a cap on the number of coins would make dogecoin a $100 coin in less then 24 hours...]
+X_token = [holdthedoge, need, cap, number, coins, cap, number, coins, would, make, dogecoin, 100, coin, less, 24, hours]
+	X tweet_count = [2]
+	X username = [aaron silverstein]
+Y = [@InvestDogeCoin when is dogecoin going to put a cap on the number of coins...a cap would make dogecoin a $100 coin in less then 24 hours...]
+Y_token = [investdogecoin, dogecoin, going, put, cap, number, coins, cap, would, make, dogecoin, 100, coin, less, 24, hours]
+	Y tweet_count = [4]
+	Y username = [aaron silverstein]
+Total Length: X = 137, Y = 139 (Y / X = 101.46  X / Y = 98.56)
+Dice Coefficient: 81.48% 
+
+X = [@Dogecoinupdate We need a cap on the number of coins....a cap would make dogecoin a $100 coin in less then 24 hours...]
+X_token = [dogecoinupdate, need, cap, number, coins, cap, would, make, dogecoin, 100, coin, less, 24, hours]
+	X tweet_count = [3]
+	X username = [aaron silverstein]
+Y = [@InvestDogeCoin when is dogecoin going to put a cap on the number of coins...a cap would make dogecoin a $100 coin in less then 24 hours...]
+Y_token = [investdogecoin, dogecoin, going, put, cap, number, coins, cap, would, make, dogecoin, 100, coin, less, 24, hours]
+	Y tweet_count = [4]
+	Y username = [aaron silverstein]
+Total Length: X = 118, Y = 139 (Y / X = 117.80  X / Y = 84.89)
+Dice Coefficient: 81.48% 
+

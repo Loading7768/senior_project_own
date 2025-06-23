@@ -1,0 +1,44 @@
+﻿X = [@dogecoin_devs @dogecoin doge coming soon1$🔥🔥🔥]
+X_token = [dogecoin, doge, coming, soon1]
+	X tweet_count = [1]
+	X username = [masoudtian]
+Y = [@dogecoin @CoinDesk doge coming soon1$🔥🔥🔥]
+Y_token = [dogecoin, coindesk, doge, coming, soon1]
+	Y tweet_count = [2]
+	Y username = [masoudtian]
+Total Length: X = 46, Y = 41 (Y / X = 89.13  X / Y = 112.20)
+Dice Coefficient: 88.89% 
+
+X = [@dogecoin_devs @dogecoin doge coming soon1$🔥🔥🔥]
+X_token = [dogecoin, doge, coming, soon1]
+	X tweet_count = [1]
+	X username = [masoudtian]
+Y = [@coinbase @dogecoin doge coming soon1$🔥🔥🔥]
+Y_token = [coinbase, dogecoin, doge, coming, soon1]
+	Y tweet_count = [4]
+	Y username = [masoudtian]
+Total Length: X = 46, Y = 41 (Y / X = 89.13  X / Y = 112.20)
+Dice Coefficient: 88.89% 
+
+X = [@dogecoin @CoinDesk doge coming soon1$🔥🔥🔥]
+X_token = [dogecoin, coindesk, doge, coming, soon1]
+	X tweet_count = [2]
+	X username = [masoudtian]
+Y = [@coinbase @dogecoin doge coming soon1$🔥🔥🔥]
+Y_token = [coinbase, dogecoin, doge, coming, soon1]
+	Y tweet_count = [4]
+	Y username = [masoudtian]
+Total Length: X = 41, Y = 41 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 80.00% 
+
+X = [@dogecoin doge coming soon1$🔥🔥🔥]
+X_token = [dogecoin, doge, coming, soon1]
+	X tweet_count = [3]
+	X username = [masoudtian]
+Y = [@dogecoin doge coming soon1$🔥🔥🔥]
+Y_token = [dogecoin, doge, coming, soon1]
+	Y tweet_count = [6]
+	Y username = [masoudtian]
+Total Length: X = 31, Y = 31 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,22 @@
+﻿X = [@TheEllenShow @mcuban Will you buy $Doge Ellen?]
+X_token = [theellenshow, mcuban, buy, doge, ellen]
+	X tweet_count = [110]
+	X username = [QueenDOGE 👑🐾🦄]
+Y = [@mcuban @TheEllenShow Can you buy tickets with $DOGE?]
+Y_token = [mcuban, theellenshow, buy, tickets, doge]
+	Y tweet_count = [129]
+	Y username = [QueenDOGE 👑🐾🦄]
+Total Length: X = 47, Y = 53 (Y / X = 112.77  X / Y = 88.68)
+Dice Coefficient: 80.00% 
+
+X = [$DOGE]
+X_token = [doge]
+	X tweet_count = [124]
+	X username = [QueenDOGE 👑🐾🦄]
+Y = [$DOGE]
+Y_token = [doge]
+	Y tweet_count = [159]
+	Y username = [QueenDOGE 👑🐾🦄]
+Total Length: X = 5, Y = 5 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

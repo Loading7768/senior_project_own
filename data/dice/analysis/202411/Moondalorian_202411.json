@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@elonmusk You seen @RunnerOnETH . First of @dogecoin . Dont stay in dark come to the light \n\n@dogecoin @realDonaldTrump @elon",
+        "X_token": "elonmusk, seen, runneroneth, first, dogecoin, dont, stay, dark, come, light, dogecoin, realdonaldtrump, elon",
+        "X_tweet_count": 2,
+        "X_username": "Moondalorian",
+        "Y_text": "@Poe_Ether You seen @RunnerOnETH . First of @dogecoin . Dont stay in dark xome to the light https://t.co/xFWREv5C42",
+        "Y_token": "seen, runneroneth, first, dogecoin, dont, stay, dark, xome, light, https",
+        "Y_tweet_count": 3,
+        "Y_username": "Moondalorian",
+        "X_length": 125,
+        "Y_length": 115,
+        "Y_length_percent_of_X": 92.0,
+        "X_length_percent_of_Y": 108.7,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@Poe_Ether You seen @RunnerOnETH . First of @dogecoin . Dont stay in dark xome to the light https://t.co/xFWREv5C42",
+        "X_token": "seen, runneroneth, first, dogecoin, dont, stay, dark, xome, light, https",
+        "X_tweet_count": 3,
+        "X_username": "Moondalorian",
+        "Y_text": "@realdogen You seen @RunnerOnETH . First of @dogecoin . Dont stay in dark xome to the light https://t.co/9zFxLo53fD",
+        "Y_token": "realdogen, seen, runneroneth, first, dogecoin, dont, stay, dark, xome, light, https",
+        "Y_tweet_count": 4,
+        "Y_username": "Moondalorian",
+        "X_length": 115,
+        "Y_length": 115,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 95.24
+    }
+]

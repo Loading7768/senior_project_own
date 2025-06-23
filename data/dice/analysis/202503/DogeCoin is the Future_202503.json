@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@Tesla Can I buy with DogeCoin?",
+        "X_token": "tesla, buy, dogecoin",
+        "X_tweet_count": 20,
+        "X_username": "DogeCoin is the Future",
+        "Y_text": "@Tesla Why can’t I buy with DogeCoin?",
+        "Y_token": "tesla, buy, dogecoin",
+        "Y_tweet_count": 73,
+        "Y_username": "DogeCoin is the Future",
+        "X_length": 31,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 119.35,
+        "X_length_percent_of_Y": 83.78,
+        "dice_coefficient": 100.0
+    }
+]

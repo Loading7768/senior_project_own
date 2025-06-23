@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "#dogecoin someone sold it but we will hold it",
+        "X_token": "dogecoin, someone, sold, hold",
+        "X_tweet_count": 1,
+        "X_username": "Ahilya",
+        "Y_text": "#dogecoin we hold it, losers sold it",
+        "Y_token": "dogecoin, hold, losers, sold",
+        "Y_tweet_count": 2,
+        "Y_username": "Ahilya",
+        "X_length": 45,
+        "Y_length": 36,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 75.0
+    }
+]

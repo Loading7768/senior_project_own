@@ -1,0 +1,22 @@
+﻿X = [@saladin_luis @elonmusk @harmonyprotocol @dogecoin Its Australian ;)]
+X_token = [elonmusk, harmonyprotocol, dogecoin, australian]
+	X tweet_count = [11]
+	X username = [Adele Bedford 💙]
+Y = [@saladin_luis @elonmusk @harmonyprotocol @dogecoin Coinspot does]
+Y_token = [elonmusk, harmonyprotocol, dogecoin, coinspot]
+	Y tweet_count = [12]
+	Y username = [Adele Bedford 💙]
+Total Length: X = 68, Y = 64 (Y / X = 94.12  X / Y = 106.25)
+Dice Coefficient: 75.00% 
+
+X = [Happy #DogeDay420 ready for the moon 🚀🌕🐕 \n@elonmusk  #DogecoinToTheMoon #elonmuskday @dogecoin @dogecoin_empire @theDOGEguy1 #dogearmy]
+X_token = [happy, dogeday420, ready, moon, elonmusk, dogecointothemoon, elonmuskday, dogecoin, thedogeguy1, dogearmy]
+	X tweet_count = [32]
+	X username = [Adele Bedford 💙]
+Y = [Are you ready to fly to the moon.. Buy and hold 🚀🌕🐕 #DogeDay420 #elonmuskday @elonmusk @dogecoin #dogearmy #DogecoinToTheMoon]
+Y_token = [ready, fly, moon, buy, hold, dogeday420, elonmuskday, elonmusk, dogecoin, dogearmy, dogecointothemoon]
+	Y tweet_count = [33]
+	Y username = [Adele Bedford 💙]
+Total Length: X = 134, Y = 125 (Y / X = 93.28  X / Y = 107.20)
+Dice Coefficient: 76.19% 
+

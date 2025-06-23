@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "DOGECOIN JUST BROKE IT’S ALL TIME HIGH!!!",
+        "X_token": "dogecoin, broke, time, high",
+        "X_tweet_count": 16,
+        "X_username": "Matt Wallace",
+        "Y_text": "DOGECOIN JUST SHATTERED IT’S ALL TIME HIGH!!!!!!!!",
+        "Y_token": "dogecoin, shattered, time, high",
+        "Y_tweet_count": 45,
+        "Y_username": "Matt Wallace",
+        "X_length": 41,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 121.95,
+        "X_length_percent_of_Y": 82.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Dogecoin up 6.8% in the last hour!",
+        "X_token": "dogecoin, last, hour",
+        "X_tweet_count": 50,
+        "X_username": "Matt Wallace",
+        "Y_text": "DOGECOIN UP 20% IN THE LAST HOUR!",
+        "Y_token": "dogecoin, 20, last, hour",
+        "Y_tweet_count": 74,
+        "Y_username": "Matt Wallace",
+        "X_length": 34,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 97.06,
+        "X_length_percent_of_Y": 103.03,
+        "dice_coefficient": 85.71
+    }
+]

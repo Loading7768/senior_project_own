@@ -1,0 +1,22 @@
+﻿X = [Buy the dips. Buy and hold. We can hit $1 #dogecoin]
+X_token = [buy, dips, buy, hold, hit, 1, dogecoin]
+	X tweet_count = [1]
+	X username = [Kurdi84]
+Y = [#dogecoin will hit $1 .. BuY and Hold✌🚀\n#doge]
+Y_token = [dogecoin, hit, 1, buy, doge]
+	Y tweet_count = [8]
+	Y username = [Kurdi84]
+Total Length: X = 51, Y = 45 (Y / X = 88.24  X / Y = 113.33)
+Dice Coefficient: 72.73% 
+
+X = [@elonmusk @kimpaquette I feel like @elonmusk has betrayed his followers. Millions of his followers are waiting for him to say something about #dogecoin yet his totally ignored everyone. I think we made him more rich. #dogearmy #DogeDay #DogeDay420 #DoOnlyGoodEveryday #dogecoin420 #Doge]
+X_token = [elonmusk, kimpaquette, feel, like, elonmusk, betrayed, followers, millions, followers, waiting, say, something, dogecoin, yet, totally, ignored, everyone, think, made, rich, dogearmy, dogeday, dogeday420, doonlygoodeveryday, dogecoin420, doge]
+	X tweet_count = [29]
+	X username = [Kurdi84]
+Y = [I feel like @elonmusk has betrayed his followers. Millions of his followers are waiting for him to say something about #dogecoin yet his totally ignored everyone. I think we made him more rich. #dogearmy #DogeDay #DogeDay420 #DoOnlyGoodEveryday #dogecoin420 #Doge]
+Y_token = [feel, like, elonmusk, betrayed, followers, millions, followers, waiting, say, something, dogecoin, yet, totally, ignored, everyone, think, made, rich, dogearmy, dogeday, dogeday420, doonlygoodeveryday, dogecoin420, doge]
+	Y tweet_count = [30]
+	Y username = [Kurdi84]
+Total Length: X = 286, Y = 263 (Y / X = 91.96  X / Y = 108.75)
+Dice Coefficient: 97.87% 
+

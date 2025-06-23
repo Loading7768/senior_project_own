@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "HOLY SHIT. #Dogecoin",
+        "X_token": "holy, shit, dogecoin",
+        "X_tweet_count": 7,
+        "X_username": "c",
+        "Y_text": "Holy shit #Dogecoin",
+        "Y_token": "holy, shit, dogecoin",
+        "Y_tweet_count": 27,
+        "Y_username": "c",
+        "X_length": 20,
+        "Y_length": 19,
+        "Y_length_percent_of_X": 95.0,
+        "X_length_percent_of_Y": 105.26,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "TO THE MOON BABY! #dogecoin #DogecoinToTheMoon",
+        "X_token": "moon, baby, dogecoin, dogecointothemoon",
+        "X_tweet_count": 26,
+        "X_username": "c",
+        "Y_text": "TO THE MOON #DogecoinToTheMoon #Dogecoin",
+        "Y_token": "moon, dogecointothemoon, dogecoin",
+        "Y_tweet_count": 48,
+        "Y_username": "c",
+        "X_length": 46,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 86.96,
+        "X_length_percent_of_Y": 115.0,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "BUY BUY BUY! #doge420 #Dogecoin",
+        "X_token": "buy, buy, buy, doge420, dogecoin",
+        "X_tweet_count": 37,
+        "X_username": "c",
+        "Y_text": "Buy the dip #Doge420 #Dogecoin",
+        "Y_token": "buy, dip, doge420, dogecoin",
+        "Y_tweet_count": 42,
+        "Y_username": "c",
+        "X_length": 31,
+        "Y_length": 30,
+        "Y_length_percent_of_X": 96.77,
+        "X_length_percent_of_Y": 103.33,
+        "dice_coefficient": 85.71
+    }
+]

@@ -1,0 +1,22 @@
+﻿X = [@chooserich @stoolpresidente Lol I am impressed]
+X_token = [chooserich, stoolpresidente, lol, impressed]
+	X tweet_count = [25]
+	X username = [◇DOGECOIN◇NINJA◇XRP◇SAMURAI]
+Y = [@chooserich @stoolpresidente My dog lol]
+Y_token = [chooserich, stoolpresidente, dog, lol]
+	Y tweet_count = [26]
+	Y username = [◇DOGECOIN◇NINJA◇XRP◇SAMURAI]
+Total Length: X = 47, Y = 39 (Y / X = 82.98  X / Y = 120.51)
+Dice Coefficient: 75.00% 
+
+X = [@lynk0x Check out libra https://t.co/McIGD2NBDT]
+X_token = [lynk0x, check, libra, https]
+	X tweet_count = [30]
+	X username = [◇DOGECOIN◇NINJA◇XRP◇SAMURAI]
+Y = [@lynk0x Check out libra @lynk0x https://t.co/wpL89njvWA]
+Y_token = [lynk0x, check, libra, lynk0x, https]
+	Y tweet_count = [44]
+	Y username = [◇DOGECOIN◇NINJA◇XRP◇SAMURAI]
+Total Length: X = 47, Y = 55 (Y / X = 117.02  X / Y = 85.45)
+Dice Coefficient: 100.00% 
+

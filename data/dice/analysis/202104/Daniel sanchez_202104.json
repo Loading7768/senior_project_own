@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "To the moon @SlimJim with Dogecoin https://t.co/1uHDlGQJno",
+        "X_token": "moon, slimjim, dogecoin, https",
+        "X_tweet_count": 32,
+        "X_username": "Daniel sanchez",
+        "Y_text": "@twix Dogecoin to the moon 🌝 https://t.co/BLtOruFdNV",
+        "Y_token": "twix, dogecoin, moon, https",
+        "Y_tweet_count": 42,
+        "Y_username": "Daniel sanchez",
+        "X_length": 58,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 89.66,
+        "X_length_percent_of_Y": 111.54,
+        "dice_coefficient": 75.0
+    }
+]

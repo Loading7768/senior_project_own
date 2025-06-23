@@ -1,0 +1,187 @@
+﻿X = [Get on board !\n\nIts time to buy your dogecoin 💪]
+X_token = [get, board, time, buy, dogecoin]
+	X tweet_count = [4]
+	X username = [Buy your Dogecoin]
+Y = [Get on board and buy your dogecoin\n\nIt”s not too late]
+Y_token = [get, board, buy, dogecoin, late]
+	Y tweet_count = [21]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 47, Y = 53 (Y / X = 112.77  X / Y = 88.68)
+Dice Coefficient: 80.00% 
+
+X = [Don’t wait and buy your dogecoin 🚀]
+X_token = [wait, buy, dogecoin]
+	X tweet_count = [20]
+	X username = [Buy your Dogecoin]
+Y = [Don’t wait and buy your dogecoin]
+Y_token = [wait, buy, dogecoin]
+	Y tweet_count = [41]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 34, Y = 32 (Y / X = 94.12  X / Y = 106.25)
+Dice Coefficient: 100.00% 
+
+X = [It’s not too late! Buy your dogecoin 💪\n\nCreate your future with dogecoin \n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+X_token = [late, buy, dogecoin, create, future, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	X tweet_count = [25]
+	X username = [Buy your Dogecoin]
+Y = [The best moment to buy your dogecoin 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin\n#Sunday \n#USA\n#Invest\n#Future]
+Y_token = [best, moment, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin, sunday, usa, invest, future]
+	Y tweet_count = [33]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 148, Y = 143 (Y / X = 96.62  X / Y = 103.50)
+Dice Coefficient: 74.07% 
+
+X = [It’s not too late! Buy your dogecoin 💪\n\nCreate your future with dogecoin \n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+X_token = [late, buy, dogecoin, create, future, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	X tweet_count = [25]
+	X username = [Buy your Dogecoin]
+Y = [The best moment to buy your dogecoin \n\nJoin the dogecoin fam 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+Y_token = [best, moment, buy, dogecoin, join, dogecoin, fam, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	Y tweet_count = [39]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 148, Y = 137 (Y / X = 92.57  X / Y = 108.03)
+Dice Coefficient: 72.00% 
+
+X = [Dogecoin create your future 💪]
+X_token = [dogecoin, create, future]
+	X tweet_count = [26]
+	X username = [Buy your Dogecoin]
+Y = [Create your future with dogecoin 💪]
+Y_token = [create, future, dogecoin]
+	Y tweet_count = [27]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 29, Y = 34 (Y / X = 117.24  X / Y = 85.29)
+Dice Coefficient: 100.00% 
+
+X = [Buy your dogecoin]
+X_token = [buy, dogecoin]
+	X tweet_count = [28]
+	X username = [Buy your Dogecoin]
+Y = [Buy your dogecoin]
+Y_token = [buy, dogecoin]
+	Y tweet_count = [42]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 17, Y = 17 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Buy your dogecoin]
+X_token = [buy, dogecoin]
+	X tweet_count = [28]
+	X username = [Buy your Dogecoin]
+Y = [Buy your dogecoin 💪]
+Y_token = [buy, dogecoin]
+	Y tweet_count = [47]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 17, Y = 19 (Y / X = 111.76  X / Y = 89.47)
+Dice Coefficient: 100.00% 
+
+X = [Buy the dip\n\nDogecoin is strong! 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+X_token = [buy, dip, dogecoin, strong, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	X tweet_count = [29]
+	X username = [Buy your Dogecoin]
+Y = [The best moment to buy your dogecoin\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#WallStreet \n#NEWS \n#Bitcoin]
+Y_token = [best, moment, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, wallstreet, news, bitcoin]
+	Y tweet_count = [31]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 109, Y = 105 (Y / X = 96.33  X / Y = 103.81)
+Dice Coefficient: 76.19% 
+
+X = [Buy the dip\n\nDogecoin is strong! 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+X_token = [buy, dip, dogecoin, strong, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	X tweet_count = [29]
+	X username = [Buy your Dogecoin]
+Y = [It’s time to buy your dogecoin\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin\n#USA\n#NBA]
+Y_token = [time, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin, usa, nba]
+	Y tweet_count = [34]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 109, Y = 115 (Y / X = 105.50  X / Y = 94.78)
+Dice Coefficient: 78.26% 
+
+X = [Buy the dip\n\nDogecoin is strong! 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+X_token = [buy, dip, dogecoin, strong, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	X tweet_count = [29]
+	X username = [Buy your Dogecoin]
+Y = [Dogecoin is the future\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+Y_token = [dogecoin, future, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	Y tweet_count = [43]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 109, Y = 97 (Y / X = 88.99  X / Y = 112.37)
+Dice Coefficient: 80.00% 
+
+X = [The best moment to buy your dogecoin\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#WallStreet \n#NEWS \n#Bitcoin]
+X_token = [best, moment, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, wallstreet, news, bitcoin]
+	X tweet_count = [31]
+	X username = [Buy your Dogecoin]
+Y = [It’s time to buy your dogecoin\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin\n#USA\n#NBA]
+Y_token = [time, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin, usa, nba]
+	Y tweet_count = [34]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 105, Y = 115 (Y / X = 109.52  X / Y = 91.30)
+Dice Coefficient: 72.73% 
+
+X = [The best moment to buy your dogecoin\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#WallStreet \n#NEWS \n#Bitcoin]
+X_token = [best, moment, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, wallstreet, news, bitcoin]
+	X tweet_count = [31]
+	X username = [Buy your Dogecoin]
+Y = [Dogecoin is the future\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+Y_token = [dogecoin, future, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	Y tweet_count = [43]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 105, Y = 97 (Y / X = 92.38  X / Y = 108.25)
+Dice Coefficient: 73.68% 
+
+X = [The best moment to buy your dogecoin 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin\n#Sunday \n#USA\n#Invest\n#Future]
+X_token = [best, moment, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin, sunday, usa, invest, future]
+	X tweet_count = [33]
+	X username = [Buy your Dogecoin]
+Y = [It’s time to buy your dogecoin\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin\n#USA\n#NBA]
+Y_token = [time, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin, usa, nba]
+	Y tweet_count = [34]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 143, Y = 115 (Y / X = 80.42  X / Y = 124.35)
+Dice Coefficient: 74.07% 
+
+X = [The best moment to buy your dogecoin 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin\n#Sunday \n#USA\n#Invest\n#Future]
+X_token = [best, moment, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin, sunday, usa, invest, future]
+	X tweet_count = [33]
+	X username = [Buy your Dogecoin]
+Y = [The best moment to buy your dogecoin \n\nJoin the dogecoin fam 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+Y_token = [best, moment, buy, dogecoin, join, dogecoin, fam, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	Y tweet_count = [39]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 143, Y = 137 (Y / X = 95.80  X / Y = 104.38)
+Dice Coefficient: 78.57% 
+
+X = [It’s time to buy your dogecoin\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin\n#USA\n#NBA]
+X_token = [time, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin, usa, nba]
+	X tweet_count = [34]
+	X username = [Buy your Dogecoin]
+Y = [The best moment to buy your dogecoin \n\nJoin the dogecoin fam 💪\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+Y_token = [best, moment, buy, dogecoin, join, dogecoin, fam, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	Y tweet_count = [39]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 115, Y = 137 (Y / X = 119.13  X / Y = 83.94)
+Dice Coefficient: 72.00% 
+
+X = [It’s time to buy your dogecoin\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin\n#USA\n#NBA]
+X_token = [time, buy, dogecoin, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin, usa, nba]
+	X tweet_count = [34]
+	X username = [Buy your Dogecoin]
+Y = [Dogecoin is the future\n\n#Dogecoin \n#Crypto \n#ElonMusk \n#Tesla \n#Fifa\n#WallStreet \n#NEWS \n#Bitcoin]
+Y_token = [dogecoin, future, dogecoin, crypto, elonmusk, tesla, fifa, wallstreet, news, bitcoin]
+	Y tweet_count = [43]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 115, Y = 97 (Y / X = 84.35  X / Y = 118.56)
+Dice Coefficient: 76.19% 
+
+X = [Buy your dogecoin]
+X_token = [buy, dogecoin]
+	X tweet_count = [42]
+	X username = [Buy your Dogecoin]
+Y = [Buy your dogecoin 💪]
+Y_token = [buy, dogecoin]
+	Y tweet_count = [47]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 17, Y = 19 (Y / X = 111.76  X / Y = 89.47)
+Dice Coefficient: 100.00% 
+

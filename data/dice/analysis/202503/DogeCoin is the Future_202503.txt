@@ -1,0 +1,11 @@
+﻿X = [@Tesla Can I buy with DogeCoin?]
+X_token = [tesla, buy, dogecoin]
+	X tweet_count = [20]
+	X username = [DogeCoin is the Future]
+Y = [@Tesla Why can’t I buy with DogeCoin?]
+Y_token = [tesla, buy, dogecoin]
+	Y tweet_count = [73]
+	Y username = [DogeCoin is the Future]
+Total Length: X = 31, Y = 37 (Y / X = 119.35  X / Y = 83.78)
+Dice Coefficient: 100.00% 
+

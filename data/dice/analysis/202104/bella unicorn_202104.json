@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@Reuters Did you buy your #dogecoin yet???",
+        "X_token": "reuters, buy, dogecoin, yet",
+        "X_tweet_count": 13,
+        "X_username": "bella unicorn",
+        "Y_text": "@Reuters Do the mean buy #dogecoin ???",
+        "Y_token": "reuters, mean, buy, dogecoin",
+        "Y_tweet_count": 70,
+        "Y_username": "bella unicorn",
+        "X_length": 42,
+        "Y_length": 38,
+        "Y_length_percent_of_X": 90.48,
+        "X_length_percent_of_Y": 110.53,
+        "dice_coefficient": 75.0
+    }
+]

@@ -1,0 +1,22 @@
+﻿X = [#dogecoin to the moon https://t.co/tDpsCiKyXj]
+X_token = [dogecoin, moon, https]
+	X tweet_count = [1]
+	X username = [Doge]
+Y = [#dogecoin to the moon https://t.co/Uv4TNqWRV1]
+Y_token = [dogecoin, moon, https]
+	Y tweet_count = [8]
+	Y username = [Doge]
+Total Length: X = 45, Y = 45 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin to the moon]
+X_token = [dogecoin, moon]
+	X tweet_count = [25]
+	X username = [Doge]
+Y = [#Dogecoin to the moon]
+Y_token = [dogecoin, moon]
+	Y tweet_count = [30]
+	Y username = [Doge]
+Total Length: X = 21, Y = 21 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

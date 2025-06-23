@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@PeterSchiff Dogecoin to the moon.",
+        "X_token": "peterschiff, dogecoin, moon",
+        "X_tweet_count": 18,
+        "X_username": "Ɖusk",
+        "Y_text": "@brian_armstrong Dogecoin to the moon",
+        "Y_token": "dogecoin, moon",
+        "Y_tweet_count": 73,
+        "Y_username": "Ɖusk",
+        "X_length": 34,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 108.82,
+        "X_length_percent_of_Y": 91.89,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@itsALLrisky Dogecoin is 1 dollar https://t.co/ijwZcccYC4",
+        "X_token": "itsallrisky, dogecoin, 1, dollar, https",
+        "X_tweet_count": 68,
+        "X_username": "Ɖusk",
+        "Y_text": "@itsALLrisky Doge is 1 dollar https://t.co/8zfwts4CLu",
+        "Y_token": "itsallrisky, doge, 1, dollar, https",
+        "Y_tweet_count": 72,
+        "Y_username": "Ɖusk",
+        "X_length": 57,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 92.98,
+        "X_length_percent_of_Y": 107.55,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@brian_armstrong Dogecoin to the moon",
+        "X_token": "dogecoin, moon",
+        "X_tweet_count": 73,
+        "X_username": "Ɖusk",
+        "Y_text": "@TheEconomist Dogecoin to the moon",
+        "Y_token": "theeconomist, dogecoin, moon",
+        "Y_tweet_count": 114,
+        "Y_username": "Ɖusk",
+        "X_length": 37,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 91.89,
+        "X_length_percent_of_Y": 108.82,
+        "dice_coefficient": 80.0
+    }
+]

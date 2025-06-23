@@ -1,0 +1,682 @@
+﻿X = [@UpholdInc Can you add #dogecoin to your list please?]
+X_token = [upholdinc, add, dogecoin, list, please]
+	X tweet_count = [2]
+	X username = [Bjkcoin]
+Y = [@UpholdInc Can you add Dogecoin please #dogecoin]
+Y_token = [upholdinc, add, dogecoin, please, dogecoin]
+	Y tweet_count = [28]
+	Y username = [Bjkcoin]
+Total Length: X = 53, Y = 48 (Y / X = 90.57  X / Y = 110.42)
+Dice Coefficient: 88.89% 
+
+X = [Buy and Hold. You are not late. #Dogecoin]
+X_token = [buy, hold, late, dogecoin]
+	X tweet_count = [4]
+	X username = [Bjkcoin]
+Y = [@DocumentingBTC Buy #dogecoin and hold..]
+Y_token = [documentingbtc, buy, dogecoin, hold]
+	Y tweet_count = [6]
+	Y username = [Bjkcoin]
+Total Length: X = 41, Y = 40 (Y / X = 97.56  X / Y = 102.50)
+Dice Coefficient: 75.00% 
+
+X = [Buy and Hold. You are not late. #Dogecoin]
+X_token = [buy, hold, late, dogecoin]
+	X tweet_count = [4]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [9]
+	Y username = [Bjkcoin]
+Total Length: X = 41, Y = 39 (Y / X = 95.12  X / Y = 105.13)
+Dice Coefficient: 75.00% 
+
+X = [Buy and Hold. You are not late. #Dogecoin]
+X_token = [buy, hold, late, dogecoin]
+	X tweet_count = [4]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy  #Dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [10]
+	Y username = [Bjkcoin]
+Total Length: X = 41, Y = 40 (Y / X = 97.56  X / Y = 102.50)
+Dice Coefficient: 75.00% 
+
+X = [Buy and Hold. You are not late. #Dogecoin]
+X_token = [buy, hold, late, dogecoin]
+	X tweet_count = [4]
+	X username = [Bjkcoin]
+Y = [@eToroUS Buy #dogecoin and hold..]
+Y_token = [etorous, buy, dogecoin, hold]
+	Y tweet_count = [11]
+	Y username = [Bjkcoin]
+Total Length: X = 41, Y = 33 (Y / X = 80.49  X / Y = 124.24)
+Dice Coefficient: 75.00% 
+
+X = [Buy and Hold. You are not late. #Dogecoin]
+X_token = [buy, hold, late, dogecoin]
+	X tweet_count = [4]
+	X username = [Bjkcoin]
+Y = [@elonmusk Buy Dogecoin and Hold !!!]
+Y_token = [elonmusk, buy, dogecoin, hold]
+	Y tweet_count = [21]
+	Y username = [Bjkcoin]
+Total Length: X = 41, Y = 35 (Y / X = 85.37  X / Y = 117.14)
+Dice Coefficient: 75.00% 
+
+X = [Buy and Hold. You are not late. #Dogecoin]
+X_token = [buy, hold, late, dogecoin]
+	X tweet_count = [4]
+	X username = [Bjkcoin]
+Y = [@business Buy #dogecoin and hold....]
+Y_token = [business, buy, dogecoin, hold]
+	Y tweet_count = [22]
+	Y username = [Bjkcoin]
+Total Length: X = 41, Y = 36 (Y / X = 87.80  X / Y = 113.89)
+Dice Coefficient: 75.00% 
+
+X = [Buy and Hold. You are not late. #Dogecoin]
+X_token = [buy, hold, late, dogecoin]
+	X tweet_count = [4]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [39]
+	Y username = [Bjkcoin]
+Total Length: X = 41, Y = 39 (Y / X = 95.12  X / Y = 105.13)
+Dice Coefficient: 75.00% 
+
+X = [Buy and Hold. You are not late. #Dogecoin]
+X_token = [buy, hold, late, dogecoin]
+	X tweet_count = [4]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [44]
+	Y username = [Bjkcoin]
+Total Length: X = 41, Y = 39 (Y / X = 95.12  X / Y = 105.13)
+Dice Coefficient: 75.00% 
+
+X = [@DocumentingBTC Buy #dogecoin and hold..]
+X_token = [documentingbtc, buy, dogecoin, hold]
+	X tweet_count = [6]
+	X username = [Bjkcoin]
+Y = [@eToroUS Buy #dogecoin and hold..]
+Y_token = [etorous, buy, dogecoin, hold]
+	Y tweet_count = [11]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 33 (Y / X = 82.50  X / Y = 121.21)
+Dice Coefficient: 75.00% 
+
+X = [@DocumentingBTC Buy #dogecoin and hold..]
+X_token = [documentingbtc, buy, dogecoin, hold]
+	X tweet_count = [6]
+	X username = [Bjkcoin]
+Y = [@elonmusk Buy Dogecoin and Hold !!!]
+Y_token = [elonmusk, buy, dogecoin, hold]
+	Y tweet_count = [21]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 35 (Y / X = 87.50  X / Y = 114.29)
+Dice Coefficient: 75.00% 
+
+X = [@DocumentingBTC Buy #dogecoin and hold..]
+X_token = [documentingbtc, buy, dogecoin, hold]
+	X tweet_count = [6]
+	X username = [Bjkcoin]
+Y = [@business Buy #dogecoin and hold....]
+Y_token = [business, buy, dogecoin, hold]
+	Y tweet_count = [22]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 36 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [@DocumentingBTC Buy #dogecoin and hold..]
+X_token = [documentingbtc, buy, dogecoin, hold]
+	X tweet_count = [6]
+	X username = [Bjkcoin]
+Y = [@AlgorandH Buy Dogecoin and hold]
+Y_token = [algorandh, buy, dogecoin, hold]
+	Y tweet_count = [43]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 32 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 75.00% 
+
+X = [You are still not late to buy #dogecoin   @MattWallace888]
+X_token = [still, late, buy, dogecoin, mattwallace888]
+	X tweet_count = [8]
+	X username = [Bjkcoin]
+Y = [@CNN Buy #dogecoin and hold...You are still not late...]
+Y_token = [cnn, buy, dogecoin, hold, still, late]
+	Y tweet_count = [34]
+	Y username = [Bjkcoin]
+Total Length: X = 57, Y = 55 (Y / X = 96.49  X / Y = 103.64)
+Dice Coefficient: 72.73% 
+
+X = [You are still not late to buy #dogecoin   @MattWallace888]
+X_token = [still, late, buy, dogecoin, mattwallace888]
+	X tweet_count = [8]
+	X username = [Bjkcoin]
+Y = [@binance Buy #dogecoin . You are still not late...]
+Y_token = [binance, buy, dogecoin, still, late]
+	Y tweet_count = [35]
+	Y username = [Bjkcoin]
+Total Length: X = 57, Y = 50 (Y / X = 87.72  X / Y = 114.00)
+Dice Coefficient: 80.00% 
+
+X = [You are still not late to buy #dogecoin   @MattWallace888]
+X_token = [still, late, buy, dogecoin, mattwallace888]
+	X tweet_count = [8]
+	X username = [Bjkcoin]
+Y = [@Bitcoin Buy #dogecoin . You are still not late to buy DOGECOIN]
+Y_token = [bitcoin, buy, dogecoin, still, late, buy, dogecoin]
+	Y tweet_count = [36]
+	Y username = [Bjkcoin]
+Total Length: X = 57, Y = 63 (Y / X = 110.53  X / Y = 90.48)
+Dice Coefficient: 80.00% 
+
+X = [You are still not late to buy #dogecoin   @MattWallace888]
+X_token = [still, late, buy, dogecoin, mattwallace888]
+	X tweet_count = [8]
+	X username = [Bjkcoin]
+Y = [OMG #dogecoin is ATH. You are still not late to buy #dogecoin]
+Y_token = [omg, dogecoin, ath, still, late, buy, dogecoin]
+	Y tweet_count = [37]
+	Y username = [Bjkcoin]
+Total Length: X = 57, Y = 61 (Y / X = 107.02  X / Y = 93.44)
+Dice Coefficient: 72.73% 
+
+X = [You are still not late to buy #dogecoin   @MattWallace888]
+X_token = [still, late, buy, dogecoin, mattwallace888]
+	X tweet_count = [8]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin  #doge]
+Y_token = [still, late, buy, dogecoin, doge]
+	Y tweet_count = [38]
+	Y username = [Bjkcoin]
+Total Length: X = 57, Y = 46 (Y / X = 80.70  X / Y = 123.91)
+Dice Coefficient: 80.00% 
+
+X = [You are still not late to buy #dogecoin   @MattWallace888]
+X_token = [still, late, buy, dogecoin, mattwallace888]
+	X tweet_count = [8]
+	X username = [Bjkcoin]
+Y = [@crypto You are still not late to buy Dogecoin]
+Y_token = [crypto, still, late, buy, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Bjkcoin]
+Total Length: X = 57, Y = 46 (Y / X = 80.70  X / Y = 123.91)
+Dice Coefficient: 80.00% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [9]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy  #Dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [10]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 40 (Y / X = 102.56  X / Y = 97.50)
+Dice Coefficient: 100.00% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [9]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin  #doge]
+Y_token = [still, late, buy, dogecoin, doge]
+	Y tweet_count = [38]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 46 (Y / X = 117.95  X / Y = 84.78)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [9]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [39]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 39 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [9]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [44]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 39 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [9]
+	X username = [Bjkcoin]
+Y = [@crypto You are still not late to buy Dogecoin]
+Y_token = [crypto, still, late, buy, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 46 (Y / X = 117.95  X / Y = 84.78)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [9]
+	X username = [Bjkcoin]
+Y = [@CNN You are still not late to buy #dogecoin]
+Y_token = [cnn, still, late, buy, dogecoin]
+	Y tweet_count = [52]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 44 (Y / X = 112.82  X / Y = 88.64)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy  #Dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [10]
+	X username = [Bjkcoin]
+Y = [@binance Buy #dogecoin . You are still not late...]
+Y_token = [binance, buy, dogecoin, still, late]
+	Y tweet_count = [35]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 50 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy  #Dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [10]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin  #doge]
+Y_token = [still, late, buy, dogecoin, doge]
+	Y tweet_count = [38]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 46 (Y / X = 115.00  X / Y = 86.96)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy  #Dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [10]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [39]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 39 (Y / X = 97.50  X / Y = 102.56)
+Dice Coefficient: 100.00% 
+
+X = [You are still not late to buy  #Dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [10]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [44]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 39 (Y / X = 97.50  X / Y = 102.56)
+Dice Coefficient: 100.00% 
+
+X = [You are still not late to buy  #Dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [10]
+	X username = [Bjkcoin]
+Y = [@crypto You are still not late to buy Dogecoin]
+Y_token = [crypto, still, late, buy, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 46 (Y / X = 115.00  X / Y = 86.96)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy  #Dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [10]
+	X username = [Bjkcoin]
+Y = [@CNN You are still not late to buy #dogecoin]
+Y_token = [cnn, still, late, buy, dogecoin]
+	Y tweet_count = [52]
+	Y username = [Bjkcoin]
+Total Length: X = 40, Y = 44 (Y / X = 110.00  X / Y = 90.91)
+Dice Coefficient: 88.89% 
+
+X = [@eToroUS Buy #dogecoin and hold..]
+X_token = [etorous, buy, dogecoin, hold]
+	X tweet_count = [11]
+	X username = [Bjkcoin]
+Y = [@elonmusk Buy Dogecoin and Hold !!!]
+Y_token = [elonmusk, buy, dogecoin, hold]
+	Y tweet_count = [21]
+	Y username = [Bjkcoin]
+Total Length: X = 33, Y = 35 (Y / X = 106.06  X / Y = 94.29)
+Dice Coefficient: 75.00% 
+
+X = [@eToroUS Buy #dogecoin and hold..]
+X_token = [etorous, buy, dogecoin, hold]
+	X tweet_count = [11]
+	X username = [Bjkcoin]
+Y = [@business Buy #dogecoin and hold....]
+Y_token = [business, buy, dogecoin, hold]
+	Y tweet_count = [22]
+	Y username = [Bjkcoin]
+Total Length: X = 33, Y = 36 (Y / X = 109.09  X / Y = 91.67)
+Dice Coefficient: 75.00% 
+
+X = [@eToroUS Buy #dogecoin and hold..]
+X_token = [etorous, buy, dogecoin, hold]
+	X tweet_count = [11]
+	X username = [Bjkcoin]
+Y = [@AlgorandH Buy Dogecoin and hold]
+Y_token = [algorandh, buy, dogecoin, hold]
+	Y tweet_count = [43]
+	Y username = [Bjkcoin]
+Total Length: X = 33, Y = 32 (Y / X = 96.97  X / Y = 103.12)
+Dice Coefficient: 75.00% 
+
+X = [@UpholdInc Definitely #dogecoin]
+X_token = [upholdinc, definitely, dogecoin]
+	X tweet_count = [16]
+	X username = [Bjkcoin]
+Y = [@UpholdInc Definitely #dogecoin]
+Y_token = [upholdinc, definitely, dogecoin]
+	Y tweet_count = [48]
+	Y username = [Bjkcoin]
+Total Length: X = 31, Y = 31 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Buy #Dogecoin and Hold. You are still not late. #dogecoin #dogetothemoon #DogecoinRise]
+X_token = [buy, dogecoin, hold, still, late, dogecoin, dogetothemoon, dogecoinrise]
+	X tweet_count = [17]
+	X username = [Bjkcoin]
+Y = [@ForbesCrypto @BillyBambrough You are still not late to buy #dogecoin .... Buy #dogecoin and hold...]
+Y_token = [forbescrypto, billybambrough, still, late, buy, dogecoin, buy, dogecoin, hold]
+	Y tweet_count = [23]
+	Y username = [Bjkcoin]
+Total Length: X = 86, Y = 100 (Y / X = 116.28  X / Y = 86.00)
+Dice Coefficient: 71.43% 
+
+X = [@elonmusk Buy Dogecoin and Hold !!!]
+X_token = [elonmusk, buy, dogecoin, hold]
+	X tweet_count = [21]
+	X username = [Bjkcoin]
+Y = [@business Buy #dogecoin and hold....]
+Y_token = [business, buy, dogecoin, hold]
+	Y tweet_count = [22]
+	Y username = [Bjkcoin]
+Total Length: X = 35, Y = 36 (Y / X = 102.86  X / Y = 97.22)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk Buy Dogecoin and Hold !!!]
+X_token = [elonmusk, buy, dogecoin, hold]
+	X tweet_count = [21]
+	X username = [Bjkcoin]
+Y = [@AlgorandH Buy Dogecoin and hold]
+Y_token = [algorandh, buy, dogecoin, hold]
+	Y tweet_count = [43]
+	Y username = [Bjkcoin]
+Total Length: X = 35, Y = 32 (Y / X = 91.43  X / Y = 109.38)
+Dice Coefficient: 75.00% 
+
+X = [@business Buy #dogecoin and hold....]
+X_token = [business, buy, dogecoin, hold]
+	X tweet_count = [22]
+	X username = [Bjkcoin]
+Y = [@AlgorandH Buy Dogecoin and hold]
+Y_token = [algorandh, buy, dogecoin, hold]
+	Y tweet_count = [43]
+	Y username = [Bjkcoin]
+Total Length: X = 36, Y = 32 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 75.00% 
+
+X = [@michael_saylor Michael when will you buy some #dogecoin ????]
+X_token = [michael, buy, dogecoin]
+	X tweet_count = [25]
+	X username = [Bjkcoin]
+Y = [@michael_saylor Michael I recommend you to buy a #dogecoin]
+Y_token = [michael, recommend, buy, dogecoin]
+	Y tweet_count = [45]
+	Y username = [Bjkcoin]
+Total Length: X = 61, Y = 58 (Y / X = 95.08  X / Y = 105.17)
+Dice Coefficient: 85.71% 
+
+X = [@UpholdInc Can you add Dogecoin please #dogecoin]
+X_token = [upholdinc, add, dogecoin, please, dogecoin]
+	X tweet_count = [28]
+	X username = [Bjkcoin]
+Y = [@brian_armstrong Can you add #dogecoin to Coinbase please?]
+Y_token = [add, dogecoin, coinbase, please]
+	Y tweet_count = [40]
+	Y username = [Bjkcoin]
+Total Length: X = 48, Y = 58 (Y / X = 120.83  X / Y = 82.76)
+Dice Coefficient: 75.00% 
+
+X = [@CoinDesk @AngieTVLau @Forkast_News Buy #dogecoin and hold. Iam telling you for the last time..]
+X_token = [coindesk, angietvlau, buy, dogecoin, hold, iam, telling, last, time]
+	X tweet_count = [30]
+	X username = [Bjkcoin]
+Y = [@michael_saylor @Frank_Giustra @DanielaCambone Michael, Buy #dogecoin and hold. Iam telling you last time....]
+Y_token = [danielacambone, michael, buy, dogecoin, hold, iam, telling, last, time]
+	Y tweet_count = [47]
+	Y username = [Bjkcoin]
+Total Length: X = 95, Y = 109 (Y / X = 114.74  X / Y = 87.16)
+Dice Coefficient: 77.78% 
+
+X = [@CNN Buy #dogecoin and hold...You are still not late...]
+X_token = [cnn, buy, dogecoin, hold, still, late]
+	X tweet_count = [34]
+	X username = [Bjkcoin]
+Y = [@binance Buy #dogecoin . You are still not late...]
+Y_token = [binance, buy, dogecoin, still, late]
+	Y tweet_count = [35]
+	Y username = [Bjkcoin]
+Total Length: X = 55, Y = 50 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 72.73% 
+
+X = [@CNN Buy #dogecoin and hold...You are still not late...]
+X_token = [cnn, buy, dogecoin, hold, still, late]
+	X tweet_count = [34]
+	X username = [Bjkcoin]
+Y = [@Bitcoin Buy #dogecoin . You are still not late to buy DOGECOIN]
+Y_token = [bitcoin, buy, dogecoin, still, late, buy, dogecoin]
+	Y tweet_count = [36]
+	Y username = [Bjkcoin]
+Total Length: X = 55, Y = 63 (Y / X = 114.55  X / Y = 87.30)
+Dice Coefficient: 72.73% 
+
+X = [@CNN Buy #dogecoin and hold...You are still not late...]
+X_token = [cnn, buy, dogecoin, hold, still, late]
+	X tweet_count = [34]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin  #doge]
+Y_token = [still, late, buy, dogecoin, doge]
+	Y tweet_count = [38]
+	Y username = [Bjkcoin]
+Total Length: X = 55, Y = 46 (Y / X = 83.64  X / Y = 119.57)
+Dice Coefficient: 72.73% 
+
+X = [@CNN Buy #dogecoin and hold...You are still not late...]
+X_token = [cnn, buy, dogecoin, hold, still, late]
+	X tweet_count = [34]
+	X username = [Bjkcoin]
+Y = [@crypto You are still not late to buy Dogecoin]
+Y_token = [crypto, still, late, buy, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Bjkcoin]
+Total Length: X = 55, Y = 46 (Y / X = 83.64  X / Y = 119.57)
+Dice Coefficient: 72.73% 
+
+X = [@CNN Buy #dogecoin and hold...You are still not late...]
+X_token = [cnn, buy, dogecoin, hold, still, late]
+	X tweet_count = [34]
+	X username = [Bjkcoin]
+Y = [@CNN You are still not late to buy #dogecoin]
+Y_token = [cnn, still, late, buy, dogecoin]
+	Y tweet_count = [52]
+	Y username = [Bjkcoin]
+Total Length: X = 55, Y = 44 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 90.91% 
+
+X = [@binance Buy #dogecoin . You are still not late...]
+X_token = [binance, buy, dogecoin, still, late]
+	X tweet_count = [35]
+	X username = [Bjkcoin]
+Y = [OMG #dogecoin is ATH. You are still not late to buy #dogecoin]
+Y_token = [omg, dogecoin, ath, still, late, buy, dogecoin]
+	Y tweet_count = [37]
+	Y username = [Bjkcoin]
+Total Length: X = 50, Y = 61 (Y / X = 122.00  X / Y = 81.97)
+Dice Coefficient: 72.73% 
+
+X = [@binance Buy #dogecoin . You are still not late...]
+X_token = [binance, buy, dogecoin, still, late]
+	X tweet_count = [35]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin  #doge]
+Y_token = [still, late, buy, dogecoin, doge]
+	Y tweet_count = [38]
+	Y username = [Bjkcoin]
+Total Length: X = 50, Y = 46 (Y / X = 92.00  X / Y = 108.70)
+Dice Coefficient: 80.00% 
+
+X = [@binance Buy #dogecoin . You are still not late...]
+X_token = [binance, buy, dogecoin, still, late]
+	X tweet_count = [35]
+	X username = [Bjkcoin]
+Y = [@crypto You are still not late to buy Dogecoin]
+Y_token = [crypto, still, late, buy, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Bjkcoin]
+Total Length: X = 50, Y = 46 (Y / X = 92.00  X / Y = 108.70)
+Dice Coefficient: 80.00% 
+
+X = [@binance Buy #dogecoin . You are still not late...]
+X_token = [binance, buy, dogecoin, still, late]
+	X tweet_count = [35]
+	X username = [Bjkcoin]
+Y = [@CNN You are still not late to buy #dogecoin]
+Y_token = [cnn, still, late, buy, dogecoin]
+	Y tweet_count = [52]
+	Y username = [Bjkcoin]
+Total Length: X = 50, Y = 44 (Y / X = 88.00  X / Y = 113.64)
+Dice Coefficient: 80.00% 
+
+X = [@Bitcoin Buy #dogecoin . You are still not late to buy DOGECOIN]
+X_token = [bitcoin, buy, dogecoin, still, late, buy, dogecoin]
+	X tweet_count = [36]
+	X username = [Bjkcoin]
+Y = [OMG #dogecoin is ATH. You are still not late to buy #dogecoin]
+Y_token = [omg, dogecoin, ath, still, late, buy, dogecoin]
+	Y tweet_count = [37]
+	Y username = [Bjkcoin]
+Total Length: X = 63, Y = 61 (Y / X = 96.83  X / Y = 103.28)
+Dice Coefficient: 72.73% 
+
+X = [You are still not late to buy #dogecoin  #doge]
+X_token = [still, late, buy, dogecoin, doge]
+	X tweet_count = [38]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [39]
+	Y username = [Bjkcoin]
+Total Length: X = 46, Y = 39 (Y / X = 84.78  X / Y = 117.95)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy #dogecoin  #doge]
+X_token = [still, late, buy, dogecoin, doge]
+	X tweet_count = [38]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [44]
+	Y username = [Bjkcoin]
+Total Length: X = 46, Y = 39 (Y / X = 84.78  X / Y = 117.95)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy #dogecoin  #doge]
+X_token = [still, late, buy, dogecoin, doge]
+	X tweet_count = [38]
+	X username = [Bjkcoin]
+Y = [@crypto You are still not late to buy Dogecoin]
+Y_token = [crypto, still, late, buy, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Bjkcoin]
+Total Length: X = 46, Y = 46 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 80.00% 
+
+X = [You are still not late to buy #dogecoin  #doge]
+X_token = [still, late, buy, dogecoin, doge]
+	X tweet_count = [38]
+	X username = [Bjkcoin]
+Y = [@CNN You are still not late to buy #dogecoin]
+Y_token = [cnn, still, late, buy, dogecoin]
+	Y tweet_count = [52]
+	Y username = [Bjkcoin]
+Total Length: X = 46, Y = 44 (Y / X = 95.65  X / Y = 104.55)
+Dice Coefficient: 80.00% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [39]
+	X username = [Bjkcoin]
+Y = [You are still not late to buy #dogecoin]
+Y_token = [still, late, buy, dogecoin]
+	Y tweet_count = [44]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 39 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [39]
+	X username = [Bjkcoin]
+Y = [@crypto You are still not late to buy Dogecoin]
+Y_token = [crypto, still, late, buy, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 46 (Y / X = 117.95  X / Y = 84.78)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [39]
+	X username = [Bjkcoin]
+Y = [@CNN You are still not late to buy #dogecoin]
+Y_token = [cnn, still, late, buy, dogecoin]
+	Y tweet_count = [52]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 44 (Y / X = 112.82  X / Y = 88.64)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [44]
+	X username = [Bjkcoin]
+Y = [@crypto You are still not late to buy Dogecoin]
+Y_token = [crypto, still, late, buy, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 46 (Y / X = 117.95  X / Y = 84.78)
+Dice Coefficient: 88.89% 
+
+X = [You are still not late to buy #dogecoin]
+X_token = [still, late, buy, dogecoin]
+	X tweet_count = [44]
+	X username = [Bjkcoin]
+Y = [@CNN You are still not late to buy #dogecoin]
+Y_token = [cnn, still, late, buy, dogecoin]
+	Y tweet_count = [52]
+	Y username = [Bjkcoin]
+Total Length: X = 39, Y = 44 (Y / X = 112.82  X / Y = 88.64)
+Dice Coefficient: 88.89% 
+
+X = [@crypto You are still not late to buy Dogecoin]
+X_token = [crypto, still, late, buy, dogecoin]
+	X tweet_count = [51]
+	X username = [Bjkcoin]
+Y = [@CNN You are still not late to buy #dogecoin]
+Y_token = [cnn, still, late, buy, dogecoin]
+	Y tweet_count = [52]
+	Y username = [Bjkcoin]
+Total Length: X = 46, Y = 44 (Y / X = 95.65  X / Y = 104.55)
+Dice Coefficient: 80.00% 
+

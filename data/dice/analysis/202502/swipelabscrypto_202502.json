@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "During the 2021 bull run, major platforms like Coinbase Pro listed Dogecoin, attracting a cult following and a new wave of mainstream attention.\n\nMore people were “going to the moon” with DOGE!",
+        "X_token": "2021, bull, run, major, platforms, like, coinbase, pro, listed, dogecoin, attracting, cult, following, new, wave, mainstream, attention, people, going, moon, doge",
+        "X_tweet_count": 1,
+        "X_username": "swipelabscrypto",
+        "Y_text": "During the 2021 bull run, major platforms like Coinbase Pro listed Dogecoin, attracting a cult following and a new wave of mainstream attention.\n\nMore people were “going to the moon” with DOGE!",
+        "Y_token": "2021, bull, run, major, platforms, like, coinbase, pro, listed, dogecoin, attracting, cult, following, new, wave, mainstream, attention, people, going, moon, doge",
+        "Y_tweet_count": 4,
+        "Y_username": "swipelabscrypto",
+        "X_length": 193,
+        "Y_length": 193,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Right after Musk’s tweet, Dogecoin’s market cap hit $400 million, and crypto exchange Huobi quickly listed it.\n\nThis wasn’t just hype—Dogecoin’s lower fees and fast transactions gave it utility. It became the “people’s coin,” accessible to anyone.",
+        "X_token": "right, musk, tweet, dogecoin, market, cap, hit, 400, million, crypto, exchange, huobi, quickly, listed, lower, fees, fast, transactions, gave, utility, became, people, coin, accessible, anyone",
+        "X_tweet_count": 2,
+        "X_username": "swipelabscrypto",
+        "Y_text": "Right after Musk’s tweet, Dogecoin’s market cap hit $400 million, and crypto exchange Huobi quickly listed it.\n\nThis wasn’t just hype—Dogecoin’s lower fees and fast transactions gave it utility. It became the “people’s coin,” accessible to anyone.",
+        "Y_token": "right, musk, tweet, dogecoin, market, cap, hit, 400, million, crypto, exchange, huobi, quickly, listed, lower, fees, fast, transactions, gave, utility, became, people, coin, accessible, anyone",
+        "Y_tweet_count": 5,
+        "Y_username": "swipelabscrypto",
+        "X_length": 247,
+        "Y_length": 247,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Unlike Bitcoin, Dogecoin uses the Scrypt algorithm, making mining faster and less energy-intensive.\n\nWith a block time of 1 minute (vs. Bitcoin’s 10), Dogecoin enables faster transactions, contributing to its popularity for tipping and micro-payments.",
+        "X_token": "unlike, bitcoin, dogecoin, uses, scrypt, algorithm, making, mining, faster, less, block, time, 1, minute, bitcoin, 10, dogecoin, enables, faster, transactions, contributing, popularity, tipping",
+        "X_tweet_count": 3,
+        "X_username": "swipelabscrypto",
+        "Y_text": "Unlike Bitcoin, Dogecoin uses the Scrypt algorithm, making mining faster and less energy-intensive.\n\nWith a block time of 1 minute (vs. Bitcoin’s 10), Dogecoin enables faster transactions, contributing to its popularity for tipping and micro-payments.",
+        "Y_token": "unlike, bitcoin, dogecoin, uses, scrypt, algorithm, making, mining, faster, less, block, time, 1, minute, bitcoin, 10, dogecoin, enables, faster, transactions, contributing, popularity, tipping",
+        "Y_tweet_count": 6,
+        "Y_username": "swipelabscrypto",
+        "X_length": 251,
+        "Y_length": 251,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

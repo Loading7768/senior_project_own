@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "MAKE #DOGE ON TRENDING AGAINRocket\n\nPUSH RETWEET BOTTON\n#420doge #DogeDay420 #dogecoin #DogecoinToTheMoon #DogecoinRise https://t.co/jScWDziMdP",
+        "X_token": "make, doge, trending, againrocket, push, retweet, botton, 420doge, dogeday420, dogecoin, dogecointothemoon, dogecoinrise, https",
+        "X_tweet_count": 18,
+        "X_username": "Mark Rochefort",
+        "Y_text": "MAKE #DOGE ON TRENDING AGAINRocket\n\nPUSH RETWEET BOTTON\n#420doge #DogeDay420 #dogecoin #DogecoinToTheMoon #DogecoinRise",
+        "Y_token": "make, doge, trending, againrocket, push, retweet, botton, 420doge, dogeday420, dogecoin, dogecointothemoon, dogecoinrise",
+        "Y_tweet_count": 19,
+        "Y_username": "Mark Rochefort",
+        "X_length": 143,
+        "Y_length": 119,
+        "Y_length_percent_of_X": 83.22,
+        "X_length_percent_of_Y": 120.17,
+        "dice_coefficient": 96.0
+    },
+    {
+        "X_text": "#DOGEDAY #DogeDay420 \n\nIt is going to be EXTREMELY exciting to see what happens as millions of eyes all across the world are on Dogecoin! https://t.co/3YVXKAukas",
+        "X_token": "dogeday, dogeday420, going, extremely, exciting, see, happens, millions, eyes, across, world, dogecoin, https",
+        "X_tweet_count": 22,
+        "X_username": "Mark Rochefort",
+        "Y_text": "#DOGEDAY #DogeDay420 \n\nIt is going to be EXTREMELY exciting to see what happens as millions of eyes all across the world are on Dogecoin! https://t.co/YoRLuIBovp",
+        "Y_token": "dogeday, dogeday420, going, extremely, exciting, see, happens, millions, eyes, across, world, dogecoin, https",
+        "Y_tweet_count": 23,
+        "Y_username": "Mark Rochefort",
+        "X_length": 161,
+        "Y_length": 161,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Everything is better with a bag O' weed!! #weedsmokers #cannabisculture #weed #DogecoinCommunity #dogecoin https://t.co/66PvaDYRZC",
+        "X_token": "everything, better, bag, weed, weedsmokers, cannabisculture, weed, dogecoincommunity, dogecoin, https",
+        "X_tweet_count": 13,
+        "X_username": "Andrew",
+        "Y_text": "Everything is better with a bag O' weed! #CannabisCommunity #doge420 #dogecoin #DogecoinRise #WeedLovers #weedsmokers https://t.co/qSDNqTGy6p",
+        "Y_token": "everything, better, bag, weed, cannabiscommunity, doge420, dogecoin, dogecoinrise, weedlovers, weedsmokers, https",
+        "Y_tweet_count": 93,
+        "Y_username": "Andrew",
+        "X_length": 130,
+        "Y_length": 141,
+        "Y_length_percent_of_X": 108.46,
+        "X_length_percent_of_Y": 92.2,
+        "dice_coefficient": 70.0
+    },
+    {
+        "X_text": "It's #DogeTime #dogecoin\n#DogecoinToTheMoon\n            12\n     11     ^      1\n 10         |          2\n9           ⊙----&gt; DOGETIME \n  8                    4\n      7            5      \n             6",
+        "X_token": "dogetime, dogecoin, dogecointothemoon, 12, 11, 1, 10, 2, 9, gt, dogetime, 8, 4, 7, 5, 6",
+        "X_tweet_count": 64,
+        "X_username": "Andrew",
+        "Y_text": "@AshleyDCan What time does leg time start? 😂🤣 #dogecoin\n\n            12\n     11     ^      1\n 10         |          2\n9           ⊙----&gt;  LEGS time \n  8                    4\n      7            5      \n             6",
+        "Y_token": "ashleydcan, time, leg, time, start, dogecoin, 12, 11, 1, 10, 2, 9, gt, legs, time, 8, 4, 7, 5, 6",
+        "Y_tweet_count": 65,
+        "Y_username": "Andrew",
+        "X_length": 203,
+        "Y_length": 218,
+        "Y_length_percent_of_X": 107.39,
+        "X_length_percent_of_Y": 93.12,
+        "dice_coefficient": 78.79
+    }
+]

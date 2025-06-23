@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@dogecoin_empire Lmao",
+        "X_token": "lmao",
+        "X_tweet_count": 11,
+        "X_username": "TitanUp Ty",
+        "Y_text": "@dogecoin_empire Lmao",
+        "Y_token": "lmao",
+        "Y_tweet_count": 43,
+        "Y_username": "TitanUp Ty",
+        "X_length": 21,
+        "Y_length": 21,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@dogecoin_empire I will!! Appreciate you!",
+        "X_token": "appreciate",
+        "X_tweet_count": 19,
+        "X_username": "TitanUp Ty",
+        "Y_text": "@dogecoin_empire Appreciate that!",
+        "Y_token": "appreciate",
+        "Y_tweet_count": 21,
+        "Y_username": "TitanUp Ty",
+        "X_length": 41,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 80.49,
+        "X_length_percent_of_Y": 124.24,
+        "dice_coefficient": 100.0
+    }
+]

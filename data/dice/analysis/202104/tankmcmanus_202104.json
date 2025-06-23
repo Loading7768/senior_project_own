@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@dogecoin_rise Buy more #dogecoin",
+        "X_token": "buy, dogecoin",
+        "X_tweet_count": 23,
+        "X_username": "tankmcmanus",
+        "Y_text": "@davidgokhshtein Buy more #dogecoin",
+        "Y_token": "davidgokhshtein, buy, dogecoin",
+        "Y_tweet_count": 40,
+        "Y_username": "tankmcmanus",
+        "X_length": 33,
+        "Y_length": 35,
+        "Y_length_percent_of_X": 106.06,
+        "X_length_percent_of_Y": 94.29,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Can’t wait to buy stuff off @amazon  and pay for it with #dogecoin 😊 @JeffBezos #Doge4Amazon #dogearmy #BuyDogecoin #dogetothemoon #DOGE #HODL",
+        "X_token": "wait, buy, stuff, amazon, pay, dogecoin, jeffbezos, doge4amazon, dogearmy, buydogecoin, dogetothemoon, doge, hodl",
+        "X_tweet_count": 25,
+        "X_username": "tankmcmanus",
+        "Y_text": "Can’t wait is to be able to buy @SlimJim off of @amazon and pay with #dogecoin. @JeffBezos #Doge4Amazon #DOGE #dogearmy #dogetothemoon #dogecointoadollar https://t.co/FlJlvmxmSj",
+        "Y_token": "wait, able, buy, slimjim, amazon, pay, dogecoin, jeffbezos, doge4amazon, doge, dogearmy, dogetothemoon, dogecointoadollar, https",
+        "Y_tweet_count": 34,
+        "Y_username": "tankmcmanus",
+        "X_length": 142,
+        "Y_length": 177,
+        "Y_length_percent_of_X": 124.65,
+        "X_length_percent_of_Y": 80.23,
+        "dice_coefficient": 74.07
+    }
+]

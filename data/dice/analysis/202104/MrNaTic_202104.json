@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@wolfofwallst Enough Said. #Dogecoin",
+        "X_token": "wolfofwallst, enough, said, dogecoin",
+        "X_tweet_count": 38,
+        "X_username": "MrNaTic",
+        "Y_text": "@davidgokhshtein #Dogecoin Enough Said.",
+        "Y_token": "davidgokhshtein, dogecoin, enough, said",
+        "Y_tweet_count": 58,
+        "Y_username": "MrNaTic",
+        "X_length": 36,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 108.33,
+        "X_length_percent_of_Y": 92.31,
+        "dice_coefficient": 75.0
+    }
+]

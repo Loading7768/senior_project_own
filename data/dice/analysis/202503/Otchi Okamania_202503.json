@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@cryptocom Are you mentally and physically prepared to celebrate the\n@dogecoin\nwhen it is number 01? You really should be prepared.. because the\n@dogecoin\nCapital number is going to be terrible. It's just a matter of time. This will happen very quickly indeed.",
+        "X_token": "cryptocom, mentally, physically, prepared, celebrate, dogecoin, number, 01, really, prepared, dogecoin, capital, number, going, terrible, matter, time, happen, quickly, indeed",
+        "X_tweet_count": 4,
+        "X_username": "Otchi Okamania",
+        "Y_text": "Are you mentally and physically prepared to celebrate the @dogecoin  when it is number 01?\nYou really should be prepared.. because the @dogecoin Capital number is going to be terrible.\nIt's just a matter of time. This will happen very quickly indeed.",
+        "Y_token": "mentally, physically, prepared, celebrate, dogecoin, number, 01, really, prepared, dogecoin, capital, number, going, terrible, matter, time, happen, quickly, indeed",
+        "Y_tweet_count": 7,
+        "Y_username": "Otchi Okamania",
+        "X_length": 260,
+        "Y_length": 250,
+        "Y_length_percent_of_X": 96.15,
+        "X_length_percent_of_Y": 104.0,
+        "dice_coefficient": 96.97
+    },
+    {
+        "X_text": "@elonmusk  will do it. Very soon, when he launches a global payment system that competes with China's. All the conditions are in place to make the @dogecoin  global and catapult it toward a $1 billion market capitalization.🧲🧲❤️‍🔥❤️‍🔥",
+        "X_token": "elonmusk, soon, launches, global, payment, system, competes, china, conditions, place, make, dogecoin, global, catapult, toward, 1, billion, market",
+        "X_tweet_count": 15,
+        "X_username": "Otchi Okamania",
+        "Y_text": "@elonmusk   will do it. Very soon, when he launches a global payment system that competes with China's. All the conditions are in place to make the @dogecoin  global and catapult it toward a $1 billion market capitalization.",
+        "Y_token": "elonmusk, soon, launches, global, payment, system, competes, china, conditions, place, make, dogecoin, global, catapult, toward, 1, billion, market, capitalization",
+        "Y_tweet_count": 16,
+        "Y_username": "Otchi Okamania",
+        "X_length": 233,
+        "Y_length": 224,
+        "Y_length_percent_of_X": 96.14,
+        "X_length_percent_of_Y": 104.02,
+        "dice_coefficient": 97.14
+    }
+]
