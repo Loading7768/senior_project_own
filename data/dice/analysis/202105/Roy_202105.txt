@@ -1,0 +1,11 @@
+﻿X = [Crypto Global Telegram\n12/05/202   09:00 GMT\n\nCrypto Market Cap \nUS$ 2.567   Trillion \n\nBTC Market   Cap\nUS$ 1.063 Trillion\n\nTETHER Market Cap \nUS$ 57.5   Billion \n\nUS$56,825    = 1Bitcoin\nUS$58,958    =  1KgGold\n\n13.79 ETH     =  1 Kg Gold\n\nDOGE Coin = US$0.5052]
+X_token = [crypto, global, telegram, gmt, crypto, market, cap, us, trillion, btc, market, cap, us, trillion, tether, market, cap, us, billion, us, 1bitcoin, us, 1kggold, eth, 1, kg, gold, doge, coin, us]
+	X tweet_count = [52]
+	X username = [Roy]
+Y = [Crypto Global Telegram\n23/05/2021   04:00GMT\n\nCrypto Market Cap \nUS$ 1,361     Billion\n\nBTC Market   Cap\nUS$ 614.91 Billion\n\nTETHER Market Cap \nUS$ 60,738  Billion \n\nUS$32,727      = 1Bitcoin\nUS$60,498    =  1KgGold\n\n30.09 ETH     =  1 Kg Gold\n\nDOGE Coin = US$0.2870]
+Y_token = [crypto, global, telegram, crypto, market, cap, us, billion, btc, market, cap, us, billion, tether, market, cap, us, billion, us, 1bitcoin, us, 1kggold, eth, 1, kg, gold, doge, coin, us]
+	Y tweet_count = [58]
+	Y username = [Roy]
+Total Length: X = 263, Y = 266 (Y / X = 101.14  X / Y = 98.87)
+Dice Coefficient: 94.44% 
+

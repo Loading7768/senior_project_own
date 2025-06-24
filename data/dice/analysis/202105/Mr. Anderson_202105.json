@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@zerohedge “I made a lot of people rich but I didn’t come away with any money. I get to tell people that I created Dogecoin, which is fun.” - Jackson Palmer 🧂🧂🧂🤡",
+        "X_token": "zerohedge, made, lot, people, rich, come, away, money, get, tell, people, created, dogecoin, jackson, palmer",
+        "X_tweet_count": 13,
+        "X_username": "Mr. Anderson",
+        "Y_text": "@PrestonPysh LOL the saltiness is next level. “I made a lot of people rich but I didn’t come away with any money. I get to tell people that I created Dogecoin, which is fun.” - Jackson Palmer",
+        "Y_token": "prestonpysh, lol, saltiness, next, level, made, lot, people, rich, come, away, money, get, tell, people, created, dogecoin, jackson, palmer",
+        "Y_tweet_count": 14,
+        "Y_username": "Mr. Anderson",
+        "X_length": 161,
+        "Y_length": 191,
+        "Y_length_percent_of_X": 118.63,
+        "X_length_percent_of_Y": 84.29,
+        "dice_coefficient": 81.25
+    }
+]

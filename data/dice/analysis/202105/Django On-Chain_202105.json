@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Doge is fun!\n#doge #dogecoin #dogearmy #DogecoinToTheMoon",
+        "X_token": "doge, fun, doge, dogecoin, dogearmy, dogecointothemoon",
+        "X_tweet_count": 17,
+        "X_username": "Django On-Chain",
+        "Y_text": "#dogearmy Does Only Good Everyday!\n#doge #dogecoin #DogecoinToTheMoon",
+        "Y_token": "dogearmy, good, everyday, doge, dogecoin, dogecointothemoon",
+        "Y_tweet_count": 39,
+        "Y_username": "Django On-Chain",
+        "X_length": 57,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 121.05,
+        "X_length_percent_of_Y": 82.61,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@DogecoinBitcoin Heeeeel yea...\n#dogecoin #doge #dogearmy #DogecoinRise #DogeCoinTo1Dollar \n\nhttps://t.co/YUySuiNBUU",
+        "X_token": "dogecoinbitcoin, heeeeel, yea, dogecoin, doge, dogearmy, dogecoinrise, dogecointo1dollar, https",
+        "X_tweet_count": 27,
+        "X_username": "Django On-Chain",
+        "Y_text": "@Irandogecoin but have memes:))\n#doge\n#DogeCoinTo1Dollar #dogearmy #DogecoinRise #Dogecoin https://t.co/mIhO2NtuYg",
+        "Y_token": "irandogecoin, memes, doge, dogecointo1dollar, dogearmy, dogecoinrise, dogecoin, https",
+        "Y_tweet_count": 45,
+        "Y_username": "Django On-Chain",
+        "X_length": 116,
+        "Y_length": 114,
+        "Y_length_percent_of_X": 98.28,
+        "X_length_percent_of_Y": 101.75,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "The hard part is over \n#doge #dogecoin #dogememe #Memes #dogecoinrise #DogecoinToTheMoon #dogearmy #DogeCoinTo1Dollar https://t.co/J1LRKVGIDc",
+        "X_token": "hard, part, doge, dogecoin, dogememe, memes, dogecoinrise, dogecointothemoon, dogearmy, dogecointo1dollar, https",
+        "X_tweet_count": 30,
+        "X_username": "Django On-Chain",
+        "Y_text": "@Irandogecoin but have memes:))\n#doge\n#DogeCoinTo1Dollar #dogearmy #DogecoinRise #Dogecoin https://t.co/mIhO2NtuYg",
+        "Y_token": "irandogecoin, memes, doge, dogecointo1dollar, dogearmy, dogecoinrise, dogecoin, https",
+        "Y_tweet_count": 45,
+        "Y_username": "Django On-Chain",
+        "X_length": 141,
+        "Y_length": 114,
+        "Y_length_percent_of_X": 80.85,
+        "X_length_percent_of_Y": 123.68,
+        "dice_coefficient": 73.68
+    }
+]

@@ -1,0 +1,33 @@
+﻿X = [There is no if $1 will come for $DOGE... IT IS WHEN!\n\nReTweet if you're going #ToTheMoon with #DOGE]
+X_token = [1, come, doge, retweet, going, tothemoon, doge]
+	X tweet_count = [8]
+	X username = [Dogecoin For Life]
+Y = [There is no if $1 will come for $DOGE... IT IS WHEN!\n\nReTweet if you're going #ToTheMoon with #DOGE\n\n#dogecoin 🚀🚀🚀🚀🚀🚀🚀🚀🚀]
+Y_token = [1, come, doge, retweet, going, tothemoon, doge, dogecoin]
+	Y tweet_count = [12]
+	Y username = [Dogecoin For Life]
+Total Length: X = 99, Y = 120 (Y / X = 121.21  X / Y = 82.50)
+Dice Coefficient: 92.31% 
+
+X = [Is this real life 🤑 #dogecoin #ToTheMoon https://t.co/gdtFaFopUU]
+X_token = [real, life, dogecoin, tothemoon, https]
+	X tweet_count = [15]
+	X username = [Dogecoin For Life]
+Y = [Is this real life 😳🤑🚀🚀\n\n#dogecoin #doge #dogearmy https://t.co/CBmdh83NHS]
+Y_token = [real, life, dogecoin, doge, dogearmy, https]
+	Y tweet_count = [21]
+	Y username = [Dogecoin For Life]
+Total Length: X = 64, Y = 73 (Y / X = 114.06  X / Y = 87.67)
+Dice Coefficient: 72.73% 
+
+X = [@elonmusk @DogecoinRise @TeslaGong and the #DogecoinRise continues!]
+X_token = [elonmusk, dogecoinrise, teslagong, dogecoinrise, continues]
+	X tweet_count = [58]
+	X username = [Dogecoin For Life]
+Y = [@elonmusk @xSharknado @DogecoinRise @TeslaGong and the #DogecoinRise continues!]
+Y_token = [elonmusk, xsharknado, dogecoinrise, teslagong, dogecoinrise, continues]
+	Y tweet_count = [59]
+	Y username = [Dogecoin For Life]
+Total Length: X = 67, Y = 79 (Y / X = 117.91  X / Y = 84.81)
+Dice Coefficient: 88.89% 
+

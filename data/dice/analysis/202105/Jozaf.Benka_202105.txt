@@ -1,0 +1,44 @@
+﻿X = [$Doge https://t.co/wzEzRe9Sfg]
+X_token = [doge, https]
+	X tweet_count = [9]
+	X username = [Jozaf.Benka]
+Y = [$Doge https://t.co/9YiX5ljO2S]
+Y_token = [doge, https]
+	Y tweet_count = [10]
+	Y username = [Jozaf.Benka]
+Total Length: X = 29, Y = 29 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [$Doge https://t.co/wzEzRe9Sfg]
+X_token = [doge, https]
+	X tweet_count = [9]
+	X username = [Jozaf.Benka]
+Y = [$Doge https://t.co/rRJ0TD7ZM0]
+Y_token = [doge, https]
+	Y tweet_count = [36]
+	Y username = [Jozaf.Benka]
+Total Length: X = 29, Y = 29 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [$Doge https://t.co/9YiX5ljO2S]
+X_token = [doge, https]
+	X tweet_count = [10]
+	X username = [Jozaf.Benka]
+Y = [$Doge https://t.co/rRJ0TD7ZM0]
+Y_token = [doge, https]
+	Y tweet_count = [36]
+	Y username = [Jozaf.Benka]
+Total Length: X = 29, Y = 29 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@davidgokhshtein @butterflygyal1 @justinbieber \n$Doge snap one\n\n@billieeilish\n@djkhaled\n#MakeItHappen]
+X_token = [davidgokhshtein, butterflygyal1, justinbieber, doge, snap, one, billieeilish, djkhaled, makeithappen]
+	X tweet_count = [15]
+	X username = [Jozaf.Benka]
+Y = [@justinbieber \n$Doge snap one\n\n@billieeilish\n@djkhaled\n#MakeItHappen https://t.co/EJTqJyDC1R]
+Y_token = [justinbieber, doge, snap, one, billieeilish, djkhaled, makeithappen, https]
+	Y tweet_count = [17]
+	Y username = [Jozaf.Benka]
+Total Length: X = 101, Y = 92 (Y / X = 91.09  X / Y = 109.78)
+Dice Coefficient: 82.35% 
+

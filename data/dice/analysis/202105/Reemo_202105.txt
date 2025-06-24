@@ -1,0 +1,33 @@
+﻿X = [@BillyM2k Why is @coinbase still not trading @dogecoin ?????]
+X_token = [billym2k, coinbase, still, trading, dogecoin]
+	X tweet_count = [4]
+	X username = [Reemo]
+Y = [@KarlMillan1 @BillyM2k @coinbase Wth @coinbase isn’t trading Dogecoin??????]
+Y_token = [karlmillan1, billym2k, coinbase, wth, coinbase, trading, dogecoin]
+	Y tweet_count = [15]
+	Y username = [Reemo]
+Total Length: X = 60, Y = 75 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 72.73% 
+
+X = [@BillyM2k Why is @coinbase still not trading @dogecoin ?????]
+X_token = [billym2k, coinbase, still, trading, dogecoin]
+	X tweet_count = [4]
+	X username = [Reemo]
+Y = [@coinbase Still not trading @dogecoin ????????!!!!]
+Y_token = [coinbase, still, trading, dogecoin]
+	Y tweet_count = [18]
+	Y username = [Reemo]
+Total Length: X = 60, Y = 50 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 88.89% 
+
+X = [@SlimJim Why isn’t @coinbase trading @dogecoin ????????]
+X_token = [slimjim, coinbase, trading, dogecoin]
+	X tweet_count = [14]
+	X username = [Reemo]
+Y = [@coinbase Still not trading @dogecoin ????????!!!!]
+Y_token = [coinbase, still, trading, dogecoin]
+	Y tweet_count = [18]
+	Y username = [Reemo]
+Total Length: X = 55, Y = 50 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 75.00% 
+

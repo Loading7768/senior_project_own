@@ -1,0 +1,22 @@
+﻿X = [💎 🤚 $DOGE]
+X_token = [doge]
+	X tweet_count = [49]
+	X username = [Aaron]
+Y = [$DOGE 😂😂😂😂]
+Y_token = [doge]
+	Y tweet_count = [55]
+	Y username = [Aaron]
+Total Length: X = 9, Y = 10 (Y / X = 111.11  X / Y = 90.00)
+Dice Coefficient: 100.00% 
+
+X = [@kannalus @CelsiusNetwork @Mashinsky The community voted that dogecoin is not to be added to Celsius Network.]
+X_token = [kannalus, celsiusnetwork, mashinsky, community, voted, dogecoin, added, celsius, network]
+	X tweet_count = [81]
+	X username = [Aaron]
+Y = [@Aeloxcom @CelsiusNetwork The community voted that dogecoin is not to be added to Celsius Network.]
+Y_token = [aeloxcom, celsiusnetwork, community, voted, dogecoin, added, celsius, network]
+	Y tweet_count = [82]
+	Y username = [Aaron]
+Total Length: X = 109, Y = 98 (Y / X = 89.91  X / Y = 111.22)
+Dice Coefficient: 82.35% 
+

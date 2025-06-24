@@ -1,0 +1,33 @@
+﻿X = [#dogecoin COME ON...GO GO GO]
+X_token = [dogecoin, come, go, go, go]
+	X tweet_count = [4]
+	X username = [Eshel3427]
+Y = [#dogecoin COME ON LET'S GO!]
+Y_token = [dogecoin, come, let, go]
+	Y tweet_count = [9]
+	Y username = [Eshel3427]
+Total Length: X = 28, Y = 27 (Y / X = 96.43  X / Y = 103.70)
+Dice Coefficient: 85.71% 
+
+X = [#dogecoin PUSH PUSHHHHH]
+X_token = [dogecoin, push, pushhhhh]
+	X tweet_count = [7]
+	X username = [Eshel3427]
+Y = [PUSH TO 37.5 #dogecoin]
+Y_token = [push, dogecoin]
+	Y tweet_count = [11]
+	Y username = [Eshel3427]
+Total Length: X = 23, Y = 22 (Y / X = 95.65  X / Y = 104.55)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin dogecoin to ground control.  We have lift off!]
+X_token = [dogecoin, dogecoin, ground, control, lift]
+	X tweet_count = [12]
+	X username = [Eshel3427]
+Y = [Dogecoin to ground control....we have lift off#dogecoin]
+Y_token = [dogecoin, ground, control, lift, dogecoin]
+	Y tweet_count = [13]
+	Y username = [Eshel3427]
+Total Length: X = 56, Y = 55 (Y / X = 98.21  X / Y = 101.82)
+Dice Coefficient: 100.00% 
+

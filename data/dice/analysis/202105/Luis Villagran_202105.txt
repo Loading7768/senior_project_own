@@ -1,0 +1,33 @@
+﻿X = [#dogecoin let’s go !!!!!! 🚀 https://t.co/joLplvkvwG]
+X_token = [dogecoin, let, go, https]
+	X tweet_count = [1]
+	X username = [Luis Villagran]
+Y = [Let’s go #DogeSNL #dogecoin 🚀 https://t.co/47xNoBNnfw]
+Y_token = [let, go, dogesnl, dogecoin, https]
+	Y tweet_count = [40]
+	Y username = [Luis Villagran]
+Total Length: X = 51, Y = 53 (Y / X = 103.92  X / Y = 96.23)
+Dice Coefficient: 88.89% 
+
+X = [@MileyCyrus @elonmusk Can you buy dogecoin?]
+X_token = [mileycyrus, elonmusk, buy, dogecoin]
+	X tweet_count = [12]
+	X username = [Luis Villagran]
+Y = [@MileyCyrus @nbcsnl Buy did you buy dogecoin?]
+Y_token = [mileycyrus, nbcsnl, buy, buy, dogecoin]
+	Y tweet_count = [22]
+	Y username = [Luis Villagran]
+Total Length: X = 43, Y = 45 (Y / X = 104.65  X / Y = 95.56)
+Dice Coefficient: 75.00% 
+
+X = [#dogecoin to the moon 🚀]
+X_token = [dogecoin, moon]
+	X tweet_count = [42]
+	X username = [Luis Villagran]
+Y = [#dogecoin to the moon 🚀]
+Y_token = [dogecoin, moon]
+	Y tweet_count = [48]
+	Y username = [Luis Villagran]
+Total Length: X = 23, Y = 23 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

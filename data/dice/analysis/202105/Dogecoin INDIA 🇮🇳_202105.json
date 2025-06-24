@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@elonmusk @michael_saylor @elonmusk\n if you dont ever tweet about #dogecoin we'll still love you. \nunlike #bitcoin maxis.\n#dogearmy",
+        "X_token": "elonmusk, elonmusk, dont, ever, tweet, dogecoin, still, love, unlike, bitcoin, maxis, dogearmy",
+        "X_tweet_count": 41,
+        "X_username": "Dogecoin INDIA 🇮🇳",
+        "Y_text": "@elonmusk if you dont ever tweet about #dogecoin we'll still love you. \nunlike #bitcoin maxis.\nthat's #dogearmy for you.",
+        "Y_token": "elonmusk, dont, ever, tweet, dogecoin, still, love, unlike, bitcoin, maxis, dogearmy",
+        "Y_tweet_count": 47,
+        "Y_username": "Dogecoin INDIA 🇮🇳",
+        "X_length": 131,
+        "Y_length": 120,
+        "Y_length_percent_of_X": 91.6,
+        "X_length_percent_of_Y": 109.17,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@elonmusk @michael_saylor such a sad day \npeople were supporting and loving \n@elonmusk\n till they were able to make profit of off him and as soon as he does something that negatively affects your investment even for some time you go bonkers on him.",
+        "X_token": "elonmusk, sad, day, people, supporting, loving, elonmusk, till, able, make, profit, soon, something, negatively, affects, investment, even, time, go, bonkers",
+        "X_tweet_count": 43,
+        "X_username": "Dogecoin INDIA 🇮🇳",
+        "Y_text": "such a sad day \npeople were supporting and loving @elonmusk till they were able to make profit of off him and as soon as he does something that negatively affects your investment even for some time you go bonkers on him.\nyou people never deserved him.",
+        "Y_token": "sad, day, people, supporting, loving, elonmusk, till, able, make, profit, soon, something, negatively, affects, investment, even, time, go, bonkers, people, never, deserved",
+        "Y_tweet_count": 46,
+        "Y_username": "Dogecoin INDIA 🇮🇳",
+        "X_length": 248,
+        "Y_length": 251,
+        "Y_length_percent_of_X": 101.21,
+        "X_length_percent_of_Y": 98.8,
+        "dice_coefficient": 95.0
+    }
+]

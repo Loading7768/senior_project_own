@@ -1,0 +1,55 @@
+﻿X = [@cryptunez #dogecoin best coin]
+X_token = [cryptunez, dogecoin, best, coin]
+	X tweet_count = [13]
+	X username = [Lisa]
+Y = [@davidgokhshtein #dogecoin best coin!]
+Y_token = [davidgokhshtein, dogecoin, best, coin]
+	Y tweet_count = [76]
+	Y username = [Lisa]
+Total Length: X = 30, Y = 37 (Y / X = 123.33  X / Y = 81.08)
+Dice Coefficient: 75.00% 
+
+X = [@cryptunez #dogecoin best coin! #dogefam best fam.]
+X_token = [cryptunez, dogecoin, best, coin, dogefam, best, fam]
+	X tweet_count = [18]
+	X username = [Lisa]
+Y = [@davidgokhshtein #dogecoin best coin, #dogefam best fam!]
+Y_token = [davidgokhshtein, dogecoin, best, coin, dogefam, best, fam]
+	Y tweet_count = [74]
+	Y username = [Lisa]
+Total Length: X = 50, Y = 56 (Y / X = 112.00  X / Y = 89.29)
+Dice Coefficient: 83.33% 
+
+X = [@TikTokInvestors @dougboneparth #dogecoin best coin, #dogefam best fam.]
+X_token = [tiktokinvestors, dougboneparth, dogecoin, best, coin, dogefam, best, fam]
+	X tweet_count = [21]
+	X username = [Lisa]
+Y = [@elonmusk @heydave7 @dogecoin_devs #dogecoin best coin, #dogefam best fam! 😊❤️]
+Y_token = [elonmusk, heydave7, dogecoin, best, coin, dogefam, best, fam]
+	Y tweet_count = [96]
+	Y username = [Lisa]
+Total Length: X = 71, Y = 78 (Y / X = 109.86  X / Y = 91.03)
+Dice Coefficient: 71.43% 
+
+X = [@thetradingchick this is the way. #dogecoin]
+X_token = [thetradingchick, way, dogecoin]
+	X tweet_count = [22]
+	X username = [Lisa]
+Y = [@thetradingchick this is the way. #dogecoin]
+Y_token = [thetradingchick, way, dogecoin]
+	Y tweet_count = [23]
+	Y username = [Lisa]
+Total Length: X = 43, Y = 43 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [98]
+	X username = [Lisa]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [99]
+	Y username = [Lisa]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

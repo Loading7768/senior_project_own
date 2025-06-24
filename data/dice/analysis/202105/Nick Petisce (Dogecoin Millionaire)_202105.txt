@@ -1,0 +1,44 @@
+﻿X = [#dogecoin hit 50 cents !!!! 📈👏🏻 https://t.co/B1zeefhWUD]
+X_token = [dogecoin, hit, 50, cents, https]
+	X tweet_count = [57]
+	X username = [Nick Petisce (Dogecoin Millionaire)]
+Y = [50 cents #dogecoin 📈 https://t.co/U6KhXUwcqR]
+Y_token = [50, cents, dogecoin, https]
+	Y tweet_count = [147]
+	Y username = [Nick Petisce (Dogecoin Millionaire)]
+Total Length: X = 55, Y = 44 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 88.89% 
+
+X = [70 cents #dogecoin ‼️‼️‼️‼️ https://t.co/vEEzbttfFo]
+X_token = [70, cents, dogecoin, https]
+	X tweet_count = [80]
+	X username = [Nick Petisce (Dogecoin Millionaire)]
+Y = [50 cents #dogecoin 📈 https://t.co/U6KhXUwcqR]
+Y_token = [50, cents, dogecoin, https]
+	Y tweet_count = [147]
+	Y username = [Nick Petisce (Dogecoin Millionaire)]
+Total Length: X = 51, Y = 44 (Y / X = 86.27  X / Y = 115.91)
+Dice Coefficient: 75.00% 
+
+X = [#dogecoin facts 🤣👏🏻]
+X_token = [dogecoin, facts]
+	X tweet_count = [170]
+	X username = [Nick Petisce (Dogecoin Millionaire)]
+Y = [FACTS 👏🏻 #dogecoin]
+Y_token = [facts, dogecoin]
+	Y tweet_count = [342]
+	Y username = [Nick Petisce (Dogecoin Millionaire)]
+Total Length: X = 19, Y = 18 (Y / X = 94.74  X / Y = 105.56)
+Dice Coefficient: 100.00% 
+
+X = [#bitcoin needs to break $38,550 to break up to $40k \n\n#dogecoin to 40 cents soon ? 📈]
+X_token = [bitcoin, needs, break, break, 40k, dogecoin, 40, cents, soon]
+	X tweet_count = [470]
+	X username = [Nick Petisce (Dogecoin Millionaire)]
+Y = [#bitcoin just broke $39,000 📈 40k soon? \n\n#dogecoin to 40 cents ?? 💯]
+Y_token = [bitcoin, broke, 40k, soon, dogecoin, 40, cents]
+	Y tweet_count = [544]
+	Y username = [Nick Petisce (Dogecoin Millionaire)]
+Total Length: X = 84, Y = 68 (Y / X = 80.95  X / Y = 123.53)
+Dice Coefficient: 80.00% 
+

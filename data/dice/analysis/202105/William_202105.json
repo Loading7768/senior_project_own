@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "#Dogecoin🐶 #MarkCuban #ElonMusk #SNL @mcuban @elonmusk \n\nJust noticed Dogecoin hit \n.40cents per share. Wonder if Dogecoin spikes ⬆️ when Elon Musk appears on Saturday Night Live. https://t.co/lpBZKJAuAI",
+        "X_token": "markcuban, elonmusk, snl, mcuban, elonmusk, noticed, dogecoin, hit, per, share, wonder, dogecoin, spikes, elon, musk, appears, saturday, night, live, https",
+        "X_tweet_count": 6,
+        "X_username": "William",
+        "Y_text": "#Dogecoin🐶 #MarkCuban #ElonMusk #SNL @mcuban @elonmusk \n\nJust noticed Dogecoin back at \n.39cents per share. Wonder if Dogecoin spikes ⬆️ when Elon Musk appears on Saturday Night Live. https://t.co/bkrEwMWpaE",
+        "Y_token": "markcuban, elonmusk, snl, mcuban, elonmusk, noticed, dogecoin, back, per, share, wonder, dogecoin, spikes, elon, musk, appears, saturday, night, live, https",
+        "Y_tweet_count": 7,
+        "Y_username": "William",
+        "X_length": 203,
+        "Y_length": 207,
+        "Y_length_percent_of_X": 101.97,
+        "X_length_percent_of_Y": 98.07,
+        "dice_coefficient": 94.44
+    },
+    {
+        "X_text": "#Dogecoin🐶 has surged to \n.52cents... https://t.co/tzkspR13mm",
+        "X_token": "surged, https",
+        "X_tweet_count": 13,
+        "X_username": "William",
+        "Y_text": "Dogecoin🐶 has surged ⬆️\n to.73cents... #Dogecoin https://t.co/QOgzOjLWN8",
+        "Y_token": "surged, dogecoin, https",
+        "Y_tweet_count": 32,
+        "Y_username": "William",
+        "X_length": 61,
+        "Y_length": 72,
+        "Y_length_percent_of_X": 118.03,
+        "X_length_percent_of_Y": 84.72,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "#Dogecoin🐶 .73cents per share.\n@elonmusk #ElonMusk\nLook forward to watching on #SNL @nbcsnl tonight 👀🖥 \n\nhttps://t.co/gzZ5Pxy0U9",
+        "X_token": "per, share, elonmusk, elonmusk, look, forward, watching, snl, nbcsnl, tonight, https",
+        "X_tweet_count": 27,
+        "X_username": "William",
+        "Y_text": "#Dogecoin🐶 .73cents per share.\n@elonmusk #ElonMusk\nLook forward to watching on #SNL @nbcsnl tonight 👀🖥 \nDogecoin ⬆️ $1? https://t.co/ytwabd1BDc",
+        "Y_token": "per, share, elonmusk, elonmusk, look, forward, watching, snl, nbcsnl, tonight, dogecoin, 1, https",
+        "Y_tweet_count": 29,
+        "Y_username": "William",
+        "X_length": 128,
+        "Y_length": 143,
+        "Y_length_percent_of_X": 111.72,
+        "X_length_percent_of_Y": 89.51,
+        "dice_coefficient": 90.91
+    }
+]

@@ -1,0 +1,33 @@
+﻿X = [@elonmusk @elonmusk Which is you favorite #dogecoin meme ?]
+X_token = [elonmusk, elonmusk, favorite, dogecoin, meme]
+	X tweet_count = [1]
+	X username = [San K]
+Y = [@BillyM2k @BillyM2k which is your favorite #dogecoin meme ?]
+Y_token = [billym2k, billym2k, favorite, dogecoin, meme]
+	Y tweet_count = [5]
+	Y username = [San K]
+Total Length: X = 58, Y = 59 (Y / X = 101.72  X / Y = 98.31)
+Dice Coefficient: 75.00% 
+
+X = [#Eloninthechat There are 10500+ people in this live stream right now 😀 #dogecoin #dogearmy #DogeCoinTo1Dollar #doge4amazon #Dogefather https://t.co/MSc7rpjk84]
+X_token = [eloninthechat, people, live, stream, right, dogecoin, dogearmy, dogecointo1dollar, doge4amazon, dogefather, https]
+	X tweet_count = [43]
+	X username = [San K]
+Y = [#ElonintheChat how long is this live stream ? #dogecoin #dogearmy #DogeCoinTo1Dollar #DogecoinToTheMoon #DogeChat #Dogefather https://t.co/MSc7rpjk84]
+Y_token = [eloninthechat, long, live, stream, dogecoin, dogearmy, dogecointo1dollar, dogecointothemoon, dogechat, dogefather, https]
+	Y tweet_count = [48]
+	Y username = [San K]
+Total Length: X = 158, Y = 149 (Y / X = 94.30  X / Y = 106.04)
+Dice Coefficient: 72.73% 
+
+X = [#Eloninthechat this is a great community ! #dogecoin #dogearmy #DogeCoinTo1Dollar #DogecoinToTheMoon #Dogefather https://t.co/MSc7rpjk84]
+X_token = [eloninthechat, great, community, dogecoin, dogearmy, dogecointo1dollar, dogecointothemoon, dogefather, https]
+	X tweet_count = [44]
+	X username = [San K]
+Y = [#ElonintheChat how long is this live stream ? #dogecoin #dogearmy #DogeCoinTo1Dollar #DogecoinToTheMoon #DogeChat #Dogefather https://t.co/MSc7rpjk84]
+Y_token = [eloninthechat, long, live, stream, dogecoin, dogearmy, dogecointo1dollar, dogecointothemoon, dogechat, dogefather, https]
+	Y tweet_count = [48]
+	Y username = [San K]
+Total Length: X = 136, Y = 149 (Y / X = 109.56  X / Y = 91.28)
+Dice Coefficient: 70.00% 
+

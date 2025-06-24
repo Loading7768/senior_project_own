@@ -1,0 +1,44 @@
+﻿X = [#jackinthebox plus #dogecoin much wow. To the moooooooooooon]
+X_token = [jackinthebox, plus, dogecoin, much, wow, moooooooooooon]
+	X tweet_count = [5]
+	X username = [henher]
+Y = [#eToro plus #dogecoin much wow!!!!!\nTo the moooooooooooon]
+Y_token = [etoro, plus, dogecoin, much, wow, moooooooooooon]
+	Y tweet_count = [10]
+	Y username = [henher]
+Total Length: X = 60, Y = 57 (Y / X = 95.00  X / Y = 105.26)
+Dice Coefficient: 83.33% 
+
+X = [#jackinthebox plus #dogecoin much wow. To the moooooooooooon]
+X_token = [jackinthebox, plus, dogecoin, much, wow, moooooooooooon]
+	X tweet_count = [5]
+	X username = [henher]
+Y = [#Tmobile plus #dogecoin much wow!!!!!!! To the moooooooooooon]
+Y_token = [tmobile, plus, dogecoin, much, wow, moooooooooooon]
+	Y tweet_count = [12]
+	Y username = [henher]
+Total Length: X = 60, Y = 61 (Y / X = 101.67  X / Y = 98.36)
+Dice Coefficient: 83.33% 
+
+X = [#Coinbase plus #dogecoin  much wow???!!!!!!!!!!     To the moooooooooooon!!!!!!!!!!!!]
+X_token = [coinbase, plus, dogecoin, much, wow, moooooooooooon]
+	X tweet_count = [9]
+	X username = [henher]
+Y = [@SNICKERS @TrippIvey #SNICKERS plus #dogecoin to the moooooooooooon!!!!! MUCH WOW 🤩]
+Y_token = [snickers, trippivey, snickers, plus, dogecoin, moooooooooooon, much, wow]
+	Y tweet_count = [21]
+	Y username = [henher]
+Total Length: X = 85, Y = 83 (Y / X = 97.65  X / Y = 102.41)
+Dice Coefficient: 76.92% 
+
+X = [#eToro plus #dogecoin much wow!!!!!\nTo the moooooooooooon]
+X_token = [etoro, plus, dogecoin, much, wow, moooooooooooon]
+	X tweet_count = [10]
+	X username = [henher]
+Y = [#Tmobile plus #dogecoin much wow!!!!!!! To the moooooooooooon]
+Y_token = [tmobile, plus, dogecoin, much, wow, moooooooooooon]
+	Y tweet_count = [12]
+	Y username = [henher]
+Total Length: X = 57, Y = 61 (Y / X = 107.02  X / Y = 93.44)
+Dice Coefficient: 83.33% 
+

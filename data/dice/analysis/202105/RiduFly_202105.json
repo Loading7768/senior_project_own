@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "$doge I am buying every dip",
+        "X_token": "doge, buying, every, dip",
+        "X_tweet_count": 4,
+        "X_username": "RiduFly",
+        "Y_text": "Who is buying the $doge dip?",
+        "Y_token": "buying, doge, dip",
+        "Y_tweet_count": 7,
+        "Y_username": "RiduFly",
+        "X_length": 27,
+        "Y_length": 28,
+        "Y_length_percent_of_X": 103.7,
+        "X_length_percent_of_Y": 96.43,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "$doge I am buying every dip",
+        "X_token": "doge, buying, every, dip",
+        "X_tweet_count": 4,
+        "X_username": "RiduFly",
+        "Y_text": "Every dip is an opportunity $doge",
+        "Y_token": "every, dip, opportunity, doge",
+        "Y_tweet_count": 39,
+        "Y_username": "RiduFly",
+        "X_length": 27,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 122.22,
+        "X_length_percent_of_Y": 81.82,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@elonmusk $doge then",
+        "X_token": "elonmusk, doge",
+        "X_tweet_count": 20,
+        "X_username": "RiduFly",
+        "Y_text": "@elonmusk 🚀 $doge",
+        "Y_token": "elonmusk, doge",
+        "Y_tweet_count": 32,
+        "Y_username": "RiduFly",
+        "X_length": 20,
+        "Y_length": 17,
+        "Y_length_percent_of_X": 85.0,
+        "X_length_percent_of_Y": 117.65,
+        "dice_coefficient": 100.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Out of $Doge &amp; hopped into $Froge",
+        "X_token": "doge, amp, hopped, froge",
+        "X_tweet_count": 3,
+        "X_username": "Huwi",
+        "Y_text": "Sold $DOGE Hopped into $FROGE 🤣🥴🥴🥴",
+        "Y_token": "sold, doge, hopped, froge",
+        "Y_tweet_count": 6,
+        "Y_username": "Huwi",
+        "X_length": 37,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 91.89,
+        "X_length_percent_of_Y": 108.82,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Out of $DOGE into $FROGE!! 💎😋💎🛴",
+        "X_token": "doge, froge",
+        "X_tweet_count": 7,
+        "X_username": "Huwi",
+        "Y_text": "Out of $DOGE Into $FROGE 💎🤲🏽🎩🎩🎩",
+        "Y_token": "doge, froge",
+        "Y_tweet_count": 8,
+        "Y_username": "Huwi",
+        "X_length": 31,
+        "Y_length": 31,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

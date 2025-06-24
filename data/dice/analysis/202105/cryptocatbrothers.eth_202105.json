@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Let‘s gooo #DogecoinToTheMoon \n50 Cent is coming #dogecoin https://t.co/kAJkD6rK7f",
+        "X_token": "let, gooo, dogecointothemoon, 50, cent, coming, dogecoin, https",
+        "X_tweet_count": 5,
+        "X_username": "cryptocatbrothers.eth",
+        "Y_text": "Let‘s gooo #dogecoin 🚀 #DogecoinToTheMoon #dog https://t.co/3ePzt0CpnO",
+        "Y_token": "let, gooo, dogecoin, dogecointothemoon, dog, https",
+        "Y_tweet_count": 10,
+        "Y_username": "cryptocatbrothers.eth",
+        "X_length": 82,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 85.37,
+        "X_length_percent_of_Y": 117.14,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "So what you gonna say about this facts?! #DogeCoin #DOGE #DogecoinToTheMoon https://t.co/N6XKIgiXfQ",
+        "X_token": "gon, na, say, facts, dogecoin, doge, dogecointothemoon, https",
+        "X_tweet_count": 11,
+        "X_username": "cryptocatbrothers.eth",
+        "Y_text": "This is all what I can say even at 1$ not gonna sell #dogecoin #DogecoinToTheMoon #Dogefather #doge https://t.co/lyMXtcF3sa",
+        "Y_token": "say, even, 1, gon, na, sell, dogecoin, dogecointothemoon, dogefather, doge, https",
+        "Y_tweet_count": 15,
+        "Y_username": "cryptocatbrothers.eth",
+        "X_length": 99,
+        "Y_length": 123,
+        "Y_length_percent_of_X": 124.24,
+        "X_length_percent_of_Y": 80.49,
+        "dice_coefficient": 73.68
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "LETS RISE. #dogecoin https://t.co/MzRtPGFmKg",
+        "X_token": "lets, rise, dogecoin, https",
+        "X_tweet_count": 5,
+        "X_username": "THC",
+        "Y_text": "Let’s Rise. #DogeCoin https://t.co/74TTWV3I3n",
+        "Y_token": "let, rise, dogecoin, https",
+        "Y_tweet_count": 15,
+        "Y_username": "THC",
+        "X_length": 44,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 102.27,
+        "X_length_percent_of_Y": 97.78,
+        "dice_coefficient": 75.0
+    }
+]

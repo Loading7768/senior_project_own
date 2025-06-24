@@ -1,0 +1,22 @@
+﻿X = [Doge hitting 1 Dollar\n@elonmusk https://t.co/hJMfqxvTjV]
+X_token = [doge, hitting, 1, dollar, elonmusk, https]
+	X tweet_count = [1]
+	X username = [CYBERVIKING]
+Y = [Doge hitting 1 Dollar https://t.co/jy6ZJljMaw]
+Y_token = [doge, hitting, 1, dollar, https]
+	Y tweet_count = [2]
+	Y username = [CYBERVIKING]
+Total Length: X = 55, Y = 45 (Y / X = 81.82  X / Y = 122.22)
+Dice Coefficient: 90.91% 
+
+X = [@elonmusk  YOU ARE MY HERO LORD ELON DOGEFATHER #DOGE\n#Doge4Tesla #dogetothemoon #dogearmy]
+X_token = [elonmusk, hero, lord, elon, dogefather, doge, doge4tesla, dogetothemoon, dogearmy]
+	X tweet_count = [5]
+	X username = [CYBERVIKING]
+Y = [@elonmusk YOU ARE MY HERO LORD ELON DOGEFATHER #DOGE\n#Doge4Tesla #dogetothemoon #dogearmy]
+Y_token = [elonmusk, hero, lord, elon, dogefather, doge, doge4tesla, dogetothemoon, dogearmy]
+	Y tweet_count = [6]
+	Y username = [CYBERVIKING]
+Total Length: X = 90, Y = 89 (Y / X = 98.89  X / Y = 101.12)
+Dice Coefficient: 100.00% 
+

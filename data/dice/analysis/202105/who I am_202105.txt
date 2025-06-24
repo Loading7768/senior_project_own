@@ -1,0 +1,33 @@
+﻿X = [The current price of one DOGE is now: $0.5439!\n\nOne MDOGE is worth $543,933.4595.\n\nTotal volume in last 24H: $23,160,272,947.\n\nCurrent CoinMarketCap Rank: #4\n\n$DOGE #DOGECOIN]
+X_token = [current, price, one, doge, one, mdoge, worth, total, volume, last, 24h, current, coinmarketcap, rank, 4, doge, dogecoin]
+	X tweet_count = [19]
+	X username = [who I am]
+Y = [The current price of one DOGE is now: $0.6252! One MDOGE is worth $625,248.2851. Total volume in last 24H: $41,171,885,624. Current CoinMarketCap Rank: #4 $DOGE #DOGECOIN]
+Y_token = [current, price, one, doge, one, mdoge, worth, total, volume, last, 24h, current, coinmarketcap, rank, 4, doge, dogecoin]
+	Y tweet_count = [27]
+	Y username = [who I am]
+Total Length: X = 174, Y = 170 (Y / X = 97.70  X / Y = 102.35)
+Dice Coefficient: 100.00% 
+
+X = [The current price of one DOGE is now: $0.5439!\n\nOne MDOGE is worth $543,933.4595.\n\nTotal volume in last 24H: $23,160,272,947.\n\nCurrent CoinMarketCap Rank: #4\n\n$DOGE #DOGECOIN]
+X_token = [current, price, one, doge, one, mdoge, worth, total, volume, last, 24h, current, coinmarketcap, rank, 4, doge, dogecoin]
+	X tweet_count = [19]
+	X username = [who I am]
+Y = [The current price of one DOGE is now: $0.4833! One MDOGE is worth $483,281.7823. Total volume in last 24H: $21,285,560,975. Current CoinMarketCap Rank: #4 $DOGE #DOGECOIN]
+Y_token = [current, price, one, doge, one, mdoge, worth, total, volume, last, 24h, current, coinmarketcap, rank, 4, doge, dogecoin]
+	Y tweet_count = [78]
+	Y username = [who I am]
+Total Length: X = 174, Y = 170 (Y / X = 97.70  X / Y = 102.35)
+Dice Coefficient: 100.00% 
+
+X = [The current price of one DOGE is now: $0.6252! One MDOGE is worth $625,248.2851. Total volume in last 24H: $41,171,885,624. Current CoinMarketCap Rank: #4 $DOGE #DOGECOIN]
+X_token = [current, price, one, doge, one, mdoge, worth, total, volume, last, 24h, current, coinmarketcap, rank, 4, doge, dogecoin]
+	X tweet_count = [27]
+	X username = [who I am]
+Y = [The current price of one DOGE is now: $0.4833! One MDOGE is worth $483,281.7823. Total volume in last 24H: $21,285,560,975. Current CoinMarketCap Rank: #4 $DOGE #DOGECOIN]
+Y_token = [current, price, one, doge, one, mdoge, worth, total, volume, last, 24h, current, coinmarketcap, rank, 4, doge, dogecoin]
+	Y tweet_count = [78]
+	Y username = [who I am]
+Total Length: X = 170, Y = 170 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

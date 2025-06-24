@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@elonmusk @AstroJordy @Tesla Can we buy it with #doge #dogecoin",
+        "X_token": "elonmusk, astrojordy, tesla, buy, doge, dogecoin",
+        "X_tweet_count": 45,
+        "X_username": "Oxzark.eth",
+        "Y_text": "@elonmusk @teslaownersSV Can I buy it with #dogecoin #doge",
+        "Y_token": "elonmusk, teslaownerssv, buy, dogecoin, doge",
+        "Y_tweet_count": 46,
+        "Y_username": "Oxzark.eth",
+        "X_length": 63,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 92.06,
+        "X_length_percent_of_Y": 108.62,
+        "dice_coefficient": 72.73
+    }
+]

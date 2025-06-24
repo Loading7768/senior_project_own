@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@dogecoin_rise STUPID",
+        "X_token": "stupid",
+        "X_tweet_count": 5,
+        "X_username": "Billionaire Dreams",
+        "Y_text": "@dogecoin_rise STUPID",
+        "Y_token": "stupid",
+        "Y_tweet_count": 9,
+        "Y_username": "Billionaire Dreams",
+        "X_length": 21,
+        "Y_length": 21,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Tip during the dip #dogecoin https://t.co/KdvhuiqyyT",
+        "X_token": "tip, dip, dogecoin, https",
+        "X_tweet_count": 11,
+        "X_username": "Billionaire Dreams",
+        "Y_text": "@dogecoin_rise When it dip i Tip https://t.co/Chh7D2b9Qw",
+        "Y_token": "dip, tip, https",
+        "Y_tweet_count": 12,
+        "Y_username": "Billionaire Dreams",
+        "X_length": 52,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 107.69,
+        "X_length_percent_of_Y": 92.86,
+        "dice_coefficient": 85.71
+    }
+]

@@ -1,0 +1,44 @@
+﻿X = [@JeffBezos When Dogecoin as payment for Amazon ?]
+X_token = [jeffbezos, dogecoin, payment, amazon]
+	X tweet_count = [3]
+	X username = [Marius Leonte]
+Y = [@JeffBezos @lizzo Dogecoin as payment for Amazon .]
+Y_token = [jeffbezos, lizzo, dogecoin, payment, amazon]
+	Y tweet_count = [5]
+	Y username = [Marius Leonte]
+Total Length: X = 48, Y = 50 (Y / X = 104.17  X / Y = 96.00)
+Dice Coefficient: 88.89% 
+
+X = [@JeffBezos When Dogecoin as payment for Amazon ?]
+X_token = [jeffbezos, dogecoin, payment, amazon]
+	X tweet_count = [3]
+	X username = [Marius Leonte]
+Y = [@JeffBezos @EmmanuelMacron Dogecoin as payment for Amazon ?]
+Y_token = [jeffbezos, emmanuelmacron, dogecoin, payment, amazon]
+	Y tweet_count = [6]
+	Y username = [Marius Leonte]
+Total Length: X = 48, Y = 59 (Y / X = 122.92  X / Y = 81.36)
+Dice Coefficient: 88.89% 
+
+X = [@JeffBezos @TheEllenShow @portiaderossi Dogecoin as payment for Amazon?]
+X_token = [jeffbezos, theellenshow, portiaderossi, dogecoin, payment, amazon]
+	X tweet_count = [4]
+	X username = [Marius Leonte]
+Y = [@JeffBezos @EmmanuelMacron Dogecoin as payment for Amazon ?]
+Y_token = [jeffbezos, emmanuelmacron, dogecoin, payment, amazon]
+	Y tweet_count = [6]
+	Y username = [Marius Leonte]
+Total Length: X = 71, Y = 59 (Y / X = 83.10  X / Y = 120.34)
+Dice Coefficient: 72.73% 
+
+X = [@JeffBezos @lizzo Dogecoin as payment for Amazon .]
+X_token = [jeffbezos, lizzo, dogecoin, payment, amazon]
+	X tweet_count = [5]
+	X username = [Marius Leonte]
+Y = [@JeffBezos @EmmanuelMacron Dogecoin as payment for Amazon ?]
+Y_token = [jeffbezos, emmanuelmacron, dogecoin, payment, amazon]
+	Y tweet_count = [6]
+	Y username = [Marius Leonte]
+Total Length: X = 50, Y = 59 (Y / X = 118.00  X / Y = 84.75)
+Dice Coefficient: 80.00% 
+

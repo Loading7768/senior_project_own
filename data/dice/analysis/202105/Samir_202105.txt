@@ -1,0 +1,11 @@
+﻿X = [@elonmusk When will Tesla start doing Dogecoin @Tesla\n@elonmusk]
+X_token = [elonmusk, tesla, start, dogecoin, tesla, elonmusk]
+	X tweet_count = [21]
+	X username = [Samir]
+Y = [@elonmusk When will Tesla accept Dogecoin?\n@Tesla \n@elonmusk]
+Y_token = [elonmusk, tesla, accept, dogecoin, tesla, elonmusk]
+	Y tweet_count = [23]
+	Y username = [Samir]
+Total Length: X = 63, Y = 60 (Y / X = 95.24  X / Y = 105.00)
+Dice Coefficient: 75.00% 
+

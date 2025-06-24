@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "This is certainly going to be a great and futuristic project, play a part in it\n@Akunanwata2 \n@Mercy39056298 \n$SHIB $AKITA $DOGE",
+        "X_token": "certainly, going, great, futuristic, project, play, part, akunanwata2, mercy39056298, shib, akita, doge",
+        "X_tweet_count": 60,
+        "X_username": "Joel",
+        "Y_text": "@SolAkitaFinance This is certainly going to be a great and futuristic project, play a part in it\n@Akunanwata2 \n@Mercy39056298 \n$SHIB $AKITA $DOGE",
+        "Y_token": "solakitafinance, certainly, going, great, futuristic, project, play, part, akunanwata2, mercy39056298, shib, akita, doge",
+        "Y_tweet_count": 61,
+        "Y_username": "Joel",
+        "X_length": 128,
+        "Y_length": 145,
+        "Y_length_percent_of_X": 113.28,
+        "X_length_percent_of_Y": 88.28,
+        "dice_coefficient": 96.0
+    },
+    {
+        "X_text": "This is really huge\n@KoroushAK \n@Akunanwata2 \n@VitalikButerin \n\n$Potato https://t.co/VmhcK0QlwZ  \n$sol $srm $potato $shib $doge $meme #memecoin",
+        "X_token": "really, huge, koroushak, akunanwata2, vitalikbuterin, potato, https, sol, srm, potato, shib, doge, meme, memecoin",
+        "X_tweet_count": 70,
+        "X_username": "Joel",
+        "Y_text": "@PotatoCoinSPL This is really huge\n@KoroushAK \n@Akunanwata2 \n@VitalikButerin \n\n$Potato https://t.co/VmhcK0QlwZ  \n$sol $srm $potato $shib $doge $meme #memecoin",
+        "Y_token": "potatocoinspl, really, huge, koroushak, akunanwata2, vitalikbuterin, potato, https, sol, srm, potato, shib, doge, meme, memecoin",
+        "Y_tweet_count": 71,
+        "Y_username": "Joel",
+        "X_length": 143,
+        "Y_length": 158,
+        "Y_length_percent_of_X": 110.49,
+        "X_length_percent_of_Y": 90.51,
+        "dice_coefficient": 96.3
+    }
+]

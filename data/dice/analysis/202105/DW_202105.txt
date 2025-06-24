@@ -1,0 +1,11 @@
+﻿X = [@davidgokhshtein $VET is open for sick $DOGE]
+X_token = [davidgokhshtein, vet, open, sick, doge]
+	X tweet_count = [14]
+	X username = [DW]
+Y = [$VET is open for sick $DOGE \n\n#SNLdoge]
+Y_token = [vet, open, sick, doge, snldoge]
+	Y tweet_count = [15]
+	Y username = [DW]
+Total Length: X = 44, Y = 38 (Y / X = 86.36  X / Y = 115.79)
+Dice Coefficient: 80.00% 
+

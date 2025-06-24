@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@BarrySilbert\n\n I'm like a spring, the harder you push down, the higher i go.\n\n#Dogecoin",
+        "X_token": "barrysilbert, like, spring, harder, push, higher, go, dogecoin",
+        "X_tweet_count": 18,
+        "X_username": "be jones",
+        "Y_text": "I'm like a spring. The harder you push down the higher i go.\n\n#Dogecoin",
+        "Y_token": "like, spring, harder, push, higher, go, dogecoin",
+        "Y_tweet_count": 19,
+        "Y_username": "be jones",
+        "X_length": 88,
+        "Y_length": 71,
+        "Y_length_percent_of_X": 80.68,
+        "X_length_percent_of_Y": 123.94,
+        "dice_coefficient": 93.33
+    }
+]

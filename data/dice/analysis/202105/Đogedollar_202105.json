@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@tacobell\n it'd be easier to decide if I were able to pay for them with #dogecoin. You're not going to let @kfc_canada\n be cooler than you--are you?",
+        "X_token": "tacobell, easier, decide, able, pay, dogecoin, going, let, cooler",
+        "X_tweet_count": 38,
+        "X_username": "Đogedollar",
+        "Y_text": "@tacobell @tacobell it'd be easier to decide if I were able to pay for them with #dogecoin. You're not going to let @kfc_canada be cooler than you--are you?",
+        "Y_token": "tacobell, tacobell, easier, decide, able, pay, dogecoin, going, let, cooler",
+        "Y_tweet_count": 39,
+        "Y_username": "Đogedollar",
+        "X_length": 148,
+        "Y_length": 156,
+        "Y_length_percent_of_X": 105.41,
+        "X_length_percent_of_Y": 94.87,
+        "dice_coefficient": 100.0
+    }
+]

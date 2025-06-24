@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@ilacewords @KDOfficialMusic @cryptocom @dogecoin @Shibtoken I've been waiting 3 days!",
+        "X_token": "ilacewords, kdofficialmusic, cryptocom, dogecoin, shibtoken, waiting, 3, days",
+        "X_tweet_count": 15,
+        "X_username": "Tracey 💖",
+        "Y_text": "@RachelGavin144 @KDOfficialMusic @cryptocom @dogecoin @Shibtoken Still haven't gotten them 3 days now.",
+        "Y_token": "rachelgavin144, kdofficialmusic, cryptocom, dogecoin, shibtoken, still, gotten, 3, days",
+        "Y_tweet_count": 26,
+        "Y_username": "Tracey 💖",
+        "X_length": 86,
+        "Y_length": 102,
+        "Y_length_percent_of_X": 118.6,
+        "X_length_percent_of_Y": 84.31,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "@ilacewords @KDOfficialMusic @cryptocom @dogecoin @Shibtoken I've been waiting 3 days!",
+        "X_token": "ilacewords, kdofficialmusic, cryptocom, dogecoin, shibtoken, waiting, 3, days",
+        "X_tweet_count": 15,
+        "X_username": "Tracey 💖",
+        "Y_text": "@lazzlow @DOGEArmynews @cryptocom @dogecoin @Shibtoken It's been 3 days waiting for me 🙄",
+        "Y_token": "lazzlow, dogearmynews, cryptocom, dogecoin, shibtoken, 3, days, waiting",
+        "Y_tweet_count": 27,
+        "Y_username": "Tracey 💖",
+        "X_length": 86,
+        "Y_length": 88,
+        "Y_length_percent_of_X": 102.33,
+        "X_length_percent_of_Y": 97.73,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@BTCsatman @ilacewords @cryptocom @dogecoin @Shibtoken Yikes🤬",
+        "X_token": "btcsatman, ilacewords, cryptocom, dogecoin, shibtoken",
+        "X_tweet_count": 29,
+        "X_username": "Tracey 💖",
+        "Y_text": "@BTCsatman @ilacewords @cryptocom @dogecoin @Shibtoken Wow I'm sorry 🥺",
+        "Y_token": "btcsatman, ilacewords, cryptocom, dogecoin, shibtoken, wow, sorry",
+        "Y_tweet_count": 30,
+        "Y_username": "Tracey 💖",
+        "X_length": 61,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 114.75,
+        "X_length_percent_of_Y": 87.14,
+        "dice_coefficient": 83.33
+    }
+]

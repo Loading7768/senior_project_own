@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@dogecoin_rise Great day to be loading up! Rome wasn’t built overnight! Buy red days and HODL for your retirement!!! 🚀🌕",
+        "X_token": "great, day, loading, rome, built, overnight, buy, red, days, hodl, retirement",
+        "X_tweet_count": 6,
+        "X_username": "BM",
+        "Y_text": "@Courtneyxsum @dogecoin_rise Buy on red days! Great opportunity to load up! Rome wasn’t built overnight! HODL for your retirement! 🚀🌕",
+        "Y_token": "courtneyxsum, buy, red, days, great, opportunity, load, rome, built, overnight, hodl, retirement",
+        "Y_tweet_count": 8,
+        "Y_username": "BM",
+        "X_length": 119,
+        "Y_length": 133,
+        "Y_length_percent_of_X": 111.76,
+        "X_length_percent_of_Y": 89.47,
+        "dice_coefficient": 78.26
+    },
+    {
+        "X_text": "@Courtneyxsum @dogecoin_rise Buy on red days! Great opportunity to load up! Rome wasn’t built overnight! HODL for your retirement! 🚀🌕",
+        "X_token": "courtneyxsum, buy, red, days, great, opportunity, load, rome, built, overnight, hodl, retirement",
+        "X_tweet_count": 8,
+        "X_username": "BM",
+        "Y_text": "@poodleturd @Courtneyxsum @dogecoin_rise Me too!!! Great opportunity to load up!!! Buy on red days! HODL for your retirement! Rome wasn’t built over night! 🚀🌕",
+        "Y_token": "poodleturd, courtneyxsum, great, opportunity, load, buy, red, days, hodl, retirement, rome, built, night",
+        "Y_tweet_count": 9,
+        "Y_username": "BM",
+        "X_length": 133,
+        "Y_length": 158,
+        "Y_length_percent_of_X": 118.8,
+        "X_length_percent_of_Y": 84.18,
+        "dice_coefficient": 88.0
+    }
+]

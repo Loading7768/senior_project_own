@@ -1,0 +1,33 @@
+﻿X = [@WSBChairman #dogecoin baby.]
+X_token = [wsbchairman, dogecoin, baby]
+	X tweet_count = [14]
+	X username = [bjesoccer]
+Y = [@WSBChairman #dogecoin baby.]
+Y_token = [wsbchairman, dogecoin, baby]
+	Y tweet_count = [35]
+	Y username = [bjesoccer]
+Total Length: X = 28, Y = 28 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@budweiserusa #dogecoin baby. Let's go.]
+X_token = [budweiserusa, dogecoin, baby, let, go]
+	X tweet_count = [17]
+	X username = [bjesoccer]
+Y = [@BigBoi #dogecoin baby. Let's go.]
+Y_token = [bigboi, dogecoin, baby, let, go]
+	Y tweet_count = [19]
+	Y username = [bjesoccer]
+Total Length: X = 39, Y = 33 (Y / X = 84.62  X / Y = 118.18)
+Dice Coefficient: 80.00% 
+
+X = [@PeterMcCormack @elonmusk Dogecoin!]
+X_token = [petermccormack, elonmusk, dogecoin]
+	X tweet_count = [33]
+	X username = [bjesoccer]
+Y = [@elonmusk @PeterMcCormack Dogecoin!]
+Y_token = [elonmusk, petermccormack, dogecoin]
+	Y tweet_count = [34]
+	Y username = [bjesoccer]
+Total Length: X = 35, Y = 35 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

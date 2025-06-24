@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "May 14: \nNYTimes talked with a Doge millionaire who's not selling;\nCNBC shined a light on Elon's tweet;\nFox Business focused on Coinbase listing $DOGE; \nReuters \"Musk tweets, dogecoin leaps\";\nForbes said Elon is working with @dogecoin_devs.",
+        "X_token": "may, 14, nytimes, talked, doge, millionaire, selling, cnbc, shined, light, elon, tweet, fox, business, focused, coinbase, listing, doge, reuters, musk, tweets, dogecoin, leaps, forbes, said, elon, working",
+        "X_tweet_count": 2,
+        "X_username": "Invvestor 💰 APE",
+        "Y_text": "{May 14} \nNYTimes: Meet the Doge millionaire who's not selling;\nCNBC shined a light on Elon's tweet;\nFox Business: Coinbase listing $DOGE; \nReuters: \"Musk tweets, dogecoin leaps\";\nForbes: Elon is working with @dogecoin_devs \nMentions: Cnet, Yahoo, WSJ, Fortune",
+        "Y_token": "may, 14, nytimes, meet, doge, millionaire, selling, cnbc, shined, light, elon, tweet, fox, business, coinbase, listing, doge, reuters, musk, tweets, dogecoin, leaps, forbes, elon, working, mentions, cnet, yahoo, wsj, fortune",
+        "Y_tweet_count": 6,
+        "Y_username": "Invvestor 💰 APE",
+        "X_length": 240,
+        "Y_length": 260,
+        "Y_length_percent_of_X": 108.33,
+        "X_length_percent_of_Y": 92.31,
+        "dice_coefficient": 83.02
+    },
+    {
+        "X_text": "{May 15}\nNYT: \"The Assorted Teachings of Dogecoin\";\nBenzinga: \"meet the Doge Millionaire who's holding\";\nYahoo: A man who sold land for DOGE;\nForbes: Coinbase listing;\nMentions: Business Insider, The Independent, Cnet, Fox Business, Hypebeast, NME",
+        "X_token": "may, 15, nyt, assorted, teachings, dogecoin, benzinga, meet, doge, millionaire, holding, yahoo, man, sold, land, doge, forbes, coinbase, listing, mentions, business, insider, independent, cnet, fox, business, hypebeast, nme",
+        "X_tweet_count": 5,
+        "X_username": "Invvestor 💰 APE",
+        "Y_text": "May 15:\nNYT on \"The Assorted Teachings of Dogecoin\";\nBenzinga \"meet the Doge Millionaire who's holding\";\nYahoo told a story of a man who sold land for DOGE;\nForbes covered @coinbase listing;\nMentions: Business Insider, The Independent, Cnet, Fox Business, Hypebeast, NME #Dogearmy",
+        "Y_token": "may, 15, nyt, assorted, teachings, dogecoin, benzinga, meet, doge, millionaire, holding, yahoo, told, story, man, sold, land, doge, forbes, covered, coinbase, listing, mentions, business, insider, independent, cnet, fox, business, hypebeast, nme, dogearmy",
+        "Y_tweet_count": 14,
+        "Y_username": "Invvestor 💰 APE",
+        "X_length": 247,
+        "Y_length": 280,
+        "Y_length_percent_of_X": 113.36,
+        "X_length_percent_of_Y": 88.21,
+        "dice_coefficient": 92.86
+    }
+]

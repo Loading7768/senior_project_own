@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@BillyM2k Like this and dogecoin will hit $5 by July https://t.co/kwI2gwTMTV https://t.co/Z88NydTPFx",
+        "X_token": "billym2k, like, dogecoin, hit, 5, july, https, https",
+        "X_tweet_count": 36,
+        "X_username": "Joel’s Crypto Trade Signals",
+        "Y_text": "@MattWallace888 Like this and dogecoin will hit $5 by late July https://t.co/kwI2gwTMTV https://t.co/VnGUhuf6XB",
+        "Y_token": "mattwallace888, like, dogecoin, hit, 5, late, july, https, https",
+        "Y_tweet_count": 51,
+        "Y_username": "Joel’s Crypto Trade Signals",
+        "X_length": 100,
+        "Y_length": 111,
+        "Y_length_percent_of_X": 111.0,
+        "X_length_percent_of_Y": 90.09,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@ProTheDoge Like this and you’ll be a dogecoin millionaire soon https://t.co/gAOHUZy6gI https://t.co/qyHqTLhxj6",
+        "X_token": "prothedoge, like, dogecoin, millionaire, soon, https, https",
+        "X_tweet_count": 38,
+        "X_username": "Joel’s Crypto Trade Signals",
+        "Y_text": "@CoinDoge_ @dogecoin_rise Like this and you’ll become a dogecoin millionaire 🔥 🔥 🔥 https://t.co/gAOHUZy6gI https://t.co/StdrM0qMMy",
+        "Y_token": "like, become, dogecoin, millionaire, https, https",
+        "Y_tweet_count": 39,
+        "Y_username": "Joel’s Crypto Trade Signals",
+        "X_length": 111,
+        "Y_length": 130,
+        "Y_length_percent_of_X": 117.12,
+        "X_length_percent_of_Y": 85.38,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@ProTheDoge @MattWallace888 Like this and dogecoin will hit $5 by the end of July https://t.co/gAOHUZy6gI https://t.co/MnNWbRhXAK",
+        "X_token": "prothedoge, mattwallace888, like, dogecoin, hit, 5, end, july, https, https",
+        "X_tweet_count": 45,
+        "X_username": "Joel’s Crypto Trade Signals",
+        "Y_text": "@MattWallace888 Like this and dogecoin will hit $5 by late July https://t.co/kwI2gwTMTV https://t.co/VnGUhuf6XB",
+        "Y_token": "mattwallace888, like, dogecoin, hit, 5, late, july, https, https",
+        "Y_tweet_count": 51,
+        "Y_username": "Joel’s Crypto Trade Signals",
+        "X_length": 129,
+        "Y_length": 111,
+        "Y_length_percent_of_X": 86.05,
+        "X_length_percent_of_Y": 116.22,
+        "dice_coefficient": 82.35
+    },
+    {
+        "X_text": "@ItsDogeCoin Like this and you will have a dream about Dogecoin tonight https://t.co/gAOHUZy6gI https://t.co/zobh3wbJDO",
+        "X_token": "itsdogecoin, like, dream, dogecoin, tonight, https, https",
+        "X_tweet_count": 46,
+        "X_username": "Joel’s Crypto Trade Signals",
+        "Y_text": "@itsALLrisky Like this and you’ll dream about dogecoin https://t.co/gAOHUZy6gI https://t.co/IJ6uHrWi2a",
+        "Y_token": "itsallrisky, like, dream, dogecoin, https, https",
+        "Y_tweet_count": 47,
+        "Y_username": "Joel’s Crypto Trade Signals",
+        "X_length": 119,
+        "Y_length": 102,
+        "Y_length_percent_of_X": 85.71,
+        "X_length_percent_of_Y": 116.67,
+        "dice_coefficient": 72.73
+    }
+]

@@ -1,0 +1,11 @@
+﻿X = [@FlexaHQ Does your heart ever just go:\n\n         ♡   ♡        ♡   ♡\n      ♡            ♡             ♡ \n       ♡   #DogeCoin   ♡\n           ♡                  ♡        \n                ♡        ♡ \n                      ♡]
+X_token = [flexahq, heart, ever, go, dogecoin]
+	X tweet_count = [49]
+	X username = [Shadowburn]
+Y = [Does your heart ever just go:\n\n         ♡   ♡        ♡   ♡\n      ♡            ♡             ♡ \n       ♡   #DogeCoin   ♡\n           ♡                  ♡        \n                ♡        ♡ \n                      ♡ https://t.co/OAlHzcyVHv]
+Y_token = [heart, ever, go, dogecoin, https]
+	Y tweet_count = [72]
+	Y username = [Shadowburn]
+Total Length: X = 220, Y = 235 (Y / X = 106.82  X / Y = 93.62)
+Dice Coefficient: 80.00% 
+

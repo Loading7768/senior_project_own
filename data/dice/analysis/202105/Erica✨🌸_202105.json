@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Retweet if you love the doge community #dogecoin",
+        "X_token": "retweet, love, doge, community, dogecoin",
+        "X_tweet_count": 108,
+        "X_username": "Erica✨🌸",
+        "Y_text": "If you love doge retweet this and I’ll follow you #dogecoin",
+        "Y_token": "love, doge, retweet, follow, dogecoin",
+        "Y_tweet_count": 116,
+        "Y_username": "Erica✨🌸",
+        "X_length": 48,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 122.92,
+        "X_length_percent_of_Y": 81.36,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Hey y’all please follow my friend @WhenMoonEnergy his energy drink will be taking us to the moon 🚀🚀🚀 #dogecoin #dogearmy",
+        "X_token": "hey, please, follow, friend, whenmoonenergy, energy, drink, taking, us, moon, dogecoin, dogearmy",
+        "X_tweet_count": 109,
+        "X_username": "Erica✨🌸",
+        "Y_text": "Hey y’all please follow my friend @WhenMoonEnergy his energy drink is going with us to the moon 🚀🚀🚀 #dogecoin #AMC500k #dogearmy",
+        "Y_token": "hey, please, follow, friend, whenmoonenergy, energy, drink, going, us, moon, dogecoin, amc500k, dogearmy",
+        "Y_tweet_count": 134,
+        "Y_username": "Erica✨🌸",
+        "X_length": 120,
+        "Y_length": 128,
+        "Y_length_percent_of_X": 106.67,
+        "X_length_percent_of_Y": 93.75,
+        "dice_coefficient": 88.0
+    },
+    {
+        "X_text": "Dogecoin",
+        "X_token": "dogecoin",
+        "X_tweet_count": 110,
+        "X_username": "Erica✨🌸",
+        "Y_text": "Dogecoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 115,
+        "Y_username": "Erica✨🌸",
+        "X_length": 8,
+        "Y_length": 8,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

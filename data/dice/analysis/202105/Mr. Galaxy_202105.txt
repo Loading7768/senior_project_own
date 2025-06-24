@@ -1,0 +1,55 @@
+﻿X = [Much wow 🚀! #Dogecoin #DogeToTheMoon #DogeArmy]
+X_token = [much, wow, dogecoin, dogetothemoon, dogearmy]
+	X tweet_count = [11]
+	X username = [Mr. Galaxy]
+Y = [Much wow 🚀! #Doge #Dogecoin #DogeToTheMoon]
+Y_token = [much, wow, doge, dogecoin, dogetothemoon]
+	Y tweet_count = [29]
+	Y username = [Mr. Galaxy]
+Total Length: X = 46, Y = 42 (Y / X = 91.30  X / Y = 109.52)
+Dice Coefficient: 80.00% 
+
+X = [Much wow 🚀! #Doge #Dogecoin #DogeToTheMoon]
+X_token = [much, wow, doge, dogecoin, dogetothemoon]
+	X tweet_count = [29]
+	X username = [Mr. Galaxy]
+Y = [Much wow! #Doge will go to the Moon 🚀 #Dogecoin]
+Y_token = [much, wow, doge, go, moon, dogecoin]
+	Y tweet_count = [47]
+	Y username = [Mr. Galaxy]
+Total Length: X = 42, Y = 47 (Y / X = 111.90  X / Y = 89.36)
+Dice Coefficient: 72.73% 
+
+X = [Let’s bring #Doge to the Moon 🚀! $DOGE]
+X_token = [let, bring, doge, moon, doge]
+	X tweet_count = [30]
+	X username = [Mr. Galaxy]
+Y = [Let’s bring #Dogecoin to the Moon 🚀🚀!]
+Y_token = [let, bring, dogecoin, moon]
+	Y tweet_count = [43]
+	Y username = [Mr. Galaxy]
+Total Length: X = 38, Y = 37 (Y / X = 97.37  X / Y = 102.70)
+Dice Coefficient: 75.00% 
+
+X = [#Dogecoin will go to the Moon 🚀🚀👽!]
+X_token = [dogecoin, go, moon]
+	X tweet_count = [39]
+	X username = [Mr. Galaxy]
+Y = [#Dogecoin will literally go to the Moon 🚀!]
+Y_token = [dogecoin, literally, go, moon]
+	Y tweet_count = [52]
+	Y username = [Mr. Galaxy]
+Total Length: X = 34, Y = 42 (Y / X = 123.53  X / Y = 80.95)
+Dice Coefficient: 85.71% 
+
+X = [Do not panic! #Doge #Dogecoin]
+X_token = [panic, doge, dogecoin]
+	X tweet_count = [49]
+	X username = [Mr. Galaxy]
+Y = [People do not panic! #Dogecoin #Doge]
+Y_token = [people, panic, dogecoin, doge]
+	Y tweet_count = [50]
+	Y username = [Mr. Galaxy]
+Total Length: X = 29, Y = 36 (Y / X = 124.14  X / Y = 80.56)
+Dice Coefficient: 85.71% 
+

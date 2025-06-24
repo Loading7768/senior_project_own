@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "What is your #Dogecoin price prediction after SNL? 👀",
+        "X_token": "dogecoin, price, prediction, snl",
+        "X_tweet_count": 13,
+        "X_username": "₿erkan Lenck",
+        "Y_text": "What is your #Dogecoin price prediction after SNL? 👀",
+        "Y_token": "dogecoin, price, prediction, snl",
+        "Y_tweet_count": 20,
+        "Y_username": "₿erkan Lenck",
+        "X_length": 52,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

@@ -1,0 +1,22 @@
+﻿X = [HODL HODL HODL or BUY BUY BUY!! #dogecoin]
+X_token = [hodl, hodl, hodl, buy, buy, buy, dogecoin]
+	X tweet_count = [27]
+	X username = [HippE]
+Y = [Buy and #hodl #dogecoin https://t.co/SeyfuuwUCT]
+Y_token = [buy, hodl, dogecoin, https]
+	Y tweet_count = [65]
+	Y username = [HippE]
+Total Length: X = 41, Y = 47 (Y / X = 114.63  X / Y = 87.23)
+Dice Coefficient: 85.71% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [69]
+	X username = [HippE]
+Y = [DOGECOIN]
+Y_token = [dogecoin]
+	Y tweet_count = [72]
+	Y username = [HippE]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

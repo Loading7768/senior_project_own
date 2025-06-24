@@ -1,0 +1,44 @@
+﻿X = [#dogecoin #dogearmy Tweet about doge make it go viral HODL]
+X_token = [dogecoin, dogearmy, tweet, doge, make, go, viral, hodl]
+	X tweet_count = [49]
+	X username = [Tony]
+Y = [Every one Tweet about #DogeCoin make it go viral #DogeArmy]
+Y_token = [every, one, tweet, dogecoin, make, go, viral, dogearmy]
+	Y tweet_count = [56]
+	Y username = [Tony]
+Total Length: X = 58, Y = 58 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [Keep #Dogecoin Trending #DogeCoinArmy]
+X_token = [keep, dogecoin, trending, dogecoinarmy]
+	X tweet_count = [119]
+	X username = [Tony]
+Y = [Keep #dogecoin trending #dogetothemoon 🚀💰💵]
+Y_token = [keep, dogecoin, trending, dogetothemoon]
+	Y tweet_count = [131]
+	Y username = [Tony]
+Total Length: X = 37, Y = 42 (Y / X = 113.51  X / Y = 88.10)
+Dice Coefficient: 75.00% 
+
+X = [Guys check this out @PetrexTots @ChiefKay2 @clemeseh  $sol $sakita $french $doge]
+X_token = [guys, check, petrextots, chiefkay2, clemeseh, sol, sakita, french, doge]
+	X tweet_count = [146]
+	X username = [Tony]
+Y = [@PetrexTots @ChiefKay2 @MichaelSucre9 \n\nGuys check this out \n $sakita $doge $shib $sol $up #Airdrop]
+Y_token = [petrextots, chiefkay2, michaelsucre9, guys, check, sakita, doge, shib, sol, airdrop]
+	Y tweet_count = [159]
+	Y username = [Tony]
+Total Length: X = 80, Y = 99 (Y / X = 123.75  X / Y = 80.81)
+Dice Coefficient: 73.68% 
+
+X = [Payment for starlink internet with #Dogecoin ? @elonmusk @spacex]
+X_token = [payment, starlink, internet, dogecoin, elonmusk, spacex]
+	X tweet_count = [164]
+	X username = [Tony]
+Y = [Payment for starlink internet with #Dogecoin ? @elonmusk @spacex]
+Y_token = [payment, starlink, internet, dogecoin, elonmusk, spacex]
+	Y tweet_count = [165]
+	Y username = [Tony]
+Total Length: X = 64, Y = 64 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,22 @@
+﻿X = [Does #Starbase  take #Dogecoin asking for a friend]
+X_token = [starbase, take, dogecoin, asking, friend]
+	X tweet_count = [35]
+	X username = [LOVE JOY HOPE Cancer Sucks BAD]
+Y = [Will #Dogecoin be there asking for a friend]
+Y_token = [dogecoin, asking, friend]
+	Y tweet_count = [42]
+	Y username = [LOVE JOY HOPE Cancer Sucks BAD]
+Total Length: X = 50, Y = 43 (Y / X = 86.00  X / Y = 116.28)
+Dice Coefficient: 75.00% 
+
+X = [Elon Musk Tweet: Is Dogecoin the Cyberviking? https://t.co/bO1vOmdCSt via @YouTube]
+X_token = [elon, musk, tweet, dogecoin, cyberviking, https, via, youtube]
+	X tweet_count = [39]
+	X username = [LOVE JOY HOPE Cancer Sucks BAD]
+Y = [HUGE Secret Dogecoin Clue From Elon Musk ⚠️ https://t.co/mV690M72SO via @YouTube]
+Y_token = [huge, secret, dogecoin, clue, elon, musk, https, via, youtube]
+	Y tweet_count = [47]
+	Y username = [LOVE JOY HOPE Cancer Sucks BAD]
+Total Length: X = 82, Y = 80 (Y / X = 97.56  X / Y = 102.50)
+Dice Coefficient: 70.59% 
+

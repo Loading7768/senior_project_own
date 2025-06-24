@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Dogecoin",
+        "X_token": "dogecoin",
+        "X_tweet_count": 25,
+        "X_username": "seafra10.base.eth",
+        "Y_text": "Dogecoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 26,
+        "Y_username": "seafra10.base.eth",
+        "X_length": 8,
+        "Y_length": 8,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@buitengebieden_ Dogecoin",
+        "X_token": "dogecoin",
+        "X_tweet_count": 31,
+        "X_username": "seafra10.base.eth",
+        "Y_text": "@the_ironsheik Dogecoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 33,
+        "Y_username": "seafra10.base.eth",
+        "X_length": 25,
+        "Y_length": 23,
+        "Y_length_percent_of_X": 92.0,
+        "X_length_percent_of_Y": 108.7,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@buitengebieden_ Dogecoin",
+        "X_token": "dogecoin",
+        "X_tweet_count": 31,
+        "X_username": "seafra10.base.eth",
+        "Y_text": "@Daily_Express Dogecoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 36,
+        "Y_username": "seafra10.base.eth",
+        "X_length": 25,
+        "Y_length": 23,
+        "Y_length_percent_of_X": 92.0,
+        "X_length_percent_of_Y": 108.7,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@the_ironsheik Dogecoin",
+        "X_token": "dogecoin",
+        "X_tweet_count": 33,
+        "X_username": "seafra10.base.eth",
+        "Y_text": "@Daily_Express Dogecoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 36,
+        "Y_username": "seafra10.base.eth",
+        "X_length": 23,
+        "Y_length": 23,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "\"Many hands doing small things, but doing them together.\" \n#dogecoin \n#safemoon",
+        "X_token": "many, hands, small, things, together, dogecoin, safemoon",
+        "X_tweet_count": 59,
+        "X_username": "Wario_Musk",
+        "Y_text": "\"Many hands doing small things, but doing them together\" #dogecoin",
+        "Y_token": "many, hands, small, things, together, dogecoin",
+        "Y_tweet_count": 77,
+        "Y_username": "Wario_Musk",
+        "X_length": 79,
+        "Y_length": 66,
+        "Y_length_percent_of_X": 83.54,
+        "X_length_percent_of_Y": 119.7,
+        "dice_coefficient": 92.31
+    }
+]

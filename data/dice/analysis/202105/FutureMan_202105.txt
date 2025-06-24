@@ -1,0 +1,55 @@
+﻿X = [#dogecoin is beautiful! https://t.co/ij3WuwF4No]
+X_token = [dogecoin, beautiful, https]
+	X tweet_count = [13]
+	X username = [FutureMan]
+Y = [$1 #dogecoin will look beautiful! https://t.co/QO9fTAUWTr]
+Y_token = [1, dogecoin, look, beautiful, https]
+	Y tweet_count = [17]
+	Y username = [FutureMan]
+Total Length: X = 47, Y = 57 (Y / X = 121.28  X / Y = 82.46)
+Dice Coefficient: 75.00% 
+
+X = [Here we go, #dogecoin , HERE WE GO! RT https://t.co/G8TL8JKApW]
+X_token = [go, dogecoin, go, rt, https]
+	X tweet_count = [15]
+	X username = [FutureMan]
+Y = [Here we go #Dogecoin , HERE WE GO! RT https://t.co/Fnpvq4BRI4]
+Y_token = [go, dogecoin, go, rt, https]
+	Y tweet_count = [135]
+	Y username = [FutureMan]
+Total Length: X = 62, Y = 61 (Y / X = 98.39  X / Y = 101.64)
+Dice Coefficient: 100.00% 
+
+X = [#عادل_التويجري you buying #dogecoin now? https://t.co/kkQIzC1sgI]
+X_token = [buying, dogecoin, https]
+	X tweet_count = [38]
+	X username = [FutureMan]
+Y = [This is what my #dogecoin is buying #DogecoinRise https://t.co/xZgjKFsXoU]
+Y_token = [dogecoin, buying, dogecoinrise, https]
+	Y tweet_count = [110]
+	Y username = [FutureMan]
+Total Length: X = 64, Y = 73 (Y / X = 114.06  X / Y = 87.67)
+Dice Coefficient: 85.71% 
+
+X = [#dogecoin is like no other! https://t.co/uGsGg4lkTD]
+X_token = [dogecoin, like, https]
+	X tweet_count = [47]
+	X username = [FutureMan]
+Y = [#dogecoin holders like what? https://t.co/dzoZhtpLxl]
+Y_token = [dogecoin, holders, like, https]
+	Y tweet_count = [94]
+	Y username = [FutureMan]
+Total Length: X = 51, Y = 52 (Y / X = 101.96  X / Y = 98.08)
+Dice Coefficient: 85.71% 
+
+X = [$DOGE: From Meme-Coin To Supreme Coin?- How Dogecoin Could Reach $1-Tril... https://t.co/cgG4mzrLPQ via @YouTube https://t.co/N7zdCXZKLE]
+X_token = [doge, supreme, coin, dogecoin, could, reach, https, via, youtube, https]
+	X tweet_count = [125]
+	X username = [FutureMan]
+Y = [$DOGE: From Meme-Coin To Supreme Coin?- How Dogecoin Could Reach $1-Tril... https://t.co/cgG4mzJneq via @YouTube https://t.co/LUsJvI6FOc]
+Y_token = [doge, supreme, coin, dogecoin, could, reach, https, via, youtube, https]
+	Y tweet_count = [141]
+	Y username = [FutureMan]
+Total Length: X = 136, Y = 136 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

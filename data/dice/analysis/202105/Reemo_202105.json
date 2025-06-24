@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@BillyM2k Why is @coinbase still not trading @dogecoin ?????",
+        "X_token": "billym2k, coinbase, still, trading, dogecoin",
+        "X_tweet_count": 4,
+        "X_username": "Reemo",
+        "Y_text": "@KarlMillan1 @BillyM2k @coinbase Wth @coinbase isn’t trading Dogecoin??????",
+        "Y_token": "karlmillan1, billym2k, coinbase, wth, coinbase, trading, dogecoin",
+        "Y_tweet_count": 15,
+        "Y_username": "Reemo",
+        "X_length": 60,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 125.0,
+        "X_length_percent_of_Y": 80.0,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@BillyM2k Why is @coinbase still not trading @dogecoin ?????",
+        "X_token": "billym2k, coinbase, still, trading, dogecoin",
+        "X_tweet_count": 4,
+        "X_username": "Reemo",
+        "Y_text": "@coinbase Still not trading @dogecoin ????????!!!!",
+        "Y_token": "coinbase, still, trading, dogecoin",
+        "Y_tweet_count": 18,
+        "Y_username": "Reemo",
+        "X_length": 60,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 83.33,
+        "X_length_percent_of_Y": 120.0,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@SlimJim Why isn’t @coinbase trading @dogecoin ????????",
+        "X_token": "slimjim, coinbase, trading, dogecoin",
+        "X_tweet_count": 14,
+        "X_username": "Reemo",
+        "Y_text": "@coinbase Still not trading @dogecoin ????????!!!!",
+        "Y_token": "coinbase, still, trading, dogecoin",
+        "Y_tweet_count": 18,
+        "Y_username": "Reemo",
+        "X_length": 55,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 90.91,
+        "X_length_percent_of_Y": 110.0,
+        "dice_coefficient": 75.0
+    }
+]

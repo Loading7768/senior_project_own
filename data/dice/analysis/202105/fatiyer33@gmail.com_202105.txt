@@ -1,0 +1,33 @@
+﻿X = [@POTUS #dogecoin=10$ coming soon=true]
+X_token = [potus, coming]
+	X tweet_count = [2]
+	X username = [fatiyer33@gmail.com]
+Y = [@POTUS #dogecoin=10$ coming soon]
+Y_token = [potus, coming, soon]
+	Y tweet_count = [9]
+	Y username = [fatiyer33@gmail.com]
+Total Length: X = 37, Y = 32 (Y / X = 86.49  X / Y = 115.62)
+Dice Coefficient: 80.00% 
+
+X = [@POTUS #dogecoin=10$ coming soon=true]
+X_token = [potus, coming]
+	X tweet_count = [2]
+	X username = [fatiyer33@gmail.com]
+Y = [@POTUS #dogecoin=10$ coming soon]
+Y_token = [potus, coming, soon]
+	Y tweet_count = [11]
+	Y username = [fatiyer33@gmail.com]
+Total Length: X = 37, Y = 32 (Y / X = 86.49  X / Y = 115.62)
+Dice Coefficient: 80.00% 
+
+X = [@POTUS #dogecoin=10$ coming soon]
+X_token = [potus, coming, soon]
+	X tweet_count = [9]
+	X username = [fatiyer33@gmail.com]
+Y = [@POTUS #dogecoin=10$ coming soon]
+Y_token = [potus, coming, soon]
+	Y tweet_count = [11]
+	Y username = [fatiyer33@gmail.com]
+Total Length: X = 32, Y = 32 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,11 @@
+﻿X = [The Project MIDAS stock picks for this week are:\n\n$CLOV\n$MVIS\n$VTRS\n$NKLA\n$AAL\n\nRemember, not financial advice. Just my bots opinion.\nAnd in the crypto world:\n\n$Doge\n$ETH\n$BTC\n\nView the full list of stocks here!\nhttps://t.co/Hnz1Fwj9F5]
+X_token = [project, midas, stock, picks, week, clov, mvis, vtrs, nkla, aal, remember, financial, advice, bots, opinion, crypto, world, doge, eth, btc, view, full, list, stocks, https]
+	X tweet_count = [63]
+	X username = [gravemind]
+Y = [The Project MIDAS #stock picks for this week are:\n\n$AAL\n$VTRS\n$BCRX\n$NLOK\n$LI\n\nRemember, not financial advice. Just my bots opinion.\nAnd in the #crypto world:\n\n$Doge - ALWAYS\n$ETH\n$BTC\n\nView the full list of stocks here!\nhttps://t.co/Hnz1Fwj9F5]
+Y_token = [project, midas, stock, picks, week, aal, vtrs, bcrx, nlok, li, remember, financial, advice, bots, opinion, crypto, world, doge, always, eth, btc, view, full, list, stocks, https]
+	Y tweet_count = [87]
+	Y username = [gravemind]
+Total Length: X = 235, Y = 244 (Y / X = 103.83  X / Y = 96.31)
+Dice Coefficient: 86.27% 
+

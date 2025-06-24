@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@MattWallace888 #DOGECOIN $DOGE 🚀",
+        "X_token": "mattwallace888, dogecoin, doge",
+        "X_tweet_count": 3,
+        "X_username": "AK23-9",
+        "Y_text": "@MattWallace888 I'll be there $Doge 🚀",
+        "Y_token": "mattwallace888, doge",
+        "Y_tweet_count": 148,
+        "Y_username": "AK23-9",
+        "X_length": 33,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 112.12,
+        "X_length_percent_of_Y": 89.19,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@BeefSupreme1776 😎 $doge 🚀",
+        "X_token": "beefsupreme1776, doge",
+        "X_tweet_count": 105,
+        "X_username": "AK23-9",
+        "Y_text": "@BeefSupreme1776 Done $doge 🚀",
+        "Y_token": "beefsupreme1776, done, doge",
+        "Y_tweet_count": 159,
+        "Y_username": "AK23-9",
+        "X_length": 26,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 111.54,
+        "X_length_percent_of_Y": 89.66,
+        "dice_coefficient": 80.0
+    }
+]

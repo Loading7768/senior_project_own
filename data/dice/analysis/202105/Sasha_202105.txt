@@ -1,0 +1,22 @@
+﻿X = [@7eleven what’s up guys, how about taking #dogecoin as a payment option?#AcceptDOGE]
+X_token = [7eleven, guys, taking, dogecoin, payment, option, acceptdoge]
+	X tweet_count = [2]
+	X username = [sasha]
+Y = [@BuzzmillCoffee Have you guys considered #dogecoin as a payment option? #AcceptDOGE]
+Y_token = [buzzmillcoffee, guys, considered, dogecoin, payment, option, acceptdoge]
+	Y tweet_count = [6]
+	Y username = [sasha]
+Total Length: X = 83, Y = 83 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 71.43% 
+
+X = [@BlueOwlBrewing Hey guys love your beer! Have you considered #dogecoin as a payment option? #AcceptDOGE]
+X_token = [blueowlbrewing, hey, guys, love, beer, considered, dogecoin, payment, option, acceptdoge]
+	X tweet_count = [3]
+	X username = [sasha]
+Y = [@BuzzmillCoffee Have you guys considered #dogecoin as a payment option? #AcceptDOGE]
+Y_token = [buzzmillcoffee, guys, considered, dogecoin, payment, option, acceptdoge]
+	Y tweet_count = [6]
+	Y username = [sasha]
+Total Length: X = 103, Y = 83 (Y / X = 80.58  X / Y = 124.10)
+Dice Coefficient: 70.59% 
+

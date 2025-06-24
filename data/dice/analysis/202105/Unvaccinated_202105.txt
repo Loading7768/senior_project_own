@@ -1,0 +1,22 @@
+﻿X = [@coinbase DogeCoin?]
+X_token = [coinbase, dogecoin]
+	X tweet_count = [12]
+	X username = [Unvaccinated]
+Y = [@coinbase DogeCoin ?]
+Y_token = [coinbase, dogecoin]
+	Y tweet_count = [14]
+	Y username = [Unvaccinated]
+Total Length: X = 19, Y = 20 (Y / X = 105.26  X / Y = 95.00)
+Dice Coefficient: 100.00% 
+
+X = [DogeCoin 🚀]
+X_token = [dogecoin]
+	X tweet_count = [33]
+	X username = [Unvaccinated]
+Y = [DogeCoin]
+Y_token = [dogecoin]
+	Y tweet_count = [34]
+	Y username = [Unvaccinated]
+Total Length: X = 10, Y = 8 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 100.00% 
+

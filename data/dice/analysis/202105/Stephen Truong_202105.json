@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@dogecoin_rise LET GO, HOLD TIE, BARK HARD",
+        "X_token": "let, go, hold, tie, bark, hard",
+        "X_tweet_count": 22,
+        "X_username": "Stephen Truong",
+        "Y_text": "@dogecoin_rise HOLD TIE, BARK HARD",
+        "Y_token": "hold, tie, bark, hard",
+        "Y_tweet_count": 26,
+        "Y_username": "Stephen Truong",
+        "X_length": 42,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 80.95,
+        "X_length_percent_of_Y": 123.53,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "First crypto's lesson to my 4ys daughter Emma\nA for #ADA \nB for #Bitcoin \nC for #Coinbase\nD for #dogecoin\nE for #Ethereum \n\nEmma : I LOVE DOG (#DOGE) DADDY\nMe : OK, DADDY WILL ALL IN\n\nThat's our choices, how about your choice 😂",
+        "X_token": "first, crypto, lesson, 4ys, daughter, emma, ada, b, bitcoin, c, coinbase, dogecoin, e, ethereum, emma, love, dog, doge, daddy, ok, daddy, choices, choice",
+        "X_tweet_count": 27,
+        "X_username": "Stephen Truong",
+        "Y_text": "@ChairwomanDoge First crypto's lesson to my 4ys daughter Emma\nA for #ADA \nB for #Bitcoin  \nC for #Coinbase\nD for #dogecoin\nE for #Ethereum \n\nEmma : I LOVE DOG (#DOGE) DADDY\nMe : OK, DADDY WILL ALL IN\n\nThat's my choice, how about your choice 😂",
+        "Y_token": "chairwomandoge, first, crypto, lesson, 4ys, daughter, emma, ada, b, bitcoin, c, coinbase, dogecoin, e, ethereum, emma, love, dog, doge, daddy, ok, daddy, choice, choice",
+        "Y_tweet_count": 28,
+        "Y_username": "Stephen Truong",
+        "X_length": 227,
+        "Y_length": 242,
+        "Y_length_percent_of_X": 106.61,
+        "X_length_percent_of_Y": 93.8,
+        "dice_coefficient": 95.24
+    }
+]

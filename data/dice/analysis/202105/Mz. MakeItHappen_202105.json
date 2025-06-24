@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Good morning #DogecoinToTheMoon #DogecoinRise #doge #dogecoin",
+        "X_token": "good, morning, dogecointothemoon, dogecoinrise, doge, dogecoin",
+        "X_tweet_count": 8,
+        "X_username": "Mz. MakeItHappen",
+        "Y_text": "Good morning #doge #DogecoinRise #dogecoin https://t.co/s1XPtAZSgd",
+        "Y_token": "good, morning, doge, dogecoinrise, dogecoin, https",
+        "Y_tweet_count": 28,
+        "Y_username": "Mz. MakeItHappen",
+        "X_length": 61,
+        "Y_length": 66,
+        "Y_length_percent_of_X": 108.2,
+        "X_length_percent_of_Y": 92.42,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "#dogecoin #DogecoinToTheMoon #DogecoinRise let’s goooooooooo .50 https://t.co/3XRmykFxVB",
+        "X_token": "dogecoin, dogecointothemoon, dogecoinrise, let, goooooooooo, https",
+        "X_tweet_count": 15,
+        "X_username": "Mz. MakeItHappen",
+        "Y_text": "#DogecoinRise once again #doge #DogecoinToTheMoon #dogecoin https://t.co/1zAoFGO1Th",
+        "Y_token": "dogecoinrise, doge, dogecointothemoon, dogecoin, https",
+        "Y_tweet_count": 19,
+        "Y_username": "Mz. MakeItHappen",
+        "X_length": 88,
+        "Y_length": 83,
+        "Y_length_percent_of_X": 94.32,
+        "X_length_percent_of_Y": 106.02,
+        "dice_coefficient": 72.73
+    }
+]

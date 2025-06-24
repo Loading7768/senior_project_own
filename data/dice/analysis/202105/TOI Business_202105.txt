@@ -1,0 +1,22 @@
+﻿X = [Cryptocurrency ethereum hits new record high again; dogecoin slumps https://t.co/GmojMUug7p]
+X_token = [cryptocurrency, ethereum, hits, new, record, high, dogecoin, slumps, https]
+	X tweet_count = [2]
+	X username = [TOI Business]
+Y = [Dogecoin cryptocurrency slumps after hashtag-fueled surge to record high https://t.co/IGHfpPfxst]
+Y_token = [dogecoin, cryptocurrency, slumps, surge, record, high, https]
+	Y tweet_count = [10]
+	Y username = [TOI Business]
+Total Length: X = 91, Y = 96 (Y / X = 105.49  X / Y = 94.79)
+Dice Coefficient: 75.00% 
+
+X = [Dogecoin: How to buy the meme-based virtual currency https://t.co/hu0Aa9kxgN]
+X_token = [dogecoin, buy, virtual, currency, https]
+	X tweet_count = [14]
+	X username = [TOI Business]
+Y = [Dogecoin: How to buy the meme-based virtual currency https://t.co/crUQ4OAjcf]
+Y_token = [dogecoin, buy, virtual, currency, https]
+	Y tweet_count = [15]
+	Y username = [TOI Business]
+Total Length: X = 76, Y = 76 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

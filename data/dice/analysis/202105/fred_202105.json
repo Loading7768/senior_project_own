@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "May we hit $1.00 dollar. #dogearmy $DOGE #dogecoin #dogecoinarmy",
+        "X_token": "may, hit, dollar, dogearmy, doge, dogecoin, dogecoinarmy",
+        "X_tweet_count": 1,
+        "X_username": "fred",
+        "Y_text": "May the Doge be with you. #dogearmy $DOGE #dogecoin #dogecoinarmy",
+        "Y_token": "may, doge, dogearmy, doge, dogecoin, dogecoinarmy",
+        "Y_tweet_count": 5,
+        "Y_username": "fred",
+        "X_length": 64,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 101.56,
+        "X_length_percent_of_Y": 98.46,
+        "dice_coefficient": 83.33
+    }
+]

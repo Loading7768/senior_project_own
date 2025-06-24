@@ -1,0 +1,22 @@
+﻿X = [@debashishtaluk Buy @airswap .\nLeave @dogecoin .]
+X_token = [debashishtaluk, buy, airswap, leave, dogecoin]
+	X tweet_count = [1]
+	X username = [Aadesh jain]
+Y = [@cpkyoutube Leave @dogecoin and buy @airswap .]
+Y_token = [cpkyoutube, leave, dogecoin, buy, airswap]
+	Y tweet_count = [10]
+	Y username = [Aadesh jain]
+Total Length: X = 48, Y = 46 (Y / X = 95.83  X / Y = 104.35)
+Dice Coefficient: 80.00% 
+
+X = [@KingpinJsc Just a picture showing Elon selling all his dogecoin and buying @airswap https://t.co/UvJlrI80r3]
+X_token = [kingpinjsc, picture, showing, elon, selling, dogecoin, buying, airswap, https]
+	X tweet_count = [4]
+	X username = [Aadesh jain]
+Y = [@ashwsbreal Jusa picture of elon musk selling all his @dogecoin and buying @airswap . https://t.co/bZQ9DFNG6N]
+Y_token = [ashwsbreal, jusa, picture, elon, musk, selling, dogecoin, buying, airswap, https]
+	Y tweet_count = [5]
+	Y username = [Aadesh jain]
+Total Length: X = 108, Y = 109 (Y / X = 100.93  X / Y = 99.08)
+Dice Coefficient: 73.68% 
+

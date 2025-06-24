@@ -1,0 +1,11 @@
+﻿X = [@mmmite1 @CoinDesk @JamieCrawleyCD @Bitcoin @dogecoin Is the Coinbase whiteout any fees?]
+X_token = [mmmite1, coindesk, jamiecrawleycd, bitcoin, dogecoin, coinbase, whiteout, fees]
+	X tweet_count = [4]
+	X username = [Ajmir Wessal]
+Y = [@mmmite1 @CoinDesk @JamieCrawleyCD @Bitcoin @dogecoin Great thank you, what do you think about coinbase?]
+Y_token = [mmmite1, coindesk, jamiecrawleycd, bitcoin, dogecoin, great, thank, think, coinbase]
+	Y tweet_count = [5]
+	Y username = [Ajmir Wessal]
+Total Length: X = 88, Y = 104 (Y / X = 118.18  X / Y = 84.62)
+Dice Coefficient: 70.59% 
+

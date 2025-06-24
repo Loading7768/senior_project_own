@@ -1,0 +1,44 @@
+﻿X = [Dogecoin lost 5 percent]
+X_token = [dogecoin, lost, 5, percent]
+	X tweet_count = [1]
+	X username = [Bitstars]
+Y = [Dogecoin lost in 40 percent]
+Y_token = [dogecoin, lost, 40, percent]
+	Y tweet_count = [4]
+	Y username = [Bitstars]
+Total Length: X = 23, Y = 27 (Y / X = 117.39  X / Y = 85.19)
+Dice Coefficient: 75.00% 
+
+X = [Dogecoin lost 5 percent]
+X_token = [dogecoin, lost, 5, percent]
+	X tweet_count = [1]
+	X username = [Bitstars]
+Y = [Dogecoin lost 40 percent]
+Y_token = [dogecoin, lost, 40, percent]
+	Y tweet_count = [5]
+	Y username = [Bitstars]
+Total Length: X = 23, Y = 24 (Y / X = 104.35  X / Y = 95.83)
+Dice Coefficient: 75.00% 
+
+X = [Dogecoin lost in 40 percent]
+X_token = [dogecoin, lost, 40, percent]
+	X tweet_count = [4]
+	X username = [Bitstars]
+Y = [Dogecoin lost 40 percent]
+Y_token = [dogecoin, lost, 40, percent]
+	Y tweet_count = [5]
+	Y username = [Bitstars]
+Total Length: X = 27, Y = 24 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 100.00% 
+
+X = [Mr x invest dogecoin 30 Mrd usd]
+X_token = [mr, x, invest, dogecoin, 30, mrd, usd]
+	X tweet_count = [8]
+	X username = [Bitstars]
+Y = [Mr x invest dogecoin 3mrd usd]
+Y_token = [mr, x, invest, dogecoin, 3mrd, usd]
+	Y tweet_count = [9]
+	Y username = [Bitstars]
+Total Length: X = 31, Y = 29 (Y / X = 93.55  X / Y = 106.90)
+Dice Coefficient: 76.92% 
+

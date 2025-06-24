@@ -1,0 +1,55 @@
+﻿X = [@og_dogecoin @spacex just announced there sending "the doge-1" rocket to the moon next year, and it\'s being paid for entirely by dogecoin. This is huge guys!]
+X_token = [spacex, announced, sending, rocket, moon, next, year, paid, entirely, dogecoin, huge, guys]
+	X tweet_count = [104]
+	X username = [Jake]
+Y = [@BillyM2k This was just announced its actually happening! @SpaceX is sending the doge-1 rocket to the moon next year! This is huge. It was paid for with #dogecoin ! https://t.co/ElzxTm5A8w]
+Y_token = [billym2k, announced, actually, happening, spacex, sending, rocket, moon, next, year, huge, paid, dogecoin, https]
+	Y tweet_count = [105]
+	Y username = [Jake]
+Total Length: X = 157, Y = 188 (Y / X = 119.75  X / Y = 83.51)
+Dice Coefficient: 76.92% 
+
+X = [@tyler #dogecoin and #btc seem to be #Tethered maybe we're matting for greater good.]
+X_token = [tyler, dogecoin, btc, seem, tethered, maybe, matting, greater, good]
+	X tweet_count = [218]
+	X username = [Jake]
+Y = [@davidgokhshtein #dogecoin and #btc seem to be #Tethered maybe we're matting for greater good.]
+Y_token = [davidgokhshtein, dogecoin, btc, seem, tethered, maybe, matting, greater, good]
+	Y tweet_count = [235]
+	Y username = [Jake]
+Total Length: X = 84, Y = 94 (Y / X = 111.90  X / Y = 89.36)
+Dice Coefficient: 88.89% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [279]
+	X username = [Jake]
+Y = [DogeCoin]
+Y_token = [dogecoin]
+	Y tweet_count = [284]
+	Y username = [Jake]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [279]
+	X username = [Jake]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [285]
+	Y username = [Jake]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [DogeCoin]
+X_token = [dogecoin]
+	X tweet_count = [284]
+	X username = [Jake]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [285]
+	Y username = [Jake]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,550 @@
+﻿X = [Good project in the future\n@KafabihAdib @MohArisFaizin1 @ibnusina1945 \n$SHIB $DOGE $AKITA]
+X_token = [good, project, future, kafabihadib, moharisfaizin1, ibnusina1945, shib, doge, akita]
+	X tweet_count = [111]
+	X username = [Jack]
+Y = [@SolAkitaFinance Good project in the future\n@KafabihAdib @MohArisFaizin1 @ibnusina1945 \n$SHIB $DOGE $AKITA]
+Y_token = [solakitafinance, good, project, future, kafabihadib, moharisfaizin1, ibnusina1945, shib, doge, akita]
+	Y tweet_count = [112]
+	Y username = [Jack]
+Total Length: X = 89, Y = 106 (Y / X = 119.10  X / Y = 83.96)
+Dice Coefficient: 94.74% 
+
+X = [$FRENCH $SOL $SAKITA $DOGE\n@JackJac56214025 @G61814303 @Gagan66779107]
+X_token = [french, sol, sakita, doge, jackjac56214025, g61814303, gagan66779107]
+	X tweet_count = [160]
+	X username = [Jack]
+Y = [@The_VictorJohn \n@jewd_e \n@Kinggdope_ \n\n$FRENCH $SOL $SAKITA $DOGE]
+Y_token = [french, sol, sakita, doge]
+	Y tweet_count = [165]
+	Y username = [Jack]
+Total Length: X = 69, Y = 66 (Y / X = 95.65  X / Y = 104.55)
+Dice Coefficient: 72.73% 
+
+X = [$DOGE #DOGE https://t.co/I5hiKQIalL]
+X_token = [doge, doge, https]
+	X tweet_count = [164]
+	X username = [Jack]
+Y = [$doge : https://t.co/VnMTroP4IU]
+Y_token = [doge, https]
+	Y tweet_count = [174]
+	Y username = [Jack]
+Total Length: X = 35, Y = 31 (Y / X = 88.57  X / Y = 112.90)
+Dice Coefficient: 100.00% 
+
+X = [$DOGE #DOGE https://t.co/I5hiKQIalL]
+X_token = [doge, doge, https]
+	X tweet_count = [164]
+	X username = [Jack]
+Y = [$DOGE next. https://t.co/zP9wRb2Gwz]
+Y_token = [doge, next, https]
+	Y tweet_count = [178]
+	Y username = [Jack]
+Total Length: X = 35, Y = 35 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 80.00% 
+
+X = [$DOGE #DOGE https://t.co/I5hiKQIalL]
+X_token = [doge, doge, https]
+	X tweet_count = [164]
+	X username = [Jack]
+Y = [$DOGE https://t.co/Ciezpdogx8]
+Y_token = [doge, https]
+	Y tweet_count = [243]
+	Y username = [Jack]
+Total Length: X = 35, Y = 29 (Y / X = 82.86  X / Y = 120.69)
+Dice Coefficient: 100.00% 
+
+X = [$doge : https://t.co/VnMTroP4IU]
+X_token = [doge, https]
+	X tweet_count = [174]
+	X username = [Jack]
+Y = [$DOGE next. https://t.co/zP9wRb2Gwz]
+Y_token = [doge, next, https]
+	Y tweet_count = [178]
+	Y username = [Jack]
+Total Length: X = 31, Y = 35 (Y / X = 112.90  X / Y = 88.57)
+Dice Coefficient: 80.00% 
+
+X = [$doge : https://t.co/VnMTroP4IU]
+X_token = [doge, https]
+	X tweet_count = [174]
+	X username = [Jack]
+Y = [$DOGE https://t.co/Ciezpdogx8]
+Y_token = [doge, https]
+	Y tweet_count = [243]
+	Y username = [Jack]
+Total Length: X = 31, Y = 29 (Y / X = 93.55  X / Y = 106.90)
+Dice Coefficient: 100.00% 
+
+X = [$DOGE next. https://t.co/zP9wRb2Gwz]
+X_token = [doge, next, https]
+	X tweet_count = [178]
+	X username = [Jack]
+Y = [$DOGE https://t.co/Ciezpdogx8]
+Y_token = [doge, https]
+	Y tweet_count = [243]
+	Y username = [Jack]
+Total Length: X = 35, Y = 29 (Y / X = 82.86  X / Y = 120.69)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk Let's rally behind Dogecoin! The comeback will be marvelous! A sword-day, a red day, ere the sun rises! #dogecoin #hodl #DiamondHands #dogearmy #DogeArmyStrong https://t.co/bV5AAchfeP]
+X_token = [elonmusk, let, rally, behind, dogecoin, comeback, marvelous, red, day, ere, sun, rises, dogecoin, hodl, diamondhands, dogearmy, dogearmystrong, https]
+	X tweet_count = [189]
+	X username = [Jack]
+Y = [@elonmusk Let's rally behind Dogecoin! The comeback will be marvelous! A sword-day, a red day, ere the sun rises! #dogecoin #hodl #holdtheline #doge #dogearmy #DogeArmyStrong https://t.co/JdxUJeDzqp]
+Y_token = [elonmusk, let, rally, behind, dogecoin, comeback, marvelous, red, day, ere, sun, rises, dogecoin, hodl, holdtheline, doge, dogearmy, dogearmystrong, https]
+	Y tweet_count = [190]
+	Y username = [Jack]
+Total Length: X = 193, Y = 198 (Y / X = 102.59  X / Y = 97.47)
+Dice Coefficient: 91.43% 
+
+X = [@elonmusk Let's rally behind Dogecoin! The comeback will be marvelous! A sword-day, a red day, ere the sun rises! #dogecoin #hodl #DiamondHands #dogearmy #DogeArmyStrong https://t.co/bV5AAchfeP]
+X_token = [elonmusk, let, rally, behind, dogecoin, comeback, marvelous, red, day, ere, sun, rises, dogecoin, hodl, diamondhands, dogearmy, dogearmystrong, https]
+	X tweet_count = [189]
+	X username = [Jack]
+Y = [Let's rally behind Dogecoin! The comeback will be marvelous! A sword-day, a red day, ere the sun rises! #dogecoin #hodl #holdtheline #doge #dogearmy #DogeArmyStrong https://t.co/hiB7ZuxFzn]
+Y_token = [let, rally, behind, dogecoin, comeback, marvelous, red, day, ere, sun, rises, dogecoin, hodl, holdtheline, doge, dogearmy, dogearmystrong, https]
+	Y tweet_count = [194]
+	Y username = [Jack]
+Total Length: X = 193, Y = 188 (Y / X = 97.41  X / Y = 102.66)
+Dice Coefficient: 88.24% 
+
+X = [@elonmusk Let's rally behind Dogecoin! The comeback will be marvelous! A sword-day, a red day, ere the sun rises! #dogecoin #hodl #holdtheline #doge #dogearmy #DogeArmyStrong https://t.co/JdxUJeDzqp]
+X_token = [elonmusk, let, rally, behind, dogecoin, comeback, marvelous, red, day, ere, sun, rises, dogecoin, hodl, holdtheline, doge, dogearmy, dogearmystrong, https]
+	X tweet_count = [190]
+	X username = [Jack]
+Y = [Let's rally behind Dogecoin! The comeback will be marvelous! A sword-day, a red day, ere the sun rises! #dogecoin #hodl #holdtheline #doge #dogearmy #DogeArmyStrong https://t.co/hiB7ZuxFzn]
+Y_token = [let, rally, behind, dogecoin, comeback, marvelous, red, day, ere, sun, rises, dogecoin, hodl, holdtheline, doge, dogearmy, dogearmystrong, https]
+	Y tweet_count = [194]
+	Y username = [Jack]
+Total Length: X = 198, Y = 188 (Y / X = 94.95  X / Y = 105.32)
+Dice Coefficient: 97.14% 
+
+X = [@iBeaQueen @ItsDogeCoin @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Im all charged up and ready for take off now. 🥰😍 https://t.co/JWniVLQbUF]
+X_token = [ibeaqueen, itsdogecoin, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, im, charged, ready, take, https]
+	X tweet_count = [211]
+	X username = [Jack]
+Y = [@ItsDogeCoin @LadyDogeBugBird @JubaJeeves @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Exactly!]
+Y_token = [itsdogecoin, ladydogebugbird, jubajeeves, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, exactly]
+	Y tweet_count = [212]
+	Y username = [Jack]
+Total Length: X = 612, Y = 548 (Y / X = 89.54  X / Y = 111.68)
+Dice Coefficient: 92.50% 
+
+X = [@iBeaQueen @ItsDogeCoin @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Im all charged up and ready for take off now. 🥰😍 https://t.co/JWniVLQbUF]
+X_token = [ibeaqueen, itsdogecoin, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, im, charged, ready, take, https]
+	X tweet_count = [211]
+	X username = [Jack]
+Y = [@iBeaQueen @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink 50 Shades of #Doge! 🤞💥❤]
+Y_token = [ibeaqueen, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, 50, shades, doge]
+	Y tweet_count = [213]
+	Y username = [Jack]
+Total Length: X = 612, Y = 563 (Y / X = 91.99  X / Y = 108.70)
+Dice Coefficient: 90.24% 
+
+X = [@iBeaQueen @ItsDogeCoin @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Im all charged up and ready for take off now. 🥰😍 https://t.co/JWniVLQbUF]
+X_token = [ibeaqueen, itsdogecoin, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, im, charged, ready, take, https]
+	X tweet_count = [211]
+	X username = [Jack]
+Y = [@LadyDogeBugBird @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @JubaJeeves @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink It's gettin 🔥 in here!]
+Y_token = [ladydogebugbird, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, jubajeeves, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, gettin]
+	Y tweet_count = [214]
+	Y username = [Jack]
+Total Length: X = 612, Y = 562 (Y / X = 91.83  X / Y = 108.90)
+Dice Coefficient: 92.50% 
+
+X = [@iBeaQueen @ItsDogeCoin @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Im all charged up and ready for take off now. 🥰😍 https://t.co/JWniVLQbUF]
+X_token = [ibeaqueen, itsdogecoin, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, im, charged, ready, take, https]
+	X tweet_count = [211]
+	X username = [Jack]
+Y = [@iBeaQueen @WhitneyWalker33 @LadyDogeBugBird @ItsDogeCoin @JubaJeeves @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Another Dorgy? This is the best Saturday every.😂]
+Y_token = [ibeaqueen, whitneywalker33, ladydogebugbird, itsdogecoin, jubajeeves, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, another, dorgy, best, saturday]
+	Y tweet_count = [219]
+	Y username = [Jack]
+Total Length: X = 612, Y = 588 (Y / X = 96.08  X / Y = 104.08)
+Dice Coefficient: 89.16% 
+
+X = [@iBeaQueen @ItsDogeCoin @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Im all charged up and ready for take off now. 🥰😍 https://t.co/JWniVLQbUF]
+X_token = [ibeaqueen, itsdogecoin, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, im, charged, ready, take, https]
+	X tweet_count = [211]
+	X username = [Jack]
+Y = [@LadyDogeBugBird @JosRobe56761783 @Toddwade69420 @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Same. I asked my wife what it said. She said it's not Spanish dumb ass. 🤣🤣🤣]
+Y_token = [ladydogebugbird, josrobe56761783, toddwade69420, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, asked, wife, said, said, spanish, dumb, ass]
+	Y tweet_count = [220]
+	Y username = [Jack]
+Total Length: X = 612, Y = 632 (Y / X = 103.27  X / Y = 96.84)
+Dice Coefficient: 86.05% 
+
+X = [@iBeaQueen @ItsDogeCoin @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Im all charged up and ready for take off now. 🥰😍 https://t.co/JWniVLQbUF]
+X_token = [ibeaqueen, itsdogecoin, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, im, charged, ready, take, https]
+	X tweet_count = [211]
+	X username = [Jack]
+Y = [@Toddwade69420 @JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink That was fast.]
+Y_token = [toddwade69420, josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, fast]
+	Y tweet_count = [221]
+	Y username = [Jack]
+Total Length: X = 612, Y = 571 (Y / X = 93.30  X / Y = 107.18)
+Dice Coefficient: 91.36% 
+
+X = [@iBeaQueen @ItsDogeCoin @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Im all charged up and ready for take off now. 🥰😍 https://t.co/JWniVLQbUF]
+X_token = [ibeaqueen, itsdogecoin, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, im, charged, ready, take, https]
+	X tweet_count = [211]
+	X username = [Jack]
+Y = [@JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink https://t.co/5DMHHPB4I2 . upload photo and then search for laser eyes. copy &amp; paste.]
+Y_token = [josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, https, upload, photo, search, laser, eyes, copy, amp, paste]
+	Y tweet_count = [222]
+	Y username = [Jack]
+Total Length: X = 612, Y = 645 (Y / X = 105.39  X / Y = 94.88)
+Dice Coefficient: 85.39% 
+
+X = [@ItsDogeCoin @LadyDogeBugBird @JubaJeeves @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Exactly!]
+X_token = [itsdogecoin, ladydogebugbird, jubajeeves, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, exactly]
+	X tweet_count = [212]
+	X username = [Jack]
+Y = [@iBeaQueen @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink 50 Shades of #Doge! 🤞💥❤]
+Y_token = [ibeaqueen, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, 50, shades, doge]
+	Y tweet_count = [213]
+	Y username = [Jack]
+Total Length: X = 548, Y = 563 (Y / X = 102.74  X / Y = 97.34)
+Dice Coefficient: 94.87% 
+
+X = [@ItsDogeCoin @LadyDogeBugBird @JubaJeeves @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Exactly!]
+X_token = [itsdogecoin, ladydogebugbird, jubajeeves, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, exactly]
+	X tweet_count = [212]
+	X username = [Jack]
+Y = [@LadyDogeBugBird @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @JubaJeeves @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink It's gettin 🔥 in here!]
+Y_token = [ladydogebugbird, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, jubajeeves, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, gettin]
+	Y tweet_count = [214]
+	Y username = [Jack]
+Total Length: X = 548, Y = 562 (Y / X = 102.55  X / Y = 97.51)
+Dice Coefficient: 97.37% 
+
+X = [@ItsDogeCoin @LadyDogeBugBird @JubaJeeves @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Exactly!]
+X_token = [itsdogecoin, ladydogebugbird, jubajeeves, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, exactly]
+	X tweet_count = [212]
+	X username = [Jack]
+Y = [@iBeaQueen @WhitneyWalker33 @LadyDogeBugBird @ItsDogeCoin @JubaJeeves @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Another Dorgy? This is the best Saturday every.😂]
+Y_token = [ibeaqueen, whitneywalker33, ladydogebugbird, itsdogecoin, jubajeeves, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, another, dorgy, best, saturday]
+	Y tweet_count = [219]
+	Y username = [Jack]
+Total Length: X = 548, Y = 588 (Y / X = 107.30  X / Y = 93.20)
+Dice Coefficient: 93.67% 
+
+X = [@ItsDogeCoin @LadyDogeBugBird @JubaJeeves @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Exactly!]
+X_token = [itsdogecoin, ladydogebugbird, jubajeeves, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, exactly]
+	X tweet_count = [212]
+	X username = [Jack]
+Y = [@LadyDogeBugBird @JosRobe56761783 @Toddwade69420 @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Same. I asked my wife what it said. She said it's not Spanish dumb ass. 🤣🤣🤣]
+Y_token = [ladydogebugbird, josrobe56761783, toddwade69420, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, asked, wife, said, said, spanish, dumb, ass]
+	Y tweet_count = [220]
+	Y username = [Jack]
+Total Length: X = 548, Y = 632 (Y / X = 115.33  X / Y = 86.71)
+Dice Coefficient: 90.24% 
+
+X = [@ItsDogeCoin @LadyDogeBugBird @JubaJeeves @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Exactly!]
+X_token = [itsdogecoin, ladydogebugbird, jubajeeves, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, exactly]
+	X tweet_count = [212]
+	X username = [Jack]
+Y = [@Toddwade69420 @JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink That was fast.]
+Y_token = [toddwade69420, josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, fast]
+	Y tweet_count = [221]
+	Y username = [Jack]
+Total Length: X = 548, Y = 571 (Y / X = 104.20  X / Y = 95.97)
+Dice Coefficient: 96.10% 
+
+X = [@ItsDogeCoin @LadyDogeBugBird @JubaJeeves @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Exactly!]
+X_token = [itsdogecoin, ladydogebugbird, jubajeeves, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, exactly]
+	X tweet_count = [212]
+	X username = [Jack]
+Y = [@JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink https://t.co/5DMHHPB4I2 . upload photo and then search for laser eyes. copy &amp; paste.]
+Y_token = [josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, https, upload, photo, search, laser, eyes, copy, amp, paste]
+	Y tweet_count = [222]
+	Y username = [Jack]
+Total Length: X = 548, Y = 645 (Y / X = 117.70  X / Y = 84.96)
+Dice Coefficient: 87.06% 
+
+X = [@iBeaQueen @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink 50 Shades of #Doge! 🤞💥❤]
+X_token = [ibeaqueen, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, 50, shades, doge]
+	X tweet_count = [213]
+	X username = [Jack]
+Y = [@LadyDogeBugBird @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @JubaJeeves @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink It's gettin 🔥 in here!]
+Y_token = [ladydogebugbird, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, jubajeeves, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, gettin]
+	Y tweet_count = [214]
+	Y username = [Jack]
+Total Length: X = 563, Y = 562 (Y / X = 99.82  X / Y = 100.18)
+Dice Coefficient: 94.87% 
+
+X = [@iBeaQueen @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink 50 Shades of #Doge! 🤞💥❤]
+X_token = [ibeaqueen, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, 50, shades, doge]
+	X tweet_count = [213]
+	X username = [Jack]
+Y = [@iBeaQueen @WhitneyWalker33 @LadyDogeBugBird @ItsDogeCoin @JubaJeeves @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Another Dorgy? This is the best Saturday every.😂]
+Y_token = [ibeaqueen, whitneywalker33, ladydogebugbird, itsdogecoin, jubajeeves, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, another, dorgy, best, saturday]
+	Y tweet_count = [219]
+	Y username = [Jack]
+Total Length: X = 563, Y = 588 (Y / X = 104.44  X / Y = 95.75)
+Dice Coefficient: 91.36% 
+
+X = [@iBeaQueen @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink 50 Shades of #Doge! 🤞💥❤]
+X_token = [ibeaqueen, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, 50, shades, doge]
+	X tweet_count = [213]
+	X username = [Jack]
+Y = [@LadyDogeBugBird @JosRobe56761783 @Toddwade69420 @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Same. I asked my wife what it said. She said it's not Spanish dumb ass. 🤣🤣🤣]
+Y_token = [ladydogebugbird, josrobe56761783, toddwade69420, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, asked, wife, said, said, spanish, dumb, ass]
+	Y tweet_count = [220]
+	Y username = [Jack]
+Total Length: X = 563, Y = 632 (Y / X = 112.26  X / Y = 89.08)
+Dice Coefficient: 88.10% 
+
+X = [@iBeaQueen @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink 50 Shades of #Doge! 🤞💥❤]
+X_token = [ibeaqueen, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, 50, shades, doge]
+	X tweet_count = [213]
+	X username = [Jack]
+Y = [@Toddwade69420 @JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink That was fast.]
+Y_token = [toddwade69420, josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, fast]
+	Y tweet_count = [221]
+	Y username = [Jack]
+Total Length: X = 563, Y = 571 (Y / X = 101.42  X / Y = 98.60)
+Dice Coefficient: 93.67% 
+
+X = [@iBeaQueen @LadyDogeBugBird @JubaJeeves @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink 50 Shades of #Doge! 🤞💥❤]
+X_token = [ibeaqueen, ladydogebugbird, jubajeeves, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, 50, shades, doge]
+	X tweet_count = [213]
+	X username = [Jack]
+Y = [@JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink https://t.co/5DMHHPB4I2 . upload photo and then search for laser eyes. copy &amp; paste.]
+Y_token = [josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, https, upload, photo, search, laser, eyes, copy, amp, paste]
+	Y tweet_count = [222]
+	Y username = [Jack]
+Total Length: X = 563, Y = 645 (Y / X = 114.56  X / Y = 87.29)
+Dice Coefficient: 85.06% 
+
+X = [@LadyDogeBugBird @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @JubaJeeves @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink It's gettin 🔥 in here!]
+X_token = [ladydogebugbird, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, jubajeeves, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, gettin]
+	X tweet_count = [214]
+	X username = [Jack]
+Y = [@iBeaQueen @WhitneyWalker33 @LadyDogeBugBird @ItsDogeCoin @JubaJeeves @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Another Dorgy? This is the best Saturday every.😂]
+Y_token = [ibeaqueen, whitneywalker33, ladydogebugbird, itsdogecoin, jubajeeves, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, another, dorgy, best, saturday]
+	Y tweet_count = [219]
+	Y username = [Jack]
+Total Length: X = 562, Y = 588 (Y / X = 104.63  X / Y = 95.58)
+Dice Coefficient: 93.67% 
+
+X = [@LadyDogeBugBird @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @JubaJeeves @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink It's gettin 🔥 in here!]
+X_token = [ladydogebugbird, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, jubajeeves, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, gettin]
+	X tweet_count = [214]
+	X username = [Jack]
+Y = [@LadyDogeBugBird @JosRobe56761783 @Toddwade69420 @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Same. I asked my wife what it said. She said it's not Spanish dumb ass. 🤣🤣🤣]
+Y_token = [ladydogebugbird, josrobe56761783, toddwade69420, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, asked, wife, said, said, spanish, dumb, ass]
+	Y tweet_count = [220]
+	Y username = [Jack]
+Total Length: X = 562, Y = 632 (Y / X = 112.46  X / Y = 88.92)
+Dice Coefficient: 90.24% 
+
+X = [@LadyDogeBugBird @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @JubaJeeves @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink It's gettin 🔥 in here!]
+X_token = [ladydogebugbird, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, jubajeeves, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, gettin]
+	X tweet_count = [214]
+	X username = [Jack]
+Y = [@Toddwade69420 @JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink That was fast.]
+Y_token = [toddwade69420, josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, fast]
+	Y tweet_count = [221]
+	Y username = [Jack]
+Total Length: X = 562, Y = 571 (Y / X = 101.60  X / Y = 98.42)
+Dice Coefficient: 96.10% 
+
+X = [@LadyDogeBugBird @iBeaQueen @WhitneyWalker33 @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @JubaJeeves @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @ItsDogeCoin @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink It's gettin 🔥 in here!]
+X_token = [ladydogebugbird, ibeaqueen, whitneywalker33, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, jubajeeves, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, itsdogecoin, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, gettin]
+	X tweet_count = [214]
+	X username = [Jack]
+Y = [@JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink https://t.co/5DMHHPB4I2 . upload photo and then search for laser eyes. copy &amp; paste.]
+Y_token = [josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, https, upload, photo, search, laser, eyes, copy, amp, paste]
+	Y tweet_count = [222]
+	Y username = [Jack]
+Total Length: X = 562, Y = 645 (Y / X = 114.77  X / Y = 87.13)
+Dice Coefficient: 87.06% 
+
+X = [@iBeaQueen @WhitneyWalker33 @LadyDogeBugBird @ItsDogeCoin @JubaJeeves @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Another Dorgy? This is the best Saturday every.😂]
+X_token = [ibeaqueen, whitneywalker33, ladydogebugbird, itsdogecoin, jubajeeves, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, another, dorgy, best, saturday]
+	X tweet_count = [219]
+	X username = [Jack]
+Y = [@LadyDogeBugBird @JosRobe56761783 @Toddwade69420 @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Same. I asked my wife what it said. She said it's not Spanish dumb ass. 🤣🤣🤣]
+Y_token = [ladydogebugbird, josrobe56761783, toddwade69420, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, asked, wife, said, said, spanish, dumb, ass]
+	Y tweet_count = [220]
+	Y username = [Jack]
+Total Length: X = 588, Y = 632 (Y / X = 107.48  X / Y = 93.04)
+Dice Coefficient: 87.06% 
+
+X = [@iBeaQueen @WhitneyWalker33 @LadyDogeBugBird @ItsDogeCoin @JubaJeeves @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Another Dorgy? This is the best Saturday every.😂]
+X_token = [ibeaqueen, whitneywalker33, ladydogebugbird, itsdogecoin, jubajeeves, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, another, dorgy, best, saturday]
+	X tweet_count = [219]
+	X username = [Jack]
+Y = [@Toddwade69420 @JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink That was fast.]
+Y_token = [toddwade69420, josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, fast]
+	Y tweet_count = [221]
+	Y username = [Jack]
+Total Length: X = 588, Y = 571 (Y / X = 97.11  X / Y = 102.98)
+Dice Coefficient: 92.50% 
+
+X = [@iBeaQueen @WhitneyWalker33 @LadyDogeBugBird @ItsDogeCoin @JubaJeeves @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Another Dorgy? This is the best Saturday every.😂]
+X_token = [ibeaqueen, whitneywalker33, ladydogebugbird, itsdogecoin, jubajeeves, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, another, dorgy, best, saturday]
+	X tweet_count = [219]
+	X username = [Jack]
+Y = [@JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink https://t.co/5DMHHPB4I2 . upload photo and then search for laser eyes. copy &amp; paste.]
+Y_token = [josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, https, upload, photo, search, laser, eyes, copy, amp, paste]
+	Y tweet_count = [222]
+	Y username = [Jack]
+Total Length: X = 588, Y = 645 (Y / X = 109.69  X / Y = 91.16)
+Dice Coefficient: 84.09% 
+
+X = [@LadyDogeBugBird @JosRobe56761783 @Toddwade69420 @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Same. I asked my wife what it said. She said it's not Spanish dumb ass. 🤣🤣🤣]
+X_token = [ladydogebugbird, josrobe56761783, toddwade69420, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, asked, wife, said, said, spanish, dumb, ass]
+	X tweet_count = [220]
+	X username = [Jack]
+Y = [@Toddwade69420 @JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink That was fast.]
+Y_token = [toddwade69420, josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, fast]
+	Y tweet_count = [221]
+	Y username = [Jack]
+Total Length: X = 632, Y = 571 (Y / X = 90.35  X / Y = 110.68)
+Dice Coefficient: 91.57% 
+
+X = [@LadyDogeBugBird @JosRobe56761783 @Toddwade69420 @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink Same. I asked my wife what it said. She said it's not Spanish dumb ass. 🤣🤣🤣]
+X_token = [ladydogebugbird, josrobe56761783, toddwade69420, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, asked, wife, said, said, spanish, dumb, ass]
+	X tweet_count = [220]
+	X username = [Jack]
+Y = [@JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink https://t.co/5DMHHPB4I2 . upload photo and then search for laser eyes. copy &amp; paste.]
+Y_token = [josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, https, upload, photo, search, laser, eyes, copy, amp, paste]
+	Y tweet_count = [222]
+	Y username = [Jack]
+Total Length: X = 632, Y = 645 (Y / X = 102.06  X / Y = 97.98)
+Dice Coefficient: 83.52% 
+
+X = [@Toddwade69420 @JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink That was fast.]
+X_token = [toddwade69420, josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, fast]
+	X tweet_count = [221]
+	X username = [Jack]
+Y = [@JosRobe56761783 @LadyDogeBugBird @WhitneyWalker33 @ItsDogeCoin @JubaJeeves @iBeaQueen @bholman24930782 @dedcel2 @Pin86939060 @aaronjwithers @Izzak_83 @JJHARRISON1 @BabyBakend @Danology4 @ImTravisG @coolhandlucy22 @Samantha5780015 @JQT_CoinLinked @MattIJaramillo @ceroromo1 @Lilmook4real @TimNewt29857883 @DreamBigBeBig20 @pifinity @mcuban @elonmusk @og_dogecoin @GraceOArmstrong @DogecoinRise @dogeofficialceo @JackBananas2 @DOGECOINNEWS3 @SargentDoge @Toddwade69420 @PsychedelicDoge @stephenAdoge @DogeMcCoin @DogeMemeGuild @SpaceX @Tesla @SpaceXStarlink https://t.co/5DMHHPB4I2 . upload photo and then search for laser eyes. copy &amp; paste.]
+Y_token = [josrobe56761783, ladydogebugbird, whitneywalker33, itsdogecoin, jubajeeves, ibeaqueen, bholman24930782, dedcel2, pin86939060, aaronjwithers, jjharrison1, babybakend, danology4, imtravisg, coolhandlucy22, samantha5780015, mattijaramillo, ceroromo1, lilmook4real, timnewt29857883, dreambigbebig20, pifinity, mcuban, elonmusk, graceoarmstrong, dogecoinrise, dogeofficialceo, jackbananas2, dogecoinnews3, sargentdoge, toddwade69420, psychedelicdoge, stephenadoge, dogemccoin, dogememeguild, spacex, tesla, spacexstarlink, https, upload, photo, search, laser, eyes, copy, amp, paste]
+	Y tweet_count = [222]
+	Y username = [Jack]
+Total Length: X = 571, Y = 645 (Y / X = 112.96  X / Y = 88.53)
+Dice Coefficient: 88.37% 
+
+X = [Great and success project in the future\n\n@JogiLaguna  \n \n@MohArisFaizin1 \n\n@ibnusina1945 \n\n#Dogecoin #BSC #DEX #YieldFarming]
+X_token = [great, success, project, future, jogilaguna, moharisfaizin1, ibnusina1945, dogecoin, bsc, dex, yieldfarming]
+	X tweet_count = [234]
+	X username = [Jack]
+Y = [@MoonDogeswap @PancakeSwap Great and success project in the future\n\n@JogiLaguna  \n \n@MohArisFaizin1 \n\n@ibnusina1945 \n\n#Dogecoin #BSC #DEX #YieldFarming]
+Y_token = [moondogeswap, pancakeswap, great, success, project, future, jogilaguna, moharisfaizin1, ibnusina1945, dogecoin, bsc, dex, yieldfarming]
+	Y tweet_count = [235]
+	Y username = [Jack]
+Total Length: X = 124, Y = 151 (Y / X = 121.77  X / Y = 82.12)
+Dice Coefficient: 91.67% 
+
+X = [@MoonDogeswap @PancakeSwap Great and success project in the future\n\n@JogiLaguna  \n \n@MohArisFaizin1 \n\n@ibnusina1945 \n\n#Dogecoin #BSC #DEX #YieldFarming]
+X_token = [moondogeswap, pancakeswap, great, success, project, future, jogilaguna, moharisfaizin1, ibnusina1945, dogecoin, bsc, dex, yieldfarming]
+	X tweet_count = [235]
+	X username = [Jack]
+Y = [Great project and success in the future\n@JogiLaguna @ibnusina1945 @MohArisFaizin1 \n$MFO #MoonFarmFinance #DEFI #BSC #Binance #BNB #PancakeSwap #Dogecoin]
+Y_token = [great, project, success, future, jogilaguna, ibnusina1945, moharisfaizin1, mfo, moonfarmfinance, defi, bsc, binance, bnb, pancakeswap, dogecoin]
+	Y tweet_count = [249]
+	Y username = [Jack]
+Total Length: X = 151, Y = 152 (Y / X = 100.66  X / Y = 99.34)
+Dice Coefficient: 71.43% 
+
+X = [@TraderBundy $CAPC Setting for $2 break!! $3 will come fast after 🔥🔥\n\n$HCMC $OPTI $GGII $HMBL $MARA $AABB $BLSP $CRIS $EYES $EYESW $LHDX $AUTL $WISA $SSTI $BRN $MCD $AAPL $BA $LCTD $BTC $DOGE $SNDL $CTRM $AMC $GME $GAXY $KNOS $DRNK $ABML $CYDY $ALPP $ATVK $COUV $MJWL $NWBO $COOP $VXIT $SIEB]
+X_token = [traderbundy, capc, setting, 2, break, 3, come, fast, hcmc, opti, ggii, hmbl, mara, aabb, blsp, cris, eyes, eyesw, lhdx, autl, wisa, ssti, brn, mcd, aapl, ba, lctd, btc, doge, sndl, ctrm, amc, gme, gaxy, knos, drnk, abml, cydy, alpp, atvk, couv, mjwl, nwbo, coop, vxit, sieb]
+	X tweet_count = [246]
+	X username = [Jack]
+Y = [@Jaron14821845 $CAPC 23 Mil float days out from biggest catalyst. 🔥\n\n$HCMC $OPTI $GGII $HMBL $MARA $AABB $BLSP $CRIS $EYES $EYESW $LHDX $AUTL $WISA $SSTI $BRN $MCD $AAPL $BA $LCTD $BTC $DOGE $SNDL $CTRM $AMC $GME $GAXY $KNOS $DRNK $ABML $CYDY $ALPP $ATVK $COUV $MJWL $NWBO $COOP $VXIT $SIEB]
+Y_token = [jaron14821845, capc, 23, mil, float, days, biggest, catalyst, hcmc, opti, ggii, hmbl, mara, aabb, blsp, cris, eyes, eyesw, lhdx, autl, wisa, ssti, brn, mcd, aapl, ba, lctd, btc, doge, sndl, ctrm, amc, gme, gaxy, knos, drnk, abml, cydy, alpp, atvk, couv, mjwl, nwbo, coop, vxit, sieb]
+	Y tweet_count = [252]
+	Y username = [Jack]
+Total Length: X = 291, Y = 290 (Y / X = 99.66  X / Y = 100.34)
+Dice Coefficient: 84.78% 
+
+X = [@JQT_CoinLinked @Benzinga @elonmusk @mcuban @BillyM2k @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum same!]
+X_token = [benzinga, elonmusk, mcuban, billym2k, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum]
+	X tweet_count = [259]
+	X username = [Jack]
+Y = [@JQT_CoinLinked @BillyM2k @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum Thank you.]
+Y_token = [billym2k, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, thank]
+	Y tweet_count = [261]
+	Y username = [Jack]
+Total Length: X = 176, Y = 181 (Y / X = 102.84  X / Y = 97.24)
+Dice Coefficient: 96.30% 
+
+X = [@JQT_CoinLinked @Benzinga @elonmusk @mcuban @BillyM2k @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum same!]
+X_token = [benzinga, elonmusk, mcuban, billym2k, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum]
+	X tweet_count = [259]
+	X username = [Jack]
+Y = [@BillyM2k @JQT_CoinLinked @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum 😀 im sure you think most of this is comical.]
+Y_token = [billym2k, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, im, sure, think, comical]
+	Y tweet_count = [263]
+	Y username = [Jack]
+Total Length: X = 176, Y = 215 (Y / X = 122.16  X / Y = 81.86)
+Dice Coefficient: 86.67% 
+
+X = [@JQT_CoinLinked @Benzinga @elonmusk @mcuban @BillyM2k @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum same!]
+X_token = [benzinga, elonmusk, mcuban, billym2k, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum]
+	X tweet_count = [259]
+	X username = [Jack]
+Y = [@JQT_CoinLinked @Benzinga @elonmusk @mcuban @BillyM2k @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum 🤣 some feelings are going to be hurt over this. 🤣]
+Y_token = [benzinga, elonmusk, mcuban, billym2k, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, feelings, going, hurt]
+	Y tweet_count = [266]
+	Y username = [Jack]
+Total Length: X = 176, Y = 220 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 89.66% 
+
+X = [@BigImpactHumans @BillyM2k @BENBALLER @JQT_CoinLinked @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @davidgokhshtein @christinebarnum Yeah , im not putting my shower thoughts on twitter. Pornhub maybe.🤣]
+X_token = [bigimpacthumans, billym2k, benballer, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, davidgokhshtein, christinebarnum, yeah, im, putting, shower, thoughts, twitter, pornhub]
+	X tweet_count = [260]
+	X username = [Jack]
+Y = [@BillyM2k @JQT_CoinLinked @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum 😀 im sure you think most of this is comical.]
+Y_token = [billym2k, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, im, sure, think, comical]
+	Y tweet_count = [263]
+	Y username = [Jack]
+Total Length: X = 256, Y = 215 (Y / X = 83.98  X / Y = 119.07)
+Dice Coefficient: 73.68% 
+
+X = [@BigImpactHumans @BillyM2k @BENBALLER @JQT_CoinLinked @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @davidgokhshtein @christinebarnum Yeah , im not putting my shower thoughts on twitter. Pornhub maybe.🤣]
+X_token = [bigimpacthumans, billym2k, benballer, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, davidgokhshtein, christinebarnum, yeah, im, putting, shower, thoughts, twitter, pornhub]
+	X tweet_count = [260]
+	X username = [Jack]
+Y = [@JQT_CoinLinked @Benzinga @elonmusk @mcuban @BillyM2k @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum 🤣 some feelings are going to be hurt over this. 🤣]
+Y_token = [benzinga, elonmusk, mcuban, billym2k, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, feelings, going, hurt]
+	Y tweet_count = [266]
+	Y username = [Jack]
+Total Length: X = 256, Y = 220 (Y / X = 85.94  X / Y = 116.36)
+Dice Coefficient: 70.27% 
+
+X = [@JQT_CoinLinked @BillyM2k @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum Thank you.]
+X_token = [billym2k, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, thank]
+	X tweet_count = [261]
+	X username = [Jack]
+Y = [@BillyM2k @JQT_CoinLinked @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum 😀 im sure you think most of this is comical.]
+Y_token = [billym2k, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, im, sure, think, comical]
+	Y tweet_count = [263]
+	Y username = [Jack]
+Total Length: X = 181, Y = 215 (Y / X = 118.78  X / Y = 84.19)
+Dice Coefficient: 83.87% 
+
+X = [@JQT_CoinLinked @BillyM2k @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum Thank you.]
+X_token = [billym2k, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, thank]
+	X tweet_count = [261]
+	X username = [Jack]
+Y = [@JQT_CoinLinked @Benzinga @elonmusk @mcuban @BillyM2k @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum 🤣 some feelings are going to be hurt over this. 🤣]
+Y_token = [benzinga, elonmusk, mcuban, billym2k, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, feelings, going, hurt]
+	Y tweet_count = [266]
+	Y username = [Jack]
+Total Length: X = 181, Y = 220 (Y / X = 121.55  X / Y = 82.27)
+Dice Coefficient: 86.67% 
+
+X = [@BillyM2k @JQT_CoinLinked @Benzinga @elonmusk @mcuban @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum 😀 im sure you think most of this is comical.]
+X_token = [billym2k, benzinga, elonmusk, mcuban, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, im, sure, think, comical]
+	X tweet_count = [263]
+	X username = [Jack]
+Y = [@JQT_CoinLinked @Benzinga @elonmusk @mcuban @BillyM2k @dogecoin @SlimJim @DogecoinMemes @Dogepunks @itsALLrisky @DogecoinRise @BENBALLER @davidgokhshtein @christinebarnum 🤣 some feelings are going to be hurt over this. 🤣]
+Y_token = [benzinga, elonmusk, mcuban, billym2k, dogecoin, slimjim, dogecoinmemes, dogepunks, itsallrisky, dogecoinrise, benballer, davidgokhshtein, christinebarnum, feelings, going, hurt]
+	Y tweet_count = [266]
+	Y username = [Jack]
+Total Length: X = 215, Y = 220 (Y / X = 102.33  X / Y = 97.73)
+Dice Coefficient: 78.79% 
+

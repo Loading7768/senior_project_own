@@ -1,0 +1,33 @@
+﻿X = [Oops🤭 #dogecoin 🚀🚀Take off  #ElonMusk]
+X_token = [dogecoin, elonmusk]
+	X tweet_count = [10]
+	X username = [Sid]
+Y = [Is it over? #dogecoin @elonmusk]
+Y_token = [dogecoin, elonmusk]
+	Y tweet_count = [20]
+	Y username = [Sid]
+Total Length: X = 37, Y = 31 (Y / X = 83.78  X / Y = 119.35)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk \nWhat is #dogecoin?]
+X_token = [elonmusk, dogecoin]
+	X tweet_count = [18]
+	X username = [Sid]
+Y = [Is it over? #dogecoin @elonmusk]
+Y_token = [dogecoin, elonmusk]
+	Y tweet_count = [20]
+	Y username = [Sid]
+Total Length: X = 29, Y = 31 (Y / X = 106.90  X / Y = 93.55)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin the dip https://t.co/pV3cDjI8Wf]
+X_token = [dogecoin, dip, https]
+	X tweet_count = [22]
+	X username = [Sid]
+Y = [It is #dogecoin https://t.co/Fuvu18wVaS]
+Y_token = [dogecoin, https]
+	Y tweet_count = [23]
+	Y username = [Sid]
+Total Length: X = 41, Y = 39 (Y / X = 95.12  X / Y = 105.13)
+Dice Coefficient: 80.00% 
+

@@ -1,0 +1,66 @@
+﻿X = [@Cointelegraph Hey $Doge\n\nhttps://t.co/3RvcjZlkPL]
+X_token = [cointelegraph, hey, doge, https]
+	X tweet_count = [3]
+	X username = [PuntaDulce]
+Y = [@stoolpresidente Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+Y_token = [stoolpresidente, hey, doge, https]
+	Y tweet_count = [4]
+	Y username = [PuntaDulce]
+Total Length: X = 49, Y = 52 (Y / X = 106.12  X / Y = 94.23)
+Dice Coefficient: 75.00% 
+
+X = [@Cointelegraph Hey $Doge\n\nhttps://t.co/3RvcjZlkPL]
+X_token = [cointelegraph, hey, doge, https]
+	X tweet_count = [3]
+	X username = [PuntaDulce]
+Y = [@stoolpresidente Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+Y_token = [stoolpresidente, hey, doge, https]
+	Y tweet_count = [5]
+	Y username = [PuntaDulce]
+Total Length: X = 49, Y = 52 (Y / X = 106.12  X / Y = 94.23)
+Dice Coefficient: 75.00% 
+
+X = [@Cointelegraph Hey $Doge\n\nhttps://t.co/3RvcjZlkPL]
+X_token = [cointelegraph, hey, doge, https]
+	X tweet_count = [3]
+	X username = [PuntaDulce]
+Y = [@WSBChairman Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+Y_token = [wsbchairman, hey, doge, https]
+	Y tweet_count = [6]
+	Y username = [PuntaDulce]
+Total Length: X = 49, Y = 48 (Y / X = 97.96  X / Y = 102.08)
+Dice Coefficient: 75.00% 
+
+X = [@stoolpresidente Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+X_token = [stoolpresidente, hey, doge, https]
+	X tweet_count = [4]
+	X username = [PuntaDulce]
+Y = [@stoolpresidente Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+Y_token = [stoolpresidente, hey, doge, https]
+	Y tweet_count = [5]
+	Y username = [PuntaDulce]
+Total Length: X = 52, Y = 52 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@stoolpresidente Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+X_token = [stoolpresidente, hey, doge, https]
+	X tweet_count = [4]
+	X username = [PuntaDulce]
+Y = [@WSBChairman Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+Y_token = [wsbchairman, hey, doge, https]
+	Y tweet_count = [6]
+	Y username = [PuntaDulce]
+Total Length: X = 52, Y = 48 (Y / X = 92.31  X / Y = 108.33)
+Dice Coefficient: 75.00% 
+
+X = [@stoolpresidente Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+X_token = [stoolpresidente, hey, doge, https]
+	X tweet_count = [5]
+	X username = [PuntaDulce]
+Y = [@WSBChairman Hey $Doge \n\nhttps://t.co/3RvcjZlkPL]
+Y_token = [wsbchairman, hey, doge, https]
+	Y tweet_count = [6]
+	Y username = [PuntaDulce]
+Total Length: X = 52, Y = 48 (Y / X = 92.31  X / Y = 108.33)
+Dice Coefficient: 75.00% 
+

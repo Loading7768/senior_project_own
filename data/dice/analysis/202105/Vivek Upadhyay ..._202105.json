@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@elonmusk Now your tweet doesn't matter for @dogecoin movement.",
+        "X_token": "elonmusk, tweet, matter, dogecoin, movement",
+        "X_tweet_count": 5,
+        "X_username": "Vivek Upadhyay ...",
+        "Y_text": "@elonmusk Now your tweet dont have any effect on dogecoin movement.",
+        "Y_token": "elonmusk, tweet, dont, effect, dogecoin, movement",
+        "Y_tweet_count": 47,
+        "Y_username": "Vivek Upadhyay ...",
+        "X_length": 63,
+        "Y_length": 67,
+        "Y_length_percent_of_X": 106.35,
+        "X_length_percent_of_Y": 94.03,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@buyucoin I think buyucoin make there mind to not refund your money that why email otp is not resolved from last 6 days. @buyucoin @BuyucoinIndia @elonmusk @dogecoin #IndiaWantsBitcoin #CryptoNews #AcceptDOGE #Airdrops #doge",
+        "X_token": "buyucoin, think, buyucoin, make, mind, refund, money, email, otp, resolved, last, 6, days, buyucoin, buyucoinindia, elonmusk, dogecoin, indiawantsbitcoin, cryptonews, acceptdoge, airdrops, doge",
+        "X_tweet_count": 54,
+        "X_username": "Vivek Upadhyay ...",
+        "Y_text": "@buyucoin @0xPolygon I think buyucoin make there mind to not refund your money that why email otp is not resolved from last 6 days. @buyucoin @BuyucoinIndia @elonmusk @dogecoin #IndiaWantsBitcoin #CryptoNews #AcceptDOGE #Airdrops #doge",
+        "Y_token": "buyucoin, 0xpolygon, think, buyucoin, make, mind, refund, money, email, otp, resolved, last, 6, days, buyucoin, buyucoinindia, elonmusk, dogecoin, indiawantsbitcoin, cryptonews, acceptdoge, airdrops, doge",
+        "Y_tweet_count": 55,
+        "Y_username": "Vivek Upadhyay ...",
+        "X_length": 224,
+        "Y_length": 235,
+        "Y_length_percent_of_X": 104.91,
+        "X_length_percent_of_Y": 95.32,
+        "dice_coefficient": 97.56
+    },
+    {
+        "X_text": "@buyucoin I think buyucoin make there mind to not refund your money that why email otp is not resolved from last 6 days. @buyucoin @BuyucoinIndia @elonmusk @dogecoin #IndiaWantsBitcoin #CryptoNews #AcceptDOGE #Airdrops #doge",
+        "X_token": "buyucoin, think, buyucoin, make, mind, refund, money, email, otp, resolved, last, 6, days, buyucoin, buyucoinindia, elonmusk, dogecoin, indiawantsbitcoin, cryptonews, acceptdoge, airdrops, doge",
+        "X_tweet_count": 54,
+        "X_username": "Vivek Upadhyay ...",
+        "Y_text": "I think buyucoin make there mind to not refund your money that why email otp is not resolved from last 6 days. @buyucoin @BuyucoinIndia @elonmusk @dogecoin #IndiaWantsBitcoin #CryptoNews #AcceptDOGE #Airdrops #doge",
+        "Y_token": "think, buyucoin, make, mind, refund, money, email, otp, resolved, last, 6, days, buyucoin, buyucoinindia, elonmusk, dogecoin, indiawantsbitcoin, cryptonews, acceptdoge, airdrops, doge",
+        "Y_tweet_count": 56,
+        "Y_username": "Vivek Upadhyay ...",
+        "X_length": 224,
+        "Y_length": 214,
+        "Y_length_percent_of_X": 95.54,
+        "X_length_percent_of_Y": 104.67,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@buyucoin @0xPolygon I think buyucoin make there mind to not refund your money that why email otp is not resolved from last 6 days. @buyucoin @BuyucoinIndia @elonmusk @dogecoin #IndiaWantsBitcoin #CryptoNews #AcceptDOGE #Airdrops #doge",
+        "X_token": "buyucoin, 0xpolygon, think, buyucoin, make, mind, refund, money, email, otp, resolved, last, 6, days, buyucoin, buyucoinindia, elonmusk, dogecoin, indiawantsbitcoin, cryptonews, acceptdoge, airdrops, doge",
+        "X_tweet_count": 55,
+        "X_username": "Vivek Upadhyay ...",
+        "Y_text": "I think buyucoin make there mind to not refund your money that why email otp is not resolved from last 6 days. @buyucoin @BuyucoinIndia @elonmusk @dogecoin #IndiaWantsBitcoin #CryptoNews #AcceptDOGE #Airdrops #doge",
+        "Y_token": "think, buyucoin, make, mind, refund, money, email, otp, resolved, last, 6, days, buyucoin, buyucoinindia, elonmusk, dogecoin, indiawantsbitcoin, cryptonews, acceptdoge, airdrops, doge",
+        "Y_tweet_count": 56,
+        "Y_username": "Vivek Upadhyay ...",
+        "X_length": 235,
+        "Y_length": 214,
+        "Y_length_percent_of_X": 91.06,
+        "X_length_percent_of_Y": 109.81,
+        "dice_coefficient": 97.56
+    }
+]

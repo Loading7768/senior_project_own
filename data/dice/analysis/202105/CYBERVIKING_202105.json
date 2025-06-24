@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Doge hitting 1 Dollar\n@elonmusk https://t.co/hJMfqxvTjV",
+        "X_token": "doge, hitting, 1, dollar, elonmusk, https",
+        "X_tweet_count": 1,
+        "X_username": "CYBERVIKING",
+        "Y_text": "Doge hitting 1 Dollar https://t.co/jy6ZJljMaw",
+        "Y_token": "doge, hitting, 1, dollar, https",
+        "Y_tweet_count": 2,
+        "Y_username": "CYBERVIKING",
+        "X_length": 55,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 81.82,
+        "X_length_percent_of_Y": 122.22,
+        "dice_coefficient": 90.91
+    },
+    {
+        "X_text": "@elonmusk  YOU ARE MY HERO LORD ELON DOGEFATHER #DOGE\n#Doge4Tesla #dogetothemoon #dogearmy",
+        "X_token": "elonmusk, hero, lord, elon, dogefather, doge, doge4tesla, dogetothemoon, dogearmy",
+        "X_tweet_count": 5,
+        "X_username": "CYBERVIKING",
+        "Y_text": "@elonmusk YOU ARE MY HERO LORD ELON DOGEFATHER #DOGE\n#Doge4Tesla #dogetothemoon #dogearmy",
+        "Y_token": "elonmusk, hero, lord, elon, dogefather, doge, doge4tesla, dogetothemoon, dogearmy",
+        "Y_tweet_count": 6,
+        "Y_username": "CYBERVIKING",
+        "X_length": 90,
+        "Y_length": 89,
+        "Y_length_percent_of_X": 98.89,
+        "X_length_percent_of_Y": 101.12,
+        "dice_coefficient": 100.0
+    }
+]

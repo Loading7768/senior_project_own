@@ -1,0 +1,44 @@
+﻿X = [@abc7newsbayarea Dogecoin will be one of many future currencies]
+X_token = [abc7newsbayarea, dogecoin, one, many, future, currencies]
+	X tweet_count = [19]
+	X username = [Fernando #dogefam]
+Y = [#dogecoin one of many crypto currencies of our future #AcceptDOGE]
+Y_token = [dogecoin, one, many, crypto, currencies, future, acceptdoge]
+	Y tweet_count = [40]
+	Y username = [Fernando #dogefam]
+Total Length: X = 63, Y = 65 (Y / X = 103.17  X / Y = 96.92)
+Dice Coefficient: 76.92% 
+
+X = [@BENBALLER #dogecoin  is one of many crypto currencies of our future not worried at all]
+X_token = [benballer, dogecoin, one, many, crypto, currencies, future, worried]
+	X tweet_count = [33]
+	X username = [Fernando #dogefam]
+Y = [@canadian_rayan @WSBChairman @elonmusk Guy, dogecoin will be one of many crypto currencies of our future]
+Y_token = [wsbchairman, elonmusk, guy, dogecoin, one, many, crypto, currencies, future]
+	Y tweet_count = [38]
+	Y username = [Fernando #dogefam]
+Total Length: X = 87, Y = 104 (Y / X = 119.54  X / Y = 83.65)
+Dice Coefficient: 70.59% 
+
+X = [@BENBALLER #dogecoin  is one of many crypto currencies of our future not worried at all]
+X_token = [benballer, dogecoin, one, many, crypto, currencies, future, worried]
+	X tweet_count = [33]
+	X username = [Fernando #dogefam]
+Y = [@elonmusk @dogecoin_devs Elon Dogecoin will be one of many crypto currencies of our future]
+Y_token = [elonmusk, elon, dogecoin, one, many, crypto, currencies, future]
+	Y tweet_count = [41]
+	Y username = [Fernando #dogefam]
+Total Length: X = 87, Y = 90 (Y / X = 103.45  X / Y = 96.67)
+Dice Coefficient: 75.00% 
+
+X = [@canadian_rayan @WSBChairman @elonmusk Guy, dogecoin will be one of many crypto currencies of our future]
+X_token = [wsbchairman, elonmusk, guy, dogecoin, one, many, crypto, currencies, future]
+	X tweet_count = [38]
+	X username = [Fernando #dogefam]
+Y = [@elonmusk @dogecoin_devs Elon Dogecoin will be one of many crypto currencies of our future]
+Y_token = [elonmusk, elon, dogecoin, one, many, crypto, currencies, future]
+	Y tweet_count = [41]
+	Y username = [Fernando #dogefam]
+Total Length: X = 104, Y = 90 (Y / X = 86.54  X / Y = 115.56)
+Dice Coefficient: 82.35% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Ready for takeoff #dogefam #dogecoin #doge? https://t.co/vEay37EyYz",
+        "X_token": "ready, takeoff, dogefam, dogecoin, doge, https",
+        "X_tweet_count": 70,
+        "X_username": "Wolf of #DOGE street 💪💎👋👋",
+        "Y_text": "#cryptocurrencies #dogecoin #doge #dogefam who is with me?? https://t.co/7isny6banl",
+        "Y_token": "cryptocurrencies, dogecoin, doge, dogefam, https",
+        "Y_tweet_count": 102,
+        "Y_username": "Wolf of #DOGE street 💪💎👋👋",
+        "X_length": 67,
+        "Y_length": 83,
+        "Y_length_percent_of_X": 123.88,
+        "X_length_percent_of_Y": 80.72,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "#cryptocurrencies #dogecoin #doge #dogefam who is with me?? https://t.co/7isny6banl",
+        "X_token": "cryptocurrencies, dogecoin, doge, dogefam, https",
+        "X_tweet_count": 102,
+        "X_username": "Wolf of #DOGE street 💪💎👋👋",
+        "Y_text": "How is my #dogefam doing today?? #dogecoin #doge #dogearmy https://t.co/NOwlxIa90c",
+        "Y_token": "dogefam, today, dogecoin, doge, dogearmy, https",
+        "Y_tweet_count": 105,
+        "Y_username": "Wolf of #DOGE street 💪💎👋👋",
+        "X_length": 83,
+        "Y_length": 82,
+        "Y_length_percent_of_X": 98.8,
+        "X_length_percent_of_Y": 101.22,
+        "dice_coefficient": 72.73
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@Omojuwa Have you heard of $Doge",
+        "X_token": "omojuwa, heard, doge",
+        "X_tweet_count": 5,
+        "X_username": "#1 193 lb Natty Bodybuilder",
+        "Y_text": "Have y’all heard about $Doge",
+        "Y_token": "heard, doge",
+        "Y_tweet_count": 14,
+        "Y_username": "#1 193 lb Natty Bodybuilder",
+        "X_length": 32,
+        "Y_length": 28,
+        "Y_length_percent_of_X": 87.5,
+        "X_length_percent_of_Y": 114.29,
+        "dice_coefficient": 80.0
+    }
+]

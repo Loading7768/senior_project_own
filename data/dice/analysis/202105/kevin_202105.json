@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Moon 🚀🚀 #dogecoin",
+        "X_token": "moon, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Kevin",
+        "Y_text": "Moon 🚀🚀 #dogecoin",
+        "Y_token": "moon, dogecoin",
+        "Y_tweet_count": 12,
+        "Y_username": "Kevin",
+        "X_length": 17,
+        "Y_length": 17,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@elonmusk Talk about dogecoin",
+        "X_token": "elonmusk, talk, dogecoin",
+        "X_tweet_count": 33,
+        "X_username": "Kevin",
+        "Y_text": "@elonmusk How about Dogecoin ?",
+        "Y_token": "elonmusk, dogecoin",
+        "Y_tweet_count": 151,
+        "Y_username": "Kevin",
+        "X_length": 29,
+        "Y_length": 30,
+        "Y_length_percent_of_X": 103.45,
+        "X_length_percent_of_Y": 96.67,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "dogecoin",
+        "X_token": "dogecoin",
+        "X_tweet_count": 133,
+        "X_username": "Kevin",
+        "Y_text": "Dogecoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 135,
+        "Y_username": "Kevin",
+        "X_length": 8,
+        "Y_length": 8,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

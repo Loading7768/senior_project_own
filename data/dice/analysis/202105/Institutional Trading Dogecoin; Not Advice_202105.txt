@@ -1,0 +1,66 @@
+﻿X = [Platinum Palms (Hands of Steel) Dogecoin Price Prediction for today:\nPredicted low price for Dogecoin on May-02-2021 at 14:18:45 is $0.34\nPredicted High price for Dogecoin on: May-02-2021 at 14:18:45 is $0.41]
+X_token = [platinum, palms, hands, steel, dogecoin, price, prediction, today, predicted, low, price, dogecoin, predicted, high, price, dogecoin]
+	X tweet_count = [2]
+	X username = [Institutional Trading Dogecoin; Not Advice]
+Y = [The Platinum Palms (Hands of Steel) Predicted low price for Dogecoin on May-08-2021 at 01:40:53 is $0.68\nThe Predicted High price for Dogecoin on: May-08-2021 at 01:40:53 is $0.76]
+Y_token = [platinum, palms, hands, steel, predicted, low, price, dogecoin, predicted, high, price, dogecoin]
+	Y tweet_count = [54]
+	Y username = [Institutional Trading Dogecoin; Not Advice]
+Total Length: X = 208, Y = 179 (Y / X = 86.06  X / Y = 116.20)
+Dice Coefficient: 90.00% 
+
+X = [DOGECOIN'S CURRENT PRICE as of 11:57 AM, EDT\n$0.387329\n24 HOUR % CHANGE\n+8.36%]
+X_token = [dogecoin, current, price, edt, 24, hour, change]
+	X tweet_count = [10]
+	X username = [Institutional Trading Dogecoin; Not Advice]
+Y = [Dogecoin PRICE Currently at 11:25 AM EDT\n$0.385038\n24 HOUR % CHANGE\n+7.89%]
+Y_token = [dogecoin, price, currently, edt, 24, hour, change]
+	Y tweet_count = [13]
+	Y username = [Institutional Trading Dogecoin; Not Advice]
+Total Length: X = 78, Y = 74 (Y / X = 94.87  X / Y = 105.41)
+Dice Coefficient: 85.71% 
+
+X = [The Platinum Palms (Hands of Steel) Predicted low price for Dogecoin on May-03-2021 at 17:33:59 is 0.40249731\nThe Predicted High price for Dogecoin on: May-03-2021 at 17:33:59 is $0.46 @elonmusk @mcuban @giliegil @neuralink @jamielsimon @Tesla @Paul_O_Williams]
+X_token = [platinum, palms, hands, steel, predicted, low, price, dogecoin, predicted, high, price, dogecoin, elonmusk, mcuban, giliegil, neuralink, jamielsimon, tesla]
+	X tweet_count = [19]
+	X username = [Institutional Trading Dogecoin; Not Advice]
+Y = [The Platinum Palms (Hands of Steel) Predicted low price for Dogecoin on May-04-2021 at 08:56:40 is: $0.47\nThe Predicted High price for Dogecoin on: May-04-2021 at 08:56:40 is: $0.55\n@elonmusk @mcuban @giliegil @jamielsimon @Paul_O_Williams @GuyFieri @DDogearmy @DogeCoinCoach]
+Y_token = [platinum, palms, hands, steel, predicted, low, price, dogecoin, predicted, high, price, dogecoin, elonmusk, mcuban, giliegil, jamielsimon, guyfieri, ddogearmy, dogecoincoach]
+	Y tweet_count = [34]
+	Y username = [Institutional Trading Dogecoin; Not Advice]
+Total Length: X = 260, Y = 275 (Y / X = 105.77  X / Y = 94.55)
+Dice Coefficient: 83.87% 
+
+X = [A huge Cup &amp; Handle formation has been spotted on Dogecoin's 1-hour and 12-hour charts, respectively. This means that the next 24-48 hours will be extremely bullish, which also means profit taking could be around the corner.]
+X_token = [huge, cup, amp, handle, formation, spotted, dogecoin, charts, respectively, means, next, hours, extremely, bullish, also, means, profit, taking, could, around, corner]
+	X tweet_count = [108]
+	X username = [Institutional Trading Dogecoin; Not Advice]
+Y = [Hear this, Platinum Palms (Hands of Steel), A huge Cup &amp; Handle formation has been spotted on Dogecoin 1-hour and 12-hour charts, respectively. This means that the next 24-48 hours will be extremely bullish, which also means profit taking could be around the corner, so be careful]
+Y_token = [hear, platinum, palms, hands, steel, huge, cup, amp, handle, formation, spotted, dogecoin, charts, respectively, means, next, hours, extremely, bullish, also, means, profit, taking, could, around, corner, careful]
+	Y tweet_count = [109]
+	Y username = [Institutional Trading Dogecoin; Not Advice]
+Total Length: X = 228, Y = 284 (Y / X = 124.56  X / Y = 80.28)
+Dice Coefficient: 86.96% 
+
+X = [Who Is Buying the Dip? https://t.co/FnyRoIiXxR via @coindesk]
+X_token = [buying, dip, https, via, coindesk]
+	X tweet_count = [131]
+	X username = [Institutional Trading Dogecoin; Not Advice]
+Y = [Who Is Buying the Dip? https://t.co/FnyRoIiXxR via @coindesk]
+Y_token = [buying, dip, https, via, coindesk]
+	Y tweet_count = [141]
+	Y username = [Institutional Trading Dogecoin; Not Advice]
+Total Length: X = 60, Y = 60 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Options on Bitcoin Futures Calendar - CME Group https://t.co/JSYrqBBwR6]
+X_token = [options, bitcoin, futures, calendar, cme, group, https]
+	X tweet_count = [133]
+	X username = [Institutional Trading Dogecoin; Not Advice]
+Y = [Bitcoin Futures Calendar - CME Group https://t.co/FkwiQeLeXg]
+Y_token = [bitcoin, futures, calendar, cme, group, https]
+	Y tweet_count = [139]
+	Y username = [Institutional Trading Dogecoin; Not Advice]
+Total Length: X = 71, Y = 60 (Y / X = 84.51  X / Y = 118.33)
+Dice Coefficient: 92.31% 
+

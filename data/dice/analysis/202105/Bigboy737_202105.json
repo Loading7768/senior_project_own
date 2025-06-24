@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "How low can you go? #DOGEcoin",
+        "X_token": "low, go, dogecoin",
+        "X_tweet_count": 39,
+        "X_username": "Bigboy737",
+        "Y_text": "Here we go!!!! #DOGECOIN",
+        "Y_token": "go, dogecoin",
+        "Y_tweet_count": 90,
+        "Y_username": "Bigboy737",
+        "X_length": 29,
+        "Y_length": 24,
+        "Y_length_percent_of_X": 82.76,
+        "X_length_percent_of_Y": 120.83,
+        "dice_coefficient": 80.0
+    }
+]

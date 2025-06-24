@@ -1,0 +1,44 @@
+﻿X = [@dogepusher @DogecoinRise Dogecoin: A little spark can start a prairie Fire.]
+X_token = [dogepusher, dogecoinrise, dogecoin, little, spark, start, prairie, fire]
+	X tweet_count = [43]
+	X username = [Will]
+Y = [@DogecoinRise Dogecoin: A little spark can start a prairie Fire.]
+Y_token = [dogecoinrise, dogecoin, little, spark, start, prairie, fire]
+	Y tweet_count = [44]
+	Y username = [Will]
+Total Length: X = 76, Y = 64 (Y / X = 84.21  X / Y = 118.75)
+Dice Coefficient: 93.33% 
+
+X = [@dogepusher @DogecoinRise Dogecoin: A little spark can start a prairie Fire.]
+X_token = [dogepusher, dogecoinrise, dogecoin, little, spark, start, prairie, fire]
+	X tweet_count = [43]
+	X username = [Will]
+Y = [@mayemusk @nbcsnl @elonmusk dogecoin: a little spark can start a prairie Fire.]
+Y_token = [mayemusk, nbcsnl, elonmusk, dogecoin, little, spark, start, prairie, fire]
+	Y tweet_count = [45]
+	Y username = [Will]
+Total Length: X = 76, Y = 78 (Y / X = 102.63  X / Y = 97.44)
+Dice Coefficient: 70.59% 
+
+X = [@DogecoinRise Dogecoin: A little spark can start a prairie Fire.]
+X_token = [dogecoinrise, dogecoin, little, spark, start, prairie, fire]
+	X tweet_count = [44]
+	X username = [Will]
+Y = [@mayemusk @nbcsnl @elonmusk dogecoin: a little spark can start a prairie Fire.]
+Y_token = [mayemusk, nbcsnl, elonmusk, dogecoin, little, spark, start, prairie, fire]
+	Y tweet_count = [45]
+	Y username = [Will]
+Total Length: X = 64, Y = 78 (Y / X = 121.88  X / Y = 82.05)
+Dice Coefficient: 75.00% 
+
+X = [Dogecoin.]
+X_token = [dogecoin]
+	X tweet_count = [109]
+	X username = [Will]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [113]
+	Y username = [Will]
+Total Length: X = 9, Y = 8 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 100.00% 
+

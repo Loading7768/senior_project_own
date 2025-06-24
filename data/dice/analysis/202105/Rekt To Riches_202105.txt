@@ -1,0 +1,11 @@
+﻿X = [Now you know how the rest of us feel when you tweet about $Doge 🐶\nOh the Irony😂😂]
+X_token = [know, rest, us, feel, tweet, doge, oh]
+	X tweet_count = [15]
+	X username = [Rekt To Riches]
+Y = [@davidgokhshtein Now you know how the rest of us feel when you talk about $Doge 😉]
+Y_token = [davidgokhshtein, know, rest, us, feel, talk, doge]
+	Y tweet_count = [16]
+	Y username = [Rekt To Riches]
+Total Length: X = 80, Y = 81 (Y / X = 101.25  X / Y = 98.77)
+Dice Coefficient: 71.43% 
+

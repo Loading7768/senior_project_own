@@ -1,0 +1,22 @@
+﻿X = [@elonmusk @michael_saylor @elonmusk\n if you dont ever tweet about #dogecoin we'll still love you. \nunlike #bitcoin maxis.\n#dogearmy]
+X_token = [elonmusk, elonmusk, dont, ever, tweet, dogecoin, still, love, unlike, bitcoin, maxis, dogearmy]
+	X tweet_count = [41]
+	X username = [Dogecoin INDIA 🇮🇳]
+Y = [@elonmusk if you dont ever tweet about #dogecoin we'll still love you. \nunlike #bitcoin maxis.\nthat's #dogearmy for you.]
+Y_token = [elonmusk, dont, ever, tweet, dogecoin, still, love, unlike, bitcoin, maxis, dogearmy]
+	Y tweet_count = [47]
+	Y username = [Dogecoin INDIA 🇮🇳]
+Total Length: X = 131, Y = 120 (Y / X = 91.60  X / Y = 109.17)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk @michael_saylor such a sad day \npeople were supporting and loving \n@elonmusk\n till they were able to make profit of off him and as soon as he does something that negatively affects your investment even for some time you go bonkers on him.]
+X_token = [elonmusk, sad, day, people, supporting, loving, elonmusk, till, able, make, profit, soon, something, negatively, affects, investment, even, time, go, bonkers]
+	X tweet_count = [43]
+	X username = [Dogecoin INDIA 🇮🇳]
+Y = [such a sad day \npeople were supporting and loving @elonmusk till they were able to make profit of off him and as soon as he does something that negatively affects your investment even for some time you go bonkers on him.\nyou people never deserved him.]
+Y_token = [sad, day, people, supporting, loving, elonmusk, till, able, make, profit, soon, something, negatively, affects, investment, even, time, go, bonkers, people, never, deserved]
+	Y tweet_count = [46]
+	Y username = [Dogecoin INDIA 🇮🇳]
+Total Length: X = 248, Y = 251 (Y / X = 101.21  X / Y = 98.80)
+Dice Coefficient: 95.00% 
+

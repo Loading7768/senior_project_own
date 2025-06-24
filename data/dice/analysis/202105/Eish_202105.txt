@@ -1,0 +1,88 @@
+﻿X = [#doge #dogecoin Even 5$ https://t.co/eKNo0J4Zix]
+X_token = [doge, dogecoin, even, 5, https]
+	X tweet_count = [1]
+	X username = [Eish]
+Y = [$Doge #dogecoin https://t.co/DhRcYMSZDl]
+Y_token = [doge, dogecoin, https]
+	Y tweet_count = [16]
+	Y username = [Eish]
+Total Length: X = 47, Y = 39 (Y / X = 82.98  X / Y = 120.51)
+Dice Coefficient: 75.00% 
+
+X = [#doge #dogecoin Even 5$ https://t.co/eKNo0J4Zix]
+X_token = [doge, dogecoin, even, 5, https]
+	X tweet_count = [1]
+	X username = [Eish]
+Y = [ONLY $DOGE #DOGECOIN https://t.co/M5SRo5y63i]
+Y_token = [doge, dogecoin, https]
+	Y tweet_count = [17]
+	Y username = [Eish]
+Total Length: X = 47, Y = 44 (Y / X = 93.62  X / Y = 106.82)
+Dice Coefficient: 75.00% 
+
+X = [$Doge #dogecoin https://t.co/DhRcYMSZDl]
+X_token = [doge, dogecoin, https]
+	X tweet_count = [16]
+	X username = [Eish]
+Y = [ONLY $DOGE #DOGECOIN https://t.co/M5SRo5y63i]
+Y_token = [doge, dogecoin, https]
+	Y tweet_count = [17]
+	Y username = [Eish]
+Total Length: X = 39, Y = 44 (Y / X = 112.82  X / Y = 88.64)
+Dice Coefficient: 100.00% 
+
+X = [ONLY $DOGE #DOGECOIN https://t.co/M5SRo5y63i]
+X_token = [doge, dogecoin, https]
+	X tweet_count = [17]
+	X username = [Eish]
+Y = [To the Mooooon #doge #dogecoin https://t.co/XgUMrLyfg2]
+Y_token = [mooooon, doge, dogecoin, https]
+	Y tweet_count = [24]
+	Y username = [Eish]
+Total Length: X = 44, Y = 54 (Y / X = 122.73  X / Y = 81.48)
+Dice Coefficient: 85.71% 
+
+X = [ONLY $DOGE #DOGECOIN https://t.co/M5SRo5y63i]
+X_token = [doge, dogecoin, https]
+	X tweet_count = [17]
+	X username = [Eish]
+Y = [Be as cool as $DOGE  #dogecoin https://t.co/aQhcZ8d4kn]
+Y_token = [cool, doge, dogecoin, https]
+	Y tweet_count = [48]
+	Y username = [Eish]
+Total Length: X = 44, Y = 54 (Y / X = 122.73  X / Y = 81.48)
+Dice Coefficient: 85.71% 
+
+X = [ONLY $DOGE #DOGECOIN https://t.co/M5SRo5y63i]
+X_token = [doge, dogecoin, https]
+	X tweet_count = [17]
+	X username = [Eish]
+Y = [Dogecoin is stable coin $DOGE https://t.co/qInaSQFFLa]
+Y_token = [dogecoin, stable, coin, doge, https]
+	Y tweet_count = [69]
+	Y username = [Eish]
+Total Length: X = 44, Y = 53 (Y / X = 120.45  X / Y = 83.02)
+Dice Coefficient: 75.00% 
+
+X = [To the Mooooon #doge #dogecoin https://t.co/XgUMrLyfg2]
+X_token = [mooooon, doge, dogecoin, https]
+	X tweet_count = [24]
+	X username = [Eish]
+Y = [Be as cool as $DOGE  #dogecoin https://t.co/aQhcZ8d4kn]
+Y_token = [cool, doge, dogecoin, https]
+	Y tweet_count = [48]
+	Y username = [Eish]
+Total Length: X = 54, Y = 54 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [@crypto_birb buy $DOGE]
+X_token = [buy, doge]
+	X tweet_count = [41]
+	X username = [Eish]
+Y = [@icebergy_ Buy $DOGE]
+Y_token = [buy, doge]
+	Y tweet_count = [46]
+	Y username = [Eish]
+Total Length: X = 22, Y = 20 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 100.00% 
+

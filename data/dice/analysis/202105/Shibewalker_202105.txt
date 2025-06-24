@@ -1,0 +1,22 @@
+﻿X = [Let’s goooo #dogetothemoon #DogeSNL #dogecoin]
+X_token = [let, goooo, dogetothemoon, dogesnl, dogecoin]
+	X tweet_count = [78]
+	X username = [Shibewalker]
+Y = [Let’s goooo #dogecoin #doge #dogetothemoon #DogecoinRise]
+Y_token = [let, goooo, dogecoin, doge, dogetothemoon, dogecoinrise]
+	Y tweet_count = [129]
+	Y username = [Shibewalker]
+Total Length: X = 45, Y = 56 (Y / X = 124.44  X / Y = 80.36)
+Dice Coefficient: 72.73% 
+
+X = [#cryptotwitter right now 🤣 #bitcoin #dogecoin #ethereum https://t.co/ec2VGCPjlM]
+X_token = [cryptotwitter, right, bitcoin, dogecoin, ethereum, https]
+	X tweet_count = [120]
+	X username = [Shibewalker]
+Y = [Everyone on #cryptotwitter right now #bitcoin #dogecoin #ethereum #crypto https://t.co/KfmkpSicc5]
+Y_token = [everyone, cryptotwitter, right, bitcoin, dogecoin, ethereum, crypto, https]
+	Y tweet_count = [123]
+	Y username = [Shibewalker]
+Total Length: X = 79, Y = 97 (Y / X = 122.78  X / Y = 81.44)
+Dice Coefficient: 85.71% 
+

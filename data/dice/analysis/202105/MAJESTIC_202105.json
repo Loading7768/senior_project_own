@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "after $doge it’s $shib",
+        "X_token": "doge, shib",
+        "X_tweet_count": 15,
+        "X_username": "MAJESTIC",
+        "Y_text": "if $doge flies, $shib flies",
+        "Y_token": "doge, flies, shib, flies",
+        "Y_tweet_count": 18,
+        "Y_username": "MAJESTIC",
+        "X_length": 22,
+        "Y_length": 27,
+        "Y_length_percent_of_X": 122.73,
+        "X_length_percent_of_Y": 81.48,
+        "dice_coefficient": 80.0
+    }
+]

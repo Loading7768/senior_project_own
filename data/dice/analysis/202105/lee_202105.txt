@@ -1,0 +1,44 @@
+﻿X = [@elonmusk To the moon 🌕🚀🚀🚀 doge coin the future \nhttps://t.co/IUFMdQHw3x]
+X_token = [elonmusk, moon, doge, coin, future, https]
+	X tweet_count = [4]
+	X username = [lee]
+Y = [@elonmusk 🚀🚀🚀 doge coin #Dogefather https://t.co/biBGbeHF2S]
+Y_token = [elonmusk, doge, coin, dogefather, https]
+	Y tweet_count = [8]
+	Y username = [lee]
+Total Length: X = 72, Y = 59 (Y / X = 81.94  X / Y = 122.03)
+Dice Coefficient: 72.73% 
+
+X = [Woow @snickers @elonmusk doge coin to the moon 🚀🚀]
+X_token = [woow, snickers, elonmusk, doge, coin, moon]
+	X tweet_count = [17]
+	X username = [lee]
+Y = [@elonmusk @dogecoin Doge coin to the moon 🚀🚀🚀]
+Y_token = [elonmusk, dogecoin, doge, coin, moon]
+	Y tweet_count = [52]
+	Y username = [lee]
+Total Length: X = 49, Y = 45 (Y / X = 91.84  X / Y = 108.89)
+Dice Coefficient: 72.73% 
+
+X = [@elonmusk Doge coin is 5,900% better than bitcoin]
+X_token = [elonmusk, doge, coin, better, bitcoin]
+	X tweet_count = [41]
+	X username = [lee]
+Y = [@elonmusk Doge coin is 5,900 % better than bitcoin]
+Y_token = [elonmusk, doge, coin, better, bitcoin]
+	Y tweet_count = [42]
+	Y username = [lee]
+Total Length: X = 49, Y = 50 (Y / X = 102.04  X / Y = 98.00)
+Dice Coefficient: 100.00% 
+
+X = [@PeterMcCormack doge coin to the moon 🌕]
+X_token = [petermccormack, doge, coin, moon]
+	X tweet_count = [48]
+	X username = [lee]
+Y = [@elonmusk Doge coin to the moon 🚀]
+Y_token = [elonmusk, doge, coin, moon]
+	Y tweet_count = [56]
+	Y username = [lee]
+Total Length: X = 39, Y = 33 (Y / X = 84.62  X / Y = 118.18)
+Dice Coefficient: 75.00% 
+

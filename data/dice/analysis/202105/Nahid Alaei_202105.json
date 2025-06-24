@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Elon Musk: Should Tesla accept Dogecoin? - Fox News https://t.co/cAyMvfyOKV",
+        "X_token": "elon, musk, tesla, accept, dogecoin, fox, news, https",
+        "X_tweet_count": 25,
+        "X_username": "Nahid Alaei",
+        "Y_text": "Elon Musk asks if Tesla should accept Dogecoin - The Hill https://t.co/Xi1ZJZwSzW",
+        "Y_token": "elon, musk, asks, tesla, accept, dogecoin, hill, https",
+        "Y_tweet_count": 28,
+        "Y_username": "Nahid Alaei",
+        "X_length": 75,
+        "Y_length": 81,
+        "Y_length_percent_of_X": 108.0,
+        "X_length_percent_of_Y": 92.59,
+        "dice_coefficient": 75.0
+    }
+]

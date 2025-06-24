@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "I love you Dogecoin :]",
+        "X_token": "love, dogecoin",
+        "X_tweet_count": 7,
+        "X_username": "B",
+        "Y_text": "Dogecoin I love you.",
+        "Y_token": "dogecoin, love",
+        "Y_tweet_count": 17,
+        "Y_username": "B",
+        "X_length": 22,
+        "Y_length": 20,
+        "Y_length_percent_of_X": 90.91,
+        "X_length_percent_of_Y": 110.0,
+        "dice_coefficient": 100.0
+    }
+]

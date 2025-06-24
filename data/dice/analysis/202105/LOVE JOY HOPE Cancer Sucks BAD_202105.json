@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Does #Starbase  take #Dogecoin asking for a friend",
+        "X_token": "starbase, take, dogecoin, asking, friend",
+        "X_tweet_count": 35,
+        "X_username": "LOVE JOY HOPE Cancer Sucks BAD",
+        "Y_text": "Will #Dogecoin be there asking for a friend",
+        "Y_token": "dogecoin, asking, friend",
+        "Y_tweet_count": 42,
+        "Y_username": "LOVE JOY HOPE Cancer Sucks BAD",
+        "X_length": 50,
+        "Y_length": 43,
+        "Y_length_percent_of_X": 86.0,
+        "X_length_percent_of_Y": 116.28,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Elon Musk Tweet: Is Dogecoin the Cyberviking? https://t.co/bO1vOmdCSt via @YouTube",
+        "X_token": "elon, musk, tweet, dogecoin, cyberviking, https, via, youtube",
+        "X_tweet_count": 39,
+        "X_username": "LOVE JOY HOPE Cancer Sucks BAD",
+        "Y_text": "HUGE Secret Dogecoin Clue From Elon Musk ⚠️ https://t.co/mV690M72SO via @YouTube",
+        "Y_token": "huge, secret, dogecoin, clue, elon, musk, https, via, youtube",
+        "Y_tweet_count": 47,
+        "Y_username": "LOVE JOY HOPE Cancer Sucks BAD",
+        "X_length": 82,
+        "Y_length": 80,
+        "Y_length_percent_of_X": 97.56,
+        "X_length_percent_of_Y": 102.5,
+        "dice_coefficient": 70.59
+    }
+]

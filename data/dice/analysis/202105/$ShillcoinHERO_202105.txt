@@ -1,0 +1,55 @@
+﻿X = [#Dogecoin is my safe space.]
+X_token = [dogecoin, safe, space]
+	X tweet_count = [12]
+	X username = [$ShillcoinHERO]
+Y = [#Dogecoin is my safe space]
+Y_token = [dogecoin, safe, space]
+	Y tweet_count = [31]
+	Y username = [$ShillcoinHERO]
+Total Length: X = 27, Y = 26 (Y / X = 96.30  X / Y = 103.85)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [21]
+	X username = [$ShillcoinHERO]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [48]
+	Y username = [$ShillcoinHERO]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [21]
+	X username = [$ShillcoinHERO]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [53]
+	Y username = [$ShillcoinHERO]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@DanLandry12 This is Donny Dogecoin in college. Laser him too please https://t.co/BTKGLTw5Xu]
+X_token = [danlandry12, donny, dogecoin, college, laser, please, https]
+	X tweet_count = [39]
+	X username = [$ShillcoinHERO]
+Y = [@DanLandry12 This is Donny Dogecoin. Please #DogeLaserEyes him. https://t.co/hJ7KX2dbox]
+Y_token = [danlandry12, donny, dogecoin, please, dogelasereyes, https]
+	Y tweet_count = [40]
+	Y username = [$ShillcoinHERO]
+Total Length: X = 92, Y = 87 (Y / X = 94.57  X / Y = 105.75)
+Dice Coefficient: 76.92% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [48]
+	X username = [$ShillcoinHERO]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [53]
+	Y username = [$ShillcoinHERO]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

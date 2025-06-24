@@ -1,0 +1,11 @@
+﻿X = [@DogecoinRise @Dogecoinrich Who is holding #dogecoin for long-term RT this tweet \n#Degocoin \n#dogetothemoon \n#DogeCoinTo1Dollar]
+X_token = [dogecoinrise, dogecoinrich, holding, dogecoin, rt, tweet, degocoin, dogetothemoon, dogecointo1dollar]
+	X tweet_count = [5]
+	X username = [Sanket Sakhare]
+Y = [@DogecoinRise @Dogecoinrich Who is holding #dogecoin till 2030 ? RT this tweet\n\n#dogetothemoon \n#DogeCoinTo1Dollar \n#DogeSNL]
+Y_token = [dogecoinrise, dogecoinrich, holding, dogecoin, till, 2030, rt, tweet, dogetothemoon, dogecointo1dollar, dogesnl]
+	Y tweet_count = [6]
+	Y username = [Sanket Sakhare]
+Total Length: X = 127, Y = 124 (Y / X = 97.64  X / Y = 102.42)
+Dice Coefficient: 80.00% 
+

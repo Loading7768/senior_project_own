@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "See! Why not? #dogecoin",
+        "X_token": "see, dogecoin",
+        "X_tweet_count": 55,
+        "X_username": "DogWealth 💰",
+        "Y_text": "All I see is green #dogecoin",
+        "Y_token": "see, green, dogecoin",
+        "Y_tweet_count": 90,
+        "Y_username": "DogWealth 💰",
+        "X_length": 23,
+        "Y_length": 28,
+        "Y_length_percent_of_X": 121.74,
+        "X_length_percent_of_Y": 82.14,
+        "dice_coefficient": 80.0
+    }
+]

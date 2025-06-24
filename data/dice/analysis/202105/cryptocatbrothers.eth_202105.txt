@@ -1,0 +1,22 @@
+﻿X = [Let‘s gooo #DogecoinToTheMoon \n50 Cent is coming #dogecoin https://t.co/kAJkD6rK7f]
+X_token = [let, gooo, dogecointothemoon, 50, cent, coming, dogecoin, https]
+	X tweet_count = [5]
+	X username = [cryptocatbrothers.eth]
+Y = [Let‘s gooo #dogecoin 🚀 #DogecoinToTheMoon #dog https://t.co/3ePzt0CpnO]
+Y_token = [let, gooo, dogecoin, dogecointothemoon, dog, https]
+	Y tweet_count = [10]
+	Y username = [cryptocatbrothers.eth]
+Total Length: X = 82, Y = 70 (Y / X = 85.37  X / Y = 117.14)
+Dice Coefficient: 71.43% 
+
+X = [So what you gonna say about this facts?! #DogeCoin #DOGE #DogecoinToTheMoon https://t.co/N6XKIgiXfQ]
+X_token = [gon, na, say, facts, dogecoin, doge, dogecointothemoon, https]
+	X tweet_count = [11]
+	X username = [cryptocatbrothers.eth]
+Y = [This is all what I can say even at 1$ not gonna sell #dogecoin #DogecoinToTheMoon #Dogefather #doge https://t.co/lyMXtcF3sa]
+Y_token = [say, even, 1, gon, na, sell, dogecoin, dogecointothemoon, dogefather, doge, https]
+	Y tweet_count = [15]
+	Y username = [cryptocatbrothers.eth]
+Total Length: X = 99, Y = 123 (Y / X = 124.24  X / Y = 80.49)
+Dice Coefficient: 73.68% 
+

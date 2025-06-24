@@ -1,0 +1,77 @@
+﻿X = [#dogecoin All-in https://t.co/cM1uJVZzFo]
+X_token = [dogecoin, https]
+	X tweet_count = [8]
+	X username = [Dogecoin-zxtz]
+Y = [#dogecoin doge https://t.co/ZMiI9lALw8]
+Y_token = [dogecoin, doge, https]
+	Y tweet_count = [190]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 40, Y = 38 (Y / X = 95.00  X / Y = 105.26)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin The history of the world is a dance of current events and heroes.\nJust as it is now]
+X_token = [dogecoin, history, world, dance, current, events, heroes]
+	X tweet_count = [21]
+	X username = [Dogecoin-zxtz]
+Y = [#dogecoin The history of the world is a dance of current events and heroes.\nAt that time, just like this moment]
+Y_token = [dogecoin, history, world, dance, current, events, heroes, time, like, moment]
+	Y tweet_count = [22]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 93, Y = 111 (Y / X = 119.35  X / Y = 83.78)
+Dice Coefficient: 82.35% 
+
+X = [#dogecoin Top flow marketing has begun to create contradictions script arrangement, this heat popularity will be higher, the coin circle most need heat\nThe show has just begun https://t.co/fogqAlv5Id]
+X_token = [dogecoin, top, flow, marketing, begun, create, contradictions, script, arrangement, heat, popularity, higher, coin, circle, need, heat, show, begun, https]
+	X tweet_count = [44]
+	X username = [Dogecoin-zxtz]
+Y = [@BarrySilbert Top flow marketing has begun to create contradictions script arrangement, this heat popularity will be higher, the coin circle most need heat\nThe show has just begun]
+Y_token = [barrysilbert, top, flow, marketing, begun, create, contradictions, script, arrangement, heat, popularity, higher, coin, circle, need, heat, show, begun]
+	Y tweet_count = [45]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 199, Y = 179 (Y / X = 89.95  X / Y = 111.17)
+Dice Coefficient: 90.91% 
+
+X = [@elonmusk @BTC_Archive Elon Musk has a large number of interstellar people with his own charisma, so why do you want to buy Bitcoin?]
+X_token = [elonmusk, elon, musk, large, number, interstellar, people, charisma, want, buy, bitcoin]
+	X tweet_count = [134]
+	X username = [Dogecoin-zxtz]
+Y = [#Dogecoin Elon Musk has a large number of interstellar people with his own charisma, so why do you want to buy Bitcoin?]
+Y_token = [dogecoin, elon, musk, large, number, interstellar, people, charisma, want, buy, bitcoin]
+	Y tweet_count = [135]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 132, Y = 119 (Y / X = 90.15  X / Y = 110.92)
+Dice Coefficient: 90.91% 
+
+X = [@elonmusk @BTC_Archive Elon Musk has a large number of interstellar people with his own charisma, so why do you want to buy Bitcoin?]
+X_token = [elonmusk, elon, musk, large, number, interstellar, people, charisma, want, buy, bitcoin]
+	X tweet_count = [134]
+	X username = [Dogecoin-zxtz]
+Y = [@BarrySilbert Elon Musk has a large number of interstellar people with his own charisma, so why do you want to buy Bitcoin?]
+Y_token = [barrysilbert, elon, musk, large, number, interstellar, people, charisma, want, buy, bitcoin]
+	Y tweet_count = [136]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 132, Y = 123 (Y / X = 93.18  X / Y = 107.32)
+Dice Coefficient: 90.91% 
+
+X = [#Dogecoin Elon Musk has a large number of interstellar people with his own charisma, so why do you want to buy Bitcoin?]
+X_token = [dogecoin, elon, musk, large, number, interstellar, people, charisma, want, buy, bitcoin]
+	X tweet_count = [135]
+	X username = [Dogecoin-zxtz]
+Y = [@BarrySilbert Elon Musk has a large number of interstellar people with his own charisma, so why do you want to buy Bitcoin?]
+Y_token = [barrysilbert, elon, musk, large, number, interstellar, people, charisma, want, buy, bitcoin]
+	Y tweet_count = [136]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 119, Y = 123 (Y / X = 103.36  X / Y = 96.75)
+Dice Coefficient: 90.91% 
+
+X = [#dogecoin This short life, we will eventually lose.  You might as well be bold.  all in Dogecoin, own Dogecoin, chase a dream.]
+X_token = [dogecoin, short, life, eventually, lose, might, well, bold, dogecoin, dogecoin, chase, dream]
+	X tweet_count = [147]
+	X username = [Dogecoin-zxtz]
+Y = [#dogecoin This short life, we will eventually lose.\n  You might as well be bold.  Love someone, own Dogecoin, and chase a dream.]
+Y_token = [dogecoin, short, life, eventually, lose, might, well, bold, love, someone, dogecoin, chase, dream]
+	Y tweet_count = [156]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 126, Y = 128 (Y / X = 101.59  X / Y = 98.44)
+Dice Coefficient: 90.91% 
+

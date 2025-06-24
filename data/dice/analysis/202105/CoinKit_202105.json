@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@NewCryptoAnn You have tipped Altcoinworld01 10 $doge !",
+        "X_token": "newcryptoann, tipped, altcoinworld01, 10, doge",
+        "X_tweet_count": 12,
+        "X_username": "CoinKit",
+        "Y_text": "@_bitcoiner You have tipped isa_isa0 10 $doge !",
+        "Y_token": "tipped, 10, doge",
+        "Y_tweet_count": 22,
+        "Y_username": "CoinKit",
+        "X_length": 55,
+        "Y_length": 47,
+        "Y_length_percent_of_X": 85.45,
+        "X_length_percent_of_Y": 117.02,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@callista_jennie You have tipped PiyambakanTrip 5 $doge !",
+        "X_token": "tipped, piyambakantrip, 5, doge",
+        "X_tweet_count": 20,
+        "X_username": "CoinKit",
+        "Y_text": "@sandi_kobandaha You have tipped TokenAirdrop9 5 $doge !",
+        "Y_token": "tipped, tokenairdrop9, 5, doge",
+        "Y_tweet_count": 24,
+        "Y_username": "CoinKit",
+        "X_length": 57,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 98.25,
+        "X_length_percent_of_Y": 101.79,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@_bitcoiner You have tipped isa_isa0 10 $doge !",
+        "X_token": "tipped, 10, doge",
+        "X_tweet_count": 22,
+        "X_username": "CoinKit",
+        "Y_text": "@_bitcoiner You have tipped ToastyNinjaBuns 10 $doge !",
+        "Y_token": "tipped, toastyninjabuns, 10, doge",
+        "Y_tweet_count": 29,
+        "Y_username": "CoinKit",
+        "X_length": 47,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 114.89,
+        "X_length_percent_of_Y": 87.04,
+        "dice_coefficient": 85.71
+    }
+]

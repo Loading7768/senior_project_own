@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Dogecoin announcement 27/05/21 @elonmusk @dogecoin_devs",
+        "X_token": "dogecoin, announcement, elonmusk",
+        "X_tweet_count": 19,
+        "X_username": "Bitu Beniamin",
+        "Y_text": "@elonmusk when announcement of Tesla regarding Dogecoin?",
+        "Y_token": "elonmusk, announcement, tesla, regarding, dogecoin",
+        "Y_tweet_count": 27,
+        "Y_username": "Bitu Beniamin",
+        "X_length": 55,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 101.82,
+        "X_length_percent_of_Y": 98.21,
+        "dice_coefficient": 75.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@debashishtaluk Buy @airswap .\nLeave @dogecoin .",
+        "X_token": "debashishtaluk, buy, airswap, leave, dogecoin",
+        "X_tweet_count": 1,
+        "X_username": "Aadesh jain",
+        "Y_text": "@cpkyoutube Leave @dogecoin and buy @airswap .",
+        "Y_token": "cpkyoutube, leave, dogecoin, buy, airswap",
+        "Y_tweet_count": 10,
+        "Y_username": "Aadesh jain",
+        "X_length": 48,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 95.83,
+        "X_length_percent_of_Y": 104.35,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@KingpinJsc Just a picture showing Elon selling all his dogecoin and buying @airswap https://t.co/UvJlrI80r3",
+        "X_token": "kingpinjsc, picture, showing, elon, selling, dogecoin, buying, airswap, https",
+        "X_tweet_count": 4,
+        "X_username": "Aadesh jain",
+        "Y_text": "@ashwsbreal Jusa picture of elon musk selling all his @dogecoin and buying @airswap . https://t.co/bZQ9DFNG6N",
+        "Y_token": "ashwsbreal, jusa, picture, elon, musk, selling, dogecoin, buying, airswap, https",
+        "Y_tweet_count": 5,
+        "Y_username": "Aadesh jain",
+        "X_length": 108,
+        "Y_length": 109,
+        "Y_length_percent_of_X": 100.93,
+        "X_length_percent_of_Y": 99.08,
+        "dice_coefficient": 73.68
+    }
+]

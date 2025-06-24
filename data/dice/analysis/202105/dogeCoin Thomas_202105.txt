@@ -1,0 +1,198 @@
+﻿X = [@Reuters #dogeCoin\nhe (we) have #dogeCoin.]
+X_token = [reuters, dogecoin, dogecoin]
+	X tweet_count = [110]
+	X username = [dogeCoin Thomas]
+Y = [@Reuters #dogeCoin is the solution.]
+Y_token = [reuters, dogecoin, solution]
+	Y tweet_count = [247]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 42, Y = 35 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 80.00% 
+
+X = [@AP this bill targets blacks.]
+X_token = [ap, bill, targets, blacks]
+	X tweet_count = [152]
+	X username = [dogeCoin Thomas]
+Y = [@CNN this bill targets blacks.]
+Y_token = [cnn, bill, targets, blacks]
+	Y tweet_count = [156]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 29, Y = 30 (Y / X = 103.45  X / Y = 96.67)
+Dice Coefficient: 75.00% 
+
+X = [@AP this bill targets blacks.]
+X_token = [ap, bill, targets, blacks]
+	X tweet_count = [152]
+	X username = [dogeCoin Thomas]
+Y = [@CNN this bill targets blacks.]
+Y_token = [cnn, bill, targets, blacks]
+	Y tweet_count = [198]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 29, Y = 30 (Y / X = 103.45  X / Y = 96.67)
+Dice Coefficient: 75.00% 
+
+X = [@AP this bill targets blacks.]
+X_token = [ap, bill, targets, blacks]
+	X tweet_count = [152]
+	X username = [dogeCoin Thomas]
+Y = [@CNN this bill targets blacks.]
+Y_token = [cnn, bill, targets, blacks]
+	Y tweet_count = [200]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 29, Y = 30 (Y / X = 103.45  X / Y = 96.67)
+Dice Coefficient: 75.00% 
+
+X = [@CNN this bill targets blacks.]
+X_token = [cnn, bill, targets, blacks]
+	X tweet_count = [156]
+	X username = [dogeCoin Thomas]
+Y = [@WhiteHouse this bill targets blacks.]
+Y_token = [whitehouse, bill, targets, blacks]
+	Y tweet_count = [197]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 30, Y = 37 (Y / X = 123.33  X / Y = 81.08)
+Dice Coefficient: 75.00% 
+
+X = [@CNN this bill targets blacks.]
+X_token = [cnn, bill, targets, blacks]
+	X tweet_count = [156]
+	X username = [dogeCoin Thomas]
+Y = [@CNN this bill targets blacks.]
+Y_token = [cnn, bill, targets, blacks]
+	Y tweet_count = [198]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 30, Y = 30 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@CNN this bill targets blacks.]
+X_token = [cnn, bill, targets, blacks]
+	X tweet_count = [156]
+	X username = [dogeCoin Thomas]
+Y = [@CNN this bill targets blacks.]
+Y_token = [cnn, bill, targets, blacks]
+	Y tweet_count = [200]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 30, Y = 30 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@TeaPainUSA you do realize that this bill targets blacks, right?]
+X_token = [teapainusa, realize, bill, targets, blacks, right]
+	X tweet_count = [193]
+	X username = [dogeCoin Thomas]
+Y = [@TammyDuckworth you do realize that this bill targets blacks.]
+Y_token = [tammyduckworth, realize, bill, targets, blacks]
+	Y tweet_count = [196]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 64, Y = 61 (Y / X = 95.31  X / Y = 104.92)
+Dice Coefficient: 72.73% 
+
+X = [@ABC this is a bill that targets blacks.]
+X_token = [abc, bill, targets, blacks]
+	X tweet_count = [195]
+	X username = [dogeCoin Thomas]
+Y = [@WhiteHouse this bill targets blacks.]
+Y_token = [whitehouse, bill, targets, blacks]
+	Y tweet_count = [197]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 40, Y = 37 (Y / X = 92.50  X / Y = 108.11)
+Dice Coefficient: 75.00% 
+
+X = [@WhiteHouse this bill targets blacks.]
+X_token = [whitehouse, bill, targets, blacks]
+	X tweet_count = [197]
+	X username = [dogeCoin Thomas]
+Y = [@CNN this bill targets blacks.]
+Y_token = [cnn, bill, targets, blacks]
+	Y tweet_count = [198]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 37, Y = 30 (Y / X = 81.08  X / Y = 123.33)
+Dice Coefficient: 75.00% 
+
+X = [@WhiteHouse this bill targets blacks.]
+X_token = [whitehouse, bill, targets, blacks]
+	X tweet_count = [197]
+	X username = [dogeCoin Thomas]
+Y = [@CNN this bill targets blacks.]
+Y_token = [cnn, bill, targets, blacks]
+	Y tweet_count = [200]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 37, Y = 30 (Y / X = 81.08  X / Y = 123.33)
+Dice Coefficient: 75.00% 
+
+X = [@CNN this bill targets blacks.]
+X_token = [cnn, bill, targets, blacks]
+	X tweet_count = [198]
+	X username = [dogeCoin Thomas]
+Y = [@CNN this bill targets blacks.]
+Y_token = [cnn, bill, targets, blacks]
+	Y tweet_count = [200]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 30, Y = 30 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@IceMikeUSA @nypost ask the WSJ.\nhttps://t.co/JkZoQ4zEFR]
+X_token = [icemikeusa, nypost, ask, wsj, https]
+	X tweet_count = [402]
+	X username = [dogeCoin Thomas]
+Y = [@pat_pgsims @nypost will the WSJ do?\n\nhttps://t.co/JkZoQ4zEFR]
+Y_token = [nypost, wsj, https]
+	Y tweet_count = [404]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 56, Y = 61 (Y / X = 108.93  X / Y = 91.80)
+Dice Coefficient: 75.00% 
+
+X = [@AngelaSWenk @nypost how about MSN?\nhttps://t.co/aEkFXgVjmm]
+X_token = [angelaswenk, nypost, msn, https]
+	X tweet_count = [409]
+	X username = [dogeCoin Thomas]
+Y = [@bklyn198724 @nypost how about msn?\nhttps://t.co/aEkFXgVjmm]
+Y_token = [bklyn198724, nypost, msn, https]
+	Y tweet_count = [411]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 59, Y = 59 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [@TaGvUInXyfQ1n0E @KamalaHarris @TheDemocrats but the (D)s need the ability to keep us black people down.\n\nhttps://t.co/PBYEe4DiBC]
+X_token = [tagvuinxyfq1n0e, kamalaharris, thedemocrats, need, ability, keep, us, black, people, https]
+	X tweet_count = [500]
+	X username = [dogeCoin Thomas]
+Y = [@birdie_golden @KamalaHarris @TheDemocrats but the (D)s need the filibuster to keep us black people down.\n\nhttps://t.co/PBYEe4DiBC]
+Y_token = [kamalaharris, thedemocrats, need, filibuster, keep, us, black, people, https]
+	Y tweet_count = [501]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 129, Y = 130 (Y / X = 100.78  X / Y = 99.23)
+Dice Coefficient: 84.21% 
+
+X = [@9_tellthetruth @That1FellaThere @DaleNotDave @AP also, i can assume you do not live in one of these states?\n#2A carry\nAlaska\nArizona\nArkansas\nIdaho\nIowa\nKansas\nKentucky\nMaine\nMississippi\nMissouri\nMontana\nNew Hampshire\nNorth Dakota \nOklahoma\nSouth Dakota\nTennessee\nUtah\nVermont\nW Virginia]
+X_token = [that1fellathere, dalenotdave, ap, also, assume, live, one, states, 2a, carry, alaska, arizona, arkansas, idaho, iowa, kansas, kentucky, maine, mississippi, missouri, montana, new, hampshire, north, dakota, oklahoma, south, dakota, tennessee, utah, vermont, w, virginia]
+	X tweet_count = [308]
+	X username = [dogeCoin Thomas]
+Y = [@JustAnArtist122 @SeixeiroS @Kent_Bonacki @AP yes, case by case.\nhere is state by state for #2A carry:\nAlaska\nArizona\nArkansas\nIdaho\nIowa\nKansas\nKentucky\nMaine\nMississippi\nMissouri\nMontana\nNew Hampshire\nNorth Dakota (residents only;concealed carry only)\nOklahoma\nSouth Dakota\nTennessee (residents only)\nUtah\nVermont\nW.Virginia]
+Y_token = [justanartist122, seixeiros, ap, yes, case, case, state, state, 2a, carry, alaska, arizona, arkansas, idaho, iowa, kansas, kentucky, maine, mississippi, missouri, montana, new, hampshire, north, dakota, residents, concealed, carry, oklahoma, south, dakota, tennessee, residents, utah, vermont]
+	Y tweet_count = [313]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 288, Y = 326 (Y / X = 113.19  X / Y = 88.34)
+Dice Coefficient: 74.19% 
+
+X = [@9_tellthetruth @That1FellaThere @DaleNotDave @AP also, i can assume you do not live in one of these states?\n#2A carry\nAlaska\nArizona\nArkansas\nIdaho\nIowa\nKansas\nKentucky\nMaine\nMississippi\nMissouri\nMontana\nNew Hampshire\nNorth Dakota \nOklahoma\nSouth Dakota\nTennessee\nUtah\nVermont\nW Virginia]
+X_token = [that1fellathere, dalenotdave, ap, also, assume, live, one, states, 2a, carry, alaska, arizona, arkansas, idaho, iowa, kansas, kentucky, maine, mississippi, missouri, montana, new, hampshire, north, dakota, oklahoma, south, dakota, tennessee, utah, vermont, w, virginia]
+	X tweet_count = [308]
+	X username = [dogeCoin Thomas]
+Y = [@Eternity24601 @sfranklin1926 @AP here. i did your homework for you:\n#2A carry states\nAlaska\nArizona\nArkansas\nIdaho\nIowa\nKansas\nKentucky\nMaine\nMississippi\nMissouri\nMontana\nNew Hampshire\nNorth Dakota (residents only; concealed carry only)\nOklahoma\nSouth Dakota\nTennessee (residents only)\nUtah\nVermont\nWest Virginia]
+Y_token = [eternity24601, sfranklin1926, ap, homework, 2a, carry, states, alaska, arizona, arkansas, idaho, iowa, kansas, kentucky, maine, mississippi, missouri, montana, new, hampshire, north, dakota, residents, concealed, carry, oklahoma, south, dakota, tennessee, residents, utah, vermont, west, virginia]
+	Y tweet_count = [318]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 288, Y = 313 (Y / X = 108.68  X / Y = 92.01)
+Dice Coefficient: 79.37% 
+
+X = [@JustAnArtist122 @SeixeiroS @Kent_Bonacki @AP yes, case by case.\nhere is state by state for #2A carry:\nAlaska\nArizona\nArkansas\nIdaho\nIowa\nKansas\nKentucky\nMaine\nMississippi\nMissouri\nMontana\nNew Hampshire\nNorth Dakota (residents only;concealed carry only)\nOklahoma\nSouth Dakota\nTennessee (residents only)\nUtah\nVermont\nW.Virginia]
+X_token = [justanartist122, seixeiros, ap, yes, case, case, state, state, 2a, carry, alaska, arizona, arkansas, idaho, iowa, kansas, kentucky, maine, mississippi, missouri, montana, new, hampshire, north, dakota, residents, concealed, carry, oklahoma, south, dakota, tennessee, residents, utah, vermont]
+	X tweet_count = [313]
+	X username = [dogeCoin Thomas]
+Y = [@Eternity24601 @sfranklin1926 @AP here. i did your homework for you:\n#2A carry states\nAlaska\nArizona\nArkansas\nIdaho\nIowa\nKansas\nKentucky\nMaine\nMississippi\nMissouri\nMontana\nNew Hampshire\nNorth Dakota (residents only; concealed carry only)\nOklahoma\nSouth Dakota\nTennessee (residents only)\nUtah\nVermont\nWest Virginia]
+Y_token = [eternity24601, sfranklin1926, ap, homework, 2a, carry, states, alaska, arizona, arkansas, idaho, iowa, kansas, kentucky, maine, mississippi, missouri, montana, new, hampshire, north, dakota, residents, concealed, carry, oklahoma, south, dakota, tennessee, residents, utah, vermont, west, virginia]
+	Y tweet_count = [318]
+	Y username = [dogeCoin Thomas]
+Total Length: X = 326, Y = 313 (Y / X = 96.01  X / Y = 104.15)
+Dice Coefficient: 81.97% 
+

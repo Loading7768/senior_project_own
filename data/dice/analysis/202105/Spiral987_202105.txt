@@ -1,0 +1,44 @@
+﻿X = [#Doge just hit $0.38c\n#dogecoin is on its way!!!!!!\n#DogecoinToTheMoon]
+X_token = [doge, hit, dogecoin, way, dogecointothemoon]
+	X tweet_count = [1]
+	X username = [Spiral987]
+Y = [Here in the #UK #dogecoin has hit £0.30 pence.\n#DOGE #DogecoinToTheMoon]
+Y_token = [uk, dogecoin, hit, pence, doge, dogecointothemoon]
+	Y tweet_count = [21]
+	Y username = [Spiral987]
+Total Length: X = 70, Y = 71 (Y / X = 101.43  X / Y = 98.59)
+Dice Coefficient: 72.73% 
+
+X = [#doge a sniff away from $0.38c\n#dogecoin #DogecoinToTheMoon #DogecoinRise]
+X_token = [doge, sniff, away, dogecoin, dogecointothemoon, dogecoinrise]
+	X tweet_count = [2]
+	X username = [Spiral987]
+Y = [#dogecoin at $0.43 cents!!!!\n#DogecoinToTheMoon #DogecoinRise #DOGE]
+Y_token = [dogecoin, cents, dogecointothemoon, dogecoinrise, doge]
+	Y tweet_count = [19]
+	Y username = [Spiral987]
+Total Length: X = 73, Y = 67 (Y / X = 91.78  X / Y = 108.96)
+Dice Coefficient: 72.73% 
+
+X = [#doge just hit $0.44c\n#dogecoin #DogecoinToTheMoon]
+X_token = [doge, hit, dogecoin, dogecointothemoon]
+	X tweet_count = [17]
+	X username = [Spiral987]
+Y = [#dogecoin just hit $0.42c\n#DogecoinToTheMoon #DogecoinRise]
+Y_token = [dogecoin, hit, dogecointothemoon, dogecoinrise]
+	Y tweet_count = [22]
+	Y username = [Spiral987]
+Total Length: X = 50, Y = 58 (Y / X = 116.00  X / Y = 86.21)
+Dice Coefficient: 75.00% 
+
+X = [59 CENTS!!!!!!!!\n#dogecoin #DogecoinToTheMoon]
+X_token = [59, cents, dogecoin, dogecointothemoon]
+	X tweet_count = [26]
+	X username = [Spiral987]
+Y = [55 CENTS!!!!!!\n#dogecoin #DogecoinToTheMoon]
+Y_token = [55, cents, dogecoin, dogecointothemoon]
+	Y tweet_count = [27]
+	Y username = [Spiral987]
+Total Length: X = 45, Y = 43 (Y / X = 95.56  X / Y = 104.65)
+Dice Coefficient: 75.00% 
+

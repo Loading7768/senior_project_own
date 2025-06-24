@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@jenny_guerrero_ No she should buy dogecoin and lots of it",
+        "X_token": "buy, dogecoin, lots",
+        "X_tweet_count": 4,
+        "X_username": "DARRAN JACKSON",
+        "Y_text": "@DonaldJTrumpJr Just buy some dogecoin and lots of it",
+        "Y_token": "donaldjtrumpjr, buy, dogecoin, lots",
+        "Y_tweet_count": 5,
+        "Y_username": "DARRAN JACKSON",
+        "X_length": 58,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 91.38,
+        "X_length_percent_of_Y": 109.43,
+        "dice_coefficient": 85.71
+    }
+]

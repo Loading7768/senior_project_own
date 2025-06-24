@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "$Doge https://t.co/wzEzRe9Sfg",
+        "X_token": "doge, https",
+        "X_tweet_count": 9,
+        "X_username": "Jozaf.Benka",
+        "Y_text": "$Doge https://t.co/9YiX5ljO2S",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 10,
+        "Y_username": "Jozaf.Benka",
+        "X_length": 29,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "$Doge https://t.co/wzEzRe9Sfg",
+        "X_token": "doge, https",
+        "X_tweet_count": 9,
+        "X_username": "Jozaf.Benka",
+        "Y_text": "$Doge https://t.co/rRJ0TD7ZM0",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 36,
+        "Y_username": "Jozaf.Benka",
+        "X_length": 29,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "$Doge https://t.co/9YiX5ljO2S",
+        "X_token": "doge, https",
+        "X_tweet_count": 10,
+        "X_username": "Jozaf.Benka",
+        "Y_text": "$Doge https://t.co/rRJ0TD7ZM0",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 36,
+        "Y_username": "Jozaf.Benka",
+        "X_length": 29,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@davidgokhshtein @butterflygyal1 @justinbieber \n$Doge snap one\n\n@billieeilish\n@djkhaled\n#MakeItHappen",
+        "X_token": "davidgokhshtein, butterflygyal1, justinbieber, doge, snap, one, billieeilish, djkhaled, makeithappen",
+        "X_tweet_count": 15,
+        "X_username": "Jozaf.Benka",
+        "Y_text": "@justinbieber \n$Doge snap one\n\n@billieeilish\n@djkhaled\n#MakeItHappen https://t.co/EJTqJyDC1R",
+        "Y_token": "justinbieber, doge, snap, one, billieeilish, djkhaled, makeithappen, https",
+        "Y_tweet_count": 17,
+        "Y_username": "Jozaf.Benka",
+        "X_length": 101,
+        "Y_length": 92,
+        "Y_length_percent_of_X": 91.09,
+        "X_length_percent_of_Y": 109.78,
+        "dice_coefficient": 82.35
+    }
+]

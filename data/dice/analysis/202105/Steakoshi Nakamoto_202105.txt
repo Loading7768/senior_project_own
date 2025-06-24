@@ -1,0 +1,22 @@
+﻿X = [We’re above 50c! #dogecoin 🚀]
+X_token = [50c, dogecoin]
+	X tweet_count = [5]
+	X username = [Steakoshi Nakamoto]
+Y = [Back above 50c! #dogecoin]
+Y_token = [back, 50c, dogecoin]
+	Y tweet_count = [22]
+	Y username = [Steakoshi Nakamoto]
+Total Length: X = 28, Y = 25 (Y / X = 89.29  X / Y = 112.00)
+Dice Coefficient: 80.00% 
+
+X = [.75 let’s go #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [13]
+	X username = [Steakoshi Nakamoto]
+Y = [Let’s go 🚀 #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [49]
+	Y username = [Steakoshi Nakamoto]
+Total Length: X = 22, Y = 20 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Just made over 100 dollars on dogecoin buying in at the dip lol",
+        "X_token": "made, 100, dollars, dogecoin, buying, dip, lol",
+        "X_tweet_count": 22,
+        "X_username": "Joshua",
+        "Y_text": "Just made another 100 dollars by buying in at the dip on dogecoin lol",
+        "Y_token": "made, another, 100, dollars, buying, dip, dogecoin, lol",
+        "Y_tweet_count": 60,
+        "Y_username": "Joshua",
+        "X_length": 63,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 109.52,
+        "X_length_percent_of_Y": 91.3,
+        "dice_coefficient": 93.33
+    }
+]

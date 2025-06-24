@@ -1,0 +1,11 @@
+﻿X = ["Many hands doing small things, but doing them together." \n#dogecoin \n#safemoon]
+X_token = [many, hands, small, things, together, dogecoin, safemoon]
+	X tweet_count = [59]
+	X username = [Wario_Musk]
+Y = ["Many hands doing small things, but doing them together" #dogecoin]
+Y_token = [many, hands, small, things, together, dogecoin]
+	Y tweet_count = [77]
+	Y username = [Wario_Musk]
+Total Length: X = 79, Y = 66 (Y / X = 83.54  X / Y = 119.70)
+Dice Coefficient: 92.31% 
+

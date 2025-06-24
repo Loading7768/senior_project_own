@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Good morning America hating on #dogecoin",
+        "X_token": "good, morning, america, hating, dogecoin",
+        "X_tweet_count": 39,
+        "X_username": "MeloDramatical𐚁💙🐝",
+        "Y_text": "Omg #dogecoin on good morning America",
+        "Y_token": "omg, dogecoin, good, morning, america",
+        "Y_tweet_count": 40,
+        "Y_username": "MeloDramatical𐚁💙🐝",
+        "X_length": 40,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 92.5,
+        "X_length_percent_of_Y": 108.11,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Good morning America hating on #dogecoin",
+        "X_token": "good, morning, america, hating, dogecoin",
+        "X_tweet_count": 39,
+        "X_username": "MeloDramatical𐚁💙🐝",
+        "Y_text": "Dogecoin on good morning America",
+        "Y_token": "dogecoin, good, morning, america",
+        "Y_tweet_count": 41,
+        "Y_username": "MeloDramatical𐚁💙🐝",
+        "X_length": 40,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "Omg #dogecoin on good morning America",
+        "X_token": "omg, dogecoin, good, morning, america",
+        "X_tweet_count": 40,
+        "X_username": "MeloDramatical𐚁💙🐝",
+        "Y_text": "Dogecoin on good morning America",
+        "Y_token": "dogecoin, good, morning, america",
+        "Y_tweet_count": 41,
+        "Y_username": "MeloDramatical𐚁💙🐝",
+        "X_length": 37,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 86.49,
+        "X_length_percent_of_Y": 115.62,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "I got ass but no $ass #fomo #dogecoin",
+        "X_token": "got, ass, ass, fomo, dogecoin",
+        "X_tweet_count": 124,
+        "X_username": "MeloDramatical𐚁💙🐝",
+        "Y_text": "He got #dogecoin and a big ass ❤",
+        "Y_token": "got, dogecoin, big, ass",
+        "Y_tweet_count": 172,
+        "Y_username": "MeloDramatical𐚁💙🐝",
+        "X_length": 37,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 86.49,
+        "X_length_percent_of_Y": 115.62,
+        "dice_coefficient": 75.0
+    }
+]

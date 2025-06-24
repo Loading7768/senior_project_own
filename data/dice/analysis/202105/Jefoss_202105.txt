@@ -1,0 +1,110 @@
+﻿X = [Elon Elon Elon!! Come on @elonmusk push #dogecoin to the moon!! 🌙]
+X_token = [elon, elon, elon, come, elonmusk, push, dogecoin, moon]
+	X tweet_count = [16]
+	X username = [Jefoss]
+Y = [Come on guys!! Push that #Dogecoin!!! Push it to the #moon !!!]
+Y_token = [come, guys, push, dogecoin, push, moon]
+	Y tweet_count = [79]
+	Y username = [Jefoss]
+Total Length: X = 65, Y = 62 (Y / X = 95.38  X / Y = 104.84)
+Dice Coefficient: 72.73% 
+
+X = [Push push push #dogecoin!! Come on @elonmusk help us a little!!]
+X_token = [push, push, push, dogecoin, come, elonmusk, help, us, little]
+	X tweet_count = [17]
+	X username = [Jefoss]
+Y = [Come on @elonmusk help us!!  #Dogecoin is about to die!]
+Y_token = [come, elonmusk, help, us, dogecoin, die]
+	Y tweet_count = [115]
+	Y username = [Jefoss]
+Total Length: X = 63, Y = 55 (Y / X = 87.30  X / Y = 114.55)
+Dice Coefficient: 76.92% 
+
+X = [Come on people push #dogecoin to the #moon !!! BUY BUY BUY!! https://t.co/KoaVrHxGox]
+X_token = [come, people, push, dogecoin, moon, buy, buy, buy, https]
+	X tweet_count = [41]
+	X username = [Jefoss]
+Y = [Come on people buy #dogecoin now!! This is the moment to push it to #1usd !! https://t.co/oKbtu8qquk]
+Y_token = [come, people, buy, dogecoin, moment, push, 1usd, https]
+	Y tweet_count = [44]
+	Y username = [Jefoss]
+Total Length: X = 84, Y = 100 (Y / X = 119.05  X / Y = 84.00)
+Dice Coefficient: 80.00% 
+
+X = [BUY BUY BUY!! #HODL #dogecoin https://t.co/VBKKuN0YJl]
+X_token = [buy, buy, buy, hodl, dogecoin, https]
+	X tweet_count = [58]
+	X username = [Jefoss]
+Y = [Pump pump pump!! #HODL #Dogecoin https://t.co/uQfvolUnrm]
+Y_token = [pump, pump, pump, hodl, dogecoin, https]
+	Y tweet_count = [98]
+	Y username = [Jefoss]
+Total Length: X = 53, Y = 56 (Y / X = 105.66  X / Y = 94.64)
+Dice Coefficient: 75.00% 
+
+X = [Why is it not going up #dogecoin??]
+X_token = [going, dogecoin]
+	X tweet_count = [62]
+	X username = [Jefoss]
+Y = [Why is it going down?? #Dogecoin]
+Y_token = [going, dogecoin]
+	Y tweet_count = [84]
+	Y username = [Jefoss]
+Total Length: X = 34, Y = 32 (Y / X = 94.12  X / Y = 106.25)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk and can we buy a Tesla with #Dogecoin??!]
+X_token = [elonmusk, buy, tesla, dogecoin]
+	X tweet_count = [86]
+	X username = [Jefoss]
+Y = [@elonmusk is it now poseble to buy a #Tesla with #Dogecoin??]
+Y_token = [elonmusk, poseble, buy, tesla, dogecoin]
+	Y tweet_count = [117]
+	Y username = [Jefoss]
+Total Length: X = 50, Y = 60 (Y / X = 120.00  X / Y = 83.33)
+Dice Coefficient: 88.89% 
+
+X = [@elonmusk why you don’t help us?? #Dogecoin]
+X_token = [elonmusk, help, us, dogecoin]
+	X tweet_count = [105]
+	X username = [Jefoss]
+Y = [Come on @elonmusk!! Push it!! Help us!  #Dogecoin]
+Y_token = [come, elonmusk, push, help, us, dogecoin]
+	Y tweet_count = [108]
+	Y username = [Jefoss]
+Total Length: X = 43, Y = 49 (Y / X = 113.95  X / Y = 87.76)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk why you don’t help us?? #Dogecoin]
+X_token = [elonmusk, help, us, dogecoin]
+	X tweet_count = [105]
+	X username = [Jefoss]
+Y = [why are you letting us down?\n@elonmusk  #Dogecoin]
+Y_token = [letting, us, elonmusk, dogecoin]
+	Y tweet_count = [111]
+	Y username = [Jefoss]
+Total Length: X = 43, Y = 49 (Y / X = 113.95  X / Y = 87.76)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk why you don’t help us?? #Dogecoin]
+X_token = [elonmusk, help, us, dogecoin]
+	X tweet_count = [105]
+	X username = [Jefoss]
+Y = [Come on @elonmusk help us!! #Dogecoin]
+Y_token = [come, elonmusk, help, us, dogecoin]
+	Y tweet_count = [114]
+	Y username = [Jefoss]
+Total Length: X = 43, Y = 37 (Y / X = 86.05  X / Y = 116.22)
+Dice Coefficient: 88.89% 
+
+X = [Come on @elonmusk!! Push it!! Help us!  #Dogecoin]
+X_token = [come, elonmusk, push, help, us, dogecoin]
+	X tweet_count = [108]
+	X username = [Jefoss]
+Y = [Come on @elonmusk help us!!  #Dogecoin is about to die!]
+Y_token = [come, elonmusk, help, us, dogecoin, die]
+	Y tweet_count = [115]
+	Y username = [Jefoss]
+Total Length: X = 49, Y = 55 (Y / X = 112.24  X / Y = 89.09)
+Dice Coefficient: 83.33% 
+

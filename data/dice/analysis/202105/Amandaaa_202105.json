@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@elonmusk @PeterMcCormack $doge @elonmusk https://t.co/Df8JBN3fBv",
+        "X_token": "elonmusk, petermccormack, doge, elonmusk, https",
+        "X_tweet_count": 11,
+        "X_username": "Amandaaa",
+        "Y_text": "@davidgokhshtein @elonmusk $doge https://t.co/2m5jbXBfmn",
+        "Y_token": "davidgokhshtein, elonmusk, doge, https",
+        "Y_tweet_count": 12,
+        "Y_username": "Amandaaa",
+        "X_length": 65,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 86.15,
+        "X_length_percent_of_Y": 116.07,
+        "dice_coefficient": 75.0
+    }
+]

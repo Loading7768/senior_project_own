@@ -1,0 +1,55 @@
+﻿X = [$Doge #Doge #dogecoin]
+X_token = [doge, doge, dogecoin]
+	X tweet_count = [4]
+	X username = [AJ]
+Y = [$Doge hit .50 #dogecoin]
+Y_token = [doge, hit, dogecoin]
+	Y tweet_count = [22]
+	Y username = [AJ]
+Total Length: X = 21, Y = 23 (Y / X = 109.52  X / Y = 91.30)
+Dice Coefficient: 80.00% 
+
+X = [$Doge]
+X_token = [doge]
+	X tweet_count = [60]
+	X username = [AJ]
+Y = [$DOGE]
+Y_token = [doge]
+	Y tweet_count = [87]
+	Y username = [AJ]
+Total Length: X = 5, Y = 5 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [$Doge]
+X_token = [doge]
+	X tweet_count = [60]
+	X username = [AJ]
+Y = [$doge]
+Y_token = [doge]
+	Y tweet_count = [100]
+	Y username = [AJ]
+Total Length: X = 5, Y = 5 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [$DOGE]
+X_token = [doge]
+	X tweet_count = [87]
+	X username = [AJ]
+Y = [$doge]
+Y_token = [doge]
+	Y tweet_count = [100]
+	Y username = [AJ]
+Total Length: X = 5, Y = 5 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [108]
+	X username = [AJ]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [111]
+	Y username = [AJ]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#dogecoin #doge   Come join in if you see this retweet \n\n https://t.co/PSbikUN9lU",
+        "X_token": "dogecoin, doge, come, join, see, retweet, https",
+        "X_tweet_count": 50,
+        "X_username": "true investors",
+        "Y_text": "Join in and retweet  talk crypto and #dogecoin #doge \n\n https://t.co/PSbikUN9lU",
+        "Y_token": "join, retweet, talk, crypto, dogecoin, doge, https",
+        "Y_tweet_count": 51,
+        "Y_username": "true investors",
+        "X_length": 81,
+        "Y_length": 79,
+        "Y_length_percent_of_X": 97.53,
+        "X_length_percent_of_Y": 102.53,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "https://t.co/ppgJ9hmTSb\n\nTune in  to the #podcast\n\n#dogecoin #doge",
+        "X_token": "https, tune, podcast, dogecoin, doge",
+        "X_tweet_count": 59,
+        "X_username": "true investors",
+        "Y_text": "Come tune in #dogecoin #doge\n\n https://t.co/ppgJ9hmTSb",
+        "Y_token": "come, tune, dogecoin, doge, https",
+        "Y_tweet_count": 60,
+        "Y_username": "true investors",
+        "X_length": 66,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 81.82,
+        "X_length_percent_of_Y": 122.22,
+        "dice_coefficient": 80.0
+    }
+]

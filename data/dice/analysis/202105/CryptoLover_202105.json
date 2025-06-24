@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@dogecoin_empire I have some dogecoins already. Do you think I should buy more at today’s price or shall I wait for the dip?",
+        "X_token": "dogecoins, already, think, buy, today, price, shall, wait, dip",
+        "X_tweet_count": 4,
+        "X_username": "CryptoLover",
+        "Y_text": "@Dogecoinrich I have some dogecoin. Do you think I should buy more at today’s price or shall i wait for the dip?",
+        "Y_token": "dogecoinrich, dogecoin, think, buy, today, price, shall, wait, dip",
+        "Y_tweet_count": 5,
+        "Y_username": "CryptoLover",
+        "X_length": 124,
+        "Y_length": 112,
+        "Y_length_percent_of_X": 90.32,
+        "X_length_percent_of_Y": 110.71,
+        "dice_coefficient": 77.78
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@Carl24470424 @dogecoin_rise @GersonKyler Never too late to buy #dogecoin",
+        "X_token": "carl24470424, gersonkyler, never, late, buy, dogecoin",
+        "X_tweet_count": 21,
+        "X_username": "Barry Davis",
+        "Y_text": "@Mason_0218 You can still buy #dogecoin.  It's never too late.",
+        "Y_token": "still, buy, dogecoin, never, late",
+        "Y_tweet_count": 30,
+        "Y_username": "Barry Davis",
+        "X_length": 73,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 84.93,
+        "X_length_percent_of_Y": 117.74,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "#DogecoinRise This Just In... DOGE Coin is going back up.  Like clockwork. Every week. https://t.co/EzTfQK67Ke",
+        "X_token": "dogecoinrise, doge, coin, going, back, like, clockwork, every, week, https",
+        "X_tweet_count": 36,
+        "X_username": "Barry Davis",
+        "Y_text": "@ramxnico This Just In...  DOGE Coin is going back up.  Like clockwork. Every week. https://t.co/XoI80jWSrd",
+        "Y_token": "ramxnico, doge, coin, going, back, like, clockwork, every, week, https",
+        "Y_tweet_count": 37,
+        "Y_username": "Barry Davis",
+        "X_length": 110,
+        "Y_length": 107,
+        "Y_length_percent_of_X": 97.27,
+        "X_length_percent_of_Y": 102.8,
+        "dice_coefficient": 90.0
+    }
+]

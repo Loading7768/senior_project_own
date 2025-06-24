@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@elonmusk Walk in with Kabosu!! a Dogecoin dog :D",
+        "X_token": "elonmusk, walk, kabosu, dogecoin, dog",
+        "X_tweet_count": 1,
+        "X_username": "VASTORIA",
+        "Y_text": "@elonmusk Walk with a real Kabosu!! (Dogecoin dog)",
+        "Y_token": "elonmusk, walk, real, kabosu, dogecoin, dog",
+        "Y_tweet_count": 2,
+        "Y_username": "VASTORIA",
+        "X_length": 49,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 102.04,
+        "X_length_percent_of_Y": 98.0,
+        "dice_coefficient": 90.91
+    }
+]

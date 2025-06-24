@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Cryptocurrency ethereum hits new record high again; dogecoin slumps https://t.co/GmojMUug7p",
+        "X_token": "cryptocurrency, ethereum, hits, new, record, high, dogecoin, slumps, https",
+        "X_tweet_count": 2,
+        "X_username": "TOI Business",
+        "Y_text": "Dogecoin cryptocurrency slumps after hashtag-fueled surge to record high https://t.co/IGHfpPfxst",
+        "Y_token": "dogecoin, cryptocurrency, slumps, surge, record, high, https",
+        "Y_tweet_count": 10,
+        "Y_username": "TOI Business",
+        "X_length": 91,
+        "Y_length": 96,
+        "Y_length_percent_of_X": 105.49,
+        "X_length_percent_of_Y": 94.79,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Dogecoin: How to buy the meme-based virtual currency https://t.co/hu0Aa9kxgN",
+        "X_token": "dogecoin, buy, virtual, currency, https",
+        "X_tweet_count": 14,
+        "X_username": "TOI Business",
+        "Y_text": "Dogecoin: How to buy the meme-based virtual currency https://t.co/crUQ4OAjcf",
+        "Y_token": "dogecoin, buy, virtual, currency, https",
+        "Y_tweet_count": 15,
+        "Y_username": "TOI Business",
+        "X_length": 76,
+        "Y_length": 76,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

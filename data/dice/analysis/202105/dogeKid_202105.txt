@@ -1,0 +1,22 @@
+﻿X = [No paper hands gang! #dogecoin]
+X_token = [paper, hands, gang, dogecoin]
+	X tweet_count = [7]
+	X username = [dogeKid]
+Y = [Diamond hands gang!😈 #dogecoin]
+Y_token = [diamond, hands, gang, dogecoin]
+	Y tweet_count = [30]
+	Y username = [dogeKid]
+Total Length: X = 30, Y = 30 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk will tweet tonight and bless us #dogecoin]
+X_token = [elonmusk, tweet, tonight, bless, us, dogecoin]
+	X tweet_count = [28]
+	X username = [dogeKid]
+Y = [@elonmusk bless us with a #dogecoin tweet tonight 🙏]
+Y_token = [elonmusk, bless, us, dogecoin, tweet, tonight]
+	Y tweet_count = [29]
+	Y username = [dogeKid]
+Total Length: X = 51, Y = 51 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

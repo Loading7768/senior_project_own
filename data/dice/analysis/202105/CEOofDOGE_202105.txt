@@ -1,0 +1,11 @@
+﻿X = [I’m excited for #dogecoin ‘s future 🤩]
+X_token = [excited, dogecoin, future]
+	X tweet_count = [12]
+	X username = [CEOofDOGE]
+Y = [I’m excited for #dogecoin ‘s future]
+Y_token = [excited, dogecoin, future]
+	Y tweet_count = [73]
+	Y username = [CEOofDOGE]
+Total Length: X = 37, Y = 35 (Y / X = 94.59  X / Y = 105.71)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,55 @@
+﻿X = [@QweenDoge Dogecoin look better than gold right now!]
+X_token = [qweendoge, dogecoin, look, better, gold, right]
+	X tweet_count = [3]
+	X username = [Robert Vogan]
+Y = [@dcoinQueen Dogecoin is better than Gold right now!]
+Y_token = [dcoinqueen, dogecoin, better, gold, right]
+	Y tweet_count = [25]
+	Y username = [Robert Vogan]
+Total Length: X = 52, Y = 51 (Y / X = 98.08  X / Y = 101.96)
+Dice Coefficient: 72.73% 
+
+X = [@BigImpactHumans Dogecoin 🚀]
+X_token = [bigimpacthumans, dogecoin]
+	X tweet_count = [20]
+	X username = [Robert Vogan]
+Y = [@BigImpactHumans Dogecoin 🚀]
+Y_token = [bigimpacthumans, dogecoin]
+	Y tweet_count = [27]
+	Y username = [Robert Vogan]
+Total Length: X = 27, Y = 27 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@dogecoin_empire @uzohak Dogecoin is gaining massive global utility!!]
+X_token = [uzohak, dogecoin, gaining, massive, global, utility]
+	X tweet_count = [29]
+	X username = [Robert Vogan]
+Y = [@Cocochaneladair Dogecoin is gaining MASSIVE utility on a global scale!]
+Y_token = [cocochaneladair, dogecoin, gaining, massive, utility, global, scale]
+	Y tweet_count = [32]
+	Y username = [Robert Vogan]
+Total Length: X = 69, Y = 71 (Y / X = 102.90  X / Y = 97.18)
+Dice Coefficient: 76.92% 
+
+X = [@TOPDOGE20 We are taking Dogecoin all the way! Dogecoin 🚀]
+X_token = [topdoge20, taking, dogecoin, way, dogecoin]
+	X tweet_count = [37]
+	X username = [Robert Vogan]
+Y = [@dogecoin_empire No doubt about it we are taking Dogecoin all the way!]
+Y_token = [doubt, taking, dogecoin, way]
+	Y tweet_count = [40]
+	Y username = [Robert Vogan]
+Total Length: X = 57, Y = 70 (Y / X = 122.81  X / Y = 81.43)
+Dice Coefficient: 75.00% 
+
+X = [@Hynek_Maneuver @ChurchOfPumps Oppressing Dogecoin is Opression of the people! No one wants to oppress the people!]
+X_token = [churchofpumps, oppressing, dogecoin, opression, people, one, wants, oppress, people]
+	X tweet_count = [64]
+	X username = [Robert Vogan]
+Y = [@dogecoin_empire Dogecoin is clearly the winner! Oppressing Dogecoin is the SAME as pressing the people! No one wants to oppress the people!]
+Y_token = [dogecoin, clearly, winner, oppressing, dogecoin, pressing, people, one, wants, oppress, people]
+	Y tweet_count = [77]
+	Y username = [Robert Vogan]
+Total Length: X = 114, Y = 140 (Y / X = 122.81  X / Y = 81.43)
+Dice Coefficient: 70.59% 
+

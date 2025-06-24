@@ -1,0 +1,22 @@
+﻿X = [Imagine if you had bought #dogecoin only 24hrs back. \n\n#dogecoin food for thoughts!]
+X_token = [imagine, bought, dogecoin, 24hrs, back, dogecoin, food, thoughts]
+	X tweet_count = [22]
+	X username = [Dogecoin Brother]
+Y = [Imagine if you had sold out your #dogecoin just 24hrs back. \n\n#dogecoin food for thoughts!]
+Y_token = [imagine, sold, dogecoin, 24hrs, back, dogecoin, food, thoughts]
+	Y tweet_count = [23]
+	Y username = [Dogecoin Brother]
+Total Length: X = 83, Y = 90 (Y / X = 108.43  X / Y = 92.22)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk\nWe are super proud of your work and contribution to humanity! \nIt takes a hell lot than most of these internet kids can afford to build \n@SpaceX @Tesla\n There is a saying "when the elephant walks dogs bark" \n\nKeep up the great work \n@elonmusk\n Folded hands We love you!]
+X_token = [elonmusk, super, proud, work, contribution, humanity, takes, hell, lot, internet, kids, afford, build, spacex, tesla, saying, elephant, walks, dogs, bark, keep, great, work, elonmusk, folded, hands, love]
+	X tweet_count = [44]
+	X username = [Dogecoin Brother]
+Y = [@elonmusk @helladdict69 @PeterMcCormack @elonmusk We are super proud of your work and contribution to humanity! \nIt takes a hell lot than most of these internet kids can afford to build @SpaceX n @Tesla \n\nThere is a saying "when the elephant walks dogs bark" \n\nKeep up the great work @elonmusk 🙏 We love you! https://t.co/zGUFMbz9HX]
+Y_token = [elonmusk, helladdict69, petermccormack, elonmusk, super, proud, work, contribution, humanity, takes, hell, lot, internet, kids, afford, build, spacex, n, tesla, saying, elephant, walks, dogs, bark, keep, great, work, elonmusk, love, https]
+	Y tweet_count = [45]
+	Y username = [Dogecoin Brother]
+Total Length: X = 279, Y = 332 (Y / X = 119.00  X / Y = 84.04)
+Dice Coefficient: 88.46% 
+

@@ -1,0 +1,55 @@
+﻿X = [@tyler @cameron @Gemini #Doge didn’t choose the people. The people chose #Dogecoin]
+X_token = [tyler, cameron, gemini, doge, choose, people, people, chose, dogecoin]
+	X tweet_count = [12]
+	X username = [econometrica]
+Y = [@cameron @Gemini #Doge didn’t choose the people. The people chose #Dogecoin]
+Y_token = [cameron, gemini, doge, choose, people, people, chose, dogecoin]
+	Y tweet_count = [13]
+	Y username = [econometrica]
+Total Length: X = 82, Y = 75 (Y / X = 91.46  X / Y = 109.33)
+Dice Coefficient: 93.33% 
+
+X = [@tyler @cameron @Gemini #Doge didn’t choose the people. The people chose #Dogecoin]
+X_token = [tyler, cameron, gemini, doge, choose, people, people, chose, dogecoin]
+	X tweet_count = [12]
+	X username = [econometrica]
+Y = [@cameron #Doge didn’t choose the people. The people chose #Dogecoin]
+Y_token = [cameron, doge, choose, people, people, chose, dogecoin]
+	Y tweet_count = [14]
+	Y username = [econometrica]
+Total Length: X = 82, Y = 67 (Y / X = 81.71  X / Y = 122.39)
+Dice Coefficient: 85.71% 
+
+X = [@cameron @Gemini #Doge didn’t choose the people. The people chose #Dogecoin]
+X_token = [cameron, gemini, doge, choose, people, people, chose, dogecoin]
+	X tweet_count = [13]
+	X username = [econometrica]
+Y = [@cameron #Doge didn’t choose the people. The people chose #Dogecoin]
+Y_token = [cameron, doge, choose, people, people, chose, dogecoin]
+	Y tweet_count = [14]
+	Y username = [econometrica]
+Total Length: X = 75, Y = 67 (Y / X = 89.33  X / Y = 111.94)
+Dice Coefficient: 92.31% 
+
+X = [@cameron @Gemini #Doge didn’t choose the people. The people chose #Dogecoin]
+X_token = [cameron, gemini, doge, choose, people, people, chose, dogecoin]
+	X tweet_count = [13]
+	X username = [econometrica]
+Y = [@tyler #Doge didn’t choose the people. The people chose #Dogecoin]
+Y_token = [tyler, doge, choose, people, people, chose, dogecoin]
+	Y tweet_count = [15]
+	Y username = [econometrica]
+Total Length: X = 75, Y = 65 (Y / X = 86.67  X / Y = 115.38)
+Dice Coefficient: 76.92% 
+
+X = [@cameron #Doge didn’t choose the people. The people chose #Dogecoin]
+X_token = [cameron, doge, choose, people, people, chose, dogecoin]
+	X tweet_count = [14]
+	X username = [econometrica]
+Y = [@tyler #Doge didn’t choose the people. The people chose #Dogecoin]
+Y_token = [tyler, doge, choose, people, people, chose, dogecoin]
+	Y tweet_count = [15]
+	Y username = [econometrica]
+Total Length: X = 67, Y = 65 (Y / X = 97.01  X / Y = 103.08)
+Dice Coefficient: 83.33% 
+

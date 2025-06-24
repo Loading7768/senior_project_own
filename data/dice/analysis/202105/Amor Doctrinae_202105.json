@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@tyler #Doge is a brand and the #Dogecoin is utility technology for today and future. There are less than 8 billion people on Earth and less than 130 billion in circulation. Get your #Dogecoin.\n\nCompared to $1.2 trillion dollars of U.S. currency in circulation. 🧐",
+        "X_token": "tyler, doge, brand, dogecoin, utility, technology, today, future, less, 8, billion, people, earth, less, 130, billion, circulation, get, dogecoin, compared, trillion, dollars, currency, circulation",
+        "X_tweet_count": 6,
+        "X_username": "Amor Doctrinae",
+        "Y_text": "@davidgokhshtein @dale_hughes80 #Doge is a brand and the #Dogecoin is utility technology for today and future. There are less a 8 billion people on Earth and less than 130 billion in circulation. Get your #Dogecoin",
+        "Y_token": "davidgokhshtein, doge, brand, dogecoin, utility, technology, today, future, less, 8, billion, people, earth, less, 130, billion, circulation, get, dogecoin",
+        "Y_tweet_count": 8,
+        "Y_username": "Amor Doctrinae",
+        "X_length": 263,
+        "Y_length": 214,
+        "Y_length_percent_of_X": 81.37,
+        "X_length_percent_of_Y": 122.9,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "Coinbase preps #Dogecoin listing\n\n#Coinbase\nhttps://t.co/zadaa40Vxo",
+        "X_token": "coinbase, preps, dogecoin, listing, coinbase, https",
+        "X_tweet_count": 59,
+        "X_username": "Amor Doctrinae",
+        "Y_text": "#Dogecoin before the #Coinbase Listing\n\nJust a reminder.\n\nhttps://t.co/ycwg0JK47A",
+        "Y_token": "dogecoin, coinbase, listing, reminder, https",
+        "Y_tweet_count": 72,
+        "Y_username": "Amor Doctrinae",
+        "X_length": 67,
+        "Y_length": 81,
+        "Y_length_percent_of_X": 120.9,
+        "X_length_percent_of_Y": 82.72,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@AdrianoCollalti @EricRing1 Did someone say #Dogecoin?",
+        "X_token": "adrianocollalti, ericring1, someone, say, dogecoin",
+        "X_tweet_count": 68,
+        "X_username": "Amor Doctrinae",
+        "Y_text": "@AdrianoCollalti @EricRing1 I did say #Dogecoin",
+        "Y_token": "adrianocollalti, ericring1, say, dogecoin",
+        "Y_tweet_count": 69,
+        "Y_username": "Amor Doctrinae",
+        "X_length": 54,
+        "Y_length": 47,
+        "Y_length_percent_of_X": 87.04,
+        "X_length_percent_of_Y": 114.89,
+        "dice_coefficient": 88.89
+    }
+]

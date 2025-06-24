@@ -1,0 +1,22 @@
+﻿X = [@Dogecoinrich Who’s holding #Dogecoin?]
+X_token = [dogecoinrich, holding, dogecoin]
+	X tweet_count = [2]
+	X username = [Anup Roy]
+Y = [@Dogecoinrich I'm holding #Dogecoin]
+Y_token = [dogecoinrich, holding, dogecoin]
+	Y tweet_count = [5]
+	Y username = [Anup Roy]
+Total Length: X = 38, Y = 35 (Y / X = 92.11  X / Y = 108.57)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Who’s holding #Dogecoin?]
+X_token = [elonmusk, holding, dogecoin]
+	X tweet_count = [3]
+	X username = [Anup Roy]
+Y = [@elonmusk Who’s holding #Dogecoin?]
+Y_token = [elonmusk, holding, dogecoin]
+	Y tweet_count = [4]
+	Y username = [Anup Roy]
+Total Length: X = 34, Y = 34 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

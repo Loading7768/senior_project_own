@@ -1,0 +1,44 @@
+﻿X = [Apple Products!!! Accept $Doge payment. 📱\n\n#AcceptDOGE \n#Doge4Apple\n#dogecoin]
+X_token = [apple, products, accept, doge, payment, acceptdoge, doge4apple, dogecoin]
+	X tweet_count = [35]
+	X username = [Money Doggie]
+Y = [@CarnivalCruise Accept Doge as a Payment.\n\n#AcceptDOGE #dogecoin]
+Y_token = [carnivalcruise, accept, doge, payment, acceptdoge, dogecoin]
+	Y tweet_count = [47]
+	Y username = [Money Doggie]
+Total Length: X = 77, Y = 64 (Y / X = 83.12  X / Y = 120.31)
+Dice Coefficient: 71.43% 
+
+X = [#dogecoin to the Moon]
+X_token = [dogecoin, moon]
+	X tweet_count = [40]
+	X username = [Money Doggie]
+Y = [To the moon #dogecoin]
+Y_token = [moon, dogecoin]
+	Y tweet_count = [77]
+	Y username = [Money Doggie]
+Total Length: X = 21, Y = 21 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Goodnight $Doge Fam.\nTomorrow will be the #dogecoin Day!!!\n\nOops everyday is Doge day 🤭 https://t.co/MEE43MSZ8U]
+X_token = [goodnight, doge, fam, tomorrow, dogecoin, day, oops, everyday, doge, day, https]
+	X tweet_count = [74]
+	X username = [Money Doggie]
+Y = [Goodnight $Doge Fam.\nTomorrow will be the #dogecoin Day!!!\n\nOops everyday is Doge day 🤭 https://t.co/WFlOjTc6NK]
+Y_token = [goodnight, doge, fam, tomorrow, dogecoin, day, oops, everyday, doge, day, https]
+	Y tweet_count = [75]
+	Y username = [Money Doggie]
+Total Length: X = 111, Y = 111 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#Dogecoin Slowly but Surely 😉]
+X_token = [dogecoin, slowly, surely]
+	X tweet_count = [99]
+	X username = [Money Doggie]
+Y = [Slowly but Surely!!!\n#Dogecoin]
+Y_token = [slowly, surely, dogecoin]
+	Y tweet_count = [103]
+	Y username = [Money Doggie]
+Total Length: X = 29, Y = 30 (Y / X = 103.45  X / Y = 96.67)
+Dice Coefficient: 100.00% 
+

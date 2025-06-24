@@ -1,0 +1,44 @@
+﻿X = [Join Robinhood with my link and we'll both get a free stock https://t.co/l1e9nBzLG8 \n@dogecoin #dogecoin #ToTheMoon @elonmusk]
+X_token = [join, robinhood, link, get, free, stock, https, dogecoin, dogecoin, tothemoon, elonmusk]
+	X tweet_count = [2]
+	X username = [AlienAmerican]
+Y = [Join Robinhood with my link and we'll both get a free stock https://t.co/l1e9nBzLG8 \nGet your #Dogecoin here.]
+Y_token = [join, robinhood, link, get, free, stock, https, get, dogecoin]
+	Y tweet_count = [20]
+	Y username = [AlienAmerican]
+Total Length: X = 125, Y = 109 (Y / X = 87.20  X / Y = 114.68)
+Dice Coefficient: 88.89% 
+
+X = [#dogecoin\n\nJoin Robinhood with my link and we'll both get free stock 🤝 https://t.co/l1e9nBzLG8]
+X_token = [dogecoin, join, robinhood, link, get, free, stock, https]
+	X tweet_count = [3]
+	X username = [AlienAmerican]
+Y = [Join Robinhood with my link and we'll both get a free stock https://t.co/l1e9nBzLG8 \nGet your #Dogecoin here.]
+Y_token = [join, robinhood, link, get, free, stock, https, get, dogecoin]
+	Y tweet_count = [20]
+	Y username = [AlienAmerican]
+Total Length: X = 94, Y = 109 (Y / X = 115.96  X / Y = 86.24)
+Dice Coefficient: 100.00% 
+
+X = [@Jeep Any plans to accept #dogecoin ?]
+X_token = [jeep, plans, accept, dogecoin]
+	X tweet_count = [9]
+	X username = [AlienAmerican]
+Y = [@Xfinity Any plans to accept #dogecoin ?]
+Y_token = [xfinity, plans, accept, dogecoin]
+	Y tweet_count = [11]
+	Y username = [AlienAmerican]
+Total Length: X = 37, Y = 40 (Y / X = 108.11  X / Y = 92.50)
+Dice Coefficient: 75.00% 
+
+X = [@Emam_moathen Allah loves #dogecoin #ToTheMoon]
+X_token = [allah, loves, dogecoin, tothemoon]
+	X tweet_count = [16]
+	X username = [AlienAmerican]
+Y = [@Emam_moathen Allah loves #dogecoin #ToTheMoon]
+Y_token = [allah, loves, dogecoin, tothemoon]
+	Y tweet_count = [18]
+	Y username = [AlienAmerican]
+Total Length: X = 46, Y = 46 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

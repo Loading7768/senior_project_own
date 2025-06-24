@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Climb $DOGE(y) https://t.co/SMfN2JYDWi",
+        "X_token": "climb, doge, https",
+        "X_tweet_count": 1,
+        "X_username": "Legendary Loner",
+        "Y_text": "$DOGE 🤔 https://t.co/CScSfAbef4",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 3,
+        "Y_username": "Legendary Loner",
+        "X_length": 38,
+        "Y_length": 31,
+        "Y_length_percent_of_X": 81.58,
+        "X_length_percent_of_Y": 122.58,
+        "dice_coefficient": 80.0
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#dogecoin #dogearmy Tweet about doge make it go viral HODL",
+        "X_token": "dogecoin, dogearmy, tweet, doge, make, go, viral, hodl",
+        "X_tweet_count": 49,
+        "X_username": "Tony",
+        "Y_text": "Every one Tweet about #DogeCoin make it go viral #DogeArmy",
+        "Y_token": "every, one, tweet, dogecoin, make, go, viral, dogearmy",
+        "Y_tweet_count": 56,
+        "Y_username": "Tony",
+        "X_length": 58,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Keep #Dogecoin Trending #DogeCoinArmy",
+        "X_token": "keep, dogecoin, trending, dogecoinarmy",
+        "X_tweet_count": 119,
+        "X_username": "Tony",
+        "Y_text": "Keep #dogecoin trending #dogetothemoon 🚀💰💵",
+        "Y_token": "keep, dogecoin, trending, dogetothemoon",
+        "Y_tweet_count": 131,
+        "Y_username": "Tony",
+        "X_length": 37,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 113.51,
+        "X_length_percent_of_Y": 88.1,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Guys check this out @PetrexTots @ChiefKay2 @clemeseh  $sol $sakita $french $doge",
+        "X_token": "guys, check, petrextots, chiefkay2, clemeseh, sol, sakita, french, doge",
+        "X_tweet_count": 146,
+        "X_username": "Tony",
+        "Y_text": "@PetrexTots @ChiefKay2 @MichaelSucre9 \n\nGuys check this out \n $sakita $doge $shib $sol $up #Airdrop",
+        "Y_token": "petrextots, chiefkay2, michaelsucre9, guys, check, sakita, doge, shib, sol, airdrop",
+        "Y_tweet_count": 159,
+        "Y_username": "Tony",
+        "X_length": 80,
+        "Y_length": 99,
+        "Y_length_percent_of_X": 123.75,
+        "X_length_percent_of_Y": 80.81,
+        "dice_coefficient": 73.68
+    },
+    {
+        "X_text": "Payment for starlink internet with #Dogecoin ? @elonmusk @spacex",
+        "X_token": "payment, starlink, internet, dogecoin, elonmusk, spacex",
+        "X_tweet_count": 164,
+        "X_username": "Tony",
+        "Y_text": "Payment for starlink internet with #Dogecoin ? @elonmusk @spacex",
+        "Y_token": "payment, starlink, internet, dogecoin, elonmusk, spacex",
+        "Y_tweet_count": 165,
+        "Y_username": "Tony",
+        "X_length": 64,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

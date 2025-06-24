@@ -1,0 +1,22 @@
+﻿X = [@cryptonatorcom I'm waiting for my dogecoin]
+X_token = [cryptonatorcom, waiting, dogecoin]
+	X tweet_count = [22]
+	X username = [Arun]
+Y = [@cryptonatorcom 18 days I'm waiting my dogecoin]
+Y_token = [cryptonatorcom, 18, days, waiting, dogecoin]
+	Y tweet_count = [24]
+	Y username = [Arun]
+Total Length: X = 43, Y = 47 (Y / X = 109.30  X / Y = 91.49)
+Dice Coefficient: 75.00% 
+
+X = [@cryptonatorcom pending dogecoin 🔴🔴🔴🔴]
+X_token = [cryptonatorcom, pending, dogecoin]
+	X tweet_count = [26]
+	X username = [Arun]
+Y = [@cryptonatorcom Still pending dogecoin]
+Y_token = [cryptonatorcom, still, pending, dogecoin]
+	Y tweet_count = [28]
+	Y username = [Arun]
+Total Length: X = 37, Y = 38 (Y / X = 102.70  X / Y = 97.37)
+Dice Coefficient: 85.71% 
+

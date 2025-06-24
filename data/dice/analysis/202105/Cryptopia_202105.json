@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@TheCryptoLark $DOGE and next $SHIB 👀👀🚀🚀",
+        "X_token": "thecryptolark, doge, next, shib",
+        "X_tweet_count": 16,
+        "X_username": "Cryptopia",
+        "Y_text": "@CanteringClark $SHIB $SHIB $SHIB NEXT $DOGE",
+        "Y_token": "canteringclark, shib, shib, shib, next, doge",
+        "Y_tweet_count": 25,
+        "Y_username": "Cryptopia",
+        "X_length": 40,
+        "Y_length": 44,
+        "Y_length_percent_of_X": 110.0,
+        "X_length_percent_of_Y": 90.91,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "$SHIB GOOOO THE NEW $DOGE",
+        "X_token": "shib, goooo, new, doge",
+        "X_tweet_count": 43,
+        "X_username": "Cryptopia",
+        "Y_text": "And $SHIB the new $DOGE",
+        "Y_token": "shib, new, doge",
+        "Y_tweet_count": 46,
+        "Y_username": "Cryptopia",
+        "X_length": 25,
+        "Y_length": 23,
+        "Y_length_percent_of_X": 92.0,
+        "X_length_percent_of_Y": 108.7,
+        "dice_coefficient": 85.71
+    }
+]

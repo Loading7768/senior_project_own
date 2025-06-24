@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "I’m excited for #dogecoin ‘s future 🤩",
+        "X_token": "excited, dogecoin, future",
+        "X_tweet_count": 12,
+        "X_username": "CEOofDOGE",
+        "Y_text": "I’m excited for #dogecoin ‘s future",
+        "Y_token": "excited, dogecoin, future",
+        "Y_tweet_count": 73,
+        "Y_username": "CEOofDOGE",
+        "X_length": 37,
+        "Y_length": 35,
+        "Y_length_percent_of_X": 94.59,
+        "X_length_percent_of_Y": 105.71,
+        "dice_coefficient": 100.0
+    }
+]
