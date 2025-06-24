@@ -1,0 +1,194 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@MykeFritz @elonmusk @heydave7 @dogecoin_devs Same, I think there are already many substantial projects, why Doge? But I guess resistance is pointless and so I try to understand and learn where this is going.",
+            "created_at": "Tue May 25 19:37:53 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@MykeFritz @elonmusk @heydave7 @dogecoin_devs That's layer 2, though. Lightning just has some issues like I cannot send anyone money without that person creating an invoice first. I have nothing against a layered approach, needs some further development for sure 👍",
+            "created_at": "Tue May 25 19:24:25 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@atro0o @elonmusk @heydave7 @dogecoin_devs Until recently I thought the same. But now the involvement got too big. I think he really wants to pull this off somehow.",
+            "created_at": "Tue May 25 19:06:33 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@LooStann @elonmusk @heydave7 @dogecoin_devs I can see it, sure. @Gfilche came up with  the idea of using solar roof and powerwall for crypto mining quite a while ago.",
+            "created_at": "Tue May 25 19:00:18 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@FivelTheGeek @elonmusk @heydave7 @dogecoin_devs Yes, but blockchain based and decentralized. The big question is to what extent, what are the tradeoffs?",
+            "created_at": "Tue May 25 18:52:45 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@LooStann @elonmusk @heydave7 @dogecoin_devs Sure, using excess power from solar roof could be used for mining. But be aware that PoW mining is different from running a node verifying blocks that I was refering to above. In regards to mining there are different requirements and mining on a laptop is usually not practically.",
+            "created_at": "Tue May 25 18:49:00 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin Like building ETH 2.0 but allow every shard be a totally different blockchain with different architecture etc. tailored to their use case.",
+            "created_at": "Tue May 25 11:14:47 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin Understood. Maybe I was thinking in the wrong direction. I just think we should be able to leverage a \"high trust\" chain to increase trust in a \"lower trust\" chain. Similar to what ETH does with the beacon chain but cross chains.",
+            "created_at": "Tue May 25 11:08:42 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin What I would like to see is a somwhat layered approach where chains can use other chains to further build up trust. Anchoring a chain e.g. on bitcoin could make sense. WDYT?",
+            "created_at": "Tue May 25 10:32:25 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin My intuition also tells me that it might not have to be perfect and still work for a payment network. Not sure about other use cases though. Looks like we will live in a multi chain world.",
+            "created_at": "Tue May 25 10:25:02 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin Yeah maybe that's indeed the way. I like the out of the box thinking. This could probably also be done online by providing verified snapshots to download by someone you trust. However, not sure if that scales.",
+            "created_at": "Tue May 25 10:19:13 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 12,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin ...mathematically proven algorithms? Imho we try to build a trustless system that does not require governance by providing the right incentives.",
+            "created_at": "Tue May 25 10:14:52 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin True, the Internet requires governanance but this is OKish to a certain extent as long as it's just about the physical layer and I still have multiple ways to get access to the network. However, does that still apply to a network of money which relies on trust established by...",
+            "created_at": "Tue May 25 10:11:59 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 14,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin Right, so one solution is, as you say, run more powerful nodes, but I cannot see how we can overcome the governance issues with such a system where I can no longer run or better said, sync my node when I have to download terabytes of data and need 1gbs upload.",
+            "created_at": "Tue May 25 09:31:56 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs @VitalikButerin Do you mean more centralized nodes but backed by the community? Wouldn't that require another level of governance which is not self sustaining? If I understand you right, this would also go into the direction of other Ethereum alternative projects which try to go a similar path.",
+            "created_at": "Tue May 25 09:26:40 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 16,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs I agee, what do you say in regards to @VitalikButerin's point that we cannot have a truly decentralized blockchain when we go past 1 - 5 mb blocks every 12 seconds?",
+            "created_at": "Tue May 25 09:08:54 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 17,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@RichDevX @elonmusk @heydave7 @dogecoin_devs Wondering about the decentralization part as there are not many known technical solutions that would still keep it truly decentralized, at least not with thousands of tps.",
+            "created_at": "Tue May 25 06:54:36 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 18,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@elonmusk @heydave7 @dogecoin_devs @elonmusk Do you see Doge going more in the direction of scaling raw transaction throughput and running in datacenters or using a sharding solution to allow running on consumer laptops and still be \"fully decentralized\"?",
+            "created_at": "Tue May 25 06:27:45 +0000 2021",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "Kaspar Fenner",
+            "user_account": "kasparfenner",
+            "text": "@elonmusk @heydave7 @dogecoin_devs I guess Elon wants DOGE to become a simple payment network with cheap transactions, nothing else. He believes in a layer 1 solution. He wants to optimize for scalability. This can be done but only with tradeoffs in decentralization and security.",
+            "created_at": "Tue May 25 06:08:49 +0000 2021",
+            "retweet": 0,
+            "likes": 22,
+            "retweeted_tweet": null
+        }
+    ]
+}
