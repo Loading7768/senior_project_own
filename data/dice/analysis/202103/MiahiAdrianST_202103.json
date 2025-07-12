@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "PharmSpot: AstraZeneca Covid 19 https://t.co/NU7nLF5yWG via @pinterest",
+        "X_token": "pharmspot, astrazeneca, covid, 19, https, via, pinterest",
+        "X_tweet_count": 2,
+        "X_username": "MiahiAdrianST",
+        "Y_text": "PharmSpot: AstraZeneca  Covid 19 https://t.co/ifHlFpZLhw",
+        "Y_token": "pharmspot, astrazeneca, covid, 19, https",
+        "Y_tweet_count": 3,
+        "Y_username": "MiahiAdrianST",
+        "X_length": 70,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "VidSmart: Fastest way to become a software developer https://t.co/LvIGbWgXYS",
+        "X_token": "vidsmart, fastest, way, become, software, developer, https",
+        "X_tweet_count": 5,
+        "X_username": "MiahiAdrianST",
+        "Y_text": "VidSmart: VidSmart: Fastest way to become a software developer https://t.co/6i7Xusl9wc",
+        "Y_token": "vidsmart, vidsmart, fastest, way, become, software, developer, https",
+        "Y_tweet_count": 6,
+        "Y_username": "MiahiAdrianST",
+        "X_length": 76,
+        "Y_length": 86,
+        "Y_length_percent_of_X": 113.16,
+        "X_length_percent_of_Y": 88.37,
+        "dice_coefficient": 100.0
+    }
+]

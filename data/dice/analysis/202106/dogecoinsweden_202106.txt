@@ -1,0 +1,22 @@
+﻿X = [Lets go pump it baby #doge #dogecoin #crypto #DogeCoinTo1Dollar #dogearmy #bitcoin]
+X_token = [lets, go, pump, baby, doge, dogecoin, crypto, dogecointo1dollar, dogearmy, bitcoin]
+	X tweet_count = [15]
+	X username = [dogecoinsweden]
+Y = [Lets go pump and never dump #doge #dogecoin #bitcoin #ethereum #crypto]
+Y_token = [lets, go, pump, never, dump, doge, dogecoin, bitcoin, ethereum, crypto]
+	Y tweet_count = [24]
+	Y username = [dogecoinsweden]
+Total Length: X = 82, Y = 70 (Y / X = 85.37  X / Y = 117.14)
+Dice Coefficient: 70.00% 
+
+X = [#dogecoin #dogecoin #doge #dogearmy #crypto #bitcoin go pump]
+X_token = [dogecoin, dogecoin, doge, dogearmy, crypto, bitcoin, go, pump]
+	X tweet_count = [18]
+	X username = [dogecoinsweden]
+Y = [Lets go pump and never dump #doge #dogecoin #bitcoin #ethereum #crypto]
+Y_token = [lets, go, pump, never, dump, doge, dogecoin, bitcoin, ethereum, crypto]
+	Y tweet_count = [24]
+	Y username = [dogecoinsweden]
+Total Length: X = 60, Y = 70 (Y / X = 116.67  X / Y = 85.71)
+Dice Coefficient: 70.59% 
+

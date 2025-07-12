@@ -1,0 +1,44 @@
+﻿X = [Buy buy buy buy #Dogecoin]
+X_token = [buy, buy, buy, buy, dogecoin]
+	X tweet_count = [1]
+	X username = [CryptoVeritas]
+Y = [Buy buy but #Dogecoin future]
+Y_token = [buy, buy, dogecoin, future]
+	Y tweet_count = [2]
+	Y username = [CryptoVeritas]
+Total Length: X = 25, Y = 28 (Y / X = 112.00  X / Y = 89.29)
+Dice Coefficient: 80.00% 
+
+X = [Sell sell sell Dogecoin]
+X_token = [sell, sell, sell, dogecoin]
+	X tweet_count = [3]
+	X username = [CryptoVeritas]
+Y = [Sell sell sell #Dogecoin]
+Y_token = [sell, sell, sell, dogecoin]
+	Y tweet_count = [4]
+	Y username = [CryptoVeritas]
+Total Length: X = 23, Y = 24 (Y / X = 104.35  X / Y = 95.83)
+Dice Coefficient: 100.00% 
+
+X = [Sell sell sell #Dogecoin]
+X_token = [sell, sell, sell, dogecoin]
+	X tweet_count = [4]
+	X username = [CryptoVeritas]
+Y = [Sell sell sell sell #DOGECOIN]
+Y_token = [sell, sell, sell, sell, dogecoin]
+	Y tweet_count = [9]
+	Y username = [CryptoVeritas]
+Total Length: X = 24, Y = 29 (Y / X = 120.83  X / Y = 82.76)
+Dice Coefficient: 100.00% 
+
+X = [@DogecoinRide Sell sell sell market #Dogecoin]
+X_token = [dogecoinride, sell, sell, sell, market, dogecoin]
+	X tweet_count = [10]
+	X username = [CryptoVeritas]
+Y = [@DogecoinRide Sell sell sell #Dogecoin]
+Y_token = [dogecoinride, sell, sell, sell, dogecoin]
+	Y tweet_count = [11]
+	Y username = [CryptoVeritas]
+Total Length: X = 45, Y = 38 (Y / X = 84.44  X / Y = 118.42)
+Dice Coefficient: 85.71% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@DJMcAuley #doge coin song in 7 days",
+        "X_token": "djmcauley, doge, coin, song, 7, days",
+        "X_tweet_count": 11,
+        "X_username": "x Saint James ⚡️",
+        "Y_text": "7 days we have a #doge coin song 🎶",
+        "Y_token": "7, days, doge, coin, song",
+        "Y_tweet_count": 13,
+        "Y_username": "x Saint James ⚡️",
+        "X_length": 36,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 94.44,
+        "X_length_percent_of_Y": 105.88,
+        "dice_coefficient": 90.91
+    },
+    {
+        "X_text": "@dogecoin we have a doge coin song coming out in 7 days",
+        "X_token": "dogecoin, doge, coin, song, coming, 7, days",
+        "X_tweet_count": 15,
+        "X_username": "x Saint James ⚡️",
+        "Y_text": "Ok 7 days we will have #doge coin song 🎵 https://t.co/AczioJK8Lf",
+        "Y_token": "ok, 7, days, doge, coin, song, https",
+        "Y_tweet_count": 16,
+        "Y_username": "x Saint James ⚡️",
+        "X_length": 55,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 116.36,
+        "X_length_percent_of_Y": 85.94,
+        "dice_coefficient": 71.43
+    }
+]

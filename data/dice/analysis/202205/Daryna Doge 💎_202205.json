@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#Dogecoin is the People's Coin. ❤",
+        "X_token": "dogecoin, people, coin",
+        "X_tweet_count": 1,
+        "X_username": "Daryna Doge 💎",
+        "Y_text": "#dogecoin is the people coin",
+        "Y_token": "dogecoin, people, coin",
+        "Y_tweet_count": 3,
+        "Y_username": "Daryna Doge 💎",
+        "X_length": 33,
+        "Y_length": 28,
+        "Y_length_percent_of_X": 84.85,
+        "X_length_percent_of_Y": 117.86,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "#BTC #ETH #NFT $DOGE #dogecoin 🚀\n\n👇👇👇 Check all my links 👇👇👇\n\nhttps://t.co/7TwFMrM3WP",
+        "X_token": "btc, eth, nft, doge, dogecoin, check, links, https",
+        "X_tweet_count": 11,
+        "X_username": "Daryna Doge 💎",
+        "Y_text": "Check my NFT collection from Opensea \n\n#Dogecoin ❤ #BTC #ETH #NFTCommunity \n\nhttps://t.co/hWCHaJVKzx",
+        "Y_token": "check, nft, collection, opensea, dogecoin, btc, eth, nftcommunity, https",
+        "Y_tweet_count": 12,
+        "Y_username": "Daryna Doge 💎",
+        "X_length": 85,
+        "Y_length": 100,
+        "Y_length_percent_of_X": 117.65,
+        "X_length_percent_of_Y": 85.0,
+        "dice_coefficient": 70.59
+    }
+]

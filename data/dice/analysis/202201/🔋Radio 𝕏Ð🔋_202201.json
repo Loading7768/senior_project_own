@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@nl_dogecoin @BillyM2k @sodogetip @sodogetip tip @Dogecoin_GER 0.69 doge",
+        "X_token": "billym2k, sodogetip, sodogetip, tip, doge",
+        "X_tweet_count": 12,
+        "X_username": "🔋Radio 𝕏Ð🔋",
+        "Y_text": "@nl_dogecoin @BillyM2k @sodogetip @sodogetip tip @Max70092843 0.69 doge",
+        "Y_token": "billym2k, sodogetip, sodogetip, tip, max70092843, doge",
+        "Y_tweet_count": 13,
+        "Y_username": "🔋Radio 𝕏Ð🔋",
+        "X_length": 72,
+        "Y_length": 71,
+        "Y_length_percent_of_X": 98.61,
+        "X_length_percent_of_Y": 101.41,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@nl_dogecoin @BillyM2k @sodogetip @sodogetip tip @Dogecoin_GER 0.69 doge",
+        "X_token": "billym2k, sodogetip, sodogetip, tip, doge",
+        "X_tweet_count": 12,
+        "X_username": "🔋Radio 𝕏Ð🔋",
+        "Y_text": "@nl_dogecoin @BillyM2k @sodogetip @sodogetip tip @pythadoge 0.69 doge",
+        "Y_token": "billym2k, sodogetip, sodogetip, tip, pythadoge, doge",
+        "Y_tweet_count": 14,
+        "Y_username": "🔋Radio 𝕏Ð🔋",
+        "X_length": 72,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 95.83,
+        "X_length_percent_of_Y": 104.35,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@nl_dogecoin @BillyM2k @sodogetip @sodogetip tip @Max70092843 0.69 doge",
+        "X_token": "billym2k, sodogetip, sodogetip, tip, max70092843, doge",
+        "X_tweet_count": 13,
+        "X_username": "🔋Radio 𝕏Ð🔋",
+        "Y_text": "@nl_dogecoin @BillyM2k @sodogetip @sodogetip tip @pythadoge 0.69 doge",
+        "Y_token": "billym2k, sodogetip, sodogetip, tip, pythadoge, doge",
+        "Y_tweet_count": 14,
+        "Y_username": "🔋Radio 𝕏Ð🔋",
+        "X_length": 71,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 97.18,
+        "X_length_percent_of_Y": 102.9,
+        "dice_coefficient": 80.0
+    }
+]

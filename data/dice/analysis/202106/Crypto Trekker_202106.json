@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@martypartymusic $DOGE #DOGE https://t.co/QTppAdRkj2",
+        "X_token": "martypartymusic, doge, doge, https",
+        "X_tweet_count": 4,
+        "X_username": "Crypto Trekker",
+        "Y_text": "@360_trader $DOGE #DOGE 🚀 🚀 🚀 https://t.co/ZQ40PL6s8n",
+        "Y_token": "doge, doge, https",
+        "Y_tweet_count": 8,
+        "Y_username": "Crypto Trekker",
+        "X_length": 52,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 101.92,
+        "X_length_percent_of_Y": 98.11,
+        "dice_coefficient": 80.0
+    }
+]

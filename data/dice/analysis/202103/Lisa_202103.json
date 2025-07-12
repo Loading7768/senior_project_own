@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@CNBC all about #dogecoin",
+        "X_token": "cnbc, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Lisa",
+        "Y_text": "@CNBC #dogecoin next",
+        "Y_token": "cnbc, dogecoin, next",
+        "Y_tweet_count": 58,
+        "Y_username": "Lisa",
+        "X_length": 25,
+        "Y_length": 20,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@coinbase When #dogecoin",
+        "X_token": "coinbase, dogecoin",
+        "X_tweet_count": 8,
+        "X_username": "Lisa",
+        "Y_text": "@coinbase when #dogecoin ?",
+        "Y_token": "coinbase, dogecoin",
+        "Y_tweet_count": 15,
+        "Y_username": "Lisa",
+        "X_length": 24,
+        "Y_length": 26,
+        "Y_length_percent_of_X": 108.33,
+        "X_length_percent_of_Y": 92.31,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@whoisaddison with #dogecoin? yes.",
+        "X_token": "whoisaddison, dogecoin, yes",
+        "X_tweet_count": 11,
+        "X_username": "Lisa",
+        "Y_text": "@whoisaddison #dogecoin will be there",
+        "Y_token": "whoisaddison, dogecoin",
+        "Y_tweet_count": 118,
+        "Y_username": "Lisa",
+        "X_length": 34,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 108.82,
+        "X_length_percent_of_Y": 91.89,
+        "dice_coefficient": 80.0
+    }
+]

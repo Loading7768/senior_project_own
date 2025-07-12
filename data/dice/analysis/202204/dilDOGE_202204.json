@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@rensole Pleasure is pain intensified ;)",
+        "X_token": "rensole, pleasure, pain, intensified",
+        "X_tweet_count": 6,
+        "X_username": "dilDOGE",
+        "Y_text": "@ParikPatelCFA Pain is intensified pleasure.",
+        "Y_token": "parikpatelcfa, pain, intensified, pleasure",
+        "Y_tweet_count": 37,
+        "Y_username": "dilDOGE",
+        "X_length": 40,
+        "Y_length": 44,
+        "Y_length_percent_of_X": 110.0,
+        "X_length_percent_of_Y": 90.91,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@likyy11 @CryptoWhale spam and/or bot",
+        "X_token": "likyy11, cryptowhale, spam, bot",
+        "X_tweet_count": 83,
+        "X_username": "dilDOGE",
+        "Y_text": "@Adam76603383 @CryptoWhale spam and or bot",
+        "Y_token": "adam76603383, cryptowhale, spam, bot",
+        "Y_tweet_count": 84,
+        "Y_username": "dilDOGE",
+        "X_length": 37,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 113.51,
+        "X_length_percent_of_Y": 88.1,
+        "dice_coefficient": 75.0
+    }
+]

@@ -447,6 +447,36 @@
             "created_at": "Wed Aug 18 14:46:38 +0000 2021",
             "retweet": 0,
             "likes": 1
+        },
+        {
+            "tweet_count": 57,
+            "username": "Mst1985_holding",
+            "user_account": "mst1985holding",
+            "text": "The update prepares the network for the reduction of fees. It is the first step in the two-stage upgrade required to lower Dogecoin fees.#dogecoin #doge",
+            "created_at": "Mon Aug 30 18:56:36 +0000 2021",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 58,
+            "username": "Mst1985_holding",
+            "user_account": "mst1985holding",
+            "text": "Now, Dogecoin developers urge all users to implement this upgrade, thereby improving the performance of the entire network. The upgrade can be easily installed over the existing 1.14 installation without the need to uninstall, re-index or re-download it. #dogecoin",
+            "created_at": "Mon Aug 30 18:56:36 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 59,
+            "username": "Mst1985_holding",
+            "user_account": "mst1985holding",
+            "text": "New DOGE upgrade lays the groundwork for transaction fee reduction\n\nThe blog post on GitHub says that various bugs have been fixed in the new version and the performance of the network has been improved in various aspects.#dogecoin @CryptoKaleo @DogecoinRise",
+            "created_at": "Mon Aug 30 18:56:35 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
         }
     ]
 }

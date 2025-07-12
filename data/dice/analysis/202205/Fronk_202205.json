@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "This is one of many reasons why #dogecoin is good:\n\nOne of these things is not like the other. #doge #dogearmy https://t.co/LRDZlig0x3",
+        "X_token": "one, many, reasons, dogecoin, good, one, things, like, doge, dogearmy, https",
+        "X_tweet_count": 12,
+        "X_username": "Fronk",
+        "Y_text": "@dougboneparth @JacobInvests This is one of many reasons why #dogecoin is good:\n\nOne of these things is not like the other. https://t.co/NNNfPyvGx9",
+        "Y_token": "dougboneparth, jacobinvests, one, many, reasons, dogecoin, good, one, things, like, https",
+        "Y_tweet_count": 13,
+        "Y_username": "Fronk",
+        "X_length": 134,
+        "Y_length": 147,
+        "Y_length_percent_of_X": 109.7,
+        "X_length_percent_of_Y": 91.16,
+        "dice_coefficient": 80.0
+    }
+]

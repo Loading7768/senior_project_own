@@ -6,8 +6,8 @@ from collections import defaultdict
 # === 自訂參數 ===
 json_coin = "dogecoin"
 coin_type = "DOGE"
-year = "2021"
-month = "08"
+year = "2022"
+month = "05"
 
 # === 資料夾設定 ===
 folder_path = f"../data/tweets/{coin_type}/{year}/{month}"
@@ -141,11 +141,11 @@ spammers = list(set(spammers))
 # for spammer in spammers: 
 #     print(spammer)
 
-output_path = f"../data/spammer/"
+output_path = f"../data/spammer/{year}"
 os.makedirs(output_path, exist_ok=True)
-output_txt_path = f"../data/spammer/spammer_{year}{month}.txt"
+output_txt_path = f"../data/spammer/{year}/spammer_{year}{month}.txt"
 with open(output_txt_path, "w", encoding="utf-8-sig") as txtfile:
-    for spammer in spammers: 
+    for spammer in sorted(spammers): 
         txtfile.write(spammer)
         txtfile.write("\n")
 

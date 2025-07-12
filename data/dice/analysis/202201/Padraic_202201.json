@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@MrStevenSteele_ I agree...\n#DoOnlyGoodEveryday \n#dogecoin \n#McDonalds",
+        "X_token": "agree, doonlygoodeveryday, dogecoin, mcdonalds",
+        "X_tweet_count": 9,
+        "X_username": "Padraic",
+        "Y_text": "@cyn_dogelover @Cupidoge It is...\n#DoOnlyGoodEveryday \n#dogecoin #McDonalds",
+        "Y_token": "cupidoge, doonlygoodeveryday, dogecoin, mcdonalds",
+        "Y_tweet_count": 12,
+        "Y_username": "Padraic",
+        "X_length": 70,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 107.14,
+        "X_length_percent_of_Y": 93.33,
+        "dice_coefficient": 75.0
+    }
+]

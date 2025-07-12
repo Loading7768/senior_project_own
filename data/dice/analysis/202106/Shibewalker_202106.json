@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "$GME $DOGE $AMC LFG! https://t.co/95C9f7smeJ",
+        "X_token": "gme, doge, amc, lfg, https",
+        "X_tweet_count": 4,
+        "X_username": "Shibewalker",
+        "Y_text": "$GME $AMC $DOGE https://t.co/Hy98QgoPoH",
+        "Y_token": "gme, amc, doge, https",
+        "Y_tweet_count": 10,
+        "Y_username": "Shibewalker",
+        "X_length": 44,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 88.64,
+        "X_length_percent_of_Y": 112.82,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "They hate to see it. #dogecoin https://t.co/ubKKqoaKio",
+        "X_token": "hate, see, dogecoin, https",
+        "X_tweet_count": 108,
+        "X_username": "Shibewalker",
+        "Y_text": "They hate to see it lol #doge #dogecoin https://t.co/IkKTsuUqzU",
+        "Y_token": "hate, see, lol, doge, dogecoin, https",
+        "Y_tweet_count": 134,
+        "Y_username": "Shibewalker",
+        "X_length": 54,
+        "Y_length": 63,
+        "Y_length_percent_of_X": 116.67,
+        "X_length_percent_of_Y": 85.71,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Good morning everyone, except #dogecoin bears and shorts, ya can go back to bed.",
+        "X_token": "good, morning, everyone, except, dogecoin, bears, shorts, ya, go, back, bed",
+        "X_tweet_count": 141,
+        "X_username": "Shibewalker",
+        "Y_text": "Good morning to everyone, except #dogecoin bears. Ya can stay asleep.",
+        "Y_token": "good, morning, everyone, except, dogecoin, bears, ya, stay, asleep",
+        "Y_tweet_count": 170,
+        "Y_username": "Shibewalker",
+        "X_length": 80,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 86.25,
+        "X_length_percent_of_Y": 115.94,
+        "dice_coefficient": 70.0
+    }
+]

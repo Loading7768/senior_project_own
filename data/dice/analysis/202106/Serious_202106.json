@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@elonmusk buy some more #dogecoin",
+        "X_token": "elonmusk, buy, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Serious",
+        "Y_text": "@elonmusk I'LL BUY A TESLA WITH #DOGECOIN",
+        "Y_token": "elonmusk, buy, tesla, dogecoin",
+        "Y_tweet_count": 6,
+        "Y_username": "Serious",
+        "X_length": 33,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 124.24,
+        "X_length_percent_of_Y": 80.49,
+        "dice_coefficient": 85.71
+    }
+]

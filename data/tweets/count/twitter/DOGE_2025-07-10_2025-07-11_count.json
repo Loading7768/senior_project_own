@@ -1,0 +1,18 @@
+﻿{
+    "data": [
+        {
+            "end": "2025-07-11T00:00:00.000Z",
+            "start": "2025-07-10T00:00:00.000Z",
+            "tweet_count": 10791
+        },
+        {
+            "end": "2025-07-11T23:59:59.000Z",
+            "start": "2025-07-11T00:00:00.000Z",
+            "tweet_count": 13383
+        }
+    ],
+    "meta": {
+        "total_tweet_count": 24174,
+        "QUERY_STRING": "(dogecoin OR \"doge coin\" OR \"doge meme coin\" OR dogecoin OR \"dollar doge\") lang:en"
+    }
+}

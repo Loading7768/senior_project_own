@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@Mayadmd0 @elonmusk @Twitter @dogecoin Thats nice bro..",
+        "X_token": "mayadmd0, elonmusk, twitter, dogecoin, thats, nice, bro",
+        "X_tweet_count": 1,
+        "X_username": "scarlett_schuck",
+        "Y_text": "@Mayadmd0 @elonmusk @Twitter @dogecoin Hows your day bro?",
+        "Y_token": "mayadmd0, elonmusk, twitter, dogecoin, hows, day, bro",
+        "Y_tweet_count": 5,
+        "Y_username": "scarlett_schuck",
+        "X_length": 55,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 103.64,
+        "X_length_percent_of_Y": 96.49,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "@Mayadmd0 @elonmusk @Twitter @dogecoin Thats nice bro..",
+        "X_token": "mayadmd0, elonmusk, twitter, dogecoin, thats, nice, bro",
+        "X_tweet_count": 1,
+        "X_username": "scarlett_schuck",
+        "Y_text": "@Mayadmd0 @elonmusk @Twitter @dogecoin Morning bro..",
+        "Y_token": "mayadmd0, elonmusk, twitter, dogecoin, morning, bro",
+        "Y_tweet_count": 7,
+        "Y_username": "scarlett_schuck",
+        "X_length": 55,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 94.55,
+        "X_length_percent_of_Y": 105.77,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "@Mayadmd0 @elonmusk @Twitter @dogecoin Yea your right bro thanks",
+        "X_token": "mayadmd0, elonmusk, twitter, dogecoin, yea, right, bro, thanks",
+        "X_tweet_count": 4,
+        "X_username": "scarlett_schuck",
+        "Y_text": "@Mayadmd0 @elonmusk @Twitter @dogecoin Morning bro..",
+        "Y_token": "mayadmd0, elonmusk, twitter, dogecoin, morning, bro",
+        "Y_tweet_count": 7,
+        "Y_username": "scarlett_schuck",
+        "X_length": 64,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 81.25,
+        "X_length_percent_of_Y": 123.08,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "@Mayadmd0 @elonmusk @Twitter @dogecoin Hows your day bro?",
+        "X_token": "mayadmd0, elonmusk, twitter, dogecoin, hows, day, bro",
+        "X_tweet_count": 5,
+        "X_username": "scarlett_schuck",
+        "Y_text": "@Mayadmd0 @elonmusk @Twitter @dogecoin Morning bro..",
+        "Y_token": "mayadmd0, elonmusk, twitter, dogecoin, morning, bro",
+        "Y_tweet_count": 7,
+        "Y_username": "scarlett_schuck",
+        "X_length": 57,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 91.23,
+        "X_length_percent_of_Y": 109.62,
+        "dice_coefficient": 76.92
+    }
+]

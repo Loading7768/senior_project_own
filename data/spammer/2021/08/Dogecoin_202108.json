@@ -543,6 +543,46 @@
             "created_at": "Thu Aug 19 21:00:22 +0000 2021",
             "retweet": 0,
             "likes": 0
+        },
+        {
+            "tweet_count": 69,
+            "username": "Dogecoin",
+            "user_account": "MoneyStonk",
+            "text": "@elonmusk Dogecoin !! https://t.co/oJW9g7mhKt",
+            "created_at": "Mon Aug 23 20:15:07 +0000 2021",
+            "retweet": 4,
+            "likes": 118,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 70,
+            "username": "Dogecoin",
+            "user_account": "Dogecoi21748300",
+            "text": "@elonmusk So cool! #dogecoin",
+            "created_at": "Sat Aug 28 23:41:34 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 71,
+            "username": "Dogecoin",
+            "user_account": "dogecoin",
+            "text": "If you want to help Dogecoin by running a full node, just leave 1.14.4 Core running, and forward access to port 22556 on your router and firewall. If it shows &gt;8 connections, you're good to and helping make doge much strong!",
+            "created_at": "Sat Aug 28 18:52:12 +0000 2021",
+            "retweet": 873,
+            "likes": 4932,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 72,
+            "username": "Dogecoin",
+            "user_account": "dogecoin",
+            "text": "Hey Shibes! Reminder to make sure you have updated your Dogecoin Core to the newest version 1.14.4! It will help us all enable the upcoming fee reduction and improve the synchronization speed (2.5x).\n\nhttps://t.co/pxW1TPcik4",
+            "created_at": "Sat Aug 28 18:51:53 +0000 2021",
+            "retweet": 532,
+            "likes": 2246,
+            "retweeted_tweet": null
         }
     ]
 }

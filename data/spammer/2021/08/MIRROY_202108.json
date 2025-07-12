@@ -239,6 +239,36 @@
             "created_at": "Wed Aug 18 08:27:02 +0000 2021",
             "retweet": 0,
             "likes": 0
+        },
+        {
+            "tweet_count": 31,
+            "username": "MIRROY",
+            "user_account": "MIRROY6",
+            "text": "@elonmusk Dogecoin",
+            "created_at": "Sat Aug 28 20:53:33 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 32,
+            "username": "MIRROY",
+            "user_account": "MIRROY6",
+            "text": "@defeat_will Finally #Dogecoin will hit $1 then $2.\nJust HODL",
+            "created_at": "Mon Aug 30 15:35:27 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 33,
+            "username": "MIRROY",
+            "user_account": "MIRROY6",
+            "text": "@elonmusk @TDogewhisperer Dogecoin 🚀🚀🚀",
+            "created_at": "Mon Aug 30 15:22:34 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
         }
     ]
 }

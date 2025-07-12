@@ -1,0 +1,7 @@
+filename,date,start_time,finish_time,isCompleteData,normal_tweet_count,spammer_tweet_count,robot_tweet_count,tweet_total
+DOGE_20240301.json,2024-03-01,23:59:45,00:00:49,True,2320,499,0,2819
+DOGE_20240302_Latest2231.json,2024-03-02,23:59:57,01:59:09,False,1965,266,0,2231
+DOGE_20240303.json,2024-03-03,23:59:48,00:00:04,True,1973,367,6,2346
+DOGE_20240304_Latest694.json,2024-03-04,23:59:10,19:45:57,False,615,79,0,694
+DOGE_20240305_Latest1185.json,2024-03-05,23:59:16,15:50:54,False,1011,174,0,1185
+DOGE_20240306_Latest17.json,2024-03-06,23:59:50,23:42:03,False,16,1,0,17

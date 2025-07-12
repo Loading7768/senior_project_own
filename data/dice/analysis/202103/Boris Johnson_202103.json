@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@pickuphoop Start your next investment platform.\n\nhttps://t.co/pct37urtxt",
+        "X_token": "pickuphoop, start, next, investment, platform, https",
+        "X_tweet_count": 2,
+        "X_username": "Boris Johnson",
+        "Y_text": "@sza Are you ready to start your next investment platform?\n\nhttps://t.co/pct37urtxt",
+        "Y_token": "sza, ready, start, next, investment, platform, https",
+        "Y_tweet_count": 3,
+        "Y_username": "Boris Johnson",
+        "X_length": 73,
+        "Y_length": 83,
+        "Y_length_percent_of_X": 113.7,
+        "X_length_percent_of_Y": 87.95,
+        "dice_coefficient": 76.92
+    }
+]

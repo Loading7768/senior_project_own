@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Me once @Tesla accepts #dogecoin https://t.co/egYKXneQ2K",
+        "X_token": "tesla, accepts, dogecoin, https",
+        "X_tweet_count": 76,
+        "X_username": "LilHumansBigImpact",
+        "Y_text": "An airlines now accepts #Dogecoin  https://t.co/a4W8Y9U6x1",
+        "Y_token": "airlines, accepts, dogecoin, https",
+        "Y_tweet_count": 120,
+        "Y_username": "LilHumansBigImpact",
+        "X_length": 56,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 103.57,
+        "X_length_percent_of_Y": 96.55,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Taste the $Doge 🌈 https://t.co/9QlQ7UOmm4",
+        "X_token": "taste, doge, https",
+        "X_tweet_count": 80,
+        "X_username": "LilHumansBigImpact",
+        "Y_text": "Just $Doge it https://t.co/uK34G1lvdW",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 93,
+        "Y_username": "LilHumansBigImpact",
+        "X_length": 41,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 90.24,
+        "X_length_percent_of_Y": 110.81,
+        "dice_coefficient": 80.0
+    }
+]

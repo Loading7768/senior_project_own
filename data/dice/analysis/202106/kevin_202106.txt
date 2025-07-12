@@ -1,0 +1,132 @@
+﻿X = [Good morning dogecoin family]
+X_token = [good, morning, dogecoin, family]
+	X tweet_count = [68]
+	X username = [kevin]
+Y = [Good morning dogecoin family]
+Y_token = [good, morning, dogecoin, family]
+	Y tweet_count = [78]
+	Y username = [kevin]
+Total Length: X = 28, Y = 28 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Good morning dogecoin family https://t.co/Rv0X1HT15C]
+X_token = [good, morning, dogecoin, family, https]
+	X tweet_count = [83]
+	X username = [kevin]
+Y = [Good morning dogecoin family https://t.co/9190fqBbMQ]
+Y_token = [good, morning, dogecoin, family, https]
+	Y tweet_count = [162]
+	Y username = [kevin]
+Total Length: X = 52, Y = 52 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Good morning dogecoin family https://t.co/Rv0X1HT15C]
+X_token = [good, morning, dogecoin, family, https]
+	X tweet_count = [83]
+	X username = [kevin]
+Y = [Ok dogecoin family good night https://t.co/yqWDk97N7e]
+Y_token = [ok, dogecoin, family, good, night, https]
+	Y tweet_count = [174]
+	Y username = [kevin]
+Total Length: X = 52, Y = 53 (Y / X = 101.92  X / Y = 98.11)
+Dice Coefficient: 72.73% 
+
+X = [Good morning dogecoin family https://t.co/Rv0X1HT15C]
+X_token = [good, morning, dogecoin, family, https]
+	X tweet_count = [83]
+	X username = [kevin]
+Y = [Good morning dogecoin family https://t.co/5J4JFZgUu3]
+Y_token = [good, morning, dogecoin, family, https]
+	Y tweet_count = [178]
+	Y username = [kevin]
+Total Length: X = 52, Y = 52 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Baught $100.00 worth of #Dogecoin just now]
+X_token = [baught, worth, dogecoin]
+	X tweet_count = [93]
+	X username = [kevin]
+Y = [Just baught$120.00 worth of dogecoin]
+Y_token = [baught, worth, dogecoin]
+	Y tweet_count = [106]
+	Y username = [kevin]
+Total Length: X = 42, Y = 36 (Y / X = 85.71  X / Y = 116.67)
+Dice Coefficient: 100.00% 
+
+X = [Good morning #dogecoin  family hope you all have a great day]
+X_token = [good, morning, dogecoin, family, hope, great, day]
+	X tweet_count = [100]
+	X username = [kevin]
+Y = [Good morning dogecoin family hope you have a great day.]
+Y_token = [good, morning, dogecoin, family, hope, great, day]
+	Y tweet_count = [171]
+	Y username = [kevin]
+Total Length: X = 60, Y = 55 (Y / X = 91.67  X / Y = 109.09)
+Dice Coefficient: 100.00% 
+
+X = [@Tam55867389 I agree I think it's really silly I actually think a lot of cryptocurrency is going to fail a lot of coins don't even have a use dogecoin is definitely going to be one of the keepers I believe dogecoin is going to be one of the top coins dogecoin is awesome ass is not awesome lol]
+X_token = [tam55867389, agree, think, really, silly, actually, think, lot, cryptocurrency, going, fail, lot, coins, even, use, dogecoin, definitely, going, one, keepers, believe, dogecoin, going, one, top, coins, dogecoin, awesome, ass, awesome, lol]
+	X tweet_count = [111]
+	X username = [kevin]
+Y = [@Tam55867389 I agree I think it's really silly I actually think a lot of cryptocurrency is going to fail a lot of coins don't even have a use dogecoin is definitely going to be one of the keepers I believe dogecoin is going to be one of the top coins dogecoin is awesome ass is not awesome lol]
+Y_token = [tam55867389, agree, think, really, silly, actually, think, lot, cryptocurrency, going, fail, lot, coins, even, use, dogecoin, definitely, going, one, keepers, believe, dogecoin, going, one, top, coins, dogecoin, awesome, ass, awesome, lol]
+	Y tweet_count = [112]
+	Y username = [kevin]
+Total Length: X = 293, Y = 293 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Hope dogecoin family is staying safe this weekend]
+X_token = [hope, dogecoin, family, staying, safe, weekend]
+	X tweet_count = [123]
+	X username = [kevin]
+Y = [I hope dogecoin family are having a good weekend]
+Y_token = [hope, dogecoin, family, good, weekend]
+	Y tweet_count = [175]
+	Y username = [kevin]
+Total Length: X = 49, Y = 48 (Y / X = 97.96  X / Y = 102.08)
+Dice Coefficient: 72.73% 
+
+X = [How is the Dogecoin family doing today]
+X_token = [dogecoin, family, today]
+	X tweet_count = [159]
+	X username = [kevin]
+Y = [@Sarah_Blake911 If they are dogecoin family]
+Y_token = [dogecoin, family]
+	Y tweet_count = [184]
+	Y username = [kevin]
+Total Length: X = 38, Y = 43 (Y / X = 113.16  X / Y = 88.37)
+Dice Coefficient: 80.00% 
+
+X = [Good morning dogecoin family https://t.co/9190fqBbMQ]
+X_token = [good, morning, dogecoin, family, https]
+	X tweet_count = [162]
+	X username = [kevin]
+Y = [Ok dogecoin family good night https://t.co/yqWDk97N7e]
+Y_token = [ok, dogecoin, family, good, night, https]
+	Y tweet_count = [174]
+	Y username = [kevin]
+Total Length: X = 52, Y = 53 (Y / X = 101.92  X / Y = 98.11)
+Dice Coefficient: 72.73% 
+
+X = [Good morning dogecoin family https://t.co/9190fqBbMQ]
+X_token = [good, morning, dogecoin, family, https]
+	X tweet_count = [162]
+	X username = [kevin]
+Y = [Good morning dogecoin family https://t.co/5J4JFZgUu3]
+Y_token = [good, morning, dogecoin, family, https]
+	Y tweet_count = [178]
+	Y username = [kevin]
+Total Length: X = 52, Y = 52 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Ok dogecoin family good night https://t.co/yqWDk97N7e]
+X_token = [ok, dogecoin, family, good, night, https]
+	X tweet_count = [174]
+	X username = [kevin]
+Y = [Good morning dogecoin family https://t.co/5J4JFZgUu3]
+Y_token = [good, morning, dogecoin, family, https]
+	Y tweet_count = [178]
+	Y username = [kevin]
+Total Length: X = 53, Y = 52 (Y / X = 98.11  X / Y = 101.92)
+Dice Coefficient: 72.73% 
+

@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Every link i post is all through #Amazon",
+        "X_token": "every, link, post, amazon",
+        "X_tweet_count": 2,
+        "X_username": "ToppzBuyz 420",
+        "Y_text": "every link i post is all through Amazon #Amazon",
+        "Y_token": "every, link, post, amazon, amazon",
+        "Y_tweet_count": 30,
+        "Y_username": "ToppzBuyz 420",
+        "X_length": 40,
+        "Y_length": 47,
+        "Y_length_percent_of_X": 117.5,
+        "X_length_percent_of_Y": 85.11,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "A more pricey one #BTC #dogecoin #XRP  https://t.co/rRzOQbJIY2",
+        "X_token": "pricey, one, btc, dogecoin, xrp, https",
+        "X_tweet_count": 13,
+        "X_username": "ToppzBuyz 420",
+        "Y_text": "we all need one of these #BTC #dogecoin #XRP   https://t.co/oydBiuE0LV",
+        "Y_token": "need, one, btc, dogecoin, xrp, https",
+        "Y_tweet_count": 14,
+        "Y_username": "ToppzBuyz 420",
+        "X_length": 62,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 112.9,
+        "X_length_percent_of_Y": 88.57,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@wizkhalifa https://t.co/I8lfGDBYqS give this a read beginners",
+        "X_token": "wizkhalifa, https, give, read, beginners",
+        "X_tweet_count": 28,
+        "X_username": "ToppzBuyz 420",
+        "Y_text": "@dogechairwoman https://t.co/C9HEmfrQds give this a read beginners",
+        "Y_token": "dogechairwoman, https, give, read, beginners",
+        "Y_tweet_count": 29,
+        "Y_username": "ToppzBuyz 420",
+        "X_length": 62,
+        "Y_length": 66,
+        "Y_length_percent_of_X": 106.45,
+        "X_length_percent_of_Y": 93.94,
+        "dice_coefficient": 80.0
+    }
+]

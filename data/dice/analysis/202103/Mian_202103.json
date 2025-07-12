@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@inu_baby @dogecoin_empire @itsALLrisky @DogecoinRise @BillyM2k @elonmusk @MattWallace888 @dogecoin_devs @michilumin You too ❤️",
+        "X_token": "itsallrisky, dogecoinrise, billym2k, elonmusk, mattwallace888, michilumin",
+        "X_tweet_count": 11,
+        "X_username": "Mian",
+        "Y_text": "@inu_baby @dogecoin_empire @itsALLrisky @DogecoinRise @BillyM2k @elonmusk @MattWallace888 @dogecoin_devs @michilumin Okay I will.",
+        "Y_token": "itsallrisky, dogecoinrise, billym2k, elonmusk, mattwallace888, michilumin, okay",
+        "Y_tweet_count": 14,
+        "Y_username": "Mian",
+        "X_length": 127,
+        "Y_length": 129,
+        "Y_length_percent_of_X": 101.57,
+        "X_length_percent_of_Y": 98.45,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "@inu_baby @dogecoin_empire @itsALLrisky @DogecoinRise @BillyM2k @elonmusk @MattWallace888 @dogecoin_devs @michilumin You too ❤️",
+        "X_token": "itsallrisky, dogecoinrise, billym2k, elonmusk, mattwallace888, michilumin",
+        "X_tweet_count": 11,
+        "X_username": "Mian",
+        "Y_text": "@inu_baby @dogecoin_empire @itsALLrisky @DogecoinRise @BillyM2k @elonmusk @MattWallace888 @dogecoin_devs @michilumin Okay thnx I'll check them all ..",
+        "Y_token": "itsallrisky, dogecoinrise, billym2k, elonmusk, mattwallace888, michilumin, okay, thnx, check",
+        "Y_tweet_count": 17,
+        "Y_username": "Mian",
+        "X_length": 127,
+        "Y_length": 149,
+        "Y_length_percent_of_X": 117.32,
+        "X_length_percent_of_Y": 85.23,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@inu_baby @dogecoin_empire @itsALLrisky @DogecoinRise @BillyM2k @elonmusk @MattWallace888 @dogecoin_devs @michilumin Okay I will.",
+        "X_token": "itsallrisky, dogecoinrise, billym2k, elonmusk, mattwallace888, michilumin, okay",
+        "X_tweet_count": 14,
+        "X_username": "Mian",
+        "Y_text": "@inu_baby @dogecoin_empire @itsALLrisky @DogecoinRise @BillyM2k @elonmusk @MattWallace888 @dogecoin_devs @michilumin Okay thnx I'll check them all ..",
+        "Y_token": "itsallrisky, dogecoinrise, billym2k, elonmusk, mattwallace888, michilumin, okay, thnx, check",
+        "Y_tweet_count": 17,
+        "Y_username": "Mian",
+        "X_length": 129,
+        "Y_length": 149,
+        "Y_length_percent_of_X": 115.5,
+        "X_length_percent_of_Y": 86.58,
+        "dice_coefficient": 87.5
+    }
+]

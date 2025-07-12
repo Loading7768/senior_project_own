@@ -359,6 +359,16 @@
             "created_at": "Thu Aug 19 21:21:15 +0000 2021",
             "retweet": 0,
             "likes": 0
+        },
+        {
+            "tweet_count": 46,
+            "username": "Sherry Mecom",
+            "user_account": "SherryLMecom",
+            "text": "@dogecoin Please explain how this works to help #dogecoin",
+            "created_at": "Sat Aug 28 19:27:51 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
         }
     ]
 }

@@ -1,0 +1,66 @@
+﻿X = [Who’s still holding #dogecoin]
+X_token = [still, holding, dogecoin]
+	X tweet_count = [27]
+	X username = [Max DeGilio]
+Y = [Who’s still holding #dogecoin]
+Y_token = [still, holding, dogecoin]
+	Y tweet_count = [76]
+	Y username = [Max DeGilio]
+Total Length: X = 29, Y = 29 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Who’s still holding #dogecoin]
+X_token = [still, holding, dogecoin]
+	X tweet_count = [27]
+	X username = [Max DeGilio]
+Y = [Still holding 🚀🐕 #dogecoin]
+Y_token = [still, holding, dogecoin]
+	Y tweet_count = [81]
+	Y username = [Max DeGilio]
+Total Length: X = 29, Y = 26 (Y / X = 89.66  X / Y = 111.54)
+Dice Coefficient: 100.00% 
+
+X = [You think we can hit $0.45 by today? 🚀👀\n#dogecoin]
+X_token = [think, hit, today, dogecoin]
+	X tweet_count = [41]
+	X username = [Max DeGilio]
+Y = [You think we can hit $0.45 by today? 🚀 🐕 \n#dogecoin]
+Y_token = [think, hit, today, dogecoin]
+	Y tweet_count = [67]
+	Y username = [Max DeGilio]
+Total Length: X = 49, Y = 51 (Y / X = 104.08  X / Y = 96.08)
+Dice Coefficient: 100.00% 
+
+X = [The current price of one DOGE is now: $0.4302, 2% change in the last hour!\n\nOne MDOGE is worth $430,215.4177.\n\nTotal volume in last 24H: $11,761,341,899.\n\nCurrent CoinMarketCap Rank: #6\n\n$DOGE #DOGECOIN]
+X_token = [current, price, one, doge, 2, change, last, hour, one, mdoge, worth, total, volume, last, 24h, current, coinmarketcap, rank, 6, doge, dogecoin]
+	X tweet_count = [48]
+	X username = [Max DeGilio]
+Y = [The current price of one DOGE is now: $0.3277, 2% change in the last hour!\n\nOne MDOGE is worth $327,678.4098.\n\nTotal volume in last 24H: $4,389,328,763.\n\nCurrent CoinMarketCap Rank: #6\n\n$DOGE #DOGECOIN]
+Y_token = [current, price, one, doge, 2, change, last, hour, one, mdoge, worth, total, volume, last, 24h, current, coinmarketcap, rank, 6, doge, dogecoin]
+	Y tweet_count = [88]
+	Y username = [Max DeGilio]
+Total Length: X = 202, Y = 201 (Y / X = 99.50  X / Y = 100.50)
+Dice Coefficient: 100.00% 
+
+X = [Who’s still holding #dogecoin]
+X_token = [still, holding, dogecoin]
+	X tweet_count = [76]
+	X username = [Max DeGilio]
+Y = [Still holding 🚀🐕 #dogecoin]
+Y_token = [still, holding, dogecoin]
+	Y tweet_count = [81]
+	Y username = [Max DeGilio]
+Total Length: X = 29, Y = 26 (Y / X = 89.66  X / Y = 111.54)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin will rise again. 🙏]
+X_token = [dogecoin, rise]
+	X tweet_count = [133]
+	X username = [Max DeGilio]
+Y = [#dogecoin will rise again 🙏]
+Y_token = [dogecoin, rise]
+	Y tweet_count = [140]
+	Y username = [Max DeGilio]
+Total Length: X = 28, Y = 27 (Y / X = 96.43  X / Y = 103.70)
+Dice Coefficient: 100.00% 
+

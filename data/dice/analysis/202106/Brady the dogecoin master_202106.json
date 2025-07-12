@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@elonmusk Tweet about Dogecoin you literally called your self the doge father",
+        "X_token": "elonmusk, tweet, dogecoin, literally, called, self, doge, father",
+        "X_tweet_count": 14,
+        "X_username": "Brady the dogecoin master",
+        "Y_text": "@elonmusk Start tweeting about doge you literally called your self the doge father",
+        "Y_token": "elonmusk, start, tweeting, doge, literally, called, self, doge, father",
+        "Y_tweet_count": 17,
+        "Y_username": "Brady the dogecoin master",
+        "X_length": 77,
+        "Y_length": 82,
+        "Y_length_percent_of_X": 106.49,
+        "X_length_percent_of_Y": 93.9,
+        "dice_coefficient": 75.0
+    }
+]

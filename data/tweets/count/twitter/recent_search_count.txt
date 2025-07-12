@@ -1,0 +1,249 @@
+QUERY = 'dogecoin lang:en'
+{
+    'data': [
+        {
+            'end': '2025-06-28T00:00:00.000Z', 
+            'start': '2025-06-27T00:00:00.000Z', 
+            'tweet_count': 6414
+        }, 
+        {
+            'end': '2025-06-29T00:00:00.000Z', 
+            'start': '2025-06-28T00:00:00.000Z', 
+            'tweet_count': 5595
+        }, 
+        {
+            'end': '2025-06-30T00:00:00.000Z', 
+            'start': '2025-06-29T00:00:00.000Z', 
+            'tweet_count': 6296
+        }, 
+        {
+            'end': '2025-07-01T00:00:00.000Z', 
+            'start': '2025-06-30T00:00:00.000Z', 
+            'tweet_count': 6266
+        }, 
+        {
+            'end': '2025-07-02T00:00:00.000Z', 
+            'start': '2025-07-01T00:00:00.000Z', 
+            'tweet_count': 6950
+        }, 
+        {
+            'end': '2025-07-03T00:00:00.000Z', 
+            'start': '2025-07-02T00:00:00.000Z', 
+            'tweet_count': 5808
+        }
+    ], 
+    'meta': {
+        'total_tweet_count': 37329
+    }
+}
+
+
+QUERY = '(dogecoin OR \"doge coin\" OR \"doge meme coin\" OR dogecoin OR \"$\"DOGE OR \"dollar doge\") lang:en'
+{
+    'data': [
+        {
+            'end': '2025-06-28T00:00:00.000Z', 
+            'start': '2025-06-27T00:00:00.000Z', 
+            'tweet_count': 172197
+        }, 
+        {
+            'end': '2025-06-29T00:00:00.000Z', 
+            'start': '2025-06-28T00:00:00.000Z', 
+            'tweet_count': 163505
+        }, 
+        {
+            'end': '2025-06-30T00:00:00.000Z', 
+            'start': '2025-06-29T00:00:00.000Z', 
+            'tweet_count': 142099
+        }, 
+        {
+            'end': '2025-07-01T00:00:00.000Z', 
+            'start': '2025-06-30T00:00:00.000Z', 
+            'tweet_count': 123255
+        }, 
+        {
+            'end': '2025-07-02T00:00:00.000Z', 
+            'start': '2025-07-01T00:00:00.000Z', 
+            'tweet_count': 173177
+        }, 
+        {
+            'end': '2025-07-03T00:00:00.000Z', 
+            'start': '2025-07-02T00:00:00.000Z', 
+            'tweet_count': 130609
+        }
+    ], 
+    'meta': {
+        'total_tweet_count': 904842
+    }
+}
+
+
+QUERY = '\"$\"DOGE lang:en'
+{
+    'data': [
+        {
+            'end': '2025-06-28T00:00:00.000Z', 
+            'start': '2025-06-27T00:00:00.000Z', 
+            'tweet_count': 167341
+        }, 
+        {
+            'end': '2025-06-29T00:00:00.000Z', 
+            'start': '2025-06-28T00:00:00.000Z', 
+            'tweet_count': 159102
+        }, 
+        {
+            'end': '2025-06-30T00:00:00.000Z', 
+            'start': '2025-06-29T00:00:00.000Z', 
+            'tweet_count': 136950
+        }, 
+        {
+            'end': '2025-07-01T00:00:00.000Z', 
+            'start': '2025-06-30T00:00:00.000Z', 
+            'tweet_count': 118297
+        }, 
+        {
+            'end': '2025-07-02T00:00:00.000Z', 
+            'start': '2025-07-01T00:00:00.000Z', 
+            'tweet_count': 167896
+        }, 
+        {
+            'end': '2025-07-03T00:00:00.000Z', 
+            'start': '2025-07-02T00:00:00.000Z', 
+            'tweet_count': 126330
+        }
+    ], 
+    'meta': {
+        'total_tweet_count': 875916
+    }
+}
+
+
+QUERY = '(dogecoin OR \"doge coin\" OR \"doge meme coin\" OR dogecoin OR \"dollar doge\") lang:en'
+{
+    'data': [
+        {
+            'end': '2025-06-28T00:00:00.000Z', 
+            'start': '2025-06-27T00:00:00.000Z', 
+            'tweet_count': 6491
+        }, 
+        {
+            'end': '2025-06-29T00:00:00.000Z', 
+            'start': '2025-06-28T00:00:00.000Z', 
+            'tweet_count': 5697
+        }, 
+        {
+            'end': '2025-06-30T00:00:00.000Z', 
+            'start': '2025-06-29T00:00:00.000Z', 
+            'tweet_count': 6376
+        }, 
+        {
+            'end': '2025-07-01T00:00:00.000Z', 
+            'start': '2025-06-30T00:00:00.000Z', 
+            'tweet_count': 6389
+        }, 
+        {
+            'end': '2025-07-02T00:00:00.000Z', 
+            'start': '2025-07-01T00:00:00.000Z', 
+            'tweet_count': 7065
+        }, 
+        {
+            'end': '2025-07-03T00:00:00.000Z', 
+            'start': '2025-07-02T00:00:00.000Z', 
+            'tweet_count': 5937
+        }
+    ], 
+    'meta': {
+        'total_tweet_count': 37955
+    }
+}
+
+
+QUERY = '(dogecoin OR \"doge coin\" OR \"doge meme coin\" OR dogecoin OR \"dollar doge\") lang:en'
+{
+    'data': [
+        {
+            'end': '2025-07-04T00:00:00.000Z', 
+            'start': '2025-07-03T00:00:00.000Z', 
+            'tweet_count': 6848
+        }
+    ], 
+    'meta': {
+        'total_tweet_count': 6848
+    }
+} 
+
+
+QUERY = '(dogecoin OR \"doge coin\" OR \"doge meme coin\" OR dogecoin OR \"$\"DOGE OR \"dollar doge\") lang:en'
+{
+    'data': [
+        {
+            'end': '2025-07-04T00:00:00.000Z', 
+            'start': '2025-07-03T00:00:00.000Z', 
+            'tweet_count': 142289
+        }
+    ], 
+    'meta': {
+        'total_tweet_count': 142289
+    }
+}
+
+
+QUERY = '(dogecoin OR \"doge coin\" OR \"doge meme coin\" OR dogecoin OR \"$\"DOGE OR \"dollar doge\") lang:en'
+{
+    'data': [
+        {
+            'end': '2025-07-06T00:00:00.000Z', 
+            'start': '2025-07-05T00:00:00.000Z', 
+            'tweet_count': 135585
+        }, 
+        {
+            'end': '2025-07-07T00:00:00.000Z', 
+            'start': '2025-07-06T00:00:00.000Z', 
+            'tweet_count': 207710
+        }
+    ], 
+    'meta': {
+        'total_tweet_count': 343295
+    }
+}
+
+
+
+QUERY = '(dogecoin OR \"doge coin\" OR \"doge meme coin\" OR dogecoin OR \"$DOGE\" OR \"dollar doge\") lang:en'
+{
+    'data': [
+        {
+            'end': '2025-07-02T00:00:00.000Z', 
+            'start': '2025-07-01T00:00:00.000Z', 
+            'tweet_count': 169676
+        }, 
+        {
+            'end': '2025-07-03T00:00:00.000Z', 
+            'start': '2025-07-02T00:00:00.000Z', 
+            'tweet_count': 127267
+        }, 
+        {
+            'end': '2025-07-04T00:00:00.000Z', 
+            'start': '2025-07-03T00:00:00.000Z', 
+            'tweet_count': 138352
+        }, 
+        {
+            'end': '2025-07-05T00:00:00.000Z', 
+            'start': '2025-07-04T00:00:00.000Z', 
+            'tweet_count': 108314
+        }, 
+        {
+            'end': '2025-07-06T00:00:00.000Z', 
+            'start': '2025-07-05T00:00:00.000Z', 
+            'tweet_count': 135566
+        }, 
+        {
+            'end': '2025-07-07T00:00:00.000Z', 
+            'start': '2025-07-06T00:00:00.000Z', 
+            'tweet_count': 207704
+        }
+    ], 
+    'meta': {
+        'total_tweet_count': 886879
+    }
+}

@@ -1,0 +1,44 @@
+﻿X = [@CoinDesk @CoinbasePro @nikhileshde We Really Going Somewhere... Buckle Up People... #Dogecoin https://t.co/99vgJGViIc]
+X_token = [coindesk, coinbasepro, nikhileshde, really, going, somewhere, buckle, people, dogecoin, https]
+	X tweet_count = [1]
+	X username = [BuddyCastille]
+Y = [@elonmusk @CoinDesk @CoinbasePro @nikhileshde We Really Going Somewhere... Buckle Up... #Dogecoin https://t.co/YDaCmCeOGr]
+Y_token = [elonmusk, coindesk, coinbasepro, nikhileshde, really, going, somewhere, buckle, dogecoin, https]
+	Y tweet_count = [2]
+	Y username = [BuddyCastille]
+Total Length: X = 118, Y = 121 (Y / X = 102.54  X / Y = 97.52)
+Dice Coefficient: 90.00% 
+
+X = [@StonksReddit @MSneakhead13 We Going Somewhere... #Dogecoin https://t.co/PAqbvwdBVT]
+X_token = [stonksreddit, msneakhead13, going, somewhere, dogecoin, https]
+	X tweet_count = [22]
+	X username = [BuddyCastille]
+Y = [@DogeMom_Heather We Going Somewhere.. hop on... #Dogecoin https://t.co/1r0f0NjAvb]
+Y_token = [going, somewhere, hop, dogecoin, https]
+	Y tweet_count = [24]
+	Y username = [BuddyCastille]
+Total Length: X = 83, Y = 81 (Y / X = 97.59  X / Y = 102.47)
+Dice Coefficient: 72.73% 
+
+X = [What's going on with #Dogecoin]
+X_token = [going, dogecoin]
+	X tweet_count = [43]
+	X username = [BuddyCastille]
+Y = [#Dogecoin at. .35\nWhat's going on???]
+Y_token = [dogecoin, going]
+	Y tweet_count = [111]
+	Y username = [BuddyCastille]
+Total Length: X = 30, Y = 36 (Y / X = 120.00  X / Y = 83.33)
+Dice Coefficient: 100.00% 
+
+X = [@StonksReddit Don't invest more than your willing to lose...#Dogecoin]
+X_token = [stonksreddit, invest, willing, lose, dogecoin]
+	X tweet_count = [97]
+	X username = [BuddyCastille]
+Y = [@woof9000 Don't invest more than your willing to lose... #Dogecoin]
+Y_token = [woof9000, invest, willing, lose, dogecoin]
+	Y tweet_count = [101]
+	Y username = [BuddyCastille]
+Total Length: X = 69, Y = 66 (Y / X = 95.65  X / Y = 104.55)
+Dice Coefficient: 80.00% 
+

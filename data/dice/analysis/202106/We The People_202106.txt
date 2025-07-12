@@ -1,0 +1,66 @@
+﻿X = [Go #Dogecoin go!!]
+X_token = [go, dogecoin, go]
+	X tweet_count = [7]
+	X username = [We The People]
+Y = [Let’s go dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [91]
+	Y username = [We The People]
+Total Length: X = 17, Y = 17 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 80.00% 
+
+X = [Go #Dogecoin go!!]
+X_token = [go, dogecoin, go]
+	X tweet_count = [7]
+	X username = [We The People]
+Y = [Let’s go #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [99]
+	Y username = [We The People]
+Total Length: X = 17, Y = 18 (Y / X = 105.88  X / Y = 94.44)
+Dice Coefficient: 80.00% 
+
+X = [@davidgokhshtein $SHIBA $Doge and $ADA !!]
+X_token = [davidgokhshtein, shiba, doge, ada]
+	X tweet_count = [16]
+	X username = [We The People]
+Y = [@davidgokhshtein $shiba $doge and $safeearth]
+Y_token = [davidgokhshtein, shiba, doge, safeearth]
+	Y tweet_count = [66]
+	Y username = [We The People]
+Total Length: X = 41, Y = 44 (Y / X = 107.32  X / Y = 93.18)
+Dice Coefficient: 75.00% 
+
+X = [#dogecoin to the moon🚀🚀🚀🚀🚀🔧💎🚀🚀]
+X_token = [dogecoin]
+	X tweet_count = [18]
+	X username = [We The People]
+Y = [We are all in on dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [51]
+	Y username = [We The People]
+Total Length: X = 30, Y = 25 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 100.00% 
+
+X = [DOGECOIN BREAKING NEWS NOW! BE CAUTIOUS !!! https://t.co/psjzptKhDz via @YouTube]
+X_token = [dogecoin, breaking, news, cautious, https, via, youtube]
+	X tweet_count = [84]
+	X username = [We The People]
+Y = [DOGECOIN  BREAKING NEWS !!! ⚠️OMG DOGE GOING TO 18 CENTS !! https://t.co/hWPAWmwPv1 via @YouTube]
+Y_token = [dogecoin, breaking, news, doge, going, 18, cents, https, via, youtube]
+	Y tweet_count = [93]
+	Y username = [We The People]
+Total Length: X = 80, Y = 96 (Y / X = 120.00  X / Y = 83.33)
+Dice Coefficient: 70.59% 
+
+X = [Let’s go dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [91]
+	X username = [We The People]
+Y = [Let’s go #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [99]
+	Y username = [We The People]
+Total Length: X = 17, Y = 18 (Y / X = 105.88  X / Y = 94.44)
+Dice Coefficient: 100.00% 
+

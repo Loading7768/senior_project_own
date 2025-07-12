@@ -1,0 +1,11 @@
+﻿X = [#Dogecoin \n#doge  price\n\nDogecoin experienced a significant price increase with two developments today. One of them was the support of Elon Musk, as always. https://t.co/VnRIea8ZWr]
+X_token = [dogecoin, doge, price, dogecoin, experienced, significant, price, increase, two, developments, today, one, support, elon, musk, always, https]
+	X tweet_count = [8]
+	X username = [Mst1985_holding]
+Y = [#Dogecoin \nDOGE price\n\n#Dogecoin experienced a significant price increase with two developments today. One of them was the support of Elon Musk, as always. https://t.co/U2NSOQ20k7]
+Y_token = [dogecoin, doge, price, dogecoin, experienced, significant, price, increase, two, developments, today, one, support, elon, musk, always, https]
+	Y tweet_count = [9]
+	Y username = [Mst1985_holding]
+Total Length: X = 180, Y = 179 (Y / X = 99.44  X / Y = 100.56)
+Dice Coefficient: 100.00% 
+

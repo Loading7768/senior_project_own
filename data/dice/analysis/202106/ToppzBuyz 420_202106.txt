@@ -1,0 +1,33 @@
+﻿X = [Every link i post is all through #Amazon]
+X_token = [every, link, post, amazon]
+	X tweet_count = [2]
+	X username = [ToppzBuyz 420]
+Y = [every link i post is all through Amazon #Amazon]
+Y_token = [every, link, post, amazon, amazon]
+	Y tweet_count = [30]
+	Y username = [ToppzBuyz 420]
+Total Length: X = 40, Y = 47 (Y / X = 117.50  X / Y = 85.11)
+Dice Coefficient: 100.00% 
+
+X = [A more pricey one #BTC #dogecoin #XRP  https://t.co/rRzOQbJIY2]
+X_token = [pricey, one, btc, dogecoin, xrp, https]
+	X tweet_count = [13]
+	X username = [ToppzBuyz 420]
+Y = [we all need one of these #BTC #dogecoin #XRP   https://t.co/oydBiuE0LV]
+Y_token = [need, one, btc, dogecoin, xrp, https]
+	Y tweet_count = [14]
+	Y username = [ToppzBuyz 420]
+Total Length: X = 62, Y = 70 (Y / X = 112.90  X / Y = 88.57)
+Dice Coefficient: 83.33% 
+
+X = [@wizkhalifa https://t.co/I8lfGDBYqS give this a read beginners]
+X_token = [wizkhalifa, https, give, read, beginners]
+	X tweet_count = [28]
+	X username = [ToppzBuyz 420]
+Y = [@dogechairwoman https://t.co/C9HEmfrQds give this a read beginners]
+Y_token = [dogechairwoman, https, give, read, beginners]
+	Y tweet_count = [29]
+	Y username = [ToppzBuyz 420]
+Total Length: X = 62, Y = 66 (Y / X = 106.45  X / Y = 93.94)
+Dice Coefficient: 80.00% 
+

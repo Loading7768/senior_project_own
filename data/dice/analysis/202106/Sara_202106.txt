@@ -1,0 +1,187 @@
+﻿X = [@davidgokhshtein The media are writing news stories calling Berry an expert LMFAO]
+X_token = [davidgokhshtein, media, writing, news, stories, calling, berry, expert, lmfao]
+	X tweet_count = [8]
+	X username = [Sara]
+Y = [@DogeHunter_7 @davidgokhshtein The media are writing news stories calling Berry an expert LMFAO]
+Y_token = [davidgokhshtein, media, writing, news, stories, calling, berry, expert, lmfao]
+	Y tweet_count = [9]
+	Y username = [Sara]
+Total Length: X = 81, Y = 95 (Y / X = 117.28  X / Y = 85.26)
+Dice Coefficient: 100.00% 
+
+X = [@CrypticVijay007 @7remino @elonmusk Not a good 💙]
+X_token = [crypticvijay007, 7remino, elonmusk, good]
+	X tweet_count = [27]
+	X username = [Sara]
+Y = [@ujjwal_bhartiya @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [28]
+	Y username = [Sara]
+Total Length: X = 48, Y = 48 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 85.71% 
+
+X = [@CrypticVijay007 @7remino @elonmusk Not a good 💙]
+X_token = [crypticvijay007, 7remino, elonmusk, good]
+	X tweet_count = [27]
+	X username = [Sara]
+Y = [@padzcerti @7remino @elonmusk Not a good 💙]
+Y_token = [padzcerti, 7remino, elonmusk, good]
+	Y tweet_count = [29]
+	Y username = [Sara]
+Total Length: X = 48, Y = 42 (Y / X = 87.50  X / Y = 114.29)
+Dice Coefficient: 75.00% 
+
+X = [@CrypticVijay007 @7remino @elonmusk Not a good 💙]
+X_token = [crypticvijay007, 7remino, elonmusk, good]
+	X tweet_count = [27]
+	X username = [Sara]
+Y = [@jo_szef @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [30]
+	Y username = [Sara]
+Total Length: X = 48, Y = 40 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 85.71% 
+
+X = [@CrypticVijay007 @7remino @elonmusk Not a good 💙]
+X_token = [crypticvijay007, 7remino, elonmusk, good]
+	X tweet_count = [27]
+	X username = [Sara]
+Y = [@Nakuna00713998 @7remino @elonmusk Not a good 💙]
+Y_token = [nakuna00713998, 7remino, elonmusk, good]
+	Y tweet_count = [31]
+	Y username = [Sara]
+Total Length: X = 48, Y = 47 (Y / X = 97.92  X / Y = 102.13)
+Dice Coefficient: 75.00% 
+
+X = [@CrypticVijay007 @7remino @elonmusk Not a good 💙]
+X_token = [crypticvijay007, 7remino, elonmusk, good]
+	X tweet_count = [27]
+	X username = [Sara]
+Y = [@DutchessOfDoge_ @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [32]
+	Y username = [Sara]
+Total Length: X = 48, Y = 48 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 85.71% 
+
+X = [@ujjwal_bhartiya @7remino @elonmusk Not a good 💙]
+X_token = [7remino, elonmusk, good]
+	X tweet_count = [28]
+	X username = [Sara]
+Y = [@padzcerti @7remino @elonmusk Not a good 💙]
+Y_token = [padzcerti, 7remino, elonmusk, good]
+	Y tweet_count = [29]
+	Y username = [Sara]
+Total Length: X = 48, Y = 42 (Y / X = 87.50  X / Y = 114.29)
+Dice Coefficient: 85.71% 
+
+X = [@ujjwal_bhartiya @7remino @elonmusk Not a good 💙]
+X_token = [7remino, elonmusk, good]
+	X tweet_count = [28]
+	X username = [Sara]
+Y = [@jo_szef @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [30]
+	Y username = [Sara]
+Total Length: X = 48, Y = 40 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 100.00% 
+
+X = [@ujjwal_bhartiya @7remino @elonmusk Not a good 💙]
+X_token = [7remino, elonmusk, good]
+	X tweet_count = [28]
+	X username = [Sara]
+Y = [@Nakuna00713998 @7remino @elonmusk Not a good 💙]
+Y_token = [nakuna00713998, 7remino, elonmusk, good]
+	Y tweet_count = [31]
+	Y username = [Sara]
+Total Length: X = 48, Y = 47 (Y / X = 97.92  X / Y = 102.13)
+Dice Coefficient: 85.71% 
+
+X = [@ujjwal_bhartiya @7remino @elonmusk Not a good 💙]
+X_token = [7remino, elonmusk, good]
+	X tweet_count = [28]
+	X username = [Sara]
+Y = [@DutchessOfDoge_ @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [32]
+	Y username = [Sara]
+Total Length: X = 48, Y = 48 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@padzcerti @7remino @elonmusk Not a good 💙]
+X_token = [padzcerti, 7remino, elonmusk, good]
+	X tweet_count = [29]
+	X username = [Sara]
+Y = [@jo_szef @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [30]
+	Y username = [Sara]
+Total Length: X = 42, Y = 40 (Y / X = 95.24  X / Y = 105.00)
+Dice Coefficient: 85.71% 
+
+X = [@padzcerti @7remino @elonmusk Not a good 💙]
+X_token = [padzcerti, 7remino, elonmusk, good]
+	X tweet_count = [29]
+	X username = [Sara]
+Y = [@Nakuna00713998 @7remino @elonmusk Not a good 💙]
+Y_token = [nakuna00713998, 7remino, elonmusk, good]
+	Y tweet_count = [31]
+	Y username = [Sara]
+Total Length: X = 42, Y = 47 (Y / X = 111.90  X / Y = 89.36)
+Dice Coefficient: 75.00% 
+
+X = [@padzcerti @7remino @elonmusk Not a good 💙]
+X_token = [padzcerti, 7remino, elonmusk, good]
+	X tweet_count = [29]
+	X username = [Sara]
+Y = [@DutchessOfDoge_ @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [32]
+	Y username = [Sara]
+Total Length: X = 42, Y = 48 (Y / X = 114.29  X / Y = 87.50)
+Dice Coefficient: 85.71% 
+
+X = [@jo_szef @7remino @elonmusk Not a good 💙]
+X_token = [7remino, elonmusk, good]
+	X tweet_count = [30]
+	X username = [Sara]
+Y = [@Nakuna00713998 @7remino @elonmusk Not a good 💙]
+Y_token = [nakuna00713998, 7remino, elonmusk, good]
+	Y tweet_count = [31]
+	Y username = [Sara]
+Total Length: X = 40, Y = 47 (Y / X = 117.50  X / Y = 85.11)
+Dice Coefficient: 85.71% 
+
+X = [@jo_szef @7remino @elonmusk Not a good 💙]
+X_token = [7remino, elonmusk, good]
+	X tweet_count = [30]
+	X username = [Sara]
+Y = [@DutchessOfDoge_ @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [32]
+	Y username = [Sara]
+Total Length: X = 40, Y = 48 (Y / X = 120.00  X / Y = 83.33)
+Dice Coefficient: 100.00% 
+
+X = [@Nakuna00713998 @7remino @elonmusk Not a good 💙]
+X_token = [nakuna00713998, 7remino, elonmusk, good]
+	X tweet_count = [31]
+	X username = [Sara]
+Y = [@DutchessOfDoge_ @7remino @elonmusk Not a good 💙]
+Y_token = [7remino, elonmusk, good]
+	Y tweet_count = [32]
+	Y username = [Sara]
+Total Length: X = 47, Y = 48 (Y / X = 102.13  X / Y = 97.92)
+Dice Coefficient: 85.71% 
+
+X = [@SquiddVicious @HiRezTheRapper Satan is the father of lies or prince of lies. He's the master deceiver. He comes as an 👼 of light]
+X_token = [squiddvicious, hireztherapper, satan, father, lies, prince, lies, master, deceiver, comes, light]
+	X tweet_count = [48]
+	X username = [Sara]
+Y = [@SquiddVicious @HiRezTheRapper Satan comes as an angel of light. He's the prince of lies. The great deceiver]
+Y_token = [squiddvicious, hireztherapper, satan, comes, angel, light, prince, lies, great, deceiver]
+	Y tweet_count = [49]
+	Y username = [Sara]
+Total Length: X = 129, Y = 108 (Y / X = 83.72  X / Y = 119.44)
+Dice Coefficient: 80.00% 
+

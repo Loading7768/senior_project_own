@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@JeffBezos @JeffBezos do you like #dogecoin?",
+        "X_token": "jeffbezos, jeffbezos, like, dogecoin",
+        "X_tweet_count": 10,
+        "X_username": "DogecoinBoy98",
+        "Y_text": "@JeffBezos Jeff do you like #dogecoin ?",
+        "Y_token": "jeffbezos, jeff, like, dogecoin",
+        "Y_tweet_count": 37,
+        "Y_username": "DogecoinBoy98",
+        "X_length": 44,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 88.64,
+        "X_length_percent_of_Y": 112.82,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@BillyM2k @MalwareTechBlog You are #dogecoin creator",
+        "X_token": "billym2k, malwaretechblog, dogecoin, creator",
+        "X_tweet_count": 27,
+        "X_username": "DogecoinBoy98",
+        "Y_text": "@MalwareTechBlog @BillyM2k Is #dogecoin creator",
+        "Y_token": "malwaretechblog, billym2k, dogecoin, creator",
+        "Y_tweet_count": 28,
+        "Y_username": "DogecoinBoy98",
+        "X_length": 52,
+        "Y_length": 47,
+        "Y_length_percent_of_X": 90.38,
+        "X_length_percent_of_Y": 110.64,
+        "dice_coefficient": 100.0
+    }
+]

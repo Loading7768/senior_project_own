@@ -1,0 +1,22 @@
+﻿X = [@SigersonBell  if this guys turns out to be right about @elonmusk  with the #dogecoin announcement tonight for #tesla to accept dogecoin! This guy will be famous! if it turns out @elonmusk  doesn’t announce it this guy will forever lose legitimacy. Lot weighs on that tweet]
+X_token = [sigersonbell, guys, turns, right, elonmusk, dogecoin, announcement, tonight, tesla, accept, dogecoin, guy, famous, turns, elonmusk, announce, guy, forever, lose, legitimacy, lot, weighs, tweet]
+	X tweet_count = [1]
+	X username = [Daniel Lipsmeyer]
+Y = [@SigersonBell  if this guys turns out to be right about @elonmusk  with the #dogecoin announcement tonight for #tesla to accept dogecoin! This guy will be famous! if it turns out @elonmusk  doesn’t announce it this guy will forever lose legitimacy. Lot weighs on that tweet!]
+Y_token = [sigersonbell, guys, turns, right, elonmusk, dogecoin, announcement, tonight, tesla, accept, dogecoin, guy, famous, turns, elonmusk, announce, guy, forever, lose, legitimacy, lot, weighs, tweet]
+	Y tweet_count = [2]
+	Y username = [Daniel Lipsmeyer]
+Total Length: X = 273, Y = 274 (Y / X = 100.37  X / Y = 99.64)
+Dice Coefficient: 100.00% 
+
+X = [Buy the $doge #doge #dogecoin]
+X_token = [buy, doge, doge, dogecoin]
+	X tweet_count = [20]
+	X username = [Daniel Lipsmeyer]
+Y = [Buy doge get it trending #dogecoin]
+Y_token = [buy, doge, get, trending, dogecoin]
+	Y tweet_count = [21]
+	Y username = [Daniel Lipsmeyer]
+Total Length: X = 29, Y = 34 (Y / X = 117.24  X / Y = 85.29)
+Dice Coefficient: 75.00% 
+

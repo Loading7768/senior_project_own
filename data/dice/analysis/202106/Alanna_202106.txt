@@ -1,0 +1,22 @@
+﻿X = [@Investments_CEO Vitalik Buterin has earned $4.3 million from his $25.000 investment in Dogecoin … so far]
+X_token = [vitalik, buterin, earned, million, investment, dogecoin, far]
+	X tweet_count = [16]
+	X username = [Alanna]
+Y = [@Glimmerycoin @inversebrah Vitalik Buterin has earned $4.3 million from his $25.000 investment in Dogecoin … so far]
+Y_token = [glimmerycoin, inversebrah, vitalik, buterin, earned, million, investment, dogecoin, far]
+	Y tweet_count = [17]
+	Y username = [Alanna]
+Total Length: X = 105, Y = 115 (Y / X = 109.52  X / Y = 91.30)
+Dice Coefficient: 87.50% 
+
+X = [@Investments_CEO @TanjuSilver So that’s the message, Dogecoin is a huge opportunity, but invest wisely. Do not think it will reach $ 100, $ 200, as this is almost impossible. $1 Dogecoin]
+X_token = [tanjusilver, message, dogecoin, huge, opportunity, invest, wisely, think, reach, 100, 200, almost, impossible, 1, dogecoin]
+	X tweet_count = [18]
+	X username = [Alanna]
+Y = [@cz_binance So that’s the message, Dogecoin is a huge opportunity, but invest wisely. Do not think it will reach $ 100, $ 200, as this is almost impossible. $1 Dogecoin]
+Y_token = [message, dogecoin, huge, opportunity, invest, wisely, think, reach, 100, 200, almost, impossible, 1, dogecoin]
+	Y tweet_count = [19]
+	Y username = [Alanna]
+Total Length: X = 186, Y = 168 (Y / X = 90.32  X / Y = 110.71)
+Dice Coefficient: 96.30% 
+
