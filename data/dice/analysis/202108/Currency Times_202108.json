@@ -73,5 +73,20 @@
         "Y_length_percent_of_X": 107.81,
         "X_length_percent_of_Y": 92.75,
         "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "PayPal Launches Crypto Services in UK https://t.co/GsKjDKu6iB #Dogecoin #doge #CurrencyTimes #BTC #ICP #InternetComputer",
+        "X_token": "paypal, launches, crypto, services, uk, https, dogecoin, doge, currencytimes, btc, icp, internetcomputer",
+        "X_tweet_count": 84,
+        "X_username": "Currency Times",
+        "Y_text": "PayPal launches crypto trading service in the UK https://t.co/NSs4ZHeOYV #CurrencyTimes #ToTheMoon #Dogecoin $doge $BTC #CurrencyTimes",
+        "Y_token": "paypal, launches, crypto, trading, service, uk, https, currencytimes, tothemoon, dogecoin, doge, btc, currencytimes",
+        "Y_tweet_count": 85,
+        "Y_username": "Currency Times",
+        "X_length": 120,
+        "Y_length": 134,
+        "Y_length_percent_of_X": 111.67,
+        "X_length_percent_of_Y": 89.55,
+        "dice_coefficient": 75.0
     }
 ]

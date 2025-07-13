@@ -58,5 +58,20 @@
         "Y_length_percent_of_X": 91.89,
         "X_length_percent_of_Y": 108.82,
         "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Y’all buying the dip or naw? 😂🚀 #dogecoin",
+        "X_token": "buying, dip, naw, dogecoin",
+        "X_tweet_count": 66,
+        "X_username": "SlumDOGE Millionaire",
+        "Y_text": "So who’s buying the dip today #Dogecoin 👀🚀",
+        "Y_token": "buying, dip, today, dogecoin",
+        "Y_tweet_count": 87,
+        "Y_username": "SlumDOGE Millionaire",
+        "X_length": 41,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 102.44,
+        "X_length_percent_of_Y": 97.62,
+        "dice_coefficient": 75.0
     }
 ]

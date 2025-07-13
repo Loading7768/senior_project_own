@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "X_text": "#dogecoin #dogearmy is here! https://t.co/f535nruFD7",
+        "X_token": "dogecoin, dogearmy, https",
+        "X_tweet_count": 2,
+        "X_username": "FutureMan",
+        "Y_text": "#dogearmy recruiting #dogecoin https://t.co/gKqQSTyARm",
+        "Y_token": "dogearmy, recruiting, dogecoin, https",
+        "Y_tweet_count": 81,
+        "Y_username": "FutureMan",
+        "X_length": 52,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 103.85,
+        "X_length_percent_of_Y": 96.3,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "What’s up over 480% the past 3 months? #dogecoin Who wants more? https://t.co/xl5yEfJF7g",
+        "X_token": "480, past, 3, months, dogecoin, wants, https",
+        "X_tweet_count": 9,
+        "X_username": "FutureMan",
+        "Y_text": "What’s happening? #dogecoin  up over 525% Past 3 months for me! https://t.co/2ICzBRFZhR",
+        "Y_token": "happening, dogecoin, 525, past, 3, months, https",
+        "Y_tweet_count": 27,
+        "Y_username": "FutureMan",
+        "X_length": 88,
+        "Y_length": 87,
+        "Y_length_percent_of_X": 98.86,
+        "X_length_percent_of_Y": 101.15,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "Who’s leading the pack? #dogecoin https://t.co/XU2qOI8EiF",
+        "X_token": "leading, pack, dogecoin, https",
+        "X_tweet_count": 11,
+        "X_username": "FutureMan",
+        "Y_text": "Who’s leading the pack? #dogecoin — AGAIN! https://t.co/1j6bkRQMi9",
+        "Y_token": "leading, pack, dogecoin, https",
+        "Y_tweet_count": 95,
+        "Y_username": "FutureMan",
+        "X_length": 57,
+        "Y_length": 66,
+        "Y_length_percent_of_X": 115.79,
+        "X_length_percent_of_Y": 86.36,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "#dogecoin ready for #blastoff https://t.co/bUKFtxWRKQ",
+        "X_token": "dogecoin, ready, blastoff, https",
+        "X_tweet_count": 14,
+        "X_username": "FutureMan",
+        "Y_text": "#dogecoin ready to jump! https://t.co/rk1bCckUb6",
+        "Y_token": "dogecoin, ready, jump, https",
+        "Y_tweet_count": 75,
+        "Y_username": "FutureMan",
+        "X_length": 53,
+        "Y_length": 48,
+        "Y_length_percent_of_X": 90.57,
+        "X_length_percent_of_Y": 110.42,
+        "dice_coefficient": 75.0
+    }
+]

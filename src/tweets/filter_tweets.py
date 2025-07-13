@@ -17,8 +17,8 @@ import config
 
 # === 可自由調整的參數 ===
 COIN = config.COIN_SHORT_NAME          # 幣種（檔名裡的代號）
-YEAR = "2025"             # 西元年（int）
-MONTH = "03"               # 月份（int）→ 會自動補 0
+YEAR = "2022"             # 西元年（int）
+MONTH = "05"              # 月份（int）→ 會自動補 0
 JSON_DICT_NAME = config.JSON_DICT_NAME
 AUTHOR_LIST_FILE = f"../data/dice/robot_list/{YEAR}{MONTH}_list.txt"   # 黑名單作者清單
 FREQUENT_POST_LIST_FILE = f'../data/spammer/{YEAR}/spammer_{YEAR}{MONTH}.txt'

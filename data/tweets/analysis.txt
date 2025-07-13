@@ -17615,3 +17615,238 @@ Timestamp：
 	2025-07-12 23:25:49 No more tweets found
 	2025-07-12 23:25:49 End
 
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-3-25 since:2025-3-24'
+SEARCH = 'Latest'
+執行時間：2025-07-12 22:28:24 ~ 2025-07-13 00:22:09 (0 day 1 hr 53 min)
+推文數量：4260 (0 WrittingError)
+推文時間：Mon Mar 24 00:00:01 +0000 2025 ~ Mon Mar 24 23:59:57 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-12 22:28:24 Start
+	2025-07-12 22:28:25 FileNotFoundError
+	2025-07-12 22:30:37 TooManyRequests - Got 112 tweets
+	Waiting until  2025-07-12 22:36:28 (5 min 50 sec)
+	2025-07-12 22:47:46 TooManyRequests - Got 783 tweets
+	Waiting until  2025-07-12 22:51:35 (3 min 48 sec)
+	2025-07-12 22:57:36 TooManyRequests - Got 1417 tweets
+	Waiting until  2025-07-12 23:06:40 (9 min 3 sec)
+	2025-07-12 23:17:20 TooManyRequests - Got 2097 tweets
+	Waiting until  2025-07-12 23:21:47 (4 min 26 sec)
+	2025-07-12 23:36:10 TooManyRequests - Got 2790 tweets
+	Waiting until  2025-07-12 23:36:55 (0 min 44 sec)
+	2025-07-12 23:45:00 TooManyRequests - Got 3260 tweets
+	Waiting until  2025-07-12 23:52:03 (7 min 2 sec)
+	2025-07-13 00:02:27 TooManyRequests - Got 3933 tweets
+	Waiting until  2025-07-13 00:07:08 (4 min 40 sec)
+	2025-07-13 00:22:09 No more tweets found
+	2025-07-13 00:22:09 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-3-26 since:2025-3-25'
+SEARCH = 'Latest'
+執行時間：2025-07-13 00:22:15 ~ 2025-07-13 02:19:27 (0 day 1 hr 57 min)
+推文數量：4608 (0 WrittingError)
+推文時間：Tue Mar 25 00:00:00 +0000 2025 ~ Tue Mar 25 23:57:03 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 00:22:15 Start
+	2025-07-13 00:22:16 FileNotFoundError
+	2025-07-13 00:30:21 TooManyRequests - Got 467 tweets
+	Waiting until  2025-07-13 00:37:15 (6 min 53 sec)
+	2025-07-13 00:47:06 TooManyRequests - Got 1094 tweets
+	Waiting until  2025-07-13 00:52:22 (5 min 15 sec)
+	2025-07-13 01:05:01 TooManyRequests - Got 1737 tweets
+	Waiting until  2025-07-13 01:07:27 (2 min 25 sec)
+	2025-07-13 01:15:47 TooManyRequests - Got 2394 tweets
+	Waiting until  2025-07-13 01:22:32 (6 min 44 sec)
+	2025-07-13 01:31:47 TooManyRequests - Got 2975 tweets
+	Waiting until  2025-07-13 01:37:37 (5 min 49 sec)
+	2025-07-13 01:44:08 TooManyRequests - Got 3557 tweets
+	Waiting until  2025-07-13 01:52:44 (8 min 35 sec)
+	2025-07-13 02:05:29 TooManyRequests - Got 4140 tweets
+	Waiting until  2025-07-13 02:07:51 (2 min 21 sec)
+	2025-07-13 02:19:27 No more tweets found
+	2025-07-13 02:19:27 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-3-27 since:2025-3-26'
+SEARCH = 'Latest'
+執行時間：2025-07-13 02:19:32 ~ 2025-07-13 03:41:04 (0 day 1 hr 21 min)
+推文數量：2775 (0 WrittingError)
+推文時間：Wed Mar 26 10:43:54 +0000 2025 ~ Wed Mar 26 23:59:53 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 02:19:32 Start
+	2025-07-13 02:19:33 FileNotFoundError
+	2025-07-13 02:20:10 TooManyRequests - Got 93 tweets
+	Waiting until  2025-07-13 02:22:59 (2 min 48 sec)
+	2025-07-13 02:37:22 TooManyRequests - Got 713 tweets
+	Waiting until  2025-07-13 02:38:05 (0 min 42 sec)
+	2025-07-13 02:47:30 TooManyRequests - Got 1199 tweets
+	Waiting until  2025-07-13 02:53:13 (5 min 42 sec)
+	2025-07-13 03:01:42 TooManyRequests - Got 1764 tweets
+	Waiting until  2025-07-13 03:08:21 (6 min 38 sec)
+	2025-07-13 03:08:37 httpx.ConnectTimeout
+	2025-07-13 03:33:35 TooManyRequests - Got 2643 tweets
+	Waiting until  2025-07-13 03:39:27 (5 min 51 sec)
+	2025-07-13 03:41:04 No more tweets found
+	2025-07-13 03:41:04 Renamed: ../data/tweets/DOGE/2025/03/DOGE_20250326.json → ../data/tweets/DOGE/2025/03/DOGE_20250326_Latest2775.json
+	2025-07-13 03:41:04 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-3-28 since:2025-3-27'
+SEARCH = 'Latest'
+執行時間：2025-07-13 03:41:14 ~ 2025-07-13 05:48:56 (0 day 2 hr 7 min)
+推文數量：4548 (0 WrittingError)
+推文時間：Thu Mar 27 00:00:08 +0000 2025 ~ Thu Mar 27 23:59:02 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 03:41:14 Start
+	2025-07-13 03:41:15 FileNotFoundError
+	2025-07-13 03:53:52 TooManyRequests - Got 365 tweets
+	Waiting until  2025-07-13 03:54:35 (0 min 42 sec)
+	2025-07-13 03:59:16 httpx.ConnectTimeout
+	2025-07-13 04:34:14 TooManyRequests - Got 1694 tweets
+	Waiting until  2025-07-13 04:40:06 (5 min 51 sec)
+	2025-07-13 05:03:08 TooManyRequests - Got 2856 tweets
+	Waiting until  2025-07-13 05:10:12 (7 min 3 sec)
+	2025-07-13 05:48:56 No more tweets found
+	2025-07-13 05:48:56 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-3-29 since:2025-3-28'
+SEARCH = 'Latest'
+執行時間：2025-07-13 05:49:01 ~ 2025-07-13 07:18:49 (0 day 1 hr 29 min)
+推文數量：3097 (0 WrittingError)
+推文時間：Fri Mar 28 00:00:23 +0000 2025 ~ Fri Mar 28 23:59:55 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 05:49:01 Start
+	2025-07-13 05:49:02 FileNotFoundError
+	2025-07-13 05:53:43 TooManyRequests - Got 145 tweets
+	Waiting until  2025-07-13 05:57:43 (3 min 59 sec)
+	2025-07-13 06:10:26 TooManyRequests - Got 601 tweets
+	Waiting until  2025-07-13 06:12:51 (2 min 24 sec)
+	2025-07-13 06:18:26 TooManyRequests - Got 1034 tweets
+	Waiting until  2025-07-13 06:27:58 (9 min 31 sec)
+	2025-07-13 06:39:35 TooManyRequests - Got 1576 tweets
+	Waiting until  2025-07-13 06:43:03 (3 min 27 sec)
+	2025-07-13 06:57:30 TooManyRequests - Got 2103 tweets
+	Waiting until  2025-07-13 06:58:09 (0 min 38 sec)
+	2025-07-13 07:08:47 TooManyRequests - Got 2655 tweets
+	Waiting until  2025-07-13 07:13:15 (4 min 27 sec)
+	2025-07-13 07:18:49 No more tweets found
+	2025-07-13 07:18:49 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-3-30 since:2025-3-29'
+SEARCH = 'Latest'
+執行時間：2025-07-13 07:18:55 ~ 2025-07-13 08:33:39 (0 day 1 hr 14 min)
+推文數量：2763 (0 WrittingError)
+推文時間：Sat Mar 29 00:00:02 +0000 2025 ~ Sat Mar 29 23:59:49 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 07:18:55 Start
+	2025-07-13 07:18:56 FileNotFoundError
+	2025-07-13 07:19:23 TooManyRequests - Got 51 tweets
+	Waiting until  2025-07-13 07:28:20 (8 min 56 sec)
+	2025-07-13 07:41:05 TooManyRequests - Got 690 tweets
+	Waiting until  2025-07-13 07:43:28 (2 min 22 sec)
+	2025-07-13 07:49:29 TooManyRequests - Got 1310 tweets
+	Waiting until  2025-07-13 07:58:36 (9 min 6 sec)
+	2025-07-13 08:08:02 TooManyRequests - Got 1899 tweets
+	Waiting until  2025-07-13 08:13:42 (5 min 39 sec)
+	2025-07-13 08:22:35 TooManyRequests - Got 2530 tweets
+	Waiting until  2025-07-13 08:28:48 (6 min 12 sec)
+	2025-07-13 08:33:39 No more tweets found
+	2025-07-13 08:33:39 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-3-31 since:2025-3-30'
+SEARCH = 'Latest'
+執行時間：2025-07-13 08:33:45 ~ 2025-07-13 09:03:28 (0 day 0 hr 29 min)
+推文數量：1162 (0 WrittingError)
+推文時間：Sun Mar 30 14:53:17 +0000 2025 ~ Sun Mar 30 23:58:35 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 08:33:45 Start
+	2025-07-13 08:33:46 FileNotFoundError
+	2025-07-13 08:40:32 TooManyRequests - Got 364 tweets
+	Waiting until  2025-07-13 08:43:54 (3 min 21 sec)
+	2025-07-13 08:55:53 TooManyRequests - Got 1020 tweets
+	Waiting until  2025-07-13 08:59:00 (3 min 6 sec)
+	2025-07-13 09:03:28 No more tweets found
+	2025-07-13 09:03:28 Renamed: ../data/tweets/DOGE/2025/03/DOGE_20250330.json → ../data/tweets/DOGE/2025/03/DOGE_20250330_Latest1162.json
+	2025-07-13 09:03:28 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-4-01 since:2025-3-31'
+SEARCH = 'Latest'
+執行時間：2025-07-13 09:03:38 ~ 2025-07-13 10:35:37 (0 day 1 hr 31 min)
+推文數量：4047 (0 WrittingError)
+推文時間：Mon Mar 31 00:00:38 +0000 2025 ~ Mon Mar 31 23:59:32 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 09:03:38 Start
+	2025-07-13 09:03:38 FileNotFoundError
+	2025-07-13 09:08:48 TooManyRequests - Got 413 tweets
+	Waiting until  2025-07-13 09:14:06 (5 min 17 sec)
+	2025-07-13 09:22:44 TooManyRequests - Got 1031 tweets
+	Waiting until  2025-07-13 09:29:14 (6 min 29 sec)
+	2025-07-13 09:42:19 TooManyRequests - Got 1702 tweets
+	Waiting until  2025-07-13 09:44:20 (2 min 0 sec)
+	2025-07-13 09:59:21 TooManyRequests - Got 2300 tweets
+	Waiting until  2025-07-13 09:59:28 (0 min 6 sec)
+	2025-07-13 10:09:04 TooManyRequests - Got 2898 tweets
+	Waiting until  2025-07-13 10:14:34 (5 min 29 sec)
+	2025-07-13 10:22:37 TooManyRequests - Got 3509 tweets
+	Waiting until  2025-07-13 10:29:40 (7 min 2 sec)
+	2025-07-13 10:35:37 No more tweets found
+	2025-07-13 10:35:37 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-4-17 since:2025-4-16'
+SEARCH = 'Latest'
+執行時間：2025-07-13 11:17:58 ~ 2025-07-13 12:33:32 (0 day 1 hr 15 min)
+推文數量：3256 (0 WrittingError)
+推文時間：Wed Apr 16 00:00:00 +0000 2025 ~ Wed Apr 16 23:59:48 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 11:17:58 Start
+	2025-07-13 11:18:00 FileNotFoundError
+	2025-07-13 11:27:52 TooManyRequests - Got 564 tweets
+	Waiting until  2025-07-13 11:32:59 (5 min 6 sec)
+	2025-07-13 11:40:16 TooManyRequests - Got 1255 tweets
+	Waiting until  2025-07-13 11:48:05 (7 min 48 sec)
+	2025-07-13 11:57:09 TooManyRequests - Got 1950 tweets
+	Waiting until  2025-07-13 12:03:13 (6 min 3 sec)
+	2025-07-13 12:17:29 TooManyRequests - Got 2586 tweets
+	Waiting until  2025-07-13 12:18:21 (0 min 51 sec)
+	2025-07-13 12:32:22 TooManyRequests - Got 3256 tweets
+	Waiting until  2025-07-13 12:33:28 (1 min 5 sec)
+	2025-07-13 12:33:32 No more tweets found
+	2025-07-13 12:33:32 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-4-3 since:2025-4-2'
+SEARCH = 'Latest'
+執行時間：2025-07-13 11:17:56 ~ 2025-07-13 13:06:34 (0 day 1 hr 48 min)
+推文數量：3644 (0 WrittingError)
+推文時間：Wed Apr 02 00:00:00 +0000 2025 ~ Wed Apr 02 23:56:42 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 11:17:56 Start
+	2025-07-13 11:17:58 FileNotFoundError
+	2025-07-13 12:01:58 TooManyRequests - Got 1333 tweets
+	Waiting until  2025-07-13 12:04:42 (2 min 43 sec)
+	2025-07-13 12:19:03 TooManyRequests - Got 1963 tweets
+	Waiting until  2025-07-13 12:19:48 (0 min 44 sec)
+	2025-07-13 12:29:32 TooManyRequests - Got 2515 tweets
+	Waiting until  2025-07-13 12:34:55 (5 min 22 sec)
+	2025-07-13 12:45:57 TooManyRequests - Got 2991 tweets
+	Waiting until  2025-07-13 12:50:02 (4 min 4 sec)
+	2025-07-13 12:56:18 TooManyRequests - Got 3522 tweets
+	Waiting until  2025-07-13 13:05:09 (8 min 50 sec)
+	2025-07-13 13:06:34 No more tweets found
+	2025-07-13 13:06:34 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR dogecoin OR $DOGE OR "dollar doge") lang:en until:2025-4-18 since:2025-4-17'
+SEARCH = 'Latest'
+執行時間：2025-07-13 12:33:40 ~ 2025-07-13 14:05:44 (0 day 1 hr 32 min)
+推文數量：3058 (0 WrittingError)
+推文時間：Thu Apr 17 00:00:01 +0000 2025 ~ Thu Apr 17 23:56:53 +0000 2025 (GMT+0)
+Timestamp：
+	2025-07-13 12:33:40 Start
+	2025-07-13 12:33:41 FileNotFoundError
+	2025-07-13 12:42:53 TooManyRequests - Got 518 tweets
+	Waiting until  2025-07-13 12:48:32 (5 min 38 sec)
+	2025-07-13 12:57:07 TooManyRequests - Got 1088 tweets
+	Waiting until  2025-07-13 13:03:37 (6 min 29 sec)
+	2025-07-13 13:27:13 TooManyRequests - Got 2137 tweets
+	Waiting until  2025-07-13 13:35:01 (7 min 47 sec)
+	2025-07-13 14:01:03 TooManyRequests - Got 3030 tweets
+	Waiting until  2025-07-13 14:05:10 (4 min 6 sec)
+	2025-07-13 14:05:44 No more tweets found
+	2025-07-13 14:05:44 End
+

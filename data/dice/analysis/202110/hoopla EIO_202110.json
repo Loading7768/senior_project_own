@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "#dogecoin is happening you guys!!! https://t.co/1WGNTCpYPm",
+        "X_token": "dogecoin, happening, guys, https",
+        "X_tweet_count": 12,
+        "X_username": "hoopla EIO",
+        "Y_text": "Hey guys, #dogecoin is down by -1% https://t.co/SPQovBlA9z",
+        "Y_token": "hey, guys, dogecoin, https",
+        "Y_tweet_count": 19,
+        "Y_username": "hoopla EIO",
+        "X_length": 58,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "FYI #dogecoin is down 2.33% https://t.co/xiCfKee2th",
+        "X_token": "fyi, dogecoin, https",
+        "X_tweet_count": 20,
+        "X_username": "hoopla EIO",
+        "Y_text": "#dogecoin is down 7.95% https://t.co/HCHgUC4uyz",
+        "Y_token": "dogecoin, https",
+        "Y_tweet_count": 21,
+        "Y_username": "hoopla EIO",
+        "X_length": 51,
+        "Y_length": 47,
+        "Y_length_percent_of_X": 92.16,
+        "X_length_percent_of_Y": 108.51,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "#dogecoin is down 7.95% https://t.co/HCHgUC4uyz",
+        "X_token": "dogecoin, https",
+        "X_tweet_count": 21,
+        "X_username": "hoopla EIO",
+        "Y_text": "#dogecoin is now 3% up https://t.co/9mTbYnOkN3",
+        "Y_token": "dogecoin, 3, https",
+        "Y_tweet_count": 23,
+        "Y_username": "hoopla EIO",
+        "X_length": 47,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 97.87,
+        "X_length_percent_of_Y": 102.17,
+        "dice_coefficient": 80.0
+    }
+]

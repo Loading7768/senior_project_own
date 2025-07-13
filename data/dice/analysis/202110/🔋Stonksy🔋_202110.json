@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "What the what? #Dogecoin 👀 https://t.co/HlX3ZumcZe",
+        "X_token": "dogecoin, https",
+        "X_tweet_count": 16,
+        "X_username": "🔋Stonksy🔋",
+        "Y_text": "Happy Doge-o-ween! #Dogecoin \n🎃 👀 https://t.co/rshhOyPnmQ",
+        "Y_token": "happy, dogecoin, https",
+        "Y_tweet_count": 57,
+        "Y_username": "🔋Stonksy🔋",
+        "X_length": 50,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 114.0,
+        "X_length_percent_of_Y": 87.72,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Happy Doge-o-ween! #Dogecoin \n🎃 👀 https://t.co/rshhOyPnmQ",
+        "X_token": "happy, dogecoin, https",
+        "X_tweet_count": 57,
+        "X_username": "🔋Stonksy🔋",
+        "Y_text": "Happy almost Halloween 🎃 #Dogecoin https://t.co/4FxJ1uluJh",
+        "Y_token": "happy, almost, halloween, dogecoin, https",
+        "Y_tweet_count": 87,
+        "Y_username": "🔋Stonksy🔋",
+        "X_length": 57,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 101.75,
+        "X_length_percent_of_Y": 98.28,
+        "dice_coefficient": 75.0
+    }
+]

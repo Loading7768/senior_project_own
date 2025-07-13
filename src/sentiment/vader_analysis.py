@@ -17,8 +17,8 @@ download('vader_lexicon')
 sia = SentimentIntensityAnalyzer()
 
 # === 設定年份與月份（可自由更改）===
-YEAR = "2025"
-MONTH = "02"
+YEAR = "2019"
+MONTH = "03"
 
 # === 路徑設定 ===
 INPUT_DIR = f"../data/tweets/{COIN_SHORT_NAME}/{YEAR}/{MONTH}"

@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "You’re welcome - Ðogecoin 🐕\n\n[@dogecoin]",
+        "X_token": "welcome, ðogecoin, dogecoin",
+        "X_tweet_count": 16,
+        "X_username": "Dogewho",
+        "Y_text": "@vladtenev You’re welcome - Ðogecoin 🐕\n[@dogecoin]",
+        "Y_token": "vladtenev, welcome, ðogecoin, dogecoin",
+        "Y_tweet_count": 17,
+        "Y_username": "Dogewho",
+        "X_length": 40,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 125.0,
+        "X_length_percent_of_Y": 80.0,
+        "dice_coefficient": 85.71
+    }
+]

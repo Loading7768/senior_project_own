@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#DOGECOIN To the moon 🔥🔥🚀🚀🚀\n https://t.co/KZMbJv58OB",
+        "X_token": "dogecoin, moon, https",
+        "X_tweet_count": 9,
+        "X_username": "Mr. Doge and the coin",
+        "Y_text": "#DOGECOIN Very soon to the moon 🔥🔥🚀🚀🌕🌕💯 https://t.co/tEbPNGEX86",
+        "Y_token": "dogecoin, soon, moon, https",
+        "Y_tweet_count": 35,
+        "Y_username": "Mr. Doge and the coin",
+        "X_length": 52,
+        "Y_length": 63,
+        "Y_length_percent_of_X": 121.15,
+        "X_length_percent_of_Y": 82.54,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "#DOGECOIN To the moon 🔥🔥🚀🚀🚀\n https://t.co/KZMbJv58OB",
+        "X_token": "dogecoin, moon, https",
+        "X_tweet_count": 9,
+        "X_username": "Mr. Doge and the coin",
+        "Y_text": "Only #DOGECOIN 🔥🔥\n   https://t.co/TXF3u2zqLp",
+        "Y_token": "dogecoin, https",
+        "Y_tweet_count": 48,
+        "Y_username": "Mr. Doge and the coin",
+        "X_length": 52,
+        "Y_length": 44,
+        "Y_length_percent_of_X": 84.62,
+        "X_length_percent_of_Y": 118.18,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@davidgokhshtein @occupymars42069 #DOGECOIN hodl To the moon",
+        "X_token": "davidgokhshtein, occupymars42069, dogecoin, hodl, moon",
+        "X_tweet_count": 28,
+        "X_username": "Mr. Doge and the coin",
+        "Y_text": "@DOGE_ToThe_MOON #DOGECOIN hodl To the moon 🔥🔥🛸🛸🛸💯🌕",
+        "Y_token": "dogecoin, hodl, moon",
+        "Y_tweet_count": 47,
+        "Y_username": "Mr. Doge and the coin",
+        "X_length": 60,
+        "Y_length": 51,
+        "Y_length_percent_of_X": 85.0,
+        "X_length_percent_of_Y": 117.65,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@ShibaInuHodler @elonmusk Only #DOGECOIN",
+        "X_token": "shibainuhodler, elonmusk, dogecoin",
+        "X_tweet_count": 38,
+        "X_username": "Mr. Doge and the coin",
+        "Y_text": "@elonmusk @ShibaInuHodler Only #DOGECOIN",
+        "Y_token": "elonmusk, shibainuhodler, dogecoin",
+        "Y_tweet_count": 39,
+        "Y_username": "Mr. Doge and the coin",
+        "X_length": 40,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

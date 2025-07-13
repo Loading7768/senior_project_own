@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@StephanieDeat14 $DOGE https://t.co/T7KWbOwjOP",
+        "X_token": "stephaniedeat14, doge, https",
+        "X_tweet_count": 9,
+        "X_username": "SGT Esco ",
+        "Y_text": "Chertz….   $DOGE #DOGE https://t.co/ybFoKUAphK",
+        "Y_token": "doge, doge, https",
+        "Y_tweet_count": 12,
+        "Y_username": "SGT Esco ",
+        "X_length": 46,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Chertz….   $DOGE #DOGE https://t.co/ybFoKUAphK",
+        "X_token": "doge, doge, https",
+        "X_tweet_count": 12,
+        "X_username": "SGT Esco ",
+        "Y_text": "@lilyachty $dOgE https://t.co/Ub8hS8ZJ2n",
+        "Y_token": "lilyachty, doge, https",
+        "Y_tweet_count": 52,
+        "Y_username": "SGT Esco ",
+        "X_length": 46,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 86.96,
+        "X_length_percent_of_Y": 115.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@underthe_3 Have a great day…kk.    $DOGE https://t.co/UItBy3El8P",
+        "X_token": "great, doge, https",
+        "X_tweet_count": 17,
+        "X_username": "SGT Esco ",
+        "Y_text": "This….                                $DOgE https://t.co/h4kd0OwPDb",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 25,
+        "Y_username": "SGT Esco ",
+        "X_length": 65,
+        "Y_length": 67,
+        "Y_length_percent_of_X": 103.08,
+        "X_length_percent_of_Y": 97.01,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "$DOGE Tipz r Alwayz appreciated…NEVER expected!   Cheers! DAhRmoxf6cXZPRnaysBgVQwVq4aA5bpnqs",
+        "X_token": "doge, tipz, r, alwayz, expected, cheers, dahrmoxf6cxzprnaysbgvqwvq4aa5bpnqs",
+        "X_tweet_count": 37,
+        "X_username": "SGT Esco ",
+        "Y_text": "$DOGE tipz r alwayz appreciated…NEVER expected…Cheers!   DAhRmoxf6cXZPRnaysBgVQwVq4aA5bpnqs",
+        "Y_token": "doge, tipz, r, alwayz, dahrmoxf6cxzprnaysbgvqwvq4aa5bpnqs",
+        "Y_tweet_count": 41,
+        "Y_username": "SGT Esco ",
+        "X_length": 92,
+        "Y_length": 91,
+        "Y_length_percent_of_X": 98.91,
+        "X_length_percent_of_Y": 101.1,
+        "dice_coefficient": 83.33
+    }
+]

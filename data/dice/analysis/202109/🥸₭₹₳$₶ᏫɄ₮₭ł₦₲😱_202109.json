@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Day 3 of asking for a @McDonalds hat #dogearmy #DogecoinToTheMoon #dogecoin",
+        "X_token": "day, 3, asking, mcdonalds, hat, dogearmy, dogecointothemoon, dogecoin",
+        "X_tweet_count": 96,
+        "X_username": "🥸₭₹₳$₶ᏫɄ₮₭ł₦₲😱",
+        "Y_text": "Day 5 of asking for a @McDonalds #dogearmy hat. #dogecoin #AcceptDOGE",
+        "Y_token": "day, 5, asking, mcdonalds, dogearmy, hat, dogecoin, acceptdoge",
+        "Y_tweet_count": 121,
+        "Y_username": "🥸₭₹₳$₶ᏫɄ₮₭ł₦₲😱",
+        "X_length": 75,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 92.0,
+        "X_length_percent_of_Y": 108.7,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Day 4 of asking for a @McDonalds hat #dogecoin #AcceptDOGE",
+        "X_token": "day, 4, asking, mcdonalds, hat, dogecoin, acceptdoge",
+        "X_tweet_count": 107,
+        "X_username": "🥸₭₹₳$₶ᏫɄ₮₭ł₦₲😱",
+        "Y_text": "Day 5 of asking for a @McDonalds #dogearmy hat. #dogecoin #AcceptDOGE",
+        "Y_token": "day, 5, asking, mcdonalds, dogearmy, hat, dogecoin, acceptdoge",
+        "Y_tweet_count": 121,
+        "Y_username": "🥸₭₹₳$₶ᏫɄ₮₭ł₦₲😱",
+        "X_length": 58,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 118.97,
+        "X_length_percent_of_Y": 84.06,
+        "dice_coefficient": 80.0
+    }
+]

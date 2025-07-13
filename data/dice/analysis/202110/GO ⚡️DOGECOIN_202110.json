@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@kanyewest how could you be so doge-less? #dogecoin",
+        "X_token": "kanyewest, could, dogecoin",
+        "X_tweet_count": 11,
+        "X_username": "GO ⚡️DOGECOIN",
+        "Y_text": "How could you be so $DOGE-less? #dogecoin",
+        "Y_token": "could, dogecoin",
+        "Y_tweet_count": 12,
+        "Y_username": "GO ⚡️DOGECOIN",
+        "X_length": 51,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 80.39,
+        "X_length_percent_of_Y": 124.39,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Who thinks $DOGE price will go up in the next 2 weeks? #dogecoin",
+        "X_token": "thinks, doge, price, go, next, 2, weeks, dogecoin",
+        "X_tweet_count": 32,
+        "X_username": "GO ⚡️DOGECOIN",
+        "Y_text": "Who thinks $DOGE will be next to go way up? #dogecoin",
+        "Y_token": "thinks, doge, next, go, way, dogecoin",
+        "Y_tweet_count": 33,
+        "Y_username": "GO ⚡️DOGECOIN",
+        "X_length": 64,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 82.81,
+        "X_length_percent_of_Y": 120.75,
+        "dice_coefficient": 71.43
+    }
+]

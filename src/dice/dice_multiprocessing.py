@@ -20,7 +20,7 @@ import config
 '''可修改參數'''
 YEAR = "2021"
 
-MONTH = "08"
+MONTH = "12"
 
 FOLDER_PATH = f"../data/spammer/{YEAR}/{MONTH}"  # 選擇要對哪個資料夾執行
 # "../Kmeans/data/clustered/"
