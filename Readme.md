@@ -79,10 +79,7 @@
     sentiment_analysis.py：
         1. 設定好 "可修改參數"
         2. 執行完成可在 Sentiment/analysis 裡看到新增加 "sentiment": sentiment 的推文 json 檔，以及詳細分類評分在 txt 檔中 
-2019-3 4
-2020-1 2 3 4
-2021-3 4 8 9 10 11 12
-2022-1 2 3 4 5
+
 使用手冊(spammer, dice, filter_tweets, tweetCountAnalysis)：
 
     spammer_list.py：

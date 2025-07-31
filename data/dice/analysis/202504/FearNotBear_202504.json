@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@alifarhat79 $DOGE looking good here.",
+        "X_token": "alifarhat79, doge, looking, good",
+        "X_tweet_count": 14,
+        "X_username": "FearNotBear",
+        "Y_text": "@alifarhat79 $DOGE looking good here 😎",
+        "Y_token": "alifarhat79, doge, looking, good",
+        "Y_tweet_count": 16,
+        "Y_username": "FearNotBear",
+        "X_length": 37,
+        "Y_length": 38,
+        "Y_length_percent_of_X": 102.7,
+        "X_length_percent_of_Y": 97.37,
+        "dice_coefficient": 100.0
+    }
+]

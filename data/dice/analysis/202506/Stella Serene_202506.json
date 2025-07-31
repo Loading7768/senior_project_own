@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "A. $DOGE\nB. $PEPE\nC. $MEW\nD. $TURBO\n\n@oshan9 \n@DanujaChamath \n@Chalaka_",
+        "X_token": "doge, b, pepe, mew, turbo, oshan9, danujachamath",
+        "X_tweet_count": 1,
+        "X_username": "Stella Serene",
+        "Y_text": "@gateio_african A. $DOGE\nB. $PEPE\nC. $MEW\nD. $TURBO\n\n@oshan9 \n@DanujaChamath \n@Chalaka_",
+        "Y_token": "doge, b, pepe, mew, turbo, oshan9, danujachamath",
+        "Y_tweet_count": 2,
+        "Y_username": "Stella Serene",
+        "X_length": 71,
+        "Y_length": 87,
+        "Y_length_percent_of_X": 122.54,
+        "X_length_percent_of_Y": 81.61,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "A. $DOGE\nB. $PEPE\nC. $MEW\nD. $TURBO\n\n@MAXOKREAM\n@BoltStrummer\n@Ashk0\n\n👀 #GateCryptoGiveaway",
+        "X_token": "doge, b, pepe, mew, turbo, maxokream, boltstrummer, ashk0, gatecryptogiveaway",
+        "X_tweet_count": 3,
+        "X_username": "Stella Serene",
+        "Y_text": "@Gateio_zh A. $DOGE\nB. $PEPE\nC. $MEW\nD. $TURBO\n\n@MAXOKREAM\n@BoltStrummer\n@Ashk0\n\n👀 #GateCryptoGiveaway",
+        "Y_token": "doge, b, pepe, mew, turbo, maxokream, boltstrummer, ashk0, gatecryptogiveaway",
+        "Y_tweet_count": 4,
+        "Y_username": "Stella Serene",
+        "X_length": 91,
+        "Y_length": 102,
+        "Y_length_percent_of_X": 112.09,
+        "X_length_percent_of_Y": 89.22,
+        "dice_coefficient": 100.0
+    }
+]

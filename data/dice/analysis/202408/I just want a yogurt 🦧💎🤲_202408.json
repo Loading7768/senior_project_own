@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Why Are The Dogecoin And Shiba Inu Prices Struggling Today? - Mitrade https://t.co/DtrtBB7RoD",
+        "X_token": "dogecoin, shiba, inu, prices, struggling, today, mitrade, https",
+        "X_tweet_count": 1,
+        "X_username": "I just want a yogurt 🦧💎🤲",
+        "Y_text": "Why Are The Dogecoin And Shiba Inu Prices Struggling Today? | https://t.co/R78WqkWXNW https://t.co/fnPM1a5hSt",
+        "Y_token": "dogecoin, shiba, inu, prices, struggling, today, https, https",
+        "Y_tweet_count": 4,
+        "Y_username": "I just want a yogurt 🦧💎🤲",
+        "X_length": 93,
+        "Y_length": 109,
+        "Y_length_percent_of_X": 117.2,
+        "X_length_percent_of_Y": 85.32,
+        "dice_coefficient": 93.33
+    },
+    {
+        "X_text": "Dogecoin, Shiba Inu Fall As Ethereum Co-founder Vitalik Buterin Donates Over $500K ... - Benzinga https://t.co/qjL59BtKRY",
+        "X_token": "dogecoin, shiba, inu, fall, ethereum, vitalik, buterin, donates, 500k, benzinga, https",
+        "X_tweet_count": 3,
+        "X_username": "I just want a yogurt 🦧💎🤲",
+        "Y_text": "Dogecoin, Shiba Inu Fall As Ethereum Co-founder Vitalik Buterin Donates Over $500K ... https://t.co/Rzq5P6QGmH",
+        "Y_token": "dogecoin, shiba, inu, fall, ethereum, vitalik, buterin, donates, 500k, https",
+        "Y_tweet_count": 13,
+        "Y_username": "I just want a yogurt 🦧💎🤲",
+        "X_length": 121,
+        "Y_length": 110,
+        "Y_length_percent_of_X": 90.91,
+        "X_length_percent_of_Y": 110.0,
+        "dice_coefficient": 95.24
+    },
+    {
+        "X_text": "Why Bitcoin, Ethereum, and Dogecoin Are Sinking Today - ForexTV https://t.co/PRxwOj04IU",
+        "X_token": "bitcoin, ethereum, dogecoin, sinking, today, forextv, https",
+        "X_tweet_count": 6,
+        "X_username": "I just want a yogurt 🦧💎🤲",
+        "Y_text": "Why Bitcoin, Ethereum, and Dogecoin Are Sinking Today | Nasdaq https://t.co/wKHyWR3aPM",
+        "Y_token": "bitcoin, ethereum, dogecoin, sinking, today, nasdaq, https",
+        "Y_tweet_count": 8,
+        "Y_username": "I just want a yogurt 🦧💎🤲",
+        "X_length": 87,
+        "Y_length": 86,
+        "Y_length_percent_of_X": 98.85,
+        "X_length_percent_of_Y": 101.16,
+        "dice_coefficient": 85.71
+    }
+]

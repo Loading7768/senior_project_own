@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@doge_eth_gov @elonmusk $DOGE LETS GO",
+        "X_token": "elonmusk, doge, lets, go",
+        "X_tweet_count": 1,
+        "X_username": "BROSBEAN",
+        "Y_text": "@doge_eth_gov @DiligentDenizen $DOGE LETS GO",
+        "Y_token": "diligentdenizen, doge, lets, go",
+        "Y_tweet_count": 20,
+        "Y_username": "BROSBEAN",
+        "X_length": 37,
+        "Y_length": 44,
+        "Y_length_percent_of_X": 118.92,
+        "X_length_percent_of_Y": 84.09,
+        "dice_coefficient": 75.0
+    }
+]

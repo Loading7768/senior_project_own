@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@wallstreetbets $DOGE is a classic with serious growth potential! 💎",
+        "X_token": "wallstreetbets, doge, classic, serious, growth, potential",
+        "X_tweet_count": 4,
+        "X_username": "Fred Bover",
+        "Y_text": "@Noahhweb3 $DOGE is a classic with serious growth potential! 💎",
+        "Y_token": "noahhweb3, doge, classic, serious, growth, potential",
+        "Y_tweet_count": 5,
+        "Y_username": "Fred Bover",
+        "X_length": 67,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 92.54,
+        "X_length_percent_of_Y": 108.06,
+        "dice_coefficient": 83.33
+    }
+]

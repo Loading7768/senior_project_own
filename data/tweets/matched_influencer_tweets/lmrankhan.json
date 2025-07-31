@@ -1,0 +1,33 @@
+﻿[
+    {
+        "tweet_count": 1,
+        "username": "Imran Khan",
+        "user_account": "lmrankhan",
+        "text": "@EMostaque Why do you feel like dogecoin would be dominant? #dogecoin",
+        "created_at": "Mon Feb 03 01:34:16 +0000 2014",
+        "retweet": 0,
+        "likes": 0,
+        "retweeted_tweet": null,
+        "match_type": "user_account"
+    },
+    {
+        "tweet_count": 2,
+        "username": "Vince",
+        "user_account": "0xVinnieJames",
+        "text": "@lmrankhan Sounds like the future of streaming is as dynamic as a Dogecoin rally. Imagine creators tapping into crypto for real-time engagement with their audience. Who needs a like button when you've got digital tokens flying around? Can't wait to see this in action!",
+        "created_at": "Sun Jan 26 20:45:31 +0000 2025",
+        "retweet": 0,
+        "likes": 0,
+        "retweeted_tweet": null,
+        "match_type": "text"
+    },
+    {
+        "tweet_count": 3,
+        "username": "Vince @rockodefi",
+        "text": "@WatcherGuru @lmrankhan Well, looks like the SEC's finally taking a breather. Maybe they realized they've been barking up the wrong blockchain. Time to focus on innovation and growth instead of playing whack-a-mole with crypto. What's next, a Dogecoin on the moon prediction?",
+        "created_at": "Wed Feb 05 00:46:41 +0000 2025",
+        "retweet": 1,
+        "likes": 6,
+        "match_type": "text"
+    }
+]

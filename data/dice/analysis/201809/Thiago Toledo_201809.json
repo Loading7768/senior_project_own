@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@MSingularity @CharmCoastal @RancidPotato @dogecoin_devs @whitjck It was way before that.",
+        "X_token": "msingularity, charmcoastal, rancidpotato, whitjck, way",
+        "X_tweet_count": 79,
+        "X_username": "Thiago Toledo",
+        "Y_text": "@CharmCoastal @MSingularity @RancidPotato @dogecoin_devs Its the way money works.",
+        "Y_token": "charmcoastal, msingularity, rancidpotato, way, money, works",
+        "Y_tweet_count": 87,
+        "Y_username": "Thiago Toledo",
+        "X_length": 89,
+        "Y_length": 81,
+        "Y_length_percent_of_X": 91.01,
+        "X_length_percent_of_Y": 109.88,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@MSingularity @CharmCoastal @sabotagebeats @dogecoin_devs Can't*",
+        "X_token": "msingularity, charmcoastal, sabotagebeats, ca",
+        "X_tweet_count": 121,
+        "X_username": "Thiago Toledo",
+        "Y_text": "@CharmCoastal @MSingularity @sabotagebeats @dogecoin_devs Exactly",
+        "Y_token": "charmcoastal, msingularity, sabotagebeats, exactly",
+        "Y_tweet_count": 125,
+        "Y_username": "Thiago Toledo",
+        "X_length": 64,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 101.56,
+        "X_length_percent_of_Y": 98.46,
+        "dice_coefficient": 75.0
+    }
+]

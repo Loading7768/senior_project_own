@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@PraxMedia $DOGE is classic",
+        "X_token": "praxmedia, doge, classic",
+        "X_tweet_count": 3,
+        "X_username": "KrakenKing",
+        "Y_text": "@PraxMedia $DOGE is classic",
+        "Y_token": "praxmedia, doge, classic",
+        "Y_tweet_count": 12,
+        "Y_username": "KrakenKing",
+        "X_length": 27,
+        "Y_length": 27,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@coldweb3 $DOGE is classic",
+        "X_token": "coldweb3, doge, classic",
+        "X_tweet_count": 6,
+        "X_username": "KrakenKing",
+        "Y_text": "@coldweb3 $DOGE is classic",
+        "Y_token": "coldweb3, doge, classic",
+        "Y_tweet_count": 11,
+        "Y_username": "KrakenKing",
+        "X_length": 26,
+        "Y_length": 26,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

@@ -13,25 +13,26 @@ import config
 COIN = config.COIN_SHORT_NAME
 YEAR = '2021'
 MONTH = '05'
-FILENAME = f'{COIN}_{YEAR}_{MONTH}_tweet_price_summary.csv'
+TWEET_COUNT = 'original_count'  # 'normal_tweet_count'
+FILENAME = f'{COIN}_esimate_price.csv'  # f'{COIN}_{YEAR}_{MONTH}_tweet_price_summary.csv'
 
-SUMMARY_PATH = f'../data/tweets/summary/{FILENAME}'
+SUMMARY_PATH = f'../data/tweets/count/estimate/{FILENAME}'  # f'../data/tweets/summary/{FILENAME}'
 OUTPUT_FOLDER = '../outputs/figures/'
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # === 讀取與整理資料 ===
 df = pd.read_csv(SUMMARY_PATH)
-df['normal_tweet_count'] = pd.to_numeric(df['normal_tweet_count'], errors='coerce')
+df[TWEET_COUNT] = pd.to_numeric(df[TWEET_COUNT], errors='coerce')
 df['close_price'] = pd.to_numeric(df['close_price'], errors='coerce')
-df.dropna(subset=['normal_tweet_count', 'close_price'], inplace=True)
+df.dropna(subset=[TWEET_COUNT, 'close_price'], inplace=True)
 
 # === 同步皮爾森相關分析 ===
-correlation, p_value = pearsonr(df['normal_tweet_count'], df['close_price'])
+correlation, p_value = pearsonr(df[TWEET_COUNT], df['close_price'])
 print(f"【{FILENAME}】Correlation: {correlation:.4f}, p-value: {p_value:.4f}")
 
 # === 畫同步散佈圖 ===
 plt.figure(figsize=(8, 6))
-plt.scatter(df['normal_tweet_count'], df['close_price'], alpha=0.7)
+plt.scatter(df[TWEET_COUNT], df['close_price'], alpha=0.7)
 plt.title(f'{FILENAME}\nCorrelation: {correlation:.4f}, p-value: {p_value:.4f}')
 plt.xlabel('Tweet Count')
 plt.ylabel('Close Price')
@@ -50,10 +51,10 @@ lag_results = []
 for lag in range(-max_lag, max_lag + 1):
     shifted_df = df.copy()
     shifted_df['shifted_price'] = shifted_df['close_price'].shift(-lag)
-    shifted_df.dropna(subset=['normal_tweet_count', 'shifted_price'], inplace=True)
+    shifted_df.dropna(subset=[TWEET_COUNT, 'shifted_price'], inplace=True)
 
     if len(shifted_df) > 1:  # 至少需要兩個點才能計算相關
-        corr, p = pearsonr(shifted_df['normal_tweet_count'], shifted_df['shifted_price'])
+        corr, p = pearsonr(shifted_df[TWEET_COUNT], shifted_df['shifted_price'])
         lag_results.append((lag, corr, p))
     else:
         lag_results.append((lag, None, None))

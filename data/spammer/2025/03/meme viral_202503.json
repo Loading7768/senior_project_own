@@ -163,10 +163,28 @@
         {
             "tweet_count": 21,
             "username": "meme viral",
+            "text": "@cb_doge I will buy when elon musk accepts dogecoin 🕺🕺🕺",
+            "created_at": "Sun Mar 16 02:56:44 +0000 2025",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 22,
+            "username": "meme viral",
             "text": "@elonmusk I will buy Tesla if Elon Musk accept dogecoin",
             "created_at": "Wed Mar 19 23:26:08 +0000 2025",
             "retweet": 2,
             "likes": 1
+        },
+        {
+            "tweet_count": 23,
+            "username": "meme viral",
+            "user_account": "kajjaflari",
+            "text": "@cb_doge Dogecoin To the moon",
+            "created_at": "Sat Mar 29 00:38:43 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
         }
     ]
 }

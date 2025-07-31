@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@raafi_shop @7Stephn @grok Enjoy sir\nhttps://t.co/ncbyr4z7oe https://t.co/YTqri2aazp",
+        "X_token": "7stephn, grok, enjoy, sir, https, https",
+        "X_tweet_count": 5,
+        "X_username": "Dogeparty blocked me",
+        "Y_text": "@7Stephn @grok @raafi_shop Enjoy sir\nhttps://t.co/Cu0rBACKng https://t.co/ITkRC6Yfzg",
+        "Y_token": "7stephn, grok, enjoy, sir, https, https",
+        "Y_tweet_count": 6,
+        "Y_username": "Dogeparty blocked me",
+        "X_length": 84,
+        "Y_length": 84,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@binance My community blocked me\n#Dogeparty #Dogecoin https://t.co/gtR08POdQQ",
+        "X_token": "binance, community, blocked, dogeparty, dogecoin, https",
+        "X_tweet_count": 8,
+        "X_username": "Dogeparty blocked me",
+        "Y_text": "@dogecoin @dogeofficialceo Dogeparty blocked me https://t.co/XNHjX1zFcl",
+        "Y_token": "dogecoin, dogeofficialceo, dogeparty, blocked, https",
+        "Y_tweet_count": 38,
+        "Y_username": "Dogeparty blocked me",
+        "X_length": 77,
+        "Y_length": 71,
+        "Y_length_percent_of_X": 92.21,
+        "X_length_percent_of_Y": 108.45,
+        "dice_coefficient": 72.73
+    }
+]

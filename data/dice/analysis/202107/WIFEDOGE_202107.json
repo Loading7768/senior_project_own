@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#doge #dogecoin \nlove u doge https://t.co/YMdBGKqQUS",
+        "X_token": "doge, dogecoin, love, u, doge, https",
+        "X_tweet_count": 3,
+        "X_username": "WIFEDOGE",
+        "Y_text": "#doge #dogecoin \nlove doge https://t.co/GfkRyDhT4P",
+        "Y_token": "doge, dogecoin, love, doge, https",
+        "Y_tweet_count": 6,
+        "Y_username": "WIFEDOGE",
+        "X_length": 52,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 96.15,
+        "X_length_percent_of_Y": 104.0,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "#doge #dogecoin \ndecadent https://t.co/O2x1y5ilVJ",
+        "X_token": "doge, dogecoin, decadent, https",
+        "X_tweet_count": 4,
+        "X_username": "WIFEDOGE",
+        "Y_text": "#doge #dogecoin \nlove doge https://t.co/GfkRyDhT4P",
+        "Y_token": "doge, dogecoin, love, doge, https",
+        "Y_tweet_count": 6,
+        "Y_username": "WIFEDOGE",
+        "X_length": 49,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 102.04,
+        "X_length_percent_of_Y": 98.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "#doge #dogecoin \ndecadent https://t.co/O2x1y5ilVJ",
+        "X_token": "doge, dogecoin, decadent, https",
+        "X_tweet_count": 4,
+        "X_username": "WIFEDOGE",
+        "Y_text": "#doge #dogecoin\ndoge sunflower https://t.co/2vtWx6yTEn",
+        "Y_token": "doge, dogecoin, doge, sunflower, https",
+        "Y_tweet_count": 7,
+        "Y_username": "WIFEDOGE",
+        "X_length": 49,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 110.2,
+        "X_length_percent_of_Y": 90.74,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "#doge #dogecoin \nlove doge https://t.co/GfkRyDhT4P",
+        "X_token": "doge, dogecoin, love, doge, https",
+        "X_tweet_count": 6,
+        "X_username": "WIFEDOGE",
+        "Y_text": "#doge #dogecoin\ndoge sunflower https://t.co/2vtWx6yTEn",
+        "Y_token": "doge, dogecoin, doge, sunflower, https",
+        "Y_tweet_count": 7,
+        "Y_username": "WIFEDOGE",
+        "X_length": 50,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 108.0,
+        "X_length_percent_of_Y": 92.59,
+        "dice_coefficient": 75.0
+    }
+]

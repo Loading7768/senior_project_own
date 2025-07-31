@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "The best way to promote any brand is to tweet about #Dogecoin 🚀",
+        "X_token": "best, way, promote, brand, tweet, dogecoin",
+        "X_tweet_count": 18,
+        "X_username": "Max DeGilio",
+        "Y_text": "Best way to promote your OF is too tweet about #dogecoin",
+        "Y_token": "best, way, promote, tweet, dogecoin",
+        "Y_tweet_count": 19,
+        "Y_username": "Max DeGilio",
+        "X_length": 63,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 88.89,
+        "X_length_percent_of_Y": 112.5,
+        "dice_coefficient": 90.91
+    },
+    {
+        "X_text": "#Dogecoin will prove the haters wrong!",
+        "X_token": "dogecoin, prove, haters, wrong",
+        "X_tweet_count": 20,
+        "X_username": "Max DeGilio",
+        "Y_text": "#dogecoin will prove everyone wrong!",
+        "Y_token": "dogecoin, prove, everyone, wrong",
+        "Y_tweet_count": 39,
+        "Y_username": "Max DeGilio",
+        "X_length": 38,
+        "Y_length": 36,
+        "Y_length_percent_of_X": 94.74,
+        "X_length_percent_of_Y": 105.56,
+        "dice_coefficient": 75.0
+    }
+]

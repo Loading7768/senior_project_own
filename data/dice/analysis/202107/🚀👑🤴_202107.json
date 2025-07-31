@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@GerberKawasaki If you are not long Dogecoin, you are short TSLA.\n\nIf you are short TSLA, you are short Dogecoin https://t.co/lGvab02yGU",
+        "X_token": "gerberkawasaki, long, dogecoin, short, tsla, short, tsla, short, dogecoin, https",
+        "X_tweet_count": 19,
+        "X_username": "🚀👑🤴",
+        "Y_text": "@GerberKawasaki @matthewesp @elonmusk @greg16676935420 Buy Dogecoin. You cannot be long Tesla and short Dogecoin.\n\nLONG TSLA AND LONG DOGECOIN🤝 https://t.co/CLQeo4Lws1",
+        "Y_token": "gerberkawasaki, matthewesp, elonmusk, greg16676935420, buy, dogecoin, long, tesla, short, dogecoin, long, tsla, long, https",
+        "Y_tweet_count": 26,
+        "Y_username": "🚀👑🤴",
+        "X_length": 136,
+        "Y_length": 167,
+        "Y_length_percent_of_X": 122.79,
+        "X_length_percent_of_Y": 81.44,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "@GerberKawasaki If you don't own Dogecoin. You are wrong or poor",
+        "X_token": "gerberkawasaki, dogecoin, wrong, poor",
+        "X_tweet_count": 35,
+        "X_username": "🚀👑🤴",
+        "Y_text": "@coinmamba If you don't have Dogecoin. You are wrong or poor",
+        "Y_token": "coinmamba, dogecoin, wrong, poor",
+        "Y_tweet_count": 36,
+        "Y_username": "🚀👑🤴",
+        "X_length": 64,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 93.75,
+        "X_length_percent_of_Y": 106.67,
+        "dice_coefficient": 75.0
+    }
+]

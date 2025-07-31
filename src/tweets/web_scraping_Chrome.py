@@ -24,9 +24,9 @@ COIN_SHORT_NAME = config.COIN_SHORT_NAME
 
 SITE = "twitter.com"
 
-START_DATE = datetime(2025, 7, 10)  # 查詢開始日期
+START_DATE = datetime(2019, 3, 15)  # 查詢開始日期
 
-DAY_COUNT = 1  # 要連續找幾天
+DAY_COUNT = 16  # 要連續找幾天
 
 QUERY = f"{COIN_NAME}+site:{SITE}"
 '''可修改參數'''
@@ -61,7 +61,7 @@ def get_result_count_for_date(driver, query, date_str):
     )
     driver.get(url)
 
-    input("暫停（按 Enter 繼續）")
+    # input("暫停（按 Enter 繼續）")
 
     # 模擬人類行為：小滾動與滑鼠 hover
     time.sleep(random.uniform(1, 2))

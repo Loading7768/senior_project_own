@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Thanks for the $DOGE joke, @elonmusk https://t.co/hFSICJKl7z",
+        "X_token": "thanks, doge, joke, elonmusk, https",
+        "X_tweet_count": 8,
+        "X_username": "Nishant Bhardwaj",
+        "Y_text": "As soon as @elonmusk made the $DOGE joke. https://t.co/bouyKwKTrv",
+        "Y_token": "soon, elonmusk, made, doge, joke, https",
+        "Y_tweet_count": 10,
+        "Y_username": "Nishant Bhardwaj",
+        "X_length": 60,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 108.33,
+        "X_length_percent_of_Y": 92.31,
+        "dice_coefficient": 72.73
+    }
+]

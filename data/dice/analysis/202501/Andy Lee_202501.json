@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@StackerSatoshi $DOGE\n\nBecause \n\nDoge father is Elon \n\nhttps://t.co/LWmsjeegXT",
+        "X_token": "stackersatoshi, doge, doge, father, elon, https",
+        "X_tweet_count": 30,
+        "X_username": "Andy Lee",
+        "Y_text": "@Investments_CEO $DOGE\n\nDoge father Elon\n\nhttps://t.co/LWmsjeegXT",
+        "Y_token": "doge, doge, father, elon, https",
+        "Y_tweet_count": 31,
+        "Y_username": "Andy Lee",
+        "X_length": 78,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 83.33,
+        "X_length_percent_of_Y": 120.0,
+        "dice_coefficient": 88.89
+    }
+]

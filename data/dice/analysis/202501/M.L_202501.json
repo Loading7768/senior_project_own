@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@YoBenCohen @DOGE @dogevsblob @dogecoin @elonmusk @doge_eth_gov What common sense clearly shows will happen in six months from now https://t.co/1CpI5d0T1f",
+        "X_token": "yobencohen, doge, dogevsblob, dogecoin, elonmusk, common, sense, clearly, shows, happen, six, months, https",
+        "X_tweet_count": 7,
+        "X_username": "M.L",
+        "Y_text": "@YoBenCohen @DOGE @dogevsblob @dogecoin @elonmusk @doge_eth_gov What is about to happen in the coming months https://t.co/9qroxwxyyQ",
+        "Y_token": "yobencohen, doge, dogevsblob, dogecoin, elonmusk, happen, coming, months, https",
+        "Y_tweet_count": 8,
+        "Y_username": "M.L",
+        "X_length": 154,
+        "Y_length": 132,
+        "Y_length_percent_of_X": 85.71,
+        "X_length_percent_of_Y": 116.67,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@YoBenCohen @DOGE @dogevsblob @dogecoin @elonmusk @doge_eth_gov What is about to happen in the coming months https://t.co/9qroxwxyyQ",
+        "X_token": "yobencohen, doge, dogevsblob, dogecoin, elonmusk, happen, coming, months, https",
+        "X_tweet_count": 8,
+        "X_username": "M.L",
+        "Y_text": "@YoBenCohen @DOGE @dogevsblob @dogecoin @elonmusk @doge_eth_gov This is a conversation between D.O.G.E and the Blob https://t.co/XGN8KWEzH8",
+        "Y_token": "yobencohen, doge, dogevsblob, dogecoin, elonmusk, conversation, blob, https",
+        "Y_tweet_count": 12,
+        "Y_username": "M.L",
+        "X_length": 132,
+        "Y_length": 139,
+        "Y_length_percent_of_X": 105.3,
+        "X_length_percent_of_Y": 94.96,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "@YoBenCohen @DOGE @dogevsblob @dogecoin @elonmusk @doge_eth_gov A conversation heard amongst U.S.  Soldiers https://t.co/NpMtriBT7r",
+        "X_token": "yobencohen, doge, dogevsblob, dogecoin, elonmusk, conversation, heard, amongst, soldiers, https",
+        "X_tweet_count": 9,
+        "X_username": "M.L",
+        "Y_text": "@YoBenCohen @DOGE @dogevsblob @dogecoin @elonmusk @doge_eth_gov This is a conversation between D.O.G.E and the Blob https://t.co/XGN8KWEzH8",
+        "Y_token": "yobencohen, doge, dogevsblob, dogecoin, elonmusk, conversation, blob, https",
+        "Y_tweet_count": 12,
+        "Y_username": "M.L",
+        "X_length": 131,
+        "Y_length": 139,
+        "Y_length_percent_of_X": 106.11,
+        "X_length_percent_of_Y": 94.24,
+        "dice_coefficient": 77.78
+    },
+    {
+        "X_text": "@YoBenCohen @DOGE @dogevsblob @dogecoin @elonmusk @doge_eth_gov What literally is happening right now https://t.co/y10eeoh0tV",
+        "X_token": "yobencohen, doge, dogevsblob, dogecoin, elonmusk, literally, happening, right, https",
+        "X_tweet_count": 10,
+        "X_username": "M.L",
+        "Y_text": "@YoBenCohen @DOGE @dogevsblob @dogecoin @elonmusk @doge_eth_gov This is a conversation between D.O.G.E and the Blob https://t.co/XGN8KWEzH8",
+        "Y_token": "yobencohen, doge, dogevsblob, dogecoin, elonmusk, conversation, blob, https",
+        "Y_tweet_count": 12,
+        "Y_username": "M.L",
+        "X_length": 125,
+        "Y_length": 139,
+        "Y_length_percent_of_X": 111.2,
+        "X_length_percent_of_Y": 89.93,
+        "dice_coefficient": 70.59
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "GM $DOGE weirdos,  your breath smells like clam chowder and green olives... brush yer teeth! https://t.co/fgcsKfqjlc",
+        "X_token": "gm, doge, weirdos, breath, smells, like, clam, chowder, green, olives, brush, yer, teeth, https",
+        "X_tweet_count": 2,
+        "X_username": "SGT Esco ",
+        "Y_text": "GM $DOGE weirdos... your breath smells like smoked oysters and feta cheese, brush yer teeth! https://t.co/oVq7rUGF6n",
+        "Y_token": "gm, doge, weirdos, breath, smells, like, smoked, oysters, feta, cheese, brush, yer, teeth, https",
+        "Y_tweet_count": 21,
+        "Y_username": "SGT Esco ",
+        "X_length": 116,
+        "Y_length": 116,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "So I guess the trending topic on this platform is people being \"demon eyezed\" .... why are you all being DEMONS anyway? $DOGE",
+        "X_token": "guess, trending, topic, platform, people, demon, eyezed, demons, anyway, doge",
+        "X_tweet_count": 11,
+        "X_username": "SGT Esco ",
+        "Y_text": "So I guess the trending topic on this platform being \"demon eyezed\" .... why yall being DEMONS anyway? $DOGE",
+        "Y_token": "guess, trending, topic, platform, demon, eyezed, yall, demons, anyway, doge",
+        "Y_tweet_count": 12,
+        "Y_username": "SGT Esco ",
+        "X_length": 125,
+        "Y_length": 108,
+        "Y_length_percent_of_X": 86.4,
+        "X_length_percent_of_Y": 115.74,
+        "dice_coefficient": 90.0
+    },
+    {
+        "X_text": "@dogeofficialceo I'm a teach mine to HoDL $DOGE https://t.co/W13I8d5O7W",
+        "X_token": "dogeofficialceo, teach, mine, hodl, doge, https",
+        "X_tweet_count": 53,
+        "X_username": "SGT Esco ",
+        "Y_text": "If i had a Teslabot, i.epuld teach it to HoDL $DOGE https://t.co/anohuGWn0E",
+        "Y_token": "teslabot, teach, hodl, doge, https",
+        "Y_tweet_count": 54,
+        "Y_username": "SGT Esco ",
+        "X_length": 71,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 105.63,
+        "X_length_percent_of_Y": 94.67,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "Gm $DOGE weirdos, msy your Friday be fabulous 👌 https://t.co/ErxPZkLmFC",
+        "X_token": "gm, doge, weirdos, msy, friday, fabulous, https",
+        "X_tweet_count": 84,
+        "X_username": "SGT Esco ",
+        "Y_text": "GM $DOGE weirdos, it's Friday. Stay frosty! ❤️ https://t.co/i3WbTMlR1V",
+        "Y_token": "gm, doge, weirdos, friday, stay, frosty, https",
+        "Y_tweet_count": 92,
+        "Y_username": "SGT Esco ",
+        "X_length": 71,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 98.59,
+        "X_length_percent_of_Y": 101.43,
+        "dice_coefficient": 71.43
+    }
+]

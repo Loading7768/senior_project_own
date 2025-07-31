@@ -18,9 +18,9 @@ sys.path.append(str(parent_dir))
 import config
 
 '''可修改參數'''
-YEAR = "2021"
+YEAR = "2025"
 
-MONTH = "12"
+MONTH = "06"
 
 FOLDER_PATH = f"../data/spammer/{YEAR}/{MONTH}"  # 選擇要對哪個資料夾執行
 # "../Kmeans/data/clustered/"

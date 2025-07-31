@@ -613,5 +613,35 @@
         "Y_length_percent_of_X": 86.05,
         "X_length_percent_of_Y": 116.22,
         "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@rektcapital AND $Dogi that is the first token on #Dogecoin? The silence is deafening.....  🤔\n\n#Doginals #Ordinals \n$DOGE",
+        "X_token": "rektcapital, dogi, first, token, dogecoin, silence, deafening, doginals, ordinals, doge",
+        "X_tweet_count": 19,
+        "X_username": "The turtle turned hare",
+        "Y_text": "@cryptodailyTS AND $Dogi that is the first token on #Dogecoin? 🧐 \nThe silence is deafening.....\n\n#Doginals #Ordinals \n$DOGE",
+        "Y_token": "cryptodailyts, dogi, first, token, dogecoin, silence, deafening, doginals, ordinals, doge",
+        "Y_tweet_count": 20,
+        "Y_username": "The turtle turned hare",
+        "X_length": 121,
+        "Y_length": 123,
+        "Y_length_percent_of_X": 101.65,
+        "X_length_percent_of_Y": 98.37,
+        "dice_coefficient": 90.0
+    },
+    {
+        "X_text": "@ElonMuskPDA AND $Dogi that is the first token on #Dogecoin? 🧐 \n\n#Doginals #Ordinals \n$DOGE",
+        "X_token": "elonmuskpda, dogi, first, token, dogecoin, doginals, ordinals, doge",
+        "X_tweet_count": 21,
+        "X_username": "The turtle turned hare",
+        "Y_text": "@nobrainflip AND $Dogi that is the first token on #Dogecoin?\n\n#Doginals #Ordinals \n$DOGE",
+        "Y_token": "nobrainflip, dogi, first, token, dogecoin, doginals, ordinals, doge",
+        "Y_tweet_count": 22,
+        "Y_username": "The turtle turned hare",
+        "X_length": 91,
+        "Y_length": 88,
+        "Y_length_percent_of_X": 96.7,
+        "X_length_percent_of_Y": 103.41,
+        "dice_coefficient": 87.5
     }
 ]

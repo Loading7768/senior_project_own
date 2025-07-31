@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Who else is bullish? 🚀\n\n$DOGE $DC $OMNOM   #Dogechain https://t.co/eAXFcHxUzy",
+        "X_token": "else, bullish, doge, dc, omnom, dogechain, https",
+        "X_tweet_count": 1,
+        "X_username": "M@rcel the Dogechain Guy",
+        "Y_text": "When the DOGE goes up, the #Dogechain Family goes up!\n\n$DOGE $DC $OMNOM https://t.co/xmdZj0ezSz",
+        "Y_token": "doge, goes, dogechain, family, goes, doge, dc, omnom, https",
+        "Y_tweet_count": 3,
+        "Y_username": "M@rcel the Dogechain Guy",
+        "X_length": 77,
+        "Y_length": 95,
+        "Y_length_percent_of_X": 123.38,
+        "X_length_percent_of_Y": 81.05,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "@TheCrowtrades Dogecoin has no limits!",
+        "X_token": "thecrowtrades, dogecoin, limits",
+        "X_tweet_count": 23,
+        "X_username": "M@rcel the Dogechain Guy",
+        "Y_text": "@_dogegod_ Dogecoin has no limits!",
+        "Y_token": "dogecoin, limits",
+        "Y_tweet_count": 24,
+        "Y_username": "M@rcel the Dogechain Guy",
+        "X_length": 38,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 89.47,
+        "X_length_percent_of_Y": 111.76,
+        "dice_coefficient": 80.0
+    }
+]

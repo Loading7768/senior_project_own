@@ -6,8 +6,8 @@ import re
 # === 自訂參數 ===
 JSON_COIN = "dogecoin"
 COIN_TYPE = "DOGE"
-YEAR = "2021"
-MONTH = "04"
+YEAR = "2025"
+MONTH = "06"
 
 
 def sanitize_filename(name):

@@ -3525,6 +3525,21 @@
         "dice_coefficient": 100.0
     },
     {
+        "X_text": "$DOGE is going to $2\n\nLike this post if u believe it ! #DOGE #Dogecoin https://t.co/4k4IeUlGRU",
+        "X_token": "doge, going, 2, like, post, u, believe, doge, dogecoin, https",
+        "X_tweet_count": 150,
+        "X_username": "Dr. Lightning",
+        "Y_text": "$DOGE is going to $2\n\nLike this post if u believe it ! #DOGE https://t.co/oAiOFy17Xu",
+        "Y_token": "doge, going, 2, like, post, u, believe, doge, https",
+        "Y_tweet_count": 181,
+        "Y_username": "Dr. Lightning",
+        "X_length": 94,
+        "Y_length": 84,
+        "Y_length_percent_of_X": 89.36,
+        "X_length_percent_of_Y": 111.9,
+        "dice_coefficient": 94.12
+    },
+    {
         "X_text": "If #Doge hits $0.45 within 24 hours, I’ll be picking 5 peoples who like and share this post to win $200 each!\n\nLet’s do it\n\n$DOGE #DOGE #DogecoinToTheMoon #Dogecoin https://t.co/3l1BCfbNlC",
         "X_token": "doge, hits, within, 24, hours, picking, 5, peoples, like, share, post, win, 200, let, doge, doge, dogecointothemoon, dogecoin, https",
         "X_tweet_count": 155,
@@ -3733,6 +3748,21 @@
         "Y_length_percent_of_X": 104.68,
         "X_length_percent_of_Y": 95.53,
         "dice_coefficient": 76.47
+    },
+    {
+        "X_text": "$DOGE is going to $2\n\nLike this post if u believe it ! #DOGE #Dogecoin https://t.co/Oreh0XDg9c",
+        "X_token": "doge, going, 2, like, post, u, believe, doge, dogecoin, https",
+        "X_tweet_count": 167,
+        "X_username": "Dr. Lightning",
+        "Y_text": "$DOGE is going to $2\n\nLike this post if u believe it ! #DOGE https://t.co/oAiOFy17Xu",
+        "Y_token": "doge, going, 2, like, post, u, believe, doge, https",
+        "Y_tweet_count": 181,
+        "Y_username": "Dr. Lightning",
+        "X_length": 94,
+        "Y_length": 84,
+        "Y_length_percent_of_X": 89.36,
+        "X_length_percent_of_Y": 111.9,
+        "dice_coefficient": 94.12
     },
     {
         "X_text": "If #DOGE hits $0.45 within 2 hours, I’ll pick 10 peoples who like and retweet this post to win $600 each! 🚀\n\nLet’s make it happen! 💸\n\n$DOGE #Doge #Dogecoin https://t.co/XePCqh3e0x",

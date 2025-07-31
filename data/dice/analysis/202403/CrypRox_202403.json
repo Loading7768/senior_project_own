@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@inevitable360 👀 Much WoW  #Dogecoin #RealEstate https://t.co/Fz4eSuqhGD",
+        "X_token": "inevitable360, much, wow, dogecoin, realestate, https",
+        "X_tweet_count": 3,
+        "X_username": "CrypRox",
+        "Y_text": "@MyDogeOfficial Much wow #Dogecoin https://t.co/x4TLPi8Yv9",
+        "Y_token": "mydogeofficial, much, wow, dogecoin, https",
+        "Y_tweet_count": 4,
+        "Y_username": "CrypRox",
+        "X_length": 72,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 80.56,
+        "X_length_percent_of_Y": 124.14,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@inevitable360 @DogecoinFdn @michilumin Much wow!\n\n#Dogecoin #GigaWallet #RadioDoge https://t.co/Gk5eNvGuqI",
+        "X_token": "inevitable360, dogecoinfdn, michilumin, much, wow, dogecoin, gigawallet, radiodoge, https",
+        "X_tweet_count": 18,
+        "X_username": "CrypRox",
+        "Y_text": "@tjstebbing Much wow! #Radiodoge #Dogecoin #starlink #GigaWallet https://t.co/mgOtoaaKSh",
+        "Y_token": "tjstebbing, much, wow, radiodoge, dogecoin, starlink, gigawallet, https",
+        "Y_tweet_count": 24,
+        "Y_username": "CrypRox",
+        "X_length": 107,
+        "Y_length": 88,
+        "Y_length_percent_of_X": 82.24,
+        "X_length_percent_of_Y": 121.59,
+        "dice_coefficient": 70.59
+    }
+]

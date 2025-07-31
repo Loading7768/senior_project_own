@@ -127,6 +127,16 @@
             "created_at": "Tue Mar 18 03:29:27 +0000 2025",
             "retweet": 4,
             "likes": 3
+        },
+        {
+            "tweet_count": 17,
+            "username": "Doge Van Java",
+            "user_account": "Dogevanjava",
+            "text": "As more dogs attack humans, the dogecoin community must play a bigger role, such as educating dog owners or even providing insurance for dog attack victims.",
+            "created_at": "Fri Mar 28 07:25:49 +0000 2025",
+            "retweet": 2,
+            "likes": 5,
+            "retweeted_tweet": null
         }
     ]
 }

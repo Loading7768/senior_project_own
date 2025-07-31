@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "X_text": "@innoutburger_ @innoutburger_ But will you accept Dogecoin for payment? 🍔🐕🚀",
+        "X_token": "accept, dogecoin, payment",
+        "X_tweet_count": 5,
+        "X_username": "thedogelist",
+        "Y_text": "@antiquestoreguy @antiquestoreguy do you accept Dogecoin for payment?",
+        "Y_token": "antiquestoreguy, antiquestoreguy, accept, dogecoin, payment",
+        "Y_tweet_count": 126,
+        "Y_username": "thedogelist",
+        "X_length": 75,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 92.0,
+        "X_length_percent_of_Y": 108.7,
+        "dice_coefficient": 85.71
+    }
+]

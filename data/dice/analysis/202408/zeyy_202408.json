@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@AlexanderGuru_ $dogi the first token deployed on dogecoin inscription 👑",
+        "X_token": "dogi, first, token, deployed, dogecoin, inscription",
+        "X_tweet_count": 3,
+        "X_username": "zeyy",
+        "Y_text": "@Sartoshi0x $dogi the first token deployed on dogecoin inscription ✍️",
+        "Y_token": "sartoshi0x, dogi, first, token, deployed, dogecoin, inscription",
+        "Y_tweet_count": 7,
+        "Y_username": "zeyy",
+        "X_length": 72,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 95.83,
+        "X_length_percent_of_Y": 104.35,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "@Sartoshi0x $dogi the first token deployed on dogecoin inscription ✍️",
+        "X_token": "sartoshi0x, dogi, first, token, deployed, dogecoin, inscription",
+        "X_tweet_count": 7,
+        "X_username": "zeyy",
+        "Y_text": "@1000xgirl Yes $dogi the first token deployed on dogecoin",
+        "Y_token": "1000xgirl, yes, dogi, first, token, deployed, dogecoin",
+        "Y_tweet_count": 13,
+        "Y_username": "zeyy",
+        "X_length": 69,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 82.61,
+        "X_length_percent_of_Y": 121.05,
+        "dice_coefficient": 71.43
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "The official Department of Government Efficiency website now features a new logo. $DOGE 🚀🌕 https://t.co/J1fjdMpWXg",
+        "X_token": "official, department, government, efficiency, website, features, new, logo, doge, https",
+        "X_tweet_count": 32,
+        "X_username": "Chandler⚡️",
+        "Y_text": "$DOGE is also in the source code of the official Department of Government Efficiency website. 🤣 https://t.co/Ks9Q5ymwCU",
+        "Y_token": "doge, also, source, code, official, department, government, efficiency, website, https",
+        "Y_tweet_count": 42,
+        "Y_username": "Chandler⚡️",
+        "X_length": 114,
+        "Y_length": 119,
+        "Y_length_percent_of_X": 104.39,
+        "X_length_percent_of_Y": 95.8,
+        "dice_coefficient": 70.0
+    },
+    {
+        "X_text": "The official Department of Government Efficiency website now features a new logo. $DOGE 🚀🌕 https://t.co/J1fjdMpWXg",
+        "X_token": "official, department, government, efficiency, website, features, new, logo, doge, https",
+        "X_tweet_count": 32,
+        "X_username": "Chandler⚡️",
+        "Y_text": "Official Department of Government Efficiency website is live featuring the $DOGE logo 👀 https://t.co/8nTAcGR6ST",
+        "Y_token": "official, department, government, efficiency, website, live, featuring, doge, logo, https",
+        "Y_tweet_count": 44,
+        "Y_username": "Chandler⚡️",
+        "X_length": 114,
+        "Y_length": 111,
+        "Y_length_percent_of_X": 97.37,
+        "X_length_percent_of_Y": 102.7,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "$DOGE is also in the source code of the official Department of Government Efficiency website. 🤣 https://t.co/Ks9Q5ymwCU",
+        "X_token": "doge, also, source, code, official, department, government, efficiency, website, https",
+        "X_tweet_count": 42,
+        "X_username": "Chandler⚡️",
+        "Y_text": "Official Department of Government Efficiency website is live featuring the $DOGE logo 👀 https://t.co/8nTAcGR6ST",
+        "Y_token": "official, department, government, efficiency, website, live, featuring, doge, logo, https",
+        "Y_tweet_count": 44,
+        "Y_username": "Chandler⚡️",
+        "X_length": 119,
+        "Y_length": 111,
+        "Y_length_percent_of_X": 93.28,
+        "X_length_percent_of_Y": 107.21,
+        "dice_coefficient": 70.0
+    }
+]

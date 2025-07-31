@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@ApeMP5 $ETH has a new mascot\nDon't miss the $DOGE of 2025\nThe answer is #GPECTRA",
+        "X_token": "apemp5, eth, new, mascot, miss, doge, 2025, answer, gpectra",
+        "X_tweet_count": 1,
+        "X_username": "Mikey B",
+        "Y_text": "@ApeMP5 It has to be $ETH new mascot\nThe $DOGE of 2025\nIt has to be #GPECTRA",
+        "Y_token": "apemp5, eth, new, mascot, doge, 2025, gpectra",
+        "Y_tweet_count": 6,
+        "Y_username": "Mikey B",
+        "X_length": 81,
+        "Y_length": 76,
+        "Y_length_percent_of_X": 93.83,
+        "X_length_percent_of_Y": 106.58,
+        "dice_coefficient": 87.5
+    },
+    {
+        "X_text": "@ApeMP5 $ETH has a new mascot\nDon't miss the $DOGE of 2025\nThe answer is #GPECTRA",
+        "X_token": "apemp5, eth, new, mascot, miss, doge, 2025, answer, gpectra",
+        "X_tweet_count": 1,
+        "X_username": "Mikey B",
+        "Y_text": "@ApeMP5 It has to be #GPECTRA \n$ETH finally has a mascot, don't miss out on the next $DOGE",
+        "Y_token": "apemp5, gpectra, eth, finally, mascot, miss, next, doge",
+        "Y_tweet_count": 18,
+        "Y_username": "Mikey B",
+        "X_length": 81,
+        "Y_length": 90,
+        "Y_length_percent_of_X": 111.11,
+        "X_length_percent_of_Y": 90.0,
+        "dice_coefficient": 70.59
+    }
+]

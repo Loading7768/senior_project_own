@@ -45,6 +45,21 @@
         "dice_coefficient": 100.0
     },
     {
+        "X_text": "Done\n\n#dogecoin ( $DOGE)",
+        "X_token": "done, dogecoin, doge",
+        "X_tweet_count": 29,
+        "X_username": "Doge is Inevitable",
+        "Y_text": "Done\n\n#dogecoin ( $DOGE)",
+        "Y_token": "done, dogecoin, doge",
+        "Y_tweet_count": 81,
+        "Y_username": "Doge is Inevitable",
+        "X_length": 24,
+        "Y_length": 24,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
         "X_text": "Done!!\n\n#dogecoin ( $DOGE)",
         "X_token": "done, dogecoin, doge",
         "X_tweet_count": 30,
@@ -52,6 +67,21 @@
         "Y_text": "Done! #Dogecoin ( $DOGE)",
         "Y_token": "done, dogecoin, doge",
         "Y_tweet_count": 55,
+        "Y_username": "Doge is Inevitable",
+        "X_length": 26,
+        "Y_length": 24,
+        "Y_length_percent_of_X": 92.31,
+        "X_length_percent_of_Y": 108.33,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Done!!\n\n#dogecoin ( $DOGE)",
+        "X_token": "done, dogecoin, doge",
+        "X_tweet_count": 30,
+        "X_username": "Doge is Inevitable",
+        "Y_text": "Done\n\n#dogecoin ( $DOGE)",
+        "Y_token": "done, dogecoin, doge",
+        "Y_tweet_count": 81,
         "Y_username": "Doge is Inevitable",
         "X_length": 26,
         "Y_length": 24,
@@ -88,6 +118,21 @@
         "Y_length_percent_of_X": 108.7,
         "X_length_percent_of_Y": 92.0,
         "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "Done! #Dogecoin ( $DOGE)",
+        "X_token": "done, dogecoin, doge",
+        "X_tweet_count": 55,
+        "X_username": "Doge is Inevitable",
+        "Y_text": "Done\n\n#dogecoin ( $DOGE)",
+        "Y_token": "done, dogecoin, doge",
+        "Y_tweet_count": 81,
+        "Y_username": "Doge is Inevitable",
+        "X_length": 24,
+        "Y_length": 24,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
     },
     {
         "X_text": "The government #Doge account already has 1.2 million followers within hours, yet the price of #Dogecoin fails to rise and remains sideways... curious, isn't it? \n\nDo you think we will break to the upside or downside? https://t.co/yX7IHwH5A4",

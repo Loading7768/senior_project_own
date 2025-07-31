@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@rovercrc #Dogecoin is the king of meme coins.",
+        "X_token": "rovercrc, dogecoin, king, meme, coins",
+        "X_tweet_count": 50,
+        "X_username": "Cheems Neil",
+        "Y_text": "@cryptojack #Dogecoin is the king of meme coins.",
+        "Y_token": "cryptojack, dogecoin, king, meme, coins",
+        "Y_tweet_count": 51,
+        "Y_username": "Cheems Neil",
+        "X_length": 46,
+        "Y_length": 48,
+        "Y_length_percent_of_X": 104.35,
+        "X_length_percent_of_Y": 95.83,
+        "dice_coefficient": 80.0
+    }
+]

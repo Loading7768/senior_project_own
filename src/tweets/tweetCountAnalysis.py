@@ -6,7 +6,7 @@ from datetime import datetime
 '''可修改參數'''
 COIN_YEAR = "2022"
 
-COIN_MONTH = "05"
+COIN_MONTH = "04"
 
 COIN_SHORT_NAME = "DOGE"  # 要當成檔案名的 memecoin 名稱
 

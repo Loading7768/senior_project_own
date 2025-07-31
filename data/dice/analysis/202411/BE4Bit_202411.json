@@ -15,6 +15,21 @@
         "dice_coefficient": 80.0
     },
     {
+        "X_text": "Here’s How Much 1 Dogecoin Will Be Worth https://t.co/lvrZrJz0vS",
+        "X_token": "much, 1, dogecoin, worth, https",
+        "X_tweet_count": 22,
+        "X_username": "BE4Bit",
+        "Y_text": "How Much $1,000 in Dogecoin  https://t.co/pnWce1icSo",
+        "Y_token": "much, dogecoin, https",
+        "Y_tweet_count": 78,
+        "Y_username": "BE4Bit",
+        "X_length": 64,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 81.25,
+        "X_length_percent_of_Y": 123.08,
+        "dice_coefficient": 75.0
+    },
+    {
         "X_text": "Dogecoin Whales Bag 311M https://t.co/jNe4yRv4Zm",
         "X_token": "dogecoin, whales, bag, 311m, https",
         "X_tweet_count": 24,
@@ -105,6 +120,21 @@
         "dice_coefficient": 75.0
     },
     {
+        "X_text": "Dogecoin to Surge 7,961% to $23.25 https://t.co/UY4TTDibsH",
+        "X_token": "dogecoin, surge, https",
+        "X_tweet_count": 29,
+        "X_username": "BE4Bit",
+        "Y_text": "Can Dogecoin Price Surge 200%  https://t.co/3Wxwv2GYUR",
+        "Y_token": "dogecoin, price, surge, 200, https",
+        "Y_tweet_count": 74,
+        "Y_username": "BE4Bit",
+        "X_length": 58,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 93.1,
+        "X_length_percent_of_Y": 107.41,
+        "dice_coefficient": 75.0
+    },
+    {
         "X_text": "Dogecoin Foundation https://t.co/AZc1K8sY3G",
         "X_token": "dogecoin, foundation, https",
         "X_tweet_count": 36,
@@ -150,6 +180,21 @@
         "dice_coefficient": 80.0
     },
     {
+        "X_text": "Dogecoin to $1 https://t.co/1nZaldQmg9",
+        "X_token": "dogecoin, 1, https",
+        "X_tweet_count": 52,
+        "X_username": "BE4Bit",
+        "Y_text": "Dogecoin to $1 https://t.co/TVtb5CmQ0f",
+        "Y_token": "dogecoin, 1, https",
+        "Y_tweet_count": 77,
+        "Y_username": "BE4Bit",
+        "X_length": 38,
+        "Y_length": 38,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
         "X_text": "Dogecoin Lead Sounds Alarm https://t.co/EOvzs1AyHq",
         "X_token": "dogecoin, lead, sounds, alarm, https",
         "X_tweet_count": 53,
@@ -163,6 +208,21 @@
         "Y_length_percent_of_X": 100.0,
         "X_length_percent_of_Y": 100.0,
         "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Dogecoin https://t.co/R7Lgkb7ZcX",
+        "X_token": "dogecoin, https",
+        "X_tweet_count": 54,
+        "X_username": "BE4Bit",
+        "Y_text": "Dogecoin to $1 https://t.co/TVtb5CmQ0f",
+        "Y_token": "dogecoin, 1, https",
+        "Y_tweet_count": 77,
+        "Y_username": "BE4Bit",
+        "X_length": 32,
+        "Y_length": 38,
+        "Y_length_percent_of_X": 118.75,
+        "X_length_percent_of_Y": 84.21,
+        "dice_coefficient": 80.0
     },
     {
         "X_text": "Market Veteran Predicts Dogecoin Price  https://t.co/r3VN6sbg7c",

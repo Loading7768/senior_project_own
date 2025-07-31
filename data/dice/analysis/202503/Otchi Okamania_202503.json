@@ -28,5 +28,35 @@
         "Y_length_percent_of_X": 96.14,
         "X_length_percent_of_Y": 104.02,
         "dice_coefficient": 97.14
+    },
+    {
+        "X_text": "Something really big is in the works...much bigger...towards the top spot for the first time. We'll experience a truly significant moment when Bitcoin takes second place...very soon.\n@dogecoin",
+        "X_token": "something, really, big, works, much, bigger, towards, top, spot, first, time, experience, truly, significant, moment, bitcoin, takes, second, place, soon, dogecoin",
+        "X_tweet_count": 28,
+        "X_username": "Otchi Okamania",
+        "Y_text": "@elonmusk Something really big is in the works...much bigger...towards the top spot for the first time. We'll experience a truly significant moment when Bitcoin takes second place...very soon.\n@dogecoin",
+        "Y_token": "elonmusk, something, really, big, works, much, bigger, towards, top, spot, first, time, experience, truly, significant, moment, bitcoin, takes, second, place, soon, dogecoin",
+        "Y_tweet_count": 29,
+        "Y_username": "Otchi Okamania",
+        "X_length": 192,
+        "Y_length": 202,
+        "Y_length_percent_of_X": 105.21,
+        "X_length_percent_of_Y": 95.05,
+        "dice_coefficient": 97.67
+    },
+    {
+        "X_text": "@elonmusk Talk about a @dogecoin\n: At $1, it would be in third place. At $2, it would be in second place. I wouldn't talk if it was $8.🥳 🥳",
+        "X_token": "elonmusk, talk, dogecoin, 1, would, third, place, 2, would, second, place, would, talk",
+        "X_tweet_count": 30,
+        "X_username": "Otchi Okamania",
+        "Y_text": "Talk about a @dogecoin  : At $1, it would be in third place. At $2, it would be in second place.\nI wouldn't talk if it was $8.🥳🥳🥳",
+        "Y_token": "talk, dogecoin, 1, would, third, place, 2, would, second, place, would, talk",
+        "Y_tweet_count": 31,
+        "Y_username": "Otchi Okamania",
+        "X_length": 138,
+        "Y_length": 129,
+        "Y_length_percent_of_X": 93.48,
+        "X_length_percent_of_Y": 106.98,
+        "dice_coefficient": 94.12
     }
 ]
