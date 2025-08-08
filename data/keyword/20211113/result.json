@@ -110,9 +110,14 @@
         "idf": 4.685401189737611
     },
     {
-        "keyword": "benzinga",
+        "keyword": "future",
+        "votes": 8,
+        "idf": 5.2243976904702984
+    },
+    {
+        "keyword": "good",
         "votes": 7,
-        "idf": 5.966335035199676
+        "idf": 4.772412566727241
     },
     {
         "keyword": "7d",
@@ -130,23 +135,368 @@
         "idf": 5.050044303325521
     },
     {
-        "keyword": "agrees",
-        "votes": 7,
-        "idf": 5.703970770732185
-    },
-    {
         "keyword": "binance",
         "votes": 7,
         "idf": 5.560869927091511
     },
     {
-        "keyword": "future",
-        "votes": 7,
-        "idf": 5.2243976904702984
-    },
-    {
         "keyword": "prices",
         "votes": 7,
         "idf": 5.966335035199676
+    },
+    {
+        "keyword": "update",
+        "votes": 7,
+        "idf": 4.867722746531566
+    },
+    {
+        "keyword": "pm",
+        "votes": 7,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "moooon",
+        "votes": 7,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "past",
+        "votes": 7,
+        "idf": 4.867722746531566
+    },
+    {
+        "keyword": "today",
+        "votes": 7,
+        "idf": 4.936715618018518
+    },
+    {
+        "keyword": "project",
+        "votes": 6,
+        "idf": 4.772412566727241
+    },
+    {
+        "keyword": "go",
+        "votes": 6,
+        "idf": 4.631333968467336
+    },
+    {
+        "keyword": "benzinga",
+        "votes": 6,
+        "idf": 5.966335035199676
+    },
+    {
+        "keyword": "currency",
+        "votes": 6,
+        "idf": 5.435706784137506
+    },
+    {
+        "keyword": "energy",
+        "votes": 6,
+        "idf": 5.966335035199676
+    },
+    {
+        "keyword": "nio",
+        "votes": 6,
+        "idf": 5.966335035199676
+    },
+    {
+        "keyword": "wiser",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "historical",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "equal",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "yes",
+        "votes": 6,
+        "idf": 5.560869927091511
+    },
+    {
+        "keyword": "agrees",
+        "votes": 6,
+        "idf": 5.703970770732185
+    },
+    {
+        "keyword": "tether",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "solana",
+        "votes": 6,
+        "idf": 5.3785483702975565
+    },
+    {
+        "keyword": "ranking",
+        "votes": 6,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "2021",
+        "votes": 6,
+        "idf": 5.177877674835406
+    },
+    {
+        "keyword": "difference",
+        "votes": 6,
+        "idf": 5.871024855395351
+    },
+    {
+        "keyword": "nice",
+        "votes": 6,
+        "idf": 5.435706784137506
+    },
+    {
+        "keyword": "mars",
+        "votes": 6,
+        "idf": 5.49633140595394
+    },
+    {
+        "keyword": "years",
+        "votes": 5,
+        "idf": 5.784013478405721
+    },
+    {
+        "keyword": "reason",
+        "votes": 5,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "btc",
+        "votes": 5,
+        "idf": 3.6738002780591317
+    },
+    {
+        "keyword": "meme",
+        "votes": 5,
+        "idf": 4.936715618018518
+    },
+    {
+        "keyword": "floki",
+        "votes": 5,
+        "idf": 4.094532858298084
+    },
+    {
+        "keyword": "swing",
+        "votes": 5,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "evergrow",
+        "votes": 5,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "far",
+        "votes": 5,
+        "idf": 5.49633140595394
+    },
+    {
+        "keyword": "value",
+        "votes": 5,
+        "idf": 5.273187854639731
+    },
+    {
+        "keyword": "like",
+        "votes": 5,
+        "idf": 4.261586942961251
+    },
+    {
+        "keyword": "news",
+        "votes": 5,
+        "idf": 5.560869927091511
+    },
+    {
+        "keyword": "change",
+        "votes": 5,
+        "idf": 4.0204248861443626
+    },
+    {
+        "keyword": "0",
+        "votes": 5,
+        "idf": 5.2243976904702984
+    },
+    {
+        "keyword": "reach",
+        "votes": 5,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "altrank",
+        "votes": 5,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "wooooow",
+        "votes": 5,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "74",
+        "votes": 5,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "shiba",
+        "votes": 5,
+        "idf": 3.9381867879073904
+    },
+    {
+        "keyword": "one",
+        "votes": 5,
+        "idf": 3.8500795203971236
+    },
+    {
+        "keyword": "great",
+        "votes": 5,
+        "idf": 5.010823590172239
+    },
+    {
+        "keyword": "ever",
+        "votes": 5,
+        "idf": 6.071695550857502
+    },
+    {
+        "keyword": "work",
+        "votes": 5,
+        "idf": 5.703970770732185
+    },
+    {
+        "keyword": "movie",
+        "votes": 5,
+        "idf": 6.071695550857502
+    },
+    {
+        "keyword": "strong",
+        "votes": 5,
+        "idf": 5.784013478405721
+    },
+    {
+        "keyword": "stop",
+        "votes": 4,
+        "idf": 5.560869927091511
+    },
+    {
+        "keyword": "sell",
+        "votes": 4,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "haha",
+        "votes": 4,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "cute",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "enable",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "finance",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "know",
+        "votes": 4,
+        "idf": 4.867722746531566
+    },
+    {
+        "keyword": "let",
+        "votes": 4,
+        "idf": 5.010823590172239
+    },
+    {
+        "keyword": "community",
+        "votes": 4,
+        "idf": 4.803184225393995
+    },
+    {
+        "keyword": "thank",
+        "votes": 4,
+        "idf": 5.784013478405721
+    },
+    {
+        "keyword": "first",
+        "votes": 4,
+        "idf": 5.435706784137506
+    },
+    {
+        "keyword": "within",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "waiting",
+        "votes": 4,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "power",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "7",
+        "votes": 4,
+        "idf": 5.871024855395351
+    },
+    {
+        "keyword": "usdt",
+        "votes": 4,
+        "idf": 5.784013478405721
+    },
+    {
+        "keyword": "life",
+        "votes": 4,
+        "idf": 5.966335035199676
+    },
+    {
+        "keyword": "model",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "9",
+        "votes": 4,
+        "idf": 5.273187854639731
+    },
+    {
+        "keyword": "soon",
+        "votes": 4,
+        "idf": 4.555348061489413
+    },
+    {
+        "keyword": "bearish",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "momentum",
+        "votes": 4,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "hope",
+        "votes": 4,
+        "idf": 5.629862798578463
+    },
+    {
+        "keyword": "eth",
+        "votes": 4,
+        "idf": 3.6341911399640856
     }
 ]

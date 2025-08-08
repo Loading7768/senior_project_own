@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "baby",
+        "votes": 21,
+        "idf": 4.600468496769883
+    },
+    {
+        "keyword": "buy",
+        "votes": 17,
+        "idf": 3.59588515775005
+    },
+    {
+        "keyword": "coin",
+        "votes": 17,
+        "idf": 3.4641158801189267
+    },
+    {
+        "keyword": "18",
+        "votes": 13,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "liquidations",
+        "votes": 12,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "buying",
+        "votes": 11,
+        "idf": 4.362057473324885
+    },
+    {
+        "keyword": "million",
+        "votes": 11,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "bought",
+        "votes": 10,
+        "idf": 4.332204510175204
+    },
+    {
+        "keyword": "moon",
+        "votes": 10,
+        "idf": 4.814042597067942
+    },
+    {
+        "keyword": "still",
+        "votes": 10,
+        "idf": 3.9667447366807385
+    },
+    {
+        "keyword": "think",
+        "votes": 9,
+        "idf": 4.562728168787036
+    },
+    {
+        "keyword": "data",
+        "votes": 9,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "full",
+        "votes": 9,
+        "idf": 5.085976312551584
+    },
+    {
+        "keyword": "cents",
+        "votes": 9,
+        "idf": 4.68051120444342
+    },
+    {
+        "keyword": "project",
+        "votes": 8,
+        "idf": 5.460669761992995
+    },
+    {
+        "keyword": "8",
+        "votes": 8,
+        "idf": 5.293615677329829
+    },
+    {
+        "keyword": "time",
+        "votes": 8,
+        "idf": 4.195003388661719
+    },
+    {
+        "keyword": "mdoge",
+        "votes": 8,
+        "idf": 5.661340457455146
+    },
+    {
+        "keyword": "right",
+        "votes": 8,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "usd",
+        "votes": 8,
+        "idf": 5.085976312551584
+    },
+    {
+        "keyword": "sell",
+        "votes": 7,
+        "idf": 4.600468496769883
+    },
+    {
+        "keyword": "good",
+        "votes": 7,
+        "idf": 4.639689209923164
+    },
+    {
+        "keyword": "dot",
+        "votes": 7,
+        "idf": 4.332204510175204
+    },
+    {
+        "keyword": "holding",
+        "votes": 7,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "2",
+        "votes": 7,
+        "idf": 5.460669761992995
+    },
+    {
+        "keyword": "thats",
+        "votes": 6,
+        "idf": 5.55597994179732
+    },
+    {
+        "keyword": "get",
+        "votes": 6,
+        "idf": 4.45736765312921
+    },
+    {
+        "keyword": "crypto",
+        "votes": 6,
+        "idf": 3.5147596129376812
+    },
+    {
+        "keyword": "go",
+        "votes": 6,
+        "idf": 4.051902545021045
+    },
+    {
+        "keyword": "going",
+        "votes": 6,
+        "idf": 4.247647122147141
+    },
+    {
+        "keyword": "ust",
+        "votes": 6,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "like",
+        "votes": 6,
+        "idf": 3.7314306497462737
+    },
+    {
+        "keyword": "tether",
+        "votes": 6,
+        "idf": 5.661340457455146
+    },
+    {
+        "keyword": "cap",
+        "votes": 6,
+        "idf": 5.293615677329829
+    },
+    {
+        "keyword": "update",
+        "votes": 6,
+        "idf": 5.460669761992995
+    },
+    {
+        "keyword": "believe",
+        "votes": 6,
+        "idf": 5.55597994179732
+    },
+    {
+        "keyword": "60d",
+        "votes": 5,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "90d",
+        "votes": 5,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "7d",
+        "votes": 5,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "back",
+        "votes": 5,
+        "idf": 4.144992968087058
+    },
+    {
+        "keyword": "fear",
+        "votes": 5,
+        "idf": 5.77912349311153
+    },
+    {
+        "keyword": "total",
+        "votes": 5,
+        "idf": 5.293615677329829
+    },
+    {
+        "keyword": "far",
+        "votes": 5,
+        "idf": 5.373658385003365
+    },
+    {
+        "keyword": "dead",
+        "votes": 5,
+        "idf": 5.661340457455146
+    },
+    {
+        "keyword": "need",
+        "votes": 5,
+        "idf": 4.723070818862215
+    },
+    {
+        "keyword": "value",
+        "votes": 5,
+        "idf": 5.77912349311153
+    },
+    {
+        "keyword": "spell",
+        "votes": 5,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "gtc",
+        "votes": 5,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "5",
+        "votes": 5,
+        "idf": 4.814042597067942
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 5,
+        "idf": 4.220978875064979
+    },
+    {
+        "keyword": "top",
+        "votes": 5,
+        "idf": 4.767522581433049
+    },
+    {
+        "keyword": "happens",
+        "votes": 4,
+        "idf": 5.912654885736052
+    },
+    {
+        "keyword": "today",
+        "votes": 4,
+        "idf": 4.120895416507997
+    },
+    {
+        "keyword": "let",
+        "votes": 4,
+        "idf": 5.373658385003365
+    },
+    {
+        "keyword": "one",
+        "votes": 4,
+        "idf": 3.833213344056216
+    },
+    {
+        "keyword": "p",
+        "votes": 4,
+        "idf": 6.249127122357265
+    },
+    {
+        "keyword": "avax",
+        "votes": 4,
+        "idf": 4.8628327612373745
+    },
+    {
+        "keyword": "pump",
+        "votes": 4,
+        "idf": 5.085976312551584
+    },
+    {
+        "keyword": "rise",
+        "votes": 4,
+        "idf": 5.912654885736052
+    },
+    {
+        "keyword": "well",
+        "votes": 4,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "keep",
+        "votes": 4,
+        "idf": 5.373658385003365
+    },
+    {
+        "keyword": "lose",
+        "votes": 4,
+        "idf": 5.77912349311153
+    },
+    {
+        "keyword": "sol",
+        "votes": 4,
+        "idf": 4.051902545021045
+    },
+    {
+        "keyword": "love",
+        "votes": 4,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "difference",
+        "votes": 4,
+        "idf": 6.249127122357265
+    },
+    {
+        "keyword": "4",
+        "votes": 4,
+        "idf": 5.661340457455146
+    },
+    {
+        "keyword": "damn",
+        "votes": 4,
+        "idf": 6.249127122357265
+    },
+    {
+        "keyword": "ranking",
+        "votes": 4,
+        "idf": 6.249127122357265
+    },
+    {
+        "keyword": "prices",
+        "votes": 4,
+        "idf": 5.661340457455146
+    },
+    {
+        "keyword": "much",
+        "votes": 4,
+        "idf": 4.8628327612373745
+    },
+    {
+        "keyword": "strong",
+        "votes": 4,
+        "idf": 5.293615677329829
+    },
+    {
+        "keyword": "fam",
+        "votes": 4,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "shit",
+        "votes": 4,
+        "idf": 5.912654885736052
+    },
+    {
+        "keyword": "6",
+        "votes": 4,
+        "idf": 5.77912349311153
+    },
+    {
+        "keyword": "say",
+        "votes": 4,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "wow",
+        "votes": 4,
+        "idf": 5.661340457455146
+    },
+    {
+        "keyword": "sale",
+        "votes": 4,
+        "idf": 5.912654885736052
+    },
+    {
+        "keyword": "take",
+        "votes": 4,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "08",
+        "votes": 4,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "bro",
+        "votes": 4,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "fakeout",
+        "votes": 4,
+        "idf": 6.249127122357265
+    },
+    {
+        "keyword": "slips",
+        "votes": 4,
+        "idf": 6.249127122357265
+    },
+    {
+        "keyword": "investors",
+        "votes": 4,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "happening",
+        "votes": 4,
+        "idf": 5.661340457455146
+    },
+    {
+        "keyword": "nice",
+        "votes": 3,
+        "idf": 5.912654885736052
+    },
+    {
+        "keyword": "ask",
+        "votes": 3,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "price",
+        "votes": 3,
+        "idf": 3.3587553644611003
+    },
+    {
+        "keyword": "survive",
+        "votes": 3,
+        "idf": 5.912654885736052
+    },
+    {
+        "keyword": "et",
+        "votes": 3,
+        "idf": 6.249127122357265
+    },
+    {
+        "keyword": "talk",
+        "votes": 3,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "rip",
+        "votes": 3,
+        "idf": 6.472270673671475
+    },
+    {
+        "keyword": "pay",
+        "votes": 3,
+        "idf": 5.55597994179732
+    },
+    {
+        "keyword": "investments",
+        "votes": 3,
+        "idf": 6.06680556556331
+    },
+    {
+        "keyword": "hello",
+        "votes": 3,
+        "idf": 6.249127122357265
+    },
+    {
+        "keyword": "07",
+        "votes": 3,
+        "idf": 6.472270673671475
+    },
+    {
+        "keyword": "yes",
+        "votes": 3,
+        "idf": 5.912654885736052
+    },
+    {
+        "keyword": "lol",
+        "votes": 3,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "hodl",
+        "votes": 3,
+        "idf": 5.77912349311153
+    },
+    {
+        "keyword": "millionaire",
+        "votes": 3,
+        "idf": 6.472270673671475
+    },
+    {
+        "keyword": "musk",
+        "votes": 3,
+        "idf": 4.914126055624925
+    }
+]

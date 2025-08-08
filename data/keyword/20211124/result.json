@@ -40,7 +40,7 @@
         "idf": 4.682979731986748
     },
     {
-        "keyword": "predictable",
+        "keyword": "transparent",
         "votes": 8,
         "idf": 5.318968498706745
     },
@@ -48,6 +48,11 @@
         "keyword": "planned",
         "votes": 8,
         "idf": 5.318968498706745
+    },
+    {
+        "keyword": "moon",
+        "votes": 8,
+        "idf": 4.258096538021482
     },
     {
         "keyword": "ceo",
@@ -60,12 +65,12 @@
         "idf": 5.436751534363128
     },
     {
-        "keyword": "blasts",
+        "keyword": "questions",
         "votes": 7,
         "idf": 5.436751534363128
     },
     {
-        "keyword": "questions",
+        "keyword": "benefit",
         "votes": 7,
         "idf": 5.436751534363128
     },
@@ -75,13 +80,8 @@
         "idf": 3.8273136219290276
     },
     {
-        "keyword": "moon",
-        "votes": 7,
-        "idf": 4.258096538021482
-    },
-    {
         "keyword": "projects",
-        "votes": 6,
+        "votes": 7,
         "idf": 5.213607983048918
     },
     {
@@ -110,12 +110,12 @@
         "idf": 5.724433606814909
     },
     {
-        "keyword": "miner",
+        "keyword": "reversal",
         "votes": 5,
         "idf": 5.724433606814909
     },
     {
-        "keyword": "benefit",
+        "keyword": "blasts",
         "votes": 5,
         "idf": 5.436751534363128
     },
@@ -140,13 +140,363 @@
         "idf": 5.570282926987651
     },
     {
+        "keyword": "progress",
+        "votes": 5,
+        "idf": 5.724433606814909
+    },
+    {
         "keyword": "succesful",
         "votes": 5,
         "idf": 5.724433606814909
     },
     {
-        "keyword": "progress",
+        "keyword": "thank",
+        "votes": 5,
+        "idf": 5.570282926987651
+    },
+    {
+        "keyword": "nice",
+        "votes": 5,
+        "idf": 5.213607983048918
+    },
+    {
+        "keyword": "go",
+        "votes": 5,
+        "idf": 4.425150622684648
+    },
+    {
+        "keyword": "convinced",
         "votes": 5,
         "idf": 5.724433606814909
+    },
+    {
+        "keyword": "come",
+        "votes": 5,
+        "idf": 4.951243718581427
+    },
+    {
+        "keyword": "thanks",
+        "votes": 5,
+        "idf": 4.682979731986748
+    },
+    {
+        "keyword": "right",
+        "votes": 5,
+        "idf": 4.682979731986748
+    },
+    {
+        "keyword": "ripple",
+        "votes": 4,
+        "idf": 4.380698860113814
+    },
+    {
+        "keyword": "sir",
+        "votes": 4,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "news",
+        "votes": 4,
+        "idf": 5.213607983048918
+    },
+    {
+        "keyword": "2021",
+        "votes": 4,
+        "idf": 5.118297803244594
+    },
+    {
+        "keyword": "miner",
+        "votes": 4,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "make",
+        "votes": 4,
+        "idf": 4.6258213181468
+    },
+    {
+        "keyword": "amp",
+        "votes": 4,
+        "idf": 5.570282926987651
+    },
+    {
+        "keyword": "current",
+        "votes": 4,
+        "idf": 3.932674137586854
+    },
+    {
+        "keyword": "like",
+        "votes": 4,
+        "idf": 4.380698860113814
+    },
+    {
+        "keyword": "wonderful",
+        "votes": 4,
+        "idf": 4.877135746427705
+    },
+    {
+        "keyword": "solana",
+        "votes": 4,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "outstanding",
+        "votes": 4,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "promising",
+        "votes": 4,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "clear",
+        "votes": 4,
+        "idf": 5.213607983048918
+    },
+    {
+        "keyword": "take",
+        "votes": 4,
+        "idf": 5.118297803244594
+    },
+    {
+        "keyword": "keep",
+        "votes": 4,
+        "idf": 5.570282926987651
+    },
+    {
+        "keyword": "says",
+        "votes": 3,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "difference",
+        "votes": 3,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "gonna",
+        "votes": 3,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "successful",
+        "votes": 3,
+        "idf": 5.213607983048918
+    },
+    {
+        "keyword": "dog",
+        "votes": 3,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "haha",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "1h",
+        "votes": 3,
+        "idf": 5.436751534363128
+    },
+    {
+        "keyword": "bag",
+        "votes": 3,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 4.571754096876523
+    },
+    {
+        "keyword": "strategy",
+        "votes": 3,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "shirt",
+        "votes": 3,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "show",
+        "votes": 3,
+        "idf": 5.213607983048918
+    },
+    {
+        "keyword": "lol",
+        "votes": 3,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "h",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "based",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "advice",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "luck",
+        "votes": 3,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "day",
+        "votes": 3,
+        "idf": 5.118297803244594
+    },
+    {
+        "keyword": "run",
+        "votes": 3,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "0",
+        "votes": 3,
+        "idf": 5.318968498706745
+    },
+    {
+        "keyword": "past",
+        "votes": 3,
+        "idf": 5.0312864262549635
+    },
+    {
+        "keyword": "supporting",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "dip",
+        "votes": 3,
+        "idf": 5.436751534363128
+    },
+    {
+        "keyword": "support",
+        "votes": 3,
+        "idf": 5.213607983048918
+    },
+    {
+        "keyword": "thanksgiving",
+        "votes": 3,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "tether",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "binance",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "cro",
+        "votes": 3,
+        "idf": 5.570282926987651
+    },
+    {
+        "keyword": "accept",
+        "votes": 3,
+        "idf": 5.318968498706745
+    },
+    {
+        "keyword": "become",
+        "votes": 3,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "see",
+        "votes": 3,
+        "idf": 4.520460802488973
+    },
+    {
+        "keyword": "floki",
+        "votes": 3,
+        "idf": 4.425150622684648
+    },
+    {
+        "keyword": "holding",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "stake",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "161k",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "usd",
+        "votes": 3,
+        "idf": 5.436751534363128
+    },
+    {
+        "keyword": "thats",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "pump",
+        "votes": 3,
+        "idf": 5.118297803244594
+    },
+    {
+        "keyword": "flip",
+        "votes": 3,
+        "idf": 5.906755163608864
+    },
+    {
+        "keyword": "updated",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "amongst",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "rich",
+        "votes": 3,
+        "idf": 5.724433606814909
+    },
+    {
+        "keyword": "better",
+        "votes": 3,
+        "idf": 5.570282926987651
+    },
+    {
+        "keyword": "buff",
+        "votes": 3,
+        "idf": 6.1298987149230735
+    },
+    {
+        "keyword": "wait",
+        "votes": 3,
+        "idf": 5.570282926987651
+    },
+    {
+        "keyword": "success",
+        "votes": 3,
+        "idf": 5.570282926987651
+    },
+    {
+        "keyword": "sure",
+        "votes": 3,
+        "idf": 5.436751534363128
     }
 ]

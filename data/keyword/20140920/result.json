@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "6",
+        "votes": 38,
+        "idf": 3.330399781176923
+    },
+    {
+        "keyword": "0",
+        "votes": 36,
+        "idf": 3.383043514662345
+    },
+    {
+        "keyword": "9",
+        "votes": 34,
+        "idf": 3.4386133658171554
+    },
+    {
+        "keyword": "4",
+        "votes": 30,
+        "idf": 3.559974222821423
+    },
+    {
+        "keyword": "increased",
+        "votes": 23,
+        "idf": 3.8159075969586236
+    },
+    {
+        "keyword": "error",
+        "votes": 23,
+        "idf": 3.7750856024383683
+    },
+    {
+        "keyword": "bits",
+        "votes": 22,
+        "idf": 3.8584672113774197
+    },
+    {
+        "keyword": "decreased",
+        "votes": 22,
+        "idf": 3.8584672113774197
+    },
+    {
+        "keyword": "7",
+        "votes": 14,
+        "idf": 4.285911226204359
+    },
+    {
+        "keyword": "wow",
+        "votes": 14,
+        "idf": 3.735864889285087
+    },
+    {
+        "keyword": "price",
+        "votes": 13,
+        "idf": 3.330399781176923
+    },
+    {
+        "keyword": "growth",
+        "votes": 12,
+        "idf": 4.429012069845033
+    },
+    {
+        "keyword": "5",
+        "votes": 12,
+        "idf": 4.429012069845033
+    },
+    {
+        "keyword": "across",
+        "votes": 12,
+        "idf": 4.429012069845033
+    },
+    {
+        "keyword": "decline",
+        "votes": 10,
+        "idf": 4.596066154508199
+    },
+    {
+        "keyword": "cst",
+        "votes": 10,
+        "idf": 3.735864889285087
+    },
+    {
+        "keyword": "2",
+        "votes": 9,
+        "idf": 4.509054777518569
+    },
+    {
+        "keyword": "poa",
+        "votes": 8,
+        "idf": 4.796736849970349
+    },
+    {
+        "keyword": "ongoing",
+        "votes": 8,
+        "idf": 4.796736849970349
+    },
+    {
+        "keyword": "event",
+        "votes": 8,
+        "idf": 4.796736849970349
+    },
+    {
+        "keyword": "via",
+        "votes": 7,
+        "idf": 4.429012069845033
+    },
+    {
+        "keyword": "8",
+        "votes": 7,
+        "idf": 4.914519885626733
+    },
+    {
+        "keyword": "much",
+        "votes": 7,
+        "idf": 4.596066154508199
+    },
+    {
+        "keyword": "67",
+        "votes": 7,
+        "idf": 4.914519885626733
+    },
+    {
+        "keyword": "alt",
+        "votes": 6,
+        "idf": 5.048051278251256
+    },
+    {
+        "keyword": "tracker",
+        "votes": 6,
+        "idf": 5.048051278251256
+    },
+    {
+        "keyword": "last",
+        "votes": 6,
+        "idf": 3.1653200308174743
+    },
+    {
+        "keyword": "3",
+        "votes": 6,
+        "idf": 4.914519885626733
+    },
+    {
+        "keyword": "supporting",
+        "votes": 4,
+        "idf": 5.048051278251256
+    },
+    {
+        "keyword": "mine",
+        "votes": 4,
+        "idf": 5.202201958078514
+    },
+    {
+        "keyword": "strategy",
+        "votes": 4,
+        "idf": 5.384523514872469
+    },
+    {
+        "keyword": "pr",
+        "votes": 4,
+        "idf": 5.384523514872469
+    },
+    {
+        "keyword": "74",
+        "votes": 3,
+        "idf": 5.384523514872469
+    },
+    {
+        "keyword": "73",
+        "votes": 3,
+        "idf": 5.202201958078514
+    },
+    {
+        "keyword": "news",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 4.429012069845033
+    },
+    {
+        "keyword": "408",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "account",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "follow",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "prices",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "75",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "barnum",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "erik",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "enters",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "esports",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "kicks",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "wallet",
+        "votes": 3,
+        "idf": 5.202201958078514
+    },
+    {
+        "keyword": "puzzle",
+        "votes": 3,
+        "idf": 4.796736849970349
+    },
+    {
+        "keyword": "65",
+        "votes": 3,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "64",
+        "votes": 3,
+        "idf": 4.914519885626733
+    },
+    {
+        "keyword": "acquires",
+        "votes": 3,
+        "idf": 5.202201958078514
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "merged",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 2,
+        "idf": 5.048051278251256
+    },
+    {
+        "keyword": "413",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "2014",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "excalibur",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "mat",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "claim",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "tip",
+        "votes": 2,
+        "idf": 5.202201958078514
+    },
+    {
+        "keyword": "411",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "znnfyapayypymupabx",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "D8",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "2mgks6j7hagsx1",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "21",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "get",
+        "votes": 2,
+        "idf": 4.691376334312523
+    },
+    {
+        "keyword": "providing",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "easy",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "qr",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "coindesk",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "stream",
+        "votes": 2,
+        "idf": 5.202201958078514
+    },
+    {
+        "keyword": "417",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "72",
+        "votes": 2,
+        "idf": 4.691376334312523
+    },
+    {
+        "keyword": "link",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "traveling",
+        "votes": 2,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "sound",
+        "votes": 2,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "part",
+        "votes": 2,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "presentation",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "class",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "420",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "various",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "completely",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "monitor",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "soundwallet",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "order",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "clue",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "bunny",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "70",
+        "votes": 2,
+        "idf": 4.691376334312523
+    },
+    {
+        "keyword": "1pm",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "421",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "better",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 5.6076670661866785
+    },
+    {
+        "keyword": "place",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "410",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "dollar",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "63",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "researching",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "survey",
+        "votes": 2,
+        "idf": 5.895349138638459
+    },
+    {
+        "keyword": "ever",
+        "votes": 1,
+        "idf": 6.300814246746624
+    }
+]

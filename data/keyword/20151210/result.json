@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "news",
+        "votes": 14,
+        "idf": 3.559807957961118
+    },
+    {
+        "keyword": "portal",
+        "votes": 14,
+        "idf": 3.559807957961118
+    },
+    {
+        "keyword": "keep",
+        "votes": 9,
+        "idf": 3.9652730660692823
+    },
+    {
+        "keyword": "voting",
+        "votes": 9,
+        "idf": 3.9652730660692823
+    },
+    {
+        "keyword": "topics",
+        "votes": 9,
+        "idf": 3.9652730660692823
+    },
+    {
+        "keyword": "hot",
+        "votes": 9,
+        "idf": 3.9652730660692823
+    },
+    {
+        "keyword": "thanks",
+        "votes": 8,
+        "idf": 3.9652730660692823
+    },
+    {
+        "keyword": "r",
+        "votes": 6,
+        "idf": 3.272125885509337
+    },
+    {
+        "keyword": "hour",
+        "votes": 6,
+        "idf": 4.321948010008015
+    },
+    {
+        "keyword": "every",
+        "votes": 6,
+        "idf": 4.321948010008015
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 6,
+        "idf": 4.321948010008015
+    },
+    {
+        "keyword": "volume",
+        "votes": 6,
+        "idf": 4.070633581727108
+    },
+    {
+        "keyword": "latest",
+        "votes": 5,
+        "idf": 3.559807957961118
+    },
+    {
+        "keyword": "key",
+        "votes": 5,
+        "idf": 4.188416617383492
+    },
+    {
+        "keyword": "highlights",
+        "votes": 5,
+        "idf": 4.476098689835274
+    },
+    {
+        "keyword": "community",
+        "votes": 4,
+        "idf": 4.476098689835274
+    },
+    {
+        "keyword": "spiked",
+        "votes": 4,
+        "idf": 4.658420246629228
+    },
+    {
+        "keyword": "part",
+        "votes": 3,
+        "idf": 4.658420246629228
+    },
+    {
+        "keyword": "askcoinnet",
+        "votes": 3,
+        "idf": 4.881563797943437
+    },
+    {
+        "keyword": "stable",
+        "votes": 3,
+        "idf": 4.881563797943437
+    },
+    {
+        "keyword": "trend",
+        "votes": 3,
+        "idf": 4.881563797943437
+    },
+    {
+        "keyword": "newsbtc",
+        "votes": 3,
+        "idf": 4.881563797943437
+    },
+    {
+        "keyword": "8",
+        "votes": 3,
+        "idf": 4.476098689835274
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "losing",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "optional",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "live",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "eth",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "ticker",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "9",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "betting",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "registration",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "instant",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "1",
+        "votes": 2,
+        "idf": 3.8699628862649575
+    },
+    {
+        "keyword": "guide",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "wealt",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 4.881563797943437
+    },
+    {
+        "keyword": "2",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "performers",
+        "votes": 2,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "game",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "making",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "file",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "manipulate",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "multidoge",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "trade",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "sativacoin",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "cryptopia",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "wrong",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "converting",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "thinking",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "stores",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "faucets",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "sending",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "mousepad",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "2016",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "calendars",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "shibe",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "website",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "avoid",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "downloading",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "worth",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "spread",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "confusion",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "yes",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "daily",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "evangelical",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "iowa",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "cruz",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "debit",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "card",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "40",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "oh",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "sorry",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "going",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "meetings",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "primary",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "fan",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "meme",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "bullion",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "uncertainity",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "altcoin",
+        "votes": 1,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "growth",
+        "votes": 1,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "62",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "paid",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "1024706",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "6",
+        "votes": 1,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "calm",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "cookie",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "crossroads",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "reasons",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "two",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "year",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "one",
+        "votes": 1,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "feedback",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "close",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "many",
+        "votes": 1,
+        "idf": 4.881563797943437
+    },
+    {
+        "keyword": "rt",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "inevitable",
+        "votes": 1,
+        "idf": 5.169245870395218
+    },
+    {
+        "keyword": "blog",
+        "votes": 1,
+        "idf": 5.574710978503383
+    },
+    {
+        "keyword": "things",
+        "votes": 1,
+        "idf": 5.574710978503383
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "8",
+        "votes": 21,
+        "idf": 3.32949254591397
+    },
+    {
+        "keyword": "14",
+        "votes": 20,
+        "idf": 3.3760125615488628
+    },
+    {
+        "keyword": "sat",
+        "votes": 19,
+        "idf": 3.424802725718295
+    },
+    {
+        "keyword": "humans",
+        "votes": 19,
+        "idf": 3.201659174404085
+    },
+    {
+        "keyword": "trend",
+        "votes": 18,
+        "idf": 3.424802725718295
+    },
+    {
+        "keyword": "might",
+        "votes": 18,
+        "idf": 3.424802725718295
+    },
+    {
+        "keyword": "bearish",
+        "votes": 17,
+        "idf": 3.424802725718295
+    },
+    {
+        "keyword": "loser",
+        "votes": 12,
+        "idf": 3.855585641810749
+    },
+    {
+        "keyword": "greatest",
+        "votes": 9,
+        "idf": 3.855585641810749
+    },
+    {
+        "keyword": "26",
+        "votes": 9,
+        "idf": 4.11794990627824
+    },
+    {
+        "keyword": "negative",
+        "votes": 7,
+        "idf": 4.34109345759245
+    },
+    {
+        "keyword": "declining",
+        "votes": 7,
+        "idf": 4.223310421936066
+    },
+    {
+        "keyword": "pivotal",
+        "votes": 7,
+        "idf": 4.11794990627824
+    },
+    {
+        "keyword": "win",
+        "votes": 7,
+        "idf": 3.9356283494842854
+    },
+    {
+        "keyword": "positive",
+        "votes": 5,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "fri",
+        "votes": 5,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "13",
+        "votes": 4,
+        "idf": 4.811097086838186
+    },
+    {
+        "keyword": "point",
+        "votes": 4,
+        "idf": 4.0226397264739155
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "comchain",
+        "votes": 3,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "nonsense",
+        "votes": 3,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 3,
+        "idf": 4.811097086838186
+    },
+    {
+        "keyword": "7",
+        "votes": 3,
+        "idf": 4.811097086838186
+    },
+    {
+        "keyword": "get",
+        "votes": 3,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "24hrs",
+        "votes": 3,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "percent",
+        "votes": 3,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "paperwallets",
+        "votes": 3,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "voting",
+        "votes": 3,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "us",
+        "votes": 3,
+        "idf": 4.811097086838186
+    },
+    {
+        "keyword": "mkt",
+        "votes": 2,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "coin",
+        "votes": 2,
+        "idf": 4.223310421936066
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 2,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "18",
+        "votes": 2,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "approx",
+        "votes": 2,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "blokt",
+        "votes": 2,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "reach",
+        "votes": 2,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "via",
+        "votes": 2,
+        "idf": 4.474624850216973
+    },
+    {
+        "keyword": "sngls",
+        "votes": 2,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "profit",
+        "votes": 2,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "join",
+        "votes": 2,
+        "idf": 4.11794990627824
+    },
+    {
+        "keyword": "earlier",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "outside",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "tweet",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "dnt",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "9885",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "iost",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "proof",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "earned",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "youtube",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "two",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "ubq",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "prints",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "instead",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "advice",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "book",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "enj",
+        "votes": 1,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "kmd",
+        "votes": 1,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "collaborate",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "ideas",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "group",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "attractive",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "security",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "provide",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "fusion",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "daps",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "help",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "invest",
+        "votes": 1,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "tipestry",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "week",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "000",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "confused",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "true",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "others",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "jumps",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "one",
+        "votes": 1,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "support",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "levels",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "use",
+        "votes": 1,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "shortlink",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "space",
+        "votes": 1,
+        "idf": 5.321922710604176
+    },
+    {
+        "keyword": "dark",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "deep",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "thoughts",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "pls",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "real",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "speaking",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "linear",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "course",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "2014",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "imho",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "successfully",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "getting",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "dog",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "friendly",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "least",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "opposed",
+        "votes": 1,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "actual",
+        "votes": 1,
+        "idf": 5.727387818712341
+    }
+]

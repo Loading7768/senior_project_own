@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "0",
+        "votes": 26,
+        "idf": 3.1420925066415033
+    },
+    {
+        "keyword": "2",
+        "votes": 20,
+        "idf": 3.4648658989045544
+    },
+    {
+        "keyword": "cst",
+        "votes": 19,
+        "idf": 3.513656063073986
+    },
+    {
+        "keyword": "across",
+        "votes": 14,
+        "idf": 3.736799614388196
+    },
+    {
+        "keyword": "error",
+        "votes": 13,
+        "idf": 3.8703310070127186
+    },
+    {
+        "keyword": "7",
+        "votes": 13,
+        "idf": 3.8703310070127186
+    },
+    {
+        "keyword": "decline",
+        "votes": 11,
+        "idf": 4.024481686839977
+    },
+    {
+        "keyword": "bits",
+        "votes": 11,
+        "idf": 3.513656063073986
+    },
+    {
+        "keyword": "3",
+        "votes": 10,
+        "idf": 3.9444389791664403
+    },
+    {
+        "keyword": "9",
+        "votes": 9,
+        "idf": 4.2068032436339315
+    },
+    {
+        "keyword": "growth",
+        "votes": 8,
+        "idf": 4.312163759291758
+    },
+    {
+        "keyword": "wow",
+        "votes": 8,
+        "idf": 4.024481686839977
+    },
+    {
+        "keyword": "tracker",
+        "votes": 7,
+        "idf": 4.429946794948141
+    },
+    {
+        "keyword": "alt",
+        "votes": 7,
+        "idf": 4.312163759291758
+    },
+    {
+        "keyword": "supporting",
+        "votes": 7,
+        "idf": 4.312163759291758
+    },
+    {
+        "keyword": "hands",
+        "votes": 5,
+        "idf": 4.717628867399922
+    },
+    {
+        "keyword": "dogevertise",
+        "votes": 5,
+        "idf": 4.717628867399922
+    },
+    {
+        "keyword": "atm",
+        "votes": 5,
+        "idf": 4.563478187572664
+    },
+    {
+        "keyword": "f",
+        "votes": 4,
+        "idf": 4.899950424193877
+    },
+    {
+        "keyword": "ed",
+        "votes": 4,
+        "idf": 4.899950424193877
+    },
+    {
+        "keyword": "level",
+        "votes": 4,
+        "idf": 4.899950424193877
+    },
+    {
+        "keyword": "las",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "hashbase",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "platform",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "introduces",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "incubator",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "partners",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "startup",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "away",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "giving",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "500",
+        "votes": 3,
+        "idf": 4.899950424193877
+    },
+    {
+        "keyword": "fast",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "berlin",
+        "votes": 3,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 3,
+        "idf": 3.6190165787318125
+    },
+    {
+        "keyword": "service",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "exchange",
+        "votes": 2,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "website",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "garza",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "read",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "v",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "return",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "awe",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "rt",
+        "votes": 2,
+        "idf": 4.717628867399922
+    },
+    {
+        "keyword": "gift",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "weekly",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "zeushash",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "europe",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "sell",
+        "votes": 2,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "desertrshibe",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "feathercoins",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "hot",
+        "votes": 2,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "page",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "gcoin",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "plus",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 2,
+        "idf": 4.111493063829607
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "town",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "providing",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "qr",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "add",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "different",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "scratch",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "game",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "threat",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "reply",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "25",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "mussings",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "show",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "musings",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "economy",
+        "votes": 2,
+        "idf": 5.123093975508087
+    },
+    {
+        "keyword": "ltc",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "contact",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "fight",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "ebola",
+        "votes": 2,
+        "idf": 5.410776047959867
+    },
+    {
+        "keyword": "investing",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "helps",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "meme",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "pronounce",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "resolution",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "update",
+        "votes": 1,
+        "idf": 4.899950424193877
+    },
+    {
+        "keyword": "cryptocoins",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "another",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "reach",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "fucking",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "pos",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "piece",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "drop",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "press",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "launch",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "mh",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "contract",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "6",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "next",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "halving",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "block",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "yum",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 1,
+        "idf": 5.816241156068032
+    },
+    {
+        "keyword": "satisfaction",
+        "votes": 1,
+        "idf": 5.816241156068032
+    }
+]

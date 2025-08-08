@@ -65,12 +65,12 @@
         "idf": 4.634657899947298
     },
     {
-        "keyword": "monero",
+        "keyword": "classic",
         "votes": 8,
         "idf": 5.327805080507242
     },
     {
-        "keyword": "classic",
+        "keyword": "monero",
         "votes": 8,
         "idf": 5.327805080507242
     },
@@ -78,11 +78,6 @@
         "keyword": "recovery",
         "votes": 7,
         "idf": 5.127134385045092
-    },
-    {
-        "keyword": "love",
-        "votes": 7,
-        "idf": 4.529297384289471
     },
     {
         "keyword": "accept",
@@ -93,6 +88,11 @@
         "keyword": "go",
         "votes": 7,
         "idf": 4.480507220120039
+    },
+    {
+        "keyword": "love",
+        "votes": 6,
+        "idf": 4.529297384289471
     },
     {
         "keyword": "binance",
@@ -140,13 +140,363 @@
         "idf": 3.8614680117138156
     },
     {
-        "keyword": "pay",
-        "votes": 5,
-        "idf": 5.579119508788149
-    },
-    {
         "keyword": "floki",
         "votes": 5,
         "idf": 4.816979456741253
+    },
+    {
+        "keyword": "shib",
+        "votes": 5,
+        "idf": 3.787360039560094
+    },
+    {
+        "keyword": "successful",
+        "votes": 5,
+        "idf": 5.733270188615407
+    },
+    {
+        "keyword": "rival",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "35",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "surges",
+        "votes": 4,
+        "idf": 5.733270188615407
+    },
+    {
+        "keyword": "7d",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "30d",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "1h",
+        "votes": 4,
+        "idf": 4.960080300381925
+    },
+    {
+        "keyword": "wow",
+        "votes": 4,
+        "idf": 5.445588116163626
+    },
+    {
+        "keyword": "0",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "hour",
+        "votes": 4,
+        "idf": 4.059293755043735
+    },
+    {
+        "keyword": "sure",
+        "votes": 4,
+        "idf": 5.579119508788149
+    },
+    {
+        "keyword": "great",
+        "votes": 4,
+        "idf": 4.960080300381925
+    },
+    {
+        "keyword": "via",
+        "votes": 4,
+        "idf": 5.327805080507242
+    },
+    {
+        "keyword": "h",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "dyor",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "wiser",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "tether",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "4",
+        "votes": 4,
+        "idf": 5.327805080507242
+    },
+    {
+        "keyword": "pay",
+        "votes": 4,
+        "idf": 5.579119508788149
+    },
+    {
+        "keyword": "news",
+        "votes": 4,
+        "idf": 5.0401230080554615
+    },
+    {
+        "keyword": "00",
+        "votes": 4,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "prices",
+        "votes": 4,
+        "idf": 5.579119508788149
+    },
+    {
+        "keyword": "ada",
+        "votes": 4,
+        "idf": 3.573785939262035
+    },
+    {
+        "keyword": "space",
+        "votes": 4,
+        "idf": 4.8859723282282035
+    },
+    {
+        "keyword": "let",
+        "votes": 4,
+        "idf": 5.222444564849416
+    },
+    {
+        "keyword": "amazing",
+        "votes": 4,
+        "idf": 5.327805080507242
+    },
+    {
+        "keyword": "need",
+        "votes": 4,
+        "idf": 4.529297384289471
+    },
+    {
+        "keyword": "looks",
+        "votes": 4,
+        "idf": 5.579119508788149
+    },
+    {
+        "keyword": "far",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "today",
+        "votes": 3,
+        "idf": 5.222444564849416
+    },
+    {
+        "keyword": "value",
+        "votes": 3,
+        "idf": 5.222444564849416
+    },
+    {
+        "keyword": "life",
+        "votes": 3,
+        "idf": 5.445588116163626
+    },
+    {
+        "keyword": "7",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "8",
+        "votes": 3,
+        "idf": 5.733270188615407
+    },
+    {
+        "keyword": "much",
+        "votes": 3,
+        "idf": 4.752440935603681
+    },
+    {
+        "keyword": "people",
+        "votes": 3,
+        "idf": 4.529297384289471
+    },
+    {
+        "keyword": "real",
+        "votes": 3,
+        "idf": 5.445588116163626
+    },
+    {
+        "keyword": "money",
+        "votes": 3,
+        "idf": 5.0401230080554615
+    },
+    {
+        "keyword": "ready",
+        "votes": 3,
+        "idf": 5.327805080507242
+    },
+    {
+        "keyword": "waiting",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "yes",
+        "votes": 3,
+        "idf": 5.445588116163626
+    },
+    {
+        "keyword": "related",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "ranking",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "9",
+        "votes": 3,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "downwards",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "closing",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "hr",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "swing",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "avax",
+        "votes": 3,
+        "idf": 4.634657899947298
+    },
+    {
+        "keyword": "usd",
+        "votes": 3,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "update",
+        "votes": 3,
+        "idf": 4.752440935603681
+    },
+    {
+        "keyword": "difference",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "thats",
+        "votes": 3,
+        "idf": 5.733270188615407
+    },
+    {
+        "keyword": "right",
+        "votes": 3,
+        "idf": 4.816979456741253
+    },
+    {
+        "keyword": "miss",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "dot",
+        "votes": 3,
+        "idf": 3.941510719387352
+    },
+    {
+        "keyword": "team",
+        "votes": 3,
+        "idf": 5.222444564849416
+    },
+    {
+        "keyword": "debut",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "soars",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "ont",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "leash",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "technical",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "interested",
+        "votes": 3,
+        "idf": 5.733270188615407
+    },
+    {
+        "keyword": "nano",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "big",
+        "votes": 3,
+        "idf": 4.960080300381925
+    },
+    {
+        "keyword": "way",
+        "votes": 3,
+        "idf": 5.222444564849416
+    },
+    {
+        "keyword": "middleman",
+        "votes": 3,
+        "idf": 6.1387352967235715
+    },
+    {
+        "keyword": "busd",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "bsv",
+        "votes": 3,
+        "idf": 5.915591745409362
+    },
+    {
+        "keyword": "xmr",
+        "votes": 3,
+        "idf": 5.579119508788149
     }
 ]

@@ -20,17 +20,17 @@
         "idf": 4.2088254890147
     },
     {
-        "keyword": "altrank",
+        "keyword": "dominance",
+        "votes": 2,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "385",
         "votes": 2,
         "idf": 4.49650756146648
     },
     {
         "keyword": "activity",
-        "votes": 2,
-        "idf": 4.49650756146648
-    },
-    {
-        "keyword": "social",
         "votes": 2,
         "idf": 4.49650756146648
     },
@@ -55,7 +55,7 @@
         "idf": 4.901972669574645
     },
     {
-        "keyword": "far",
+        "keyword": "today",
         "votes": 1,
         "idf": 4.49650756146648
     },
@@ -70,22 +70,12 @@
         "idf": 4.901972669574645
     },
     {
-        "keyword": "investment",
-        "votes": 1,
-        "idf": 4.901972669574645
-    },
-    {
         "keyword": "already",
         "votes": 1,
         "idf": 4.901972669574645
     },
     {
-        "keyword": "admit",
-        "votes": 1,
-        "idf": 4.901972669574645
-    },
-    {
-        "keyword": "im",
+        "keyword": "investment",
         "votes": 1,
         "idf": 4.901972669574645
     },
@@ -95,7 +85,12 @@
         "idf": 4.901972669574645
     },
     {
-        "keyword": "hours",
+        "keyword": "loooooooonnngggg",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "im",
         "votes": 1,
         "idf": 4.901972669574645
     },
@@ -110,7 +105,7 @@
         "idf": 4.901972669574645
     },
     {
-        "keyword": "sending",
+        "keyword": "hours",
         "votes": 1,
         "idf": 4.901972669574645
     },
@@ -125,12 +120,7 @@
         "idf": 4.901972669574645
     },
     {
-        "keyword": "ozzy",
-        "votes": 1,
-        "idf": 4.901972669574645
-    },
-    {
-        "keyword": "tears",
+        "keyword": "sending",
         "votes": 1,
         "idf": 4.901972669574645
     },
@@ -140,12 +130,372 @@
         "idf": 4.901972669574645
     },
     {
-        "keyword": "pay",
+        "keyword": "tears",
         "votes": 1,
         "idf": 4.901972669574645
     },
     {
-        "keyword": "passively",
+        "keyword": "ozzy",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "pups",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "every",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "8",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "samo",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "lfg",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "onto",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "dogeco",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "friend",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "beautiful",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "accepting",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "tesla",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "realistically",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "7d",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "30d",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "1h",
+        "votes": 1,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "invest",
+        "votes": 1,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "interest",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "earn",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "platform",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "trash",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "2020",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "boss",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "told",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "tmm",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "get",
+        "votes": 1,
+        "idf": 3.9856819377004897
+    },
+    {
+        "keyword": "penny",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "2yearsago",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "spike",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "dogeusd",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "chart",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "yeah",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "ring",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "call",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "hang",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "guys",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "gonna",
+        "votes": 1,
+        "idf": 4.2088254890147
+    },
+    {
+        "keyword": "others",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "dogs",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "whereas",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "oh",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "alright",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "possible",
+        "votes": 1,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "zone",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "oversold",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "vwap",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "16",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "989",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "goooooooo",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "let",
+        "votes": 1,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "baby",
+        "votes": 1,
+        "idf": 3.9856819377004897
+    },
+    {
+        "keyword": "patreon",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "cocos",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "support",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "guy",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "bought",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "thjs",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "mars",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "us",
+        "votes": 1,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "think",
+        "votes": 1,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "encourge",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "side",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "loving",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "well",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "fainting",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "laugh",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "ja",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "rule",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "cent",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "updated",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "gone",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "variance",
+        "votes": 1,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "old",
         "votes": 1,
         "idf": 4.901972669574645
     }

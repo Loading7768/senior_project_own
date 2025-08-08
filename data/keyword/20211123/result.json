@@ -10,7 +10,7 @@
         "idf": 4.711130063048756
     },
     {
-        "keyword": "considers",
+        "keyword": "shade",
         "votes": 6,
         "idf": 5.067805006987489
     },
@@ -20,7 +20,7 @@
         "idf": 5.067805006987489
     },
     {
-        "keyword": "shade",
+        "keyword": "considers",
         "votes": 6,
         "idf": 5.067805006987489
     },
@@ -28,6 +28,11 @@
         "keyword": "wallet",
         "votes": 6,
         "idf": 4.305664954940592
+    },
+    {
+        "keyword": "1h",
+        "votes": 5,
+        "idf": 5.221955686814747
     },
     {
         "keyword": "criticizes",
@@ -80,7 +85,7 @@
         "idf": 5.627420794922911
     },
     {
-        "keyword": "trendline",
+        "keyword": "sticks",
         "votes": 3,
         "idf": 5.627420794922911
     },
@@ -88,11 +93,6 @@
         "keyword": "like",
         "votes": 3,
         "idf": 3.9691927183193787
-    },
-    {
-        "keyword": "1h",
-        "votes": 3,
-        "idf": 5.221955686814747
     },
     {
         "keyword": "back",
@@ -140,13 +140,363 @@
         "idf": 5.627420794922911
     },
     {
-        "keyword": "swft",
+        "keyword": "optimus",
         "votes": 3,
         "idf": 5.627420794922911
     },
     {
-        "keyword": "happened",
+        "keyword": "cmc",
         "votes": 3,
         "idf": 5.627420794922911
+    },
+    {
+        "keyword": "accepts",
+        "votes": 3,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "tickets",
+        "votes": 3,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "apes",
+        "votes": 3,
+        "idf": 5.404277243608702
+    },
+    {
+        "keyword": "hours",
+        "votes": 3,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "price",
+        "votes": 3,
+        "idf": 3.5172075945763215
+    },
+    {
+        "keyword": "downfall",
+        "votes": 3,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "stable",
+        "votes": 3,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "famed",
+        "votes": 3,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "love",
+        "votes": 3,
+        "idf": 4.816490578706582
+    },
+    {
+        "keyword": "see",
+        "votes": 3,
+        "idf": 5.067805006987489
+    },
+    {
+        "keyword": "usd",
+        "votes": 2,
+        "idf": 5.221955686814747
+    },
+    {
+        "keyword": "today",
+        "votes": 2,
+        "idf": 4.934273614362966
+    },
+    {
+        "keyword": "happening",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "nothing",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "release",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "alpha",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "discovered",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "fault",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "previous",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "go",
+        "votes": 2,
+        "idf": 4.305664954940592
+    },
+    {
+        "keyword": "cro",
+        "votes": 2,
+        "idf": 4.017982882488811
+    },
+    {
+        "keyword": "united",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "hope",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "7d",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "30d",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "care",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "well",
+        "votes": 2,
+        "idf": 5.404277243608702
+    },
+    {
+        "keyword": "take",
+        "votes": 2,
+        "idf": 4.711130063048756
+    },
+    {
+        "keyword": "current",
+        "votes": 2,
+        "idf": 3.8356613256948564
+    },
+    {
+        "keyword": "point",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "awesome",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "wrong",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "talking",
+        "votes": 2,
+        "idf": 5.404277243608702
+    },
+    {
+        "keyword": "nice",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "least",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "h",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "seems",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "talk",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "instead",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "dollar",
+        "votes": 2,
+        "idf": 5.221955686814747
+    },
+    {
+        "keyword": "momentum",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "december",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "psp",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "fuck",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "real",
+        "votes": 2,
+        "idf": 5.404277243608702
+    },
+    {
+        "keyword": "thin",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "kiba",
+        "votes": 2,
+        "idf": 4.448765798581265
+    },
+    {
+        "keyword": "ever",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "past",
+        "votes": 2,
+        "idf": 5.067805006987489
+    },
+    {
+        "keyword": "0",
+        "votes": 2,
+        "idf": 5.067805006987489
+    },
+    {
+        "keyword": "future",
+        "votes": 2,
+        "idf": 5.221955686814747
+    },
+    {
+        "keyword": "benzinga",
+        "votes": 2,
+        "idf": 4.934273614362966
+    },
+    {
+        "keyword": "shiba",
+        "votes": 2,
+        "idf": 4.180501811986586
+    },
+    {
+        "keyword": "solana",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "tether",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "founder",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "sending",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "reason",
+        "votes": 2,
+        "idf": 5.404277243608702
+    },
+    {
+        "keyword": "currently",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.404277243608702
+    },
+    {
+        "keyword": "lets",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "fight",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 4.816490578706582
+    },
+    {
+        "keyword": "pm",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "sol",
+        "votes": 2,
+        "idf": 4.241126433803021
+    },
+    {
+        "keyword": "used",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "little",
+        "votes": 2,
+        "idf": 5.221955686814747
+    },
+    {
+        "keyword": "attractive",
+        "votes": 2,
+        "idf": 5.915102867374692
+    },
+    {
+        "keyword": "pick",
+        "votes": 2,
+        "idf": 5.627420794922911
+    },
+    {
+        "keyword": "speculative",
+        "votes": 2,
+        "idf": 5.404277243608702
     }
 ]

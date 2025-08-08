@@ -388,5 +388,35 @@
         "Y_length_percent_of_X": 99.28,
         "X_length_percent_of_Y": 100.72,
         "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@Max70092843 @wowsuchcurrency @doge_radio @pythadoge @nl_dogecoin @mishaboar @MyDogeTip PRObably noTHING",
+        "X_token": "max70092843, wowsuchcurrency, pythadoge, mishaboar, mydogetip, probably, nothing",
+        "X_tweet_count": 59,
+        "X_username": "Elonoshi Muskamoto",
+        "Y_text": "@Max70092843 @wowsuchcurrency @doge_radio @pythadoge @nl_dogecoin @mishaboar @MyDogetip @Max70092843 0.69 Doge",
+        "Y_token": "max70092843, wowsuchcurrency, pythadoge, mishaboar, mydogetip, max70092843, doge",
+        "Y_tweet_count": 60,
+        "Y_username": "Elonoshi Muskamoto",
+        "X_length": 104,
+        "Y_length": 110,
+        "Y_length_percent_of_X": 105.77,
+        "X_length_percent_of_Y": 94.55,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "@Maxy5342 @wowsuchcurrency @CalisCihan @pythadoge @Max70092843 @mishaboar @Fierce_Skit @doge_radio @nl_dogecoin @DogecoinNorway @_mintydoge @ZillaDoge Haha",
+        "X_token": "maxy5342, wowsuchcurrency, caliscihan, pythadoge, max70092843, mishaboar, dogecoinnorway, zilladoge, haha",
+        "X_tweet_count": 62,
+        "X_username": "Elonoshi Muskamoto",
+        "Y_text": "@wowsuchcurrency @CalisCihan @pythadoge @Max70092843 @mishaboar @Fierce_Skit @doge_radio @nl_dogecoin @DogecoinNorway @_mintydoge @ZillaDoge The Most Onionic outcome is the most tippy!",
+        "Y_token": "wowsuchcurrency, caliscihan, pythadoge, max70092843, mishaboar, dogecoinnorway, zilladoge, onionic, outcome, tippy",
+        "Y_tweet_count": 63,
+        "Y_username": "Elonoshi Muskamoto",
+        "X_length": 155,
+        "Y_length": 184,
+        "Y_length_percent_of_X": 118.71,
+        "X_length_percent_of_Y": 84.24,
+        "dice_coefficient": 73.68
     }
 ]

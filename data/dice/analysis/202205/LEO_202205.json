@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "X_text": "@elonmusk @occupymars42069 Elon what about doge-1 mission? When are you taking dogecoin to the moon",
+        "X_token": "elonmusk, occupymars42069, elon, mission, taking, dogecoin, moon",
+        "X_tweet_count": 27,
+        "X_username": "LEO",
+        "Y_text": "@elonmusk What about Doge-1 Mission? Which was about taking Dogecoin to the literal moon",
+        "Y_token": "elonmusk, mission, taking, dogecoin, literal, moon",
+        "Y_tweet_count": 28,
+        "Y_username": "LEO",
+        "X_length": 99,
+        "Y_length": 88,
+        "Y_length_percent_of_X": 88.89,
+        "X_length_percent_of_Y": 112.5,
+        "dice_coefficient": 76.92
+    }
+]

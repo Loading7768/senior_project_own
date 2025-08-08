@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "price",
+        "votes": 23,
+        "idf": 3.4849066497880004
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 21,
+        "idf": 3.7950615780918397
+    },
+    {
+        "keyword": "18",
+        "votes": 21,
+        "idf": 3.7950615780918397
+    },
+    {
+        "keyword": "approx",
+        "votes": 21,
+        "idf": 3.7950615780918397
+    },
+    {
+        "keyword": "17",
+        "votes": 18,
+        "idf": 3.8903717578961645
+    },
+    {
+        "keyword": "9",
+        "votes": 15,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "11",
+        "votes": 15,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "12",
+        "votes": 15,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "2",
+        "votes": 8,
+        "idf": 3.553899521274952
+    },
+    {
+        "keyword": "3",
+        "votes": 8,
+        "idf": 3.6280074934286737
+    },
+    {
+        "keyword": "1",
+        "votes": 7,
+        "idf": 3.1019143975318944
+    },
+    {
+        "keyword": "coin",
+        "votes": 7,
+        "idf": 3.995732273553991
+    },
+    {
+        "keyword": "index",
+        "votes": 6,
+        "idf": 4.940193882394842
+    },
+    {
+        "keyword": "popularity",
+        "votes": 6,
+        "idf": 4.940193882394842
+    },
+    {
+        "keyword": "social",
+        "votes": 6,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "myst",
+        "votes": 5,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "earncrypto",
+        "votes": 5,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "coins",
+        "votes": 5,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "transaction",
+        "votes": 5,
+        "idf": 4.940193882394842
+    },
+    {
+        "keyword": "txid",
+        "votes": 5,
+        "idf": 4.940193882394842
+    },
+    {
+        "keyword": "excuse",
+        "votes": 5,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "lack",
+        "votes": 5,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "packdoge",
+        "votes": 5,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "blk",
+        "votes": 5,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "play",
+        "votes": 5,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "games",
+        "votes": 5,
+        "idf": 4.940193882394842
+    },
+    {
+        "keyword": "faucet",
+        "votes": 4,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "problem",
+        "votes": 4,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "invest",
+        "votes": 4,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "receipt",
+        "votes": 4,
+        "idf": 4.940193882394842
+    },
+    {
+        "keyword": "16",
+        "votes": 4,
+        "idf": 5.276666119016055
+    },
+    {
+        "keyword": "decide",
+        "votes": 3,
+        "idf": 5.499809670330265
+    },
+    {
+        "keyword": "free",
+        "votes": 3,
+        "idf": 3.5902671654458267
+    },
+    {
+        "keyword": "one",
+        "votes": 3,
+        "idf": 4.58351893845611
+    },
+    {
+        "keyword": "mkt",
+        "votes": 3,
+        "idf": 5.499809670330265
+    },
+    {
+        "keyword": "moon",
+        "votes": 3,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "xdn",
+        "votes": 3,
+        "idf": 5.276666119016055
+    },
+    {
+        "keyword": "dnt",
+        "votes": 3,
+        "idf": 5.276666119016055
+    },
+    {
+        "keyword": "rlc",
+        "votes": 2,
+        "idf": 5.499809670330265
+    },
+    {
+        "keyword": "want",
+        "votes": 2,
+        "idf": 5.499809670330265
+    },
+    {
+        "keyword": "askrate",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "profit",
+        "votes": 2,
+        "idf": 5.499809670330265
+    },
+    {
+        "keyword": "follow",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "get",
+        "votes": 2,
+        "idf": 4.488208758651785
+    },
+    {
+        "keyword": "wings",
+        "votes": 2,
+        "idf": 5.499809670330265
+    },
+    {
+        "keyword": "redd",
+        "votes": 2,
+        "idf": 5.499809670330265
+    },
+    {
+        "keyword": "ncash",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "link",
+        "votes": 2,
+        "idf": 5.276666119016055
+    },
+    {
+        "keyword": "think",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "2018",
+        "votes": 2,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "fsn",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "29",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "strategy",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "jpmorgan",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "times",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "total",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "win",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "fast",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "dates",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "game",
+        "votes": 2,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "steem",
+        "votes": 2,
+        "idf": 4.940193882394842
+    },
+    {
+        "keyword": "description",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "5000",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "thanks",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "keep",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "voting",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "coinpot",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "accepts",
+        "votes": 2,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "brd",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "lrc",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "40118",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "tell",
+        "votes": 1,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "something",
+        "votes": 1,
+        "idf": 5.499809670330265
+    },
+    {
+        "keyword": "please",
+        "votes": 1,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "banks",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "finance",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "infosys",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "cann",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "xspec",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "wgr",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "56007",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "sweat",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "job",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "fools",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "ico",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "infos",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "visions",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "everywhere",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "asset",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "billions",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "memes",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "days",
+        "votes": 1,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "14420",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "lewat",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "build",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "fence",
+        "votes": 1,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "ok",
+        "votes": 1,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "38267",
+        "votes": 1,
+        "idf": 6.19295685089021
+    }
+]

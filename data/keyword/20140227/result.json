@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "selling",
+        "votes": 46,
+        "idf": 3.3520457231624454
+    },
+    {
+        "keyword": "home",
+        "votes": 39,
+        "idf": 3.2972374866674503
+    },
+    {
+        "keyword": "error",
+        "votes": 36,
+        "idf": 4.0038076875595365
+    },
+    {
+        "keyword": "9",
+        "votes": 34,
+        "idf": 4.059377538714347
+    },
+    {
+        "keyword": "man",
+        "votes": 33,
+        "idf": 3.2972374866674503
+    },
+    {
+        "keyword": "0",
+        "votes": 31,
+        "idf": 4.059377538714347
+    },
+    {
+        "keyword": "7",
+        "votes": 27,
+        "idf": 4.213528218541605
+    },
+    {
+        "keyword": "3",
+        "votes": 25,
+        "idf": 4.213528218541605
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 25,
+        "idf": 3.114915929873496
+    },
+    {
+        "keyword": "1",
+        "votes": 23,
+        "idf": 3.60739241497129
+    },
+    {
+        "keyword": "8",
+        "votes": 23,
+        "idf": 4.436671769855815
+    },
+    {
+        "keyword": "cnn",
+        "votes": 17,
+        "idf": 4.67028662103732
+    },
+    {
+        "keyword": "4",
+        "votes": 15,
+        "idf": 4.61899332664977
+    },
+    {
+        "keyword": "5",
+        "votes": 13,
+        "idf": 4.436671769855815
+    },
+    {
+        "keyword": "abused",
+        "votes": 13,
+        "idf": 4.906675399101551
+    },
+    {
+        "keyword": "supercomputer",
+        "votes": 13,
+        "idf": 4.570203162480338
+    },
+    {
+        "keyword": "harvard",
+        "votes": 11,
+        "idf": 4.39584977533556
+    },
+    {
+        "keyword": "penniless",
+        "votes": 10,
+        "idf": 4.67028662103732
+    },
+    {
+        "keyword": "2",
+        "votes": 10,
+        "idf": 4.906675399101551
+    },
+    {
+        "keyword": "get",
+        "votes": 10,
+        "idf": 3.9511639540741146
+    },
+    {
+        "keyword": "million",
+        "votes": 10,
+        "idf": 4.570203162480338
+    },
+    {
+        "keyword": "supporting",
+        "votes": 9,
+        "idf": 5.312140507209715
+    },
+    {
+        "keyword": "tracker",
+        "votes": 9,
+        "idf": 5.312140507209715
+    },
+    {
+        "keyword": "internet",
+        "votes": 9,
+        "idf": 4.570203162480338
+    },
+    {
+        "keyword": "matt",
+        "votes": 9,
+        "idf": 5.312140507209715
+    },
+    {
+        "keyword": "100",
+        "votes": 9,
+        "idf": 4.523683146845444
+    },
+    {
+        "keyword": "6",
+        "votes": 9,
+        "idf": 5.1298189504157605
+    },
+    {
+        "keyword": "alt",
+        "votes": 8,
+        "idf": 5.216830327405391
+    },
+    {
+        "keyword": "moeda",
+        "votes": 8,
+        "idf": 5.417501022867541
+    },
+    {
+        "keyword": "thompson",
+        "votes": 8,
+        "idf": 5.312140507209715
+    },
+    {
+        "keyword": "asks",
+        "votes": 8,
+        "idf": 5.216830327405391
+    },
+    {
+        "keyword": "um",
+        "votes": 7,
+        "idf": 5.417501022867541
+    },
+    {
+        "keyword": "nasceu",
+        "votes": 7,
+        "idf": 5.417501022867541
+    },
+    {
+        "keyword": "core",
+        "votes": 6,
+        "idf": 5.668815451148448
+    },
+    {
+        "keyword": "secretly",
+        "votes": 6,
+        "idf": 5.668815451148448
+    },
+    {
+        "keyword": "pass",
+        "votes": 6,
+        "idf": 5.216830327405391
+    },
+    {
+        "keyword": "gives",
+        "votes": 6,
+        "idf": 5.216830327405391
+    },
+    {
+        "keyword": "updated",
+        "votes": 6,
+        "idf": 5.049776242742224
+    },
+    {
+        "keyword": "plans",
+        "votes": 6,
+        "idf": 5.535284058523925
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 6,
+        "idf": 5.049776242742224
+    },
+    {
+        "keyword": "house",
+        "votes": 6,
+        "idf": 5.1298189504157605
+    },
+    {
+        "keyword": "sale",
+        "votes": 6,
+        "idf": 5.1298189504157605
+    },
+    {
+        "keyword": "vacation",
+        "votes": 5,
+        "idf": 5.312140507209715
+    },
+    {
+        "keyword": "monatomic",
+        "votes": 5,
+        "idf": 5.822966130975706
+    },
+    {
+        "keyword": "crystal",
+        "votes": 5,
+        "idf": 5.822966130975706
+    },
+    {
+        "keyword": "vergeet",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "sitting",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "204",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "heart",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "gold",
+        "votes": 4,
+        "idf": 5.822966130975706
+    },
+    {
+        "keyword": "looks",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "summary",
+        "votes": 4,
+        "idf": 5.822966130975706
+    },
+    {
+        "keyword": "origin",
+        "votes": 4,
+        "idf": 5.822966130975706
+    },
+    {
+        "keyword": "quick",
+        "votes": 4,
+        "idf": 5.535284058523925
+    },
+    {
+        "keyword": "589",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "started",
+        "votes": 4,
+        "idf": 4.479231384274611
+    },
+    {
+        "keyword": "200",
+        "votes": 4,
+        "idf": 5.417501022867541
+    },
+    {
+        "keyword": "gox",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "ride",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "bobsledders",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "olympics",
+        "votes": 4,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "tip",
+        "votes": 4,
+        "idf": 4.84213687796398
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.906675399101551
+    },
+    {
+        "keyword": "u",
+        "votes": 4,
+        "idf": 5.049776242742224
+    },
+    {
+        "keyword": "rt",
+        "votes": 4,
+        "idf": 5.049776242742224
+    },
+    {
+        "keyword": "much",
+        "votes": 4,
+        "idf": 4.247429770217287
+    },
+    {
+        "keyword": "grams",
+        "votes": 4,
+        "idf": 5.822966130975706
+    },
+    {
+        "keyword": "want",
+        "votes": 3,
+        "idf": 5.417501022867541
+    },
+    {
+        "keyword": "wow",
+        "votes": 3,
+        "idf": 4.059377538714347
+    },
+    {
+        "keyword": "doggy",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "growing",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "brother",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "meet",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "year",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "forever",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "decides",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "australian",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "mining",
+        "votes": 3,
+        "idf": 4.247429770217287
+    },
+    {
+        "keyword": "billy",
+        "votes": 3,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "go",
+        "votes": 3,
+        "idf": 5.417501022867541
+    },
+    {
+        "keyword": "free",
+        "votes": 3,
+        "idf": 5.417501022867541
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 3,
+        "idf": 5.668815451148448
+    },
+    {
+        "keyword": "different",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "coin",
+        "votes": 3,
+        "idf": 4.247429770217287
+    },
+    {
+        "keyword": "seriously",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 3,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "seen",
+        "votes": 3,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "two",
+        "votes": 3,
+        "idf": 6.005287687769661
+    },
+    {
+        "keyword": "mt",
+        "votes": 3,
+        "idf": 5.535284058523925
+    },
+    {
+        "keyword": "post",
+        "votes": 3,
+        "idf": 5.822966130975706
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 3,
+        "idf": 5.535284058523925
+    },
+    {
+        "keyword": "even",
+        "votes": 3,
+        "idf": 5.535284058523925
+    },
+    {
+        "keyword": "actually",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "like",
+        "votes": 3,
+        "idf": 4.781512256147545
+    },
+    {
+        "keyword": "card",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "percent",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "sold",
+        "votes": 3,
+        "idf": 6.2284312390838705
+    },
+    {
+        "keyword": "student",
+        "votes": 3,
+        "idf": 5.216830327405391
+    },
+    {
+        "keyword": "doge",
+        "votes": 3,
+        "idf": 3.901153533499453
+    },
+    {
+        "keyword": "202",
+        "votes": 3,
+        "idf": 5.417501022867541
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "donors",
+        "votes": 42,
+        "idf": 3.4577556607220497
+    },
+    {
+        "keyword": "wow",
+        "votes": 27,
+        "idf": 3.4400560836226486
+    },
+    {
+        "keyword": "via",
+        "votes": 23,
+        "idf": 3.819545705327552
+    },
+    {
+        "keyword": "sochi",
+        "votes": 19,
+        "idf": 3.388762789235098
+    },
+    {
+        "keyword": "appeal",
+        "votes": 18,
+        "idf": 4.150902841281995
+    },
+    {
+        "keyword": "small",
+        "votes": 15,
+        "idf": 4.115811521470725
+    },
+    {
+        "keyword": "numbers",
+        "votes": 15,
+        "idf": 4.049120146972053
+    },
+    {
+        "keyword": "daily",
+        "votes": 14,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "receive",
+        "votes": 14,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "tweet",
+        "votes": 14,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "online",
+        "votes": 13,
+        "idf": 4.347613135528049
+    },
+    {
+        "keyword": "device",
+        "votes": 12,
+        "idf": 4.918157993995662
+    },
+    {
+        "keyword": "mine",
+        "votes": 12,
+        "idf": 4.4873750779032076
+    },
+    {
+        "keyword": "learning",
+        "votes": 11,
+        "idf": 4.998200701669198
+    },
+    {
+        "keyword": "donated",
+        "votes": 11,
+        "idf": 4.918157993995662
+    },
+    {
+        "keyword": "bobsledding",
+        "votes": 10,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "android",
+        "votes": 9,
+        "idf": 5.085212078658828
+    },
+    {
+        "keyword": "comments",
+        "votes": 9,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "traders",
+        "votes": 8,
+        "idf": 5.085212078658828
+    },
+    {
+        "keyword": "much",
+        "votes": 8,
+        "idf": 3.8721894388129745
+    },
+    {
+        "keyword": "quot",
+        "votes": 8,
+        "idf": 5.28588277412098
+    },
+    {
+        "keyword": "ogecoin",
+        "votes": 8,
+        "idf": 5.28588277412098
+    },
+    {
+        "keyword": "new",
+        "votes": 8,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "event",
+        "votes": 7,
+        "idf": 5.085212078658828
+    },
+    {
+        "keyword": "coin",
+        "votes": 6,
+        "idf": 4.18727048545287
+    },
+    {
+        "keyword": "fire",
+        "votes": 6,
+        "idf": 4.998200701669198
+    },
+    {
+        "keyword": "like",
+        "votes": 6,
+        "idf": 3.7454377331738304
+    },
+    {
+        "keyword": "come",
+        "votes": 6,
+        "idf": 4.918157993995662
+    },
+    {
+        "keyword": "become",
+        "votes": 6,
+        "idf": 5.28588277412098
+    },
+    {
+        "keyword": "saved",
+        "votes": 6,
+        "idf": 5.537197202401885
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 5,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "tip",
+        "votes": 5,
+        "idf": 5.537197202401885
+    },
+    {
+        "keyword": "dog",
+        "votes": 5,
+        "idf": 5.28588277412098
+    },
+    {
+        "keyword": "cute",
+        "votes": 5,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "forget",
+        "votes": 5,
+        "idf": 4.998200701669198
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 5,
+        "idf": 3.551281718732873
+    },
+    {
+        "keyword": "mining",
+        "votes": 4,
+        "idf": 4.592735593561034
+    },
+    {
+        "keyword": "go",
+        "votes": 4,
+        "idf": 5.085212078658828
+    },
+    {
+        "keyword": "attracts",
+        "votes": 4,
+        "idf": 5.085212078658828
+    },
+    {
+        "keyword": "rise",
+        "votes": 4,
+        "idf": 5.085212078658828
+    },
+    {
+        "keyword": "4",
+        "votes": 4,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 4,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "winter",
+        "votes": 4,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "olympics",
+        "votes": 4,
+        "idf": 4.592735593561034
+    },
+    {
+        "keyword": "rhythm",
+        "votes": 4,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "npr",
+        "votes": 4,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 4,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "love",
+        "votes": 4,
+        "idf": 5.28588277412098
+    },
+    {
+        "keyword": "proved",
+        "votes": 4,
+        "idf": 5.537197202401885
+    },
+    {
+        "keyword": "internet",
+        "votes": 4,
+        "idf": 5.085212078658828
+    },
+    {
+        "keyword": "currently",
+        "votes": 3,
+        "idf": 5.537197202401885
+    },
+    {
+        "keyword": "fundraising",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "100k",
+        "votes": 3,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "amazon",
+        "votes": 3,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "bobsleigh",
+        "votes": 3,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "interesting",
+        "votes": 3,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "thanks",
+        "votes": 3,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "helped",
+        "votes": 3,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "currency",
+        "votes": 3,
+        "idf": 4.438584913733775
+    },
+    {
+        "keyword": "accept",
+        "votes": 3,
+        "idf": 5.28588277412098
+    },
+    {
+        "keyword": "look",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "succeed",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "pdf",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "thursday",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "kindness",
+        "votes": 3,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "feel",
+        "votes": 3,
+        "idf": 5.537197202401885
+    },
+    {
+        "keyword": "doge",
+        "votes": 3,
+        "idf": 3.7219072357636365
+    },
+    {
+        "keyword": "going",
+        "votes": 3,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "got",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "coinye",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "check",
+        "votes": 3,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "called",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "yes",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "think",
+        "votes": 3,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "wallet",
+        "votes": 3,
+        "idf": 4.918157993995662
+    },
+    {
+        "keyword": "news",
+        "votes": 3,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "post",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "rhyme",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "donations",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "moon",
+        "votes": 3,
+        "idf": 4.918157993995662
+    },
+    {
+        "keyword": "diego",
+        "votes": 3,
+        "idf": 4.998200701669198
+    },
+    {
+        "keyword": "blog",
+        "votes": 3,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "runnings",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "670",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "want",
+        "votes": 3,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "818",
+        "votes": 3,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "portland",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "jamaica",
+        "votes": 3,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "thx",
+        "votes": 3,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "guide",
+        "votes": 2,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "perfect",
+        "votes": 2,
+        "idf": 6.384495062789089
+    },
+    {
+        "keyword": "article",
+        "votes": 2,
+        "idf": 6.384495062789089
+    },
+    {
+        "keyword": "order",
+        "votes": 2,
+        "idf": 6.384495062789089
+    },
+    {
+        "keyword": "lunch",
+        "votes": 2,
+        "idf": 6.384495062789089
+    },
+    {
+        "keyword": "hard",
+        "votes": 2,
+        "idf": 6.096812990337308
+    },
+    {
+        "keyword": "test",
+        "votes": 2,
+        "idf": 6.384495062789089
+    },
+    {
+        "keyword": "future",
+        "votes": 2,
+        "idf": 5.873669439023098
+    },
+    {
+        "keyword": "r",
+        "votes": 2,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "crowdtilt",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "please",
+        "votes": 2,
+        "idf": 6.096812990337308
+    }
+]

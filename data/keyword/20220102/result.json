@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "baby",
+        "votes": 14,
+        "idf": 3.5649493574615367
+    },
+    {
+        "keyword": "rank",
+        "votes": 11,
+        "idf": 4.576550269140016
+    },
+    {
+        "keyword": "moon",
+        "votes": 7,
+        "idf": 4.353406717825807
+    },
+    {
+        "keyword": "current",
+        "votes": 6,
+        "idf": 3.5957210161282904
+    },
+    {
+        "keyword": "percentage",
+        "votes": 5,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "worth",
+        "votes": 5,
+        "idf": 4.758871825933971
+    },
+    {
+        "keyword": "tradingview",
+        "votes": 5,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "going",
+        "votes": 5,
+        "idf": 4.353406717825807
+    },
+    {
+        "keyword": "idea",
+        "votes": 5,
+        "idf": 4.982015377248182
+    },
+    {
+        "keyword": "know",
+        "votes": 4,
+        "idf": 4.353406717825807
+    },
+    {
+        "keyword": "go",
+        "votes": 4,
+        "idf": 4.576550269140016
+    },
+    {
+        "keyword": "let",
+        "votes": 4,
+        "idf": 4.864232341591798
+    },
+    {
+        "keyword": "usd",
+        "votes": 4,
+        "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "price",
+        "votes": 4,
+        "idf": 3.277267285009756
+    },
+    {
+        "keyword": "thoughts",
+        "votes": 4,
+        "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "nice",
+        "votes": 3,
+        "idf": 4.982015377248182
+    },
+    {
+        "keyword": "guy",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "competitor",
+        "votes": 3,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "autonomous",
+        "votes": 3,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "tether",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "solana",
+        "votes": 3,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "1h",
+        "votes": 3,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "prices",
+        "votes": 3,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "based",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "dyor",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "wiser",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "btc",
+        "votes": 3,
+        "idf": 3.477937980471907
+    },
+    {
+        "keyword": "shib",
+        "votes": 3,
+        "idf": 3.4505390062837926
+    },
+    {
+        "keyword": "0",
+        "votes": 3,
+        "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "past",
+        "votes": 3,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "hour",
+        "votes": 3,
+        "idf": 3.765620052923688
+    },
+    {
+        "keyword": "ago",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "good",
+        "votes": 3,
+        "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "2022",
+        "votes": 3,
+        "idf": 3.4505390062837926
+    },
+    {
+        "keyword": "moment",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "inu",
+        "votes": 3,
+        "idf": 4.0169344812045935
+    },
+    {
+        "keyword": "better",
+        "votes": 3,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "service",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "today",
+        "votes": 3,
+        "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "best",
+        "votes": 3,
+        "idf": 4.422399589312759
+    },
+    {
+        "keyword": "still",
+        "votes": 3,
+        "idf": 4.864232341591798
+    },
+    {
+        "keyword": "coins",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "sell",
+        "votes": 3,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "gonna",
+        "votes": 3,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "want",
+        "votes": 3,
+        "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "proof",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "1st",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "first",
+        "votes": 2,
+        "idf": 4.758871825933971
+    },
+    {
+        "keyword": "60d",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "90d",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "7d",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "symbol",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "donations",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "run",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "momentum",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "things",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "dao",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "us",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "understand",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "new",
+        "votes": 2,
+        "idf": 4.1710851610318525
+    },
+    {
+        "keyword": "spot",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "534doge",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "hrs",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "sand",
+        "votes": 2,
+        "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "mana",
+        "votes": 2,
+        "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "might",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "claims",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "founder",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "dog",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "elon",
+        "votes": 2,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "buy",
+        "votes": 2,
+        "idf": 4.228243574871801
+    },
+    {
+        "keyword": "20s",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "musk",
+        "votes": 2,
+        "idf": 4.864232341591798
+    },
+    {
+        "keyword": "tsla",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "flip",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "lets",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "dogs",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "day",
+        "votes": 2,
+        "idf": 4.864232341591798
+    },
+    {
+        "keyword": "krl",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "imagine",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "hit",
+        "votes": 2,
+        "idf": 4.758871825933971
+    },
+    {
+        "keyword": "trap",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "bear",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "profitability",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "evened",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "swing",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "4k",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "chat",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "8k",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "accountable",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "balance",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "greed",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "vpn",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "online",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "\u0256",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "costs",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "closing",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "vol",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "update",
+        "votes": 2,
+        "idf": 4.864232341591798
+    },
+    {
+        "keyword": "pm",
+        "votes": 2,
+        "idf": 5.675162557808126
+    }
+]

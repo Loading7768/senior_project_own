@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "moon",
+        "votes": 5,
+        "idf": 4.342861804649192
+    },
+    {
+        "keyword": "get",
+        "votes": 4,
+        "idf": 3.2781510676567636
+    },
+    {
+        "keyword": "madness",
+        "votes": 4,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "comp",
+        "votes": 4,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "s12",
+        "votes": 4,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "good",
+        "votes": 4,
+        "idf": 4.160540247855238
+    },
+    {
+        "keyword": "enlighten",
+        "votes": 4,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "place",
+        "votes": 4,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "telegraph",
+        "votes": 4,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "sweat",
+        "votes": 3,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "go",
+        "votes": 3,
+        "idf": 4.448222320307018
+    },
+    {
+        "keyword": "department",
+        "votes": 3,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "thank",
+        "votes": 2,
+        "idf": 4.699536748587924
+    },
+    {
+        "keyword": "best",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "solana",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "time",
+        "votes": 2,
+        "idf": 4.006389568027979
+    },
+    {
+        "keyword": "getting",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "gonna",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "shiba",
+        "votes": 2,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "congratulations",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "morning",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "dogs",
+        "votes": 2,
+        "idf": 4.247551624844867
+    },
+    {
+        "keyword": "ever",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "mars",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "yes",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "inu",
+        "votes": 2,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "prediction",
+        "votes": 2,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "make",
+        "votes": 2,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "month",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "1",
+        "votes": 2,
+        "idf": 4.247551624844867
+    },
+    {
+        "keyword": "fear",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "index",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "greed",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "world",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "never",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "history",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "government",
+        "votes": 2,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "efficiency",
+        "votes": 2,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "always",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "discovered",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "sputnik",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "skyrocket",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 4.699536748587924
+    },
+    {
+        "keyword": "stay",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "think",
+        "votes": 2,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "corner",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "bull",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "oversold",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "intelmarkets",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "tron",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "dns",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "children",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "coin",
+        "votes": 2,
+        "idf": 3.9373966965410276
+    },
+    {
+        "keyword": "tuned",
+        "votes": 2,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "mad",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "internet",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "easy",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "yrs",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "hodl",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "sold",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "raises",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "staking",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "base",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "majors",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "watching",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "aave",
+        "votes": 1,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "enosys",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "nfa",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "sgb",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "breakout",
+        "votes": 1,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "soon",
+        "votes": 1,
+        "idf": 4.448222320307018
+    },
+    {
+        "keyword": "follow",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "unlike",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "said",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "japan",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "jpg",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "tokyo",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "2zeroparlay",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "velo",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "100m",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "mcap",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "trade",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "70",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "ex",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "0x1121acc14c63f3c872bfca497d10926a6098aac5",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "definitely",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "e",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "crime",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "indicators",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "live",
+        "votes": 1,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "currency",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "future",
+        "votes": 1,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "sister",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "narrative",
+        "votes": 1,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "dude",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "counts",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "yeah",
+        "votes": 1,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "wallet",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "drc",
+        "votes": 1,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "mydoge",
+        "votes": 1,
+        "idf": 5.952299717083292
+    }
+]

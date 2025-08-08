@@ -1,16 +1,16 @@
 [
     {
-        "keyword": "eight",
-        "votes": 6,
-        "idf": 3.9041650800285006
-    },
-    {
         "keyword": "turns",
         "votes": 6,
         "idf": 3.9041650800285006
     },
     {
         "keyword": "taking",
+        "votes": 6,
+        "idf": 3.9041650800285006
+    },
+    {
+        "keyword": "stands",
         "votes": 5,
         "idf": 3.9041650800285006
     },
@@ -26,8 +26,13 @@
     },
     {
         "keyword": "always",
-        "votes": 3,
+        "votes": 2,
         "idf": 4.5973122605884456
+    },
+    {
+        "keyword": "worth",
+        "votes": 2,
+        "idf": 4.884994333040227
     },
     {
         "keyword": "percentage",
@@ -70,14 +75,9 @@
         "idf": 4.884994333040227
     },
     {
-        "keyword": "see",
+        "keyword": "higher",
         "votes": 2,
         "idf": 4.884994333040227
-    },
-    {
-        "keyword": "pump",
-        "votes": 2,
-        "idf": 4.5973122605884456
     },
     {
         "keyword": "going",
@@ -85,17 +85,17 @@
         "idf": 4.5973122605884456
     },
     {
-        "keyword": "usd",
+        "keyword": "pump",
         "votes": 2,
         "idf": 4.5973122605884456
     },
     {
-        "keyword": "negative",
+        "keyword": "night",
         "votes": 1,
         "idf": 5.290459441148391
     },
     {
-        "keyword": "night",
+        "keyword": "negative",
         "votes": 1,
         "idf": 5.290459441148391
     },
@@ -110,27 +110,17 @@
         "idf": 5.290459441148391
     },
     {
-        "keyword": "btcnews",
-        "votes": 1,
-        "idf": 5.290459441148391
-    },
-    {
-        "keyword": "ios",
-        "votes": 1,
-        "idf": 5.290459441148391
-    },
-    {
         "keyword": "cardano",
         "votes": 1,
         "idf": 5.290459441148391
     },
     {
-        "keyword": "studio",
+        "keyword": "avalanche",
         "votes": 1,
         "idf": 5.290459441148391
     },
     {
-        "keyword": "game",
+        "keyword": "analysis",
         "votes": 1,
         "idf": 5.290459441148391
     },
@@ -140,12 +130,372 @@
         "idf": 5.290459441148391
     },
     {
-        "keyword": "trademark",
+        "keyword": "useful",
         "votes": 1,
         "idf": 5.290459441148391
     },
     {
-        "keyword": "copyright",
+        "keyword": "aaa",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "cannot",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "maybe",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "filed",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "point",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "cents",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "18",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "caps",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "hbar",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "srm",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "revealing",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "search",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "annual",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "moment",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "rest",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "oh",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "something",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "needs",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "naka",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "slp",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "sclp",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "tomorrow",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "episode",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "superdoge",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "nice",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "win",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "apartment",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "girlfriend",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "7d",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "30d",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "1h",
+        "votes": 1,
+        "idf": 4.5973122605884456
+    },
+    {
+        "keyword": "moooon",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "cause",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "coworker",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "69",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "show",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "good",
+        "votes": 1,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "meme",
+        "votes": 1,
+        "idf": 4.5973122605884456
+    },
+    {
+        "keyword": "momentum",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "direction",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "increasing",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "uh",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "drastically",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "cuz",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "785",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "76",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "manage",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "th",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "become",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "fade",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "reddit",
+        "votes": 1,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "hot",
+        "votes": 1,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "surpass",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "2022",
+        "votes": 1,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 1,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "invest",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "media",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "explains",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "nft",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "caught",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "schemes",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "floki",
+        "votes": 1,
+        "idf": 4.374168709274236
+    },
+    {
+        "keyword": "lighting",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "fine",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "fixtures",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "future",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "happy",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "participating",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "n",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "hoge",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "life",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "vitalik",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "board",
         "votes": 1,
         "idf": 5.290459441148391
     }

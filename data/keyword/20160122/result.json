@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "wow",
+        "votes": 8,
+        "idf": 3.4849066497880004
+    },
+    {
+        "keyword": "buywall",
+        "votes": 7,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "money",
+        "votes": 7,
+        "idf": 3.3895964699836756
+    },
+    {
+        "keyword": "joke",
+        "votes": 6,
+        "idf": 3.841581593726733
+    },
+    {
+        "keyword": "turned",
+        "votes": 6,
+        "idf": 3.841581593726733
+    },
+    {
+        "keyword": "thanks",
+        "votes": 5,
+        "idf": 3.995732273553991
+    },
+    {
+        "keyword": "keep",
+        "votes": 5,
+        "idf": 3.995732273553991
+    },
+    {
+        "keyword": "us",
+        "votes": 5,
+        "idf": 3.995732273553991
+    },
+    {
+        "keyword": "news",
+        "votes": 4,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "portal",
+        "votes": 4,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "latest",
+        "votes": 4,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "removed",
+        "votes": 4,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "new",
+        "votes": 4,
+        "idf": 3.995732273553991
+    },
+    {
+        "keyword": "2",
+        "votes": 4,
+        "idf": 3.841581593726733
+    },
+    {
+        "keyword": "volume",
+        "votes": 4,
+        "idf": 3.995732273553991
+    },
+    {
+        "keyword": "business",
+        "votes": 4,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "bter",
+        "votes": 4,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "invest",
+        "votes": 4,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "100x",
+        "votes": 4,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "direct",
+        "votes": 3,
+        "idf": 4.401197381662156
+    },
+    {
+        "keyword": "video",
+        "votes": 3,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "8",
+        "votes": 3,
+        "idf": 4.401197381662156
+    },
+    {
+        "keyword": "topics",
+        "votes": 3,
+        "idf": 4.401197381662156
+    },
+    {
+        "keyword": "hot",
+        "votes": 3,
+        "idf": 4.401197381662156
+    },
+    {
+        "keyword": "double",
+        "votes": 3,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "3",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "wikipedia",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "edited",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "0",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "askcoinnet",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "price",
+        "votes": 2,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "dualminer",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "usb",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "install",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "wallet",
+        "votes": 2,
+        "idf": 3.841581593726733
+    },
+    {
+        "keyword": "liked",
+        "votes": 2,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "tips",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "gone",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "strip",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "peercoin",
+        "votes": 1,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "neucoin",
+        "votes": 1,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "analysis",
+        "votes": 1,
+        "idf": 4.401197381662156
+    },
+    {
+        "keyword": "address",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "need",
+        "votes": 1,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "coin",
+        "votes": 1,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "fct",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "happening",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "bts",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "say",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "rubber",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "design",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "long",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "survive",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "term",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "litcoin",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "intraday",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "prices",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "chart",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "devcoin",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "accept",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "n0x",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "skype",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "add",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "opening",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "owners",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "nin",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "skyrockets",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "href",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "jan",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "21",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "published",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "post",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "jump",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "stable",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "stay",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "good",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "400k",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "nxt",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "asug",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "lunch",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "ceo",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "mcgeddon",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "dogebro",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "request",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "4",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "referral",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "receive",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "hour",
+        "votes": 1,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "every",
+        "votes": 1,
+        "idf": 4.688879454113936
+    },
+    {
+        "keyword": "wrapped",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "tape",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "kicks",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "passed",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "fail",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "core",
+        "votes": 1,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "culture",
+        "votes": 1,
+        "idf": 5.0943445622221
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "decreased",
+        "votes": 24,
+        "idf": 3.511223958105374
+    },
+    {
+        "keyword": "increased",
+        "votes": 23,
+        "idf": 3.5520459526256287
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 20,
+        "idf": 3.594605567044425
+    },
+    {
+        "keyword": "6",
+        "votes": 17,
+        "idf": 3.4342629169692453
+    },
+    {
+        "keyword": "7",
+        "votes": 17,
+        "idf": 3.3978952727983707
+    },
+    {
+        "keyword": "5",
+        "votes": 14,
+        "idf": 3.9575110607337933
+    },
+    {
+        "keyword": "average",
+        "votes": 13,
+        "idf": 3.594605567044425
+    },
+    {
+        "keyword": "error",
+        "votes": 11,
+        "idf": 4.245193133185574
+    },
+    {
+        "keyword": "wit",
+        "votes": 10,
+        "idf": 4.332204510175204
+    },
+    {
+        "keyword": "per",
+        "votes": 9,
+        "idf": 3.594605567044425
+    },
+    {
+        "keyword": "alt",
+        "votes": 8,
+        "idf": 4.532875205637355
+    },
+    {
+        "keyword": "tracker",
+        "votes": 8,
+        "idf": 4.532875205637355
+    },
+    {
+        "keyword": "8",
+        "votes": 8,
+        "idf": 3.511223958105374
+    },
+    {
+        "keyword": "37",
+        "votes": 8,
+        "idf": 3.83972802507741
+    },
+    {
+        "keyword": "35",
+        "votes": 7,
+        "idf": 4.532875205637355
+    },
+    {
+        "keyword": "supporting",
+        "votes": 6,
+        "idf": 4.532875205637355
+    },
+    {
+        "keyword": "622",
+        "votes": 6,
+        "idf": 4.7841896339182615
+    },
+    {
+        "keyword": "36",
+        "votes": 6,
+        "idf": 4.091042453358316
+    },
+    {
+        "keyword": "food",
+        "votes": 5,
+        "idf": 4.7841896339182615
+    },
+    {
+        "keyword": "623",
+        "votes": 5,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "624",
+        "votes": 5,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "x",
+        "votes": 5,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "theme",
+        "votes": 5,
+        "idf": 4.332204510175204
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 4,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "4",
+        "votes": 4,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "0",
+        "votes": 4,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "625",
+        "votes": 4,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "39",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "got",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "best",
+        "votes": 3,
+        "idf": 4.427514689979529
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 3.594605567044425
+    },
+    {
+        "keyword": "southern",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "podcast",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "short",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "44",
+        "votes": 3,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "hour",
+        "votes": 3,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "take",
+        "votes": 3,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "london",
+        "votes": 3,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "every",
+        "votes": 3,
+        "idf": 4.532875205637355
+    },
+    {
+        "keyword": "place",
+        "votes": 3,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "piece",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "educational",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "network",
+        "votes": 3,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "others",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "cointelegraph",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "app",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "wheel",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "article",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "live",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "follow",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "prices",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "faucet",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "2000",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "creating",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "dogeparty",
+        "votes": 2,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "34",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "two",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "windows",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "version",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "ringplus",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "coindesk",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "cell",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "proposal",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "rejects",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "mocks",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "microlending",
+        "votes": 2,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "try",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "attached",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "strings",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "upto",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "25",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "2",
+        "votes": 2,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "yea",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "08",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "providing",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "qr",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "codes",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "oh",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "community",
+        "votes": 2,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "tried",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "balance",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "keep",
+        "votes": 2,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "various",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "safe",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "completely",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "entrepreneurship",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "4316",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "sure",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "c",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "61",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "minutes",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "92",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "prepare",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "speed",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "visualizations",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "wide",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "amazing",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "91",
+        "votes": 2,
+        "idf": 5.631487494305465
+    }
+]

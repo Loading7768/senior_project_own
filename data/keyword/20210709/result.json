@@ -1,7 +1,7 @@
 [
     {
         "keyword": "kmt",
-        "votes": 41,
+        "votes": 40,
         "idf": 3.8643414454285794
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "keyword": "moon",
-        "votes": 29,
+        "votes": 30,
         "idf": 3.8643414454285794
     },
     {
@@ -148,5 +148,355 @@
         "keyword": "inu",
         "votes": 8,
         "idf": 5.84847280730409
+    },
+    {
+        "keyword": "thanks",
+        "votes": 8,
+        "idf": 4.812380875617315
+    },
+    {
+        "keyword": "payment",
+        "votes": 7,
+        "idf": 5.84847280730409
+    },
+    {
+        "keyword": "elon",
+        "votes": 7,
+        "idf": 3.902562658248777
+    },
+    {
+        "keyword": "done",
+        "votes": 7,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "mining",
+        "votes": 7,
+        "idf": 5.201845642379038
+    },
+    {
+        "keyword": "1h",
+        "votes": 7,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "reflects",
+        "votes": 7,
+        "idf": 5.943782987108415
+    },
+    {
+        "keyword": "cardano",
+        "votes": 7,
+        "idf": 5.84847280730409
+    },
+    {
+        "keyword": "park",
+        "votes": 7,
+        "idf": 6.166926538422625
+    },
+    {
+        "keyword": "come",
+        "votes": 7,
+        "idf": 5.25063580654847
+    },
+    {
+        "keyword": "opportunity",
+        "votes": 7,
+        "idf": 5.068314249754516
+    },
+    {
+        "keyword": "tell",
+        "votes": 7,
+        "idf": 5.84847280730409
+    },
+    {
+        "keyword": "eye",
+        "votes": 7,
+        "idf": 6.166926538422625
+    },
+    {
+        "keyword": "powerwall",
+        "votes": 7,
+        "idf": 5.943782987108415
+    },
+    {
+        "keyword": "solar",
+        "votes": 7,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "merit",
+        "votes": 7,
+        "idf": 5.84847280730409
+    },
+    {
+        "keyword": "musk",
+        "votes": 6,
+        "idf": 4.334345074674315
+    },
+    {
+        "keyword": "tsla",
+        "votes": 6,
+        "idf": 6.049143502766242
+    },
+    {
+        "keyword": "badly",
+        "votes": 6,
+        "idf": 5.943782987108415
+    },
+    {
+        "keyword": "think",
+        "votes": 6,
+        "idf": 4.812380875617315
+    },
+    {
+        "keyword": "percentage",
+        "votes": 6,
+        "idf": 6.166926538422625
+    },
+    {
+        "keyword": "current",
+        "votes": 6,
+        "idf": 4.2760761665503395
+    },
+    {
+        "keyword": "world",
+        "votes": 6,
+        "idf": 5.301929100936021
+    },
+    {
+        "keyword": "caught",
+        "votes": 6,
+        "idf": 6.300457931047148
+    },
+    {
+        "keyword": "earlier",
+        "votes": 6,
+        "idf": 6.300457931047148
+    },
+    {
+        "keyword": "miss",
+        "votes": 6,
+        "idf": 5.681418722640924
+    },
+    {
+        "keyword": "key",
+        "votes": 6,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "says",
+        "votes": 6,
+        "idf": 5.681418722640924
+    },
+    {
+        "keyword": "work",
+        "votes": 6,
+        "idf": 5.3559963222062965
+    },
+    {
+        "keyword": "please",
+        "votes": 6,
+        "idf": 4.780632177302735
+    },
+    {
+        "keyword": "pump",
+        "votes": 6,
+        "idf": 5.3559963222062965
+    },
+    {
+        "keyword": "sign",
+        "votes": 5,
+        "idf": 6.049143502766242
+    },
+    {
+        "keyword": "never",
+        "votes": 5,
+        "idf": 5.3559963222062965
+    },
+    {
+        "keyword": "motors",
+        "votes": 5,
+        "idf": 6.454608610874406
+    },
+    {
+        "keyword": "tesla",
+        "votes": 5,
+        "idf": 4.845170698440306
+    },
+    {
+        "keyword": "dollar",
+        "votes": 5,
+        "idf": 6.049143502766242
+    },
+    {
+        "keyword": "pay",
+        "votes": 5,
+        "idf": 5.5383178790002505
+    },
+    {
+        "keyword": "strong",
+        "votes": 5,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "trending",
+        "votes": 5,
+        "idf": 6.454608610874406
+    },
+    {
+        "keyword": "luck",
+        "votes": 5,
+        "idf": 6.454608610874406
+    },
+    {
+        "keyword": "today",
+        "votes": 5,
+        "idf": 5.25063580654847
+    },
+    {
+        "keyword": "binance",
+        "votes": 5,
+        "idf": 6.300457931047148
+    },
+    {
+        "keyword": "post",
+        "votes": 5,
+        "idf": 6.454608610874406
+    },
+    {
+        "keyword": "regulatory",
+        "votes": 5,
+        "idf": 6.049143502766242
+    },
+    {
+        "keyword": "0",
+        "votes": 5,
+        "idf": 6.300457931047148
+    },
+    {
+        "keyword": "right",
+        "votes": 5,
+        "idf": 5.3559963222062965
+    },
+    {
+        "keyword": "usd",
+        "votes": 5,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "let",
+        "votes": 5,
+        "idf": 4.950531214098132
+    },
+    {
+        "keyword": "people",
+        "votes": 5,
+        "idf": 4.485167964408898
+    },
+    {
+        "keyword": "major",
+        "votes": 5,
+        "idf": 6.300457931047148
+    },
+    {
+        "keyword": "add",
+        "votes": 5,
+        "idf": 6.166926538422625
+    },
+    {
+        "keyword": "keep",
+        "votes": 5,
+        "idf": 5.413154736046245
+    },
+    {
+        "keyword": "promising",
+        "votes": 5,
+        "idf": 6.300457931047148
+    },
+    {
+        "keyword": "power",
+        "votes": 5,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "follow",
+        "votes": 5,
+        "idf": 5.155325626744145
+    },
+    {
+        "keyword": "future",
+        "votes": 5,
+        "idf": 4.508698461819092
+    },
+    {
+        "keyword": "join",
+        "votes": 5,
+        "idf": 5.02749225523426
+    },
+    {
+        "keyword": "nft",
+        "votes": 5,
+        "idf": 5.84847280730409
+    },
+    {
+        "keyword": "really",
+        "votes": 5,
+        "idf": 5.301929100936021
+    },
+    {
+        "keyword": "solid",
+        "votes": 5,
+        "idf": 6.166926538422625
+    },
+    {
+        "keyword": "community",
+        "votes": 5,
+        "idf": 4.74986051863598
+    },
+    {
+        "keyword": "invest",
+        "votes": 4,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "airdrop",
+        "votes": 4,
+        "idf": 5.607310750487202
+    },
+    {
+        "keyword": "make",
+        "votes": 4,
+        "idf": 4.662849141646351
+    },
+    {
+        "keyword": "definitely",
+        "votes": 4,
+        "idf": 6.300457931047148
+    },
+    {
+        "keyword": "far",
+        "votes": 4,
+        "idf": 5.76146143031446
+    },
+    {
+        "keyword": "tweet",
+        "votes": 4,
+        "idf": 5.3559963222062965
+    },
+    {
+        "keyword": "7d",
+        "votes": 4,
+        "idf": 6.6369301676683605
+    },
+    {
+        "keyword": "30d",
+        "votes": 4,
+        "idf": 6.6369301676683605
+    },
+    {
+        "keyword": "ensures",
+        "votes": 4,
+        "idf": 6.6369301676683605
     }
 ]

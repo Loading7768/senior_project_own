@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "8",
+        "votes": 32,
+        "idf": 3.203739258357413
+    },
+    {
+        "keyword": "price",
+        "votes": 31,
+        "idf": 3.11918187032935
+    },
+    {
+        "keyword": "7",
+        "votes": 31,
+        "idf": 3.2335922215070942
+    },
+    {
+        "keyword": "decreased",
+        "votes": 24,
+        "idf": 3.511223958105374
+    },
+    {
+        "keyword": "cst",
+        "votes": 23,
+        "idf": 3.5520459526256287
+    },
+    {
+        "keyword": "bits",
+        "votes": 23,
+        "idf": 3.5520459526256287
+    },
+    {
+        "keyword": "increased",
+        "votes": 22,
+        "idf": 3.594605567044425
+    },
+    {
+        "keyword": "0",
+        "votes": 21,
+        "idf": 3.6390573296152584
+    },
+    {
+        "keyword": "9",
+        "votes": 21,
+        "idf": 3.594605567044425
+    },
+    {
+        "keyword": "across",
+        "votes": 8,
+        "idf": 4.532875205637355
+    },
+    {
+        "keyword": "36",
+        "votes": 8,
+        "idf": 4.427514689979529
+    },
+    {
+        "keyword": "error",
+        "votes": 7,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "41",
+        "votes": 6,
+        "idf": 4.7841896339182615
+    },
+    {
+        "keyword": "cheapair",
+        "votes": 6,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "468",
+        "votes": 5,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "2",
+        "votes": 4,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "interview",
+        "votes": 4,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "claim",
+        "votes": 4,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "tip",
+        "votes": 4,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "via",
+        "votes": 4,
+        "idf": 4.165150425512038
+    },
+    {
+        "keyword": "40",
+        "votes": 4,
+        "idf": 4.332204510175204
+    },
+    {
+        "keyword": "accept",
+        "votes": 4,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "taking",
+        "votes": 4,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "ongoing",
+        "votes": 4,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "poa",
+        "votes": 4,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "event",
+        "votes": 4,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "466",
+        "votes": 4,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "incubator",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "partners",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "startup",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 4.427514689979529
+    },
+    {
+        "keyword": "genesis",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "gh",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "introduces",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "support",
+        "votes": 3,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "467",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "accepts",
+        "votes": 3,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "37",
+        "votes": 3,
+        "idf": 4.165150425512038
+    },
+    {
+        "keyword": "39",
+        "votes": 3,
+        "idf": 4.091042453358316
+    },
+    {
+        "keyword": "fun",
+        "votes": 3,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "464",
+        "votes": 3,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "5",
+        "votes": 3,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "travel",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "much",
+        "votes": 2,
+        "idf": 4.532875205637355
+    },
+    {
+        "keyword": "buy",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "yawn",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "talks",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "mohland",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "creator",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "24",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "flyer",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "takes",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "man",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "louisville",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "promote",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "forbes",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "shibe",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "currencies",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "apple",
+        "votes": 2,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "79",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "planning",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "trip",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "35",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "463",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "3",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "adventures",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "cloud",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "mining",
+        "votes": 2,
+        "idf": 5.120661870539474
+    },
+    {
+        "keyword": "sold",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "paypal",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "doge",
+        "votes": 2,
+        "idf": 4.091042453358316
+    },
+    {
+        "keyword": "55",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "take",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "best",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "number",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "get",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "57",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "63",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "cheap",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "12",
+        "votes": 2,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "madbitcoins",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "hacking",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "hacked",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "future",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "98",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "5302",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "472",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "btctrip",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "coindesk",
+        "votes": 1,
+        "idf": 5.631487494305465
+    },
+    {
+        "keyword": "service",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "advanced",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "nicehash",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "course",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "open",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "opensap",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "card",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "pixels",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "turns",
+        "votes": 1,
+        "idf": 6.0369526024136295
+    }
+]

@@ -28,5 +28,35 @@
         "Y_length_percent_of_X": 90.38,
         "X_length_percent_of_Y": 110.64,
         "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "#dogecoin much wow 🙌💎🚀",
+        "X_token": "dogecoin, much, wow",
+        "X_tweet_count": 31,
+        "X_username": "DogecoinBoy98",
+        "Y_text": "Much wow #dogecoin hodlers",
+        "Y_token": "much, wow, dogecoin, hodlers",
+        "Y_tweet_count": 53,
+        "Y_username": "DogecoinBoy98",
+        "X_length": 22,
+        "Y_length": 26,
+        "Y_length_percent_of_X": 118.18,
+        "X_length_percent_of_Y": 84.62,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@elonmusk Wen #dogecoin x @tesla charge? @elonmusk #Dogefather",
+        "X_token": "elonmusk, wen, dogecoin, x, tesla, charge, elonmusk, dogefather",
+        "X_tweet_count": 57,
+        "X_username": "DogecoinBoy98",
+        "Y_text": "#dogecoin X @tesla charge!!! @elonmusk #Dogefather",
+        "Y_token": "dogecoin, x, tesla, charge, elonmusk, dogefather",
+        "Y_tweet_count": 58,
+        "Y_username": "DogecoinBoy98",
+        "X_length": 62,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 80.65,
+        "X_length_percent_of_Y": 124.0,
+        "dice_coefficient": 92.31
     }
 ]

@@ -418,5 +418,35 @@
         "Y_length_percent_of_X": 110.0,
         "X_length_percent_of_Y": 90.91,
         "dice_coefficient": 95.83
+    },
+    {
+        "X_text": "@jordanj77 Best video of #dogearmy .Gald to be a part of #dogecoin community.Together stronger 💪\n#DogecoinToTheMoon 🐕🚀",
+        "X_token": "jordanj77, best, video, dogearmy, part, dogecoin, stronger, dogecointothemoon",
+        "X_tweet_count": 72,
+        "X_username": "DOGE United States🇺🇸",
+        "Y_text": "Best video of #dogearmy .Gald to be a part of #dogecoin community.Together stronger 💪\n#DogecoinToTheMoon 🐕🚀",
+        "Y_token": "best, video, dogearmy, part, dogecoin, stronger, dogecointothemoon",
+        "Y_tweet_count": 73,
+        "Y_username": "DOGE United States🇺🇸",
+        "X_length": 118,
+        "Y_length": 107,
+        "Y_length_percent_of_X": 90.68,
+        "X_length_percent_of_Y": 110.28,
+        "dice_coefficient": 93.33
+    },
+    {
+        "X_text": "#dogecoin with #Dogefather 🐕💪🚀 https://t.co/gVOk3F3RvD",
+        "X_token": "dogecoin, dogefather, https",
+        "X_tweet_count": 86,
+        "X_username": "DOGE United States🇺🇸",
+        "Y_text": "#dogecoin with #Dogefather 🐕💪🚀 https://t.co/MSukVakNwB",
+        "Y_token": "dogecoin, dogefather, https",
+        "Y_tweet_count": 87,
+        "Y_username": "DOGE United States🇺🇸",
+        "X_length": 54,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
     }
 ]

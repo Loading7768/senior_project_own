@@ -1,9 +1,9 @@
-﻿QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2018-12-21 since:2018-12-20'
+﻿QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-08 since:2025-08-07'
 SEARCH = 'Latest'
-執行時間：2025-08-01 00:05:28 ~ 2025-08-01 00:09:09 (0 day 0 hr 3 min)
-推文數量：282 (0 WrittingError)
-推文時間：Thu Dec 20 05:15:26 +0000 2018 ~ Thu Dec 20 23:55:09 +0000 2018 (GMT+0)
+執行時間：2025-08-08 21:25:41 ~ 2025-08-08 21:49:58 (0 day 0 hr 24 min)
+推文數量：1082 (0 WrittingError)
+推文時間：Thu Aug 07 20:51:55 +0000 2025 ~ Thu Aug 07 23:59:39 +0000 2025 (GMT+0)
 Timestamp：
-	2025-08-01 00:05:28 Start
-	2025-08-01 00:05:28 FileNotFoundError
+	2025-08-08 21:25:41 Start
+	2025-08-08 21:25:43 FileNotFoundError
 

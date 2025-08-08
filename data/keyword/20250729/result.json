@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "beer",
+        "votes": 45,
+        "idf": 4.024196534709384
+    },
+    {
+        "keyword": "dogecoin",
+        "votes": 42,
+        "idf": 3.045129396691057
+    },
+    {
+        "keyword": "room",
+        "votes": 39,
+        "idf": 3.809539597272493
+    },
+    {
+        "keyword": "fridge",
+        "votes": 32,
+        "idf": 4.176002547577388
+    },
+    {
+        "keyword": "2",
+        "votes": 20,
+        "idf": 4.226433401204281
+    },
+    {
+        "keyword": "1",
+        "votes": 18,
+        "idf": 4.261524721015551
+    },
+    {
+        "keyword": "food",
+        "votes": 18,
+        "idf": 5.068000586882499
+    },
+    {
+        "keyword": "go",
+        "votes": 18,
+        "idf": 4.885679030088545
+    },
+    {
+        "keyword": "3",
+        "votes": 15,
+        "idf": 4.2795432265182285
+    },
+    {
+        "keyword": "missing",
+        "votes": 14,
+        "idf": 5.195833958392384
+    },
+    {
+        "keyword": "guns",
+        "votes": 13,
+        "idf": 5.15138219582155
+    },
+    {
+        "keyword": "dog",
+        "votes": 12,
+        "idf": 4.731528350261286
+    },
+    {
+        "keyword": "good",
+        "votes": 12,
+        "idf": 4.525676296057137
+    },
+    {
+        "keyword": "buy",
+        "votes": 12,
+        "idf": 4.852889207265553
+    },
+    {
+        "keyword": "see",
+        "votes": 11,
+        "idf": 4.573304345046392
+    },
+    {
+        "keyword": "jeans",
+        "votes": 11,
+        "idf": 5.242353974027276
+    },
+    {
+        "keyword": "nice",
+        "votes": 11,
+        "idf": 5.396504653854535
+    },
+    {
+        "keyword": "mini",
+        "votes": 10,
+        "idf": 5.396504653854535
+    },
+    {
+        "keyword": "look",
+        "votes": 9,
+        "idf": 5.291144138196708
+    },
+    {
+        "keyword": "yeah",
+        "votes": 8,
+        "idf": 5.396504653854535
+    },
+    {
+        "keyword": "love",
+        "votes": 8,
+        "idf": 5.647819082135441
+    },
+    {
+        "keyword": "gun",
+        "votes": 7,
+        "idf": 5.984291318756654
+    },
+    {
+        "keyword": "thank",
+        "votes": 7,
+        "idf": 5.647819082135441
+    },
+    {
+        "keyword": "great",
+        "votes": 7,
+        "idf": 5.801969761962699
+    },
+    {
+        "keyword": "bed",
+        "votes": 7,
+        "idf": 4.9910395457463705
+    },
+    {
+        "keyword": "better",
+        "votes": 7,
+        "idf": 5.4536630676944835
+    },
+    {
+        "keyword": "well",
+        "votes": 7,
+        "idf": 5.4536630676944835
+    },
+    {
+        "keyword": "mean",
+        "votes": 7,
+        "idf": 5.514287689510918
+    },
+    {
+        "keyword": "like",
+        "votes": 7,
+        "idf": 3.832529115497192
+    },
+    {
+        "keyword": "maybe",
+        "votes": 6,
+        "idf": 5.4536630676944835
+    },
+    {
+        "keyword": "women",
+        "votes": 6,
+        "idf": 6.0896518344144805
+    },
+    {
+        "keyword": "sure",
+        "votes": 6,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "yes",
+        "votes": 6,
+        "idf": 5.195833958392384
+    },
+    {
+        "keyword": "nope",
+        "votes": 5,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "needs",
+        "votes": 5,
+        "idf": 5.647819082135441
+    },
+    {
+        "keyword": "know",
+        "votes": 5,
+        "idf": 5.4536630676944835
+    },
+    {
+        "keyword": "graph",
+        "votes": 5,
+        "idf": 6.495116942522644
+    },
+    {
+        "keyword": "candlestick",
+        "votes": 5,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "time",
+        "votes": 5,
+        "idf": 4.821140508950974
+    },
+    {
+        "keyword": "way",
+        "votes": 5,
+        "idf": 5.4536630676944835
+    },
+    {
+        "keyword": "man",
+        "votes": 5,
+        "idf": 5.7219270542891625
+    },
+    {
+        "keyword": "long",
+        "votes": 5,
+        "idf": 5.242353974027276
+    },
+    {
+        "keyword": "hold",
+        "votes": 5,
+        "idf": 5.342437432584259
+    },
+    {
+        "keyword": "bar",
+        "votes": 5,
+        "idf": 6.0896518344144805
+    },
+    {
+        "keyword": "coin",
+        "votes": 5,
+        "idf": 4.480213921980379
+    },
+    {
+        "keyword": "think",
+        "votes": 5,
+        "idf": 4.954671901575495
+    },
+    {
+        "keyword": "lots",
+        "votes": 5,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "money",
+        "votes": 5,
+        "idf": 5.028779873729217
+    },
+    {
+        "keyword": "full",
+        "votes": 5,
+        "idf": 5.888981138952329
+    },
+    {
+        "keyword": "none",
+        "votes": 5,
+        "idf": 5.984291318756654
+    },
+    {
+        "keyword": "beautiful",
+        "votes": 5,
+        "idf": 5.888981138952329
+    },
+    {
+        "keyword": "alena",
+        "votes": 5,
+        "idf": 6.0896518344144805
+    },
+    {
+        "keyword": "something",
+        "votes": 5,
+        "idf": 5.7219270542891625
+    },
+    {
+        "keyword": "miss",
+        "votes": 5,
+        "idf": 5.7219270542891625
+    },
+    {
+        "keyword": "bearish",
+        "votes": 4,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "mp",
+        "votes": 4,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "crowd",
+        "votes": 4,
+        "idf": 6.0896518344144805
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 5.342437432584259
+    },
+    {
+        "keyword": "next",
+        "votes": 4,
+        "idf": 4.458235015261605
+    },
+    {
+        "keyword": "true",
+        "votes": 4,
+        "idf": 5.984291318756654
+    },
+    {
+        "keyword": "wall",
+        "votes": 4,
+        "idf": 5.801969761962699
+    },
+    {
+        "keyword": "row",
+        "votes": 4,
+        "idf": 6.495116942522644
+    },
+    {
+        "keyword": "guess",
+        "votes": 4,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "lady",
+        "votes": 4,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "accept",
+        "votes": 4,
+        "idf": 6.495116942522644
+    },
+    {
+        "keyword": "day",
+        "votes": 4,
+        "idf": 4.852889207265553
+    },
+    {
+        "keyword": "genes",
+        "votes": 4,
+        "idf": 6.677438499316599
+    },
+    {
+        "keyword": "kitchen",
+        "votes": 4,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "choice",
+        "votes": 4,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "thing",
+        "votes": 4,
+        "idf": 5.801969761962699
+    },
+    {
+        "keyword": "pizza",
+        "votes": 4,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "lfg",
+        "votes": 4,
+        "idf": 6.677438499316599
+    },
+    {
+        "keyword": "us",
+        "votes": 4,
+        "idf": 5.068000586882499
+    },
+    {
+        "keyword": "bathroom",
+        "votes": 4,
+        "idf": 6.677438499316599
+    },
+    {
+        "keyword": "pretty",
+        "votes": 4,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "much",
+        "votes": 4,
+        "idf": 5.4536630676944835
+    },
+    {
+        "keyword": "looks",
+        "votes": 4,
+        "idf": 5.4536630676944835
+    },
+    {
+        "keyword": "books",
+        "votes": 4,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "first",
+        "votes": 4,
+        "idf": 5.068000586882499
+    },
+    {
+        "keyword": "tv",
+        "votes": 4,
+        "idf": 5.15138219582155
+    },
+    {
+        "keyword": "guitar",
+        "votes": 4,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "cold",
+        "votes": 4,
+        "idf": 6.495116942522644
+    },
+    {
+        "keyword": "spot",
+        "votes": 4,
+        "idf": 6.0896518344144805
+    },
+    {
+        "keyword": "pengu",
+        "votes": 4,
+        "idf": 4.954671901575495
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "small",
+        "votes": 4,
+        "idf": 6.0896518344144805
+    },
+    {
+        "keyword": "sandwich",
+        "votes": 4,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "everything",
+        "votes": 4,
+        "idf": 5.647819082135441
+    },
+    {
+        "keyword": "seat",
+        "votes": 4,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "two",
+        "votes": 4,
+        "idf": 5.888981138952329
+    },
+    {
+        "keyword": "flip",
+        "votes": 4,
+        "idf": 6.0896518344144805
+    },
+    {
+        "keyword": "really",
+        "votes": 4,
+        "idf": 5.514287689510918
+    },
+    {
+        "keyword": "guys",
+        "votes": 4,
+        "idf": 6.495116942522644
+    },
+    {
+        "keyword": "hours",
+        "votes": 4,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "4",
+        "votes": 4,
+        "idf": 5.7219270542891625
+    },
+    {
+        "keyword": "yep",
+        "votes": 3,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "white",
+        "votes": 3,
+        "idf": 5.801969761962699
+    },
+    {
+        "keyword": "definitely",
+        "votes": 3,
+        "idf": 6.340966262695386
+    },
+    {
+        "keyword": "racist",
+        "votes": 3,
+        "idf": 6.2074348700708635
+    },
+    {
+        "keyword": "microwave",
+        "votes": 3,
+        "idf": 6.900582050630809
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "coinbase",
+        "votes": 22,
+        "idf": 3.0235610832853794
+    },
+    {
+        "keyword": "usd",
+        "votes": 22,
+        "idf": 3.0235610832853794
+    },
+    {
+        "keyword": "1000",
+        "votes": 16,
+        "idf": 3.325841955158313
+    },
+    {
+        "keyword": "1",
+        "votes": 15,
+        "idf": 3.325841955158313
+    },
+    {
+        "keyword": "qr",
+        "votes": 15,
+        "idf": 3.386466576974748
+    },
+    {
+        "keyword": "redeem",
+        "votes": 15,
+        "idf": 3.386466576974748
+    },
+    {
+        "keyword": "btc",
+        "votes": 12,
+        "idf": 3.268683541318364
+    },
+    {
+        "keyword": "vircurex",
+        "votes": 12,
+        "idf": 3.5941059417529924
+    },
+    {
+        "keyword": "scan",
+        "votes": 11,
+        "idf": 3.386466576974748
+    },
+    {
+        "keyword": "approx",
+        "votes": 10,
+        "idf": 3.0235610832853794
+    },
+    {
+        "keyword": "18",
+        "votes": 8,
+        "idf": 3.9618307218783095
+    },
+    {
+        "keyword": "price",
+        "votes": 6,
+        "idf": 3.068012845856213
+    },
+    {
+        "keyword": "supply",
+        "votes": 4,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "vol",
+        "votes": 4,
+        "idf": 4.213145150159216
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "keep",
+        "votes": 4,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "us",
+        "votes": 4,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "3",
+        "votes": 4,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "60",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "minutes",
+        "votes": 3,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "2",
+        "votes": 3,
+        "idf": 4.213145150159216
+    },
+    {
+        "keyword": "contest",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "challenge",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "enter",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "local",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "account",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "40",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "offer",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "buying",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "300",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "part",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "decide",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "faucet",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "rank",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "6",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "0",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "guide",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "building",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "investin",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 2,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "via",
+        "votes": 2,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "carriercomm",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "better",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "xmine",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "namecoin",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "belotti",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "nikita",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "alessandra",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "avellino",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "pending",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "know",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "withdrawals",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "078",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "laquanda",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "blotsky",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "84",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "games",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "keys",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "remember",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "41",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "life",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "antila",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "marianne",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "sanda",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "bodell",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "merle",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "betak",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "haley",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "aitken",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "guatemala",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "top",
+        "votes": 1,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "legit",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "attached",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "strings",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "claim",
+        "votes": 1,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "accept",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "sorry",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "terribly",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "bingman",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "margarite",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "382",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "beukelman",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "rosenda",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "angis",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "elizabet",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "behen",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "reyes",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "let",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "bots",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "joine",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "exchange",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "enables",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "integrates",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "791",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "v\u00eda",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "alert",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "gertude",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "atchley",
+        "votes": 1,
+        "idf": 5.465908118654584
+    }
+]

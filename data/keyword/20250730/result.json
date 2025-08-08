@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "go",
+        "votes": 55,
+        "idf": 4.413216366688932
+    },
+    {
+        "keyword": "love",
+        "votes": 46,
+        "idf": 4.619348572176605
+    },
+    {
+        "keyword": "white",
+        "votes": 34,
+        "idf": 4.668741327506181
+    },
+    {
+        "keyword": "good",
+        "votes": 34,
+        "idf": 4.538379509642938
+    },
+    {
+        "keyword": "yes",
+        "votes": 31,
+        "idf": 4.761523060957147
+    },
+    {
+        "keyword": "beautiful",
+        "votes": 27,
+        "idf": 5.300519561689835
+    },
+    {
+        "keyword": "well",
+        "votes": 20,
+        "idf": 5.126166174545057
+    },
+    {
+        "keyword": "coin",
+        "votes": 18,
+        "idf": 4.423068663131943
+    },
+    {
+        "keyword": "moon",
+        "votes": 18,
+        "idf": 5.166988169065312
+    },
+    {
+        "keyword": "jeans",
+        "votes": 17,
+        "idf": 5.5724532771734765
+    },
+    {
+        "keyword": "room",
+        "votes": 17,
+        "idf": 5.780092641951721
+    },
+    {
+        "keyword": "next",
+        "votes": 14,
+        "idf": 4.3842288298156795
+    },
+    {
+        "keyword": "cocoro",
+        "votes": 14,
+        "idf": 5.511828655357041
+    },
+    {
+        "keyword": "dog",
+        "votes": 14,
+        "idf": 5.030855994740732
+    },
+    {
+        "keyword": "see",
+        "votes": 13,
+        "idf": 4.7207010664368925
+    },
+    {
+        "keyword": "comms",
+        "votes": 13,
+        "idf": 6.265600457733422
+    },
+    {
+        "keyword": "think",
+        "votes": 12,
+        "idf": 5.012837489238054
+    },
+    {
+        "keyword": "eyes",
+        "votes": 12,
+        "idf": 5.427271267328979
+    },
+    {
+        "keyword": "look",
+        "votes": 11,
+        "idf": 5.231526690202883
+    },
+    {
+        "keyword": "like",
+        "votes": 11,
+        "idf": 3.6958549280083917
+    },
+    {
+        "keyword": "lol",
+        "votes": 11,
+        "idf": 5.636991798311048
+    },
+    {
+        "keyword": "best",
+        "votes": 11,
+        "idf": 5.231526690202883
+    },
+    {
+        "keyword": "great",
+        "votes": 11,
+        "idf": 5.780092641951721
+    },
+    {
+        "keyword": "pretty",
+        "votes": 11,
+        "idf": 6.042456906419212
+    },
+    {
+        "keyword": "sister",
+        "votes": 11,
+        "idf": 6.265600457733422
+    },
+    {
+        "keyword": "2",
+        "votes": 11,
+        "idf": 4.833496560582237
+    },
+    {
+        "keyword": "woof",
+        "votes": 11,
+        "idf": 5.947146726614887
+    },
+    {
+        "keyword": "still",
+        "votes": 11,
+        "idf": 4.527329673456353
+    },
+    {
+        "keyword": "king",
+        "votes": 11,
+        "idf": 5.780092641951721
+    },
+    {
+        "keyword": "pay",
+        "votes": 11,
+        "idf": 5.860135349625257
+    },
+    {
+        "keyword": "wrong",
+        "votes": 11,
+        "idf": 6.330138978870993
+    },
+    {
+        "keyword": "hours",
+        "votes": 11,
+        "idf": 5.819313355105002
+    },
+    {
+        "keyword": "1",
+        "votes": 10,
+        "idf": 4.484312288372662
+    },
+    {
+        "keyword": "neiro",
+        "votes": 10,
+        "idf": 5.482841118483789
+    },
+    {
+        "keyword": "always",
+        "votes": 10,
+        "idf": 5.604201975488056
+    },
+    {
+        "keyword": "meme",
+        "votes": 10,
+        "idf": 4.020909343158278
+    },
+    {
+        "keyword": "legacy",
+        "votes": 10,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "morning",
+        "votes": 10,
+        "idf": 6.330138978870993
+    },
+    {
+        "keyword": "mp",
+        "votes": 9,
+        "idf": 6.330138978870993
+    },
+    {
+        "keyword": "crowd",
+        "votes": 9,
+        "idf": 6.330138978870993
+    },
+    {
+        "keyword": "stats",
+        "votes": 9,
+        "idf": 6.265600457733422
+    },
+    {
+        "keyword": "girl",
+        "votes": 9,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "send",
+        "votes": 9,
+        "idf": 6.042456906419212
+    },
+    {
+        "keyword": "hit",
+        "votes": 9,
+        "idf": 5.541681618506723
+    },
+    {
+        "keyword": "bro",
+        "votes": 9,
+        "idf": 5.99366674224978
+    },
+    {
+        "keyword": "one",
+        "votes": 9,
+        "idf": 4.242398634376462
+    },
+    {
+        "keyword": "flip",
+        "votes": 9,
+        "idf": 6.265600457733422
+    },
+    {
+        "keyword": "guys",
+        "votes": 9,
+        "idf": 6.147817422077038
+    },
+    {
+        "keyword": "told",
+        "votes": 8,
+        "idf": 5.349309725859267
+    },
+    {
+        "keyword": "nice",
+        "votes": 8,
+        "idf": 6.330138978870993
+    },
+    {
+        "keyword": "skinny",
+        "votes": 8,
+        "idf": 6.735604086979157
+    },
+    {
+        "keyword": "thank",
+        "votes": 8,
+        "idf": 6.265600457733422
+    },
+    {
+        "keyword": "genes",
+        "votes": 8,
+        "idf": 6.204975835916986
+    },
+    {
+        "keyword": "take",
+        "votes": 8,
+        "idf": 5.349309725859267
+    },
+    {
+        "keyword": "bought",
+        "votes": 8,
+        "idf": 5.819313355105002
+    },
+    {
+        "keyword": "update",
+        "votes": 8,
+        "idf": 5.300519561689835
+    },
+    {
+        "keyword": "ton",
+        "votes": 8,
+        "idf": 4.833496560582237
+    },
+    {
+        "keyword": "god",
+        "votes": 8,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "true",
+        "votes": 8,
+        "idf": 5.7423523139688735
+    },
+    {
+        "keyword": "memecoin",
+        "votes": 8,
+        "idf": 5.349309725859267
+    },
+    {
+        "keyword": "miss",
+        "votes": 8,
+        "idf": 5.604201975488056
+    },
+    {
+        "keyword": "alena",
+        "votes": 8,
+        "idf": 6.473239822511666
+    },
+    {
+        "keyword": "please",
+        "votes": 8,
+        "idf": 5.99366674224978
+    },
+    {
+        "keyword": "black",
+        "votes": 8,
+        "idf": 5.99366674224978
+    },
+    {
+        "keyword": "guns",
+        "votes": 8,
+        "idf": 6.399131850357945
+    },
+    {
+        "keyword": "agree",
+        "votes": 7,
+        "idf": 6.399131850357945
+    },
+    {
+        "keyword": "course",
+        "votes": 7,
+        "idf": 6.8409646026369835
+    },
+    {
+        "keyword": "imagine",
+        "votes": 7,
+        "idf": 6.147817422077038
+    },
+    {
+        "keyword": "sure",
+        "votes": 7,
+        "idf": 5.819313355105002
+    },
+    {
+        "keyword": "2025",
+        "votes": 7,
+        "idf": 4.9777461694267835
+    },
+    {
+        "keyword": "going",
+        "votes": 7,
+        "idf": 5.253999546054942
+    },
+    {
+        "keyword": "fam",
+        "votes": 7,
+        "idf": 6.473239822511666
+    },
+    {
+        "keyword": "woman",
+        "votes": 7,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "better",
+        "votes": 7,
+        "idf": 5.705984669797999
+    },
+    {
+        "keyword": "steady",
+        "votes": 7,
+        "idf": 6.473239822511666
+    },
+    {
+        "keyword": "everyone",
+        "votes": 7,
+        "idf": 5.482841118483789
+    },
+    {
+        "keyword": "posted",
+        "votes": 7,
+        "idf": 6.735604086979157
+    },
+    {
+        "keyword": "san",
+        "votes": 7,
+        "idf": 6.8409646026369835
+    },
+    {
+        "keyword": "buy",
+        "votes": 7,
+        "idf": 4.879306096613531
+    },
+    {
+        "keyword": "post",
+        "votes": 7,
+        "idf": 5.902694964044053
+    },
+    {
+        "keyword": "worth",
+        "votes": 6,
+        "idf": 5.819313355105002
+    },
+    {
+        "keyword": "wco",
+        "votes": 6,
+        "idf": 6.204975835916986
+    },
+    {
+        "keyword": "racist",
+        "votes": 6,
+        "idf": 6.330138978870993
+    },
+    {
+        "keyword": "absolutely",
+        "votes": 6,
+        "idf": 6.473239822511666
+    },
+    {
+        "keyword": "definitely",
+        "votes": 6,
+        "idf": 6.042456906419212
+    },
+    {
+        "keyword": "started",
+        "votes": 6,
+        "idf": 5.947146726614887
+    },
+    {
+        "keyword": "way",
+        "votes": 6,
+        "idf": 5.604201975488056
+    },
+    {
+        "keyword": "guess",
+        "votes": 6,
+        "idf": 6.473239822511666
+    },
+    {
+        "keyword": "yeah",
+        "votes": 6,
+        "idf": 6.330138978870993
+    },
+    {
+        "keyword": "cycle",
+        "votes": 6,
+        "idf": 5.705984669797999
+    },
+    {
+        "keyword": "perfect",
+        "votes": 6,
+        "idf": 6.735604086979157
+    },
+    {
+        "keyword": "women",
+        "votes": 6,
+        "idf": 6.399131850357945
+    },
+    {
+        "keyword": "coming",
+        "votes": 6,
+        "idf": 5.454670241517093
+    },
+    {
+        "keyword": "hope",
+        "votes": 6,
+        "idf": 6.204975835916986
+    },
+    {
+        "keyword": "happy",
+        "votes": 6,
+        "idf": 6.147817422077038
+    },
+    {
+        "keyword": "toned",
+        "votes": 6,
+        "idf": 6.640293907174832
+    },
+    {
+        "keyword": "something",
+        "votes": 6,
+        "idf": 5.5724532771734765
+    },
+    {
+        "keyword": "actually",
+        "votes": 6,
+        "idf": 5.902694964044053
+    },
+    {
+        "keyword": "exactly",
+        "votes": 6,
+        "idf": 6.958747638293367
+    },
+    {
+        "keyword": "welcome",
+        "votes": 6,
+        "idf": 6.330138978870993
+    }
+]

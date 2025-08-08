@@ -15,12 +15,12 @@
         "idf": 3.307834448880189
     },
     {
-        "keyword": "ether",
+        "keyword": "endorsement",
         "votes": 6,
         "idf": 4.999510459551262
     },
     {
-        "keyword": "combined",
+        "keyword": "partly",
         "votes": 6,
         "idf": 4.999510459551262
     },
@@ -35,22 +35,17 @@
         "idf": 4.865979066926739
     },
     {
-        "keyword": "moon",
-        "votes": 5,
-        "idf": 4.865979066926739
-    },
-    {
         "keyword": "usd",
         "votes": 4,
         "idf": 5.15366113937852
     },
     {
-        "keyword": "usa",
+        "keyword": "searched",
         "votes": 4,
         "idf": 5.335982696172475
     },
     {
-        "keyword": "searched",
+        "keyword": "usa",
         "votes": 4,
         "idf": 5.335982696172475
     },
@@ -73,6 +68,11 @@
         "keyword": "check",
         "votes": 4,
         "idf": 4.999510459551262
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 4.865979066926739
     },
     {
         "keyword": "far",
@@ -120,7 +120,7 @@
         "idf": 4.380471251145039
     },
     {
-        "keyword": "ackman",
+        "keyword": "bill",
         "votes": 3,
         "idf": 5.5591262474866845
     },
@@ -135,7 +135,7 @@
         "idf": 3.033397603178429
     },
     {
-        "keyword": "hover",
+        "keyword": "december",
         "votes": 3,
         "idf": 5.5591262474866845
     },
@@ -148,5 +148,355 @@
         "keyword": "like",
         "votes": 3,
         "idf": 3.7265447837383743
+    },
+    {
+        "keyword": "updated",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "gone",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "variance",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "nothing",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "sign",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "coming",
+        "votes": 2,
+        "idf": 4.865979066926739
+    },
+    {
+        "keyword": "21st",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "airport",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "including",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "decreasing",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "bearish",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "57",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "active",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "nice",
+        "votes": 2,
+        "idf": 4.865979066926739
+    },
+    {
+        "keyword": "made",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "guy",
+        "votes": 2,
+        "idf": 5.15366113937852
+    },
+    {
+        "keyword": "son",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "least",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "based",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "dyor",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "incoming",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "lot",
+        "votes": 2,
+        "idf": 4.999510459551262
+    },
+    {
+        "keyword": "cryptopotato",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "evs",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "ackman",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "plans",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "0",
+        "votes": 2,
+        "idf": 5.15366113937852
+    },
+    {
+        "keyword": "past",
+        "votes": 2,
+        "idf": 4.748196031270355
+    },
+    {
+        "keyword": "agree",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "hover",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "expert",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "plus",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "sweet",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "another",
+        "votes": 2,
+        "idf": 5.335982696172475
+    },
+    {
+        "keyword": "solana",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "binance",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "tether",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "gonna",
+        "votes": 2,
+        "idf": 5.15366113937852
+    },
+    {
+        "keyword": "divi",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "always",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "model",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "long",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "\u0256",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "ranking",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "closing",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "hr",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "vol",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "difference",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "thats",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 4.460513958818575
+    },
+    {
+        "keyword": "pm",
+        "votes": 2,
+        "idf": 5.335982696172475
+    },
+    {
+        "keyword": "2021",
+        "votes": 2,
+        "idf": 4.642835515612529
+    },
+    {
+        "keyword": "avax",
+        "votes": 2,
+        "idf": 4.748196031270355
+    },
+    {
+        "keyword": "dot",
+        "votes": 2,
+        "idf": 4.642835515612529
+    },
+    {
+        "keyword": "xrp",
+        "votes": 2,
+        "idf": 4.237370407504365
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 4.748196031270355
+    },
+    {
+        "keyword": "better",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "og",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "bearm",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "ohm",
+        "votes": 2,
+        "idf": 5.5591262474866845
+    },
+    {
+        "keyword": "say",
+        "votes": 2,
+        "idf": 4.748196031270355
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 4.748196031270355
+    },
+    {
+        "keyword": "freeman",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "super",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "freaking",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "facebook",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "help",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "phone",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "bio",
+        "votes": 2,
+        "idf": 5.846808319938465
+    },
+    {
+        "keyword": "pumps",
+        "votes": 1,
+        "idf": 6.25227342804663
     }
 ]

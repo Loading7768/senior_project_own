@@ -35,7 +35,7 @@
         "idf": 4.380994674344636
     },
     {
-        "keyword": "micro",
+        "keyword": "dex",
         "votes": 2,
         "idf": 4.891820298110627
     },
@@ -55,12 +55,12 @@
         "idf": 4.604138225658845
     },
     {
-        "keyword": "cybertruck",
+        "keyword": "tesla",
         "votes": 2,
         "idf": 4.891820298110627
     },
     {
-        "keyword": "tesla",
+        "keyword": "cybertruck",
         "votes": 2,
         "idf": 4.891820298110627
     },
@@ -95,17 +95,17 @@
         "idf": 3.6878474937846906
     },
     {
-        "keyword": "back",
+        "keyword": "let",
         "votes": 2,
         "idf": 4.604138225658845
     },
     {
-        "keyword": "percentage",
+        "keyword": "cap",
         "votes": 2,
         "idf": 4.891820298110627
     },
     {
-        "keyword": "cap",
+        "keyword": "check",
         "votes": 2,
         "idf": 4.891820298110627
     },
@@ -140,12 +140,362 @@
         "idf": 4.380994674344636
     },
     {
-        "keyword": "thanks",
+        "keyword": "tip",
         "votes": 2,
         "idf": 4.044522437723423
     },
     {
         "keyword": "explode",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "urgent",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "inu",
+        "votes": 1,
+        "idf": 4.604138225658845
+    },
+    {
+        "keyword": "verify",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "want",
+        "votes": 1,
+        "idf": 4.891820298110627
+    },
+    {
+        "keyword": "sure",
+        "votes": 1,
+        "idf": 4.604138225658845
+    },
+    {
+        "keyword": "patreon",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "cocos",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "support",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "spinning",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "playing",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "developer",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "bom",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "going",
+        "votes": 1,
+        "idf": 4.891820298110627
+    },
+    {
+        "keyword": "rocket",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "sky",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "shocked",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "skiddy",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "underpants",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "syntax",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "work",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "20",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "wine",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "club",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "accept",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "gem",
+        "votes": 1,
+        "idf": 4.891820298110627
+    },
+    {
+        "keyword": "kuma",
+        "votes": 1,
+        "idf": 4.891820298110627
+    },
+    {
+        "keyword": "samo",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "pass",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "sol",
+        "votes": 1,
+        "idf": 3.9109910450989003
+    },
+    {
+        "keyword": "berated",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "substance",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "valued",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "cking",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "f",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "rush",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "comment",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "aoc",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "talking",
+        "votes": 1,
+        "idf": 4.891820298110627
+    },
+    {
+        "keyword": "dming",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "withdraw",
+        "votes": 1,
+        "idf": 4.604138225658845
+    },
+    {
+        "keyword": "able",
+        "votes": 1,
+        "idf": 4.380994674344636
+    },
+    {
+        "keyword": "elon",
+        "votes": 1,
+        "idf": 4.1986731175506815
+    },
+    {
+        "keyword": "challenge",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "rotator",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "1million",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "drops",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "happens",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "contrary",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "breakout",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "despite",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "billion",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "stagnation",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "369",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "sustainable",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "spirit",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "interactions",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "9",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "terra",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "24",
+        "votes": 1,
+        "idf": 4.891820298110627
+    },
+    {
+        "keyword": "site",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "email",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "confirmed",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "created",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "goes",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "cool",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "gains",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "overnight",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "united",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "3rd",
+        "votes": 1,
+        "idf": 5.297285406218791
+    },
+    {
+        "keyword": "2nd",
         "votes": 1,
         "idf": 5.297285406218791
     }

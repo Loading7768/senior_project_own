@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "coin",
+        "votes": 5,
+        "idf": 3.545531271604435
+    },
+    {
+        "keyword": "pump",
+        "votes": 4,
+        "idf": 4.238678452164381
+    },
+    {
+        "keyword": "update",
+        "votes": 3,
+        "idf": 4.708682081410116
+    },
+    {
+        "keyword": "xlm",
+        "votes": 3,
+        "idf": 4.238678452164381
+    },
+    {
+        "keyword": "please",
+        "votes": 3,
+        "idf": 4.708682081410116
+    },
+    {
+        "keyword": "money",
+        "votes": 3,
+        "idf": 4.3722098447889035
+    },
+    {
+        "keyword": "perfect",
+        "votes": 3,
+        "idf": 4.3722098447889035
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 4.01553490085017
+    },
+    {
+        "keyword": "father",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "top",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "crowd",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "ok",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "trb",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "absolutely",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "ride",
+        "votes": 2,
+        "idf": 4.708682081410116
+    },
+    {
+        "keyword": "steady",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "crypto",
+        "votes": 2,
+        "idf": 3.2270775404859005
+    },
+    {
+        "keyword": "green",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "sense",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "flinching",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "great",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "definitely",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "mp",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "dark",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "bro",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "woof",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "cocoro",
+        "votes": 2,
+        "idf": 4.708682081410116
+    },
+    {
+        "keyword": "highest",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "24h",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "volumes",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "missed",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "bphtst",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "caps",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "loss",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "returns",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "form",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "rest",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "well",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "others",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "dominances",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "usdt",
+        "votes": 1,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "24hrs",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "62",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "00",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "preferred",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "dollars",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "products",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "hodling",
+        "votes": 1,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "fire",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "iran",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "shire",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "fittesh",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "survival",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "marble",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "strata",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "black",
+        "votes": 1,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "president",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "trump",
+        "votes": 1,
+        "idf": 3.322387720290225
+    },
+    {
+        "keyword": "rides",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "tweets",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "coping",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "morning",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "good",
+        "votes": 1,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "rises",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "proven",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "earned",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "og",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "spread",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "news",
+        "votes": 1,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "bow",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "ishi",
+        "votes": 1,
+        "idf": 4.708682081410116
+    },
+    {
+        "keyword": "bepe",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "media",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "showcases",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "influence",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "reversal",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "siren",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "likeliness",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "play",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "high",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "unstoppable",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "system",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "force",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "shilling",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "fomo",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "bags",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "dogfather",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "legacy",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "lineage",
+        "votes": 1,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "years",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "remarkable",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "three",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "neural",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "nets",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "scale",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "k",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "50k",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "overall",
+        "votes": 1,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "solaxy",
+        "votes": 1,
+        "idf": 4.708682081410116
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "good",
+        "votes": 32,
+        "idf": 4.437605153438822
+    },
+    {
+        "keyword": "moon",
+        "votes": 23,
+        "idf": 4.692135018573703
+    },
+    {
+        "keyword": "morning",
+        "votes": 20,
+        "idf": 5.3998809985548
+    },
+    {
+        "keyword": "love",
+        "votes": 19,
+        "idf": 5.1420518892527
+    },
+    {
+        "keyword": "lead",
+        "votes": 18,
+        "idf": 5.460505620371236
+    },
+    {
+        "keyword": "great",
+        "votes": 18,
+        "idf": 5.097600126681867
+    },
+    {
+        "keyword": "buy",
+        "votes": 18,
+        "idf": 4.55679367070394
+    },
+    {
+        "keyword": "mp",
+        "votes": 16,
+        "idf": 6.093028179114746
+    },
+    {
+        "keyword": "crowd",
+        "votes": 16,
+        "idf": 6.093028179114746
+    },
+    {
+        "keyword": "stats",
+        "votes": 16,
+        "idf": 6.035869765274797
+    },
+    {
+        "keyword": "unstoppable",
+        "votes": 16,
+        "idf": 5.9305092496169705
+    },
+    {
+        "keyword": "ready",
+        "votes": 15,
+        "idf": 4.783106796779429
+    },
+    {
+        "keyword": "going",
+        "votes": 14,
+        "idf": 4.883190255336412
+    },
+    {
+        "keyword": "success",
+        "votes": 14,
+        "idf": 5.315323610526738
+    },
+    {
+        "keyword": "legacy",
+        "votes": 14,
+        "idf": 5.9305092496169705
+    },
+    {
+        "keyword": "nice",
+        "votes": 14,
+        "idf": 6.093028179114746
+    },
+    {
+        "keyword": "majors",
+        "votes": 13,
+        "idf": 6.218191322068752
+    },
+    {
+        "keyword": "fun",
+        "votes": 12,
+        "idf": 5.034421225060335
+    },
+    {
+        "keyword": "yes",
+        "votes": 12,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "money",
+        "votes": 12,
+        "idf": 4.9189083379384915
+    },
+    {
+        "keyword": "comeback",
+        "votes": 12,
+        "idf": 5.7481876928230164
+    },
+    {
+        "keyword": "takes",
+        "votes": 11,
+        "idf": 6.153652800931181
+    },
+    {
+        "keyword": "alena",
+        "votes": 11,
+        "idf": 6.153652800931181
+    },
+    {
+        "keyword": "power",
+        "votes": 11,
+        "idf": 5.460505620371236
+    },
+    {
+        "keyword": "opened",
+        "votes": 11,
+        "idf": 6.441334873382962
+    },
+    {
+        "keyword": "door",
+        "votes": 11,
+        "idf": 6.3612921657094255
+    },
+    {
+        "keyword": "help",
+        "votes": 10,
+        "idf": 5.4922543186858155
+    },
+    {
+        "keyword": "like",
+        "votes": 10,
+        "idf": 3.8142537348144185
+    },
+    {
+        "keyword": "please",
+        "votes": 10,
+        "idf": 5.4922543186858155
+    },
+    {
+        "keyword": "pump",
+        "votes": 10,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "natural",
+        "votes": 10,
+        "idf": 6.3612921657094255
+    },
+    {
+        "keyword": "way",
+        "votes": 10,
+        "idf": 5.055040512263071
+    },
+    {
+        "keyword": "showed",
+        "votes": 10,
+        "idf": 6.153652800931181
+    },
+    {
+        "keyword": "musk",
+        "votes": 10,
+        "idf": 4.097927785868661
+    },
+    {
+        "keyword": "rizo",
+        "votes": 10,
+        "idf": 6.528346250372591
+    },
+    {
+        "keyword": "buying",
+        "votes": 9,
+        "idf": 5.188571904887594
+    },
+    {
+        "keyword": "level",
+        "votes": 9,
+        "idf": 6.153652800931181
+    },
+    {
+        "keyword": "evolution",
+        "votes": 9,
+        "idf": 6.3612921657094255
+    },
+    {
+        "keyword": "sign",
+        "votes": 9,
+        "idf": 6.153652800931181
+    },
+    {
+        "keyword": "united",
+        "votes": 9,
+        "idf": 6.441334873382962
+    },
+    {
+        "keyword": "comes",
+        "votes": 9,
+        "idf": 5.835199069812646
+    },
+    {
+        "keyword": "legendary",
+        "votes": 9,
+        "idf": 5.9818025440045215
+    },
+    {
+        "keyword": "step",
+        "votes": 9,
+        "idf": 6.3612921657094255
+    },
+    {
+        "keyword": "bro",
+        "votes": 9,
+        "idf": 5.9818025440045215
+    },
+    {
+        "keyword": "house",
+        "votes": 9,
+        "idf": 6.3612921657094255
+    },
+    {
+        "keyword": "boring",
+        "votes": 9,
+        "idf": 6.218191322068752
+    },
+    {
+        "keyword": "increases",
+        "votes": 9,
+        "idf": 6.623656430176916
+    },
+    {
+        "keyword": "gm",
+        "votes": 9,
+        "idf": 6.528346250372591
+    },
+    {
+        "keyword": "divergence",
+        "votes": 8,
+        "idf": 6.287184193555703
+    },
+    {
+        "keyword": "confidence",
+        "votes": 8,
+        "idf": 6.153652800931181
+    },
+    {
+        "keyword": "global",
+        "votes": 8,
+        "idf": 5.707365698302761
+    },
+    {
+        "keyword": "bot",
+        "votes": 8,
+        "idf": 6.623656430176916
+    },
+    {
+        "keyword": "perfect",
+        "votes": 8,
+        "idf": 5.9818025440045215
+    },
+    {
+        "keyword": "know",
+        "votes": 8,
+        "idf": 4.937257476606687
+    },
+    {
+        "keyword": "soon",
+        "votes": 8,
+        "idf": 5.525044141508807
+    },
+    {
+        "keyword": "one",
+        "votes": 8,
+        "idf": 4.6221764299667925
+    },
+    {
+        "keyword": "rise",
+        "votes": 8,
+        "idf": 5.707365698302761
+    },
+    {
+        "keyword": "wow",
+        "votes": 8,
+        "idf": 5.835199069812646
+    },
+    {
+        "keyword": "space",
+        "votes": 8,
+        "idf": 5.525044141508807
+    },
+    {
+        "keyword": "poised",
+        "votes": 8,
+        "idf": 6.528346250372591
+    },
+    {
+        "keyword": "reach",
+        "votes": 7,
+        "idf": 5.9305092496169705
+    },
+    {
+        "keyword": "still",
+        "votes": 7,
+        "idf": 4.663561646129646
+    },
+    {
+        "keyword": "follows",
+        "votes": 7,
+        "idf": 6.623656430176916
+    },
+    {
+        "keyword": "right",
+        "votes": 7,
+        "idf": 5.288655363444576
+    },
+    {
+        "keyword": "look",
+        "votes": 7,
+        "idf": 5.5940370129957575
+    },
+    {
+        "keyword": "hope",
+        "votes": 7,
+        "idf": 5.881719085447539
+    },
+    {
+        "keyword": "movement",
+        "votes": 7,
+        "idf": 5.835199069812646
+    },
+    {
+        "keyword": "well",
+        "votes": 7,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "got",
+        "votes": 7,
+        "idf": 4.900889832435812
+    },
+    {
+        "keyword": "think",
+        "votes": 7,
+        "idf": 4.883190255336412
+    },
+    {
+        "keyword": "much",
+        "votes": 7,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "dominate",
+        "votes": 7,
+        "idf": 6.729016945834743
+    },
+    {
+        "keyword": "coin",
+        "votes": 7,
+        "idf": 4.028401723220051
+    },
+    {
+        "keyword": "predicts",
+        "votes": 7,
+        "idf": 6.153652800931181
+    },
+    {
+        "keyword": "time",
+        "votes": 7,
+        "idf": 4.736586781144537
+    },
+    {
+        "keyword": "story",
+        "votes": 7,
+        "idf": 6.528346250372591
+    },
+    {
+        "keyword": "get",
+        "votes": 7,
+        "idf": 4.6221764299667925
+    },
+    {
+        "keyword": "means",
+        "votes": 7,
+        "idf": 6.3612921657094255
+    },
+    {
+        "keyword": "thursday",
+        "votes": 7,
+        "idf": 6.623656430176916
+    },
+    {
+        "keyword": "always",
+        "votes": 7,
+        "idf": 5.342722584714852
+    },
+    {
+        "keyword": "payments",
+        "votes": 7,
+        "idf": 6.218191322068752
+    },
+    {
+        "keyword": "revolution",
+        "votes": 7,
+        "idf": 6.218191322068752
+    },
+    {
+        "keyword": "builds",
+        "votes": 7,
+        "idf": 6.729016945834743
+    },
+    {
+        "keyword": "play",
+        "votes": 7,
+        "idf": 6.035869765274797
+    },
+    {
+        "keyword": "heights",
+        "votes": 7,
+        "idf": 6.528346250372591
+    },
+    {
+        "keyword": "downward",
+        "votes": 7,
+        "idf": 6.528346250372591
+    },
+    {
+        "keyword": "xtz",
+        "votes": 7,
+        "idf": 6.846799981491126
+    },
+    {
+        "keyword": "amazing",
+        "votes": 7,
+        "idf": 6.287184193555703
+    },
+    {
+        "keyword": "complements",
+        "votes": 7,
+        "idf": 6.846799981491126
+    },
+    {
+        "keyword": "redefine",
+        "votes": 7,
+        "idf": 6.729016945834743
+    },
+    {
+        "keyword": "happen",
+        "votes": 7,
+        "idf": 5.790747307241812
+    },
+    {
+        "keyword": "go",
+        "votes": 7,
+        "idf": 4.994415890446636
+    },
+    {
+        "keyword": "coming",
+        "votes": 7,
+        "idf": 5.5940370129957575
+    },
+    {
+        "keyword": "liquidation",
+        "votes": 7,
+        "idf": 6.729016945834743
+    },
+    {
+        "keyword": "thinking",
+        "votes": 6,
+        "idf": 6.846799981491126
+    },
+    {
+        "keyword": "currency",
+        "votes": 6,
+        "idf": 5.9305092496169705
+    },
+    {
+        "keyword": "people",
+        "votes": 6,
+        "idf": 4.865798512624543
+    },
+    {
+        "keyword": "meme",
+        "votes": 6,
+        "idf": 3.3810640786913995
+    },
+    {
+        "keyword": "powerful",
+        "votes": 6,
+        "idf": 6.846799981491126
+    },
+    {
+        "keyword": "thing",
+        "votes": 6,
+        "idf": 5.5940370129957575
+    }
+]

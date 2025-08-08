@@ -125,6 +125,11 @@
         "idf": 5.883599052959389
     },
     {
+        "keyword": "airdrop",
+        "votes": 24,
+        "idf": 5.783515594402407
+    },
+    {
         "keyword": "earlier",
         "votes": 24,
         "idf": 6.11998783102362
@@ -140,13 +145,358 @@
         "idf": 4.977890430415771
     },
     {
+        "keyword": "thanks",
+        "votes": 23,
+        "idf": 5.443647768780055
+    },
+    {
         "keyword": "still",
         "votes": 22,
         "idf": 4.999396635636735
     },
     {
-        "keyword": "thanks",
+        "keyword": "let",
         "votes": 22,
-        "idf": 5.443647768780055
+        "idf": 5.032548842953635
+    },
+    {
+        "keyword": "awesome",
+        "votes": 22,
+        "idf": 5.69254381619668
+    },
+    {
+        "keyword": "decrypt",
+        "votes": 21,
+        "idf": 6.302309387817574
+    },
+    {
+        "keyword": "lol",
+        "votes": 21,
+        "idf": 5.495833521950626
+    },
+    {
+        "keyword": "tesla",
+        "votes": 20,
+        "idf": 5.426840650463674
+    },
+    {
+        "keyword": "pm",
+        "votes": 20,
+        "idf": 6.385690996756625
+    },
+    {
+        "keyword": "future",
+        "votes": 19,
+        "idf": 4.676998126227184
+    },
+    {
+        "keyword": "elon",
+        "votes": 19,
+        "idf": 4.193309043896194
+    },
+    {
+        "keyword": "pinned",
+        "votes": 19,
+        "idf": 6.1889807025105705
+    },
+    {
+        "keyword": "post",
+        "votes": 19,
+        "idf": 5.671037610975716
+    },
+    {
+        "keyword": "sale",
+        "votes": 19,
+        "idf": 5.937666274229665
+    },
+    {
+        "keyword": "accept",
+        "votes": 19,
+        "idf": 5.316492593294809
+    },
+    {
+        "keyword": "best",
+        "votes": 19,
+        "idf": 4.586711279555083
+    },
+    {
+        "keyword": "far",
+        "votes": 18,
+        "idf": 6.263088674664293
+    },
+    {
+        "keyword": "like",
+        "votes": 18,
+        "idf": 4.070146759120075
+    },
+    {
+        "keyword": "morning",
+        "votes": 18,
+        "idf": 5.994824688069613
+    },
+    {
+        "keyword": "crypto",
+        "votes": 18,
+        "idf": 4.032247486529089
+    },
+    {
+        "keyword": "right",
+        "votes": 18,
+        "idf": 4.839053985561556
+    },
+    {
+        "keyword": "today",
+        "votes": 18,
+        "idf": 4.848356378223869
+    },
+    {
+        "keyword": "need",
+        "votes": 17,
+        "idf": 4.967308321085234
+    },
+    {
+        "keyword": "join",
+        "votes": 17,
+        "idf": 5.055277094031191
+    },
+    {
+        "keyword": "want",
+        "votes": 17,
+        "idf": 4.876794313544402
+    },
+    {
+        "keyword": "thats",
+        "votes": 17,
+        "idf": 6.385690996756625
+    },
+    {
+        "keyword": "time",
+        "votes": 17,
+        "idf": 4.608530326949722
+    },
+    {
+        "keyword": "something",
+        "votes": 17,
+        "idf": 5.287078708088515
+    },
+    {
+        "keyword": "please",
+        "votes": 17,
+        "idf": 4.967308321085234
+    },
+    {
+        "keyword": "sir",
+        "votes": 17,
+        "idf": 6.024677651219295
+    },
+    {
+        "keyword": "says",
+        "votes": 16,
+        "idf": 6.024677651219295
+    },
+    {
+        "keyword": "hey",
+        "votes": 16,
+        "idf": 5.316492593294809
+    },
+    {
+        "keyword": "rise",
+        "votes": 16,
+        "idf": 6.11998783102362
+    },
+    {
+        "keyword": "cools",
+        "votes": 16,
+        "idf": 6.476662774962352
+    },
+    {
+        "keyword": "interest",
+        "votes": 16,
+        "idf": 5.965837151196361
+    },
+    {
+        "keyword": "usd",
+        "votes": 15,
+        "idf": 5.316492593294809
+    },
+    {
+        "keyword": "value",
+        "votes": 15,
+        "idf": 5.258505335644459
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 15,
+        "idf": 5.714522722915455
+    },
+    {
+        "keyword": "texas",
+        "votes": 15,
+        "idf": 5.569941494104348
+    },
+    {
+        "keyword": "difference",
+        "votes": 15,
+        "idf": 6.5767462335193345
+    },
+    {
+        "keyword": "one",
+        "votes": 15,
+        "idf": 4.0489145390143
+    },
+    {
+        "keyword": "weekend",
+        "votes": 14,
+        "idf": 5.736995578767513
+    },
+    {
+        "keyword": "musk",
+        "votes": 14,
+        "idf": 4.906064695844515
+    },
+    {
+        "keyword": "feel",
+        "votes": 14,
+        "idf": 6.11998783102362
+    },
+    {
+        "keyword": "rank",
+        "votes": 14,
+        "idf": 6.813135011583565
+    },
+    {
+        "keyword": "mdoge",
+        "votes": 14,
+        "idf": 6.813135011583565
+    },
+    {
+        "keyword": "champions",
+        "votes": 14,
+        "idf": 6.813135011583565
+    },
+    {
+        "keyword": "dimond",
+        "votes": 14,
+        "idf": 6.813135011583565
+    },
+    {
+        "keyword": "register",
+        "votes": 14,
+        "idf": 6.687971868629559
+    },
+    {
+        "keyword": "equal",
+        "votes": 14,
+        "idf": 6.748596490445994
+    },
+    {
+        "keyword": "amazing",
+        "votes": 14,
+        "idf": 5.5893595799614495
+    },
+    {
+        "keyword": "underestimate",
+        "votes": 14,
+        "idf": 6.687971868629559
+    },
+    {
+        "keyword": "24h",
+        "votes": 14,
+        "idf": 5.513852027453304
+    },
+    {
+        "keyword": "heb",
+        "votes": 14,
+        "idf": 6.687971868629559
+    },
+    {
+        "keyword": "trust",
+        "votes": 14,
+        "idf": 6.225348346681446
+    },
+    {
+        "keyword": "come",
+        "votes": 14,
+        "idf": 5.287078708088515
+    },
+    {
+        "keyword": "hope",
+        "votes": 14,
+        "idf": 5.055277094031191
+    },
+    {
+        "keyword": "looks",
+        "votes": 14,
+        "idf": 5.783515594402407
+    },
+    {
+        "keyword": "holding",
+        "votes": 13,
+        "idf": 5.5893595799614495
+    },
+    {
+        "keyword": "tweet",
+        "votes": 13,
+        "idf": 5.410311348512463
+    },
+    {
+        "keyword": "strong",
+        "votes": 13,
+        "idf": 5.513852027453304
+    },
+    {
+        "keyword": "retweet",
+        "votes": 13,
+        "idf": 6.687971868629559
+    },
+    {
+        "keyword": "much",
+        "votes": 13,
+        "idf": 4.896212399401504
+    },
+    {
+        "keyword": "news",
+        "votes": 13,
+        "idf": 5.151737360218753
+    },
+    {
+        "keyword": "wiser",
+        "votes": 13,
+        "idf": 6.882127883070516
+    },
+    {
+        "keyword": "historical",
+        "votes": 13,
+        "idf": 6.813135011583565
+    },
+    {
+        "keyword": "percentage",
+        "votes": 13,
+        "idf": 6.882127883070516
+    },
+    {
+        "keyword": "hodl",
+        "votes": 13,
+        "idf": 5.609162207257629
+    },
+    {
+        "keyword": "wrong",
+        "votes": 13,
+        "idf": 6.687971868629559
+    },
+    {
+        "keyword": "7d",
+        "votes": 13,
+        "idf": 6.882127883070516
+    },
+    {
+        "keyword": "30d",
+        "votes": 13,
+        "idf": 6.882127883070516
+    },
+    {
+        "keyword": "1h",
+        "votes": 13,
+        "idf": 6.687971868629559
     }
 ]

@@ -13,5 +13,20 @@
         "Y_length_percent_of_X": 93.9,
         "X_length_percent_of_Y": 106.49,
         "dice_coefficient": 77.78
+    },
+    {
+        "X_text": "Alright #DogeFam Let’s get it!  Stock market down slightly this morning.  Crypto under pressure with most top coins down about 6-7%. Let’s see what the day hodls.  #Dogecoin #Dogearmy",
+        "X_token": "alright, dogefam, let, get, stock, market, slightly, morning, crypto, pressure, top, coins, let, see, day, hodls, dogecoin, dogearmy",
+        "X_tweet_count": 48,
+        "X_username": "Dogecoin OG",
+        "Y_text": "Alright #DogeFam Let’s get it!  Crypto up slightly this morning with top coins up about 1%.  Still in the same range for days and holding up.  Let’s see what the day hodls.  #Dogecoin #Dogearmy",
+        "Y_token": "alright, dogefam, let, get, crypto, slightly, morning, top, coins, 1, still, range, days, holding, let, see, day, hodls, dogecoin, dogearmy",
+        "Y_tweet_count": 56,
+        "Y_username": "Dogecoin OG",
+        "X_length": 183,
+        "Y_length": 193,
+        "Y_length_percent_of_X": 105.46,
+        "X_length_percent_of_Y": 94.82,
+        "dice_coefficient": 77.78
     }
 ]

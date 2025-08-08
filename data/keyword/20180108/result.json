@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "goes",
+        "votes": 35,
+        "idf": 3.625022011498875
+    },
+    {
+        "keyword": "wild",
+        "votes": 25,
+        "idf": 3.5773939625096207
+    },
+    {
+        "keyword": "forget",
+        "votes": 24,
+        "idf": 3.625022011498875
+    },
+    {
+        "keyword": "inventor",
+        "votes": 16,
+        "idf": 4.505380734146967
+    },
+    {
+        "keyword": "face",
+        "votes": 15,
+        "idf": 4.505380734146967
+    },
+    {
+        "keyword": "cap",
+        "votes": 14,
+        "idf": 3.625022011498875
+    },
+    {
+        "keyword": "thinks",
+        "votes": 12,
+        "idf": 4.448222320307018
+    },
+    {
+        "keyword": "soared",
+        "votes": 12,
+        "idf": 4.342861804649192
+    },
+    {
+        "keyword": "market",
+        "votes": 11,
+        "idf": 3.3496100316389086
+    },
+    {
+        "keyword": "sudden",
+        "votes": 11,
+        "idf": 4.630543877100973
+    },
+    {
+        "keyword": "cute",
+        "votes": 11,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "weekend",
+        "votes": 10,
+        "idf": 4.160540247855238
+    },
+    {
+        "keyword": "seriously",
+        "votes": 10,
+        "idf": 4.5660053559634015
+    },
+    {
+        "keyword": "forced",
+        "votes": 10,
+        "idf": 4.5660053559634015
+    },
+    {
+        "keyword": "news",
+        "votes": 10,
+        "idf": 4.2940716404797605
+    },
+    {
+        "keyword": "explodes",
+        "votes": 10,
+        "idf": 4.773644720741647
+    },
+    {
+        "keyword": "reaches",
+        "votes": 10,
+        "idf": 4.699536748587924
+    },
+    {
+        "keyword": "high",
+        "votes": 10,
+        "idf": 4.2940716404797605
+    },
+    {
+        "keyword": "remember",
+        "votes": 10,
+        "idf": 4.2940716404797605
+    },
+    {
+        "keyword": "least",
+        "votes": 10,
+        "idf": 4.699536748587924
+    },
+    {
+        "keyword": "may",
+        "votes": 10,
+        "idf": 4.5660053559634015
+    },
+    {
+        "keyword": "hit",
+        "votes": 9,
+        "idf": 4.699536748587924
+    },
+    {
+        "keyword": "bbc",
+        "votes": 9,
+        "idf": 4.773644720741647
+    },
+    {
+        "keyword": "meme",
+        "votes": 9,
+        "idf": 4.5660053559634015
+    },
+    {
+        "keyword": "joke",
+        "votes": 8,
+        "idf": 3.0900988361538237
+    },
+    {
+        "keyword": "parody",
+        "votes": 7,
+        "idf": 4.448222320307018
+    },
+    {
+        "keyword": "via",
+        "votes": 7,
+        "idf": 3.8122335535870215
+    },
+    {
+        "keyword": "created",
+        "votes": 7,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "worth",
+        "votes": 6,
+        "idf": 4.448222320307018
+    },
+    {
+        "keyword": "1",
+        "votes": 6,
+        "idf": 4.119718253334982
+    },
+    {
+        "keyword": "08",
+        "votes": 6,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "price",
+        "votes": 6,
+        "idf": 4.773644720741647
+    },
+    {
+        "keyword": "value",
+        "votes": 6,
+        "idf": 3.8122335535870215
+    },
+    {
+        "keyword": "coin",
+        "votes": 5,
+        "idf": 3.119086373027076
+    },
+    {
+        "keyword": "2b",
+        "votes": 5,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "18",
+        "votes": 5,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "approx",
+        "votes": 5,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "1m",
+        "votes": 5,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "wow",
+        "votes": 5,
+        "idf": 5.39268392914787
+    },
+    {
+        "keyword": "iop",
+        "votes": 4,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "trade",
+        "votes": 4,
+        "idf": 5.39268392914787
+    },
+    {
+        "keyword": "fee",
+        "votes": 4,
+        "idf": 5.39268392914787
+    },
+    {
+        "keyword": "buying",
+        "votes": 4,
+        "idf": 5.39268392914787
+    },
+    {
+        "keyword": "dog",
+        "votes": 4,
+        "idf": 3.842086516736703
+    },
+    {
+        "keyword": "gold",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 4,
+        "idf": 5.39268392914787
+    },
+    {
+        "keyword": "2bn",
+        "votes": 4,
+        "idf": 4.773644720741647
+    },
+    {
+        "keyword": "1b",
+        "votes": 4,
+        "idf": 5.39268392914787
+    },
+    {
+        "keyword": "better",
+        "votes": 4,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "ars",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "technica",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "left",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "selling",
+        "votes": 4,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "game",
+        "votes": 4,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "provider",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "leading",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "transparent",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "shared",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.2940716404797605
+    },
+    {
+        "keyword": "software",
+        "votes": 4,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "surges",
+        "votes": 4,
+        "idf": 4.699536748587924
+    },
+    {
+        "keyword": "lol",
+        "votes": 3,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "capitalization",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "index",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "popularity",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "social",
+        "votes": 3,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "real",
+        "votes": 3,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "put",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "everyone",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "fever",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "laughing",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "invest",
+        "votes": 3,
+        "idf": 4.853687428415183
+    },
+    {
+        "keyword": "users",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "registered",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "lose",
+        "votes": 3,
+        "idf": 5.39268392914787
+    },
+    {
+        "keyword": "large",
+        "votes": 3,
+        "idf": 5.39268392914787
+    },
+    {
+        "keyword": "feed",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "google",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "seen",
+        "votes": 3,
+        "idf": 5.729156165769083
+    },
+    {
+        "keyword": "share",
+        "votes": 3,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "money",
+        "votes": 3,
+        "idf": 4.2940716404797605
+    },
+    {
+        "keyword": "look",
+        "votes": 3,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "ever",
+        "votes": 3,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "upd",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "released",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "alternative",
+        "votes": 3,
+        "idf": 5.036008985209137
+    },
+    {
+        "keyword": "mad",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "milestone",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "barking",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "age",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "jokes",
+        "votes": 3,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "based",
+        "votes": 3,
+        "idf": 5.546834608975128
+    },
+    {
+        "keyword": "digibyte",
+        "votes": 2,
+        "idf": 6.239981789535073
+    },
+    {
+        "keyword": "dec",
+        "votes": 2,
+        "idf": 6.239981789535073
+    },
+    {
+        "keyword": "predictions",
+        "votes": 2,
+        "idf": 6.239981789535073
+    },
+    {
+        "keyword": "memecoin",
+        "votes": 2,
+        "idf": 6.239981789535073
+    },
+    {
+        "keyword": "started",
+        "votes": 2,
+        "idf": 5.259152536523347
+    },
+    {
+        "keyword": "believe",
+        "votes": 2,
+        "idf": 5.952299717083292
+    },
+    {
+        "keyword": "dnt",
+        "votes": 2,
+        "idf": 6.239981789535073
+    },
+    {
+        "keyword": "cj",
+        "votes": 2,
+        "idf": 6.239981789535073
+    }
+]

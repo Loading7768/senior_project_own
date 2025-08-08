@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "price",
+        "votes": 23,
+        "idf": 3.479335604738545
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 23,
+        "idf": 3.7024791560527546
+    },
+    {
+        "keyword": "18",
+        "votes": 23,
+        "idf": 3.7024791560527546
+    },
+    {
+        "keyword": "approx",
+        "votes": 23,
+        "idf": 3.7024791560527546
+    },
+    {
+        "keyword": "05",
+        "votes": 20,
+        "idf": 3.8360105486772773
+    },
+    {
+        "keyword": "ptc",
+        "votes": 16,
+        "idf": 4.047319642344484
+    },
+    {
+        "keyword": "nebl",
+        "votes": 13,
+        "idf": 4.047319642344484
+    },
+    {
+        "keyword": "3",
+        "votes": 11,
+        "idf": 3.8360105486772773
+    },
+    {
+        "keyword": "coin",
+        "votes": 8,
+        "idf": 3.8360105486772773
+    },
+    {
+        "keyword": "social",
+        "votes": 7,
+        "idf": 4.801091444720864
+    },
+    {
+        "keyword": "index",
+        "votes": 7,
+        "idf": 4.801091444720864
+    },
+    {
+        "keyword": "popularity",
+        "votes": 7,
+        "idf": 4.801091444720864
+    },
+    {
+        "keyword": "visit",
+        "votes": 6,
+        "idf": 4.934622837345387
+    },
+    {
+        "keyword": "transaction",
+        "votes": 6,
+        "idf": 4.934622837345387
+    },
+    {
+        "keyword": "4",
+        "votes": 6,
+        "idf": 4.2414756567854415
+    },
+    {
+        "keyword": "myst",
+        "votes": 5,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "earncrypto",
+        "votes": 5,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "coins",
+        "votes": 5,
+        "idf": 4.68330840906448
+    },
+    {
+        "keyword": "excuse",
+        "votes": 5,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "lack",
+        "votes": 5,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "packdoge",
+        "votes": 5,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "real",
+        "votes": 5,
+        "idf": 4.801091444720864
+    },
+    {
+        "keyword": "txid",
+        "votes": 4,
+        "idf": 4.934622837345387
+    },
+    {
+        "keyword": "top",
+        "votes": 4,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "11",
+        "votes": 4,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "12",
+        "votes": 4,
+        "idf": 4.934622837345387
+    },
+    {
+        "keyword": "decide",
+        "votes": 4,
+        "idf": 5.2710950739666
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 4.934622837345387
+    },
+    {
+        "keyword": "games",
+        "votes": 4,
+        "idf": 5.2710950739666
+    },
+    {
+        "keyword": "play",
+        "votes": 4,
+        "idf": 5.2710950739666
+    },
+    {
+        "keyword": "chat",
+        "votes": 4,
+        "idf": 5.2710950739666
+    },
+    {
+        "keyword": "problem",
+        "votes": 4,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "invest",
+        "votes": 4,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "negative",
+        "votes": 4,
+        "idf": 5.2710950739666
+    },
+    {
+        "keyword": "movements",
+        "votes": 4,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "free",
+        "votes": 3,
+        "idf": 3.119332870707138
+    },
+    {
+        "keyword": "1",
+        "votes": 3,
+        "idf": 3.3541724617845388
+    },
+    {
+        "keyword": "month",
+        "votes": 3,
+        "idf": 5.4942386252808095
+    },
+    {
+        "keyword": "5",
+        "votes": 3,
+        "idf": 4.68330840906448
+    },
+    {
+        "keyword": "04",
+        "votes": 3,
+        "idf": 5.4942386252808095
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "transactions",
+        "votes": 2,
+        "idf": 5.4942386252808095
+    },
+    {
+        "keyword": "cap",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "pump",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "faucet",
+        "votes": 2,
+        "idf": 4.801091444720864
+    },
+    {
+        "keyword": "believe",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "much",
+        "votes": 2,
+        "idf": 4.577947893406654
+    },
+    {
+        "keyword": "scam",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "entered",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "premium",
+        "votes": 2,
+        "idf": 5.4942386252808095
+    },
+    {
+        "keyword": "last",
+        "votes": 2,
+        "idf": 4.3956263366127
+    },
+    {
+        "keyword": "total",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "votes",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "mana",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "airdrop",
+        "votes": 2,
+        "idf": 5.4942386252808095
+    },
+    {
+        "keyword": "late",
+        "votes": 2,
+        "idf": 5.4942386252808095
+    },
+    {
+        "keyword": "learnonlinee",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "works",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "video",
+        "votes": 2,
+        "idf": 5.2710950739666
+    },
+    {
+        "keyword": "liked",
+        "votes": 2,
+        "idf": 5.2710950739666
+    },
+    {
+        "keyword": "changes",
+        "votes": 2,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "ver",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "roger",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "lawsuit",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "contract",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "nr",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "bcash",
+        "votes": 2,
+        "idf": 5.4942386252808095
+    },
+    {
+        "keyword": "cash",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "affiliate",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "upgrade",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "dh",
+        "votes": 2,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 3.990161228504536
+    },
+    {
+        "keyword": "15731",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "better",
+        "votes": 1,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "67787",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "dislike",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "disrespect",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "listen",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "24794",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "62131",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "book",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "week",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "day",
+        "votes": 1,
+        "idf": 4.801091444720864
+    },
+    {
+        "keyword": "sad",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "house",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "drove",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "far",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "look",
+        "votes": 1,
+        "idf": 5.2710950739666
+    },
+    {
+        "keyword": "see",
+        "votes": 1,
+        "idf": 5.088773517172645
+    },
+    {
+        "keyword": "future",
+        "votes": 1,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "beat",
+        "votes": 1,
+        "idf": 5.78192069773259
+    },
+    {
+        "keyword": "nawt",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "response",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "ridonkulous",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "daps",
+        "votes": 1,
+        "idf": 6.187385805840755
+    },
+    {
+        "keyword": "undergo",
+        "votes": 1,
+        "idf": 6.187385805840755
+    }
+]

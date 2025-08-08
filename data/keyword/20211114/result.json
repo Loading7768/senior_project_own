@@ -10,12 +10,12 @@
         "idf": 4.576550269140016
     },
     {
-        "keyword": "whitelist",
+        "keyword": "allocation",
         "votes": 6,
         "idf": 5.1155467698727035
     },
     {
-        "keyword": "allocation",
+        "keyword": "whitelist",
         "votes": 6,
         "idf": 5.1155467698727035
     },
@@ -53,6 +53,11 @@
         "keyword": "1h",
         "votes": 4,
         "idf": 5.1155467698727035
+    },
+    {
+        "keyword": "tking",
+        "votes": 4,
+        "idf": 5.4520190064939165
     },
     {
         "keyword": "percentage",
@@ -110,11 +115,6 @@
         "idf": 5.1155467698727035
     },
     {
-        "keyword": "tking",
-        "votes": 3,
-        "idf": 5.4520190064939165
-    },
-    {
         "keyword": "one",
         "votes": 3,
         "idf": 3.6602595372658615
@@ -140,6 +140,11 @@
         "idf": 5.269697449699962
     },
     {
+        "keyword": "lets",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
         "keyword": "major",
         "votes": 3,
         "idf": 5.675162557808126
@@ -148,5 +153,350 @@
         "keyword": "wealth",
         "votes": 3,
         "idf": 5.675162557808126
+    },
+    {
+        "keyword": "greed",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "strike",
+        "votes": 3,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "need",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "ath",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "close",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "please",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "think",
+        "votes": 2,
+        "idf": 4.864232341591798
+    },
+    {
+        "keyword": "see",
+        "votes": 2,
+        "idf": 4.576550269140016
+    },
+    {
+        "keyword": "7d",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "30d",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "project",
+        "votes": 2,
+        "idf": 4.758871825933971
+    },
+    {
+        "keyword": "pump",
+        "votes": 2,
+        "idf": 4.982015377248182
+    },
+    {
+        "keyword": "ready",
+        "votes": 2,
+        "idf": 4.864232341591798
+    },
+    {
+        "keyword": "moment",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "run",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "best",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "h",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "seems",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "dyor",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 4.0169344812045935
+    },
+    {
+        "keyword": "16",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "continues",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "88",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "know",
+        "votes": 2,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "dog",
+        "votes": 2,
+        "idf": 4.663561646129646
+    },
+    {
+        "keyword": "come",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "say",
+        "votes": 2,
+        "idf": 4.982015377248182
+    },
+    {
+        "keyword": "via",
+        "votes": 2,
+        "idf": 4.864232341591798
+    },
+    {
+        "keyword": "pit",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "analysis",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "solana",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "november",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "0",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "past",
+        "votes": 2,
+        "idf": 4.982015377248182
+    },
+    {
+        "keyword": "change",
+        "votes": 2,
+        "idf": 3.970414465569701
+    },
+    {
+        "keyword": "army",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "grandpa",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "latest",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "tether",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "prediction",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "48",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "want",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "team",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "quick",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "supporting",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "inu",
+        "votes": 2,
+        "idf": 4.663561646129646
+    },
+    {
+        "keyword": "model",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "\u0256",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "ranking",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "downwards",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "hr",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "vol",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "prices",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "usd",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "01",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "pm",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "2021",
+        "votes": 2,
+        "idf": 5.4520190064939165
+    },
+    {
+        "keyword": "difference",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 5.269697449699962
+    },
+    {
+        "keyword": "pp",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "put",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "cool",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "call",
+        "votes": 2,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "listed",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 4.758871825933971
+    },
+    {
+        "keyword": "sell",
+        "votes": 2,
+        "idf": 5.675162557808126
+    },
+    {
+        "keyword": "eth",
+        "votes": 2,
+        "idf": 3.5061088574386035
+    },
+    {
+        "keyword": "tabs",
+        "votes": 2,
+        "idf": 5.962844630259907
     }
 ]

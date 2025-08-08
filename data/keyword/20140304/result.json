@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "8",
+        "votes": 36,
+        "idf": 3.731203506076927
+    },
+    {
+        "keyword": "0",
+        "votes": 36,
+        "idf": 3.7045352589947655
+    },
+    {
+        "keyword": "uses",
+        "votes": 36,
+        "idf": 3.390877700139724
+    },
+    {
+        "keyword": "9",
+        "votes": 35,
+        "idf": 3.731203506076927
+    },
+    {
+        "keyword": "university",
+        "votes": 33,
+        "idf": 3.247776856499051
+    },
+    {
+        "keyword": "mine",
+        "votes": 30,
+        "idf": 3.21498703367606
+    },
+    {
+        "keyword": "1",
+        "votes": 25,
+        "idf": 3.23124755454784
+    },
+    {
+        "keyword": "2",
+        "votes": 24,
+        "idf": 3.9081342142360054
+    },
+    {
+        "keyword": "5",
+        "votes": 23,
+        "idf": 3.940924037058996
+    },
+    {
+        "keyword": "4",
+        "votes": 21,
+        "idf": 4.084024880699669
+    },
+    {
+        "keyword": "6",
+        "votes": 16,
+        "idf": 4.5089080746649355
+    },
+    {
+        "keyword": "mines",
+        "votes": 15,
+        "idf": 4.56953269648137
+    },
+    {
+        "keyword": "london",
+        "votes": 13,
+        "idf": 4.451749660824987
+    },
+    {
+        "keyword": "7",
+        "votes": 12,
+        "idf": 4.7771720612596145
+    },
+    {
+        "keyword": "yet",
+        "votes": 12,
+        "idf": 4.703064089105893
+    },
+    {
+        "keyword": "3",
+        "votes": 12,
+        "idf": 4.703064089105893
+    },
+    {
+        "keyword": "offers",
+        "votes": 12,
+        "idf": 4.7771720612596145
+    },
+    {
+        "keyword": "accepts",
+        "votes": 11,
+        "idf": 4.703064089105893
+    },
+    {
+        "keyword": "sale",
+        "votes": 11,
+        "idf": 4.56953269648137
+    },
+    {
+        "keyword": "supporting",
+        "votes": 10,
+        "idf": 4.94422614592278
+    },
+    {
+        "keyword": "tracker",
+        "votes": 10,
+        "idf": 4.94422614592278
+    },
+    {
+        "keyword": "remains",
+        "votes": 10,
+        "idf": 4.857214768933151
+    },
+    {
+        "keyword": "anonymous",
+        "votes": 9,
+        "idf": 4.857214768933151
+    },
+    {
+        "keyword": "alt",
+        "votes": 8,
+        "idf": 4.857214768933151
+    },
+    {
+        "keyword": "error",
+        "votes": 7,
+        "idf": 5.144896841384932
+    },
+    {
+        "keyword": "joke",
+        "votes": 6,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "market",
+        "votes": 5,
+        "idf": 4.94422614592278
+    },
+    {
+        "keyword": "cnn",
+        "votes": 5,
+        "idf": 5.550361949493096
+    },
+    {
+        "keyword": "penniless",
+        "votes": 5,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "college",
+        "votes": 5,
+        "idf": 5.550361949493096
+    },
+    {
+        "keyword": "imperial",
+        "votes": 5,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "dogeco",
+        "votes": 5,
+        "idf": 5.550361949493096
+    },
+    {
+        "keyword": "move",
+        "votes": 4,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "grows",
+        "votes": 4,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "problems",
+        "votes": 4,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "popularity",
+        "votes": 4,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "go",
+        "votes": 4,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "manipulation",
+        "votes": 4,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "eba",
+        "votes": 4,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "taskforce",
+        "votes": 4,
+        "idf": 5.550361949493096
+    },
+    {
+        "keyword": "advise",
+        "votes": 4,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "using",
+        "votes": 4,
+        "idf": 5.550361949493096
+    },
+    {
+        "keyword": "wisconsin",
+        "votes": 4,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "100",
+        "votes": 3,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "local",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "nyu",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "673",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "159",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "post",
+        "votes": 3,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 3,
+        "idf": 4.857214768933151
+    },
+    {
+        "keyword": "cause",
+        "votes": 3,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "getting",
+        "votes": 3,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 3,
+        "idf": 3.6285493520168437
+    },
+    {
+        "keyword": "senator",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "updated",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "wants",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "tip",
+        "votes": 3,
+        "idf": 4.7771720612596145
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 4.94422614592278
+    },
+    {
+        "keyword": "made",
+        "votes": 3,
+        "idf": 4.7771720612596145
+    },
+    {
+        "keyword": "donate",
+        "votes": 3,
+        "idf": 5.550361949493096
+    },
+    {
+        "keyword": "163",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "mining",
+        "votes": 3,
+        "idf": 4.084024880699669
+    },
+    {
+        "keyword": "puts",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "vacation",
+        "votes": 3,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "needs",
+        "votes": 3,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "689",
+        "votes": 3,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "via",
+        "votes": 3,
+        "idf": 4.3976824395547105
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "balance",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "place",
+        "votes": 2,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "look",
+        "votes": 2,
+        "idf": 5.732683506287051
+    },
+    {
+        "keyword": "exchange",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "israel",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "cosmetics",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "business",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "back",
+        "votes": 2,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "kickstart",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "million",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "669",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "157",
+        "votes": 2,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "debuting",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "month",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "solarcoin",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "w",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "rt",
+        "votes": 2,
+        "idf": 4.7771720612596145
+    },
+    {
+        "keyword": "making",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "money",
+        "votes": 2,
+        "idf": 5.396211269665838
+    },
+    {
+        "keyword": "digibyte",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "charity",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "pool",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "check",
+        "votes": 2,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "interested",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "sure",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "setup",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "another",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "hash",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 4.7771720612596145
+    },
+    {
+        "keyword": "would",
+        "votes": 2,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "tipping",
+        "votes": 2,
+        "idf": 6.243509130053042
+    },
+    {
+        "keyword": "details",
+        "votes": 2,
+        "idf": 6.243509130053042
+    }
+]

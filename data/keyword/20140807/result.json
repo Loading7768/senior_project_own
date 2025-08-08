@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "9",
+        "votes": 32,
+        "idf": 3.2934526094307732
+    },
+    {
+        "keyword": "cup",
+        "votes": 28,
+        "idf": 3.263599646281092
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 28,
+        "idf": 3.1523740111708674
+    },
+    {
+        "keyword": "coffee",
+        "votes": 27,
+        "idf": 3.324224268097527
+    },
+    {
+        "keyword": "decreased",
+        "votes": 22,
+        "idf": 3.654465954968104
+    },
+    {
+        "keyword": "0",
+        "votes": 22,
+        "idf": 3.654465954968104
+    },
+    {
+        "keyword": "increased",
+        "votes": 22,
+        "idf": 3.654465954968104
+    },
+    {
+        "keyword": "network",
+        "votes": 20,
+        "idf": 3.263599646281092
+    },
+    {
+        "keyword": "7",
+        "votes": 20,
+        "idf": 3.7454377331738304
+    },
+    {
+        "keyword": "6",
+        "votes": 15,
+        "idf": 3.9567468268410373
+    },
+    {
+        "keyword": "8",
+        "votes": 13,
+        "idf": 4.150902841281995
+    },
+    {
+        "keyword": "yes",
+        "votes": 13,
+        "idf": 4.150902841281995
+    },
+    {
+        "keyword": "anything",
+        "votes": 13,
+        "idf": 4.150902841281995
+    },
+    {
+        "keyword": "cloakcoin",
+        "votes": 12,
+        "idf": 4.150902841281995
+    },
+    {
+        "keyword": "5",
+        "votes": 10,
+        "idf": 4.392064898098883
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 10,
+        "idf": 3.101080716783317
+    },
+    {
+        "keyword": "error",
+        "votes": 10,
+        "idf": 4.392064898098883
+    },
+    {
+        "keyword": "seeks",
+        "votes": 9,
+        "idf": 4.4873750779032076
+    },
+    {
+        "keyword": "28",
+        "votes": 9,
+        "idf": 4.4873750779032076
+    },
+    {
+        "keyword": "wow",
+        "votes": 7,
+        "idf": 4.392064898098883
+    },
+    {
+        "keyword": "consolidation",
+        "votes": 7,
+        "idf": 4.592735593561034
+    },
+    {
+        "keyword": "merged",
+        "votes": 7,
+        "idf": 4.592735593561034
+    },
+    {
+        "keyword": "100",
+        "votes": 7,
+        "idf": 4.4873750779032076
+    },
+    {
+        "keyword": "foundation",
+        "votes": 7,
+        "idf": 4.305053521109253
+    },
+    {
+        "keyword": "583",
+        "votes": 7,
+        "idf": 4.4873750779032076
+    },
+    {
+        "keyword": "extension",
+        "votes": 7,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "average",
+        "votes": 6,
+        "idf": 3.1523740111708674
+    },
+    {
+        "keyword": "adopts",
+        "votes": 6,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "signal",
+        "votes": 6,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "tip",
+        "votes": 6,
+        "idf": 4.392064898098883
+    },
+    {
+        "keyword": "e",
+        "votes": 6,
+        "idf": 3.028760055203691
+    },
+    {
+        "keyword": "times",
+        "votes": 6,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "business",
+        "votes": 6,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "malware",
+        "votes": 5,
+        "idf": 3.8455211917308127
+    },
+    {
+        "keyword": "25",
+        "votes": 5,
+        "idf": 4.998200701669198
+    },
+    {
+        "keyword": "interest",
+        "votes": 5,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "international",
+        "votes": 5,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "register",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "via",
+        "votes": 4,
+        "idf": 4.592735593561034
+    },
+    {
+        "keyword": "hack",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "payments",
+        "votes": 4,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "590",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "31",
+        "votes": 4,
+        "idf": 4.392064898098883
+    },
+    {
+        "keyword": "bans",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "ecuador",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "review",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 4,
+        "idf": 3.7454377331738304
+    },
+    {
+        "keyword": "like",
+        "votes": 4,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "incubator",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "partners",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "startup",
+        "votes": 4,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "check",
+        "votes": 4,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "35",
+        "votes": 4,
+        "idf": 4.998200701669198
+    },
+    {
+        "keyword": "zencloud",
+        "votes": 4,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "reimbursement",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "fourth",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "offers",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "account",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "live",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "latest",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "r",
+        "votes": 3,
+        "idf": 4.592735593561034
+    },
+    {
+        "keyword": "dives",
+        "votes": 3,
+        "idf": 3.7942278973432626
+    },
+    {
+        "keyword": "32",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "take",
+        "votes": 3,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "x6",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "blizzard",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "zeusminer",
+        "votes": 3,
+        "idf": 5.180522258463153
+    },
+    {
+        "keyword": "website",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "581",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "crypto",
+        "votes": 3,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "bubble",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "financial",
+        "votes": 3,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "83000",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "paid",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "74",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "07",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "68",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "65",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "great",
+        "votes": 2,
+        "idf": 4.998200701669198
+    },
+    {
+        "keyword": "179",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "blade",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "chip",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "3",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "new",
+        "votes": 2,
+        "idf": 4.081909969795044
+    },
+    {
+        "keyword": "clan",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "cult",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "say",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "remembered",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "saw",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "29",
+        "votes": 2,
+        "idf": 3.7454377331738304
+    },
+    {
+        "keyword": "month",
+        "votes": 2,
+        "idf": 4.710518629217417
+    },
+    {
+        "keyword": "5864",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "int",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "580",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "awesome",
+        "votes": 2,
+        "idf": 5.403665809777363
+    },
+    {
+        "keyword": "currently",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "prices",
+        "votes": 2,
+        "idf": 4.84405002184194
+    },
+    {
+        "keyword": "collapse",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "949",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    },
+    {
+        "keyword": "94",
+        "votes": 2,
+        "idf": 5.6913478822291435
+    }
+]

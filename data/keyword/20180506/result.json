@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "price",
+        "votes": 24,
+        "idf": 3.535337503414892
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 23,
+        "idf": 3.7245795030534206
+    },
+    {
+        "keyword": "18",
+        "votes": 23,
+        "idf": 3.7245795030534206
+    },
+    {
+        "keyword": "approx",
+        "votes": 23,
+        "idf": 3.7245795030534206
+    },
+    {
+        "keyword": "11",
+        "votes": 23,
+        "idf": 3.6837575085331657
+    },
+    {
+        "keyword": "4",
+        "votes": 23,
+        "idf": 3.6837575085331657
+    },
+    {
+        "keyword": "9",
+        "votes": 23,
+        "idf": 3.644536795379884
+    },
+    {
+        "keyword": "06",
+        "votes": 20,
+        "idf": 3.7671391174722166
+    },
+    {
+        "keyword": "nebl",
+        "votes": 15,
+        "idf": 4.130044611161585
+    },
+    {
+        "keyword": "qwark",
+        "votes": 13,
+        "idf": 4.130044611161585
+    },
+    {
+        "keyword": "2",
+        "votes": 12,
+        "idf": 3.1890612666970584
+    },
+    {
+        "keyword": "invest",
+        "votes": 6,
+        "idf": 4.705408756065147
+    },
+    {
+        "keyword": "coin",
+        "votes": 6,
+        "idf": 4.194583132299156
+    },
+    {
+        "keyword": "blocksize",
+        "votes": 6,
+        "idf": 4.956723184346053
+    },
+    {
+        "keyword": "myst",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "earncrypto",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "coins",
+        "votes": 5,
+        "idf": 4.956723184346053
+    },
+    {
+        "keyword": "excuse",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "lack",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "packdoge",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "problem",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "visit",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "transaction",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "txid",
+        "votes": 5,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "transactions",
+        "votes": 5,
+        "idf": 4.956723184346053
+    },
+    {
+        "keyword": "question",
+        "votes": 5,
+        "idf": 4.956723184346053
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.504738060602996
+    },
+    {
+        "keyword": "play",
+        "votes": 4,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "chat",
+        "votes": 4,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "games",
+        "votes": 4,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "social",
+        "votes": 4,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "index",
+        "votes": 4,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "popularity",
+        "votes": 4,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 4.956723184346053
+    },
+    {
+        "keyword": "processing",
+        "votes": 4,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "th",
+        "votes": 4,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "speed",
+        "votes": 4,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "05",
+        "votes": 4,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "wings",
+        "votes": 3,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "redd",
+        "votes": 3,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "movements",
+        "votes": 3,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "voting",
+        "votes": 3,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "vote",
+        "votes": 3,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "thanks",
+        "votes": 3,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "2016",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "late",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "100",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "sell",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "mkt",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "protocol",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "positive",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "video",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "please",
+        "votes": 2,
+        "idf": 4.956723184346053
+    },
+    {
+        "keyword": "good",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 4.263576003786108
+    },
+    {
+        "keyword": "eobot",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "strategy",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "follow",
+        "votes": 2,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "decide",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "faucet",
+        "votes": 2,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "times",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "total",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "jackson",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "palmer",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "go",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "unusual",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "canada",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "avoid",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 2,
+        "idf": 5.293195420967266
+    },
+    {
+        "keyword": "shit",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "guide",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "minimum",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "2000",
+        "votes": 2,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "hours",
+        "votes": 2,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "ela",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "wicc",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "iost",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "get",
+        "votes": 2,
+        "idf": 4.33768397593983
+    },
+    {
+        "keyword": "mint",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "linda",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "pac",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "wallet",
+        "votes": 2,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "ltd",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "2014",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "holo",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "75",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "nlx",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "54990",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "multiple",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "garbage",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "utter",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "imageboard",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "selling",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "finance",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "89059",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "form",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "millions",
+        "votes": 1,
+        "idf": 6.209486152841421
+    },
+    {
+        "keyword": "hook",
+        "votes": 1,
+        "idf": 6.209486152841421
+    }
+]

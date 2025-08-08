@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "exchanges",
+        "votes": 33,
+        "idf": 3.2617630984737906
+    },
+    {
+        "keyword": "increased",
+        "votes": 25,
+        "idf": 3.521274293958875
+    },
+    {
+        "keyword": "7",
+        "votes": 23,
+        "idf": 3.5982353350950036
+    },
+    {
+        "keyword": "decreased",
+        "votes": 22,
+        "idf": 3.6816169440340545
+    },
+    {
+        "keyword": "6",
+        "votes": 21,
+        "idf": 3.7260687066048885
+    },
+    {
+        "keyword": "5",
+        "votes": 21,
+        "idf": 3.6816169440340545
+    },
+    {
+        "keyword": "4",
+        "votes": 18,
+        "idf": 3.772588722239781
+    },
+    {
+        "keyword": "average",
+        "votes": 13,
+        "idf": 3.2617630984737906
+    },
+    {
+        "keyword": "per",
+        "votes": 12,
+        "idf": 3.2617630984737906
+    },
+    {
+        "keyword": "betting",
+        "votes": 7,
+        "idf": 4.737669618283368
+    },
+    {
+        "keyword": "growing",
+        "votes": 7,
+        "idf": 4.737669618283368
+    },
+    {
+        "keyword": "42",
+        "votes": 6,
+        "idf": 4.4192158871648335
+    },
+    {
+        "keyword": "45",
+        "votes": 6,
+        "idf": 4.252161802501668
+    },
+    {
+        "keyword": "2",
+        "votes": 6,
+        "idf": 4.619886582626985
+    },
+    {
+        "keyword": "630",
+        "votes": 6,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "sanity",
+        "votes": 6,
+        "idf": 4.514526066969159
+    },
+    {
+        "keyword": "tracker",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "alt",
+        "votes": 5,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "space",
+        "votes": 5,
+        "idf": 4.737669618283368
+    },
+    {
+        "keyword": "free",
+        "votes": 5,
+        "idf": 3.872672180796764
+    },
+    {
+        "keyword": "write",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "bit",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "saw",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "disputes",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "demise",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "depreciation",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "40",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "fan",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "newest",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "hottest",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "41",
+        "votes": 5,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "account",
+        "votes": 4,
+        "idf": 5.207673247529104
+    },
+    {
+        "keyword": "live",
+        "votes": 4,
+        "idf": 5.207673247529104
+    },
+    {
+        "keyword": "price",
+        "votes": 4,
+        "idf": 5.207673247529104
+    },
+    {
+        "keyword": "supporting",
+        "votes": 4,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "0",
+        "votes": 4,
+        "idf": 5.207673247529104
+    },
+    {
+        "keyword": "altcoin",
+        "votes": 4,
+        "idf": 4.514526066969159
+    },
+    {
+        "keyword": "621",
+        "votes": 4,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "618",
+        "votes": 4,
+        "idf": 4.737669618283368
+    },
+    {
+        "keyword": "3628",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "awesome",
+        "votes": 3,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "gaming",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "35",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 3,
+        "idf": 4.4192158871648335
+    },
+    {
+        "keyword": "tip",
+        "votes": 3,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "check",
+        "votes": 3,
+        "idf": 4.178053830347945
+    },
+    {
+        "keyword": "12",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "look",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "coinreport",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "8",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "3739",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 3,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "nmpa",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "daily",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "award",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "news",
+        "votes": 2,
+        "idf": 4.737669618283368
+    },
+    {
+        "keyword": "15",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "634",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "66",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "join",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 5.207673247529104
+    },
+    {
+        "keyword": "350z",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "nissan",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "comments",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "68",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "lifetime",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "memberships",
+        "votes": 2,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "accepting",
+        "votes": 2,
+        "idf": 5.207673247529104
+    },
+    {
+        "keyword": "87",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "faucets",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "want",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "muw",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "made",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "also",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "service",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "great",
+        "votes": 2,
+        "idf": 5.207673247529104
+    },
+    {
+        "keyword": "providing",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "easy",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "qr",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "hand",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "sign",
+        "votes": 2,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "talk",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "27",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "yeah",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "second",
+        "votes": 2,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "balance",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "keep",
+        "votes": 2,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "little",
+        "votes": 2,
+        "idf": 4.4192158871648335
+    },
+    {
+        "keyword": "analysis",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "technical",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "various",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "safe",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "completely",
+        "votes": 2,
+        "idf": 5.718498871295094
+    },
+    {
+        "keyword": "rt",
+        "votes": 2,
+        "idf": 4.737669618283368
+    },
+    {
+        "keyword": "44",
+        "votes": 2,
+        "idf": 3.8213788864092133
+    },
+    {
+        "keyword": "say",
+        "votes": 2,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "looking",
+        "votes": 2,
+        "idf": 5.430816798843313
+    },
+    {
+        "keyword": "doge",
+        "votes": 2,
+        "idf": 3.9267394020670396
+    },
+    {
+        "keyword": "31",
+        "votes": 2,
+        "idf": 4.871201010907891
+    }
+]

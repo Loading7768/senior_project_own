@@ -85,6 +85,11 @@
         "idf": 4.188187496062751
     },
     {
+        "keyword": "tesla",
+        "votes": 8,
+        "idf": 5.05041100666663
+    },
+    {
         "keyword": "5",
         "votes": 8,
         "idf": 4.0436062672516435
@@ -105,11 +110,6 @@
         "idf": 5.161636641776854
     },
     {
-        "keyword": "tesla",
-        "votes": 7,
-        "idf": 5.05041100666663
-    },
-    {
         "keyword": "right",
         "votes": 7,
         "idf": 4.9038075324747545
@@ -125,14 +125,14 @@
         "idf": 4.46848946121691
     },
     {
+        "keyword": "accept",
+        "votes": 6,
+        "idf": 4.99911771227908
+    },
+    {
         "keyword": "shib",
         "votes": 6,
         "idf": 3.1990594402363297
-    },
-    {
-        "keyword": "1h",
-        "votes": 6,
-        "idf": 5.692264892839025
     },
     {
         "keyword": "go",
@@ -148,5 +148,355 @@
         "keyword": "percentage",
         "votes": 6,
         "idf": 5.915408444153235
+    },
+    {
+        "keyword": "successful",
+        "votes": 6,
+        "idf": 6.048939836777757
+    },
+    {
+        "keyword": "0",
+        "votes": 6,
+        "idf": 6.048939836777757
+    },
+    {
+        "keyword": "wallet",
+        "votes": 6,
+        "idf": 5.161636641776854
+    },
+    {
+        "keyword": "reduction",
+        "votes": 6,
+        "idf": 5.7976254084968515
+    },
+    {
+        "keyword": "miss",
+        "votes": 6,
+        "idf": 5.22226126359329
+    },
+    {
+        "keyword": "news",
+        "votes": 5,
+        "idf": 5.509943336045071
+    },
+    {
+        "keyword": "nice",
+        "votes": 5,
+        "idf": 5.7976254084968515
+    },
+    {
+        "keyword": "1h",
+        "votes": 5,
+        "idf": 5.692264892839025
+    },
+    {
+        "keyword": "time",
+        "votes": 5,
+        "idf": 4.593652604170916
+    },
+    {
+        "keyword": "wow",
+        "votes": 5,
+        "idf": 5.509943336045071
+    },
+    {
+        "keyword": "dot",
+        "votes": 5,
+        "idf": 4.77597416096487
+    },
+    {
+        "keyword": "going",
+        "votes": 5,
+        "idf": 4.498342424366591
+    },
+    {
+        "keyword": "sale",
+        "votes": 5,
+        "idf": 6.203090516605016
+    },
+    {
+        "keyword": "updated",
+        "votes": 5,
+        "idf": 5.429900628371534
+    },
+    {
+        "keyword": "please",
+        "votes": 5,
+        "idf": 5.509943336045071
+    },
+    {
+        "keyword": "one",
+        "votes": 5,
+        "idf": 3.9173125419273513
+    },
+    {
+        "keyword": "according",
+        "votes": 5,
+        "idf": 6.203090516605016
+    },
+    {
+        "keyword": "projects",
+        "votes": 5,
+        "idf": 6.203090516605016
+    },
+    {
+        "keyword": "love",
+        "votes": 5,
+        "idf": 5.104478227936906
+    },
+    {
+        "keyword": "node",
+        "votes": 5,
+        "idf": 5.05041100666663
+    },
+    {
+        "keyword": "amazing",
+        "votes": 5,
+        "idf": 5.05041100666663
+    },
+    {
+        "keyword": "2022",
+        "votes": 5,
+        "idf": 5.692264892839025
+    },
+    {
+        "keyword": "live",
+        "votes": 5,
+        "idf": 5.7976254084968515
+    },
+    {
+        "keyword": "says",
+        "votes": 5,
+        "idf": 5.429900628371534
+    },
+    {
+        "keyword": "help",
+        "votes": 5,
+        "idf": 5.915408444153235
+    },
+    {
+        "keyword": "accepting",
+        "votes": 5,
+        "idf": 5.286799784730861
+    },
+    {
+        "keyword": "plan",
+        "votes": 5,
+        "idf": 5.915408444153235
+    },
+    {
+        "keyword": "amc",
+        "votes": 4,
+        "idf": 4.560862781347925
+    },
+    {
+        "keyword": "little",
+        "votes": 4,
+        "idf": 6.048939836777757
+    },
+    {
+        "keyword": "via",
+        "votes": 4,
+        "idf": 5.509943336045071
+    },
+    {
+        "keyword": "ready",
+        "votes": 4,
+        "idf": 5.5969547130347
+    },
+    {
+        "keyword": "pursuing",
+        "votes": 4,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "tweet",
+        "votes": 4,
+        "idf": 5.355792656217813
+    },
+    {
+        "keyword": "move",
+        "votes": 4,
+        "idf": 6.048939836777757
+    },
+    {
+        "keyword": "come",
+        "votes": 4,
+        "idf": 5.915408444153235
+    },
+    {
+        "keyword": "eth",
+        "votes": 4,
+        "idf": 3.7607434812358114
+    },
+    {
+        "keyword": "release",
+        "votes": 4,
+        "idf": 6.048939836777757
+    },
+    {
+        "keyword": "reach",
+        "votes": 4,
+        "idf": 6.048939836777757
+    },
+    {
+        "keyword": "nodes",
+        "votes": 4,
+        "idf": 5.429900628371534
+    },
+    {
+        "keyword": "transaction",
+        "votes": 4,
+        "idf": 5.5969547130347
+    },
+    {
+        "keyword": "week",
+        "votes": 4,
+        "idf": 5.692264892839025
+    },
+    {
+        "keyword": "soon",
+        "votes": 4,
+        "idf": 4.736753447811589
+    },
+    {
+        "keyword": "truly",
+        "votes": 4,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "wen",
+        "votes": 4,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "back",
+        "votes": 4,
+        "idf": 5.22226126359329
+    },
+    {
+        "keyword": "take",
+        "votes": 4,
+        "idf": 4.816796155485125
+    },
+    {
+        "keyword": "luck",
+        "votes": 4,
+        "idf": 6.203090516605016
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 5.22226126359329
+    },
+    {
+        "keyword": "2021",
+        "votes": 4,
+        "idf": 5.5969547130347
+    },
+    {
+        "keyword": "difference",
+        "votes": 4,
+        "idf": 6.203090516605016
+    },
+    {
+        "keyword": "important",
+        "votes": 4,
+        "idf": 5.05041100666663
+    },
+    {
+        "keyword": "download",
+        "votes": 4,
+        "idf": 6.203090516605016
+    },
+    {
+        "keyword": "sir",
+        "votes": 4,
+        "idf": 6.048939836777757
+    },
+    {
+        "keyword": "endorses",
+        "votes": 4,
+        "idf": 6.203090516605016
+    },
+    {
+        "keyword": "domain",
+        "votes": 4,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "name",
+        "votes": 4,
+        "idf": 5.509943336045071
+    },
+    {
+        "keyword": "join",
+        "votes": 4,
+        "idf": 4.9038075324747545
+    },
+    {
+        "keyword": "bad",
+        "votes": 4,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "see",
+        "votes": 4,
+        "idf": 4.6990131198287415
+    },
+    {
+        "keyword": "mantle",
+        "votes": 4,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "lottery",
+        "votes": 4,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "entries",
+        "votes": 4,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "announcement",
+        "votes": 3,
+        "idf": 6.60855562471318
+    },
+    {
+        "keyword": "ada",
+        "votes": 3,
+        "idf": 4.357263826106685
+    },
+    {
+        "keyword": "btc",
+        "votes": 3,
+        "idf": 3.6907848926289013
+    },
+    {
+        "keyword": "2",
+        "votes": 3,
+        "idf": 4.9038075324747545
+    },
+    {
+        "keyword": "next",
+        "votes": 3,
+        "idf": 4.357263826106685
+    },
+    {
+        "keyword": "original",
+        "votes": 3,
+        "idf": 6.38541207339897
+    },
+    {
+        "keyword": "7d",
+        "votes": 3,
+        "idf": 6.60855562471318
+    },
+    {
+        "keyword": "30d",
+        "votes": 3,
+        "idf": 6.60855562471318
     }
 ]

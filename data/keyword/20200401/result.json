@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "1",
+        "votes": 23,
+        "idf": 3.0455399900041544
+    },
+    {
+        "keyword": "01",
+        "votes": 20,
+        "idf": 3.402214933942887
+    },
+    {
+        "keyword": "8",
+        "votes": 12,
+        "idf": 3.881788014204773
+    },
+    {
+        "keyword": "winner",
+        "votes": 10,
+        "idf": 4.048842098867939
+    },
+    {
+        "keyword": "9",
+        "votes": 10,
+        "idf": 4.048842098867939
+    },
+    {
+        "keyword": "100",
+        "votes": 9,
+        "idf": 3.9618307218783095
+    },
+    {
+        "keyword": "day",
+        "votes": 9,
+        "idf": 3.881788014204773
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 9,
+        "idf": 3.9618307218783095
+    },
+    {
+        "keyword": "space",
+        "votes": 8,
+        "idf": 4.249512794330091
+    },
+    {
+        "keyword": "post",
+        "votes": 8,
+        "idf": 3.9618307218783095
+    },
+    {
+        "keyword": "news",
+        "votes": 7,
+        "idf": 4.048842098867939
+    },
+    {
+        "keyword": "crypto",
+        "votes": 6,
+        "idf": 3.5563656137701454
+    },
+    {
+        "keyword": "via",
+        "votes": 4,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "near",
+        "votes": 4,
+        "idf": 4.6549779024382545
+    },
+    {
+        "keyword": "reversal",
+        "votes": 4,
+        "idf": 4.6549779024382545
+    },
+    {
+        "keyword": "term",
+        "votes": 4,
+        "idf": 4.6549779024382545
+    },
+    {
+        "keyword": "bitcoinist",
+        "votes": 4,
+        "idf": 4.837299459232209
+    },
+    {
+        "keyword": "win",
+        "votes": 4,
+        "idf": 4.837299459232209
+    },
+    {
+        "keyword": "10000",
+        "votes": 4,
+        "idf": 4.837299459232209
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 3.7386871705641
+    },
+    {
+        "keyword": "weeks",
+        "votes": 3,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "4",
+        "votes": 3,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "evidence",
+        "votes": 3,
+        "idf": 4.837299459232209
+    },
+    {
+        "keyword": "tip",
+        "votes": 3,
+        "idf": 4.837299459232209
+    },
+    {
+        "keyword": "50",
+        "votes": 3,
+        "idf": 4.500827222610997
+    },
+    {
+        "keyword": "coin",
+        "votes": 3,
+        "idf": 3.881788014204773
+    },
+    {
+        "keyword": "economy",
+        "votes": 3,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "saves",
+        "votes": 3,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "target",
+        "votes": 3,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "article",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "meme",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "cashflow",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "panic",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "1x2t",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "launch",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "decide",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "claim",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "today",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "read",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "mainframe",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "cmn",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "vs",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "opinion",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "joke",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "good",
+        "votes": 2,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "try",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "luck",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "global",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "nice",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "buying",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "btg",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "hourly",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "data",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "earn",
+        "votes": 2,
+        "idf": 4.500827222610997
+    },
+    {
+        "keyword": "r",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "hits",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "31",
+        "votes": 2,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "zoom",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "fintech",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "welcoming",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "dawned",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "altcoins",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "farm",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "kiibo",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "using",
+        "votes": 1,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "universal",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "increased",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "44",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "despite",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "positives",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "maker",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "times",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "sad",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "keep",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "push",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "rising",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "aromatherapy",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "heatlhy",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "stay",
+        "votes": 1,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "decoupling",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "seeking",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "team",
+        "votes": 1,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "take",
+        "votes": 1,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "one",
+        "votes": 1,
+        "idf": 4.6549779024382545
+    },
+    {
+        "keyword": "let",
+        "votes": 1,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "mean",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "likes",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "selling",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "6k",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "wants",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "alert",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "sent",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "bam",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "available",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "penny",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "less",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "cause",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "lmk",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "bunch",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "bitcoincash",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    }
+]

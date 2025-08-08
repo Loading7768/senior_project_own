@@ -10,12 +10,12 @@
         "idf": 4.044522437723423
     },
     {
-        "keyword": "far",
+        "keyword": "value",
         "votes": 1,
         "idf": 4.044522437723423
     },
     {
-        "keyword": "value",
+        "keyword": "far",
         "votes": 1,
         "idf": 4.044522437723423
     },
@@ -25,7 +25,7 @@
         "idf": 4.044522437723423
     },
     {
-        "keyword": "cash",
+        "keyword": "xec",
         "votes": 1,
         "idf": 4.044522437723423
     },
@@ -35,17 +35,17 @@
         "idf": 4.044522437723423
     },
     {
+        "keyword": "long",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "mine",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
         "keyword": "old",
-        "votes": 1,
-        "idf": 4.044522437723423
-    },
-    {
-        "keyword": "plan",
-        "votes": 1,
-        "idf": 4.044522437723423
-    },
-    {
-        "keyword": "thousand",
         "votes": 1,
         "idf": 4.044522437723423
     },
@@ -55,27 +55,32 @@
         "idf": 4.044522437723423
     },
     {
-        "keyword": "good",
-        "votes": 1,
-        "idf": 4.044522437723423
-    },
-    {
         "keyword": "miss",
         "votes": 1,
         "idf": 4.044522437723423
     },
     {
-        "keyword": "choices",
+        "keyword": "good",
         "votes": 1,
         "idf": 4.044522437723423
     },
     {
-        "keyword": "food",
+        "keyword": "sometimes",
         "votes": 1,
         "idf": 4.044522437723423
     },
     {
-        "keyword": "reception",
+        "keyword": "definately",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "actually",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "face",
         "votes": 1,
         "idf": 4.044522437723423
     },
@@ -85,12 +90,7 @@
         "idf": 4.044522437723423
     },
     {
-        "keyword": "see",
-        "votes": 1,
-        "idf": 4.044522437723423
-    },
-    {
-        "keyword": "russo",
+        "keyword": "bill",
         "votes": 1,
         "idf": 4.044522437723423
     },
@@ -100,7 +100,7 @@
         "idf": 4.044522437723423
     },
     {
-        "keyword": "lol",
+        "keyword": "nothing",
         "votes": 1,
         "idf": 4.044522437723423
     },
@@ -115,12 +115,12 @@
         "idf": 4.044522437723423
     },
     {
-        "keyword": "pig",
+        "keyword": "holders",
         "votes": 1,
         "idf": 4.044522437723423
     },
     {
-        "keyword": "mask",
+        "keyword": "move",
         "votes": 1,
         "idf": 4.044522437723423
     },
@@ -130,12 +130,12 @@
         "idf": 4.044522437723423
     },
     {
-        "keyword": "thrown",
+        "keyword": "meme",
         "votes": 1,
         "idf": 4.044522437723423
     },
     {
-        "keyword": "meme",
+        "keyword": "porcelain",
         "votes": 1,
         "idf": 4.044522437723423
     },
@@ -146,6 +146,356 @@
     },
     {
         "keyword": "late",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "think",
+        "votes": 1,
+        "idf": 3.3513752571634776
+    },
+    {
+        "keyword": "61",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "39",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "price",
+        "votes": 1,
+        "idf": 3.3513752571634776
+    },
+    {
+        "keyword": "forth",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "wonderful",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "moon",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "save",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "children",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "raised",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "going",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "haha",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "wtf",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "improvement",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "real",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "advisors",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "1h",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "7d",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "30d",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "daughter",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "mother",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "snoring",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "mean",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "sense",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "makes",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "intelligence",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "thanks",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "rich",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "update",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "prepares",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "blowing",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "texas",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "visited",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "buying",
+        "votes": 1,
+        "idf": 3.6390573296152584
+    },
+    {
+        "keyword": "massive",
+        "votes": 1,
+        "idf": 3.6390573296152584
+    },
+    {
+        "keyword": "hold",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "ur",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "honeymoon",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "sweden",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "picture",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "back",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "81",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "rank",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "hour",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "start",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "lose",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "millions",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "er",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "mensen",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "vie",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "1",
+        "votes": 1,
+        "idf": 3.3513752571634776
+    },
+    {
+        "keyword": "two",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "accounts",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "needs",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "miracle",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "nft",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "money",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "u",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "total",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "speculated",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "address",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "cap",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "growth",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "early",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "recently",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "checked",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "head",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "100x",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "cate",
+        "votes": 1,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "cheap",
         "votes": 1,
         "idf": 4.044522437723423
     }

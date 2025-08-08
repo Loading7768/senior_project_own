@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "analysis",
+        "votes": 28,
+        "idf": 3.2567216762008644
+    },
+    {
+        "keyword": "sensational",
+        "votes": 27,
+        "idf": 3.1900303017021923
+    },
+    {
+        "keyword": "growth",
+        "votes": 25,
+        "idf": 3.1900303017021923
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 24,
+        "idf": 3.405141681319138
+    },
+    {
+        "keyword": "usd",
+        "votes": 24,
+        "idf": 3.405141681319138
+    },
+    {
+        "keyword": "buywall",
+        "votes": 21,
+        "idf": 3.445963675839393
+    },
+    {
+        "keyword": "neucoin",
+        "votes": 15,
+        "idf": 3.8514287839475574
+    },
+    {
+        "keyword": "weekly",
+        "votes": 15,
+        "idf": 3.5794950684639155
+    },
+    {
+        "keyword": "vircurex",
+        "votes": 14,
+        "idf": 3.9159673050851285
+    },
+    {
+        "keyword": "dash",
+        "votes": 13,
+        "idf": 3.6795785270208983
+    },
+    {
+        "keyword": "2",
+        "votes": 12,
+        "idf": 3.8514287839475574
+    },
+    {
+        "keyword": "removed",
+        "votes": 11,
+        "idf": 4.139110856399338
+    },
+    {
+        "keyword": "cryptsy",
+        "votes": 10,
+        "idf": 4.059068148725801
+    },
+    {
+        "keyword": "new",
+        "votes": 10,
+        "idf": 4.059068148725801
+    },
+    {
+        "keyword": "video",
+        "votes": 6,
+        "idf": 4.139110856399338
+    },
+    {
+        "keyword": "turned",
+        "votes": 6,
+        "idf": 4.678107357132025
+    },
+    {
+        "keyword": "business",
+        "votes": 6,
+        "idf": 4.678107357132025
+    },
+    {
+        "keyword": "topics",
+        "votes": 6,
+        "idf": 4.678107357132025
+    },
+    {
+        "keyword": "hot",
+        "votes": 6,
+        "idf": 4.544575964507503
+    },
+    {
+        "keyword": "today",
+        "votes": 5,
+        "idf": 4.832258036959283
+    },
+    {
+        "keyword": "volume",
+        "votes": 5,
+        "idf": 4.678107357132025
+    },
+    {
+        "keyword": "article",
+        "votes": 5,
+        "idf": 4.832258036959283
+    },
+    {
+        "keyword": "via",
+        "votes": 5,
+        "idf": 4.321432413193293
+    },
+    {
+        "keyword": "winner",
+        "votes": 5,
+        "idf": 4.832258036959283
+    },
+    {
+        "keyword": "dollar",
+        "votes": 5,
+        "idf": 4.678107357132025
+    },
+    {
+        "keyword": "well",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "waiting",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "askcoinnet",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "voting",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "vote",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "9",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "0",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "announced",
+        "votes": 4,
+        "idf": 4.832258036959283
+    },
+    {
+        "keyword": "chance",
+        "votes": 4,
+        "idf": 4.678107357132025
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 3,
+        "idf": 3.9159673050851285
+    },
+    {
+        "keyword": "home",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "boss",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "job",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "news",
+        "votes": 3,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "01",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "decide",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "claim",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "1",
+        "votes": 3,
+        "idf": 4.544575964507503
+    },
+    {
+        "keyword": "success",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "week",
+        "votes": 3,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "looking",
+        "votes": 2,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "seller",
+        "votes": 2,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "4",
+        "votes": 2,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "shifted",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "earn",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "portal",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "latest",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "progression",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "astonishing",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "trade",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "growing",
+        "votes": 2,
+        "idf": 3.5794950684639155
+    },
+    {
+        "keyword": "falls",
+        "votes": 2,
+        "idf": 3.5794950684639155
+    },
+    {
+        "keyword": "8",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "updated",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "change",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "cointele",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "cointelegraph",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "7",
+        "votes": 2,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "guide",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "wi",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "wallets",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "3rd",
+        "votes": 2,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "mining",
+        "votes": 1,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "40000",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "2910029",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "135",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "paid",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "brock",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "babiarz",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "w",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "cc",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "ends",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "pebble",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "defrag",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "fart",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "agoff",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "zachary",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "better",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "deserve",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "luck",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "hehe",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "shortings",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "damnit",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "blakey",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "eldon",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "2014",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "dogeparty",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "amas",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "leo",
+        "votes": 1,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "floodgates",
+        "votes": 1,
+        "idf": 5.930870325627393
+    }
+]

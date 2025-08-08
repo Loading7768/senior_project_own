@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "04",
+        "votes": 19,
+        "idf": 3.598979106047848
+    },
+    {
+        "keyword": "5",
+        "votes": 18,
+        "idf": 3.598979106047848
+    },
+    {
+        "keyword": "army",
+        "votes": 14,
+        "idf": 3.761498035545623
+    },
+    {
+        "keyword": "creates",
+        "votes": 13,
+        "idf": 3.650272400435399
+    },
+    {
+        "keyword": "spot",
+        "votes": 11,
+        "idf": 4.029762022140302
+    },
+    {
+        "keyword": "looms",
+        "votes": 11,
+        "idf": 4.029762022140302
+    },
+    {
+        "keyword": "itc",
+        "votes": 10,
+        "idf": 4.196816106803468
+    },
+    {
+        "keyword": "nuls",
+        "votes": 10,
+        "idf": 4.196816106803468
+    },
+    {
+        "keyword": "ink",
+        "votes": 10,
+        "idf": 4.196816106803468
+    },
+    {
+        "keyword": "script",
+        "votes": 10,
+        "idf": 3.598979106047848
+    },
+    {
+        "keyword": "loser",
+        "votes": 8,
+        "idf": 4.39748680226562
+    },
+    {
+        "keyword": "resumes",
+        "votes": 8,
+        "idf": 4.029762022140302
+    },
+    {
+        "keyword": "red",
+        "votes": 8,
+        "idf": 4.39748680226562
+    },
+    {
+        "keyword": "greatest",
+        "votes": 6,
+        "idf": 4.39748680226562
+    },
+    {
+        "keyword": "enthusiasts",
+        "votes": 6,
+        "idf": 4.39748680226562
+    },
+    {
+        "keyword": "defies",
+        "votes": 6,
+        "idf": 4.39748680226562
+    },
+    {
+        "keyword": "claims",
+        "votes": 5,
+        "idf": 4.802951910373784
+    },
+    {
+        "keyword": "easy",
+        "votes": 5,
+        "idf": 4.802951910373784
+    },
+    {
+        "keyword": "coinpot",
+        "votes": 5,
+        "idf": 4.802951910373784
+    },
+    {
+        "keyword": "site",
+        "votes": 4,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "miner",
+        "votes": 4,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "centrality",
+        "votes": 4,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "3",
+        "votes": 4,
+        "idf": 4.6488012305465265
+    },
+    {
+        "keyword": "positive",
+        "votes": 4,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "negative",
+        "votes": 4,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "money",
+        "votes": 4,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "happening",
+        "votes": 4,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "4",
+        "votes": 4,
+        "idf": 4.515269837922004
+    },
+    {
+        "keyword": "03",
+        "votes": 4,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "avg",
+        "votes": 3,
+        "idf": 4.39748680226562
+    },
+    {
+        "keyword": "current",
+        "votes": 3,
+        "idf": 4.515269837922004
+    },
+    {
+        "keyword": "everyone",
+        "votes": 3,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 3,
+        "idf": 3.7043396217056745
+    },
+    {
+        "keyword": "turns",
+        "votes": 3,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "surpasses",
+        "votes": 3,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "highest",
+        "votes": 3,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "withdraw",
+        "votes": 3,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "retweet",
+        "votes": 3,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "please",
+        "votes": 3,
+        "idf": 4.39748680226562
+    },
+    {
+        "keyword": "high",
+        "votes": 3,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "decide",
+        "votes": 3,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "moon",
+        "votes": 3,
+        "idf": 4.292126286607793
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 3,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "gusd",
+        "votes": 3,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "swap",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "atomic",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "magazine",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "70",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "6",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "winners",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "hours",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "btcp",
+        "votes": 2,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "18",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "approx",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "xlm",
+        "votes": 2,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 4.6488012305465265
+    },
+    {
+        "keyword": "btm",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "turned",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "meme",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "inu",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "new",
+        "votes": 2,
+        "idf": 4.39748680226562
+    },
+    {
+        "keyword": "btcmanager",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "omg",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "code",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "seeks",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "g20",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "vertical",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "buyer",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "millions",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "asset",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "transactions",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 2,
+        "idf": 4.802951910373784
+    },
+    {
+        "keyword": "claim",
+        "votes": 2,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "scan",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "oversold",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "rsi",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "60",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "read",
+        "votes": 2,
+        "idf": 4.292126286607793
+    },
+    {
+        "keyword": "via",
+        "votes": 2,
+        "idf": 4.292126286607793
+    },
+    {
+        "keyword": "rvn",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "dec",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "humans",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "21",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "kcs",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "moac",
+        "votes": 2,
+        "idf": 4.802951910373784
+    },
+    {
+        "keyword": "surges",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "16",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "7",
+        "votes": 2,
+        "idf": 4.985273467167739
+    },
+    {
+        "keyword": "gnt",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "follow",
+        "votes": 2,
+        "idf": 5.208417018481948
+    },
+    {
+        "keyword": "else",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "xtz",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "92",
+        "votes": 2,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "salt",
+        "votes": 1,
+        "idf": 5.901564199041894
+    },
+    {
+        "keyword": "nano",
+        "votes": 1,
+        "idf": 5.901564199041894
+    },
+    {
+        "keyword": "srn",
+        "votes": 1,
+        "idf": 5.496099090933729
+    },
+    {
+        "keyword": "stable",
+        "votes": 1,
+        "idf": 5.901564199041894
+    }
+]

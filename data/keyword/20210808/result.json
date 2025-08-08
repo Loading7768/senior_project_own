@@ -70,7 +70,7 @@
         "idf": 5.305486557551547
     },
     {
-        "keyword": "sleeping",
+        "keyword": "trader",
         "votes": 18,
         "idf": 5.114431320788838
     },
@@ -115,6 +115,11 @@
         "idf": 5.416712192661771
     },
     {
+        "keyword": "analysis",
+        "votes": 13,
+        "idf": 5.477336814478207
+    },
+    {
         "keyword": "may",
         "votes": 13,
         "idf": 5.416712192661771
@@ -125,17 +130,12 @@
         "idf": 5.305486557551547
     },
     {
-        "keyword": "08",
-        "votes": 12,
-        "idf": 5.477336814478207
-    },
-    {
-        "keyword": "odds",
+        "keyword": "rallying",
         "votes": 12,
         "idf": 5.610868207102729
     },
     {
-        "keyword": "rallying",
+        "keyword": "odds",
         "votes": 12,
         "idf": 5.610868207102729
     },
@@ -148,5 +148,355 @@
         "keyword": "today",
         "votes": 11,
         "idf": 4.917721026542784
+    },
+    {
+        "keyword": "surges",
+        "votes": 11,
+        "idf": 5.1588830833596715
+    },
+    {
+        "keyword": "08",
+        "votes": 10,
+        "idf": 5.477336814478207
+    },
+    {
+        "keyword": "via",
+        "votes": 10,
+        "idf": 4.2986818181365605
+    },
+    {
+        "keyword": "far",
+        "votes": 9,
+        "idf": 5.610868207102729
+    },
+    {
+        "keyword": "august",
+        "votes": 9,
+        "idf": 4.991828998696506
+    },
+    {
+        "keyword": "h",
+        "votes": 9,
+        "idf": 5.9473404437239425
+    },
+    {
+        "keyword": "based",
+        "votes": 9,
+        "idf": 5.9473404437239425
+    },
+    {
+        "keyword": "dyor",
+        "votes": 9,
+        "idf": 5.9473404437239425
+    },
+    {
+        "keyword": "nice",
+        "votes": 9,
+        "idf": 5.9473404437239425
+    },
+    {
+        "keyword": "good",
+        "votes": 9,
+        "idf": 4.639007624073763
+    },
+    {
+        "keyword": "value",
+        "votes": 8,
+        "idf": 5.1588830833596715
+    },
+    {
+        "keyword": "7d",
+        "votes": 8,
+        "idf": 6.052700959381768
+    },
+    {
+        "keyword": "30d",
+        "votes": 8,
+        "idf": 6.052700959381768
+    },
+    {
+        "keyword": "rank",
+        "votes": 8,
+        "idf": 6.052700959381768
+    },
+    {
+        "keyword": "keep",
+        "votes": 8,
+        "idf": 5.114431320788838
+    },
+    {
+        "keyword": "floki",
+        "votes": 8,
+        "idf": 5.684976179256451
+    },
+    {
+        "keyword": "love",
+        "votes": 8,
+        "idf": 4.8487281550558325
+    },
+    {
+        "keyword": "ranking",
+        "votes": 8,
+        "idf": 6.052700959381768
+    },
+    {
+        "keyword": "time",
+        "votes": 8,
+        "idf": 4.561046082604051
+    },
+    {
+        "keyword": "u",
+        "votes": 8,
+        "idf": 5.610868207102729
+    },
+    {
+        "keyword": "lets",
+        "votes": 7,
+        "idf": 5.684976179256451
+    },
+    {
+        "keyword": "hodl",
+        "votes": 7,
+        "idf": 5.9473404437239425
+    },
+    {
+        "keyword": "tether",
+        "votes": 7,
+        "idf": 6.052700959381768
+    },
+    {
+        "keyword": "binance",
+        "votes": 7,
+        "idf": 5.9473404437239425
+    },
+    {
+        "keyword": "4",
+        "votes": 7,
+        "idf": 5.765018886929988
+    },
+    {
+        "keyword": "going",
+        "votes": 7,
+        "idf": 4.815938332232841
+    },
+    {
+        "keyword": "day",
+        "votes": 6,
+        "idf": 4.917721026542784
+    },
+    {
+        "keyword": "babydb",
+        "votes": 6,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "way",
+        "votes": 6,
+        "idf": 5.071871706370042
+    },
+    {
+        "keyword": "money",
+        "votes": 6,
+        "idf": 5.071871706370042
+    },
+    {
+        "keyword": "future",
+        "votes": 6,
+        "idf": 5.359553778821823
+    },
+    {
+        "keyword": "bet",
+        "votes": 6,
+        "idf": 6.170483995038151
+    },
+    {
+        "keyword": "btc",
+        "votes": 6,
+        "idf": 5.071871706370042
+    },
+    {
+        "keyword": "soon",
+        "votes": 6,
+        "idf": 4.488725421024425
+    },
+    {
+        "keyword": "yes",
+        "votes": 6,
+        "idf": 6.052700959381768
+    },
+    {
+        "keyword": "much",
+        "votes": 6,
+        "idf": 5.359553778821823
+    },
+    {
+        "keyword": "baby",
+        "votes": 6,
+        "idf": 5.9473404437239425
+    },
+    {
+        "keyword": "uniswap",
+        "votes": 6,
+        "idf": 6.170483995038151
+    },
+    {
+        "keyword": "one",
+        "votes": 5,
+        "idf": 3.252713262953873
+    },
+    {
+        "keyword": "done",
+        "votes": 5,
+        "idf": 5.477336814478207
+    },
+    {
+        "keyword": "let",
+        "votes": 5,
+        "idf": 4.917721026542784
+    },
+    {
+        "keyword": "coming",
+        "votes": 5,
+        "idf": 5.416712192661771
+    },
+    {
+        "keyword": "prediction",
+        "votes": 5,
+        "idf": 6.458166067489933
+    },
+    {
+        "keyword": "see",
+        "votes": 5,
+        "idf": 5.305486557551547
+    },
+    {
+        "keyword": "25",
+        "votes": 5,
+        "idf": 5.765018886929988
+    },
+    {
+        "keyword": "tweet",
+        "votes": 5,
+        "idf": 5.477336814478207
+    },
+    {
+        "keyword": "next",
+        "votes": 5,
+        "idf": 4.815938332232841
+    },
+    {
+        "keyword": "hit",
+        "votes": 5,
+        "idf": 5.416712192661771
+    },
+    {
+        "keyword": "best",
+        "votes": 5,
+        "idf": 5.541875335615778
+    },
+    {
+        "keyword": "model",
+        "votes": 5,
+        "idf": 6.304015387662674
+    },
+    {
+        "keyword": "life",
+        "votes": 5,
+        "idf": 6.052700959381768
+    },
+    {
+        "keyword": "get",
+        "votes": 5,
+        "idf": 4.172388092812268
+    },
+    {
+        "keyword": "mars",
+        "votes": 5,
+        "idf": 6.458166067489933
+    },
+    {
+        "keyword": "lol",
+        "votes": 5,
+        "idf": 5.359553778821823
+    },
+    {
+        "keyword": "wow",
+        "votes": 5,
+        "idf": 6.170483995038151
+    },
+    {
+        "keyword": "mdoge",
+        "votes": 5,
+        "idf": 6.052700959381768
+    },
+    {
+        "keyword": "300",
+        "votes": 5,
+        "idf": 6.458166067489933
+    },
+    {
+        "keyword": "boom",
+        "votes": 5,
+        "idf": 6.458166067489933
+    },
+    {
+        "keyword": "world",
+        "votes": 5,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "uno",
+        "votes": 5,
+        "idf": 6.458166067489933
+    },
+    {
+        "keyword": "big",
+        "votes": 5,
+        "idf": 5.071871706370042
+    },
+    {
+        "keyword": "want",
+        "votes": 5,
+        "idf": 5.114431320788838
+    },
+    {
+        "keyword": "ya",
+        "votes": 5,
+        "idf": 6.170483995038151
+    },
+    {
+        "keyword": "say",
+        "votes": 5,
+        "idf": 5.610868207102729
+    },
+    {
+        "keyword": "please",
+        "votes": 5,
+        "idf": 5.359553778821823
+    },
+    {
+        "keyword": "morning",
+        "votes": 5,
+        "idf": 5.684976179256451
+    },
+    {
+        "keyword": "need",
+        "votes": 4,
+        "idf": 5.254193263163997
+    },
+    {
+        "keyword": "stake",
+        "votes": 4,
+        "idf": 6.640487624283887
+    },
+    {
+        "keyword": "post",
+        "votes": 4,
+        "idf": 6.458166067489933
+    },
+    {
+        "keyword": "remember",
+        "votes": 4,
+        "idf": 6.304015387662674
     }
 ]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "smoking",
+        "votes": 44,
+        "idf": 4.74181821936828
+    },
+    {
+        "keyword": "love",
+        "votes": 20,
+        "idf": 5.034805344049755
+    },
+    {
+        "keyword": "nose",
+        "votes": 19,
+        "idf": 5.301434007303704
+    },
+    {
+        "keyword": "tattoos",
+        "votes": 19,
+        "idf": 5.056311549270719
+    },
+    {
+        "keyword": "creep",
+        "votes": 16,
+        "idf": 5.483755564097658
+    },
+    {
+        "keyword": "attitude",
+        "votes": 15,
+        "idf": 5.589116079755485
+    },
+    {
+        "keyword": "go",
+        "votes": 15,
+        "idf": 4.933709227178387
+    },
+    {
+        "keyword": "good",
+        "votes": 15,
+        "idf": 4.7740790815865015
+    },
+    {
+        "keyword": "accept",
+        "votes": 14,
+        "idf": 5.5527484355846095
+    },
+    {
+        "keyword": "time",
+        "votes": 13,
+        "idf": 4.726069862400141
+    },
+    {
+        "keyword": "yes",
+        "votes": 12,
+        "idf": 5.749458729830664
+    },
+    {
+        "keyword": "away",
+        "votes": 12,
+        "idf": 5.8892206722058225
+    },
+    {
+        "keyword": "lol",
+        "votes": 12,
+        "idf": 5.4509657412746675
+    },
+    {
+        "keyword": "moon",
+        "votes": 12,
+        "idf": 5.171380879055506
+    },
+    {
+        "keyword": "ring",
+        "votes": 11,
+        "idf": 5.940513966593373
+    },
+    {
+        "keyword": "hours",
+        "votes": 11,
+        "idf": 5.666077120891613
+    },
+    {
+        "keyword": "know",
+        "votes": 10,
+        "idf": 4.807415501854094
+    },
+    {
+        "keyword": "1",
+        "votes": 10,
+        "idf": 4.54114752390613
+    },
+    {
+        "keyword": "curious",
+        "votes": 9,
+        "idf": 6.176902744657603
+    },
+    {
+        "keyword": "would",
+        "votes": 9,
+        "idf": 4.8419016779252635
+    },
+    {
+        "keyword": "beautiful",
+        "votes": 9,
+        "idf": 6.487057672961443
+    },
+    {
+        "keyword": "one",
+        "votes": 9,
+        "idf": 4.407616131281607
+    },
+    {
+        "keyword": "ok",
+        "votes": 9,
+        "idf": 6.176902744657603
+    },
+    {
+        "keyword": "cigarettes",
+        "votes": 9,
+        "idf": 6.245895616144555
+    },
+    {
+        "keyword": "follow",
+        "votes": 9,
+        "idf": 5.749458729830664
+    },
+    {
+        "keyword": "payment",
+        "votes": 9,
+        "idf": 6.245895616144555
+    },
+    {
+        "keyword": "welcome",
+        "votes": 9,
+        "idf": 6.400046295971813
+    },
+    {
+        "keyword": "pengu",
+        "votes": 9,
+        "idf": 4.2999854670892415
+    },
+    {
+        "keyword": "please",
+        "votes": 9,
+        "idf": 6.112364223520032
+    },
+    {
+        "keyword": "gamble",
+        "votes": 8,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "bad",
+        "votes": 8,
+        "idf": 5.84043050803639
+    },
+    {
+        "keyword": "payments",
+        "votes": 8,
+        "idf": 6.051739601703598
+    },
+    {
+        "keyword": "liberal",
+        "votes": 8,
+        "idf": 6.320003588298277
+    },
+    {
+        "keyword": "bearish",
+        "votes": 8,
+        "idf": 6.320003588298277
+    },
+    {
+        "keyword": "crowd",
+        "votes": 8,
+        "idf": 6.245895616144555
+    },
+    {
+        "keyword": "coin",
+        "votes": 8,
+        "idf": 4.2999854670892415
+    },
+    {
+        "keyword": "nothing",
+        "votes": 8,
+        "idf": 5.793910492401498
+    },
+    {
+        "keyword": "much",
+        "votes": 8,
+        "idf": 5.147283327476445
+    },
+    {
+        "keyword": "morning",
+        "votes": 8,
+        "idf": 6.487057672961443
+    },
+    {
+        "keyword": "okay",
+        "votes": 8,
+        "idf": 6.400046295971813
+    },
+    {
+        "keyword": "rings",
+        "votes": 7,
+        "idf": 6.051739601703598
+    },
+    {
+        "keyword": "money",
+        "votes": 7,
+        "idf": 4.993132647649187
+    },
+    {
+        "keyword": "woof",
+        "votes": 7,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "dip",
+        "votes": 7,
+        "idf": 5.274035033115589
+    },
+    {
+        "keyword": "update",
+        "votes": 7,
+        "idf": 5.84043050803639
+    },
+    {
+        "keyword": "mp",
+        "votes": 7,
+        "idf": 6.487057672961443
+    },
+    {
+        "keyword": "pretty",
+        "votes": 7,
+        "idf": 6.487057672961443
+    },
+    {
+        "keyword": "mind",
+        "votes": 7,
+        "idf": 6.487057672961443
+    },
+    {
+        "keyword": "talking",
+        "votes": 7,
+        "idf": 5.84043050803639
+    },
+    {
+        "keyword": "piercings",
+        "votes": 7,
+        "idf": 6.051739601703598
+    },
+    {
+        "keyword": "always",
+        "votes": 7,
+        "idf": 5.589116079755485
+    },
+    {
+        "keyword": "oh",
+        "votes": 7,
+        "idf": 6.176902744657603
+    },
+    {
+        "keyword": "pay",
+        "votes": 7,
+        "idf": 5.8892206722058225
+    },
+    {
+        "keyword": "shit",
+        "votes": 7,
+        "idf": 6.245895616144555
+    },
+    {
+        "keyword": "many",
+        "votes": 7,
+        "idf": 5.626856407738331
+    },
+    {
+        "keyword": "like",
+        "votes": 7,
+        "idf": 4.017418495304231
+    },
+    {
+        "keyword": "buying",
+        "votes": 7,
+        "idf": 5.666077120891613
+    },
+    {
+        "keyword": "said",
+        "votes": 7,
+        "idf": 6.051739601703598
+    },
+    {
+        "keyword": "today",
+        "votes": 7,
+        "idf": 5.147283327476445
+    },
+    {
+        "keyword": "posted",
+        "votes": 7,
+        "idf": 6.320003588298277
+    },
+    {
+        "keyword": "awesome",
+        "votes": 7,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "cool",
+        "votes": 7,
+        "idf": 6.051739601703598
+    },
+    {
+        "keyword": "buy",
+        "votes": 7,
+        "idf": 4.914661032207691
+    },
+    {
+        "keyword": "ready",
+        "votes": 7,
+        "idf": 5.419217042960087
+    },
+    {
+        "keyword": "depends",
+        "votes": 7,
+        "idf": 6.320003588298277
+    },
+    {
+        "keyword": "well",
+        "votes": 6,
+        "idf": 5.517657115773339
+    },
+    {
+        "keyword": "mine",
+        "votes": 6,
+        "idf": 6.400046295971813
+    },
+    {
+        "keyword": "look",
+        "votes": 6,
+        "idf": 5.3296048842704
+    },
+    {
+        "keyword": "hope",
+        "votes": 6,
+        "idf": 6.112364223520032
+    },
+    {
+        "keyword": "steady",
+        "votes": 6,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "ton",
+        "votes": 6,
+        "idf": 5.5527484355846095
+    },
+    {
+        "keyword": "u",
+        "votes": 6,
+        "idf": 5.994581187863649
+    },
+    {
+        "keyword": "septum",
+        "votes": 6,
+        "idf": 6.582367852765768
+    },
+    {
+        "keyword": "think",
+        "votes": 6,
+        "idf": 5.056311549270719
+    },
+    {
+        "keyword": "reason",
+        "votes": 6,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "man",
+        "votes": 6,
+        "idf": 5.749458729830664
+    },
+    {
+        "keyword": "gonna",
+        "votes": 6,
+        "idf": 6.112364223520032
+    },
+    {
+        "keyword": "exactly",
+        "votes": 6,
+        "idf": 6.805511404079978
+    },
+    {
+        "keyword": "guys",
+        "votes": 6,
+        "idf": 5.84043050803639
+    },
+    {
+        "keyword": "loud",
+        "votes": 6,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "unattractive",
+        "votes": 6,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "people",
+        "votes": 6,
+        "idf": 4.877619760527343
+    },
+    {
+        "keyword": "diner",
+        "votes": 6,
+        "idf": 6.487057672961443
+    },
+    {
+        "keyword": "flip",
+        "votes": 6,
+        "idf": 6.400046295971813
+    },
+    {
+        "keyword": "course",
+        "votes": 6,
+        "idf": 6.051739601703598
+    },
+    {
+        "keyword": "alena",
+        "votes": 6,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "cycle",
+        "votes": 6,
+        "idf": 5.517657115773339
+    },
+    {
+        "keyword": "next",
+        "votes": 6,
+        "idf": 4.240562046618441
+    },
+    {
+        "keyword": "true",
+        "votes": 6,
+        "idf": 5.994581187863649
+    },
+    {
+        "keyword": "long",
+        "votes": 6,
+        "idf": 4.807415501854094
+    },
+    {
+        "keyword": "optimus",
+        "votes": 6,
+        "idf": 6.582367852765768
+    },
+    {
+        "keyword": "profile",
+        "votes": 6,
+        "idf": 6.320003588298277
+    },
+    {
+        "keyword": "dm",
+        "votes": 6,
+        "idf": 5.940513966593373
+    },
+    {
+        "keyword": "find",
+        "votes": 6,
+        "idf": 5.749458729830664
+    },
+    {
+        "keyword": "need",
+        "votes": 6,
+        "idf": 5.171380879055506
+    },
+    {
+        "keyword": "0x3ea5",
+        "votes": 6,
+        "idf": 6.9390427967045
+    },
+    {
+        "keyword": "master",
+        "votes": 6,
+        "idf": 6.9390427967045
+    },
+    {
+        "keyword": "locked",
+        "votes": 6,
+        "idf": 6.687728368423594
+    },
+    {
+        "keyword": "miss",
+        "votes": 6,
+        "idf": 5.994581187863649
+    },
+    {
+        "keyword": "also",
+        "votes": 6,
+        "idf": 4.8419016779252635
+    }
+]

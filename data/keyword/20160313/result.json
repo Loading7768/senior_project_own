@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "bter",
+        "votes": 22,
+        "idf": 3.0739919369122712
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 22,
+        "idf": 3.0739919369122712
+    },
+    {
+        "keyword": "usd",
+        "votes": 22,
+        "idf": 3.0739919369122712
+    },
+    {
+        "keyword": "approx",
+        "votes": 22,
+        "idf": 3.0739919369122712
+    },
+    {
+        "keyword": "6",
+        "votes": 11,
+        "idf": 3.644536795379884
+    },
+    {
+        "keyword": "8",
+        "votes": 11,
+        "idf": 3.5704288232261625
+    },
+    {
+        "keyword": "buywall",
+        "votes": 10,
+        "idf": 3.7245795030534206
+    },
+    {
+        "keyword": "12",
+        "votes": 10,
+        "idf": 3.8115908800430502
+    },
+    {
+        "keyword": "sellwall",
+        "votes": 9,
+        "idf": 3.9069010598473755
+    },
+    {
+        "keyword": "removed",
+        "votes": 9,
+        "idf": 3.9069010598473755
+    },
+    {
+        "keyword": "new",
+        "votes": 9,
+        "idf": 3.8115908800430502
+    },
+    {
+        "keyword": "7",
+        "votes": 8,
+        "idf": 4.012261575505201
+    },
+    {
+        "keyword": "lot",
+        "votes": 6,
+        "idf": 4.263576003786108
+    },
+    {
+        "keyword": "0",
+        "votes": 6,
+        "idf": 4.263576003786108
+    },
+    {
+        "keyword": "highlights",
+        "votes": 6,
+        "idf": 4.130044611161585
+    },
+    {
+        "keyword": "thanks",
+        "votes": 5,
+        "idf": 4.417726683613366
+    },
+    {
+        "keyword": "keep",
+        "votes": 5,
+        "idf": 4.417726683613366
+    },
+    {
+        "keyword": "us",
+        "votes": 5,
+        "idf": 4.417726683613366
+    },
+    {
+        "keyword": "showing",
+        "votes": 5,
+        "idf": 4.417726683613366
+    },
+    {
+        "keyword": "5",
+        "votes": 4,
+        "idf": 4.130044611161585
+    },
+    {
+        "keyword": "updated",
+        "votes": 3,
+        "idf": 4.823191791721531
+    },
+    {
+        "keyword": "4",
+        "votes": 3,
+        "idf": 4.823191791721531
+    },
+    {
+        "keyword": "via",
+        "votes": 3,
+        "idf": 4.60004824040732
+    },
+    {
+        "keyword": "key",
+        "votes": 3,
+        "idf": 3.9069010598473755
+    },
+    {
+        "keyword": "last",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "low",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 4.60004824040732
+    },
+    {
+        "keyword": "shibe",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "guide",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "wallets",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "volume",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "2",
+        "votes": 2,
+        "idf": 4.60004824040732
+    },
+    {
+        "keyword": "community",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "partner",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "site",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "change",
+        "votes": 2,
+        "idf": 4.60004824040732
+    },
+    {
+        "keyword": "claim",
+        "votes": 2,
+        "idf": 4.60004824040732
+    },
+    {
+        "keyword": "holy",
+        "votes": 2,
+        "idf": 4.823191791721531
+    },
+    {
+        "keyword": "tip",
+        "votes": 2,
+        "idf": 4.60004824040732
+    },
+    {
+        "keyword": "newsbtc",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "heard",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "decreased",
+        "votes": 2,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "southwest",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "worth",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "south",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "completed",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "million",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "details",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "daughter",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "f",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "princess",
+        "votes": 1,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "silly",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "chap",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "video",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "choose",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 1,
+        "idf": 4.823191791721531
+    },
+    {
+        "keyword": "58706",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "djukebox",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "jasdac",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "saying",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "auoracoin",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "monero",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "red",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "direct",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "earn",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "gets",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "first",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "\u00f0jukebox",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "update",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "source",
+        "votes": 1,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "return",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "pays",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "culprit",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "maybe",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "soon",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "queen",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "official",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "tomorrow",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "jackpot",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "reached",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "biggest",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "claims",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "quickest",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "indycar",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "shirt",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "coverage",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "president",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "wow",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "accept",
+        "votes": 1,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "59151",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "face",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "least",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "prefer",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "time",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "development",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "check",
+        "votes": 1,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "wolves",
+        "votes": 1,
+        "idf": 5.516338972281476
+    },
+    {
+        "keyword": "wrapup",
+        "votes": 1,
+        "idf": 5.516338972281476
+    }
+]

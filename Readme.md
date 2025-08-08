@@ -120,3 +120,19 @@
         (close_price)(收盤價)(要自己輸入)
 
         將一整個月的分析 csv 檔案儲存到 data/tweets/summary 中
+
+使用手冊(estimate_the_total.py, current_date_price.py, idf_all.py, {model}.py)：
+
+    estimate_the_total.py：
+        估算沒有抓到 00:xx:xx 的當天推文總數
+        輸出放大倍率
+
+    current_date_price.py：
+        把目前有抓到推文的日期加上價錢
+        輸出 明天 - 今天 的價錢.npy
+
+    idf_all.py：
+
+
+    logistic_regression.py：
+        

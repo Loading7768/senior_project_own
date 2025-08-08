@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "london",
+        "votes": 39,
+        "idf": 3.4397862145075306
+    },
+    {
+        "keyword": "dinner",
+        "votes": 38,
+        "idf": 3.3826278006675823
+    },
+    {
+        "keyword": "east",
+        "votes": 31,
+        "idf": 3.3642786619993856
+    },
+    {
+        "keyword": "9",
+        "votes": 25,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "0",
+        "votes": 24,
+        "idf": 4.004316017245383
+    },
+    {
+        "keyword": "average",
+        "votes": 22,
+        "idf": 3.244477462186765
+    },
+    {
+        "keyword": "1",
+        "votes": 19,
+        "idf": 3.5429704507427613
+    },
+    {
+        "keyword": "2",
+        "votes": 19,
+        "idf": 4.075774981227528
+    },
+    {
+        "keyword": "7",
+        "votes": 18,
+        "idf": 4.327089409508433
+    },
+    {
+        "keyword": "know",
+        "votes": 16,
+        "idf": 4.3758795736778655
+    },
+    {
+        "keyword": "things",
+        "votes": 14,
+        "idf": 4.538398503175641
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 14,
+        "idf": 4.427172868065416
+    },
+    {
+        "keyword": "3",
+        "votes": 13,
+        "idf": 4.3758795736778655
+    },
+    {
+        "keyword": "occupied",
+        "votes": 13,
+        "idf": 4.599023124992075
+    },
+    {
+        "keyword": "5",
+        "votes": 12,
+        "idf": 4.599023124992075
+    },
+    {
+        "keyword": "6",
+        "votes": 12,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "party",
+        "votes": 12,
+        "idf": 4.236117631302706
+    },
+    {
+        "keyword": "wall",
+        "votes": 10,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 10,
+        "idf": 3.4203681286504293
+    },
+    {
+        "keyword": "8",
+        "votes": 10,
+        "idf": 4.973716574433485
+    },
+    {
+        "keyword": "4",
+        "votes": 9,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "street",
+        "votes": 9,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "via",
+        "votes": 9,
+        "idf": 4.236117631302706
+    },
+    {
+        "keyword": "real",
+        "votes": 8,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "dogs",
+        "votes": 7,
+        "idf": 4.973716574433485
+    },
+    {
+        "keyword": "coindesk",
+        "votes": 7,
+        "idf": 5.292170305552021
+    },
+    {
+        "keyword": "hits",
+        "votes": 7,
+        "idf": 5.069026754237811
+    },
+    {
+        "keyword": "protests",
+        "votes": 7,
+        "idf": 4.973716574433485
+    },
+    {
+        "keyword": "brick",
+        "votes": 7,
+        "idf": 5.292170305552021
+    },
+    {
+        "keyword": "error",
+        "votes": 6,
+        "idf": 5.425701698176543
+    },
+    {
+        "keyword": "gox",
+        "votes": 6,
+        "idf": 4.886705197443856
+    },
+    {
+        "keyword": "new",
+        "votes": 5,
+        "idf": 4.599023124992075
+    },
+    {
+        "keyword": "wow",
+        "votes": 5,
+        "idf": 4.075774981227528
+    },
+    {
+        "keyword": "alt",
+        "votes": 5,
+        "idf": 5.579852378003801
+    },
+    {
+        "keyword": "tracker",
+        "votes": 5,
+        "idf": 5.579852378003801
+    },
+    {
+        "keyword": "need",
+        "votes": 5,
+        "idf": 5.174387269895637
+    },
+    {
+        "keyword": "love",
+        "votes": 5,
+        "idf": 4.886705197443856
+    },
+    {
+        "keyword": "eric",
+        "votes": 5,
+        "idf": 5.579852378003801
+    },
+    {
+        "keyword": "hearing",
+        "votes": 5,
+        "idf": 5.292170305552021
+    },
+    {
+        "keyword": "supporting",
+        "votes": 4,
+        "idf": 5.579852378003801
+    },
+    {
+        "keyword": "wi",
+        "votes": 4,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.236117631302706
+    },
+    {
+        "keyword": "inside",
+        "votes": 4,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "alydian",
+        "votes": 4,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "cloud",
+        "votes": 4,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "favourite",
+        "votes": 4,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "rig",
+        "votes": 4,
+        "idf": 5.579852378003801
+    },
+    {
+        "keyword": "amaze",
+        "votes": 4,
+        "idf": 5.579852378003801
+    },
+    {
+        "keyword": "halving",
+        "votes": 3,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "square",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "monitor",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "tip",
+        "votes": 3,
+        "idf": 4.732554517616598
+    },
+    {
+        "keyword": "house",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "rise",
+        "votes": 3,
+        "idf": 5.579852378003801
+    },
+    {
+        "keyword": "vacation",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "ya",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "monday",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "pdf",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "burger",
+        "votes": 3,
+        "idf": 3.3642786619993856
+    },
+    {
+        "keyword": "flies",
+        "votes": 3,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "transactions",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "decided",
+        "votes": 3,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "news",
+        "votes": 3,
+        "idf": 4.599023124992075
+    },
+    {
+        "keyword": "money",
+        "votes": 3,
+        "idf": 5.425701698176543
+    },
+    {
+        "keyword": "thanks",
+        "votes": 3,
+        "idf": 4.973716574433485
+    },
+    {
+        "keyword": "analysis",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "rt",
+        "votes": 3,
+        "idf": 4.973716574433485
+    },
+    {
+        "keyword": "amazing",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "offering",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "customers",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "calls",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "transac",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "wrapper",
+        "votes": 3,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "lane",
+        "votes": 3,
+        "idf": 5.292170305552021
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "thread",
+        "votes": 2,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "posted",
+        "votes": 2,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "tips",
+        "votes": 2,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "oh",
+        "votes": 2,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "must",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "photo",
+        "votes": 2,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "ltc",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "gang",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "wherein",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "seriously",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "okay",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "emailing",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "acolytes",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "buying",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "opportunity",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "take",
+        "votes": 2,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "coming",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "want",
+        "votes": 2,
+        "idf": 5.174387269895637
+    },
+    {
+        "keyword": "various",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "completely",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "world",
+        "votes": 2,
+        "idf": 5.762173934797756
+    },
+    {
+        "keyword": "gold",
+        "votes": 2,
+        "idf": 5.985317486111966
+    },
+    {
+        "keyword": "ireport",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "cnn",
+        "votes": 2,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "called",
+        "votes": 2,
+        "idf": 6.272999558563747
+    }
+]

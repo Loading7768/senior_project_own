@@ -6,8 +6,8 @@ from collections import defaultdict
 # === 自訂參數 ===
 json_coin = "dogecoin"
 coin_type = "DOGE"
-year = "2025"
-month = "06"
+year = "2018"
+month = "09"
 
 # === 資料夾設定 ===
 folder_path = f"../data/tweets/{coin_type}/{year}/{month}"

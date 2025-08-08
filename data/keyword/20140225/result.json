@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "error",
+        "votes": 41,
+        "idf": 3.9190569058950233
+    },
+    {
+        "keyword": "3",
+        "votes": 40,
+        "idf": 3.764906226067765
+    },
+    {
+        "keyword": "4",
+        "votes": 32,
+        "idf": 4.045808611534167
+    },
+    {
+        "keyword": "5",
+        "votes": 31,
+        "idf": 3.993164878048745
+    },
+    {
+        "keyword": "2",
+        "votes": 30,
+        "idf": 3.8955264084848293
+    },
+    {
+        "keyword": "0",
+        "votes": 21,
+        "idf": 4.437850699310191
+    },
+    {
+        "keyword": "7",
+        "votes": 20,
+        "idf": 4.612204086454969
+    },
+    {
+        "keyword": "8",
+        "votes": 19,
+        "idf": 4.565684070820076
+    },
+    {
+        "keyword": "buy",
+        "votes": 18,
+        "idf": 4.1602189627119115
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 16,
+        "idf": 3.1134317419083875
+    },
+    {
+        "keyword": "breaked",
+        "votes": 15,
+        "idf": 4.884137801938611
+    },
+    {
+        "keyword": "dealing",
+        "votes": 15,
+        "idf": 4.884137801938611
+    },
+    {
+        "keyword": "burger",
+        "votes": 14,
+        "idf": 4.39862998615691
+    },
+    {
+        "keyword": "considers",
+        "votes": 14,
+        "idf": 4.948676323076182
+    },
+    {
+        "keyword": "6",
+        "votes": 13,
+        "idf": 4.823513180122175
+    },
+    {
+        "keyword": "1",
+        "votes": 13,
+        "idf": 3.6493933389459206
+    },
+    {
+        "keyword": "effect",
+        "votes": 12,
+        "idf": 4.823513180122175
+    },
+    {
+        "keyword": "waste",
+        "votes": 12,
+        "idf": 4.948676323076182
+    },
+    {
+        "keyword": "reason",
+        "votes": 11,
+        "idf": 4.884137801938611
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 10,
+        "idf": 4.948676323076182
+    },
+    {
+        "keyword": "negative",
+        "votes": 10,
+        "idf": 4.766354766282227
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 10,
+        "idf": 3.4823392542827545
+    },
+    {
+        "keyword": "9",
+        "votes": 10,
+        "idf": 5.171819874390391
+    },
+    {
+        "keyword": "coin",
+        "votes": 10,
+        "idf": 3.993164878048745
+    },
+    {
+        "keyword": "secretly",
+        "votes": 8,
+        "idf": 5.459501946842172
+    },
+    {
+        "keyword": "via",
+        "votes": 8,
+        "idf": 4.565684070820076
+    },
+    {
+        "keyword": "wow",
+        "votes": 7,
+        "idf": 4.324522014003188
+    },
+    {
+        "keyword": "hurry",
+        "votes": 7,
+        "idf": 5.577284982498556
+    },
+    {
+        "keyword": "sale",
+        "votes": 7,
+        "idf": 4.948676323076182
+    },
+    {
+        "keyword": "listing",
+        "votes": 7,
+        "idf": 4.884137801938611
+    },
+    {
+        "keyword": "wipeout",
+        "votes": 6,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "currency",
+        "votes": 6,
+        "idf": 4.324522014003188
+    },
+    {
+        "keyword": "new",
+        "votes": 6,
+        "idf": 4.190990621378665
+    },
+    {
+        "keyword": "core",
+        "votes": 6,
+        "idf": 5.459501946842172
+    },
+    {
+        "keyword": "please",
+        "votes": 6,
+        "idf": 5.017669194563133
+    },
+    {
+        "keyword": "worth",
+        "votes": 6,
+        "idf": 5.171819874390391
+    },
+    {
+        "keyword": "times",
+        "votes": 6,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "good",
+        "votes": 5,
+        "idf": 5.2588312513800215
+    },
+    {
+        "keyword": "supporting",
+        "votes": 5,
+        "idf": 5.864967054950337
+    },
+    {
+        "keyword": "tracker",
+        "votes": 5,
+        "idf": 5.864967054950337
+    },
+    {
+        "keyword": "alt",
+        "votes": 5,
+        "idf": 5.459501946842172
+    },
+    {
+        "keyword": "mining",
+        "votes": 5,
+        "idf": 3.806578922468333
+    },
+    {
+        "keyword": "used",
+        "votes": 5,
+        "idf": 5.354141431184346
+    },
+    {
+        "keyword": "student",
+        "votes": 5,
+        "idf": 5.017669194563133
+    },
+    {
+        "keyword": "take",
+        "votes": 5,
+        "idf": 5.2588312513800215
+    },
+    {
+        "keyword": "moon",
+        "votes": 5,
+        "idf": 4.766354766282227
+    },
+    {
+        "keyword": "business",
+        "votes": 5,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "doge",
+        "votes": 5,
+        "idf": 3.6136752563438415
+    },
+    {
+        "keyword": "retweet",
+        "votes": 5,
+        "idf": 5.864967054950337
+    },
+    {
+        "keyword": "anyone",
+        "votes": 4,
+        "idf": 5.577284982498556
+    },
+    {
+        "keyword": "network",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "burgers",
+        "votes": 4,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "178",
+        "votes": 4,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "super",
+        "votes": 4,
+        "idf": 5.864967054950337
+    },
+    {
+        "keyword": "future",
+        "votes": 4,
+        "idf": 5.577284982498556
+    },
+    {
+        "keyword": "technology",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 4,
+        "idf": 5.171819874390391
+    },
+    {
+        "keyword": "money",
+        "votes": 4,
+        "idf": 4.766354766282227
+    },
+    {
+        "keyword": "want",
+        "votes": 4,
+        "idf": 5.171819874390391
+    },
+    {
+        "keyword": "time",
+        "votes": 4,
+        "idf": 4.766354766282227
+    },
+    {
+        "keyword": "worlds",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "thrown",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "still",
+        "votes": 4,
+        "idf": 5.091777166716855
+    },
+    {
+        "keyword": "much",
+        "votes": 4,
+        "idf": 4.13036599956223
+    },
+    {
+        "keyword": "vergeet",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "resignation",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "bchsiao",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "bidding",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "built",
+        "votes": 4,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "got",
+        "votes": 4,
+        "idf": 4.823513180122175
+    },
+    {
+        "keyword": "porn",
+        "votes": 4,
+        "idf": 5.864967054950337
+    },
+    {
+        "keyword": "maybe",
+        "votes": 3,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "misused",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "love",
+        "votes": 3,
+        "idf": 5.577284982498556
+    },
+    {
+        "keyword": "right",
+        "votes": 3,
+        "idf": 5.171819874390391
+    },
+    {
+        "keyword": "btc",
+        "votes": 3,
+        "idf": 4.045808611534167
+    },
+    {
+        "keyword": "tuesday",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "pdf",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "sitting",
+        "votes": 3,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "follow",
+        "votes": 3,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "guys",
+        "votes": 3,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "definitely",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "real",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "value",
+        "votes": 3,
+        "idf": 5.354141431184346
+    },
+    {
+        "keyword": "free",
+        "votes": 3,
+        "idf": 5.459501946842172
+    },
+    {
+        "keyword": "true",
+        "votes": 3,
+        "idf": 6.047288611744291
+    },
+    {
+        "keyword": "tip",
+        "votes": 3,
+        "idf": 4.948676323076182
+    },
+    {
+        "keyword": "launches",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "atm",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "crypto",
+        "votes": 3,
+        "idf": 5.017669194563133
+    },
+    {
+        "keyword": "cc",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "graphic",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "designer",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "pro",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "sure",
+        "votes": 3,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "vote",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "put",
+        "votes": 3,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "mtgox",
+        "votes": 3,
+        "idf": 5.710816375123078
+    },
+    {
+        "keyword": "current",
+        "votes": 3,
+        "idf": 6.270432163058501
+    },
+    {
+        "keyword": "daily",
+        "votes": 3,
+        "idf": 6.047288611744291
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "rest",
+        "votes": 6,
+        "idf": 5.040541856229124
+    },
+    {
+        "keyword": "forecast",
+        "votes": 6,
+        "idf": 4.9070104636046015
+    },
+    {
+        "keyword": "predicted",
+        "votes": 6,
+        "idf": 4.9070104636046015
+    },
+    {
+        "keyword": "buying",
+        "votes": 4,
+        "idf": 4.9070104636046015
+    },
+    {
+        "keyword": "weakness",
+        "votes": 4,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "expose",
+        "votes": 4,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "metrics",
+        "votes": 4,
+        "idf": 5.194692536056382
+    },
+    {
+        "keyword": "new",
+        "votes": 4,
+        "idf": 3.9419295675610146
+    },
+    {
+        "keyword": "ftpxbt",
+        "votes": 3,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "website",
+        "votes": 3,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "gem",
+        "votes": 3,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "yet",
+        "votes": 3,
+        "idf": 5.040541856229124
+    },
+    {
+        "keyword": "must",
+        "votes": 3,
+        "idf": 5.194692536056382
+    },
+    {
+        "keyword": "hit",
+        "votes": 3,
+        "idf": 4.789227427948218
+    },
+    {
+        "keyword": "mp",
+        "votes": 3,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "crowd",
+        "votes": 3,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "stats",
+        "votes": 3,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "metaphorical",
+        "votes": 3,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "ruling",
+        "votes": 3,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "starting",
+        "votes": 3,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "dumps",
+        "votes": 3,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "sheds",
+        "votes": 3,
+        "idf": 5.040541856229124
+    },
+    {
+        "keyword": "gains",
+        "votes": 3,
+        "idf": 4.789227427948218
+    },
+    {
+        "keyword": "love",
+        "votes": 3,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "bnb",
+        "votes": 3,
+        "idf": 5.040541856229124
+    },
+    {
+        "keyword": "dog",
+        "votes": 3,
+        "idf": 5.194692536056382
+    },
+    {
+        "keyword": "prediction",
+        "votes": 3,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "builds",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "intensifies",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "epe",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "codename",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "dear",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "forgot",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "advice",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "buidl",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "clean",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "chapter",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "100",
+        "votes": 2,
+        "idf": 5.194692536056382
+    },
+    {
+        "keyword": "mars",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "buy",
+        "votes": 2,
+        "idf": 3.990719731730447
+    },
+    {
+        "keyword": "great",
+        "votes": 2,
+        "idf": 5.194692536056382
+    },
+    {
+        "keyword": "see",
+        "votes": 2,
+        "idf": 4.501545355496438
+    },
+    {
+        "keyword": "ride",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "ok",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "pump",
+        "votes": 2,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "best",
+        "votes": 2,
+        "idf": 5.194692536056382
+    },
+    {
+        "keyword": "daily",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "dip",
+        "votes": 2,
+        "idf": 4.588556732486067
+    },
+    {
+        "keyword": "late",
+        "votes": 2,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "musk",
+        "votes": 2,
+        "idf": 4.501545355496438
+    },
+    {
+        "keyword": "elon",
+        "votes": 2,
+        "idf": 3.654247495109234
+    },
+    {
+        "keyword": "help",
+        "votes": 2,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "ath",
+        "votes": 2,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "maybe",
+        "votes": 2,
+        "idf": 4.588556732486067
+    },
+    {
+        "keyword": "bad",
+        "votes": 2,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "take",
+        "votes": 2,
+        "idf": 4.9070104636046015
+    },
+    {
+        "keyword": "lol",
+        "votes": 2,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "miss",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "one",
+        "votes": 2,
+        "idf": 4.096080247388273
+    },
+    {
+        "keyword": "thanks",
+        "votes": 2,
+        "idf": 5.194692536056382
+    },
+    {
+        "keyword": "cat",
+        "votes": 2,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "stay",
+        "votes": 2,
+        "idf": 5.040541856229124
+    },
+    {
+        "keyword": "outperform",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "2025",
+        "votes": 2,
+        "idf": 4.683866912290392
+    },
+    {
+        "keyword": "50b",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "stabilize",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "plunges",
+        "votes": 2,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "viral",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "night",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "whales",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "year",
+        "votes": 2,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "totally",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "1",
+        "votes": 2,
+        "idf": 4.421502647822901
+    },
+    {
+        "keyword": "sure",
+        "votes": 2,
+        "idf": 5.040541856229124
+    },
+    {
+        "keyword": "started",
+        "votes": 2,
+        "idf": 5.377014092850337
+    },
+    {
+        "keyword": "bonk",
+        "votes": 2,
+        "idf": 5.194692536056382
+    },
+    {
+        "keyword": "laid",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "build",
+        "votes": 2,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "journey",
+        "votes": 2,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "lead",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "project",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "discuss",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "vision",
+        "votes": 2,
+        "idf": 5.887839716616328
+    },
+    {
+        "keyword": "holds",
+        "votes": 2,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "support",
+        "votes": 2,
+        "idf": 4.1532386612282215
+    },
+    {
+        "keyword": "tickers",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "clock",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "alarm",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "disrupt",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "accounts",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "tweet",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "welcome",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "2dvcbaiv",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "per",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "markets",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "24hr",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "sitting",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "win",
+        "votes": 1,
+        "idf": 5.600157644164547
+    },
+    {
+        "keyword": "barriers",
+        "votes": 1,
+        "idf": 6.293304824724492
+    },
+    {
+        "keyword": "bridges",
+        "votes": 1,
+        "idf": 6.293304824724492
+    }
+]

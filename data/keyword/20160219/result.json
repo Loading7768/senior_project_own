@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "code",
+        "votes": 24,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "qr",
+        "votes": 24,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "1",
+        "votes": 23,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 22,
+        "idf": 3.385966701933097
+    },
+    {
+        "keyword": "usd",
+        "votes": 22,
+        "idf": 3.385966701933097
+    },
+    {
+        "keyword": "approx",
+        "votes": 22,
+        "idf": 3.385966701933097
+    },
+    {
+        "keyword": "redeem",
+        "votes": 19,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "bter",
+        "votes": 18,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "gold",
+        "votes": 15,
+        "idf": 3.7488721956224653
+    },
+    {
+        "keyword": "standard",
+        "votes": 14,
+        "idf": 3.8134107167600364
+    },
+    {
+        "keyword": "always",
+        "votes": 12,
+        "idf": 3.6882475738060303
+    },
+    {
+        "keyword": "updated",
+        "votes": 11,
+        "idf": 4.036554268074246
+    },
+    {
+        "keyword": "change",
+        "votes": 11,
+        "idf": 4.036554268074246
+    },
+    {
+        "keyword": "18",
+        "votes": 10,
+        "idf": 4.123565645063875
+    },
+    {
+        "keyword": "1000",
+        "votes": 9,
+        "idf": 4.218875824868201
+    },
+    {
+        "keyword": "0",
+        "votes": 8,
+        "idf": 4.324236340526027
+    },
+    {
+        "keyword": "7",
+        "votes": 7,
+        "idf": 4.442019376182411
+    },
+    {
+        "keyword": "keep",
+        "votes": 7,
+        "idf": 4.442019376182411
+    },
+    {
+        "keyword": "us",
+        "votes": 7,
+        "idf": 4.442019376182411
+    },
+    {
+        "keyword": "voting",
+        "votes": 7,
+        "idf": 4.442019376182411
+    },
+    {
+        "keyword": "6",
+        "votes": 7,
+        "idf": 4.442019376182411
+    },
+    {
+        "keyword": "8",
+        "votes": 5,
+        "idf": 4.7297014486341915
+    },
+    {
+        "keyword": "topics",
+        "votes": 4,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "hot",
+        "votes": 4,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "2",
+        "votes": 3,
+        "idf": 4.7297014486341915
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 4.575550768806933
+    },
+    {
+        "keyword": "video",
+        "votes": 3,
+        "idf": 4.123565645063875
+    },
+    {
+        "keyword": "mousepad",
+        "votes": 3,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "volume",
+        "votes": 2,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "current",
+        "votes": 2,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "trade",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "guys",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "hi",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "9",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "happiness",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "money",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "post",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "5",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 2,
+        "idf": 4.324236340526027
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 3.1892564076870427
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "win",
+        "votes": 2,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "financial",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "ccn",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "4",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "cm",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "10",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "minutes",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "shipping",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "jed",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "bostow",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "source",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "lin",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "accepted",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "argyle",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "sharice",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "via",
+        "votes": 1,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "breanna",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "berray",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "youopen",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "namecoins",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "h",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "register",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "acount",
+        "votes": 1,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "withdraw",
+        "votes": 1,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "eating",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "honey",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "pantry",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "sex",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "politics",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "gender",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "opening",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "owners",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "nin",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "website",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "partner",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "pumping",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "nerds",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "one",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "like",
+        "votes": 1,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "group",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "vegas",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "tigerdirect",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "continuum",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "shibe",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "stable",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "coins",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "map",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "coin",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "valuable",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "trust",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "still",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "got",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "aby",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "amazon",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "available",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "book",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    }
+]

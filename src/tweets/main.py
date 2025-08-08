@@ -37,13 +37,13 @@ JSON_DICT_NAME = config.JSON_DICT_NAME  # 設定推文所存的 json 檔中字�
 
 SEARCH = 'Latest'  # 在 X 的哪個欄位內搜尋 (Top, Latest, People, Media, Lists)
 
-START_YEAR = 2014  # 開始的年份
+START_YEAR = 2025  # 開始的年份
 
-START_MONTH = 5 # 開始的月份
+START_MONTH = 8  # 開始的月份
 
-START_DAY = 1  # 開始的日期
+START_DAY = 6  # 開始的日期
 
-DAY_COUNT = 31  # 要連續找幾天
+DAY_COUNT = 2  # 要連續找幾天
 
 TRUN_ON_TIWCE_BREAK = False  # 看有沒有要當出現兩次 Rate limit reached 就馬上停止執行
 

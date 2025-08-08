@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#Bitcoin exchange in France shut down, operators arrested, 200,000 euros worth seized http://t.co/YVtkqOomCm #litecoin #dogecoin",
+        "X_token": "bitcoin, exchange, france, shut, operators, arrested, euros, worth, seized, http, litecoin, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "DJ Shibe",
+        "Y_text": "#Bitcoin exchange in France shut down, operators arrested, 200,000 euros worth seized http://t.co/eFCoOkkZ72 #litecoin #dogecoin",
+        "Y_token": "bitcoin, exchange, france, shut, operators, arrested, euros, worth, seized, http, litecoin, dogecoin",
+        "Y_tweet_count": 34,
+        "Y_username": "DJ Shibe",
+        "X_length": 128,
+        "Y_length": 128,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Just lost my doge #dogecoin http://t.co/lsjJIorvgu",
+        "X_token": "lost, doge, dogecoin, http",
+        "X_tweet_count": 14,
+        "X_username": "DJ Shibe",
+        "Y_text": "Lost doge, much reward #dogecoin http://t.co/WqVcAFW31m",
+        "Y_token": "lost, doge, much, reward, dogecoin, http",
+        "Y_tweet_count": 36,
+        "Y_username": "DJ Shibe",
+        "X_length": 50,
+        "Y_length": 55,
+        "Y_length_percent_of_X": 110.0,
+        "X_length_percent_of_Y": 90.91,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Sensify Me #dogecoin: http://t.co/1tW2IqVutx",
+        "X_token": "sensify, dogecoin, http",
+        "X_tweet_count": 35,
+        "X_username": "DJ Shibe",
+        "Y_text": "That's Not Me #Dogecoin http://t.co/h7TQIuV5rE",
+        "Y_token": "dogecoin, http",
+        "Y_tweet_count": 50,
+        "Y_username": "DJ Shibe",
+        "X_length": 44,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 104.55,
+        "X_length_percent_of_Y": 95.65,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "That's Not Me #Dogecoin http://t.co/h7TQIuV5rE",
+        "X_token": "dogecoin, http",
+        "X_tweet_count": 50,
+        "X_username": "DJ Shibe",
+        "Y_text": "The State of #Dogecoin http://t.co/3xLTdMKrxU",
+        "Y_token": "state, dogecoin, http",
+        "Y_tweet_count": 56,
+        "Y_username": "DJ Shibe",
+        "X_length": 46,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 97.83,
+        "X_length_percent_of_Y": 102.22,
+        "dice_coefficient": 80.0
+    }
+]

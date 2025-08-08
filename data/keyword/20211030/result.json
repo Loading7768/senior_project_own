@@ -1,16 +1,16 @@
 [
     {
-        "keyword": "robinhood",
-        "votes": 6,
-        "idf": 3.0209453349982276
-    },
-    {
-        "keyword": "revenue",
-        "votes": 6,
-        "idf": 3.0209453349982276
-    },
-    {
         "keyword": "accounts",
+        "votes": 6,
+        "idf": 3.0209453349982276
+    },
+    {
+        "keyword": "40",
+        "votes": 6,
+        "idf": 3.0209453349982276
+    },
+    {
+        "keyword": "transaction",
         "votes": 6,
         "idf": 3.0209453349982276
     },
@@ -55,11 +55,6 @@
         "idf": 4.0325462466767075
     },
     {
-        "keyword": "via",
-        "votes": 2,
-        "idf": 4.320228319128488
-    },
-    {
         "keyword": "would",
         "votes": 2,
         "idf": 4.0325462466767075
@@ -100,12 +95,12 @@
         "idf": 4.320228319128488
     },
     {
-        "keyword": "usd",
+        "keyword": "today",
         "votes": 1,
         "idf": 4.725693427236653
     },
     {
-        "keyword": "today",
+        "keyword": "usd",
         "votes": 1,
         "idf": 4.725693427236653
     },
@@ -140,12 +135,367 @@
         "idf": 4.320228319128488
     },
     {
-        "keyword": "shibha",
+        "keyword": "guess",
         "votes": 1,
         "idf": 4.725693427236653
     },
     {
         "keyword": "net",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "shibha",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "happy",
+        "votes": 1,
+        "idf": 4.320228319128488
+    },
+    {
+        "keyword": "halloween",
+        "votes": 1,
+        "idf": 4.0325462466767075
+    },
+    {
+        "keyword": "battle",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "gamers",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "dev",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "monsta",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "move",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "dropping",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "point",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "fabulous",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "send",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "altcoins",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 1,
+        "idf": 3.8094026953624978
+    },
+    {
+        "keyword": "news",
+        "votes": 1,
+        "idf": 3.8094026953624978
+    },
+    {
+        "keyword": "doggie",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "get",
+        "votes": 1,
+        "idf": 3.8094026953624978
+    },
+    {
+        "keyword": "mooon",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "binance",
+        "votes": 1,
+        "idf": 4.320228319128488
+    },
+    {
+        "keyword": "via",
+        "votes": 1,
+        "idf": 4.320228319128488
+    },
+    {
+        "keyword": "sometime",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "already",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "2011",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "xpr",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "holding",
+        "votes": 1,
+        "idf": 4.0325462466767075
+    },
+    {
+        "keyword": "still",
+        "votes": 1,
+        "idf": 4.0325462466767075
+    },
+    {
+        "keyword": "one",
+        "votes": 1,
+        "idf": 3.339399066116762
+    },
+    {
+        "keyword": "hold",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "us",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "gambles",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "patience",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "nothing",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "retweet",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "holder",
+        "votes": 1,
+        "idf": 4.0325462466767075
+    },
+    {
+        "keyword": "luck",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "awesome",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "devs",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "rise",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "low",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "hit",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "money",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "sell",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "mia",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "tether",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "cardano",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "qnt",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "wtf",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "50",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "fight",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "wake",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "hbar",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "matic",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "samo",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "wana",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "gem",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "losses",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "average",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "fading",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "ape",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "reached",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "must",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "yet",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "war",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "topple",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "tomorrow",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "saying",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "month",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "swing",
+        "votes": 1,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "ltc",
         "votes": 1,
         "idf": 4.725693427236653
     }

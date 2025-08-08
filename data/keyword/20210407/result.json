@@ -95,11 +95,6 @@
         "idf": 5.67542152453235
     },
     {
-        "keyword": "vol",
-        "votes": 24,
-        "idf": 6.000843924966977
-    },
-    {
         "keyword": "breaking",
         "votes": 24,
         "idf": 5.926735952813256
@@ -108,6 +103,11 @@
         "keyword": "value",
         "votes": 23,
         "idf": 5.307696744407033
+    },
+    {
+        "keyword": "closing",
+        "votes": 23,
+        "idf": 6.000843924966977
     },
     {
         "keyword": "hr",
@@ -148,5 +148,355 @@
         "keyword": "right",
         "votes": 20,
         "idf": 4.653770277000368
+    },
+    {
+        "keyword": "today",
+        "votes": 20,
+        "idf": 4.673972984317888
+    },
+    {
+        "keyword": "see",
+        "votes": 19,
+        "idf": 4.471448720206414
+    },
+    {
+        "keyword": "rggi",
+        "votes": 19,
+        "idf": 6.263208189434469
+    },
+    {
+        "keyword": "time",
+        "votes": 19,
+        "idf": 4.5053502718820955
+    },
+    {
+        "keyword": "iswh",
+        "votes": 19,
+        "idf": 6.2144180252650365
+    },
+    {
+        "keyword": "freq",
+        "votes": 19,
+        "idf": 5.891644633001985
+    },
+    {
+        "keyword": "holding",
+        "votes": 18,
+        "idf": 5.4087928612784015
+    },
+    {
+        "keyword": "good",
+        "votes": 18,
+        "idf": 4.7371518859394195
+    },
+    {
+        "keyword": "still",
+        "votes": 18,
+        "idf": 4.95487536978429
+    },
+    {
+        "keyword": "lets",
+        "votes": 17,
+        "idf": 5.926735952813256
+    },
+    {
+        "keyword": "pump",
+        "votes": 17,
+        "idf": 5.570061008874523
+    },
+    {
+        "keyword": "never",
+        "votes": 17,
+        "idf": 5.621354303262074
+    },
+    {
+        "keyword": "nxopf",
+        "votes": 17,
+        "idf": 6.368568705092295
+    },
+    {
+        "keyword": "soon",
+        "votes": 16,
+        "idf": 5.327114830264134
+    },
+    {
+        "keyword": "lol",
+        "votes": 16,
+        "idf": 5.18140301908274
+    },
+    {
+        "keyword": "1",
+        "votes": 16,
+        "idf": 3.9408204691442434
+    },
+    {
+        "keyword": "hit",
+        "votes": 16,
+        "idf": 5.4747508290701985
+    },
+    {
+        "keyword": "back",
+        "votes": 15,
+        "idf": 4.759130792658194
+    },
+    {
+        "keyword": "got",
+        "votes": 15,
+        "idf": 5.039432757812353
+    },
+    {
+        "keyword": "selling",
+        "votes": 15,
+        "idf": 5.545368396284152
+    },
+    {
+        "keyword": "odt",
+        "votes": 15,
+        "idf": 6.486351740748678
+    },
+    {
+        "keyword": "need",
+        "votes": 14,
+        "idf": 4.770304093256319
+    },
+    {
+        "keyword": "7",
+        "votes": 14,
+        "idf": 5.039432757812353
+    },
+    {
+        "keyword": "way",
+        "votes": 14,
+        "idf": 5.2886485494363376
+    },
+    {
+        "keyword": "much",
+        "votes": 14,
+        "idf": 4.941452349452149
+    },
+    {
+        "keyword": "downwards",
+        "votes": 14,
+        "idf": 6.5508902618862495
+    },
+    {
+        "keyword": "adhc",
+        "votes": 14,
+        "idf": 5.762432901521979
+    },
+    {
+        "keyword": "believe",
+        "votes": 14,
+        "idf": 5.367120164877833
+    },
+    {
+        "keyword": "keep",
+        "votes": 14,
+        "idf": 5.084553193092822
+    },
+    {
+        "keyword": "stop",
+        "votes": 14,
+        "idf": 5.621354303262074
+    },
+    {
+        "keyword": "day",
+        "votes": 14,
+        "idf": 4.804593166734952
+    },
+    {
+        "keyword": "henc",
+        "votes": 14,
+        "idf": 6.5508902618862495
+    },
+    {
+        "keyword": "10",
+        "votes": 14,
+        "idf": 5.010445220939101
+    },
+    {
+        "keyword": "hope",
+        "votes": 13,
+        "idf": 5.762432901521979
+    },
+    {
+        "keyword": "ok",
+        "votes": 13,
+        "idf": 6.040064638120259
+    },
+    {
+        "keyword": "add",
+        "votes": 13,
+        "idf": 5.963103596984131
+    },
+    {
+        "keyword": "best",
+        "votes": 13,
+        "idf": 5.4087928612784015
+    },
+    {
+        "keyword": "dip",
+        "votes": 13,
+        "idf": 5.497740347294897
+    },
+    {
+        "keyword": "tweet",
+        "votes": 13,
+        "idf": 5.327114830264134
+    },
+    {
+        "keyword": "tonight",
+        "votes": 13,
+        "idf": 6.080886632640514
+    },
+    {
+        "keyword": "morning",
+        "votes": 13,
+        "idf": 6.263208189434469
+    },
+    {
+        "keyword": "one",
+        "votes": 12,
+        "idf": 4.4306267256861585
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 12,
+        "idf": 4.51400833462521
+    },
+    {
+        "keyword": "6",
+        "votes": 12,
+        "idf": 5.857743081326304
+    },
+    {
+        "keyword": "come",
+        "votes": 12,
+        "idf": 5.570061008874523
+    },
+    {
+        "keyword": "next",
+        "votes": 12,
+        "idf": 5.131806077943368
+    },
+    {
+        "keyword": "xrp",
+        "votes": 12,
+        "idf": 3.9962502740835744
+    },
+    {
+        "keyword": "bought",
+        "votes": 12,
+        "idf": 5.327114830264134
+    },
+    {
+        "keyword": "hodl",
+        "votes": 12,
+        "idf": 5.793204560188733
+    },
+    {
+        "keyword": "want",
+        "votes": 12,
+        "idf": 4.876913828314578
+    },
+    {
+        "keyword": "live",
+        "votes": 12,
+        "idf": 5.824953258503314
+    },
+    {
+        "keyword": "something",
+        "votes": 12,
+        "idf": 5.570061008874523
+    },
+    {
+        "keyword": "elon",
+        "votes": 12,
+        "idf": 5.039432757812353
+    },
+    {
+        "keyword": "looks",
+        "votes": 12,
+        "idf": 6.12344624705931
+    },
+    {
+        "keyword": "say",
+        "votes": 11,
+        "idf": 5.570061008874523
+    },
+    {
+        "keyword": "know",
+        "votes": 11,
+        "idf": 4.982274343972405
+    },
+    {
+        "keyword": "nice",
+        "votes": 11,
+        "idf": 5.857743081326304
+    },
+    {
+        "keyword": "people",
+        "votes": 11,
+        "idf": 4.684229484485077
+    },
+    {
+        "keyword": "future",
+        "votes": 11,
+        "idf": 5.545368396284152
+    },
+    {
+        "keyword": "great",
+        "votes": 11,
+        "idf": 5.4087928612784015
+    },
+    {
+        "keyword": "hey",
+        "votes": 11,
+        "idf": 6.040064638120259
+    },
+    {
+        "keyword": "look",
+        "votes": 11,
+        "idf": 5.595378816858814
+    },
+    {
+        "keyword": "2",
+        "votes": 10,
+        "idf": 5.346917457560314
+    },
+    {
+        "keyword": "dog",
+        "votes": 10,
+        "idf": 6.425727118932244
+    },
+    {
+        "keyword": "help",
+        "votes": 10,
+        "idf": 5.367120164877833
+    },
+    {
+        "keyword": "oh",
+        "votes": 10,
+        "idf": 6.425727118932244
+    },
+    {
+        "keyword": "trending",
+        "votes": 10,
+        "idf": 6.040064638120259
+    },
+    {
+        "keyword": "accept",
+        "votes": 10,
+        "idf": 5.926735952813256
+    },
+    {
+        "keyword": "watching",
+        "votes": 10,
+        "idf": 6.167898009630144
+    },
+    {
+        "keyword": "aabb",
+        "votes": 10,
+        "idf": 6.861045190190089
     }
 ]

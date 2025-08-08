@@ -1,16 +1,16 @@
 [
     {
-        "keyword": "threat",
-        "votes": 7,
-        "idf": 4.324236340526027
-    },
-    {
         "keyword": "reserve",
         "votes": 7,
         "idf": 4.324236340526027
     },
     {
         "keyword": "bank",
+        "votes": 7,
+        "idf": 4.324236340526027
+    },
+    {
+        "keyword": "threat",
         "votes": 5,
         "idf": 4.324236340526027
     },
@@ -25,12 +25,12 @@
         "idf": 3.2633643798407643
     },
     {
-        "keyword": "flush",
+        "keyword": "sooner",
         "votes": 4,
         "idf": 4.912023005428146
     },
     {
-        "keyword": "analyst",
+        "keyword": "flush",
         "votes": 4,
         "idf": 4.912023005428146
     },
@@ -80,6 +80,11 @@
         "idf": 3.4769384801388235
     },
     {
+        "keyword": "good",
+        "votes": 3,
+        "idf": 4.7297014486341915
+    },
+    {
         "keyword": "know",
         "votes": 3,
         "idf": 4.324236340526027
@@ -90,12 +95,12 @@
         "idf": 3.3434070875143007
     },
     {
-        "keyword": "far",
+        "keyword": "today",
         "votes": 2,
         "idf": 5.422848629194137
     },
     {
-        "keyword": "today",
+        "keyword": "far",
         "votes": 2,
         "idf": 5.422848629194137
     },
@@ -105,27 +110,27 @@
         "idf": 5.422848629194137
     },
     {
-        "keyword": "6",
+        "keyword": "24",
         "votes": 2,
         "idf": 4.912023005428146
     },
     {
-        "keyword": "8",
+        "keyword": "4",
         "votes": 2,
         "idf": 4.912023005428146
     },
     {
-        "keyword": "honeypot",
+        "keyword": "unique",
         "votes": 2,
         "idf": 5.422848629194137
     },
     {
-        "keyword": "accomplished",
+        "keyword": "kibabridge",
         "votes": 2,
         "idf": 5.422848629194137
     },
     {
-        "keyword": "kibaswap",
+        "keyword": "checker",
         "votes": 2,
         "idf": 5.422848629194137
     },
@@ -148,5 +153,350 @@
         "keyword": "1h",
         "votes": 2,
         "idf": 5.135166556742356
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "31",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "simply",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "44",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "bnb",
+        "votes": 2,
+        "idf": 3.9565115604007097
+    },
+    {
+        "keyword": "mdoge",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "total",
+        "votes": 2,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "may",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "people",
+        "votes": 2,
+        "idf": 4.7297014486341915
+    },
+    {
+        "keyword": "buy",
+        "votes": 2,
+        "idf": 4.575550768806933
+    },
+    {
+        "keyword": "day",
+        "votes": 2,
+        "idf": 4.575550768806933
+    },
+    {
+        "keyword": "percentage",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "direction",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "retweet",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "update",
+        "votes": 2,
+        "idf": 4.575550768806933
+    },
+    {
+        "keyword": "happy",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "series",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "solana",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "ever",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "wolfpack",
+        "votes": 2,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "2021",
+        "votes": 2,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "family",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "bunch",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "awesome",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "usdt",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "9",
+        "votes": 1,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "7",
+        "votes": 1,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "altcoins",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "wrap",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "underperforms",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "games",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "truth",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "else",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "holding",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "mention",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "capital",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "dai",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "bch",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "flux",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "song",
+        "votes": 1,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "youtube",
+        "votes": 1,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "thing",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "missed",
+        "votes": 1,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "big",
+        "votes": 1,
+        "idf": 5.135166556742356
+    },
+    {
+        "keyword": "donate",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "also",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "waiting",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "indeed",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "symbol",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "means",
+        "votes": 1,
+        "idf": 5.422848629194137
+    },
+    {
+        "keyword": "take",
+        "votes": 1,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "digital",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "trip",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "force",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "reminder",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "gentlemen",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "ladies",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "dawg",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "aaawoooo",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "icp",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "clv",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "qnt",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "insulting",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "harassing",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "addresses",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "btc",
+        "votes": 1,
+        "idf": 3.4769384801388235
+    },
+    {
+        "keyword": "hang",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "football",
+        "votes": 1,
+        "idf": 5.8283137373023015
+    },
+    {
+        "keyword": "partnering",
+        "votes": 1,
+        "idf": 5.8283137373023015
     }
 ]

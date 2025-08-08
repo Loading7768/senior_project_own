@@ -13,5 +13,35 @@
         "Y_length_percent_of_X": 102.17,
         "X_length_percent_of_Y": 97.87,
         "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "Good morning #dogecoin hodlers ❤️ happy Saturday!!! https://t.co/UMvIXnqvVP",
+        "X_token": "good, morning, dogecoin, hodlers, happy, saturday, https",
+        "X_tweet_count": 148,
+        "X_username": "⭐️ Alena ⭐️",
+        "Y_text": "Good morning to all the #dogecoin hodlers!!! HAPPY MONDAY 🤗❤️✨",
+        "Y_token": "good, morning, dogecoin, hodlers, happy, monday",
+        "Y_tweet_count": 156,
+        "Y_username": "⭐️ Alena ⭐️",
+        "X_length": 75,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 82.67,
+        "X_length_percent_of_Y": 120.97,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "Good morning friends ❤️what’d I miss here??? 👀",
+        "X_token": "good, morning, friends, miss",
+        "X_tweet_count": 161,
+        "X_username": "⭐️ Alena ⭐️",
+        "Y_text": "Good morning friends ✨❤️HAPPY FRIDAY 🤩😊✨",
+        "Y_token": "good, morning, friends, friday",
+        "Y_tweet_count": 164,
+        "Y_username": "⭐️ Alena ⭐️",
+        "X_length": 46,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 86.96,
+        "X_length_percent_of_Y": 115.0,
+        "dice_coefficient": 75.0
     }
 ]

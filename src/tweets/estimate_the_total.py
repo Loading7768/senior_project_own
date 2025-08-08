@@ -9,6 +9,7 @@ import os
 import random
 import matplotlib.pyplot as plt
 import csv
+from collections import defaultdict
 
 import sys
 from pathlib import Path
@@ -27,15 +28,19 @@ completed_json_files = []
 # 所有原始檔案 (把所有結尾是 .json 的檔案抓出來)
 json_files = glob(f'../data/tweets/{COIN_SHORT_NAME}/*/*/*.json')
 
+
 def hour_distribution():
+    weekday_hour_counter = defaultdict(list)
 
     for json_file in tqdm(json_files, desc="統計完整檔案小時比例"):
         with open(json_file, 'r', encoding="utf-8-sig") as file:
             data = json.load(file)
 
         tweets = data[JSON_DICT_NAME]
+        if not tweets:
+            continue
 
-        # 先將最後一則推文的時間抓出來
+        # 抓最早時間來判斷是否完整
         earliest_str = tweets[-1]["created_at"]
         earliest_dt = datetime.strptime(earliest_str, "%a %b %d %H:%M:%S %z %Y")
         earliest_time = earliest_dt.strftime("%H:%M:%S")
@@ -45,30 +50,40 @@ def hour_distribution():
             for tweet in tweets:
                 created_at = tweet.get('created_at')
                 created_dt = datetime.strptime(created_at, "%a %b %d %H:%M:%S %z %Y")
-                hour_counter.append(created_dt.hour)  # 只取小時數
-            
+                weekday = created_dt.weekday()  # 0=Monday, 6=Sunday
+                hour = created_dt.hour
+                weekday_hour_counter[weekday].append(hour)  # 只取小時數
+
             completed_json_files.append(json_file)  # 把完整抓到的檔案名先存起來
         else:
             partial_json_files.append(json_file)  # 把沒有完整抓到的檔案名先存起來
 
+    # 計算每個 weekday 的 hour 分布比例
+    weekday_hour_distribution = {}
 
-    # 統計完整檔案的小時比例
-    hour_df = pd.DataFrame({'hour': hour_counter})
-    hour_distribution = hour_df['hour'].value_counts().sort_index()
-    hour_distribution = hour_distribution / hour_distribution.sum()
+    for weekday, hours in weekday_hour_counter.items():
+        df = pd.DataFrame({'hour': hours})
+        dist = df['hour'].value_counts().sort_index()
+        dist = dist / dist.sum()
+        weekday_hour_distribution[weekday] = dist
 
-    print("✅ 小時比例：")
-    print(hour_distribution)
+    for weekday in sorted(weekday_hour_distribution):
+        print(f"✅ 星期 {weekday} 小時比例：")
+        print(str(weekday_hour_distribution[weekday]))
 
-    output_path_completed = f"{OUTPUT_FILE}/{COIN_SHORT_NAME}_hour_distribution_and_errors.txt"
+    # 儲存文字版
+    output_path_completed = f"{OUTPUT_FILE}/{COIN_SHORT_NAME}_weekday_hour_distribution.txt"
     with open(output_path_completed, 'w', encoding="utf-8-sig") as txtfile:
-        txtfile.write(str(hour_distribution))
-        txtfile.write("\n\n")
+        for weekday in sorted(weekday_hour_distribution):
+            txtfile.write(f"🗓️ 星期 {weekday} 分佈：\n")
+            txtfile.write(str(weekday_hour_distribution[weekday]))
+            txtfile.write("\n\n")
 
-    return hour_distribution
+    return weekday_hour_distribution
 
 
-def estimate(hour_distribution):
+
+def estimate(weekday_hour_distribution):
     results = []
 
     # 先清空 txt 內的資料
@@ -86,6 +101,15 @@ def estimate(hour_distribution):
         if not tweets:
             continue
 
+        # 取得檔名
+        file_name_with_json = os.path.basename(json_file)
+        file_name = os.path.splitext(file_name_with_json)[0]
+
+        # 取得日期
+        date_dt = datetime.strptime(tweets[0]['created_at'], "%a %b %d %H:%M:%S %z %Y")
+        date_str = date_dt.strftime("%Y-%m-%d")
+        weekday = date_dt.weekday()
+
         # 估算每個 partial 檔案的總推文數
         if json_file in partial_json_files:
             # 統計該檔案目前已抓到的推文數量與小時分佈
@@ -95,16 +119,15 @@ def estimate(hour_distribution):
             partial_hour_df = pd.DataFrame({'hour': partial_hour_counter})
             observed_hours = partial_hour_df['hour'].unique()  # .unique() 取得不重複的小時數
 
-            observed_percentage = hour_distribution.loc[observed_hours].sum()  # .loc[observed_hours] → 只取出該檔案有抓到的小時範圍的比例
+            weekday_dist = weekday_hour_distribution.get(weekday)
+            if weekday_dist is None or weekday_dist.sum() == 0:
+                continue  # 若該 weekday 沒有分布，跳過
+
+            observed_percentage = weekday_dist.loc[observed_hours].sum()  # .loc[observed_hours] → 只取出該檔案有抓到的小時範圍的比例
             estimated_total = len(tweets) / observed_percentage
 
-            # 取得檔名
-            file_name_with_json = os.path.basename(json_file)
-            file_name = os.path.splitext(file_name_with_json)[0]
-
-            # 取得日期
-            date_str = (datetime.strptime(tweets[0]['created_at'], "%a %b %d %H:%M:%S %z %Y")).strftime("%Y-%m-%d")
-
+            # 計算放大趴數
+            expansion_ratio = estimated_total / len(tweets)
 
             # 儲存結果 csv
             results.append({
@@ -112,7 +135,8 @@ def estimate(hour_distribution):
                 "date": date_str,
                 "isCompleteData": False,
                 "original_count": len(tweets),
-                "predicted_count": int(round(estimated_total))
+                "predicted_count": int(round(estimated_total)),
+                "expansion_ratio": expansion_ratio
             })
 
             with open(output_path_partial_txt, 'a', encoding="utf-8-sig") as txtfile:
@@ -122,12 +146,6 @@ def estimate(hour_distribution):
         
         # 若是有抓完的檔案 就直接把數量存進 csv 檔
         else:
-            # 取得檔名
-            file_name_with_json = os.path.basename(json_file)
-            file_name = os.path.splitext(file_name_with_json)[0]
-
-            # 取得日期
-            date_str = (datetime.strptime(tweets[0]['created_at'], "%a %b %d %H:%M:%S %z %Y")).strftime("%Y-%m-%d")
 
             # 儲存結果 csv
             results.append({
@@ -135,11 +153,15 @@ def estimate(hour_distribution):
                 "date": date_str,
                 "isCompleteData": True,
                 "original_count": len(tweets),
-                "predicted_count": len(tweets)
+                "predicted_count": len(tweets),
+                "expansion_ratio": 1
             })
 
+        # 按日期排序
+        results.sort(key=lambda x: x['date'])
+
         with open(output_path_partial_csv, 'w', newline='', encoding='utf-8-sig') as csvfile:
-            fieldnames = ['filename', 'date', 'isCompleteData', 'original_count', 'predicted_count']
+            fieldnames = ['filename', 'date', 'isCompleteData', 'original_count', 'predicted_count', 'expansion_ratio']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             for row in results:
@@ -148,7 +170,7 @@ def estimate(hour_distribution):
     print(f"✅ 已全部執行完成 資料路徑: {OUTPUT_FILE}")
 
 
-def accuracy(hour_distribution):
+def accuracy(weekday_hour_distribution):
     errors = []
     results = []  # 儲存要輸出的結果
 
@@ -162,7 +184,9 @@ def accuracy(hour_distribution):
 
         # 取得日期（假設每個json檔都是一天資料）
         # 以第一筆推文時間為該日代表
-        date_str = datetime.strptime(tweets[0]['created_at'], "%a %b %d %H:%M:%S %z %Y").strftime("%Y-%m-%d")
+        date_dt = datetime.strptime(tweets[0]['created_at'], "%a %b %d %H:%M:%S %z %Y")
+        date_str = date_dt.strftime("%Y-%m-%d")
+        weekday = date_dt.weekday()
 
         # 模擬「只保留某些小時」： (都是連續的且從 23 開始往回)
         k = random.randint(1, 23)  # 你要選的連續小時數量
@@ -176,7 +200,11 @@ def accuracy(hour_distribution):
             continue
 
         # 用原本邏輯估算：
-        observed_percentage = hour_distribution.loc[partial_hours].sum()
+        weekday_dist = weekday_hour_distribution.get(weekday)
+        if weekday_dist is None or weekday_dist.sum() == 0:
+            continue
+
+        observed_percentage = weekday_dist.loc[partial_hours].sum()
         estimated_total = len(partial_tweets) / observed_percentage
 
         # 計算誤差
@@ -195,6 +223,9 @@ def accuracy(hour_distribution):
     # 輸出 CSV
     os.makedirs(OUTPUT_FILE, exist_ok=True)
     output_csv_path = os.path.join(OUTPUT_FILE, f"{COIN_SHORT_NAME}_accuracy_predictions.csv")
+
+    # 按日期排序
+    results.sort(key=lambda x: x['date'])
 
     with open(output_csv_path, 'w', newline='', encoding='utf-8-sig') as csvfile:
         fieldnames = ['date', 'actual_count', 'predicted_count']
@@ -261,9 +292,9 @@ def plot_errors():
 
 
 def main():
-    distribution = hour_distribution()
-    estimate(distribution)
-    accuracy(distribution)
+    weekday_hour_distribution = hour_distribution()
+    estimate(weekday_hour_distribution)
+    accuracy(weekday_hour_distribution)
     plot_errors()
 
 

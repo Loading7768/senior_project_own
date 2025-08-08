@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "world",
+        "votes": 25,
+        "idf": 4.314186004672526
+    },
+    {
+        "keyword": "hottest",
+        "votes": 25,
+        "idf": 4.314186004672526
+    },
+    {
+        "keyword": "became",
+        "votes": 20,
+        "idf": 4.249647483534954
+    },
+    {
+        "keyword": "dog",
+        "votes": 20,
+        "idf": 4.579889170405531
+    },
+    {
+        "keyword": "cute",
+        "votes": 18,
+        "idf": 4.7709444071682405
+    },
+    {
+        "keyword": "moon",
+        "votes": 18,
+        "idf": 4.026503932220745
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 17,
+        "idf": 4.3831788761594765
+    },
+    {
+        "keyword": "much",
+        "votes": 16,
+        "idf": 3.438717267318626
+    },
+    {
+        "keyword": "story",
+        "votes": 15,
+        "idf": 4.7709444071682405
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 14,
+        "idf": 3.16150649473414
+    },
+    {
+        "keyword": "gives",
+        "votes": 13,
+        "idf": 4.942794664094899
+    },
+    {
+        "keyword": "coin",
+        "votes": 13,
+        "idf": 3.672332118500131
+    },
+    {
+        "keyword": "heck",
+        "votes": 13,
+        "idf": 5.076326056719423
+    },
+    {
+        "keyword": "percent",
+        "votes": 12,
+        "idf": 5.1504340288731445
+    },
+    {
+        "keyword": "fetches",
+        "votes": 12,
+        "idf": 5.076326056719423
+    },
+    {
+        "keyword": "300",
+        "votes": 12,
+        "idf": 5.007333185232471
+    },
+    {
+        "keyword": "like",
+        "votes": 11,
+        "idf": 4.0518217402050345
+    },
+    {
+        "keyword": "wow",
+        "votes": 11,
+        "idf": 3.42492394518629
+    },
+    {
+        "keyword": "via",
+        "votes": 10,
+        "idf": 4.001811319630374
+    },
+    {
+        "keyword": "doge",
+        "votes": 10,
+        "idf": 3.3459355338676597
+    },
+    {
+        "keyword": "meme",
+        "votes": 10,
+        "idf": 4.71965111278069
+    },
+    {
+        "keyword": "video",
+        "votes": 10,
+        "idf": 5.230476736546681
+    },
+    {
+        "keyword": "thing",
+        "votes": 9,
+        "idf": 3.4812768817374216
+    },
+    {
+        "keyword": "mining",
+        "votes": 9,
+        "idf": 4.348087556348207
+    },
+    {
+        "keyword": "going",
+        "votes": 9,
+        "idf": 4.624340932976365
+    },
+    {
+        "keyword": "2013",
+        "votes": 9,
+        "idf": 4.3831788761594765
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 8,
+        "idf": 4.942794664094899
+    },
+    {
+        "keyword": "virtual",
+        "votes": 8,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "buy",
+        "votes": 8,
+        "idf": 4.8821700422784655
+    },
+    {
+        "keyword": "liked",
+        "votes": 8,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "wallet",
+        "votes": 8,
+        "idf": 4.5373295559867355
+    },
+    {
+        "keyword": "digitalocean",
+        "votes": 7,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "vps",
+        "votes": 7,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "cloud",
+        "votes": 7,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "new",
+        "votes": 7,
+        "idf": 4.3831788761594765
+    },
+    {
+        "keyword": "aust",
+        "votes": 7,
+        "idf": 5.6359418446548455
+    },
+    {
+        "keyword": "year",
+        "votes": 7,
+        "idf": 5.1504340288731445
+    },
+    {
+        "keyword": "presenting",
+        "votes": 7,
+        "idf": 5.6359418446548455
+    },
+    {
+        "keyword": "online",
+        "votes": 7,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "dogewallet",
+        "votes": 7,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "soars",
+        "votes": 6,
+        "idf": 5.6359418446548455
+    },
+    {
+        "keyword": "crypto",
+        "votes": 6,
+        "idf": 4.5373295559867355
+    },
+    {
+        "keyword": "actually",
+        "votes": 6,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "millionaire",
+        "votes": 6,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "internet",
+        "votes": 6,
+        "idf": 4.942794664094899
+    },
+    {
+        "keyword": "similar",
+        "votes": 6,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "hot",
+        "votes": 6,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "business",
+        "votes": 6,
+        "idf": 5.6359418446548455
+    },
+    {
+        "keyword": "suffer",
+        "votes": 5,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "many",
+        "votes": 5,
+        "idf": 4.3831788761594765
+    },
+    {
+        "keyword": "money",
+        "votes": 5,
+        "idf": 4.7709444071682405
+    },
+    {
+        "keyword": "currency",
+        "votes": 5,
+        "idf": 3.572248659943148
+    },
+    {
+        "keyword": "real",
+        "votes": 5,
+        "idf": 4.942794664094899
+    },
+    {
+        "keyword": "lol",
+        "votes": 5,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "thx",
+        "votes": 5,
+        "idf": 4.942794664094899
+    },
+    {
+        "keyword": "insider",
+        "votes": 5,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "make",
+        "votes": 4,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "getting",
+        "votes": 4,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "profit",
+        "votes": 4,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "take",
+        "votes": 4,
+        "idf": 5.6359418446548455
+    },
+    {
+        "keyword": "want",
+        "votes": 4,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "awesome",
+        "votes": 4,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "mine",
+        "votes": 4,
+        "idf": 4.579889170405531
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 4,
+        "idf": 4.001811319630374
+    },
+    {
+        "keyword": "move",
+        "votes": 4,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "100",
+        "votes": 4,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "future",
+        "votes": 4,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "penny",
+        "votes": 4,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "invest",
+        "votes": 4,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "siri",
+        "votes": 4,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "100k",
+        "votes": 4,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "shit",
+        "votes": 4,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "get",
+        "votes": 4,
+        "idf": 4.579889170405531
+    },
+    {
+        "keyword": "900",
+        "votes": 4,
+        "idf": 5.518158808998462
+    },
+    {
+        "keyword": "things",
+        "votes": 4,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "rich",
+        "votes": 4,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "big",
+        "votes": 4,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "tutorial",
+        "votes": 3,
+        "idf": 6.32908902521479
+    },
+    {
+        "keyword": "fox",
+        "votes": 3,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "started",
+        "votes": 3,
+        "idf": 4.104465473690457
+    },
+    {
+        "keyword": "thought",
+        "votes": 3,
+        "idf": 6.32908902521479
+    },
+    {
+        "keyword": "bitcoins",
+        "votes": 3,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "better",
+        "votes": 3,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "help",
+        "votes": 3,
+        "idf": 6.32908902521479
+    },
+    {
+        "keyword": "pls",
+        "votes": 3,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "currencies",
+        "votes": 3,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "hey",
+        "votes": 3,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "care",
+        "votes": 3,
+        "idf": 6.32908902521479
+    },
+    {
+        "keyword": "would",
+        "votes": 3,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "dgc",
+        "votes": 3,
+        "idf": 6.32908902521479
+    },
+    {
+        "keyword": "give",
+        "votes": 3,
+        "idf": 5.6359418446548455
+    },
+    {
+        "keyword": "go",
+        "votes": 3,
+        "idf": 5.769473237279367
+    },
+    {
+        "keyword": "value",
+        "votes": 3,
+        "idf": 4.249647483534954
+    },
+    {
+        "keyword": "coins",
+        "votes": 3,
+        "idf": 5.230476736546681
+    },
+    {
+        "keyword": "got",
+        "votes": 3,
+        "idf": 5.1504340288731445
+    },
+    {
+        "keyword": "really",
+        "votes": 3,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "ebay",
+        "votes": 3,
+        "idf": 5.923623917106626
+    },
+    {
+        "keyword": "become",
+        "votes": 3,
+        "idf": 5.6359418446548455
+    },
+    {
+        "keyword": "hell",
+        "votes": 3,
+        "idf": 6.32908902521479
+    },
+    {
+        "keyword": "think",
+        "votes": 3,
+        "idf": 5.007333185232471
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "coin",
+        "votes": 33,
+        "idf": 3.502810679874149
+    },
+    {
+        "keyword": "c",
+        "votes": 21,
+        "idf": 4.727985691850688
+    },
+    {
+        "keyword": "b",
+        "votes": 21,
+        "idf": 4.495363396581935
+    },
+    {
+        "keyword": "mew",
+        "votes": 19,
+        "idf": 4.1089464834444644
+    },
+    {
+        "keyword": "elon",
+        "votes": 18,
+        "idf": 3.202965121229171
+    },
+    {
+        "keyword": "moon",
+        "votes": 17,
+        "idf": 4.658992820363737
+    },
+    {
+        "keyword": "party",
+        "votes": 16,
+        "idf": 3.8022162160219897
+    },
+    {
+        "keyword": "buy",
+        "votes": 16,
+        "idf": 4.276000568107631
+    },
+    {
+        "keyword": "time",
+        "votes": 13,
+        "idf": 4.121849888280373
+    },
+    {
+        "keyword": "great",
+        "votes": 12,
+        "idf": 5.287601479786111
+    },
+    {
+        "keyword": "sell",
+        "votes": 12,
+        "idf": 5.374612856775741
+    },
+    {
+        "keyword": "trump",
+        "votes": 12,
+        "idf": 3.085757956593597
+    },
+    {
+        "keyword": "done",
+        "votes": 12,
+        "idf": 5.064457928471901
+    },
+    {
+        "keyword": "people",
+        "votes": 11,
+        "idf": 4.405212299587637
+    },
+    {
+        "keyword": "need",
+        "votes": 11,
+        "idf": 5.0983594801475824
+    },
+    {
+        "keyword": "please",
+        "votes": 11,
+        "idf": 5.469923036580066
+    },
+    {
+        "keyword": "pump",
+        "votes": 11,
+        "idf": 4.594454299226166
+    },
+    {
+        "keyword": "akt",
+        "votes": 11,
+        "idf": 5.90070595267252
+    },
+    {
+        "keyword": "make",
+        "votes": 10,
+        "idf": 4.4766712635697825
+    },
+    {
+        "keyword": "go",
+        "votes": 10,
+        "idf": 4.637013913644962
+    },
+    {
+        "keyword": "airdrop",
+        "votes": 10,
+        "idf": 6.067760037335686
+    },
+    {
+        "keyword": "cudis",
+        "votes": 10,
+        "idf": 5.90070595267252
+    },
+    {
+        "keyword": "buying",
+        "votes": 9,
+        "idf": 5.469923036580066
+    },
+    {
+        "keyword": "well",
+        "votes": 9,
+        "idf": 5.374612856775741
+    },
+    {
+        "keyword": "mp",
+        "votes": 9,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "good",
+        "votes": 9,
+        "idf": 4.704455194440494
+    },
+    {
+        "keyword": "lmao",
+        "votes": 8,
+        "idf": 5.980748660346056
+    },
+    {
+        "keyword": "vs",
+        "votes": 8,
+        "idf": 4.99991940733433
+    },
+    {
+        "keyword": "think",
+        "votes": 8,
+        "idf": 4.828069150407671
+    },
+    {
+        "keyword": "stats",
+        "votes": 8,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "fight",
+        "votes": 8,
+        "idf": 5.575283552237892
+    },
+    {
+        "keyword": "btc",
+        "votes": 8,
+        "idf": 3.341691330730798
+    },
+    {
+        "keyword": "going",
+        "votes": 8,
+        "idf": 4.727985691850688
+    },
+    {
+        "keyword": "bro",
+        "votes": 8,
+        "idf": 5.980748660346056
+    },
+    {
+        "keyword": "win",
+        "votes": 7,
+        "idf": 5.575283552237892
+    },
+    {
+        "keyword": "america",
+        "votes": 7,
+        "idf": 5.90070595267252
+    },
+    {
+        "keyword": "bad",
+        "votes": 7,
+        "idf": 5.7576051090318465
+    },
+    {
+        "keyword": "hours",
+        "votes": 7,
+        "idf": 5.575283552237892
+    },
+    {
+        "keyword": "team",
+        "votes": 7,
+        "idf": 5.575283552237892
+    },
+    {
+        "keyword": "private",
+        "votes": 7,
+        "idf": 5.632441966077841
+    },
+    {
+        "keyword": "project",
+        "votes": 7,
+        "idf": 5.575283552237892
+    },
+    {
+        "keyword": "believe",
+        "votes": 7,
+        "idf": 5.575283552237892
+    },
+    {
+        "keyword": "yes",
+        "votes": 6,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "say",
+        "votes": 6,
+        "idf": 5.469923036580066
+    },
+    {
+        "keyword": "ask",
+        "votes": 6,
+        "idf": 5.980748660346056
+    },
+    {
+        "keyword": "always",
+        "votes": 6,
+        "idf": 5.632441966077841
+    },
+    {
+        "keyword": "tesla",
+        "votes": 6,
+        "idf": 5.133450799958853
+    },
+    {
+        "keyword": "soon",
+        "votes": 6,
+        "idf": 5.374612856775741
+    },
+    {
+        "keyword": "gmt",
+        "votes": 6,
+        "idf": 6.519745161078744
+    },
+    {
+        "keyword": "get",
+        "votes": 6,
+        "idf": 4.322520583742524
+    },
+    {
+        "keyword": "way",
+        "votes": 6,
+        "idf": 5.2075587721125745
+    },
+    {
+        "keyword": "waiting",
+        "votes": 6,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "crashing",
+        "votes": 6,
+        "idf": 6.268430732797837
+    },
+    {
+        "keyword": "buys",
+        "votes": 6,
+        "idf": 6.067760037335686
+    },
+    {
+        "keyword": "answer",
+        "votes": 6,
+        "idf": 6.386213768454221
+    },
+    {
+        "keyword": "better",
+        "votes": 6,
+        "idf": 5.980748660346056
+    },
+    {
+        "keyword": "things",
+        "votes": 6,
+        "idf": 5.575283552237892
+    },
+    {
+        "keyword": "excited",
+        "votes": 6,
+        "idf": 6.519745161078744
+    },
+    {
+        "keyword": "eating",
+        "votes": 6,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "track",
+        "votes": 6,
+        "idf": 6.067760037335686
+    },
+    {
+        "keyword": "successfully",
+        "votes": 6,
+        "idf": 6.519745161078744
+    },
+    {
+        "keyword": "tasks",
+        "votes": 6,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "luck",
+        "votes": 6,
+        "idf": 6.268430732797837
+    },
+    {
+        "keyword": "called",
+        "votes": 5,
+        "idf": 5.7576051090318465
+    },
+    {
+        "keyword": "come",
+        "votes": 5,
+        "idf": 5.7576051090318465
+    },
+    {
+        "keyword": "see",
+        "votes": 5,
+        "idf": 4.969147748667576
+    },
+    {
+        "keyword": "money",
+        "votes": 5,
+        "idf": 4.910307248644642
+    },
+    {
+        "keyword": "target",
+        "votes": 5,
+        "idf": 5.826597980518798
+    },
+    {
+        "keyword": "show",
+        "votes": 5,
+        "idf": 6.268430732797837
+    },
+    {
+        "keyword": "sentiment",
+        "votes": 5,
+        "idf": 5.980748660346056
+    },
+    {
+        "keyword": "alpha",
+        "votes": 5,
+        "idf": 6.067760037335686
+    },
+    {
+        "keyword": "update",
+        "votes": 5,
+        "idf": 5.7576051090318465
+    },
+    {
+        "keyword": "xlm",
+        "votes": 5,
+        "idf": 5.632441966077841
+    },
+    {
+        "keyword": "definitely",
+        "votes": 5,
+        "idf": 6.268430732797837
+    },
+    {
+        "keyword": "selling",
+        "votes": 5,
+        "idf": 6.268430732797837
+    },
+    {
+        "keyword": "help",
+        "votes": 5,
+        "idf": 5.693066587894275
+    },
+    {
+        "keyword": "calls",
+        "votes": 5,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "giga",
+        "votes": 5,
+        "idf": 6.268430732797837
+    },
+    {
+        "keyword": "call",
+        "votes": 5,
+        "idf": 5.133450799958853
+    },
+    {
+        "keyword": "shit",
+        "votes": 5,
+        "idf": 5.980748660346056
+    },
+    {
+        "keyword": "let",
+        "votes": 5,
+        "idf": 4.854737397489832
+    },
+    {
+        "keyword": "fucking",
+        "votes": 5,
+        "idf": 5.980748660346056
+    },
+    {
+        "keyword": "long",
+        "votes": 5,
+        "idf": 5.287601479786111
+    },
+    {
+        "keyword": "tweet",
+        "votes": 5,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "fast",
+        "votes": 5,
+        "idf": 5.90070595267252
+    },
+    {
+        "keyword": "hope",
+        "votes": 5,
+        "idf": 5.287601479786111
+    },
+    {
+        "keyword": "wait",
+        "votes": 5,
+        "idf": 5.632441966077841
+    },
+    {
+        "keyword": "fighting",
+        "votes": 5,
+        "idf": 6.163070217140011
+    },
+    {
+        "keyword": "goes",
+        "votes": 5,
+        "idf": 5.980748660346056
+    },
+    {
+        "keyword": "1",
+        "votes": 5,
+        "idf": 3.7034813753363003
+    },
+    {
+        "keyword": "currency",
+        "votes": 5,
+        "idf": 5.246779485265856
+    },
+    {
+        "keyword": "guys",
+        "votes": 5,
+        "idf": 5.90070595267252
+    },
+    {
+        "keyword": "sold",
+        "votes": 5,
+        "idf": 6.268430732797837
+    },
+    {
+        "keyword": "support",
+        "votes": 5,
+        "idf": 5.2075587721125745
+    },
+    {
+        "keyword": "amazing",
+        "votes": 5,
+        "idf": 6.067760037335686
+    },
+    {
+        "keyword": "axd",
+        "votes": 5,
+        "idf": 6.673895840906002
+    },
+    {
+        "keyword": "erw",
+        "votes": 5,
+        "idf": 6.673895840906002
+    },
+    {
+        "keyword": "crf",
+        "votes": 5,
+        "idf": 6.673895840906002
+    },
+    {
+        "keyword": "gamble",
+        "votes": 5,
+        "idf": 6.519745161078744
+    },
+    {
+        "keyword": "frends",
+        "votes": 5,
+        "idf": 6.386213768454221
+    }
+]

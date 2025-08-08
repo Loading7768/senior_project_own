@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "1",
+        "votes": 21,
+        "idf": 3.1465808445174646
+    },
+    {
+        "keyword": "mon",
+        "votes": 19,
+        "idf": 3.446685436967803
+    },
+    {
+        "keyword": "humans",
+        "votes": 19,
+        "idf": 3.2235418856535927
+    },
+    {
+        "keyword": "little",
+        "votes": 19,
+        "idf": 3.3978952727983707
+    },
+    {
+        "keyword": "gives",
+        "votes": 18,
+        "idf": 3.3978952727983707
+    },
+    {
+        "keyword": "ground",
+        "votes": 14,
+        "idf": 3.3978952727983707
+    },
+    {
+        "keyword": "13",
+        "votes": 12,
+        "idf": 3.877468353060257
+    },
+    {
+        "keyword": "14",
+        "votes": 12,
+        "idf": 3.877468353060257
+    },
+    {
+        "keyword": "0",
+        "votes": 10,
+        "idf": 3.9575110607337933
+    },
+    {
+        "keyword": "24",
+        "votes": 8,
+        "idf": 4.245193133185574
+    },
+    {
+        "keyword": "sun",
+        "votes": 5,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "coin",
+        "votes": 3,
+        "idf": 4.245193133185574
+    },
+    {
+        "keyword": "loser",
+        "votes": 3,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 3,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "moon",
+        "votes": 3,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "nulltx",
+        "votes": 3,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "maintains",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "solid",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "notes",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "okex",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "sites",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "career",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "poker",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "approx",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "1m",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "values",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "raises",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "best",
+        "votes": 2,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "tron",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "fork",
+        "votes": 2,
+        "idf": 4.832979798087694
+    },
+    {
+        "keyword": "biggest",
+        "votes": 2,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "triangle",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "contract",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 4.832979798087694
+    },
+    {
+        "keyword": "idealcash",
+        "votes": 2,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "xsm",
+        "votes": 2,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "negative",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "merkel",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "mobile",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "pool",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "chance",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "ast",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "zen",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "poly",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "bermuda",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "keys",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "lost",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "vitalik",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "cypherpunks",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "early",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "p",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "changes",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "cosm",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "2526339",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "fast",
+        "votes": 1,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "98",
+        "votes": 1,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "0x20bf082a4040649ab641fd3b470ad00a3ce1a935",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "2025",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "41",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "billion",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "remember",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "said",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "asked",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "gaining",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "standard",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "inspired",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "wish",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "earlier",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "thinking",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "rank",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "inb",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "9",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "point",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "done",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "tomorrow",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "blocking",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "friend",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "work",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "well",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "cro",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "immortality",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "trump",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "first",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "tweet",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "developing",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "platform",
+        "votes": 1,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "33000",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "otomatis",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "per",
+        "votes": 1,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "gold",
+        "votes": 1,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "btg",
+        "votes": 1,
+        "idf": 4.650658241293739
+    },
+    {
+        "keyword": "la",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "dropping",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "mana",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "vol",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "24h",
+        "votes": 1,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "usd",
+        "votes": 1,
+        "idf": 4.832979798087694
+    },
+    {
+        "keyword": "forever",
+        "votes": 1,
+        "idf": 5.749270529961848
+    }
+]

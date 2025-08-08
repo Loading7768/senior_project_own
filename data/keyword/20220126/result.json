@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "rank",
+        "votes": 6,
+        "idf": 4.433987204485146
+    },
+    {
+        "keyword": "coin",
+        "votes": 6,
+        "idf": 3.3779345302358323
+    },
+    {
+        "keyword": "study",
+        "votes": 5,
+        "idf": 4.567518597109669
+    },
+    {
+        "keyword": "year",
+        "votes": 5,
+        "idf": 4.567518597109669
+    },
+    {
+        "keyword": "fee",
+        "votes": 5,
+        "idf": 4.567518597109669
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 3.8743714165497236
+    },
+    {
+        "keyword": "accept",
+        "votes": 4,
+        "idf": 3.517696472610991
+    },
+    {
+        "keyword": "accepting",
+        "votes": 3,
+        "idf": 4.316204168828763
+    },
+    {
+        "keyword": "people",
+        "votes": 3,
+        "idf": 4.316204168828763
+    },
+    {
+        "keyword": "ready",
+        "votes": 3,
+        "idf": 4.903990833730882
+    },
+    {
+        "keyword": "king",
+        "votes": 3,
+        "idf": 4.567518597109669
+    },
+    {
+        "keyword": "1h",
+        "votes": 3,
+        "idf": 4.721669276936927
+    },
+    {
+        "keyword": "prices",
+        "votes": 3,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 3,
+        "idf": 4.903990833730882
+    },
+    {
+        "keyword": "vitalik",
+        "votes": 3,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "helping",
+        "votes": 3,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "planning",
+        "votes": 3,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "today",
+        "votes": 3,
+        "idf": 4.721669276936927
+    },
+    {
+        "keyword": "past",
+        "votes": 3,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "mcdonald",
+        "votes": 3,
+        "idf": 4.903990833730882
+    },
+    {
+        "keyword": "current",
+        "votes": 3,
+        "idf": 3.3353749158170367
+    },
+    {
+        "keyword": "price",
+        "votes": 3,
+        "idf": 3.146132916178508
+    },
+    {
+        "keyword": "pay",
+        "votes": 3,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "adoption",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "tether",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "4",
+        "votes": 2,
+        "idf": 4.721669276936927
+    },
+    {
+        "keyword": "60d",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "90d",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "7d",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "whopper",
+        "votes": 2,
+        "idf": 4.567518597109669
+    },
+    {
+        "keyword": "world",
+        "votes": 2,
+        "idf": 4.903990833730882
+    },
+    {
+        "keyword": "everyday",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "says",
+        "votes": 2,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "total",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "1000",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "h",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "seems",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "based",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "update",
+        "votes": 2,
+        "idf": 4.433987204485146
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "friend",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "mile",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "give",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "man",
+        "votes": 2,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "start",
+        "votes": 2,
+        "idf": 4.567518597109669
+    },
+    {
+        "keyword": "stop",
+        "votes": 2,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "got",
+        "votes": 2,
+        "idf": 4.721669276936927
+    },
+    {
+        "keyword": "agree",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "momentum",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "snx",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "mission",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "99",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "paid",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "impossible",
+        "votes": 2,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "hearing",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "okay",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "sick",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "target",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "go",
+        "votes": 1,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "net",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "178m",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "hrs",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "ending",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "produces",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "feb",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "high",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "getting",
+        "votes": 1,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "consider",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "pizza",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "ever",
+        "votes": 1,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "fortunate",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "two",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "things",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "burger",
+        "votes": 1,
+        "idf": 4.316204168828763
+    },
+    {
+        "keyword": "bright",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "ahead",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "future",
+        "votes": 1,
+        "idf": 4.567518597109669
+    },
+    {
+        "keyword": "let",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "chain",
+        "votes": 1,
+        "idf": 5.4148164574968725
+    },
+    {
+        "keyword": "nice",
+        "votes": 1,
+        "idf": 5.127134385045092
+    },
+    {
+        "keyword": "someome",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "healthy",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "restaurants",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "omnilite",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "farm",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "1381",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "placed",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "purchased",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "markets",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "feel",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "push",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "coke",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "combo",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "ask",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "ftc",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "offers",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "promo",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "difference",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "atl",
+        "votes": 1,
+        "idf": 5.820281565605037
+    },
+    {
+        "keyword": "made",
+        "votes": 1,
+        "idf": 5.4148164574968725
+    }
+]

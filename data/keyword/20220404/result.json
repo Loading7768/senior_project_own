@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "day",
+        "votes": 3,
+        "idf": 4.562465529258278
+    },
+    {
+        "keyword": "good",
+        "votes": 3,
+        "idf": 3.8693183486983322
+    },
+    {
+        "keyword": "tip",
+        "votes": 3,
+        "idf": 4.339321977944068
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "wen",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "move",
+        "votes": 2,
+        "idf": 4.562465529258278
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 4.157000421150114
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 4.562465529258278
+    },
+    {
+        "keyword": "thing",
+        "votes": 2,
+        "idf": 4.339321977944068
+    },
+    {
+        "keyword": "community",
+        "votes": 2,
+        "idf": 4.157000421150114
+    },
+    {
+        "keyword": "feature",
+        "votes": 2,
+        "idf": 4.562465529258278
+    },
+    {
+        "keyword": "rank",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "total",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "mdoge",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "takes",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "twitter",
+        "votes": 2,
+        "idf": 3.3838105329166317
+    },
+    {
+        "keyword": "fear",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "index",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "58",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "soon",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "current",
+        "votes": 2,
+        "idf": 3.8693183486983322
+    },
+    {
+        "keyword": "tipping",
+        "votes": 2,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "patreon",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "dot",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "cocos",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "bullish",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "omg",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "amazing",
+        "votes": 1,
+        "idf": 4.339321977944068
+    },
+    {
+        "keyword": "irony",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "ser",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "flop",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "meme",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "life",
+        "votes": 1,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "coins",
+        "votes": 1,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "2020",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "fud",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "actually",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "result",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "likely",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "goat",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "mint",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "take",
+        "votes": 1,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "dip",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "long",
+        "votes": 1,
+        "idf": 4.562465529258278
+    },
+    {
+        "keyword": "liner",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "even",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "katie",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "hehe",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "berlin",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "illegal",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "count",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "tickers",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "ltc",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "dog",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "ios",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "android",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "wallet",
+        "votes": 1,
+        "idf": 4.562465529258278
+    },
+    {
+        "keyword": "add",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "edit",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "post",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "guys",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "miss",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "behalf",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "holding",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "customers",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "60d",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "90d",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "7d",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "landlord",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "conditions",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "horrible",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "mostly",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "discord",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "got",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "hi",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "asking",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "start",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "live",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "signing",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "accuracy",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "ready",
+        "votes": 1,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "facebook",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "ole",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "paypal",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "altcoins",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "facing",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "monthly",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "everything",
+        "votes": 1,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "talking",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "money",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "mistake",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "least",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "thining",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "lol",
+        "votes": 1,
+        "idf": 4.339321977944068
+    },
+    {
+        "keyword": "dogenut",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "stack",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "attack",
+        "votes": 1,
+        "idf": 4.850147601710058
+    },
+    {
+        "keyword": "nfts",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "already",
+        "votes": 1,
+        "idf": 5.255612709818223
+    },
+    {
+        "keyword": "cards",
+        "votes": 1,
+        "idf": 5.255612709818223
+    }
+]

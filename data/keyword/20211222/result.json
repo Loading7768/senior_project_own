@@ -55,12 +55,12 @@
         "idf": 4.238678452164381
     },
     {
-        "keyword": "crossed",
+        "keyword": "zone",
         "votes": 2,
         "idf": 4.931825632724326
     },
     {
-        "keyword": "zone",
+        "keyword": "oversold",
         "votes": 2,
         "idf": 4.931825632724326
     },
@@ -80,22 +80,22 @@
         "idf": 4.931825632724326
     },
     {
-        "keyword": "2018",
-        "votes": 2,
-        "idf": 4.931825632724326
-    },
-    {
         "keyword": "probably",
         "votes": 2,
         "idf": 4.931825632724326
     },
     {
-        "keyword": "percentage",
+        "keyword": "2018",
         "votes": 2,
         "idf": 4.931825632724326
     },
     {
         "keyword": "worth",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "percentage",
         "votes": 2,
         "idf": 4.931825632724326
     },
@@ -110,11 +110,6 @@
         "idf": 4.931825632724326
     },
     {
-        "keyword": "chz",
-        "votes": 2,
-        "idf": 4.931825632724326
-    },
-    {
         "keyword": "current",
         "votes": 2,
         "idf": 3.257849199152654
@@ -123,6 +118,11 @@
         "keyword": "price",
         "votes": 2,
         "idf": 3.0347056478384444
+    },
+    {
+        "keyword": "january",
+        "votes": 2,
+        "idf": 4.931825632724326
     },
     {
         "keyword": "inu",
@@ -148,5 +148,355 @@
         "keyword": "wars",
         "votes": 2,
         "idf": 4.931825632724326
+    },
+    {
+        "keyword": "q1",
+        "votes": 1,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "sustained",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "4chan",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "chatter",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "killing",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "see",
+        "votes": 1,
+        "idf": 4.421000008958336
+    },
+    {
+        "keyword": "come",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "bad",
+        "votes": 1,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "tesla",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "transaction",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "enough",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "within",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "ruin",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "try",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "adopt",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "strategy",
+        "votes": 1,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "1",
+        "votes": 1,
+        "idf": 3.322387720290225
+    },
+    {
+        "keyword": "altcoins",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "gains",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "register",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "move",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "power",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "know",
+        "votes": 1,
+        "idf": 4.6441435602725445
+    },
+    {
+        "keyword": "dream",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "failure",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "people",
+        "votes": 1,
+        "idf": 4.6441435602725445
+    },
+    {
+        "keyword": "tg",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "ups",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "day",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "podcast",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "listened",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "single",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "nodes",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "problem",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "doesnt",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "149",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "end",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "latest",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "help",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "everyday",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "straight",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "depends",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "tips",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "much",
+        "votes": 1,
+        "idf": 4.6441435602725445
+    },
+    {
+        "keyword": "baby",
+        "votes": 1,
+        "idf": 4.084527772337122
+    },
+    {
+        "keyword": "projects",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "designed",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "asset",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "everybody",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "rise",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "definitely",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "suitable",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "shorting",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "wait",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "wrecked",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "27",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "888",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "gets",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "imitate",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "deep",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "nakd",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "everyone",
+        "votes": 1,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "christmas",
+        "votes": 1,
+        "idf": 4.421000008958336
+    },
+    {
+        "keyword": "btw",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "ok",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "exactly",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "floki",
+        "votes": 1,
+        "idf": 4.6441435602725445
+    },
+    {
+        "keyword": "rally",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "santa",
+        "votes": 1,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "5000",
+        "votes": 1,
+        "idf": 5.33729074083249
     }
 ]

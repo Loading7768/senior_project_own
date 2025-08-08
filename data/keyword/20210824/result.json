@@ -148,5 +148,355 @@
         "keyword": "1h",
         "votes": 7,
         "idf": 5.2243976904702984
+    },
+    {
+        "keyword": "h",
+        "votes": 7,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "wiser",
+        "votes": 7,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "historical",
+        "votes": 7,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "let",
+        "votes": 7,
+        "idf": 5.2243976904702984
+    },
+    {
+        "keyword": "cardano",
+        "votes": 7,
+        "idf": 5.703970770732185
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 7,
+        "idf": 5.3785483702975565
+    },
+    {
+        "keyword": "1",
+        "votes": 7,
+        "idf": 3.7256253459237176
+    },
+    {
+        "keyword": "prices",
+        "votes": 7,
+        "idf": 5.784013478405721
+    },
+    {
+        "keyword": "sell",
+        "votes": 7,
+        "idf": 5.177877674835406
+    },
+    {
+        "keyword": "nice",
+        "votes": 6,
+        "idf": 5.629862798578463
+    },
+    {
+        "keyword": "buying",
+        "votes": 6,
+        "idf": 5.133425912264571
+    },
+    {
+        "keyword": "9",
+        "votes": 6,
+        "idf": 5.871024855395351
+    },
+    {
+        "keyword": "pushes",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "amc",
+        "votes": 6,
+        "idf": 4.243568437458572
+    },
+    {
+        "keyword": "late",
+        "votes": 6,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "dangerous",
+        "votes": 6,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "tether",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "powerful",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "advertisement",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "merchants",
+        "votes": 6,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "swing",
+        "votes": 6,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "ranking",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "closing",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "hr",
+        "votes": 6,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "btc",
+        "votes": 6,
+        "idf": 3.285313506485385
+    },
+    {
+        "keyword": "way",
+        "votes": 6,
+        "idf": 5.133425912264571
+    },
+    {
+        "keyword": "thank",
+        "votes": 6,
+        "idf": 5.560869927091511
+    },
+    {
+        "keyword": "idea",
+        "votes": 6,
+        "idf": 5.966335035199676
+    },
+    {
+        "keyword": "wow",
+        "votes": 6,
+        "idf": 5.177877674835406
+    },
+    {
+        "keyword": "much",
+        "votes": 6,
+        "idf": 4.803184225393995
+    },
+    {
+        "keyword": "already",
+        "votes": 6,
+        "idf": 5.2243976904702984
+    },
+    {
+        "keyword": "tweet",
+        "votes": 5,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "wtf",
+        "votes": 5,
+        "idf": 6.071695550857502
+    },
+    {
+        "keyword": "like",
+        "votes": 5,
+        "idf": 4.006240251152406
+    },
+    {
+        "keyword": "favorite",
+        "votes": 5,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "scanner",
+        "votes": 5,
+        "idf": 6.071695550857502
+    },
+    {
+        "keyword": "would",
+        "votes": 5,
+        "idf": 4.834932923708575
+    },
+    {
+        "keyword": "joke",
+        "votes": 5,
+        "idf": 5.784013478405721
+    },
+    {
+        "keyword": "looks",
+        "votes": 5,
+        "idf": 6.071695550857502
+    },
+    {
+        "keyword": "take",
+        "votes": 5,
+        "idf": 5.3785483702975565
+    },
+    {
+        "keyword": "7",
+        "votes": 5,
+        "idf": 5.2243976904702984
+    },
+    {
+        "keyword": "right",
+        "votes": 5,
+        "idf": 4.867722746531566
+    },
+    {
+        "keyword": "shib",
+        "votes": 5,
+        "idf": 3.9784606870453305
+    },
+    {
+        "keyword": "find",
+        "votes": 5,
+        "idf": 5.703970770732185
+    },
+    {
+        "keyword": "hope",
+        "votes": 5,
+        "idf": 5.703970770732185
+    },
+    {
+        "keyword": "prepares",
+        "votes": 5,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "new",
+        "votes": 5,
+        "idf": 4.337094495469396
+    },
+    {
+        "keyword": "come",
+        "votes": 5,
+        "idf": 5.629862798578463
+    },
+    {
+        "keyword": "link",
+        "votes": 5,
+        "idf": 4.034813623596462
+    },
+    {
+        "keyword": "ada",
+        "votes": 5,
+        "idf": 3.4406063908914204
+    },
+    {
+        "keyword": "musk",
+        "votes": 5,
+        "idf": 5.560869927091511
+    },
+    {
+        "keyword": "elon",
+        "votes": 5,
+        "idf": 5.133425912264571
+    },
+    {
+        "keyword": "see",
+        "votes": 5,
+        "idf": 4.555348061489413
+    },
+    {
+        "keyword": "pump",
+        "votes": 5,
+        "idf": 5.324481149027281
+    },
+    {
+        "keyword": "series",
+        "votes": 5,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "tesla",
+        "votes": 5,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "believe",
+        "votes": 5,
+        "idf": 5.273187854639731
+    },
+    {
+        "keyword": "king",
+        "votes": 5,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "project",
+        "votes": 4,
+        "idf": 5.050044303325521
+    },
+    {
+        "keyword": "manifesto",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "signing",
+        "votes": 4,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "think",
+        "votes": 4,
+        "idf": 4.973083262189393
+    },
+    {
+        "keyword": "add",
+        "votes": 4,
+        "idf": 6.4771606589656665
+    },
+    {
+        "keyword": "coming",
+        "votes": 4,
+        "idf": 5.784013478405721
+    },
+    {
+        "keyword": "list",
+        "votes": 4,
+        "idf": 6.189478586513886
+    },
+    {
+        "keyword": "donations",
+        "votes": 4,
+        "idf": 6.659482215759621
+    },
+    {
+        "keyword": "accepting",
+        "votes": 4,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "6",
+        "votes": 4,
+        "idf": 5.784013478405721
+    },
+    {
+        "keyword": "anyone",
+        "votes": 4,
+        "idf": 6.3230099791384085
+    },
+    {
+        "keyword": "25",
+        "votes": 4,
+        "idf": 6.189478586513886
     }
 ]

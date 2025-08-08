@@ -10,12 +10,12 @@
         "idf": 3.8076800420510515
     },
     {
-        "keyword": "charles",
+        "keyword": "bubble",
         "votes": 8,
         "idf": 4.6549779024382545
     },
     {
-        "keyword": "bubble",
+        "keyword": "charles",
         "votes": 8,
         "idf": 4.6549779024382545
     },
@@ -65,6 +65,11 @@
         "idf": 5.465908118654584
     },
     {
+        "keyword": "imagine",
+        "votes": 3,
+        "idf": 5.465908118654584
+    },
+    {
         "keyword": "retweet",
         "votes": 3,
         "idf": 5.242764567340374
@@ -100,6 +105,11 @@
         "idf": 4.772760938094638
     },
     {
+        "keyword": "sound",
+        "votes": 3,
+        "idf": 5.465908118654584
+    },
+    {
         "keyword": "mooning",
         "votes": 3,
         "idf": 5.465908118654584
@@ -110,34 +120,9 @@
         "idf": 5.465908118654584
     },
     {
-        "keyword": "sound",
-        "votes": 3,
-        "idf": 5.465908118654584
-    },
-    {
         "keyword": "like",
         "votes": 3,
         "idf": 4.287253122312938
-    },
-    {
-        "keyword": "else",
-        "votes": 3,
-        "idf": 5.242764567340374
-    },
-    {
-        "keyword": "robinhood",
-        "votes": 3,
-        "idf": 4.906292330719161
-    },
-    {
-        "keyword": "wait",
-        "votes": 2,
-        "idf": 5.7535901911063645
-    },
-    {
-        "keyword": "would",
-        "votes": 2,
-        "idf": 4.549617386780429
     },
     {
         "keyword": "3",
@@ -148,5 +133,370 @@
         "keyword": "soon",
         "votes": 2,
         "idf": 4.772760938094638
+    },
+    {
+        "keyword": "hodling",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "project",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "tweet",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "well",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "wtf",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "sold",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "rocket",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "hold",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "continue",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "information",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "manipulation",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "oblivion",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "time",
+        "votes": 2,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "take",
+        "votes": 2,
+        "idf": 4.454307206976104
+    },
+    {
+        "keyword": "lets",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "full",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "absolutely",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "couple",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "info",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "loving",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "alt",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "forever",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "trending",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "hodl",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "way",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "coin",
+        "votes": 2,
+        "idf": 3.907763500608034
+    },
+    {
+        "keyword": "expect",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "however",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "therefore",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "free",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "say",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "since",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "announced",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "next",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "want",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 4.144152278672264
+    },
+    {
+        "keyword": "add",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "finally",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "crypto",
+        "votes": 2,
+        "idf": 3.7611600264161584
+    },
+    {
+        "keyword": "tap",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "first",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "much",
+        "votes": 2,
+        "idf": 4.287253122312938
+    },
+    {
+        "keyword": "generate",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "spiking",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "financial",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "bought",
+        "votes": 2,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "oh",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "words",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 4.906292330719161
+    },
+    {
+        "keyword": "community",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "top",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "patient",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "stop",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "course",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "else",
+        "votes": 2,
+        "idf": 5.242764567340374
+    },
+    {
+        "keyword": "robinhood",
+        "votes": 2,
+        "idf": 4.906292330719161
+    },
+    {
+        "keyword": "pick",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "keep",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "list",
+        "votes": 2,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "millionaires",
+        "votes": 2,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "better",
+        "votes": 2,
+        "idf": 4.906292330719161
+    },
+    {
+        "keyword": "nexxt",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "instead",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "2u",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "thx",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "panic",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "wait",
+        "votes": 1,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "times",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "created",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "gave",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "someday",
+        "votes": 1,
+        "idf": 6.159055299214529
+    },
+    {
+        "keyword": "payment",
+        "votes": 1,
+        "idf": 5.060443010546419
     }
 ]

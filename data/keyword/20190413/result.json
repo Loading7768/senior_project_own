@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "1",
+        "votes": 24,
+        "idf": 3.0149030205422647
+    },
+    {
+        "keyword": "humans",
+        "votes": 21,
+        "idf": 3.3632097148104805
+    },
+    {
+        "keyword": "sat",
+        "votes": 18,
+        "idf": 3.5968245659919855
+    },
+    {
+        "keyword": "14",
+        "votes": 12,
+        "idf": 3.9022062155431674
+    },
+    {
+        "keyword": "5",
+        "votes": 11,
+        "idf": 3.496741107435003
+    },
+    {
+        "keyword": "6",
+        "votes": 9,
+        "idf": 4.143368272360055
+    },
+    {
+        "keyword": "12",
+        "votes": 9,
+        "idf": 4.056356895370426
+    },
+    {
+        "keyword": "cdt",
+        "votes": 8,
+        "idf": 3.3632097148104805
+    },
+    {
+        "keyword": "loser",
+        "votes": 8,
+        "idf": 4.344038967822207
+    },
+    {
+        "keyword": "action",
+        "votes": 7,
+        "idf": 4.344038967822207
+    },
+    {
+        "keyword": "retrace",
+        "votes": 7,
+        "idf": 4.344038967822207
+    },
+    {
+        "keyword": "trap",
+        "votes": 6,
+        "idf": 4.46182200347859
+    },
+    {
+        "keyword": "bouncing",
+        "votes": 6,
+        "idf": 4.46182200347859
+    },
+    {
+        "keyword": "correction",
+        "votes": 6,
+        "idf": 4.46182200347859
+    },
+    {
+        "keyword": "tesla",
+        "votes": 5,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "buy",
+        "votes": 5,
+        "idf": 4.595353396103112
+    },
+    {
+        "keyword": "negative",
+        "votes": 5,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "comchain",
+        "votes": 5,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "fri",
+        "votes": 5,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "bearish",
+        "votes": 4,
+        "idf": 4.238678452164381
+    },
+    {
+        "keyword": "list",
+        "votes": 4,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "trust",
+        "votes": 4,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "nonsense",
+        "votes": 4,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 4,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "7",
+        "votes": 4,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "approaching",
+        "votes": 4,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 3,
+        "idf": 3.5968245659919855
+    },
+    {
+        "keyword": "musk",
+        "votes": 3,
+        "idf": 4.344038967822207
+    },
+    {
+        "keyword": "way",
+        "votes": 3,
+        "idf": 4.595353396103112
+    },
+    {
+        "keyword": "moon",
+        "votes": 3,
+        "idf": 4.46182200347859
+    },
+    {
+        "keyword": "mine",
+        "votes": 3,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "recommendation",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "trade",
+        "votes": 3,
+        "idf": 3.9763141876968895
+    },
+    {
+        "keyword": "take",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "higher",
+        "votes": 3,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "greatest",
+        "votes": 3,
+        "idf": 4.344038967822207
+    },
+    {
+        "keyword": "positive",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "nice",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "say",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "bcash",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "free",
+        "votes": 2,
+        "idf": 4.238678452164381
+    },
+    {
+        "keyword": "waves",
+        "votes": 2,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "sign",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "investing",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "ceo",
+        "votes": 2,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "keep",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "blokt",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "cool",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "18",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "approx",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "earn",
+        "votes": 2,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "rt",
+        "votes": 2,
+        "idf": 4.238678452164381
+    },
+    {
+        "keyword": "nearly",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "2020",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "updated",
+        "votes": 2,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "official",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "updates",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "reaches",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "2014",
+        "votes": 2,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "growing",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "reversal",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "mount",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "tries",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "breakout",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "may",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "digit",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "etn",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "outbreak",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "forecast",
+        "votes": 2,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "binance",
+        "votes": 2,
+        "idf": 3.6508917872622613
+    },
+    {
+        "keyword": "100x",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "months",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "srn",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "steps",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "elected",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "joins",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "lrc",
+        "votes": 1,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "dai",
+        "votes": 1,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "cash",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "multiple",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "accepted",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "sir",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "future",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "wants",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "media",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "memes",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "articles",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "quick",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "rvn",
+        "votes": 1,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "4120144",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "iota",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "fet",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "storj",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "botegro",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "gonna",
+        "votes": 1,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "rise",
+        "votes": 1,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "soon",
+        "votes": 1,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "started",
+        "votes": 1,
+        "idf": 5.848116364598481
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "price",
+        "votes": 24,
+        "idf": 3.1929419155442185
+    },
+    {
+        "keyword": "7",
+        "votes": 24,
+        "idf": 3.1929419155442185
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 23,
+        "idf": 3.272984623217755
+    },
+    {
+        "keyword": "approx",
+        "votes": 23,
+        "idf": 3.272984623217755
+    },
+    {
+        "keyword": "1m",
+        "votes": 23,
+        "idf": 3.272984623217755
+    },
+    {
+        "keyword": "01",
+        "votes": 20,
+        "idf": 3.359996000207385
+    },
+    {
+        "keyword": "airdrop",
+        "votes": 15,
+        "idf": 3.4553061800117097
+    },
+    {
+        "keyword": "gold",
+        "votes": 12,
+        "idf": 3.315544237636551
+    },
+    {
+        "keyword": "keep",
+        "votes": 7,
+        "idf": 4.371596911885865
+    },
+    {
+        "keyword": "voting",
+        "votes": 7,
+        "idf": 4.371596911885865
+    },
+    {
+        "keyword": "vote",
+        "votes": 6,
+        "idf": 4.371596911885865
+    },
+    {
+        "keyword": "31",
+        "votes": 4,
+        "idf": 4.8416005411316
+    },
+    {
+        "keyword": "moon",
+        "votes": 3,
+        "idf": 4.505128304510388
+    },
+    {
+        "keyword": "form",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "dcg",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "social",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "index",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "popularity",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "decide",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "claim",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "faucet",
+        "votes": 3,
+        "idf": 4.659278984337646
+    },
+    {
+        "keyword": "luck",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "check",
+        "votes": 3,
+        "idf": 4.148453360571654
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 4.05314318076733
+    },
+    {
+        "keyword": "code",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "minutes",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "mined",
+        "votes": 3,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "thanks",
+        "votes": 2,
+        "idf": 3.8119811239504418
+    },
+    {
+        "keyword": "trade",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "follow",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "lot",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "insights",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "created",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "man",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "send",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "know",
+        "votes": 2,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "user",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "review",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "think",
+        "votes": 2,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 2,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "address",
+        "votes": 2,
+        "idf": 4.505128304510388
+    },
+    {
+        "keyword": "buy",
+        "votes": 2,
+        "idf": 4.505128304510388
+    },
+    {
+        "keyword": "join",
+        "votes": 2,
+        "idf": 3.9661318037777002
+    },
+    {
+        "keyword": "btt",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "go",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "dev",
+        "votes": 2,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "good",
+        "votes": 2,
+        "idf": 4.05314318076733
+    },
+    {
+        "keyword": "confirmed",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "times",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "votes",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "future",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "change",
+        "votes": 2,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "enter",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "guide",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "wealth",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "investing",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "fut",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "proving",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "fast",
+        "votes": 2,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "project",
+        "votes": 2,
+        "idf": 4.371596911885865
+    },
+    {
+        "keyword": "nice",
+        "votes": 2,
+        "idf": 5.06474409244581
+    },
+    {
+        "keyword": "say",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "tenants",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "least",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "remember",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "volatility",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "reddit",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "awesome",
+        "votes": 1,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "nativecurrency",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "therealdogecoin",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "mine",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "get",
+        "votes": 1,
+        "idf": 4.253813876229481
+    },
+    {
+        "keyword": "hope",
+        "votes": 1,
+        "idf": 4.253813876229481
+    },
+    {
+        "keyword": "namecoin",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "pool",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "merged",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "cryptoimperator",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "diy",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "imperator",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "slr",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "making",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "members",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "started",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "reading",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "rig",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "indeed",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "website",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "supply",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "info",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "adx",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "link",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "sc",
+        "votes": 1,
+        "idf": 5.757891273005756
+    },
+    {
+        "keyword": "25",
+        "votes": 1,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "natv",
+        "votes": 1,
+        "idf": 5.352426164897591
+    },
+    {
+        "keyword": "side",
+        "votes": 1,
+        "idf": 5.757891273005756
+    }
+]

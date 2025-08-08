@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "3",
+        "votes": 25,
+        "idf": 3.4186572642467996
+    },
+    {
+        "keyword": "cst",
+        "votes": 24,
+        "idf": 3.457877977400081
+    },
+    {
+        "keyword": "bits",
+        "votes": 24,
+        "idf": 3.457877977400081
+    },
+    {
+        "keyword": "owner",
+        "votes": 17,
+        "idf": 3.7863820443721172
+    },
+    {
+        "keyword": "irresponsible",
+        "votes": 17,
+        "idf": 3.7863820443721172
+    },
+    {
+        "keyword": "time",
+        "votes": 17,
+        "idf": 3.7323148231018415
+    },
+    {
+        "keyword": "0",
+        "votes": 16,
+        "idf": 3.8435404582120656
+    },
+    {
+        "keyword": "cryptsy",
+        "votes": 14,
+        "idf": 3.2755564206061263
+    },
+    {
+        "keyword": "across",
+        "votes": 13,
+        "idf": 4.037696472653023
+    },
+    {
+        "keyword": "cloud",
+        "votes": 13,
+        "idf": 3.7863820443721172
+    },
+    {
+        "keyword": "growth",
+        "votes": 13,
+        "idf": 4.037696472653023
+    },
+    {
+        "keyword": "decline",
+        "votes": 11,
+        "idf": 4.191847152480282
+    },
+    {
+        "keyword": "1",
+        "votes": 11,
+        "idf": 4.191847152480282
+    },
+    {
+        "keyword": "everyone",
+        "votes": 11,
+        "idf": 4.1118044448067455
+    },
+    {
+        "keyword": "2",
+        "votes": 10,
+        "idf": 4.037696472653023
+    },
+    {
+        "keyword": "hosting",
+        "votes": 10,
+        "idf": 4.278858529469911
+    },
+    {
+        "keyword": "earn",
+        "votes": 10,
+        "idf": 4.278858529469911
+    },
+    {
+        "keyword": "share",
+        "votes": 10,
+        "idf": 4.278858529469911
+    },
+    {
+        "keyword": "attention",
+        "votes": 10,
+        "idf": 4.278858529469911
+    },
+    {
+        "keyword": "got",
+        "votes": 10,
+        "idf": 4.191847152480282
+    },
+    {
+        "keyword": "v",
+        "votes": 10,
+        "idf": 4.278858529469911
+    },
+    {
+        "keyword": "best",
+        "votes": 10,
+        "idf": 4.191847152480282
+    },
+    {
+        "keyword": "alt",
+        "votes": 8,
+        "idf": 4.479529224932062
+    },
+    {
+        "keyword": "tracker",
+        "votes": 8,
+        "idf": 4.479529224932062
+    },
+    {
+        "keyword": "services",
+        "votes": 8,
+        "idf": 4.374168709274236
+    },
+    {
+        "keyword": "paypal",
+        "votes": 7,
+        "idf": 4.191847152480282
+    },
+    {
+        "keyword": "money",
+        "votes": 7,
+        "idf": 4.278858529469911
+    },
+    {
+        "keyword": "managed",
+        "votes": 7,
+        "idf": 3.7323148231018415
+    },
+    {
+        "keyword": "supporting",
+        "votes": 6,
+        "idf": 4.479529224932062
+    },
+    {
+        "keyword": "press",
+        "votes": 6,
+        "idf": 4.730843653212968
+    },
+    {
+        "keyword": "payment",
+        "votes": 6,
+        "idf": 3.585711348909966
+    },
+    {
+        "keyword": "servint",
+        "votes": 5,
+        "idf": 3.3809169362639526
+    },
+    {
+        "keyword": "begins",
+        "votes": 5,
+        "idf": 3.457877977400081
+    },
+    {
+        "keyword": "4",
+        "votes": 5,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "wire",
+        "votes": 4,
+        "idf": 5.067315889834181
+    },
+    {
+        "keyword": "error",
+        "votes": 4,
+        "idf": 5.067315889834181
+    },
+    {
+        "keyword": "pc",
+        "votes": 4,
+        "idf": 5.067315889834181
+    },
+    {
+        "keyword": "release",
+        "votes": 4,
+        "idf": 4.730843653212968
+    },
+    {
+        "keyword": "alert",
+        "votes": 4,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "analysis",
+        "votes": 4,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "spoiler",
+        "votes": 4,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "match",
+        "votes": 4,
+        "idf": 4.5973122605884456
+    },
+    {
+        "keyword": "payapl",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "f",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "worked",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "work",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "incubator",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "partners",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "startup",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "gaming",
+        "votes": 3,
+        "idf": 4.5973122605884456
+    },
+    {
+        "keyword": "via",
+        "votes": 3,
+        "idf": 4.730843653212968
+    },
+    {
+        "keyword": "human",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "happening",
+        "votes": 3,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "faucet",
+        "votes": 3,
+        "idf": 3.9687036011660717
+    },
+    {
+        "keyword": "processing",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "invests",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "push",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "gocoin",
+        "votes": 2,
+        "idf": 4.730843653212968
+    },
+    {
+        "keyword": "get",
+        "votes": 2,
+        "idf": 4.730843653212968
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "contribute",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "tailored",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "berlin",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "raining",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "pink",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "power",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "generation",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "next",
+        "votes": 2,
+        "idf": 5.067315889834181
+    },
+    {
+        "keyword": "mining",
+        "votes": 2,
+        "idf": 5.067315889834181
+    },
+    {
+        "keyword": "win",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "near",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "free",
+        "votes": 2,
+        "idf": 3.3094579722818076
+    },
+    {
+        "keyword": "serv",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "bter",
+        "votes": 2,
+        "idf": 3.2755564206061263
+    },
+    {
+        "keyword": "accepting",
+        "votes": 2,
+        "idf": 3.541259586339132
+    },
+    {
+        "keyword": "btm",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "chip",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "jbs",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "today",
+        "votes": 2,
+        "idf": 5.067315889834181
+    },
+    {
+        "keyword": "perfect",
+        "votes": 2,
+        "idf": 4.5973122605884456
+    },
+    {
+        "keyword": "makes",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "friends",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "micropayments",
+        "votes": 2,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "9",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "home",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "nature",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "law",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "turbo",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "future",
+        "votes": 1,
+        "idf": 5.578141513600172
+    },
+    {
+        "keyword": "twitch",
+        "votes": 1,
+        "idf": 4.884994333040227
+    },
+    {
+        "keyword": "fam",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "sup",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "twitter",
+        "votes": 1,
+        "idf": 5.290459441148391
+    },
+    {
+        "keyword": "runner",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "version",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "released",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "innovative",
+        "votes": 1,
+        "idf": 5.983606621708336
+    },
+    {
+        "keyword": "provider",
+        "votes": 1,
+        "idf": 5.983606621708336
+    }
+]

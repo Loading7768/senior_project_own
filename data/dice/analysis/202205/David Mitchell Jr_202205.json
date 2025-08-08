@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "X_text": "Quick TA on #dogecoin price action today at 3:55pm est https://t.co/CZ0mDVmDJU",
+        "X_token": "quick, ta, dogecoin, price, action, today, est, https",
+        "X_tweet_count": 8,
+        "X_username": "David Mitchell Jr",
+        "Y_text": "Quick TA on the unusual price action of #dogecoin shorts https://t.co/0JMTChYimd",
+        "Y_token": "quick, ta, unusual, price, action, dogecoin, shorts, https",
+        "Y_tweet_count": 60,
+        "Y_username": "David Mitchell Jr",
+        "X_length": 78,
+        "Y_length": 80,
+        "Y_length_percent_of_X": 102.56,
+        "X_length_percent_of_Y": 97.5,
+        "dice_coefficient": 75.0
+    }
+]

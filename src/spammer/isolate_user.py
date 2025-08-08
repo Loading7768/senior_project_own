@@ -7,7 +7,7 @@ import re
 JSON_COIN = "dogecoin"
 COIN_TYPE = "DOGE"
 YEAR = "2025"
-MONTH = "06"
+MONTH = "07"
 
 
 def sanitize_filename(name):
@@ -55,6 +55,9 @@ for target_user in sorted(target_users):
                     filtered_tweets[JSON_COIN].append(tweet)
 
             # filtered_tweets[json_coin].extend(tweet for tweet in data[json_coin] if tweet["username"] == target_user)
+
+    if len(filtered_tweets[JSON_COIN]) == 0:
+        print(target_user)
 
     count = 0
     last_text = filtered_tweets[JSON_COIN][-1]['created_at']

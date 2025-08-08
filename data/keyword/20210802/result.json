@@ -5,12 +5,12 @@
         "idf": 4.574216545793796
     },
     {
-        "keyword": "scroll",
+        "keyword": "updates",
         "votes": 3,
         "idf": 4.979681653901961
     },
     {
-        "keyword": "updates",
+        "keyword": "scroll",
         "votes": 3,
         "idf": 4.979681653901961
     },
@@ -45,19 +45,14 @@
         "idf": 4.756538102587751
     },
     {
-        "keyword": "axs",
-        "votes": 3,
-        "idf": 4.168751437685632
-    },
-    {
         "keyword": "floki",
         "votes": 3,
         "idf": 4.168751437685632
     },
     {
-        "keyword": "cream",
-        "votes": 2,
-        "idf": 5.267363726353742
+        "keyword": "axs",
+        "votes": 3,
+        "idf": 4.168751437685632
     },
     {
         "keyword": "download",
@@ -95,6 +90,16 @@
         "idf": 5.267363726353742
     },
     {
+        "keyword": "usdt",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "binance",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
         "keyword": "years",
         "votes": 2,
         "idf": 4.979681653901961
@@ -120,17 +125,17 @@
         "idf": 5.267363726353742
     },
     {
-        "keyword": "tweeted",
+        "keyword": "45k",
         "votes": 2,
         "idf": 5.267363726353742
     },
     {
-        "keyword": "hard",
+        "keyword": "reflections",
         "votes": 2,
         "idf": 5.267363726353742
     },
     {
-        "keyword": "ogebreadoffical",
+        "keyword": "doxed",
         "votes": 2,
         "idf": 5.267363726353742
     },
@@ -145,8 +150,353 @@
         "idf": 5.267363726353742
     },
     {
-        "keyword": "chz",
+        "keyword": "ankr",
         "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "coti",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "call",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "ceo",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "pump",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 3.8810693652338513
+    },
+    {
+        "keyword": "cents",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "first",
+        "votes": 2,
+        "idf": 4.979681653901961
+    },
+    {
+        "keyword": "dogeviking",
+        "votes": 2,
+        "idf": 4.979681653901961
+    },
+    {
+        "keyword": "0x17fe0e008d388af94b4fbf25ec1810e31d4c4508",
+        "votes": 2,
+        "idf": 4.979681653901961
+    },
+    {
+        "keyword": "0xb372ea0debcc8235c2374929028284973e4f5e26",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "12k",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "70million",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "cases",
+        "votes": 2,
+        "idf": 4.979681653901961
+    },
+    {
+        "keyword": "following",
+        "votes": 2,
+        "idf": 4.756538102587751
+    },
+    {
+        "keyword": "time",
+        "votes": 2,
+        "idf": 4.063390922027805
+    },
+    {
+        "keyword": "69",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "better",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "adaption",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "retweets",
+        "votes": 2,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "cream",
+        "votes": 1,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "ice",
+        "votes": 1,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "person",
+        "votes": 1,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "mentally",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "deranged",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "fact",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "real",
+        "votes": 1,
+        "idf": 4.574216545793796
+    },
+    {
+        "keyword": "rich",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "bro",
+        "votes": 1,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "hodl",
+        "votes": 1,
+        "idf": 4.756538102587751
+    },
+    {
+        "keyword": "marketing",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "passively",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "liquidity",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "fees",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "relation",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "sense",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "invest",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "potential",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "telegram",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "dick",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "frieds",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "feg",
+        "votes": 1,
+        "idf": 4.979681653901961
+    },
+    {
+        "keyword": "look",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "projec",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "great",
+        "votes": 1,
+        "idf": 4.574216545793796
+    },
+    {
+        "keyword": "spreading",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "suddenly",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "toward",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "speaking",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "feel",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "guy",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "heirs",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "imagine",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "leaving",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "trending",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "walk",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "legit",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "reasons",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "well",
+        "votes": 1,
+        "idf": 4.979681653901961
+    },
+    {
+        "keyword": "said",
+        "votes": 1,
+        "idf": 4.979681653901961
+    },
+    {
+        "keyword": "girl",
+        "votes": 1,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "something",
+        "votes": 1,
+        "idf": 4.756538102587751
+    },
+    {
+        "keyword": "see",
+        "votes": 1,
+        "idf": 4.756538102587751
+    },
+    {
+        "keyword": "gonna",
+        "votes": 1,
+        "idf": 5.267363726353742
+    },
+    {
+        "keyword": "special",
+        "votes": 1,
+        "idf": 4.979681653901961
+    },
+    {
+        "keyword": "words",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "cause",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "energy",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "happy",
+        "votes": 1,
+        "idf": 5.672828834461906
+    },
+    {
+        "keyword": "every",
+        "votes": 1,
         "idf": 5.267363726353742
     }
 ]

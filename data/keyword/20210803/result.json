@@ -85,17 +85,17 @@
         "idf": 5.8844474717482145
     },
     {
-        "keyword": "historical",
-        "votes": 22,
-        "idf": 5.8844474717482145
-    },
-    {
         "keyword": "h",
         "votes": 22,
         "idf": 5.8844474717482145
     },
     {
         "keyword": "wiser",
+        "votes": 22,
+        "idf": 5.8844474717482145
+    },
+    {
+        "keyword": "historical",
         "votes": 22,
         "idf": 5.8844474717482145
     },
@@ -148,5 +148,355 @@
         "keyword": "project",
         "votes": 20,
         "idf": 4.830286945650939
+    },
+    {
+        "keyword": "time",
+        "votes": 19,
+        "idf": 4.689208347391034
+    },
+    {
+        "keyword": "far",
+        "votes": 19,
+        "idf": 5.436422749221255
+    },
+    {
+        "keyword": "go",
+        "votes": 19,
+        "idf": 4.613222440413112
+    },
+    {
+        "keyword": "entry",
+        "votes": 19,
+        "idf": 5.841887857329419
+    },
+    {
+        "keyword": "author",
+        "votes": 18,
+        "idf": 6.075502708510924
+    },
+    {
+        "keyword": "check",
+        "votes": 18,
+        "idf": 4.531305317945225
+    },
+    {
+        "keyword": "money",
+        "votes": 17,
+        "idf": 4.925597125455264
+    },
+    {
+        "keyword": "1",
+        "votes": 17,
+        "idf": 3.6308699578608636
+    },
+    {
+        "keyword": "tweets",
+        "votes": 17,
+        "idf": 6.024209414123374
+    },
+    {
+        "keyword": "pump",
+        "votes": 17,
+        "idf": 5.585954483192219
+    },
+    {
+        "keyword": "kiyosaki",
+        "votes": 17,
+        "idf": 6.075502708510924
+    },
+    {
+        "keyword": "robert",
+        "votes": 17,
+        "idf": 6.075502708510924
+    },
+    {
+        "keyword": "2021",
+        "votes": 16,
+        "idf": 4.876806961285832
+    },
+    {
+        "keyword": "research",
+        "votes": 16,
+        "idf": 5.841887857329419
+    },
+    {
+        "keyword": "meme",
+        "votes": 16,
+        "idf": 5.088116054953039
+    },
+    {
+        "keyword": "percent",
+        "votes": 16,
+        "idf": 5.841887857329419
+    },
+    {
+        "keyword": "analysis",
+        "votes": 16,
+        "idf": 5.554205784877638
+    },
+    {
+        "keyword": "offers",
+        "votes": 15,
+        "idf": 6.075502708510924
+    },
+    {
+        "keyword": "crashes",
+        "votes": 15,
+        "idf": 6.075502708510924
+    },
+    {
+        "keyword": "august",
+        "votes": 15,
+        "idf": 4.715876594473195
+    },
+    {
+        "keyword": "one",
+        "votes": 14,
+        "idf": 3.8104555348359437
+    },
+    {
+        "keyword": "still",
+        "votes": 14,
+        "idf": 4.942404243771645
+    },
+    {
+        "keyword": "12th",
+        "votes": 14,
+        "idf": 6.3118914865751545
+    },
+    {
+        "keyword": "accept",
+        "votes": 13,
+        "idf": 5.436422749221255
+    },
+    {
+        "keyword": "nice",
+        "votes": 13,
+        "idf": 6.1295699297812
+    },
+    {
+        "keyword": "surges",
+        "votes": 13,
+        "idf": 6.3118914865751545
+    },
+    {
+        "keyword": "yes",
+        "votes": 13,
+        "idf": 5.801065862809164
+    },
+    {
+        "keyword": "0",
+        "votes": 12,
+        "idf": 6.186728343621149
+    },
+    {
+        "keyword": "great",
+        "votes": 12,
+        "idf": 5.128121389566738
+    },
+    {
+        "keyword": "tesla",
+        "votes": 12,
+        "idf": 5.464593626187951
+    },
+    {
+        "keyword": "future",
+        "votes": 12,
+        "idf": 4.942404243771645
+    },
+    {
+        "keyword": "remain",
+        "votes": 12,
+        "idf": 6.2473529654375834
+    },
+    {
+        "keyword": "sideways",
+        "votes": 12,
+        "idf": 6.454992330215828
+    },
+    {
+        "keyword": "soon",
+        "votes": 12,
+        "idf": 5.258741571983802
+    },
+    {
+        "keyword": "video",
+        "votes": 12,
+        "idf": 5.801065862809164
+    },
+    {
+        "keyword": "mistershaka",
+        "votes": 12,
+        "idf": 6.454992330215828
+    },
+    {
+        "keyword": "surprisingly",
+        "votes": 12,
+        "idf": 6.454992330215828
+    },
+    {
+        "keyword": "bright",
+        "votes": 12,
+        "idf": 6.1295699297812
+    },
+    {
+        "keyword": "come",
+        "votes": 11,
+        "idf": 5.3823555279509785
+    },
+    {
+        "keyword": "mars",
+        "votes": 11,
+        "idf": 6.1295699297812
+    },
+    {
+        "keyword": "range",
+        "votes": 11,
+        "idf": 6.2473529654375834
+    },
+    {
+        "keyword": "get",
+        "votes": 11,
+        "idf": 3.9895037662849293
+    },
+    {
+        "keyword": "back",
+        "votes": 11,
+        "idf": 5.436422749221255
+    },
+    {
+        "keyword": "news",
+        "votes": 10,
+        "idf": 5.3823555279509785
+    },
+    {
+        "keyword": "green",
+        "votes": 10,
+        "idf": 6.024209414123374
+    },
+    {
+        "keyword": "going",
+        "votes": 10,
+        "idf": 4.845554417781727
+    },
+    {
+        "keyword": "awesome",
+        "votes": 10,
+        "idf": 6.380884358062106
+    },
+    {
+        "keyword": "waiting",
+        "votes": 10,
+        "idf": 5.841887857329419
+    },
+    {
+        "keyword": "enthusiast",
+        "votes": 10,
+        "idf": 6.075502708510924
+    },
+    {
+        "keyword": "holding",
+        "votes": 10,
+        "idf": 5.975419249953942
+    },
+    {
+        "keyword": "ether",
+        "votes": 10,
+        "idf": 6.2473529654375834
+    },
+    {
+        "keyword": "need",
+        "votes": 9,
+        "idf": 5.0309576411130905
+    },
+    {
+        "keyword": "song",
+        "votes": 9,
+        "idf": 6.3118914865751545
+    },
+    {
+        "keyword": "someone",
+        "votes": 9,
+        "idf": 6.380884358062106
+    },
+    {
+        "keyword": "currency",
+        "votes": 9,
+        "idf": 5.554205784877638
+    },
+    {
+        "keyword": "vacation",
+        "votes": 9,
+        "idf": 6.622046414878994
+    },
+    {
+        "keyword": "baby",
+        "votes": 9,
+        "idf": 4.167911423757747
+    },
+    {
+        "keyword": "performance",
+        "votes": 9,
+        "idf": 6.622046414878994
+    },
+    {
+        "keyword": "r",
+        "votes": 9,
+        "idf": 6.1295699297812
+    },
+    {
+        "keyword": "03",
+        "votes": 9,
+        "idf": 6.454992330215828
+    },
+    {
+        "keyword": "markets",
+        "votes": 9,
+        "idf": 6.380884358062106
+    },
+    {
+        "keyword": "u",
+        "votes": 9,
+        "idf": 5.841887857329419
+    },
+    {
+        "keyword": "done",
+        "votes": 9,
+        "idf": 6.1295699297812
+    },
+    {
+        "keyword": "wow",
+        "votes": 9,
+        "idf": 5.436422749221255
+    },
+    {
+        "keyword": "hodl",
+        "votes": 9,
+        "idf": 6.024209414123374
+    },
+    {
+        "keyword": "know",
+        "votes": 9,
+        "idf": 5.107918682249219
+    },
+    {
+        "keyword": "possible",
+        "votes": 9,
+        "idf": 6.2473529654375834
+    },
+    {
+        "keyword": "coming",
+        "votes": 9,
+        "idf": 5.523434126210884
+    },
+    {
+        "keyword": "polkadot",
+        "votes": 9,
+        "idf": 6.535035037889364
+    },
+    {
+        "keyword": "dot",
+        "votes": 9,
+        "idf": 6.535035037889364
     }
 ]

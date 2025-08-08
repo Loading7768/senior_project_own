@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "advice",
+        "votes": 74,
+        "idf": 3.4135299869457727
+    },
+    {
+        "keyword": "ic",
+        "votes": 74,
+        "idf": 3.4135299869457727
+    },
+    {
+        "keyword": "another",
+        "votes": 40,
+        "idf": 3.859817089574192
+    },
+    {
+        "keyword": "day",
+        "votes": 39,
+        "idf": 3.8391978023714564
+    },
+    {
+        "keyword": "update",
+        "votes": 36,
+        "idf": 3.799192467757757
+    },
+    {
+        "keyword": "namecoin",
+        "votes": 28,
+        "idf": 4.2970308959969366
+    },
+    {
+        "keyword": "keepkey",
+        "votes": 27,
+        "idf": 4.3988135903068795
+    },
+    {
+        "keyword": "hardware",
+        "votes": 27,
+        "idf": 4.3988135903068795
+    },
+    {
+        "keyword": "price",
+        "votes": 24,
+        "idf": 3.7056664097469336
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 24,
+        "idf": 4.512142275613883
+    },
+    {
+        "keyword": "approx",
+        "votes": 24,
+        "idf": 4.512142275613883
+    },
+    {
+        "keyword": "1m",
+        "votes": 24,
+        "idf": 4.512142275613883
+    },
+    {
+        "keyword": "losses",
+        "votes": 21,
+        "idf": 4.5529642701341375
+    },
+    {
+        "keyword": "03",
+        "votes": 19,
+        "idf": 4.68649566275866
+    },
+    {
+        "keyword": "recovers",
+        "votes": 19,
+        "idf": 4.512142275613883
+    },
+    {
+        "keyword": "percent",
+        "votes": 18,
+        "idf": 4.435181234477755
+    },
+    {
+        "keyword": "jeff",
+        "votes": 17,
+        "idf": 4.7352858269280915
+    },
+    {
+        "keyword": "4amazon",
+        "votes": 17,
+        "idf": 4.7352858269280915
+    },
+    {
+        "keyword": "sign",
+        "votes": 14,
+        "idf": 4.840646342585918
+    },
+    {
+        "keyword": "1",
+        "votes": 13,
+        "idf": 3.4969115958848236
+    },
+    {
+        "keyword": "accepted",
+        "votes": 12,
+        "idf": 5.022967899379873
+    },
+    {
+        "keyword": "expecting",
+        "votes": 11,
+        "idf": 5.246111450694083
+    },
+    {
+        "keyword": "strong",
+        "votes": 11,
+        "idf": 5.022967899379873
+    },
+    {
+        "keyword": "wants",
+        "votes": 11,
+        "idf": 4.840646342585918
+    },
+    {
+        "keyword": "wears",
+        "votes": 11,
+        "idf": 4.958429378242302
+    },
+    {
+        "keyword": "sentiment",
+        "votes": 11,
+        "idf": 4.897804756425867
+    },
+    {
+        "keyword": "amazon",
+        "votes": 11,
+        "idf": 4.958429378242302
+    },
+    {
+        "keyword": "easy",
+        "votes": 9,
+        "idf": 5.1660687430205465
+    },
+    {
+        "keyword": "mkt",
+        "votes": 9,
+        "idf": 5.428433007488037
+    },
+    {
+        "keyword": "35",
+        "votes": 9,
+        "idf": 4.840646342585918
+    },
+    {
+        "keyword": "11",
+        "votes": 8,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "12",
+        "votes": 8,
+        "idf": 5.428433007488037
+    },
+    {
+        "keyword": "jumps",
+        "votes": 8,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "test",
+        "votes": 8,
+        "idf": 4.958429378242302
+    },
+    {
+        "keyword": "7",
+        "votes": 7,
+        "idf": 5.6515765588022475
+    },
+    {
+        "keyword": "one",
+        "votes": 7,
+        "idf": 4.897804756425867
+    },
+    {
+        "keyword": "cap",
+        "votes": 7,
+        "idf": 5.022967899379873
+    },
+    {
+        "keyword": "skyrockets",
+        "votes": 7,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "solidly",
+        "votes": 7,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "114",
+        "votes": 7,
+        "idf": 5.6515765588022475
+    },
+    {
+        "keyword": "markets",
+        "votes": 7,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "returns",
+        "votes": 7,
+        "idf": 4.840646342585918
+    },
+    {
+        "keyword": "deflates",
+        "votes": 6,
+        "idf": 5.785107951426769
+    },
+    {
+        "keyword": "payi",
+        "votes": 6,
+        "idf": 5.785107951426769
+    },
+    {
+        "keyword": "biggest",
+        "votes": 6,
+        "idf": 4.7352858269280915
+    },
+    {
+        "keyword": "chainlink",
+        "votes": 6,
+        "idf": 5.6515765588022475
+    },
+    {
+        "keyword": "cryptovest",
+        "votes": 5,
+        "idf": 5.785107951426769
+    },
+    {
+        "keyword": "earncrypto",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "myst",
+        "votes": 5,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "coins",
+        "votes": 5,
+        "idf": 4.5529642701341375
+    },
+    {
+        "keyword": "401k",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "contest",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "celebration",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "excuse",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "lack",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "packdoge",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "chat",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "games",
+        "votes": 5,
+        "idf": 5.6515765588022475
+    },
+    {
+        "keyword": "blk",
+        "votes": 5,
+        "idf": 5.6515765588022475
+    },
+    {
+        "keyword": "moon",
+        "votes": 5,
+        "idf": 4.958429378242302
+    },
+    {
+        "keyword": "buy",
+        "votes": 5,
+        "idf": 4.897804756425867
+    },
+    {
+        "keyword": "programonks",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "coinmarketapp",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "android",
+        "votes": 5,
+        "idf": 5.785107951426769
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 5,
+        "idf": 5.428433007488037
+    },
+    {
+        "keyword": "week",
+        "votes": 5,
+        "idf": 5.091960770866824
+    },
+    {
+        "keyword": "performers",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "drops",
+        "votes": 5,
+        "idf": 4.639975647123768
+    },
+    {
+        "keyword": "last",
+        "votes": 5,
+        "idf": 4.147499162025973
+    },
+    {
+        "keyword": "ttu",
+        "votes": 5,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "claims",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "coinpot",
+        "votes": 5,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "link",
+        "votes": 5,
+        "idf": 4.5529642701341375
+    },
+    {
+        "keyword": "eobot",
+        "votes": 4,
+        "idf": 6.121580188047982
+    },
+    {
+        "keyword": "2018",
+        "votes": 4,
+        "idf": 5.1660687430205465
+    },
+    {
+        "keyword": "dcn",
+        "votes": 4,
+        "idf": 5.785107951426769
+    },
+    {
+        "keyword": "trade",
+        "votes": 4,
+        "idf": 5.1660687430205465
+    },
+    {
+        "keyword": "highest",
+        "votes": 4,
+        "idf": 5.785107951426769
+    },
+    {
+        "keyword": "strat",
+        "votes": 4,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "method",
+        "votes": 4,
+        "idf": 4.7352858269280915
+    },
+    {
+        "keyword": "problem",
+        "votes": 4,
+        "idf": 5.785107951426769
+    },
+    {
+        "keyword": "invest",
+        "votes": 4,
+        "idf": 5.6515765588022475
+    },
+    {
+        "keyword": "free",
+        "votes": 4,
+        "idf": 4.265282197682357
+    },
+    {
+        "keyword": "headed",
+        "votes": 4,
+        "idf": 5.939258631254028
+    },
+    {
+        "keyword": "yearly",
+        "votes": 4,
+        "idf": 6.121580188047982
+    },
+    {
+        "keyword": "coin",
+        "votes": 4,
+        "idf": 4.093431940755697
+    },
+    {
+        "keyword": "rt",
+        "votes": 4,
+        "idf": 6.121580188047982
+    },
+    {
+        "keyword": "holo",
+        "votes": 4,
+        "idf": 5.333122827683712
+    },
+    {
+        "keyword": "5",
+        "votes": 4,
+        "idf": 4.840646342585918
+    },
+    {
+        "keyword": "xin",
+        "votes": 4,
+        "idf": 5.785107951426769
+    },
+    {
+        "keyword": "wth",
+        "votes": 4,
+        "idf": 6.121580188047982
+    },
+    {
+        "keyword": "bitcoindark",
+        "votes": 4,
+        "idf": 6.121580188047982
+    },
+    {
+        "keyword": "02",
+        "votes": 4,
+        "idf": 6.121580188047982
+    },
+    {
+        "keyword": "waves",
+        "votes": 3,
+        "idf": 5.533793523145864
+    },
+    {
+        "keyword": "email",
+        "votes": 3,
+        "idf": 6.121580188047982
+    },
+    {
+        "keyword": "bitmex",
+        "votes": 3,
+        "idf": 6.344723739362192
+    },
+    {
+        "keyword": "big",
+        "votes": 3,
+        "idf": 5.6515765588022475
+    },
+    {
+        "keyword": "world",
+        "votes": 3,
+        "idf": 6.344723739362192
+    },
+    {
+        "keyword": "2",
+        "votes": 3,
+        "idf": 4.329820718819928
+    },
+    {
+        "keyword": "follow",
+        "votes": 3,
+        "idf": 5.939258631254028
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "1",
+        "votes": 24,
+        "idf": 3.5019179956145368
+    },
+    {
+        "keyword": "5000",
+        "votes": 23,
+        "idf": 3.8094026953624978
+    },
+    {
+        "keyword": "tops",
+        "votes": 23,
+        "idf": 3.8094026953624978
+    },
+    {
+        "keyword": "09",
+        "votes": 20,
+        "idf": 3.770181982209216
+    },
+    {
+        "keyword": "9",
+        "votes": 19,
+        "idf": 3.8502246898827526
+    },
+    {
+        "keyword": "tue",
+        "votes": 18,
+        "idf": 4.083839541064258
+    },
+    {
+        "keyword": "bears",
+        "votes": 18,
+        "idf": 4.083839541064258
+    },
+    {
+        "keyword": "charles",
+        "votes": 18,
+        "idf": 3.770181982209216
+    },
+    {
+        "keyword": "14",
+        "votes": 16,
+        "idf": 4.195065176174483
+    },
+    {
+        "keyword": "loser",
+        "votes": 15,
+        "idf": 4.255689797990917
+    },
+    {
+        "keyword": "control",
+        "votes": 14,
+        "idf": 4.083839541064258
+    },
+    {
+        "keyword": "greatest",
+        "votes": 13,
+        "idf": 4.255689797990917
+    },
+    {
+        "keyword": "regain",
+        "votes": 12,
+        "idf": 4.083839541064258
+    },
+    {
+        "keyword": "5",
+        "votes": 10,
+        "idf": 4.083839541064258
+    },
+    {
+        "keyword": "6",
+        "votes": 10,
+        "idf": 4.255689797990917
+    },
+    {
+        "keyword": "positive",
+        "votes": 8,
+        "idf": 4.83105394289448
+    },
+    {
+        "keyword": "13",
+        "votes": 8,
+        "idf": 4.83105394289448
+    },
+    {
+        "keyword": "vestchain",
+        "votes": 7,
+        "idf": 4.83105394289448
+    },
+    {
+        "keyword": "negative",
+        "votes": 7,
+        "idf": 4.948836978550863
+    },
+    {
+        "keyword": "fortune",
+        "votes": 6,
+        "idf": 4.948836978550863
+    },
+    {
+        "keyword": "lows",
+        "votes": 5,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "highs",
+        "votes": 5,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "reach",
+        "votes": 5,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "mentions",
+        "votes": 5,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "twitter",
+        "votes": 5,
+        "idf": 5.082368371175385
+    },
+    {
+        "keyword": "maximine",
+        "votes": 5,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "waykichain",
+        "votes": 5,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "mon",
+        "votes": 5,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "8",
+        "votes": 5,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "via",
+        "votes": 4,
+        "idf": 4.543371870442698
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.948836978550863
+    },
+    {
+        "keyword": "btm",
+        "votes": 4,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "coindesk",
+        "votes": 4,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "fav",
+        "votes": 4,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "calls",
+        "votes": 4,
+        "idf": 5.082368371175385
+    },
+    {
+        "keyword": "\u0180",
+        "votes": 4,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "demand",
+        "votes": 4,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "charts",
+        "votes": 4,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "nonsense",
+        "votes": 4,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 4,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "true",
+        "votes": 4,
+        "idf": 4.463329162769162
+    },
+    {
+        "keyword": "08",
+        "votes": 4,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "updates",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "slow",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "rep",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "30",
+        "votes": 3,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "24",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "cardano",
+        "votes": 3,
+        "idf": 5.082368371175385
+    },
+    {
+        "keyword": "jumps",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "drops",
+        "votes": 3,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "joke",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "course",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "reverses",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "little",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "kucoin",
+        "votes": 3,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "perdedoras",
+        "votes": 3,
+        "idf": 5.236519051002643
+    },
+    {
+        "keyword": "lbc",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "omni",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "snt",
+        "votes": 3,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "world",
+        "votes": 3,
+        "idf": 4.725693427236653
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 3,
+        "idf": 4.195065176174483
+    },
+    {
+        "keyword": "repo",
+        "votes": 3,
+        "idf": 4.083839541064258
+    },
+    {
+        "keyword": "7",
+        "votes": 3,
+        "idf": 5.082368371175385
+    },
+    {
+        "keyword": "iost",
+        "votes": 3,
+        "idf": 4.948836978550863
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "go",
+        "votes": 2,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "writing",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "previous",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "lists",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "huobi",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "2014",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "mkt",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "cap",
+        "votes": 2,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "quarry",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "50",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "gonna",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "ark",
+        "votes": 2,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "horon",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "ledger",
+        "votes": 2,
+        "idf": 3.627081138568543
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "publications",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "hot",
+        "votes": 2,
+        "idf": 4.948836978550863
+    },
+    {
+        "keyword": "services",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "trade",
+        "votes": 2,
+        "idf": 4.463329162769162
+    },
+    {
+        "keyword": "etp",
+        "votes": 2,
+        "idf": 4.83105394289448
+    },
+    {
+        "keyword": "hours",
+        "votes": 2,
+        "idf": 5.082368371175385
+    },
+    {
+        "keyword": "free",
+        "votes": 2,
+        "idf": 4.320228319128488
+    },
+    {
+        "keyword": "decide",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "hr",
+        "votes": 2,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "gibraltar",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "merkel",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "resigns",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "soars",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "classic",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "aurora",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "loopring",
+        "votes": 2,
+        "idf": 4.83105394289448
+    },
+    {
+        "keyword": "faucet",
+        "votes": 2,
+        "idf": 5.641984159110808
+    },
+    {
+        "keyword": "58",
+        "votes": 2,
+        "idf": 5.929666231562589
+    },
+    {
+        "keyword": "gold",
+        "votes": 2,
+        "idf": 5.418840607796598
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 4.389221190615439
+    }
+]

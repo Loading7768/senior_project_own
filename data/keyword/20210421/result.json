@@ -15,7 +15,7 @@
         "idf": 4.916663384984648
     },
     {
-        "keyword": "announcement",
+        "keyword": "group",
         "votes": 36,
         "idf": 4.89367386675995
     },
@@ -148,5 +148,355 @@
         "keyword": "hold",
         "votes": 10,
         "idf": 5.15150297606205
+    },
+    {
+        "keyword": "want",
+        "votes": 10,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "safemoon",
+        "votes": 10,
+        "idf": 4.964291433973903
+    },
+    {
+        "keyword": "add",
+        "votes": 9,
+        "idf": 6.2799682278798405
+    },
+    {
+        "keyword": "see",
+        "votes": 9,
+        "idf": 4.617420490131791
+    },
+    {
+        "keyword": "hours",
+        "votes": 9,
+        "idf": 5.633341062954788
+    },
+    {
+        "keyword": "new",
+        "votes": 9,
+        "idf": 4.4437569960809515
+    },
+    {
+        "keyword": "dip",
+        "votes": 9,
+        "idf": 5.73342452151177
+    },
+    {
+        "keyword": "tweet",
+        "votes": 9,
+        "idf": 5.243876296193064
+    },
+    {
+        "keyword": "wow",
+        "votes": 8,
+        "idf": 5.969813299576001
+    },
+    {
+        "keyword": "like",
+        "votes": 8,
+        "idf": 3.941665052283715
+    },
+    {
+        "keyword": "hit",
+        "votes": 8,
+        "idf": 5.419766962656729
+    },
+    {
+        "keyword": "signal",
+        "votes": 8,
+        "idf": 6.480638923341991
+    },
+    {
+        "keyword": "announced",
+        "votes": 8,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "thank",
+        "votes": 8,
+        "idf": 5.276666119016055
+    },
+    {
+        "keyword": "yet",
+        "votes": 8,
+        "idf": 5.90527477843843
+    },
+    {
+        "keyword": "make",
+        "votes": 8,
+        "idf": 4.518980417318539
+    },
+    {
+        "keyword": "today",
+        "votes": 8,
+        "idf": 5.212127597878484
+    },
+    {
+        "keyword": "coin",
+        "votes": 8,
+        "idf": 4.488208758651785
+    },
+    {
+        "keyword": "waiting",
+        "votes": 8,
+        "idf": 5.90527477843843
+    },
+    {
+        "keyword": "take",
+        "votes": 8,
+        "idf": 5.066945588033986
+    },
+    {
+        "keyword": "bought",
+        "votes": 8,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "hodl",
+        "votes": 7,
+        "idf": 5.68213122712422
+    },
+    {
+        "keyword": "help",
+        "votes": 7,
+        "idf": 5.345658990503007
+    },
+    {
+        "keyword": "r",
+        "votes": 7,
+        "idf": 6.375278407684165
+    },
+    {
+        "keyword": "retweet",
+        "votes": 7,
+        "idf": 6.038806171062952
+    },
+    {
+        "keyword": "think",
+        "votes": 7,
+        "idf": 4.634812232843661
+    },
+    {
+        "keyword": "latoken",
+        "votes": 7,
+        "idf": 6.480638923341991
+    },
+    {
+        "keyword": "sold",
+        "votes": 7,
+        "idf": 5.68213122712422
+    },
+    {
+        "keyword": "right",
+        "votes": 7,
+        "idf": 5.212127597878484
+    },
+    {
+        "keyword": "keep",
+        "votes": 7,
+        "idf": 5.212127597878484
+    },
+    {
+        "keyword": "soon",
+        "votes": 7,
+        "idf": 5.586821047319895
+    },
+    {
+        "keyword": "invested",
+        "votes": 7,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "project",
+        "votes": 7,
+        "idf": 5.014301854548564
+    },
+    {
+        "keyword": "one",
+        "votes": 7,
+        "idf": 4.488208758651785
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 7,
+        "idf": 4.458355795502104
+    },
+    {
+        "keyword": "world",
+        "votes": 7,
+        "idf": 5.586821047319895
+    },
+    {
+        "keyword": "wait",
+        "votes": 7,
+        "idf": 6.038806171062952
+    },
+    {
+        "keyword": "coming",
+        "votes": 7,
+        "idf": 5.633341062954788
+    },
+    {
+        "keyword": "baby",
+        "votes": 7,
+        "idf": 6.2799682278798405
+    },
+    {
+        "keyword": "invest",
+        "votes": 7,
+        "idf": 5.45898767581001
+    },
+    {
+        "keyword": "joke",
+        "votes": 7,
+        "idf": 5.419766962656729
+    },
+    {
+        "keyword": "little",
+        "votes": 7,
+        "idf": 5.68213122712422
+    },
+    {
+        "keyword": "ready",
+        "votes": 7,
+        "idf": 6.038806171062952
+    },
+    {
+        "keyword": "50",
+        "votes": 6,
+        "idf": 5.787491742782046
+    },
+    {
+        "keyword": "2021",
+        "votes": 6,
+        "idf": 5.633341062954788
+    },
+    {
+        "keyword": "life",
+        "votes": 6,
+        "idf": 5.68213122712422
+    },
+    {
+        "keyword": "news",
+        "votes": 6,
+        "idf": 5.844650156621995
+    },
+    {
+        "keyword": "mine",
+        "votes": 6,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "u",
+        "votes": 6,
+        "idf": 5.73342452151177
+    },
+    {
+        "keyword": "know",
+        "votes": 6,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "threat",
+        "votes": 6,
+        "idf": 6.731953351622898
+    },
+    {
+        "keyword": "dollars",
+        "votes": 6,
+        "idf": 6.598421958998375
+    },
+    {
+        "keyword": "another",
+        "votes": 6,
+        "idf": 5.345658990503007
+    },
+    {
+        "keyword": "got",
+        "votes": 6,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "getting",
+        "votes": 6,
+        "idf": 5.844650156621995
+    },
+    {
+        "keyword": "stop",
+        "votes": 6,
+        "idf": 5.90527477843843
+    },
+    {
+        "keyword": "ago",
+        "votes": 6,
+        "idf": 5.73342452151177
+    },
+    {
+        "keyword": "favorite",
+        "votes": 6,
+        "idf": 6.112914143216674
+    },
+    {
+        "keyword": "month",
+        "votes": 6,
+        "idf": 6.19295685089021
+    },
+    {
+        "keyword": "millionaire",
+        "votes": 6,
+        "idf": 6.375278407684165
+    },
+    {
+        "keyword": "crypto",
+        "votes": 6,
+        "idf": 4.415183623636896
+    },
+    {
+        "keyword": "much",
+        "votes": 6,
+        "idf": 4.67053031544574
+    },
+    {
+        "keyword": "come",
+        "votes": 6,
+        "idf": 5.419766962656729
+    },
+    {
+        "keyword": "forget",
+        "votes": 6,
+        "idf": 6.598421958998375
+    },
+    {
+        "keyword": "420",
+        "votes": 6,
+        "idf": 6.480638923341991
+    },
+    {
+        "keyword": "vindicated",
+        "votes": 6,
+        "idf": 6.598421958998375
+    },
+    {
+        "keyword": "put",
+        "votes": 6,
+        "idf": 5.243876296193064
+    },
+    {
+        "keyword": "twitter",
+        "votes": 6,
+        "idf": 5.382026634673881
+    },
+    {
+        "keyword": "accepting",
+        "votes": 6,
+        "idf": 5.68213122712422
+    },
+    {
+        "keyword": "20",
+        "votes": 6,
+        "idf": 6.2799682278798405
     }
 ]

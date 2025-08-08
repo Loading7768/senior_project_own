@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "coffee",
+        "votes": 30,
+        "idf": 3.207274913189721
+    },
+    {
+        "keyword": "cup",
+        "votes": 28,
+        "idf": 3.17742195004004
+    },
+    {
+        "keyword": "decreased",
+        "votes": 22,
+        "idf": 3.5682882587270512
+    },
+    {
+        "keyword": "0",
+        "votes": 22,
+        "idf": 3.5257286443082556
+    },
+    {
+        "keyword": "increased",
+        "votes": 21,
+        "idf": 3.6127400212978853
+    },
+    {
+        "keyword": "7",
+        "votes": 21,
+        "idf": 3.6127400212978853
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 20,
+        "idf": 3.371577964480997
+    },
+    {
+        "keyword": "8",
+        "votes": 20,
+        "idf": 3.6127400212978853
+    },
+    {
+        "keyword": "hijacker",
+        "votes": 19,
+        "idf": 3.17742195004004
+    },
+    {
+        "keyword": "9",
+        "votes": 17,
+        "idf": 3.8134107167600364
+    },
+    {
+        "keyword": "6",
+        "votes": 15,
+        "idf": 3.870569130599985
+    },
+    {
+        "keyword": "28",
+        "votes": 11,
+        "idf": 3.9311937524164198
+    },
+    {
+        "keyword": "83000",
+        "votes": 7,
+        "idf": 4.624340932976365
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 7,
+        "idf": 3.7593434954897607
+    },
+    {
+        "keyword": "591",
+        "votes": 6,
+        "idf": 4.7578723256008875
+    },
+    {
+        "keyword": "100",
+        "votes": 6,
+        "idf": 4.7578723256008875
+    },
+    {
+        "keyword": "average",
+        "votes": 5,
+        "idf": 3.371577964480997
+    },
+    {
+        "keyword": "5",
+        "votes": 5,
+        "idf": 4.624340932976365
+    },
+    {
+        "keyword": "592",
+        "votes": 5,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "keep",
+        "votes": 5,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "coins",
+        "votes": 5,
+        "idf": 4.7578723256008875
+    },
+    {
+        "keyword": "partners",
+        "votes": 5,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "buy",
+        "votes": 5,
+        "idf": 4.30588720185783
+    },
+    {
+        "keyword": "25",
+        "votes": 5,
+        "idf": 4.7578723256008875
+    },
+    {
+        "keyword": "31",
+        "votes": 5,
+        "idf": 4.7578723256008875
+    },
+    {
+        "keyword": "solution",
+        "votes": 4,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "might",
+        "votes": 4,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "sinking",
+        "votes": 4,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "error",
+        "votes": 4,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "incubator",
+        "votes": 4,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "startup",
+        "votes": 4,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "wow",
+        "votes": 4,
+        "idf": 4.506557897319982
+    },
+    {
+        "keyword": "593",
+        "votes": 4,
+        "idf": 5.0943445622221
+    },
+    {
+        "keyword": "27",
+        "votes": 3,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "bans",
+        "votes": 3,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "ecuador",
+        "votes": 3,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "decline",
+        "votes": 3,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "via",
+        "votes": 3,
+        "idf": 4.30588720185783
+    },
+    {
+        "keyword": "590",
+        "votes": 3,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "588",
+        "votes": 3,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "77",
+        "votes": 3,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "89",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "42",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "adopts",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "41",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "07",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "yes",
+        "votes": 2,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "2",
+        "votes": 2,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "cloud",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "know",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "miner",
+        "votes": 2,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 4.912023005428146
+    },
+    {
+        "keyword": "5881",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "take",
+        "votes": 2,
+        "idf": 4.7578723256008875
+    },
+    {
+        "keyword": "lists",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "tmb",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "cannot",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "think",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "talk",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "christian",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "aaron",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "5784",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "incredible",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "spin",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "wheel",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "seeks",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "dives",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "65",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "101",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "genesis",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "tweet",
+        "votes": 2,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "anything",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "online",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "hard",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "chase",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "posts",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "getmotivated",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "heaven",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "new",
+        "votes": 2,
+        "idf": 4.7578723256008875
+    },
+    {
+        "keyword": "things",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "tell",
+        "votes": 2,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "payments",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "paid",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "darkcoin",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "dark",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "drk",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "5m",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "fedoracoin",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "000",
+        "votes": 2,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "world",
+        "votes": 2,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "impact",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "association",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "unwanted",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "accepted",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "start",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "signal",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "amaze",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "hack",
+        "votes": 2,
+        "idf": 5.605170185988092
+    },
+    {
+        "keyword": "r",
+        "votes": 2,
+        "idf": 4.624340932976365
+    }
+]

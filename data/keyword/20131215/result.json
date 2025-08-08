@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "cute",
+        "votes": 13,
+        "idf": 3.849880396541428
+    },
+    {
+        "keyword": "dog",
+        "votes": 13,
+        "idf": 3.716349003916905
+    },
+    {
+        "keyword": "currency",
+        "votes": 10,
+        "idf": 3.716349003916905
+    },
+    {
+        "keyword": "gives",
+        "votes": 7,
+        "idf": 4.291713148820467
+    },
+    {
+        "keyword": "faucets",
+        "votes": 5,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "coin",
+        "votes": 4,
+        "idf": 4.004031076368686
+    },
+    {
+        "keyword": "doge",
+        "votes": 4,
+        "idf": 3.310883895808741
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 4,
+        "idf": 4.543027577101373
+    },
+    {
+        "keyword": "check",
+        "votes": 4,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "free",
+        "votes": 4,
+        "idf": 4.291713148820467
+    },
+    {
+        "keyword": "many",
+        "votes": 4,
+        "idf": 3.65572438210047
+    },
+    {
+        "keyword": "doges",
+        "votes": 4,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 3,
+        "idf": 4.004031076368686
+    },
+    {
+        "keyword": "1",
+        "votes": 3,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "dgc",
+        "votes": 3,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "wants",
+        "votes": 3,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "get",
+        "votes": 3,
+        "idf": 4.186352633162641
+    },
+    {
+        "keyword": "mining",
+        "votes": 3,
+        "idf": 3.9239883686951496
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "thx",
+        "votes": 3,
+        "idf": 4.291713148820467
+    },
+    {
+        "keyword": "love",
+        "votes": 3,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "crypto",
+        "votes": 3,
+        "idf": 4.186352633162641
+    },
+    {
+        "keyword": "real",
+        "votes": 3,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "value",
+        "votes": 3,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "mine",
+        "votes": 3,
+        "idf": 4.186352633162641
+    },
+    {
+        "keyword": "treats",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "purchase",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "coming",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "little",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "someone",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "go",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "joke",
+        "votes": 2,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "live",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "million",
+        "votes": 2,
+        "idf": 4.879499813722585
+    },
+    {
+        "keyword": "500k",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 4.879499813722585
+    },
+    {
+        "keyword": "send",
+        "votes": 2,
+        "idf": 4.879499813722585
+    },
+    {
+        "keyword": "made",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "namecoin",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 2,
+        "idf": 4.186352633162641
+    },
+    {
+        "keyword": "sell",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "way",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "future",
+        "votes": 2,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "much",
+        "votes": 2,
+        "idf": 3.3534435102275366
+    },
+    {
+        "keyword": "biggest",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "scryptcoin",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "force",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "pics",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "new",
+        "votes": 2,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "btc",
+        "votes": 2,
+        "idf": 4.879499813722585
+    },
+    {
+        "keyword": "really",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "monies",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "rich",
+        "votes": 2,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "thing",
+        "votes": 2,
+        "idf": 4.879499813722585
+    },
+    {
+        "keyword": "network",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "community",
+        "votes": 2,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "better",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "offer",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 4.291713148820467
+    },
+    {
+        "keyword": "investing",
+        "votes": 2,
+        "idf": 4.879499813722585
+    },
+    {
+        "keyword": "pretty",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 4.879499813722585
+    },
+    {
+        "keyword": "walk",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "away",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "sleeping",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "invest",
+        "votes": 2,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "fuck",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "internet",
+        "votes": 2,
+        "idf": 4.4094961844768505
+    },
+    {
+        "keyword": "2014",
+        "votes": 2,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "exchange",
+        "votes": 2,
+        "idf": 5.102643365036796
+    },
+    {
+        "keyword": "happen",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "lol",
+        "votes": 2,
+        "idf": 4.697178256928631
+    },
+    {
+        "keyword": "life",
+        "votes": 2,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "adoption",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "w",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "speed",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "5seqsjndwapnlddtea4zzzcut",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "dafpkbyba",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "later",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "keep",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "moving",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "accounts",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "mean",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "losing",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "funny",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "piece",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "explain",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "draw",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "fanatic",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "graph",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "wtf",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "makes",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "dlxqbhedeoputcqnhctmumvkz",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "4yxxxcksj",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "wait",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "found",
+        "votes": 1,
+        "idf": 5.390325437488577
+    },
+    {
+        "keyword": "weird",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "studying",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "thinking",
+        "votes": 1,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "secure",
+        "votes": 1,
+        "idf": 5.795790545596741
+    }
+]

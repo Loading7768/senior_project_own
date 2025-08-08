@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "4",
+        "votes": 34,
+        "idf": 3.097141118779237
+    },
+    {
+        "keyword": "6",
+        "votes": 30,
+        "idf": 3.218501975783504
+    },
+    {
+        "keyword": "decreased",
+        "votes": 26,
+        "idf": 3.3566523142643216
+    },
+    {
+        "keyword": "7",
+        "votes": 24,
+        "idf": 3.3943926422471686
+    },
+    {
+        "keyword": "5",
+        "votes": 24,
+        "idf": 3.2512917986064953
+    },
+    {
+        "keyword": "market",
+        "votes": 20,
+        "idf": 3.0149030205422647
+    },
+    {
+        "keyword": "increased",
+        "votes": 18,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "plummet",
+        "votes": 18,
+        "idf": 3.6567569067146595
+    },
+    {
+        "keyword": "darkcoin",
+        "votes": 16,
+        "idf": 3.6079667425452273
+    },
+    {
+        "keyword": "threat",
+        "votes": 15,
+        "idf": 3.762117422372486
+    },
+    {
+        "keyword": "3",
+        "votes": 13,
+        "idf": 4.013431850653392
+    },
+    {
+        "keyword": "buy",
+        "votes": 13,
+        "idf": 3.8192758362124346
+    },
+    {
+        "keyword": "sell",
+        "votes": 12,
+        "idf": 3.879900458028869
+    },
+    {
+        "keyword": "23",
+        "votes": 11,
+        "idf": 3.879900458028869
+    },
+    {
+        "keyword": "error",
+        "votes": 10,
+        "idf": 4.25459390747028
+    },
+    {
+        "keyword": "51",
+        "votes": 9,
+        "idf": 4.167582530480651
+    },
+    {
+        "keyword": "attack",
+        "votes": 9,
+        "idf": 4.087539822807114
+    },
+    {
+        "keyword": "business",
+        "votes": 9,
+        "idf": 4.349904087274605
+    },
+    {
+        "keyword": "25",
+        "votes": 8,
+        "idf": 3.9444389791664403
+    },
+    {
+        "keyword": "times",
+        "votes": 8,
+        "idf": 4.455264602932431
+    },
+    {
+        "keyword": "turmoil",
+        "votes": 7,
+        "idf": 3.0149030205422647
+    },
+    {
+        "keyword": "8",
+        "votes": 6,
+        "idf": 4.706579031213337
+    },
+    {
+        "keyword": "uk",
+        "votes": 6,
+        "idf": 4.706579031213337
+    },
+    {
+        "keyword": "faces",
+        "votes": 6,
+        "idf": 3.762117422372486
+    },
+    {
+        "keyword": "international",
+        "votes": 5,
+        "idf": 4.167582530480651
+    },
+    {
+        "keyword": "26",
+        "votes": 5,
+        "idf": 4.860729711040595
+    },
+    {
+        "keyword": "via",
+        "votes": 4,
+        "idf": 3.879900458028869
+    },
+    {
+        "keyword": "469",
+        "votes": 4,
+        "idf": 5.04305126783455
+    },
+    {
+        "keyword": "sign",
+        "votes": 3,
+        "idf": 5.26619481914876
+    },
+    {
+        "keyword": "send",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "anyone",
+        "votes": 2,
+        "idf": 5.26619481914876
+    },
+    {
+        "keyword": "463",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "71",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "claim",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "tip",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "game",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "see",
+        "votes": 2,
+        "idf": 5.26619481914876
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "issue",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "properly",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "read",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "price",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "latest",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "live",
+        "votes": 2,
+        "idf": 5.26619481914876
+    },
+    {
+        "keyword": "attempt",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "dogeparty",
+        "votes": 2,
+        "idf": 5.26619481914876
+    },
+    {
+        "keyword": "markets",
+        "votes": 2,
+        "idf": 5.26619481914876
+    },
+    {
+        "keyword": "news",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "lite",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "removed",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "link",
+        "votes": 2,
+        "idf": 5.26619481914876
+    },
+    {
+        "keyword": "share",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "27",
+        "votes": 2,
+        "idf": 4.706579031213337
+    },
+    {
+        "keyword": "submission",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "video",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "entrepreneurship",
+        "votes": 2,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "forget",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "number",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "sturtevant",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "traded",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "service",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "hardware",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "need",
+        "votes": 1,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "accepted",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "quality",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "traffic",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "motherf",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "dead",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "yet",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "savings",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "plan",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "set",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "9038",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "466",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "tweeted",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "tweets",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "like",
+        "votes": 1,
+        "idf": 5.553876891600541
+    },
+    {
+        "keyword": "49",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "tipbot",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "also",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "buying",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "29",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "go",
+        "votes": 1,
+        "idf": 5.26619481914876
+    },
+    {
+        "keyword": "colon",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "scoping",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "research",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "trade",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "9185",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "build",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "takes",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "jackass",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "wings",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "bird",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "flying",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "sys",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "truth",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "time",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "respigo",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "big",
+        "votes": 1,
+        "idf": 5.959341999708705
+    },
+    {
+        "keyword": "ruggero",
+        "votes": 1,
+        "idf": 5.959341999708705
+    }
+]

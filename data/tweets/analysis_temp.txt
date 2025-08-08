@@ -1,9 +1,11 @@
-﻿QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2014-05-15 since:2014-05-14'
+﻿QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-07 since:2025-08-06'
 SEARCH = 'Latest'
-執行時間：2025-07-31 23:58:56 ~ 2025-08-01 00:01:39 (0 day 0 hr 2 min)
-推文數量：408 (0 WrittingError)
-推文時間：Wed May 14 21:17:51 +0000 2014 ~ Wed May 14 23:59:12 +0000 2014 (GMT+0)
+執行時間：2025-08-08 21:22:57 ~ 2025-08-08 21:49:24 (0 day 0 hr 26 min)
+推文數量：1515 (0 WrittingError)
+推文時間：Wed Aug 06 20:23:03 +0000 2025 ~ Wed Aug 06 23:59:47 +0000 2025 (GMT+0)
 Timestamp：
-	2025-07-31 23:58:56 Start
-	2025-07-31 23:58:57 FileNotFoundError
+	2025-08-08 21:22:57 Start
+	2025-08-08 21:22:58 FileNotFoundError
+	2025-08-08 21:35:23 TooManyRequests - Got 779 tweets
+	Waiting until  2025-08-08 21:37:58 (2 min 34 sec)
 

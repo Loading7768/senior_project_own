@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "service",
+        "votes": 235,
+        "idf": 3.043365485206026
+    },
+    {
+        "keyword": "suffers",
+        "votes": 235,
+        "idf": 3.0277401673029454
+    },
+    {
+        "keyword": "named",
+        "votes": 76,
+        "idf": 4.092063382492423
+    },
+    {
+        "keyword": "via",
+        "votes": 70,
+        "idf": 3.985579902089973
+    },
+    {
+        "keyword": "least",
+        "votes": 66,
+        "idf": 4.016351560756727
+    },
+    {
+        "keyword": "hacked",
+        "votes": 63,
+        "idf": 3.493103416992179
+    },
+    {
+        "keyword": "started",
+        "votes": 61,
+        "idf": 4.103362937746356
+    },
+    {
+        "keyword": "gets",
+        "votes": 58,
+        "idf": 3.8622008809294686
+    },
+    {
+        "keyword": "big",
+        "votes": 54,
+        "idf": 3.9363088530831902
+    },
+    {
+        "keyword": "stole",
+        "votes": 54,
+        "idf": 3.985579902089973
+    },
+    {
+        "keyword": "11",
+        "votes": 54,
+        "idf": 4.00598877372118
+    },
+    {
+        "keyword": "fake",
+        "votes": 37,
+        "idf": 4.917138106094916
+    },
+    {
+        "keyword": "alternative",
+        "votes": 37,
+        "idf": 4.843030133941195
+    },
+    {
+        "keyword": "heist",
+        "votes": 36,
+        "idf": 4.486355190002462
+    },
+    {
+        "keyword": "founders",
+        "votes": 34,
+        "idf": 4.843030133941195
+    },
+    {
+        "keyword": "virty",
+        "votes": 33,
+        "idf": 4.917138106094916
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 30,
+        "idf": 3.7444178452730847
+    },
+    {
+        "keyword": "v",
+        "votes": 30,
+        "idf": 5.146712547739416
+    },
+    {
+        "keyword": "techcrunch",
+        "votes": 29,
+        "idf": 5.146712547739416
+    },
+    {
+        "keyword": "much",
+        "votes": 27,
+        "idf": 4.103362937746356
+    },
+    {
+        "keyword": "si",
+        "votes": 25,
+        "idf": 5.322603214203081
+    },
+    {
+        "keyword": "today",
+        "votes": 23,
+        "idf": 5.179502370562408
+    },
+    {
+        "keyword": "rt",
+        "votes": 22,
+        "idf": 4.917138106094916
+    },
+    {
+        "keyword": "day",
+        "votes": 22,
+        "idf": 5.213403922238089
+    },
+    {
+        "keyword": "news",
+        "votes": 21,
+        "idf": 4.796510118306301
+    },
+    {
+        "keyword": "time",
+        "votes": 20,
+        "idf": 5.179502370562408
+    },
+    {
+        "keyword": "grown",
+        "votes": 20,
+        "idf": 5.489657298866247
+    },
+    {
+        "keyword": "dubious",
+        "votes": 18,
+        "idf": 5.53617731450114
+    },
+    {
+        "keyword": "kenseilon",
+        "votes": 17,
+        "idf": 5.690327994328398
+    },
+    {
+        "keyword": "writes",
+        "votes": 17,
+        "idf": 5.690327994328398
+    },
+    {
+        "keyword": "new",
+        "votes": 17,
+        "idf": 4.730552150514504
+    },
+    {
+        "keyword": "based",
+        "votes": 17,
+        "idf": 5.179502370562408
+    },
+    {
+        "keyword": "reports",
+        "votes": 16,
+        "idf": 5.6362607730581225
+    },
+    {
+        "keyword": "confirmed",
+        "votes": 16,
+        "idf": 5.690327994328398
+    },
+    {
+        "keyword": "central",
+        "votes": 15,
+        "idf": 5.489657298866247
+    },
+    {
+        "keyword": "meme",
+        "votes": 15,
+        "idf": 4.709498741316672
+    },
+    {
+        "keyword": "successor",
+        "votes": 14,
+        "idf": 5.872649551122353
+    },
+    {
+        "keyword": "international",
+        "votes": 13,
+        "idf": 5.941642422609304
+    },
+    {
+        "keyword": "reported",
+        "votes": 13,
+        "idf": 5.872649551122353
+    },
+    {
+        "keyword": "wallets",
+        "votes": 13,
+        "idf": 5.7474864081683465
+    },
+    {
+        "keyword": "coins",
+        "votes": 13,
+        "idf": 5.02535169073515
+    },
+    {
+        "keyword": "seems",
+        "votes": 13,
+        "idf": 5.361823927356363
+    },
+    {
+        "keyword": "milestone",
+        "votes": 13,
+        "idf": 5.53617731450114
+    },
+    {
+        "keyword": "stol",
+        "votes": 13,
+        "idf": 5.941642422609304
+    },
+    {
+        "keyword": "post",
+        "votes": 12,
+        "idf": 5.7474864081683465
+    },
+    {
+        "keyword": "acknowledges",
+        "votes": 12,
+        "idf": 5.445205536295413
+    },
+    {
+        "keyword": "verge",
+        "votes": 12,
+        "idf": 5.146712547739416
+    },
+    {
+        "keyword": "mass",
+        "votes": 12,
+        "idf": 5.489657298866247
+    },
+    {
+        "keyword": "met",
+        "votes": 12,
+        "idf": 6.015750394763026
+    },
+    {
+        "keyword": "hashcows",
+        "votes": 12,
+        "idf": 6.015750394763026
+    },
+    {
+        "keyword": "loss",
+        "votes": 11,
+        "idf": 5.872649551122353
+    },
+    {
+        "keyword": "thing",
+        "votes": 11,
+        "idf": 5.248495242049359
+    },
+    {
+        "keyword": "wait",
+        "votes": 11,
+        "idf": 5.872649551122353
+    },
+    {
+        "keyword": "india",
+        "votes": 11,
+        "idf": 5.584967478670572
+    },
+    {
+        "keyword": "bank",
+        "votes": 11,
+        "idf": 4.891820298110627
+    },
+    {
+        "keyword": "virtuel",
+        "votes": 11,
+        "idf": 6.095793102436563
+    },
+    {
+        "keyword": "victime",
+        "votes": 11,
+        "idf": 6.095793102436563
+    },
+    {
+        "keyword": "portefeuille",
+        "votes": 11,
+        "idf": 6.095793102436563
+    },
+    {
+        "keyword": "breaking",
+        "votes": 11,
+        "idf": 6.095793102436563
+    },
+    {
+        "keyword": "acknowledged",
+        "votes": 10,
+        "idf": 6.182804479426192
+    },
+    {
+        "keyword": "13000",
+        "votes": 10,
+        "idf": 6.095793102436563
+    },
+    {
+        "keyword": "business",
+        "votes": 10,
+        "idf": 6.015750394763026
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 10,
+        "idf": 4.610407838672441
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 9,
+        "idf": 3.6390573296152584
+    },
+    {
+        "keyword": "coin",
+        "votes": 9,
+        "idf": 5.213403922238089
+    },
+    {
+        "keyword": "admit",
+        "votes": 9,
+        "idf": 6.278114659230517
+    },
+    {
+        "keyword": "c",
+        "votes": 9,
+        "idf": 6.278114659230517
+    },
+    {
+        "keyword": "makes",
+        "votes": 9,
+        "idf": 5.872649551122353
+    },
+    {
+        "keyword": "john",
+        "votes": 9,
+        "idf": 6.182804479426192
+    },
+    {
+        "keyword": "doge",
+        "votes": 8,
+        "idf": 4.796510118306301
+    },
+    {
+        "keyword": "costing",
+        "votes": 8,
+        "idf": 5.584967478670572
+    },
+    {
+        "keyword": "weekend",
+        "votes": 8,
+        "idf": 6.278114659230517
+    },
+    {
+        "keyword": "thank",
+        "votes": 8,
+        "idf": 6.383475174888344
+    },
+    {
+        "keyword": "rather",
+        "votes": 8,
+        "idf": 6.383475174888344
+    },
+    {
+        "keyword": "next",
+        "votes": 8,
+        "idf": 6.278114659230517
+    },
+    {
+        "keyword": "press",
+        "votes": 8,
+        "idf": 6.278114659230517
+    },
+    {
+        "keyword": "en",
+        "votes": 8,
+        "idf": 6.015750394763026
+    },
+    {
+        "keyword": "hacker",
+        "votes": 8,
+        "idf": 5.6362607730581225
+    },
+    {
+        "keyword": "apparent",
+        "votes": 7,
+        "idf": 6.501258210544727
+    },
+    {
+        "keyword": "money",
+        "votes": 7,
+        "idf": 5.584967478670572
+    },
+    {
+        "keyword": "h",
+        "votes": 7,
+        "idf": 6.383475174888344
+    },
+    {
+        "keyword": "times",
+        "votes": 7,
+        "idf": 6.383475174888344
+    },
+    {
+        "keyword": "thousands",
+        "votes": 7,
+        "idf": 6.501258210544727
+    },
+    {
+        "keyword": "dogewallet",
+        "votes": 7,
+        "idf": 4.591715705660288
+    },
+    {
+        "keyword": "web",
+        "votes": 7,
+        "idf": 6.383475174888344
+    },
+    {
+        "keyword": "release",
+        "votes": 7,
+        "idf": 6.278114659230517
+    },
+    {
+        "keyword": "popularity",
+        "votes": 7,
+        "idf": 6.383475174888344
+    },
+    {
+        "keyword": "silly",
+        "votes": 7,
+        "idf": 6.501258210544727
+    },
+    {
+        "keyword": "similar",
+        "votes": 6,
+        "idf": 5.489657298866247
+    },
+    {
+        "keyword": "ever",
+        "votes": 6,
+        "idf": 6.634789603169249
+    },
+    {
+        "keyword": "lol",
+        "votes": 6,
+        "idf": 6.278114659230517
+    },
+    {
+        "keyword": "thursday",
+        "votes": 6,
+        "idf": 6.634789603169249
+    },
+    {
+        "keyword": "night",
+        "votes": 6,
+        "idf": 6.634789603169249
+    },
+    {
+        "keyword": "dogec",
+        "votes": 6,
+        "idf": 6.634789603169249
+    },
+    {
+        "keyword": "stronger",
+        "votes": 6,
+        "idf": 6.634789603169249
+    },
+    {
+        "keyword": "venturebeat",
+        "votes": 6,
+        "idf": 6.634789603169249
+    },
+    {
+        "keyword": "real",
+        "votes": 6,
+        "idf": 3.7685153968521456
+    },
+    {
+        "keyword": "future",
+        "votes": 6,
+        "idf": 5.808111029984782
+    },
+    {
+        "keyword": "freaking",
+        "votes": 6,
+        "idf": 6.634789603169249
+    },
+    {
+        "keyword": "gadget",
+        "votes": 5,
+        "idf": 6.788940282996508
+    }
+]

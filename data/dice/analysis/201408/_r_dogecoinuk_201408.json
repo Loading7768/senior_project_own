@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Talking doge at TechMeetup on the 13th #dogecoin http://t.co/oDSqpxF467",
+        "X_token": "talking, doge, techmeetup, 13th, dogecoin, http",
+        "X_tweet_count": 1,
+        "X_username": "/r/dogecoinuk",
+        "Y_text": "Talking doge at TechMeetup on the 13th #dogecoin http://t.co/oDSqpxW787",
+        "Y_token": "talking, doge, techmeetup, 13th, dogecoin, http",
+        "Y_tweet_count": 5,
+        "Y_username": "/r/dogecoinuk",
+        "X_length": 71,
+        "Y_length": 71,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Got 50+ karma on subreddits from this list (includes /r/DogecoinUK)? Get a Dogecoin reward equal to your karma! http://t.co/nNfovomV1c",
+        "X_token": "got, karma, subreddits, list, includes, get, dogecoin, reward, equal, karma, http",
+        "X_tweet_count": 3,
+        "X_username": "/r/dogecoinuk",
+        "Y_text": "Got 50+ karma on subreddits from this list (includes /r/DogecoinUK)? Get a Dogecoin reward equal to your karma! http://t.co/nNfovomV1c",
+        "Y_token": "got, karma, subreddits, list, includes, get, dogecoin, reward, equal, karma, http",
+        "Y_tweet_count": 4,
+        "Y_username": "/r/dogecoinuk",
+        "X_length": 134,
+        "Y_length": 134,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

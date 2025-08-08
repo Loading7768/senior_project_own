@@ -100,6 +100,11 @@
         "idf": 5.1058169633843375
     },
     {
+        "keyword": "50000",
+        "votes": 9,
+        "idf": 5.65586330030361
+    },
+    {
         "keyword": "accepting",
         "votes": 9,
         "idf": 5.724856171790561
@@ -118,11 +123,6 @@
         "keyword": "tesla",
         "votes": 8,
         "idf": 3.9694643467333806
-    },
-    {
-        "keyword": "50000",
-        "votes": 8,
-        "idf": 5.65586330030361
     },
     {
         "keyword": "past",
@@ -148,5 +148,355 @@
         "keyword": "5",
         "votes": 8,
         "idf": 4.837552976789658
+    },
+    {
+        "keyword": "going",
+        "votes": 8,
+        "idf": 4.808565439916405
+    },
+    {
+        "keyword": "win",
+        "votes": 8,
+        "idf": 4.356580316173348
+    },
+    {
+        "keyword": "trending",
+        "votes": 7,
+        "idf": 6.061328408411774
+    },
+    {
+        "keyword": "hurry",
+        "votes": 7,
+        "idf": 6.284471959725984
+    },
+    {
+        "keyword": "choose",
+        "votes": 7,
+        "idf": 5.419474522239379
+    },
+    {
+        "keyword": "list",
+        "votes": 7,
+        "idf": 6.061328408411774
+    },
+    {
+        "keyword": "0",
+        "votes": 7,
+        "idf": 5.419474522239379
+    },
+    {
+        "keyword": "way",
+        "votes": 7,
+        "idf": 5.06807663540149
+    },
+    {
+        "keyword": "2021",
+        "votes": 7,
+        "idf": 5.272871048047504
+    },
+    {
+        "keyword": "thats",
+        "votes": 7,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "far",
+        "votes": 7,
+        "idf": 5.724856171790561
+    },
+    {
+        "keyword": "thank",
+        "votes": 7,
+        "idf": 5.368181227851829
+    },
+    {
+        "keyword": "investment",
+        "votes": 6,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "7d",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "30d",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "best",
+        "votes": 6,
+        "idf": 5.185859671057874
+    },
+    {
+        "keyword": "100x",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "200k",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "stack",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "accept",
+        "votes": 6,
+        "idf": 5.798964143944283
+    },
+    {
+        "keyword": "seems",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "wiser",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "historical",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "awesome",
+        "votes": 6,
+        "idf": 5.724856171790561
+    },
+    {
+        "keyword": "tether",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "solana",
+        "votes": 6,
+        "idf": 6.1666889240696
+    },
+    {
+        "keyword": "ranking",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "difference",
+        "votes": 6,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "prices",
+        "votes": 6,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "good",
+        "votes": 6,
+        "idf": 4.8674059399393395
+    },
+    {
+        "keyword": "year",
+        "votes": 6,
+        "idf": 5.1058169633843375
+    },
+    {
+        "keyword": "invest",
+        "votes": 6,
+        "idf": 5.5913247791660385
+    },
+    {
+        "keyword": "mentions",
+        "votes": 6,
+        "idf": 6.284471959725984
+    },
+    {
+        "keyword": "time",
+        "votes": 6,
+        "idf": 4.602713385712256
+    },
+    {
+        "keyword": "binance",
+        "votes": 5,
+        "idf": 5.272871048047504
+    },
+    {
+        "keyword": "woof",
+        "votes": 5,
+        "idf": 6.284471959725984
+    },
+    {
+        "keyword": "prefer",
+        "votes": 5,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "future",
+        "votes": 5,
+        "idf": 4.808565439916405
+    },
+    {
+        "keyword": "u",
+        "votes": 5,
+        "idf": 6.1666889240696
+    },
+    {
+        "keyword": "teslas",
+        "votes": 5,
+        "idf": 6.284471959725984
+    },
+    {
+        "keyword": "could",
+        "votes": 5,
+        "idf": 5.530700157349603
+    },
+    {
+        "keyword": "21",
+        "votes": 5,
+        "idf": 6.572154032177765
+    },
+    {
+        "keyword": "lower",
+        "votes": 5,
+        "idf": 6.572154032177765
+    },
+    {
+        "keyword": "hour",
+        "votes": 5,
+        "idf": 4.189526231510182
+    },
+    {
+        "keyword": "always",
+        "votes": 5,
+        "idf": 5.5913247791660385
+    },
+    {
+        "keyword": "friends",
+        "votes": 5,
+        "idf": 6.572154032177765
+    },
+    {
+        "keyword": "elon",
+        "votes": 5,
+        "idf": 4.320862233571269
+    },
+    {
+        "keyword": "believe",
+        "votes": 5,
+        "idf": 5.1058169633843375
+    },
+    {
+        "keyword": "next",
+        "votes": 5,
+        "idf": 4.472093203295193
+    },
+    {
+        "keyword": "shib",
+        "votes": 5,
+        "idf": 3.3599671954603605
+    },
+    {
+        "keyword": "agree",
+        "votes": 5,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "hold",
+        "votes": 5,
+        "idf": 6.1666889240696
+    },
+    {
+        "keyword": "hodl",
+        "votes": 5,
+        "idf": 5.5913247791660385
+    },
+    {
+        "keyword": "7",
+        "votes": 5,
+        "idf": 6.418003352350506
+    },
+    {
+        "keyword": "choice",
+        "votes": 5,
+        "idf": 6.061328408411774
+    },
+    {
+        "keyword": "inu",
+        "votes": 5,
+        "idf": 5.22841928547667
+    },
+    {
+        "keyword": "christmas",
+        "votes": 5,
+        "idf": 5.530700157349603
+    },
+    {
+        "keyword": "direction",
+        "votes": 5,
+        "idf": 6.572154032177765
+    },
+    {
+        "keyword": "soon",
+        "votes": 5,
+        "idf": 5.185859671057874
+    },
+    {
+        "keyword": "2",
+        "votes": 5,
+        "idf": 4.320862233571269
+    },
+    {
+        "keyword": "bullish",
+        "votes": 5,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "let",
+        "votes": 5,
+        "idf": 5.65586330030361
+    },
+    {
+        "keyword": "yes",
+        "votes": 5,
+        "idf": 6.061328408411774
+    },
+    {
+        "keyword": "cheems",
+        "votes": 5,
+        "idf": 6.284471959725984
+    },
+    {
+        "keyword": "money",
+        "votes": 5,
+        "idf": 4.898177598606093
+    },
+    {
+        "keyword": "pick",
+        "votes": 5,
+        "idf": 5.530700157349603
+    },
+    {
+        "keyword": "still",
+        "votes": 5,
+        "idf": 4.808565439916405
+    },
+    {
+        "keyword": "pancakeswap",
+        "votes": 4,
+        "idf": 6.75447558897172
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 4,
+        "idf": 5.798964143944283
+    },
+    {
+        "keyword": "2022",
+        "votes": 4,
+        "idf": 5.724856171790561
     }
 ]

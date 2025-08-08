@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "moon",
+        "votes": 44,
+        "idf": 4.392613637970764
+    },
+    {
+        "keyword": "coin",
+        "votes": 28,
+        "idf": 3.945301419927099
+    },
+    {
+        "keyword": "wallet",
+        "votes": 23,
+        "idf": 4.8991748629502965
+    },
+    {
+        "keyword": "live",
+        "votes": 19,
+        "idf": 5.453485598656027
+    },
+    {
+        "keyword": "longed",
+        "votes": 18,
+        "idf": 5.165803526204246
+    },
+    {
+        "keyword": "flow",
+        "votes": 17,
+        "idf": 5.65828001130204
+    },
+    {
+        "keyword": "mp",
+        "votes": 17,
+        "idf": 5.382026634673881
+    },
+    {
+        "keyword": "stats",
+        "votes": 17,
+        "idf": 5.283586561860629
+    },
+    {
+        "keyword": "etherium",
+        "votes": 17,
+        "idf": 5.858950706764191
+    },
+    {
+        "keyword": "bite",
+        "votes": 16,
+        "idf": 5.858950706764191
+    },
+    {
+        "keyword": "ltcusd",
+        "votes": 15,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "go",
+        "votes": 15,
+        "idf": 4.671785020754636
+    },
+    {
+        "keyword": "1",
+        "votes": 14,
+        "idf": 3.858973336438602
+    },
+    {
+        "keyword": "laser",
+        "votes": 14,
+        "idf": 4.988122348966794
+    },
+    {
+        "keyword": "futures",
+        "votes": 14,
+        "idf": 5.165803526204246
+    },
+    {
+        "keyword": "posted",
+        "votes": 14,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "alerts",
+        "votes": 14,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "hours",
+        "votes": 14,
+        "idf": 5.65828001130204
+    },
+    {
+        "keyword": "gm",
+        "votes": 14,
+        "idf": 5.4171179544851515
+    },
+    {
+        "keyword": "ruser",
+        "votes": 14,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "bearish",
+        "votes": 13,
+        "idf": 5.91610912060414
+    },
+    {
+        "keyword": "millions",
+        "votes": 13,
+        "idf": 5.91610912060414
+    },
+    {
+        "keyword": "next",
+        "votes": 12,
+        "idf": 4.283414346005772
+    },
+    {
+        "keyword": "back",
+        "votes": 12,
+        "idf": 5.035750397956048
+    },
+    {
+        "keyword": "1hr",
+        "votes": 12,
+        "idf": 6.184373107198819
+    },
+    {
+        "keyword": "1y",
+        "votes": 12,
+        "idf": 6.184373107198819
+    },
+    {
+        "keyword": "gonna",
+        "votes": 12,
+        "idf": 5.65828001130204
+    },
+    {
+        "keyword": "buy",
+        "votes": 12,
+        "idf": 4.741989279427885
+    },
+    {
+        "keyword": "inu",
+        "votes": 12,
+        "idf": 4.7062711968258055
+    },
+    {
+        "keyword": "whale",
+        "votes": 11,
+        "idf": 5.453485598656027
+    },
+    {
+        "keyword": "hold",
+        "votes": 11,
+        "idf": 5.530446639792155
+    },
+    {
+        "keyword": "going",
+        "votes": 11,
+        "idf": 4.4726563456443005
+    },
+    {
+        "keyword": "base",
+        "votes": 11,
+        "idf": 5.222961940044194
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 11,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "way",
+        "votes": 11,
+        "idf": 5.491225926638873
+    },
+    {
+        "keyword": "okx",
+        "votes": 11,
+        "idf": 6.264415814872355
+    },
+    {
+        "keyword": "eyes",
+        "votes": 11,
+        "idf": 4.779030551108233
+    },
+    {
+        "keyword": "send",
+        "votes": 11,
+        "idf": 5.283586561860629
+    },
+    {
+        "keyword": "one",
+        "votes": 11,
+        "idf": 4.671785020754636
+    },
+    {
+        "keyword": "withdraw",
+        "votes": 11,
+        "idf": 6.264415814872355
+    },
+    {
+        "keyword": "robinhood",
+        "votes": 11,
+        "idf": 6.110265135045097
+    },
+    {
+        "keyword": "surged",
+        "votes": 11,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "update",
+        "votes": 10,
+        "idf": 5.65828001130204
+    },
+    {
+        "keyword": "cuban",
+        "votes": 10,
+        "idf": 6.351427191861985
+    },
+    {
+        "keyword": "binance",
+        "votes": 10,
+        "idf": 5.382026634673881
+    },
+    {
+        "keyword": "solusd",
+        "votes": 10,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "pump",
+        "votes": 10,
+        "idf": 5.283586561860629
+    },
+    {
+        "keyword": "week",
+        "votes": 10,
+        "idf": 4.779030551108233
+    },
+    {
+        "keyword": "reason",
+        "votes": 10,
+        "idf": 6.041272263558145
+    },
+    {
+        "keyword": "let",
+        "votes": 10,
+        "idf": 4.942659974890036
+    },
+    {
+        "keyword": "price",
+        "votes": 10,
+        "idf": 3.8005625742821874
+    },
+    {
+        "keyword": "larry",
+        "votes": 10,
+        "idf": 6.351427191861985
+    },
+    {
+        "keyword": "bull",
+        "votes": 10,
+        "idf": 5.011652846376988
+    },
+    {
+        "keyword": "fight",
+        "votes": 10,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "shiba",
+        "votes": 10,
+        "idf": 4.431834351124046
+    },
+    {
+        "keyword": "run",
+        "votes": 9,
+        "idf": 5.0857608185307095
+    },
+    {
+        "keyword": "increases",
+        "votes": 9,
+        "idf": 6.264415814872355
+    },
+    {
+        "keyword": "lead",
+        "votes": 9,
+        "idf": 6.110265135045097
+    },
+    {
+        "keyword": "right",
+        "votes": 9,
+        "idf": 5.382026634673881
+    },
+    {
+        "keyword": "currency",
+        "votes": 9,
+        "idf": 5.704800026936932
+    },
+    {
+        "keyword": "happy",
+        "votes": 9,
+        "idf": 5.7535901911063645
+    },
+    {
+        "keyword": "soon",
+        "votes": 9,
+        "idf": 5.193974403170942
+    },
+    {
+        "keyword": "real",
+        "votes": 9,
+        "idf": 5.8048834854939155
+    },
+    {
+        "keyword": "coming",
+        "votes": 9,
+        "idf": 5.035750397956048
+    },
+    {
+        "keyword": "volatility",
+        "votes": 9,
+        "idf": 6.184373107198819
+    },
+    {
+        "keyword": "markets",
+        "votes": 9,
+        "idf": 6.041272263558145
+    },
+    {
+        "keyword": "time",
+        "votes": 9,
+        "idf": 4.529814759484249
+    },
+    {
+        "keyword": "fink",
+        "votes": 9,
+        "idf": 6.264415814872355
+    },
+    {
+        "keyword": "money",
+        "votes": 9,
+        "idf": 5.3481250829982
+    },
+    {
+        "keyword": "impact",
+        "votes": 8,
+        "idf": 6.184373107198819
+    },
+    {
+        "keyword": "know",
+        "votes": 8,
+        "idf": 5.222961940044194
+    },
+    {
+        "keyword": "27",
+        "votes": 8,
+        "idf": 6.44673737166631
+    },
+    {
+        "keyword": "still",
+        "votes": 8,
+        "idf": 4.779030551108233
+    },
+    {
+        "keyword": "200ma",
+        "votes": 8,
+        "idf": 6.110265135045097
+    },
+    {
+        "keyword": "good",
+        "votes": 8,
+        "idf": 4.48664258761904
+    },
+    {
+        "keyword": "target",
+        "votes": 8,
+        "idf": 5.222961940044194
+    },
+    {
+        "keyword": "best",
+        "votes": 8,
+        "idf": 5.530446639792155
+    },
+    {
+        "keyword": "king",
+        "votes": 7,
+        "idf": 6.351427191861985
+    },
+    {
+        "keyword": "higher",
+        "votes": 7,
+        "idf": 5.8048834854939155
+    },
+    {
+        "keyword": "x",
+        "votes": 7,
+        "idf": 5.11173630493397
+    },
+    {
+        "keyword": "upto",
+        "votes": 7,
+        "idf": 6.184373107198819
+    },
+    {
+        "keyword": "love",
+        "votes": 7,
+        "idf": 5.5712686343124105
+    },
+    {
+        "keyword": "great",
+        "votes": 7,
+        "idf": 5.5712686343124105
+    },
+    {
+        "keyword": "morning",
+        "votes": 7,
+        "idf": 6.110265135045097
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 7,
+        "idf": 5.5712686343124105
+    },
+    {
+        "keyword": "comparison",
+        "votes": 7,
+        "idf": 6.66988092298052
+    },
+    {
+        "keyword": "musk",
+        "votes": 7,
+        "idf": 4.837299459232209
+    },
+    {
+        "keyword": "today",
+        "votes": 7,
+        "idf": 5.382026634673881
+    },
+    {
+        "keyword": "cryptos",
+        "votes": 7,
+        "idf": 5.530446639792155
+    },
+    {
+        "keyword": "pippen",
+        "votes": 6,
+        "idf": 6.803412315605042
+    },
+    {
+        "keyword": "legend",
+        "votes": 6,
+        "idf": 6.803412315605042
+    },
+    {
+        "keyword": "death",
+        "votes": 6,
+        "idf": 6.803412315605042
+    },
+    {
+        "keyword": "prediction",
+        "votes": 6,
+        "idf": 6.351427191861985
+    },
+    {
+        "keyword": "bullish",
+        "votes": 6,
+        "idf": 4.306671208170039
+    },
+    {
+        "keyword": "fear",
+        "votes": 6,
+        "idf": 6.264415814872355
+    },
+    {
+        "keyword": "70",
+        "votes": 6,
+        "idf": 6.552097887324137
+    },
+    {
+        "keyword": "see",
+        "votes": 6,
+        "idf": 4.392613637970764
+    },
+    {
+        "keyword": "flip",
+        "votes": 6,
+        "idf": 6.264415814872355
+    },
+    {
+        "keyword": "make",
+        "votes": 6,
+        "idf": 4.723970773925206
+    },
+    {
+        "keyword": "popcat",
+        "votes": 6,
+        "idf": 4.942659974890036
+    }
+]

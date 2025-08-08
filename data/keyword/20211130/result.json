@@ -25,14 +25,14 @@
         "idf": 5.343805421853684
     },
     {
+        "keyword": "1h",
+        "votes": 9,
+        "idf": 5.269697449699962
+    },
+    {
         "keyword": "project",
         "votes": 8,
         "idf": 4.730700948967275
-    },
-    {
-        "keyword": "1h",
-        "votes": 8,
-        "idf": 5.269697449699962
     },
     {
         "keyword": "01",
@@ -53,6 +53,11 @@
         "keyword": "price",
         "votes": 8,
         "idf": 3.466103522824904
+    },
+    {
+        "keyword": "thank",
+        "votes": 8,
+        "idf": 4.773260563386071
     },
     {
         "keyword": "love",
@@ -85,11 +90,6 @@
         "idf": 4.443018876515493
     },
     {
-        "keyword": "thank",
-        "votes": 7,
-        "idf": 4.773260563386071
-    },
-    {
         "keyword": "right",
         "votes": 7,
         "idf": 5.075541435259004
@@ -98,11 +98,6 @@
         "keyword": "far",
         "votes": 6,
         "idf": 5.343805421853684
-    },
-    {
-        "keyword": "highest",
-        "votes": 6,
-        "idf": 5.962844630259907
     },
     {
         "keyword": "want",
@@ -145,8 +140,363 @@
         "idf": 5.200704578213011
     },
     {
-        "keyword": "nice",
+        "keyword": "accept",
+        "votes": 5,
+        "idf": 5.6061696863211745
+    },
+    {
+        "keyword": "choose",
+        "votes": 5,
+        "idf": 5.200704578213011
+    },
+    {
+        "keyword": "7d",
+        "votes": 5,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "30d",
+        "votes": 5,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "difference",
+        "votes": 5,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "help",
+        "votes": 5,
+        "idf": 4.773260563386071
+    },
+    {
+        "keyword": "ceo",
         "votes": 5,
         "idf": 5.829313237635384
+    },
+    {
+        "keyword": "buy",
+        "votes": 5,
+        "idf": 4.03755376840733
+    },
+    {
+        "keyword": "kibabridge",
+        "votes": 5,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "checker",
+        "votes": 5,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "kibaswap",
+        "votes": 5,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "need",
+        "votes": 5,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "50k",
+        "votes": 5,
+        "idf": 4.96431580014878
+    },
+    {
+        "keyword": "accepting",
+        "votes": 5,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "avax",
+        "votes": 5,
+        "idf": 5.018383021419056
+    },
+    {
+        "keyword": "prices",
+        "votes": 5,
+        "idf": 5.6061696863211745
+    },
+    {
+        "keyword": "update",
+        "votes": 5,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "believe",
+        "votes": 5,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "great",
+        "votes": 5,
+        "idf": 4.689878954447019
+    },
+    {
+        "keyword": "never",
+        "votes": 5,
+        "idf": 5.4238481295272205
+    },
+    {
+        "keyword": "hit",
+        "votes": 5,
+        "idf": 5.711530201979001
+    },
+    {
+        "keyword": "nice",
+        "votes": 4,
+        "idf": 5.829313237635384
+    },
+    {
+        "keyword": "floki",
+        "votes": 4,
+        "idf": 3.8657035114806706
+    },
+    {
+        "keyword": "direction",
+        "votes": 4,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "baby",
+        "votes": 4,
+        "idf": 4.730700948967275
+    },
+    {
+        "keyword": "h",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "wiser",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "equal",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "yet",
+        "votes": 4,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "bought",
+        "votes": 4,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "buying",
+        "votes": 4,
+        "idf": 5.4238481295272205
+    },
+    {
+        "keyword": "thread",
+        "votes": 4,
+        "idf": 5.829313237635384
+    },
+    {
+        "keyword": "0",
+        "votes": 4,
+        "idf": 5.4238481295272205
+    },
+    {
+        "keyword": "past",
+        "votes": 4,
+        "idf": 5.13616605707544
+    },
+    {
+        "keyword": "tether",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "solana",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "always",
+        "votes": 4,
+        "idf": 5.4238481295272205
+    },
+    {
+        "keyword": "let",
+        "votes": 4,
+        "idf": 5.075541435259004
+    },
+    {
+        "keyword": "22",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "ranking",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "closing",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "vol",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "bnb",
+        "votes": 4,
+        "idf": 4.353406717825807
+    },
+    {
+        "keyword": "dot",
+        "votes": 4,
+        "idf": 4.3252358408591105
+    },
+    {
+        "keyword": "2021",
+        "votes": 4,
+        "idf": 5.075541435259004
+    },
+    {
+        "keyword": "thats",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 5.13616605707544
+    },
+    {
+        "keyword": "sure",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "going",
+        "votes": 4,
+        "idf": 4.612917913310891
+    },
+    {
+        "keyword": "hurry",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "5",
+        "votes": 4,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "lol",
+        "votes": 4,
+        "idf": 5.4238481295272205
+    },
+    {
+        "keyword": "hints",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "consolidation",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "phase",
+        "votes": 4,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "hey",
+        "votes": 3,
+        "idf": 5.6061696863211745
+    },
+    {
+        "keyword": "son",
+        "votes": 3,
+        "idf": 6.29931686688112
+    },
+    {
+        "keyword": "optimus",
+        "votes": 3,
+        "idf": 6.52246041819533
+    },
+    {
+        "keyword": "spell",
+        "votes": 3,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "incoming",
+        "votes": 3,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "feg",
+        "votes": 3,
+        "idf": 6.52246041819533
+    },
+    {
+        "keyword": "x",
+        "votes": 3,
+        "idf": 5.711530201979001
+    },
+    {
+        "keyword": "insane",
+        "votes": 3,
+        "idf": 6.52246041819533
+    },
+    {
+        "keyword": "amazing",
+        "votes": 3,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "feel",
+        "votes": 3,
+        "idf": 6.116995310087166
+    },
+    {
+        "keyword": "like",
+        "votes": 3,
+        "idf": 3.8657035114806706
+    },
+    {
+        "keyword": "fun",
+        "votes": 3,
+        "idf": 5.829313237635384
+    },
+    {
+        "keyword": "able",
+        "votes": 3,
+        "idf": 6.52246041819533
+    },
+    {
+        "keyword": "time",
+        "votes": 3,
+        "idf": 4.412247217848741
+    },
+    {
+        "keyword": "50000",
+        "votes": 3,
+        "idf": 5.711530201979001
+    },
+    {
+        "keyword": "got",
+        "votes": 3,
+        "idf": 5.962844630259907
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 4.612917913310891
     }
 ]

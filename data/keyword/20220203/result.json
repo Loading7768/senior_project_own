@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 3.4203681286504293
+    },
+    {
+        "keyword": "brand",
+        "votes": 2,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "community",
+        "votes": 2,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "shib",
+        "votes": 2,
+        "idf": 3.4203681286504293
+    },
+    {
+        "keyword": "accept",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "one",
+        "votes": 1,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "get",
+        "votes": 1,
+        "idf": 3.0149030205422647
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "nasdaq",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "def",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "look",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "nft",
+        "votes": 1,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "past",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "saying",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "plus",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "soon",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "back",
+        "votes": 1,
+        "idf": 3.4203681286504293
+    },
+    {
+        "keyword": "dream",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "hint",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "burning",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "1",
+        "votes": 1,
+        "idf": 3.4203681286504293
+    },
+    {
+        "keyword": "energy",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "trend",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "consumes",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "60d",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "90d",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "1h",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "eleventh",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "yes",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "magazines",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "s3xy",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "mug",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "confirmation",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "huh",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "dumb",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "thing",
+        "votes": 1,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "least",
+        "votes": 1,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "stock",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "well",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "tuff",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "million",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "apparent",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "hack",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "news",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "people",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "business",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "asking",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "hot",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "50",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "bitocin",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "receive",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "sleeping",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "next",
+        "votes": 1,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "nodes",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "new",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "star",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "creator",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "bark",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "titties",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "kind",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "moma",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "got",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "said",
+        "votes": 1,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "take",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "powers",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "shiba",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "clown",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "62",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "rank",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "hour",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "accepting",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "form",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "considered",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "start",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "10",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "trading",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "loves",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "elon",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "unpopular",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "usd",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "37017",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "bnb",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "following",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "light",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "someone",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "sabered",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "asks",
+        "votes": 1,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "recur",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "proof",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "stake",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "konstantinova",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "earn",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "seen",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "incredible",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "xrp",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "3rd",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "100",
+        "votes": 1,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "door",
+        "votes": 1,
+        "idf": 4.113515309210374
+    }
+]

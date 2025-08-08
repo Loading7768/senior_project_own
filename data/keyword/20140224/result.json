@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "3",
+        "votes": 59,
+        "idf": 3.4324808524481507
+    },
+    {
+        "keyword": "aims",
+        "votes": 44,
+        "idf": 3.448741373319931
+    },
+    {
+        "keyword": "stand",
+        "votes": 41,
+        "idf": 3.4324808524481507
+    },
+    {
+        "keyword": "take",
+        "votes": 37,
+        "idf": 3.4164805111017094
+    },
+    {
+        "keyword": "4",
+        "votes": 32,
+        "idf": 4.004267176003829
+    },
+    {
+        "keyword": "0",
+        "votes": 25,
+        "idf": 4.192319407506768
+    },
+    {
+        "keyword": "5",
+        "votes": 24,
+        "idf": 4.125628033008096
+    },
+    {
+        "keyword": "usd",
+        "votes": 23,
+        "idf": 3.140774629696644
+    },
+    {
+        "keyword": "error",
+        "votes": 18,
+        "idf": 4.615176258326802
+    },
+    {
+        "keyword": "9",
+        "votes": 17,
+        "idf": 4.615176258326802
+    },
+    {
+        "keyword": "warnings",
+        "votes": 17,
+        "idf": 4.669243479597077
+    },
+    {
+        "keyword": "resignation",
+        "votes": 17,
+        "idf": 4.5638829639392515
+    },
+    {
+        "keyword": "jordan",
+        "votes": 17,
+        "idf": 4.5638829639392515
+    },
+    {
+        "keyword": "wow",
+        "votes": 14,
+        "idf": 4.381561407145297
+    },
+    {
+        "keyword": "buy",
+        "votes": 14,
+        "idf": 4.227410727318038
+    },
+    {
+        "keyword": "student",
+        "votes": 13,
+        "idf": 4.192319407506768
+    },
+    {
+        "keyword": "core",
+        "votes": 13,
+        "idf": 4.515092799769819
+    },
+    {
+        "keyword": "uses",
+        "votes": 13,
+        "idf": 4.920557907877983
+    },
+    {
+        "keyword": "via",
+        "votes": 12,
+        "idf": 4.30151869947176
+    },
+    {
+        "keyword": "2",
+        "votes": 12,
+        "idf": 4.851565036391031
+    },
+    {
+        "keyword": "6",
+        "votes": 12,
+        "idf": 4.78702651525346
+    },
+    {
+        "keyword": "nxt",
+        "votes": 12,
+        "idf": 4.994665880031706
+    },
+    {
+        "keyword": "8",
+        "votes": 11,
+        "idf": 5.074708587705242
+    },
+    {
+        "keyword": "discipline",
+        "votes": 11,
+        "idf": 4.994665880031706
+    },
+    {
+        "keyword": "1",
+        "votes": 11,
+        "idf": 3.9220290777668563
+    },
+    {
+        "keyword": "ihb",
+        "votes": 11,
+        "idf": 4.994665880031706
+    },
+    {
+        "keyword": "index",
+        "votes": 11,
+        "idf": 5.074708587705242
+    },
+    {
+        "keyword": "explains",
+        "votes": 10,
+        "idf": 4.994665880031706
+    },
+    {
+        "keyword": "burger",
+        "votes": 9,
+        "idf": 3.2158098156395583
+    },
+    {
+        "keyword": "used",
+        "votes": 9,
+        "idf": 5.161719964694871
+    },
+    {
+        "keyword": "alt",
+        "votes": 9,
+        "idf": 5.257030144499196
+    },
+    {
+        "keyword": "tracker",
+        "votes": 9,
+        "idf": 5.257030144499196
+    },
+    {
+        "keyword": "booted",
+        "votes": 9,
+        "idf": 5.257030144499196
+    },
+    {
+        "keyword": "fun",
+        "votes": 9,
+        "idf": 4.615176258326802
+    },
+    {
+        "keyword": "owner",
+        "votes": 9,
+        "idf": 4.994665880031706
+    },
+    {
+        "keyword": "regret",
+        "votes": 8,
+        "idf": 4.994665880031706
+    },
+    {
+        "keyword": "network",
+        "votes": 8,
+        "idf": 5.161719964694871
+    },
+    {
+        "keyword": "secretly",
+        "votes": 8,
+        "idf": 5.362390660157023
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 8,
+        "idf": 5.362390660157023
+    },
+    {
+        "keyword": "caught",
+        "votes": 7,
+        "idf": 4.669243479597077
+    },
+    {
+        "keyword": "supporting",
+        "votes": 7,
+        "idf": 5.257030144499196
+    },
+    {
+        "keyword": "much",
+        "votes": 6,
+        "idf": 4.125628033008096
+    },
+    {
+        "keyword": "7",
+        "votes": 6,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "breaked",
+        "votes": 6,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "dealing",
+        "votes": 6,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "researcher",
+        "votes": 6,
+        "idf": 4.424121021564092
+    },
+    {
+        "keyword": "olivie",
+        "votes": 6,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "memes",
+        "votes": 6,
+        "idf": 5.257030144499196
+    },
+    {
+        "keyword": "versus",
+        "votes": 6,
+        "idf": 5.161719964694871
+    },
+    {
+        "keyword": "reality",
+        "votes": 6,
+        "idf": 5.074708587705242
+    },
+    {
+        "keyword": "hat",
+        "votes": 6,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 5,
+        "idf": 3.7094676357831835
+    },
+    {
+        "keyword": "uk",
+        "votes": 5,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "sale",
+        "votes": 5,
+        "idf": 5.161719964694871
+    },
+    {
+        "keyword": "send",
+        "votes": 5,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "401k",
+        "votes": 5,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "bright",
+        "votes": 5,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "questions",
+        "votes": 5,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "web",
+        "votes": 5,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "mining",
+        "votes": 5,
+        "idf": 3.608371518911815
+    },
+    {
+        "keyword": "unlocked",
+        "votes": 5,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "achievement",
+        "votes": 5,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "etc",
+        "votes": 5,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "black",
+        "votes": 5,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "tip",
+        "votes": 4,
+        "idf": 4.615176258326802
+    },
+    {
+        "keyword": "porn",
+        "votes": 4,
+        "idf": 5.480173695813406
+    },
+    {
+        "keyword": "190",
+        "votes": 4,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "wired",
+        "votes": 4,
+        "idf": 5.950177325059141
+    },
+    {
+        "keyword": "listing",
+        "votes": 4,
+        "idf": 5.257030144499196
+    },
+    {
+        "keyword": "various",
+        "votes": 4,
+        "idf": 5.950177325059141
+    },
+    {
+        "keyword": "monitor",
+        "votes": 4,
+        "idf": 5.950177325059141
+    },
+    {
+        "keyword": "safe",
+        "votes": 4,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "fam",
+        "votes": 4,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "asked",
+        "votes": 4,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "want",
+        "votes": 4,
+        "idf": 4.920557907877983
+    },
+    {
+        "keyword": "receive",
+        "votes": 4,
+        "idf": 5.950177325059141
+    },
+    {
+        "keyword": "coin",
+        "votes": 4,
+        "idf": 4.125628033008096
+    },
+    {
+        "keyword": "sitting",
+        "votes": 4,
+        "idf": 5.950177325059141
+    },
+    {
+        "keyword": "facebook",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "ch",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "adding",
+        "votes": 3,
+        "idf": 5.950177325059141
+    },
+    {
+        "keyword": "checkout",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "doge",
+        "votes": 3,
+        "idf": 3.9486973248490176
+    },
+    {
+        "keyword": "tipping",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "cc",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "one",
+        "votes": 3,
+        "idf": 5.074708587705242
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 3,
+        "idf": 3.8707357833793057
+    },
+    {
+        "keyword": "idea",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "exchange",
+        "votes": 3,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 3,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "illicitly",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "ivy",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "191",
+        "votes": 3,
+        "idf": 5.767855768265187
+    },
+    {
+        "keyword": "technology",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "course",
+        "votes": 3,
+        "idf": 5.950177325059141
+    },
+    {
+        "keyword": "follow",
+        "votes": 3,
+        "idf": 5.6137050884379285
+    },
+    {
+        "keyword": "cluster",
+        "votes": 3,
+        "idf": 5.950177325059141
+    },
+    {
+        "keyword": "coinye",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "alternatives",
+        "votes": 3,
+        "idf": 6.173320876373351
+    },
+    {
+        "keyword": "kimcoin",
+        "votes": 3,
+        "idf": 6.173320876373351
+    }
+]

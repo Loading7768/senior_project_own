@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "price",
+        "votes": 22,
+        "idf": 3.5909811961794835
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 22,
+        "idf": 4.010835041739748
+    },
+    {
+        "keyword": "approx",
+        "votes": 22,
+        "idf": 4.010835041739748
+    },
+    {
+        "keyword": "1m",
+        "votes": 22,
+        "idf": 4.010835041739748
+    },
+    {
+        "keyword": "11",
+        "votes": 21,
+        "idf": 4.055286804310581
+    },
+    {
+        "keyword": "8",
+        "votes": 21,
+        "idf": 4.055286804310581
+    },
+    {
+        "keyword": "12",
+        "votes": 21,
+        "idf": 4.010835041739748
+    },
+    {
+        "keyword": "09",
+        "votes": 18,
+        "idf": 4.150596984114906
+    },
+    {
+        "keyword": "ptc",
+        "votes": 15,
+        "idf": 4.373740535429116
+    },
+    {
+        "keyword": "qwark",
+        "votes": 13,
+        "idf": 4.373740535429116
+    },
+    {
+        "keyword": "4",
+        "votes": 10,
+        "idf": 3.4574498035549612
+    },
+    {
+        "keyword": "coin",
+        "votes": 9,
+        "idf": 4.101806819945475
+    },
+    {
+        "keyword": "mkt",
+        "votes": 7,
+        "idf": 5.066887715989061
+    },
+    {
+        "keyword": "cap",
+        "votes": 7,
+        "idf": 4.748433984870527
+    },
+    {
+        "keyword": "faucet",
+        "votes": 6,
+        "idf": 5.200419108613584
+    },
+    {
+        "keyword": "problem",
+        "votes": 6,
+        "idf": 5.200419108613584
+    },
+    {
+        "keyword": "buy",
+        "votes": 5,
+        "idf": 4.58137990020736
+    },
+    {
+        "keyword": "games",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "play",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "chat",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "invest",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "decide",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "trade",
+        "votes": 5,
+        "idf": 4.9491046803326775
+    },
+    {
+        "keyword": "everyone",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "earncrypto",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "myst",
+        "votes": 5,
+        "idf": 5.200419108613584
+    },
+    {
+        "keyword": "via",
+        "votes": 5,
+        "idf": 4.843744164674852
+    },
+    {
+        "keyword": "performers",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "track",
+        "votes": 5,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 4.843744164674852
+    },
+    {
+        "keyword": "5",
+        "votes": 4,
+        "idf": 3.7790334276824233
+    },
+    {
+        "keyword": "verge",
+        "votes": 4,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "aix",
+        "votes": 4,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "users",
+        "votes": 4,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "wings",
+        "votes": 4,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "redd",
+        "votes": 4,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "excuse",
+        "votes": 4,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "lack",
+        "votes": 4,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "packdoge",
+        "votes": 4,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "last",
+        "votes": 4,
+        "idf": 3.9274534328006965
+    },
+    {
+        "keyword": "popularity",
+        "votes": 4,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "index",
+        "votes": 4,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "social",
+        "votes": 4,
+        "idf": 5.200419108613584
+    },
+    {
+        "keyword": "1h",
+        "votes": 4,
+        "idf": 5.200419108613584
+    },
+    {
+        "keyword": "08",
+        "votes": 4,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "lol",
+        "votes": 3,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "including",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "free",
+        "votes": 3,
+        "idf": 3.3396667678985774
+    },
+    {
+        "keyword": "investing",
+        "votes": 3,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "get",
+        "votes": 3,
+        "idf": 4.101806819945475
+    },
+    {
+        "keyword": "nas",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "pundi",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "loom",
+        "votes": 3,
+        "idf": 4.843744164674852
+    },
+    {
+        "keyword": "launches",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "improbable",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "hero",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "bcd",
+        "votes": 3,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "bnb",
+        "votes": 3,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "7",
+        "votes": 3,
+        "idf": 3.8141247474936932
+    },
+    {
+        "keyword": "wall",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "embrace",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "boost",
+        "votes": 3,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "thank",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "poly",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "pm",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "ad",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "dbc",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "deepbrain",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "cennz",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "quoinex",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "rank",
+        "votes": 2,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "wallets",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "digital",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "currency",
+        "votes": 2,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "change",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "24h",
+        "votes": 2,
+        "idf": 4.843744164674852
+    },
+    {
+        "keyword": "building",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "wealth",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "want",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "125",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "sign",
+        "votes": 2,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "please",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "ctxc",
+        "votes": 2,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "lets",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "also",
+        "votes": 2,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "fuel",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "binance",
+        "votes": 2,
+        "idf": 4.9491046803326775
+    },
+    {
+        "keyword": "augur",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "vox",
+        "votes": 2,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "waves",
+        "votes": 2,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 2,
+        "idf": 5.354569788440842
+    },
+    {
+        "keyword": "may",
+        "votes": 2,
+        "idf": 5.536891345234797
+    },
+    {
+        "keyword": "follow",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "ai",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "46",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "53",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    },
+    {
+        "keyword": "universal",
+        "votes": 2,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "tokens",
+        "votes": 2,
+        "idf": 5.760034896549007
+    },
+    {
+        "keyword": "awesome",
+        "votes": 2,
+        "idf": 6.0477169690007875
+    }
+]

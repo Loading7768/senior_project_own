@@ -20,7 +20,7 @@
         "idf": 5.183789622574028
     },
     {
-        "keyword": "qtd",
+        "keyword": "fractal",
         "votes": 47,
         "idf": 5.166397879862158
     },
@@ -145,8 +145,358 @@
         "idf": 4.950174771392522
     },
     {
-        "keyword": "til",
+        "keyword": "past",
         "votes": 18,
+        "idf": 4.978345648359219
+    },
+    {
+        "keyword": "prices",
+        "votes": 18,
+        "idf": 5.700480365792417
+    },
+    {
+        "keyword": "400",
+        "votes": 18,
+        "idf": 5.589254730682192
+    },
+    {
+        "keyword": "please",
+        "votes": 18,
+        "idf": 5.115967026235266
+    },
+    {
+        "keyword": "value",
+        "votes": 17,
+        "idf": 5.149303446502858
+    },
+    {
+        "keyword": "7d",
+        "votes": 17,
+        "idf": 6.336469132512413
+    },
+    {
+        "keyword": "30d",
+        "votes": 17,
+        "idf": 6.336469132512413
+    },
+    {
+        "keyword": "historical",
+        "votes": 17,
+        "idf": 6.336469132512413
+    },
+    {
+        "keyword": "wiser",
+        "votes": 17,
         "idf": 6.282401911242137
+    },
+    {
+        "keyword": "equal",
+        "votes": 17,
+        "idf": 6.282401911242137
+    },
+    {
+        "keyword": "way",
+        "votes": 17,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "weekend",
+        "votes": 17,
+        "idf": 5.825643508746422
+    },
+    {
+        "keyword": "usd",
+        "votes": 17,
+        "idf": 4.820121643144324
+    },
+    {
+        "keyword": "let",
+        "votes": 16,
+        "idf": 5.27559717182715
+    },
+    {
+        "keyword": "tether",
+        "votes": 16,
+        "idf": 6.182318452685155
+    },
+    {
+        "keyword": "cardano",
+        "votes": 16,
+        "idf": 5.761104987608851
+    },
+    {
+        "keyword": "like",
+        "votes": 16,
+        "idf": 3.918573193007373
+    },
+    {
+        "keyword": "0",
+        "votes": 16,
+        "idf": 5.931004024404248
+    },
+    {
+        "keyword": "closing",
+        "votes": 16,
+        "idf": 6.336469132512413
+    },
+    {
+        "keyword": "hr",
+        "votes": 16,
+        "idf": 6.336469132512413
+    },
+    {
+        "keyword": "set",
+        "votes": 16,
+        "idf": 5.894636380233374
+    },
+    {
+        "keyword": "1",
+        "votes": 16,
+        "idf": 3.6284189314102027
+    },
+    {
+        "keyword": "tesla",
+        "votes": 16,
+        "idf": 5.465640774715015
+    },
+    {
+        "keyword": "next",
+        "votes": 15,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "peter",
+        "votes": 15,
+        "idf": 6.4542521681687965
+    },
+    {
+        "keyword": "ranking",
+        "votes": 15,
+        "idf": 6.4542521681687965
+    },
+    {
+        "keyword": "difference",
+        "votes": 15,
+        "idf": 6.393627546352362
+    },
+    {
+        "keyword": "get",
+        "votes": 15,
+        "idf": 4.139244555176194
+    },
+    {
+        "keyword": "inu",
+        "votes": 15,
+        "idf": 4.108847077991823
+    },
+    {
+        "keyword": "future",
+        "votes": 15,
+        "idf": 5.237856843844303
+    },
+    {
+        "keyword": "nice",
+        "votes": 14,
+        "idf": 5.894636380233374
+    },
+    {
+        "keyword": "accepting",
+        "votes": 14,
+        "idf": 5.825643508746422
+    },
+    {
+        "keyword": "going",
+        "votes": 14,
+        "idf": 4.456156265942913
+    },
+    {
+        "keyword": "pump",
+        "votes": 14,
+        "idf": 5.335020592297951
+    },
+    {
+        "keyword": "nano",
+        "votes": 14,
+        "idf": 5.700480365792417
+    },
+    {
+        "keyword": "thank",
+        "votes": 13,
+        "idf": 5.9687443523870956
+    },
+    {
+        "keyword": "lol",
+        "votes": 13,
+        "idf": 5.3556398795006865
+    },
+    {
+        "keyword": "yes",
+        "votes": 13,
+        "idf": 5.9687443523870956
+    },
+    {
+        "keyword": "payment",
+        "votes": 13,
+        "idf": 6.007965065540377
+    },
+    {
+        "keyword": "time",
+        "votes": 13,
+        "idf": 4.641873411738006
+    },
+    {
+        "keyword": "soon",
+        "votes": 13,
+        "idf": 5.067957807048906
+    },
+    {
+        "keyword": "sir",
+        "votes": 12,
+        "idf": 6.336469132512413
+    },
+    {
+        "keyword": "love",
+        "votes": 12,
+        "idf": 5.132496328186477
+    },
+    {
+        "keyword": "elon",
+        "votes": 12,
+        "idf": 4.857393037941556
+    },
+    {
+        "keyword": "say",
+        "votes": 11,
+        "idf": 5.537961436294641
+    },
+    {
+        "keyword": "better",
+        "votes": 11,
+        "idf": 5.537961436294641
+    },
+    {
+        "keyword": "one",
+        "votes": 11,
+        "idf": 3.775802436842877
+    },
+    {
+        "keyword": "eth",
+        "votes": 11,
+        "idf": 3.7420439569179225
+    },
+    {
+        "keyword": "best",
+        "votes": 11,
+        "idf": 4.978345648359219
+    },
+    {
+        "keyword": "30",
+        "votes": 11,
+        "idf": 5.792853685923431
+    },
+    {
+        "keyword": "tweet",
+        "votes": 11,
+        "idf": 5.761104987608851
+    },
+    {
+        "keyword": "giant",
+        "votes": 11,
+        "idf": 6.661891532947041
+    },
+    {
+        "keyword": "movie",
+        "votes": 11,
+        "idf": 6.661891532947041
+    },
+    {
+        "keyword": "sell",
+        "votes": 11,
+        "idf": 5.3556398795006865
+    },
+    {
+        "keyword": "good",
+        "votes": 11,
+        "idf": 4.572880540251054
+    },
+    {
+        "keyword": "morning",
+        "votes": 11,
+        "idf": 6.393627546352362
+    },
+    {
+        "keyword": "usdc",
+        "votes": 10,
+        "idf": 6.282401911242137
+    },
+    {
+        "keyword": "7",
+        "votes": 10,
+        "idf": 6.048787060060632
+    },
+    {
+        "keyword": "hold",
+        "votes": 10,
+        "idf": 5.314817884980432
+    },
+    {
+        "keyword": "friday",
+        "votes": 10,
+        "idf": 6.048787060060632
+    },
+    {
+        "keyword": "dog",
+        "votes": 10,
+        "idf": 5.537961436294641
+    },
+    {
+        "keyword": "starts",
+        "votes": 10,
+        "idf": 6.231108616854587
+    },
+    {
+        "keyword": "hour",
+        "votes": 10,
+        "idf": 4.157936688188347
+    },
+    {
+        "keyword": "xlm",
+        "votes": 10,
+        "idf": 5.671492828919164
+    },
+    {
+        "keyword": "make",
+        "votes": 10,
+        "idf": 4.844814255734696
+    },
+    {
+        "keyword": "bringing",
+        "votes": 10,
+        "idf": 6.661891532947041
+    },
+    {
+        "keyword": "btc",
+        "votes": 10,
+        "idf": 3.602823384221239
+    },
+    {
+        "keyword": "week",
+        "votes": 10,
+        "idf": 5.314817884980432
+    },
+    {
+        "keyword": "musk",
+        "votes": 10,
+        "idf": 5.563279244278931
+    },
+    {
+        "keyword": "strategy",
+        "votes": 10,
+        "idf": 6.518790689306368
+    },
+    {
+        "keyword": "hours",
+        "votes": 10,
+        "idf": 6.091346674479428
     }
 ]

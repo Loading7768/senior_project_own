@@ -1,0 +1,54 @@
+{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "Dogecoin",
+            "user_account": "dogecoims",
+            "text": "@dogecoin Great News!",
+            "created_at": "Mon May 07 15:09:27 +0000 2018",
+            "retweet": 3,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "Dogecoin",
+            "user_account": "dogecoin",
+            "text": "Timely reminder that no giveaway should ever need you to send them money, that would be insane. Don't send money to people who tell you they'll give you more back.",
+            "created_at": "Mon May 07 13:19:48 +0000 2018",
+            "retweet": 127,
+            "likes": 407,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "Dogecoin",
+            "user_account": "dogecoin",
+            "text": "Please remember this is an alpha release though, you should be comfortable compiling it, and should wait for at least the beta if not.",
+            "created_at": "Mon May 07 13:04:44 +0000 2018",
+            "retweet": 20,
+            "likes": 46,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Dogecoin",
+            "user_account": "dogecoin",
+            "text": "For service providers (especially exchanges and payment processors) with testnet environments, please test the latest alpha release: https://t.co/8QgEpa6pXH\n\nWe are doing small scale live money tests with this, but I don't recommend others do yet.\n\n- Ross",
+            "created_at": "Mon May 07 13:01:46 +0000 2018",
+            "retweet": 24,
+            "likes": 59,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5,
+            "username": "MovableSingularity",
+            "user_account": "MSingularity",
+            "text": "@AnselLindner I am just going to be proud of this, and not feel bad for BCH. @dogecoin_devs Oh look, charts.",
+            "created_at": "Mon May 07 03:21:15 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        }
+    ]
+}

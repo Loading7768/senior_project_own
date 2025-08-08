@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "7",
+        "votes": 30,
+        "idf": 3.2706520458910364
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 25,
+        "idf": 3.041810473462189
+    },
+    {
+        "keyword": "decreased",
+        "votes": 23,
+        "idf": 3.6479462770325046
+    },
+    {
+        "keyword": "increased",
+        "votes": 22,
+        "idf": 3.6905058914513007
+    },
+    {
+        "keyword": "act",
+        "votes": 19,
+        "idf": 3.6479462770325046
+    },
+    {
+        "keyword": "opens",
+        "votes": 18,
+        "idf": 3.5301632413761213
+    },
+    {
+        "keyword": "buy",
+        "votes": 13,
+        "idf": 3.9356283494842854
+    },
+    {
+        "keyword": "25",
+        "votes": 12,
+        "idf": 3.6905058914513007
+    },
+    {
+        "keyword": "sell",
+        "votes": 12,
+        "idf": 4.186942777765191
+    },
+    {
+        "keyword": "online",
+        "votes": 12,
+        "idf": 4.261050749918914
+    },
+    {
+        "keyword": "abc",
+        "votes": 12,
+        "idf": 4.261050749918914
+    },
+    {
+        "keyword": "via",
+        "votes": 11,
+        "idf": 3.8815611282140097
+    },
+    {
+        "keyword": "major",
+        "votes": 11,
+        "idf": 3.0193376176101303
+    },
+    {
+        "keyword": "error",
+        "votes": 10,
+        "idf": 4.428104834582079
+    },
+    {
+        "keyword": "4",
+        "votes": 10,
+        "idf": 4.34109345759245
+    },
+    {
+        "keyword": "yahoo",
+        "votes": 9,
+        "idf": 4.523415014386405
+    },
+    {
+        "keyword": "price",
+        "votes": 9,
+        "idf": 4.186942777765191
+    },
+    {
+        "keyword": "bookings",
+        "votes": 9,
+        "idf": 4.428104834582079
+    },
+    {
+        "keyword": "travel",
+        "votes": 9,
+        "idf": 4.34109345759245
+    },
+    {
+        "keyword": "news",
+        "votes": 9,
+        "idf": 4.428104834582079
+    },
+    {
+        "keyword": "simple",
+        "votes": 8,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "try",
+        "votes": 8,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "investing",
+        "votes": 8,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "across",
+        "votes": 8,
+        "idf": 4.628775530044231
+    },
+    {
+        "keyword": "starts",
+        "votes": 6,
+        "idf": 4.8800899583251365
+    },
+    {
+        "keyword": "24",
+        "votes": 6,
+        "idf": 4.8800899583251365
+    },
+    {
+        "keyword": "canberra",
+        "votes": 5,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "revitalizes",
+        "votes": 5,
+        "idf": 4.746558565700614
+    },
+    {
+        "keyword": "dogeparty",
+        "votes": 5,
+        "idf": 4.746558565700614
+    },
+    {
+        "keyword": "8",
+        "votes": 4,
+        "idf": 5.216562194946349
+    },
+    {
+        "keyword": "527",
+        "votes": 4,
+        "idf": 5.216562194946349
+    },
+    {
+        "keyword": "27",
+        "votes": 4,
+        "idf": 4.746558565700614
+    },
+    {
+        "keyword": "519",
+        "votes": 4,
+        "idf": 5.216562194946349
+    },
+    {
+        "keyword": "accepts",
+        "votes": 4,
+        "idf": 4.746558565700614
+    },
+    {
+        "keyword": "525",
+        "votes": 3,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "prices",
+        "votes": 3,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "latest",
+        "votes": 3,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "account",
+        "votes": 3,
+        "idf": 5.216562194946349
+    },
+    {
+        "keyword": "free",
+        "votes": 3,
+        "idf": 4.746558565700614
+    },
+    {
+        "keyword": "opened",
+        "votes": 3,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 5.034240638152395
+    },
+    {
+        "keyword": "98",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "creating",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "sign",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "competition",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "overclocking",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "raising",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "pink",
+        "votes": 2,
+        "idf": 5.216562194946349
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "45",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "added",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "catalog",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "528",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "fundamentals",
+        "votes": 2,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "deagle",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "fiat",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "metals",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "amagi",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "94",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "first",
+        "votes": 2,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "517",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "66",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "516",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "19",
+        "votes": 2,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "farm",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "start",
+        "votes": 2,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "easy",
+        "votes": 2,
+        "idf": 5.43970574626056
+    },
+    {
+        "keyword": "bitcoins",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "jim",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "comedian",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "million",
+        "votes": 2,
+        "idf": 5.727387818712341
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "asic",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "30mh",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "sending",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "yea",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "later",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "7453",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "521",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "xsi",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "2000",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "something",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "etc",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "yeah",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "75",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "assets",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "wor",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "podcast",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "salkeld",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "tent",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "service",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "need",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "hardware",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "accepted",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "quality",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "traffic",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "trade",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    },
+    {
+        "keyword": "1st",
+        "votes": 1,
+        "idf": 6.1328529268205045
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "coin",
+        "votes": 15,
+        "idf": 3.3581549441488563
+    },
+    {
+        "keyword": "rank",
+        "votes": 11,
+        "idf": 4.898599985096006
+    },
+    {
+        "keyword": "sinks",
+        "votes": 11,
+        "idf": 4.898599985096006
+    },
+    {
+        "keyword": "nine",
+        "votes": 11,
+        "idf": 4.898599985096006
+    },
+    {
+        "keyword": "stats",
+        "votes": 10,
+        "idf": 4.985611362085635
+    },
+    {
+        "keyword": "country",
+        "votes": 10,
+        "idf": 4.985611362085635
+    },
+    {
+        "keyword": "world",
+        "votes": 10,
+        "idf": 4.439067655717565
+    },
+    {
+        "keyword": "drops",
+        "votes": 9,
+        "idf": 4.898599985096006
+    },
+    {
+        "keyword": "might",
+        "votes": 8,
+        "idf": 4.985611362085635
+    },
+    {
+        "keyword": "security",
+        "votes": 8,
+        "idf": 4.675456433781796
+    },
+    {
+        "keyword": "buy",
+        "votes": 8,
+        "idf": 3.669934568179698
+    },
+    {
+        "keyword": "baby",
+        "votes": 8,
+        "idf": 4.292464181525689
+    },
+    {
+        "keyword": "sec",
+        "votes": 7,
+        "idf": 5.186282057547786
+    },
+    {
+        "keyword": "price",
+        "votes": 7,
+        "idf": 3.0794415416798357
+    },
+    {
+        "keyword": "dip",
+        "votes": 6,
+        "idf": 4.550293290827789
+    },
+    {
+        "keyword": "bought",
+        "votes": 6,
+        "idf": 4.439067655717565
+    },
+    {
+        "keyword": "percentage",
+        "votes": 6,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "current",
+        "votes": 6,
+        "idf": 3.576844145113686
+    },
+    {
+        "keyword": "bloomberg",
+        "votes": 6,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "panic",
+        "votes": 5,
+        "idf": 5.186282057547786
+    },
+    {
+        "keyword": "moon",
+        "votes": 5,
+        "idf": 5.0809215418899605
+    },
+    {
+        "keyword": "according",
+        "votes": 5,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "analyst",
+        "votes": 5,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "right",
+        "votes": 5,
+        "idf": 4.338984197160583
+    },
+    {
+        "keyword": "today",
+        "votes": 5,
+        "idf": 4.818557277422469
+    },
+    {
+        "keyword": "shib",
+        "votes": 4,
+        "idf": 3.6946271807700692
+    },
+    {
+        "keyword": "tether",
+        "votes": 4,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "11",
+        "votes": 4,
+        "idf": 5.186282057547786
+    },
+    {
+        "keyword": "1h",
+        "votes": 4,
+        "idf": 4.744449305268747
+    },
+    {
+        "keyword": "60d",
+        "votes": 4,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "90d",
+        "votes": 4,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "7d",
+        "votes": 4,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "let",
+        "votes": 4,
+        "idf": 4.985611362085635
+    },
+    {
+        "keyword": "go",
+        "votes": 4,
+        "idf": 4.338984197160583
+    },
+    {
+        "keyword": "cyptocurrencies",
+        "votes": 4,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "followers",
+        "votes": 4,
+        "idf": 5.591747165655951
+    },
+    {
+        "keyword": "selling",
+        "votes": 4,
+        "idf": 4.898599985096006
+    },
+    {
+        "keyword": "actual",
+        "votes": 4,
+        "idf": 5.591747165655951
+    },
+    {
+        "keyword": "xrp",
+        "votes": 4,
+        "idf": 4.338984197160583
+    },
+    {
+        "keyword": "2022",
+        "votes": 4,
+        "idf": 4.338984197160583
+    },
+    {
+        "keyword": "falling",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "sale",
+        "votes": 3,
+        "idf": 5.0809215418899605
+    },
+    {
+        "keyword": "know",
+        "votes": 3,
+        "idf": 4.387774361330015
+    },
+    {
+        "keyword": "based",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "wiser",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "historical",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "btc",
+        "votes": 3,
+        "idf": 3.19385189285758
+    },
+    {
+        "keyword": "52",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "jan",
+        "votes": 3,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "18",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "vision",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "yeah",
+        "votes": 3,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "fast",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "street",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "ready",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "swing",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "dips",
+        "votes": 3,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "rt",
+        "votes": 3,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "vol",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "sideways",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "closing",
+        "votes": 3,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "prices",
+        "votes": 3,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "update",
+        "votes": 3,
+        "idf": 4.610917912644224
+    },
+    {
+        "keyword": "difference",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "thats",
+        "votes": 3,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "far",
+        "votes": 3,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "value",
+        "votes": 3,
+        "idf": 4.675456433781796
+    },
+    {
+        "keyword": "alert",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "zone",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "oversold",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "started",
+        "votes": 3,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "going",
+        "votes": 3,
+        "idf": 4.550293290827789
+    },
+    {
+        "keyword": "issued",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "warning",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "cnbc",
+        "votes": 3,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "forever",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "regulation",
+        "votes": 3,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "000",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "58",
+        "votes": 3,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "jim",
+        "votes": 3,
+        "idf": 5.0809215418899605
+    },
+    {
+        "keyword": "life",
+        "votes": 3,
+        "idf": 5.591747165655951
+    },
+    {
+        "keyword": "together",
+        "votes": 2,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "tesla",
+        "votes": 2,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "thanks",
+        "votes": 2,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "bro",
+        "votes": 2,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "emergency",
+        "votes": 2,
+        "idf": 6.284894346215896
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 5.30406509320417
+    },
+    {
+        "keyword": "sold",
+        "votes": 2,
+        "idf": 5.591747165655951
+    },
+    {
+        "keyword": "needs",
+        "votes": 2,
+        "idf": 6.284894346215896
+    },
+    {
+        "keyword": "boy",
+        "votes": 2,
+        "idf": 6.284894346215896
+    },
+    {
+        "keyword": "f",
+        "votes": 2,
+        "idf": 5.774068722449905
+    },
+    {
+        "keyword": "u",
+        "votes": 2,
+        "idf": 5.591747165655951
+    },
+    {
+        "keyword": "following",
+        "votes": 2,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "hold",
+        "votes": 2,
+        "idf": 5.437596485828692
+    },
+    {
+        "keyword": "81",
+        "votes": 2,
+        "idf": 6.284894346215896
+    },
+    {
+        "keyword": "original",
+        "votes": 2,
+        "idf": 6.284894346215896
+    },
+    {
+        "keyword": "decline",
+        "votes": 2,
+        "idf": 6.284894346215896
+    },
+    {
+        "keyword": "found",
+        "votes": 2,
+        "idf": 6.284894346215896
+    },
+    {
+        "keyword": "ok",
+        "votes": 2,
+        "idf": 5.997212273764115
+    },
+    {
+        "keyword": "hope",
+        "votes": 2,
+        "idf": 5.774068722449905
+    }
+]

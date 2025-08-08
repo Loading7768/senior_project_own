@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "1",
+        "votes": 20,
+        "idf": 3.2626684855886032
+    },
+    {
+        "keyword": "0",
+        "votes": 18,
+        "idf": 3.453723722351312
+    },
+    {
+        "keyword": "error",
+        "votes": 10,
+        "idf": 4.000267428719383
+    },
+    {
+        "keyword": "across",
+        "votes": 9,
+        "idf": 4.095577608523707
+    },
+    {
+        "keyword": "price",
+        "votes": 9,
+        "idf": 3.9132560517297525
+    },
+    {
+        "keyword": "alt",
+        "votes": 7,
+        "idf": 4.318721159837917
+    },
+    {
+        "keyword": "tracker",
+        "votes": 7,
+        "idf": 4.318721159837917
+    },
+    {
+        "keyword": "9",
+        "votes": 7,
+        "idf": 4.318721159837917
+    },
+    {
+        "keyword": "8",
+        "votes": 6,
+        "idf": 4.45225255246244
+    },
+    {
+        "keyword": "7",
+        "votes": 6,
+        "idf": 4.45225255246244
+    },
+    {
+        "keyword": "supporting",
+        "votes": 5,
+        "idf": 4.318721159837917
+    },
+    {
+        "keyword": "accepting",
+        "votes": 4,
+        "idf": 4.788724789083652
+    },
+    {
+        "keyword": "get",
+        "votes": 4,
+        "idf": 4.095577608523707
+    },
+    {
+        "keyword": "strongest",
+        "votes": 4,
+        "idf": 4.788724789083652
+    },
+    {
+        "keyword": "become",
+        "votes": 4,
+        "idf": 4.788724789083652
+    },
+    {
+        "keyword": "start",
+        "votes": 3,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "today",
+        "votes": 3,
+        "idf": 4.318721159837917
+    },
+    {
+        "keyword": "exchanged",
+        "votes": 3,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "pink",
+        "votes": 3,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "faucet",
+        "votes": 3,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 4.000267428719383
+    },
+    {
+        "keyword": "sponsors",
+        "votes": 3,
+        "idf": 4.788724789083652
+    },
+    {
+        "keyword": "dc",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "ppcoin",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "games",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "come",
+        "votes": 2,
+        "idf": 4.45225255246244
+    },
+    {
+        "keyword": "various",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "safe",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "completely",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "owner",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "irresponsible",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "investors",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "included",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "release",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "tell",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "stream",
+        "votes": 2,
+        "idf": 4.606403232289698
+    },
+    {
+        "keyword": "help",
+        "votes": 2,
+        "idf": 4.788724789083652
+    },
+    {
+        "keyword": "first",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "providing",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "qr",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "codes",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "buy",
+        "votes": 2,
+        "idf": 4.45225255246244
+    },
+    {
+        "keyword": "facebook",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "earn",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "cloud",
+        "votes": 2,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "emote",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "quarkcoin",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "stats",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "worldcoin",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "\u00f0ogecoin",
+        "votes": 2,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "dogecrew",
+        "votes": 2,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "buying",
+        "votes": 2,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "free",
+        "votes": 2,
+        "idf": 4.095577608523707
+    },
+    {
+        "keyword": "coinok",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "sale",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "2500",
+        "votes": 2,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "forever",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "far",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "intend",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "processing",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "invests",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "push",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "logo",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "layout",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "huge",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "faucets",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "k",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "12",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "glove",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "cld",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "order",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "sponsored",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "tweeting",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "haha",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "colloidal",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "socially",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "fiscally",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "times",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "track",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "multiple",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "well",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "tweet",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "water",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "comprar",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "para",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "everton",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "156",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "episode",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "story",
+        "votes": 1,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "lulz",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "award",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "added",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "client",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "channel",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "coins",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "grown",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "man",
+        "votes": 1,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "browsing",
+        "votes": 1,
+        "idf": 5.705015520957808
+    }
+]

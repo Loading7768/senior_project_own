@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "6",
+        "votes": 40,
+        "idf": 3.0733253146623998
+    },
+    {
+        "keyword": "increased",
+        "votes": 30,
+        "idf": 3.3529101768815615
+    },
+    {
+        "keyword": "4",
+        "votes": 28,
+        "idf": 3.3856999997045523
+    },
+    {
+        "keyword": "7",
+        "votes": 21,
+        "idf": 3.651403165437558
+    },
+    {
+        "keyword": "simple",
+        "votes": 21,
+        "idf": 3.6958549280083917
+    },
+    {
+        "keyword": "investing",
+        "votes": 21,
+        "idf": 3.6958549280083917
+    },
+    {
+        "keyword": "theres",
+        "votes": 21,
+        "idf": 3.6958549280083917
+    },
+    {
+        "keyword": "2",
+        "votes": 19,
+        "idf": 3.6958549280083917
+    },
+    {
+        "keyword": "decreased",
+        "votes": 15,
+        "idf": 4.014308659126927
+    },
+    {
+        "keyword": "error",
+        "votes": 12,
+        "idf": 4.2219480239051705
+    },
+    {
+        "keyword": "sell",
+        "votes": 11,
+        "idf": 4.301990731578707
+    },
+    {
+        "keyword": "buy",
+        "votes": 11,
+        "idf": 4.078847180264498
+    },
+    {
+        "keyword": "libra",
+        "votes": 10,
+        "idf": 4.389002108568337
+    },
+    {
+        "keyword": "bitx",
+        "votes": 9,
+        "idf": 4.389002108568337
+    },
+    {
+        "keyword": "3",
+        "votes": 7,
+        "idf": 4.7074558396868715
+    },
+    {
+        "keyword": "expand",
+        "votes": 7,
+        "idf": 4.389002108568337
+    },
+    {
+        "keyword": "accepts",
+        "votes": 7,
+        "idf": 4.589672804030489
+    },
+    {
+        "keyword": "27",
+        "votes": 6,
+        "idf": 4.7074558396868715
+    },
+    {
+        "keyword": "23",
+        "votes": 6,
+        "idf": 4.840987232311394
+    },
+    {
+        "keyword": "travel",
+        "votes": 6,
+        "idf": 4.7074558396868715
+    },
+    {
+        "keyword": "incubator",
+        "votes": 5,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "partners",
+        "votes": 5,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "startup",
+        "votes": 5,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "24",
+        "votes": 5,
+        "idf": 4.2219480239051705
+    },
+    {
+        "keyword": "26",
+        "votes": 5,
+        "idf": 4.147840051751449
+    },
+    {
+        "keyword": "bookings",
+        "votes": 5,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "bucket",
+        "votes": 4,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "ice",
+        "votes": 4,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "accept",
+        "votes": 4,
+        "idf": 4.7074558396868715
+    },
+    {
+        "keyword": "store",
+        "votes": 4,
+        "idf": 5.177459468932607
+    },
+    {
+        "keyword": "hardware",
+        "votes": 4,
+        "idf": 5.177459468932607
+    },
+    {
+        "keyword": "great",
+        "votes": 4,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "x",
+        "votes": 4,
+        "idf": 5.177459468932607
+    },
+    {
+        "keyword": "doge",
+        "votes": 3,
+        "idf": 4.147840051751449
+    },
+    {
+        "keyword": "challenge",
+        "votes": 3,
+        "idf": 5.177459468932607
+    },
+    {
+        "keyword": "28",
+        "votes": 3,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "514",
+        "votes": 3,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "man",
+        "votes": 3,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "burning",
+        "votes": 3,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "rt",
+        "votes": 3,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "accepting",
+        "votes": 3,
+        "idf": 4.589672804030489
+    },
+    {
+        "keyword": "direct",
+        "votes": 3,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "shadowcoin",
+        "votes": 3,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "coin",
+        "votes": 2,
+        "idf": 4.484312288372662
+    },
+    {
+        "keyword": "08",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "yes",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "fundamentals",
+        "votes": 2,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "64",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "support",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "many",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "soon",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "added",
+        "votes": 2,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "cc",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "thanks",
+        "votes": 2,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "reminder",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "13",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "tell",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "490",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "topics",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "read",
+        "votes": 2,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "pls",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "currency",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "crypto",
+        "votes": 2,
+        "idf": 5.177459468932607
+    },
+    {
+        "keyword": "add",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "25",
+        "votes": 2,
+        "idf": 3.4910605153623786
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "pairs",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "stories",
+        "votes": 2,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "guidelines",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "office",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "australian",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "community",
+        "votes": 2,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "twitter",
+        "votes": 2,
+        "idf": 4.995137912138652
+    },
+    {
+        "keyword": "491",
+        "votes": 2,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "bought",
+        "votes": 1,
+        "idf": 5.688285092698598
+    },
+    {
+        "keyword": "miner",
+        "votes": 1,
+        "idf": 5.400603020246817
+    },
+    {
+        "keyword": "03",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "pinkcoin",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "reddcoin",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "vertcoin",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "click",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "learn",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "really",
+        "votes": 1,
+        "idf": 3.651403165437558
+    },
+    {
+        "keyword": "well",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "specialist",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "attitude",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "7559",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "account",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "follow",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "latest",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "placed",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "pay",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "order",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "thank",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "infecting",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "point",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "jury",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "downloaded",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "79",
+        "votes": 1,
+        "idf": 6.093750200806762
+    },
+    {
+        "keyword": "7341",
+        "votes": 1,
+        "idf": 6.093750200806762
+    }
+]

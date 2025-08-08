@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "go",
+        "votes": 5,
+        "idf": 3.906120114864304
+    },
+    {
+        "keyword": "wow",
+        "votes": 5,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "sorry",
+        "votes": 5,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "coin",
+        "votes": 5,
+        "idf": 3.4849066497880004
+    },
+    {
+        "keyword": "dead",
+        "votes": 4,
+        "idf": 5.341204640153626
+    },
+    {
+        "keyword": "spend",
+        "votes": 4,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "speak",
+        "votes": 4,
+        "idf": 5.341204640153626
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.385693195126191
+    },
+    {
+        "keyword": "sys",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "bonk",
+        "votes": 3,
+        "idf": 3.815148336658577
+    },
+    {
+        "keyword": "telegrams",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "handing",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "users",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "monumental",
+        "votes": 3,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "129",
+        "votes": 3,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "future",
+        "votes": 3,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "futures",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "discovered",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "waiting",
+        "votes": 3,
+        "idf": 5.1588830833596715
+    },
+    {
+        "keyword": "mp",
+        "votes": 3,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "crowd",
+        "votes": 3,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "stats",
+        "votes": 3,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "1hr",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "revolutionized",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "field",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "supported",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "1y",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "upto",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "k",
+        "votes": 3,
+        "idf": 5.1588830833596715
+    },
+    {
+        "keyword": "longed",
+        "votes": 3,
+        "idf": 5.1588830833596715
+    },
+    {
+        "keyword": "cushion",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "11",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "plunges",
+        "votes": 3,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "happy",
+        "votes": 2,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "added",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "lets",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "coming",
+        "votes": 2,
+        "idf": 4.552747279789356
+    },
+    {
+        "keyword": "base",
+        "votes": 2,
+        "idf": 4.117429208531511
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 3.815148336658577
+    },
+    {
+        "keyword": "money",
+        "votes": 2,
+        "idf": 4.871201010907891
+    },
+    {
+        "keyword": "much",
+        "votes": 2,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "june",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "sets",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "aggressive",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "exposing",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "next",
+        "votes": 2,
+        "idf": 4.465735902799727
+    },
+    {
+        "keyword": "meme",
+        "votes": 2,
+        "idf": 3.4849066497880004
+    },
+    {
+        "keyword": "v",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "hodl",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "kabosu",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "flow",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "trade",
+        "votes": 2,
+        "idf": 5.341204640153626
+    },
+    {
+        "keyword": "access",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "\u02ce",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "\u30ce",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "giko",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "sputnik",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "built",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "things",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "reaching",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "way",
+        "votes": 2,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "16",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "knows",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "cars",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "hits",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 5.1588830833596715
+    },
+    {
+        "keyword": "lingo",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "plot",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "twist",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "dino",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "pino",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "frog",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "spot",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "week",
+        "votes": 2,
+        "idf": 5.341204640153626
+    },
+    {
+        "keyword": "crash",
+        "votes": 2,
+        "idf": 5.341204640153626
+    },
+    {
+        "keyword": "inu",
+        "votes": 2,
+        "idf": 4.648057459593681
+    },
+    {
+        "keyword": "gm",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "good",
+        "votes": 2,
+        "idf": 4.753417975251507
+    },
+    {
+        "keyword": "luck",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "stick",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "side",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "macro",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "great",
+        "votes": 2,
+        "idf": 5.004732403532413
+    },
+    {
+        "keyword": "pool",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "600",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "kick",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "time",
+        "votes": 2,
+        "idf": 4.552747279789356
+    },
+    {
+        "keyword": "flipped",
+        "votes": 2,
+        "idf": 5.1588830833596715
+    },
+    {
+        "keyword": "trending",
+        "votes": 2,
+        "idf": 5.564348191467836
+    },
+    {
+        "keyword": "polyx",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "aca",
+        "votes": 2,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "401k",
+        "votes": 1,
+        "idf": 6.2574953720277815
+    },
+    {
+        "keyword": "cash",
+        "votes": 1,
+        "idf": 6.2574953720277815
+    },
+    {
+        "keyword": "put",
+        "votes": 1,
+        "idf": 5.852030263919617
+    },
+    {
+        "keyword": "hour",
+        "votes": 1,
+        "idf": 6.2574953720277815
+    },
+    {
+        "keyword": "befi",
+        "votes": 1,
+        "idf": 6.2574953720277815
+    },
+    {
+        "keyword": "panda",
+        "votes": 1,
+        "idf": 6.2574953720277815
+    },
+    {
+        "keyword": "hook",
+        "votes": 1,
+        "idf": 6.2574953720277815
+    },
+    {
+        "keyword": "ltc",
+        "votes": 1,
+        "idf": 6.2574953720277815
+    },
+    {
+        "keyword": "ldo",
+        "votes": 1,
+        "idf": 6.2574953720277815
+    }
+]

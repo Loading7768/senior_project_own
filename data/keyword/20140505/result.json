@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "machine",
+        "votes": 21,
+        "idf": 3.1051498983900427
+    },
+    {
+        "keyword": "moolah",
+        "votes": 16,
+        "idf": 3.2386812910145655
+    },
+    {
+        "keyword": "freeze",
+        "votes": 15,
+        "idf": 3.192161275379673
+    },
+    {
+        "keyword": "doge",
+        "votes": 15,
+        "idf": 3.1051498983900427
+    },
+    {
+        "keyword": "audit",
+        "votes": 14,
+        "idf": 3.192161275379673
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 8,
+        "idf": 4.085979151401769
+    },
+    {
+        "keyword": "move",
+        "votes": 7,
+        "idf": 4.203762187058153
+    },
+    {
+        "keyword": "gets",
+        "votes": 7,
+        "idf": 4.085979151401769
+    },
+    {
+        "keyword": "6",
+        "votes": 7,
+        "idf": 4.085979151401769
+    },
+    {
+        "keyword": "photo",
+        "votes": 5,
+        "idf": 4.491444259509933
+    },
+    {
+        "keyword": "per",
+        "votes": 4,
+        "idf": 4.085979151401769
+    },
+    {
+        "keyword": "via",
+        "votes": 4,
+        "idf": 4.337293579682675
+    },
+    {
+        "keyword": "exchange",
+        "votes": 4,
+        "idf": 4.673765816303888
+    },
+    {
+        "keyword": "digital",
+        "votes": 4,
+        "idf": 4.491444259509933
+    },
+    {
+        "keyword": "facebook",
+        "votes": 4,
+        "idf": 4.673765816303888
+    },
+    {
+        "keyword": "posted",
+        "votes": 4,
+        "idf": 4.673765816303888
+    },
+    {
+        "keyword": "makes",
+        "votes": 4,
+        "idf": 3.9806186357439426
+    },
+    {
+        "keyword": "4",
+        "votes": 3,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "alt",
+        "votes": 3,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "internet",
+        "votes": 3,
+        "idf": 4.673765816303888
+    },
+    {
+        "keyword": "talks",
+        "votes": 3,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "love",
+        "votes": 3,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "although",
+        "votes": 3,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "wall",
+        "votes": 3,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "journal",
+        "votes": 3,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "news",
+        "votes": 3,
+        "idf": 4.491444259509933
+    },
+    {
+        "keyword": "convert",
+        "votes": 3,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "tracker",
+        "votes": 2,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 4.491444259509933
+    },
+    {
+        "keyword": "theverge",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "crypto",
+        "votes": 2,
+        "idf": 4.673765816303888
+    },
+    {
+        "keyword": "yahoo",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "luck",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "retweet",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "value",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "speaks",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "coinreport",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "driver",
+        "votes": 2,
+        "idf": 4.337293579682675
+    },
+    {
+        "keyword": "supporting",
+        "votes": 2,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "good",
+        "votes": 2,
+        "idf": 4.673765816303888
+    },
+    {
+        "keyword": "blog",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 4.203762187058153
+    },
+    {
+        "keyword": "bitbeat",
+        "votes": 2,
+        "idf": 4.203762187058153
+    },
+    {
+        "keyword": "madbitcoins",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "live",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "job",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "signs",
+        "votes": 2,
+        "idf": 3.885308455939618
+    },
+    {
+        "keyword": "games",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "playing",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "gamerholic",
+        "votes": 2,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "bitbea",
+        "votes": 2,
+        "idf": 4.896909367618098
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "photos",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "w",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "team",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "null",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "okay",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "future",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "\u00f0oge",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "moon",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "look",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "forward",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "myecheck",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "myec",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "inc",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "2",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "may",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "video",
+        "votes": 1,
+        "idf": 4.203762187058153
+    },
+    {
+        "keyword": "jos",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "breaking",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "last",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "hr",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "435",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "spend",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "grinding",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "grind",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "comments",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "check",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "gif",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "media",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "amazon",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "accepts",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "cont",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "true",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "raced",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "wi",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "trad",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "giftcards",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "berlin",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "thanks",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "following",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "post",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "new",
+        "votes": 1,
+        "idf": 4.203762187058153
+    },
+    {
+        "keyword": "save",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "celebrate",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "june",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "tech",
+        "votes": 1,
+        "idf": 5.1845914400698785
+    },
+    {
+        "keyword": "doll",
+        "votes": 1,
+        "idf": 5.590056548178043
+    },
+    {
+        "keyword": "traded",
+        "votes": 1,
+        "idf": 5.590056548178043
+    }
+]

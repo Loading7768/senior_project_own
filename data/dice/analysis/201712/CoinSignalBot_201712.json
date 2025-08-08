@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "5 min #RSI Signals:\n\n$BTC - $DGB: 24.31\n$BTC - $BAT: 30.18\n$BTC - $DOGE: 32.42\n$BTC - $OK: 32.92\n$BTC - $LTC: 34.65\n\n$BLITZ $SNGLS $VOX",
+        "X_token": "5, min, rsi, signals, btc, dgb, btc, bat, btc, doge, btc, ok, btc, ltc, blitz, sngls, vox",
+        "X_tweet_count": 248,
+        "X_username": "CoinSignalBot",
+        "Y_text": "5 min #RSI Signals:\n\n$BTC - $BAT: 26.46\n$BTC - $DOGE: 31.27\n$BTC - $LGD: 31.31\n$BTC - $XVG: 32.58\n$BTC - $LTC: 33.64\n\n$SNGLS $GCR $DGB",
+        "Y_token": "5, min, rsi, signals, btc, bat, btc, doge, btc, lgd, btc, xvg, btc, ltc, sngls, gcr, dgb",
+        "Y_tweet_count": 256,
+        "Y_username": "CoinSignalBot",
+        "X_length": 135,
+        "Y_length": 134,
+        "Y_length_percent_of_X": 99.26,
+        "X_length_percent_of_Y": 100.75,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "15 min #RSI Signals:\n\n$BTC - $LTC: 32.17\n$BTC - $DOGE: 35.81\n$BTC - $DASH: 35.89\n$BTC - $ZEC: 37.0\n$BTC - $SC: 38.75\n\n$XDN $PTOY $BTG $TX",
+        "X_token": "15, min, rsi, signals, btc, ltc, btc, doge, btc, dash, btc, zec, btc, sc, xdn, ptoy, btg, tx",
+        "X_tweet_count": 255,
+        "X_username": "CoinSignalBot",
+        "Y_text": "15 min #RSI Signals:\n\n$BTC - $LTC: 30.89\n$BTC - $DOGE: 35.81\n$BTC - $DASH: 38.61\n$BTC - $ZEC: 39.01\n$BTC - $SC: 39.51\n\n$MER $CANN $QRL",
+        "Y_token": "15, min, rsi, signals, btc, ltc, btc, doge, btc, dash, btc, zec, btc, sc, mer, cann, qrl",
+        "Y_tweet_count": 257,
+        "Y_username": "CoinSignalBot",
+        "X_length": 137,
+        "Y_length": 134,
+        "Y_length_percent_of_X": 97.81,
+        "X_length_percent_of_Y": 102.24,
+        "dice_coefficient": 74.07
+    },
+    {
+        "X_text": "5 min #RSI Signals:\n\n$BTC - $LTC: 29.99\n$BTC - $BCC: 34.43\n$BTC - $DOGE: 36.75\n$BTC - $ZEC: 37.12\n$BTC - $HMQ: 37.69\n\n$VOX $EMC2 $FUN $SC",
+        "X_token": "5, min, rsi, signals, btc, ltc, btc, bcc, btc, doge, btc, zec, btc, hmq, vox, emc2, fun, sc",
+        "X_tweet_count": 260,
+        "X_username": "CoinSignalBot",
+        "Y_text": "5 min #RSI Signals:\n\n$BTC - $DOGE: 31.49\n$BTC - $BCC: 35.19\n$BTC - $LTC: 36.09\n$BTC - $ZEC: 37.47\n$BTC - $HMQ: 38.43\n\n$RISE $TIX $XLM $TX",
+        "Y_token": "5, min, rsi, signals, btc, doge, btc, bcc, btc, ltc, btc, zec, btc, hmq, rise, tix, xlm, tx",
+        "Y_tweet_count": 264,
+        "Y_username": "CoinSignalBot",
+        "X_length": 137,
+        "Y_length": 137,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "5 min #RSI Signals:\n\n$BTC - $ENG: 23.94\n$BTC - $DOGE: 34.54\n$BTC - $CVC: 35.57\n$BTC - $MCO: 35.67\n$BTC - $KMD: 36.85\n\n$SC $BLITZ $MYST",
+        "X_token": "5, min, rsi, signals, btc, eng, btc, doge, btc, cvc, btc, mco, btc, kmd, sc, blitz, myst",
+        "X_tweet_count": 280,
+        "X_username": "CoinSignalBot",
+        "Y_text": "5 min #RSI Signals:\n\n$BTC - $ENG: 26.33\n$BTC - $CVC: 33.01\n$BTC - $DOGE: 34.54\n$BTC - $KMD: 36.74\n$BTC - $AMP: 37.01\n\n$EMC $HMQ $TRST $SC",
+        "Y_token": "5, min, rsi, signals, btc, eng, btc, cvc, btc, doge, btc, kmd, btc, amp, emc, hmq, trst, sc",
+        "Y_tweet_count": 281,
+        "Y_username": "CoinSignalBot",
+        "X_length": 134,
+        "Y_length": 137,
+        "Y_length_percent_of_X": 102.24,
+        "X_length_percent_of_Y": 97.81,
+        "dice_coefficient": 74.07
+    }
+]

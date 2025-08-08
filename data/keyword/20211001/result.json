@@ -65,12 +65,12 @@
         "idf": 3.020222182019865
     },
     {
-        "keyword": "scroll",
+        "keyword": "updates",
         "votes": 8,
         "idf": 5.428167790671736
     },
     {
-        "keyword": "updates",
+        "keyword": "scroll",
         "votes": 8,
         "idf": 5.428167790671736
     },
@@ -80,12 +80,12 @@
         "idf": 5.428167790671736
     },
     {
-        "keyword": "upgrades",
+        "keyword": "thrive",
         "votes": 8,
         "idf": 5.428167790671736
     },
     {
-        "keyword": "thrive",
+        "keyword": "upgrades",
         "votes": 7,
         "idf": 5.428167790671736
     },
@@ -110,13 +110,18 @@
         "idf": 4.986335038392697
     },
     {
-        "keyword": "lit",
+        "keyword": "zen",
         "votes": 6,
         "idf": 5.679482218952643
     },
     {
-        "keyword": "cvt",
+        "keyword": "call",
         "votes": 6,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "ears",
+        "votes": 5,
         "idf": 5.679482218952643
     },
     {
@@ -148,5 +153,350 @@
         "keyword": "weekend",
         "votes": 5,
         "idf": 5.54595082632812
+    },
+    {
+        "keyword": "0",
+        "votes": 5,
+        "idf": 5.833632898779901
+    },
+    {
+        "keyword": "10",
+        "votes": 5,
+        "idf": 4.852803645768175
+    },
+    {
+        "keyword": "update",
+        "votes": 5,
+        "idf": 4.680953388841516
+    },
+    {
+        "keyword": "mdoge",
+        "votes": 5,
+        "idf": 5.833632898779901
+    },
+    {
+        "keyword": "total",
+        "votes": 5,
+        "idf": 5.428167790671736
+    },
+    {
+        "keyword": "play",
+        "votes": 5,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "win",
+        "votes": 5,
+        "idf": 5.54595082632812
+    },
+    {
+        "keyword": "good",
+        "votes": 4,
+        "idf": 4.680953388841516
+    },
+    {
+        "keyword": "start",
+        "votes": 4,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "08",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "tether",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "cardano",
+        "votes": 4,
+        "idf": 5.833632898779901
+    },
+    {
+        "keyword": "binance",
+        "votes": 4,
+        "idf": 5.54595082632812
+    },
+    {
+        "keyword": "need",
+        "votes": 4,
+        "idf": 5.227497095209586
+    },
+    {
+        "keyword": "dyor",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "wiser",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "historical",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "03",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "eth",
+        "votes": 4,
+        "idf": 3.6741486494265287
+    },
+    {
+        "keyword": "past",
+        "votes": 4,
+        "idf": 4.917342166905746
+    },
+    {
+        "keyword": "samo",
+        "votes": 4,
+        "idf": 4.629660094453965
+    },
+    {
+        "keyword": "ranking",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "closing",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "hr",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "prices",
+        "votes": 4,
+        "idf": 5.833632898779901
+    },
+    {
+        "keyword": "2",
+        "votes": 4,
+        "idf": 4.2241949863458
+    },
+    {
+        "keyword": "look",
+        "votes": 4,
+        "idf": 5.54595082632812
+    },
+    {
+        "keyword": "157m",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "net",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "hrs",
+        "votes": 4,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "pump",
+        "votes": 4,
+        "idf": 5.54595082632812
+    },
+    {
+        "keyword": "1",
+        "votes": 4,
+        "idf": 3.4058846628318493
+    },
+    {
+        "keyword": "life",
+        "votes": 4,
+        "idf": 5.428167790671736
+    },
+    {
+        "keyword": "love",
+        "votes": 4,
+        "idf": 4.19140516352281
+    },
+    {
+        "keyword": "rvn",
+        "votes": 4,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "ready",
+        "votes": 3,
+        "idf": 6.2390980068880655
+    },
+    {
+        "keyword": "time",
+        "votes": 3,
+        "idf": 4.447338537660011
+    },
+    {
+        "keyword": "hey",
+        "votes": 3,
+        "idf": 5.32280727501391
+    },
+    {
+        "keyword": "got",
+        "votes": 3,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "october",
+        "votes": 3,
+        "idf": 4.917342166905746
+    },
+    {
+        "keyword": "benzinga",
+        "votes": 3,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "perks",
+        "votes": 3,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "elon",
+        "votes": 3,
+        "idf": 5.1404857182199555
+    },
+    {
+        "keyword": "looks",
+        "votes": 3,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "25",
+        "votes": 3,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "cents",
+        "votes": 3,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "greater",
+        "votes": 3,
+        "idf": 6.2390980068880655
+    },
+    {
+        "keyword": "day",
+        "votes": 3,
+        "idf": 4.852803645768175
+    },
+    {
+        "keyword": "mooooooon",
+        "votes": 3,
+        "idf": 6.2390980068880655
+    },
+    {
+        "keyword": "05",
+        "votes": 3,
+        "idf": 6.2390980068880655
+    },
+    {
+        "keyword": "hour",
+        "votes": 3,
+        "idf": 3.841202734089695
+    },
+    {
+        "keyword": "join",
+        "votes": 3,
+        "idf": 5.428167790671736
+    },
+    {
+        "keyword": "daily",
+        "votes": 3,
+        "idf": 5.833632898779901
+    },
+    {
+        "keyword": "24",
+        "votes": 3,
+        "idf": 5.32280727501391
+    },
+    {
+        "keyword": "tipped",
+        "votes": 3,
+        "idf": 6.2390980068880655
+    },
+    {
+        "keyword": "wow",
+        "votes": 3,
+        "idf": 4.680953388841516
+    },
+    {
+        "keyword": "happy",
+        "votes": 3,
+        "idf": 4.986335038392697
+    },
+    {
+        "keyword": "model",
+        "votes": 3,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "far",
+        "votes": 3,
+        "idf": 6.2390980068880655
+    },
+    {
+        "keyword": "green",
+        "votes": 3,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "cool",
+        "votes": 3,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "back",
+        "votes": 3,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "lets",
+        "votes": 3,
+        "idf": 6.015954455573856
+    },
+    {
+        "keyword": "downwards",
+        "votes": 3,
+        "idf": 6.2390980068880655
+    },
+    {
+        "keyword": "today",
+        "votes": 3,
+        "idf": 4.79217902395174
+    },
+    {
+        "keyword": "right",
+        "votes": 3,
+        "idf": 4.917342166905746
+    },
+    {
+        "keyword": "yes",
+        "votes": 3,
+        "idf": 5.679482218952643
+    },
+    {
+        "keyword": "thanks",
+        "votes": 3,
+        "idf": 5.833632898779901
+    },
+    {
+        "keyword": "stop",
+        "votes": 3,
+        "idf": 5.833632898779901
     }
 ]

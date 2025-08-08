@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "role",
+        "votes": 66,
+        "idf": 3.3953668264450116
+    },
+    {
+        "keyword": "development",
+        "votes": 46,
+        "idf": 3.8218853437510085
+    },
+    {
+        "keyword": "de",
+        "votes": 36,
+        "idf": 4.061115032816843
+    },
+    {
+        "keyword": "additional",
+        "votes": 34,
+        "idf": 3.9831534913471307
+    },
+    {
+        "keyword": "concerns",
+        "votes": 32,
+        "idf": 3.9831534913471307
+    },
+    {
+        "keyword": "9",
+        "votes": 31,
+        "idf": 4.20629704266134
+    },
+    {
+        "keyword": "cryptsy",
+        "votes": 29,
+        "idf": 3.5288982190695344
+    },
+    {
+        "keyword": "8",
+        "votes": 28,
+        "idf": 4.304737115474593
+    },
+    {
+        "keyword": "price",
+        "votes": 26,
+        "idf": 3.9584608787567594
+    },
+    {
+        "keyword": "creator",
+        "votes": 25,
+        "idf": 3.9584608787567594
+    },
+    {
+        "keyword": "6",
+        "votes": 25,
+        "idf": 4.376196079456738
+    },
+    {
+        "keyword": "via",
+        "votes": 24,
+        "idf": 4.20629704266134
+    },
+    {
+        "keyword": "prominent",
+        "votes": 24,
+        "idf": 3.3953668264450116
+    },
+    {
+        "keyword": "c",
+        "votes": 19,
+        "idf": 4.627510507737645
+    },
+    {
+        "keyword": "cu",
+        "votes": 18,
+        "idf": 4.727593966294627
+    },
+    {
+        "keyword": "across",
+        "votes": 17,
+        "idf": 4.781661187564902
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 17,
+        "idf": 3.2900063107871858
+    },
+    {
+        "keyword": "0",
+        "votes": 17,
+        "idf": 4.781661187564902
+    },
+    {
+        "keyword": "techcrunch",
+        "votes": 15,
+        "idf": 4.899444223221286
+    },
+    {
+        "keyword": "cst",
+        "votes": 13,
+        "idf": 5.0329756158458085
+    },
+    {
+        "keyword": "1",
+        "votes": 13,
+        "idf": 4.963982744358857
+    },
+    {
+        "keyword": "2",
+        "votes": 13,
+        "idf": 4.838819601404851
+    },
+    {
+        "keyword": "7",
+        "votes": 12,
+        "idf": 5.10708358799953
+    },
+    {
+        "keyword": "ticker",
+        "votes": 10,
+        "idf": 5.274137672662697
+    },
+    {
+        "keyword": "news",
+        "votes": 9,
+        "idf": 5.10708358799953
+    },
+    {
+        "keyword": "alt",
+        "votes": 8,
+        "idf": 5.474808368124847
+    },
+    {
+        "keyword": "tracker",
+        "votes": 8,
+        "idf": 5.474808368124847
+    },
+    {
+        "keyword": "miscellaneous",
+        "votes": 8,
+        "idf": 5.474808368124847
+    },
+    {
+        "keyword": "join",
+        "votes": 7,
+        "idf": 5.592591403781231
+    },
+    {
+        "keyword": "growth",
+        "votes": 7,
+        "idf": 5.592591403781231
+    },
+    {
+        "keyword": "wow",
+        "votes": 7,
+        "idf": 5.3694478524670215
+    },
+    {
+        "keyword": "particularly",
+        "votes": 7,
+        "idf": 3.3953668264450116
+    },
+    {
+        "keyword": "3",
+        "votes": 7,
+        "idf": 5.474808368124847
+    },
+    {
+        "keyword": "supporting",
+        "votes": 6,
+        "idf": 5.3694478524670215
+    },
+    {
+        "keyword": "parsons",
+        "votes": 6,
+        "idf": 5.474808368124847
+    },
+    {
+        "keyword": "error",
+        "votes": 6,
+        "idf": 5.726122796405754
+    },
+    {
+        "keyword": "electronics",
+        "votes": 6,
+        "idf": 5.726122796405754
+    },
+    {
+        "keyword": "coinsfortech",
+        "votes": 6,
+        "idf": 5.726122796405754
+    },
+    {
+        "keyword": "decline",
+        "votes": 6,
+        "idf": 5.726122796405754
+    },
+    {
+        "keyword": "bits",
+        "votes": 6,
+        "idf": 5.0329756158458085
+    },
+    {
+        "keyword": "cr",
+        "votes": 6,
+        "idf": 3.3282275236073833
+    },
+    {
+        "keyword": "gaw",
+        "votes": 5,
+        "idf": 5.880273476233012
+    },
+    {
+        "keyword": "hashbase",
+        "votes": 5,
+        "idf": 5.880273476233012
+    },
+    {
+        "keyword": "platform",
+        "votes": 5,
+        "idf": 5.880273476233012
+    },
+    {
+        "keyword": "exchange",
+        "votes": 5,
+        "idf": 5.592591403781231
+    },
+    {
+        "keyword": "currency",
+        "votes": 5,
+        "idf": 3.302585092994046
+    },
+    {
+        "keyword": "new",
+        "votes": 5,
+        "idf": 4.899444223221286
+    },
+    {
+        "keyword": "rt",
+        "votes": 5,
+        "idf": 4.963982744358857
+    },
+    {
+        "keyword": "buy",
+        "votes": 5,
+        "idf": 5.592591403781231
+    },
+    {
+        "keyword": "4",
+        "votes": 4,
+        "idf": 5.726122796405754
+    },
+    {
+        "keyword": "vergeet",
+        "votes": 4,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "racing",
+        "votes": 4,
+        "idf": 5.474808368124847
+    },
+    {
+        "keyword": "98",
+        "votes": 4,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "return",
+        "votes": 4,
+        "idf": 5.880273476233012
+    },
+    {
+        "keyword": "accusations",
+        "votes": 4,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "october",
+        "votes": 4,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "moo",
+        "votes": 4,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "develo",
+        "votes": 4,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "dev",
+        "votes": 4,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "death",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "thank",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "topper",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "submitting",
+        "votes": 3,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "business",
+        "votes": 3,
+        "idf": 5.880273476233012
+    },
+    {
+        "keyword": "providing",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "easy",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "qr",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "wise",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "closes",
+        "votes": 3,
+        "idf": 5.880273476233012
+    },
+    {
+        "keyword": "partner",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "service",
+        "votes": 3,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "shut",
+        "votes": 3,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "guest",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "special",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "5",
+        "votes": 3,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "thanks",
+        "votes": 3,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "mool",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "curr",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "green",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "alex",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "crisis",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "closure",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "announces",
+        "votes": 3,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "th",
+        "votes": 3,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "light",
+        "votes": 3,
+        "idf": 5.592591403781231
+    },
+    {
+        "keyword": "idea",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "still",
+        "votes": 2,
+        "idf": 5.880273476233012
+    },
+    {
+        "keyword": "store",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "want",
+        "votes": 2,
+        "idf": 6.062595033026967
+    },
+    {
+        "keyword": "las",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "car",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "bankruptcy",
+        "votes": 2,
+        "idf": 3.7802126473504405
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 2,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "resurrection",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "doors",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "close",
+        "votes": 2,
+        "idf": 6.285738584341177
+    },
+    {
+        "keyword": "environment",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "volatile",
+        "votes": 2,
+        "idf": 6.573420656792957
+    },
+    {
+        "keyword": "well",
+        "votes": 2,
+        "idf": 6.285738584341177
+    }
+]

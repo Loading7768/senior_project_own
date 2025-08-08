@@ -65,7 +65,7 @@
         "idf": 5.249246839228671
     },
     {
-        "keyword": "percentage",
+        "keyword": "past",
         "votes": 13,
         "idf": 5.4856356172929015
     },
@@ -73,6 +73,11 @@
         "keyword": "millionaire",
         "votes": 12,
         "idf": 5.197953544841121
+    },
+    {
+        "keyword": "1h",
+        "votes": 11,
+        "idf": 5.1491633806716886
     },
     {
         "keyword": "going",
@@ -83,11 +88,6 @@
         "keyword": "binance",
         "votes": 11,
         "idf": 5.4856356172929015
-    },
-    {
-        "keyword": "1h",
-        "votes": 10,
-        "idf": 5.1491633806716886
     },
     {
         "keyword": "love",
@@ -148,5 +148,355 @@
         "keyword": "news",
         "votes": 7,
         "idf": 5.554628488779853
+    },
+    {
+        "keyword": "like",
+        "votes": 7,
+        "idf": 4.242442099813685
+    },
+    {
+        "keyword": "dyor",
+        "votes": 7,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "wiser",
+        "votes": 7,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "hourly",
+        "votes": 7,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "tether",
+        "votes": 7,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 7,
+        "idf": 5.1491633806716886
+    },
+    {
+        "keyword": "thats",
+        "votes": 7,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "difference",
+        "votes": 7,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "xrp",
+        "votes": 7,
+        "idf": 3.6828263118782614
+    },
+    {
+        "keyword": "cardano",
+        "votes": 7,
+        "idf": 4.935589280373629
+    },
+    {
+        "keyword": "sir",
+        "votes": 6,
+        "idf": 5.891100725401066
+    },
+    {
+        "keyword": "1",
+        "votes": 6,
+        "idf": 3.7510345619047953
+    },
+    {
+        "keyword": "wonderful",
+        "votes": 6,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "baby",
+        "votes": 6,
+        "idf": 4.530124172265465
+    },
+    {
+        "keyword": "ranking",
+        "votes": 6,
+        "idf": 6.2477756693397986
+    },
+    {
+        "keyword": "prices",
+        "votes": 6,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "usd",
+        "votes": 6,
+        "idf": 4.861481308219908
+    },
+    {
+        "keyword": "buy",
+        "votes": 6,
+        "idf": 4.322484807487221
+    },
+    {
+        "keyword": "today",
+        "votes": 6,
+        "idf": 5.1491633806716886
+    },
+    {
+        "keyword": "great",
+        "votes": 6,
+        "idf": 4.504806364281175
+    },
+    {
+        "keyword": "dedication",
+        "votes": 6,
+        "idf": 6.2477756693397986
+    },
+    {
+        "keyword": "ingenuity",
+        "votes": 6,
+        "idf": 6.2477756693397986
+    },
+    {
+        "keyword": "envy",
+        "votes": 6,
+        "idf": 6.2477756693397986
+    },
+    {
+        "keyword": "successful",
+        "votes": 6,
+        "idf": 6.2477756693397986
+    },
+    {
+        "keyword": "faithful",
+        "votes": 6,
+        "idf": 6.2477756693397986
+    },
+    {
+        "keyword": "guys",
+        "votes": 6,
+        "idf": 5.891100725401066
+    },
+    {
+        "keyword": "sharing",
+        "votes": 6,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "especially",
+        "votes": 6,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "shib",
+        "votes": 5,
+        "idf": 3.849880396541428
+    },
+    {
+        "keyword": "says",
+        "votes": 5,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "reflections",
+        "votes": 5,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "thanks",
+        "votes": 5,
+        "idf": 5.303314060498947
+    },
+    {
+        "keyword": "model",
+        "votes": 5,
+        "idf": 6.2477756693397986
+    },
+    {
+        "keyword": "cake",
+        "votes": 5,
+        "idf": 5.015631988047166
+    },
+    {
+        "keyword": "hope",
+        "votes": 5,
+        "idf": 5.197953544841121
+    },
+    {
+        "keyword": "participating",
+        "votes": 5,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "cool",
+        "votes": 5,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "swing",
+        "votes": 5,
+        "idf": 5.891100725401066
+    },
+    {
+        "keyword": "far",
+        "votes": 5,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "think",
+        "votes": 5,
+        "idf": 4.638337756905698
+    },
+    {
+        "keyword": "tradingview",
+        "votes": 5,
+        "idf": 5.891100725401066
+    },
+    {
+        "keyword": "go",
+        "votes": 5,
+        "idf": 4.387023328624792
+    },
+    {
+        "keyword": "eth",
+        "votes": 5,
+        "idf": 3.440095627288747
+    },
+    {
+        "keyword": "gift",
+        "votes": 5,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "offering",
+        "votes": 5,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "strong",
+        "votes": 5,
+        "idf": 5.303314060498947
+    },
+    {
+        "keyword": "even",
+        "votes": 5,
+        "idf": 5.1491633806716886
+    },
+    {
+        "keyword": "sold",
+        "votes": 4,
+        "idf": 5.628736460933575
+    },
+    {
+        "keyword": "angel",
+        "votes": 4,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "redpan",
+        "votes": 4,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "pump",
+        "votes": 4,
+        "idf": 5.015631988047166
+    },
+    {
+        "keyword": "still",
+        "votes": 4,
+        "idf": 5.015631988047166
+    },
+    {
+        "keyword": "currency",
+        "votes": 4,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "said",
+        "votes": 4,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "range",
+        "votes": 4,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "31",
+        "votes": 4,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "xlm",
+        "votes": 4,
+        "idf": 5.42109709615533
+    },
+    {
+        "keyword": "get",
+        "votes": 4,
+        "idf": 4.2047017718308375
+    },
+    {
+        "keyword": "know",
+        "votes": 4,
+        "idf": 5.058191602465962
+    },
+    {
+        "keyword": "usdc",
+        "votes": 4,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "550",
+        "votes": 4,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "awesome",
+        "votes": 4,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "28",
+        "votes": 4,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "value",
+        "votes": 4,
+        "idf": 5.360472474338896
+    },
+    {
+        "keyword": "u",
+        "votes": 4,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "true",
+        "votes": 4,
+        "idf": 5.996461241058892
+    },
+    {
+        "keyword": "done",
+        "votes": 4,
+        "idf": 6.114244276715276
+    },
+    {
+        "keyword": "wow",
+        "votes": 4,
+        "idf": 5.795790545596741
+    },
+    {
+        "keyword": "cards",
+        "votes": 4,
+        "idf": 6.401926349167057
+    },
+    {
+        "keyword": "tag",
+        "votes": 4,
+        "idf": 6.401926349167057
     }
 ]

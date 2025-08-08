@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "break",
+        "votes": 19,
+        "idf": 3.0235610832853794
+    },
+    {
+        "keyword": "vircurex",
+        "votes": 17,
+        "idf": 3.268683541318364
+    },
+    {
+        "keyword": "news",
+        "votes": 17,
+        "idf": 3.268683541318364
+    },
+    {
+        "keyword": "portal",
+        "votes": 17,
+        "idf": 3.268683541318364
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 9,
+        "idf": 3.7611600264161584
+    },
+    {
+        "keyword": "peercoin",
+        "votes": 8,
+        "idf": 3.9618307218783095
+    },
+    {
+        "keyword": "every",
+        "votes": 7,
+        "idf": 3.9618307218783095
+    },
+    {
+        "keyword": "latest",
+        "votes": 7,
+        "idf": 3.268683541318364
+    },
+    {
+        "keyword": "bter",
+        "votes": 7,
+        "idf": 4.079613757534693
+    },
+    {
+        "keyword": "source",
+        "votes": 6,
+        "idf": 4.213145150159216
+    },
+    {
+        "keyword": "via",
+        "votes": 6,
+        "idf": 3.856470206220483
+    },
+    {
+        "keyword": "update",
+        "votes": 6,
+        "idf": 3.856470206220483
+    },
+    {
+        "keyword": "150",
+        "votes": 6,
+        "idf": 4.213145150159216
+    },
+    {
+        "keyword": "win",
+        "votes": 6,
+        "idf": 3.856470206220483
+    },
+    {
+        "keyword": "daily",
+        "votes": 5,
+        "idf": 3.451005098112319
+    },
+    {
+        "keyword": "new",
+        "votes": 5,
+        "idf": 3.451005098112319
+    },
+    {
+        "keyword": "n",
+        "votes": 5,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "newsbtc",
+        "votes": 5,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "sending",
+        "votes": 5,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "follow",
+        "votes": 5,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "tip",
+        "votes": 5,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "december",
+        "votes": 4,
+        "idf": 3.5199979695992702
+    },
+    {
+        "keyword": "free",
+        "votes": 4,
+        "idf": 4.079613757534693
+    },
+    {
+        "keyword": "highlights",
+        "votes": 4,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "key",
+        "votes": 4,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "topics",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "hot",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "8",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "get",
+        "votes": 3,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "top",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "keep",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "voting",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "vote",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "rt",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "btc",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "5",
+        "votes": 3,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "say",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "shopping",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "researchers",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "2",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "awesome",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "faucet",
+        "votes": 2,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 2,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "slr",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "1",
+        "votes": 2,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "nxt",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "neuc",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "performers",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "worst",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "globalcurrencyreserve",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "find",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "community",
+        "votes": 2,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "part",
+        "votes": 2,
+        "idf": 4.772760938094638
+    },
+    {
+        "keyword": "wealth",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "building",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 4.549617386780429
+    },
+    {
+        "keyword": "stayed",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "wi",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "wallets",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "digital",
+        "votes": 2,
+        "idf": 5.060443010546419
+    },
+    {
+        "keyword": "past",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "year",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "maturing",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "problem",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "development",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "website",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "360",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "wows",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "per",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "buying",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "aus",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "rainbow",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "65",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "black",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "ngl",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "wall",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "actually",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "scare",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "costume",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "62",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "wallet",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "deposited",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "0",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "blue",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "flamingo",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "call",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "animals",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "pangolins",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "adorable",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "xrp",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "7",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "nndecember",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "right",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "places",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "tweet",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "best",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "100000",
+        "votes": 1,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "play",
+        "votes": 1,
+        "idf": 5.465908118654584
+    }
+]

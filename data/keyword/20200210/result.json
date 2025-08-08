@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "11",
+        "votes": 20,
+        "idf": 3.784423179886784
+    },
+    {
+        "keyword": "12",
+        "votes": 20,
+        "idf": 3.7379031642518914
+    },
+    {
+        "keyword": "8",
+        "votes": 20,
+        "idf": 3.7379031642518914
+    },
+    {
+        "keyword": "10",
+        "votes": 19,
+        "idf": 3.044755983691946
+    },
+    {
+        "keyword": "results",
+        "votes": 18,
+        "idf": 3.8845066384437668
+    },
+    {
+        "keyword": "omg",
+        "votes": 18,
+        "idf": 3.784423179886784
+    },
+    {
+        "keyword": "ont",
+        "votes": 18,
+        "idf": 3.7379031642518914
+    },
+    {
+        "keyword": "backtest",
+        "votes": 17,
+        "idf": 3.9385738597140425
+    },
+    {
+        "keyword": "change",
+        "votes": 17,
+        "idf": 3.8845066384437668
+    },
+    {
+        "keyword": "29",
+        "votes": 13,
+        "idf": 4.056356895370426
+    },
+    {
+        "keyword": "every",
+        "votes": 12,
+        "idf": 4.056356895370426
+    },
+    {
+        "keyword": "prices",
+        "votes": 11,
+        "idf": 4.344038967822207
+    },
+    {
+        "keyword": "update",
+        "votes": 11,
+        "idf": 4.120895416507997
+    },
+    {
+        "keyword": "0",
+        "votes": 9,
+        "idf": 3.8845066384437668
+    },
+    {
+        "keyword": "buy",
+        "votes": 6,
+        "idf": 3.6508917872622613
+    },
+    {
+        "keyword": "sub",
+        "votes": 6,
+        "idf": 4.883035468554894
+    },
+    {
+        "keyword": "matic",
+        "votes": 6,
+        "idf": 4.6317210402739875
+    },
+    {
+        "keyword": "mindol",
+        "votes": 5,
+        "idf": 4.883035468554894
+    },
+    {
+        "keyword": "network",
+        "votes": 5,
+        "idf": 4.883035468554894
+    },
+    {
+        "keyword": "31",
+        "votes": 5,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "storm",
+        "votes": 5,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "09",
+        "votes": 5,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "coin",
+        "votes": 4,
+        "idf": 4.120895416507997
+    },
+    {
+        "keyword": "2",
+        "votes": 4,
+        "idf": 3.4277482359480516
+    },
+    {
+        "keyword": "sats",
+        "votes": 3,
+        "idf": 4.6317210402739875
+    },
+    {
+        "keyword": "24",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "make",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "okb",
+        "votes": 3,
+        "idf": 4.431050344811837
+    },
+    {
+        "keyword": "synthetix",
+        "votes": 3,
+        "idf": 4.883035468554894
+    },
+    {
+        "keyword": "faucet",
+        "votes": 3,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "trusted",
+        "votes": 3,
+        "idf": 4.6317210402739875
+    },
+    {
+        "keyword": "token",
+        "votes": 2,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "sold",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "hodl",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "hopefully",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "go",
+        "votes": 2,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "one",
+        "votes": 2,
+        "idf": 4.6317210402739875
+    },
+    {
+        "keyword": "9",
+        "votes": 2,
+        "idf": 3.6508917872622613
+    },
+    {
+        "keyword": "awesome",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "earn",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "bitmex",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "next",
+        "votes": 2,
+        "idf": 4.883035468554894
+    },
+    {
+        "keyword": "pump",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "registration",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "link",
+        "votes": 2,
+        "idf": 4.189888287994949
+    },
+    {
+        "keyword": "lol",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "current",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "ceo",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "move",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "past",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "maximine",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "mxm",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "look",
+        "votes": 2,
+        "idf": 4.6317210402739875
+    },
+    {
+        "keyword": "would",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "hc",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "worst",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "demand",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "\u0180",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "hypercash",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "aion",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "dump",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "perdedoras",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "best",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "sell",
+        "votes": 2,
+        "idf": 3.3949584131250607
+    },
+    {
+        "keyword": "close",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "hit",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "tezos",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "seele",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "wazirx",
+        "votes": 2,
+        "idf": 4.6317210402739875
+    },
+    {
+        "keyword": "welcome",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "digitask",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "zb",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "waves",
+        "votes": 1,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "click",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "altbet",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "simplepospool",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "2014",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "7850",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "damn",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "respect",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "inherit",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "security",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "never",
+        "votes": 1,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "seems",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "hmm",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "strats",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "lack",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "found",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "strength",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "refills",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "pay",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "cards",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "halves",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "ya",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "better",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "huzzah",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "endless",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "give",
+        "votes": 1,
+        "idf": 6.135798437050262
+    }
+]

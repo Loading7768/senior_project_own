@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "dogecoin",
+        "votes": 77,
+        "idf": 3.0753347597271827
+    },
+    {
+        "keyword": "nope",
+        "votes": 70,
+        "idf": 4.388927289070341
+    },
+    {
+        "keyword": "would",
+        "votes": 48,
+        "idf": 3.765208614942159
+    },
+    {
+        "keyword": "prefer",
+        "votes": 48,
+        "idf": 4.32973841768001
+    },
+    {
+        "keyword": "makeup",
+        "votes": 41,
+        "idf": 3.636591237120065
+    },
+    {
+        "keyword": "love",
+        "votes": 37,
+        "idf": 4.505187095186203
+    },
+    {
+        "keyword": "beautiful",
+        "votes": 33,
+        "idf": 4.903826238223967
+    },
+    {
+        "keyword": "beauty",
+        "votes": 33,
+        "idf": 4.652511809943062
+    },
+    {
+        "keyword": "natural",
+        "votes": 32,
+        "idf": 4.318309721856387
+    },
+    {
+        "keyword": "like",
+        "votes": 29,
+        "idf": 3.6423549418368153
+    },
+    {
+        "keyword": "good",
+        "votes": 25,
+        "idf": 4.263047043181338
+    },
+    {
+        "keyword": "need",
+        "votes": 24,
+        "idf": 4.6685121512895025
+    },
+    {
+        "keyword": "morning",
+        "votes": 24,
+        "idf": 5.1580603766082085
+    },
+    {
+        "keyword": "look",
+        "votes": 21,
+        "idf": 4.45184111448091
+    },
+    {
+        "keyword": "mask",
+        "votes": 18,
+        "idf": 5.1067670822206574
+    },
+    {
+        "keyword": "cool",
+        "votes": 18,
+        "idf": 5.394449154672439
+    },
+    {
+        "keyword": "without",
+        "votes": 17,
+        "idf": 4.825354622782472
+    },
+    {
+        "keyword": "absolutely",
+        "votes": 17,
+        "idf": 5.5375499983131125
+    },
+    {
+        "keyword": "real",
+        "votes": 16,
+        "idf": 4.561540031737335
+    },
+    {
+        "keyword": "dog",
+        "votes": 15,
+        "idf": 5.034446420641031
+    },
+    {
+        "keyword": "fine",
+        "votes": 15,
+        "idf": 5.576770711466393
+    },
+    {
+        "keyword": "pretty",
+        "votes": 15,
+        "idf": 5.299138974868114
+    },
+    {
+        "keyword": "way",
+        "votes": 14,
+        "idf": 5.1067670822206574
+    },
+    {
+        "keyword": "upset",
+        "votes": 14,
+        "idf": 5.46344202615939
+    },
+    {
+        "keyword": "moon",
+        "votes": 14,
+        "idf": 4.9889840465642745
+    },
+    {
+        "keyword": "actually",
+        "votes": 14,
+        "idf": 5.6601523204054445
+    },
+    {
+        "keyword": "better",
+        "votes": 14,
+        "idf": 5.057976918051226
+    },
+    {
+        "keyword": "looks",
+        "votes": 13,
+        "idf": 4.863820903610268
+    },
+    {
+        "keyword": "happy",
+        "votes": 13,
+        "idf": 5.4283507063481204
+    },
+    {
+        "keyword": "women",
+        "votes": 12,
+        "idf": 4.652511809943062
+    },
+    {
+        "keyword": "gm",
+        "votes": 12,
+        "idf": 5.576770711466393
+    },
+    {
+        "keyword": "best",
+        "votes": 11,
+        "idf": 4.883623530906448
+    },
+    {
+        "keyword": "woman",
+        "votes": 11,
+        "idf": 4.945498934624536
+    },
+    {
+        "keyword": "see",
+        "votes": 11,
+        "idf": 4.4389377096450024
+    },
+    {
+        "keyword": "awesome",
+        "votes": 11,
+        "idf": 5.90527477843843
+    },
+    {
+        "keyword": "go",
+        "votes": 10,
+        "idf": 4.788313351102123
+    },
+    {
+        "keyword": "nice",
+        "votes": 10,
+        "idf": 5.394449154672439
+    },
+    {
+        "keyword": "really",
+        "votes": 10,
+        "idf": 5.394449154672439
+    },
+    {
+        "keyword": "great",
+        "votes": 10,
+        "idf": 5.299138974868114
+    },
+    {
+        "keyword": "wear",
+        "votes": 10,
+        "idf": 5.212127597878484
+    },
+    {
+        "keyword": "always",
+        "votes": 10,
+        "idf": 5.269286011718433
+    },
+    {
+        "keyword": "crumbling",
+        "votes": 9,
+        "idf": 6.493061443340548
+    },
+    {
+        "keyword": "gorgeous",
+        "votes": 9,
+        "idf": 5.962433192278378
+    },
+    {
+        "keyword": "think",
+        "votes": 9,
+        "idf": 5.082074469630286
+    },
+    {
+        "keyword": "mp",
+        "votes": 9,
+        "idf": 6.493061443340548
+    },
+    {
+        "keyword": "crowd",
+        "votes": 9,
+        "idf": 6.493061443340548
+    },
+    {
+        "keyword": "much",
+        "votes": 9,
+        "idf": 4.924445525426703
+    },
+    {
+        "keyword": "flip",
+        "votes": 9,
+        "idf": 6.087596335232384
+    },
+    {
+        "keyword": "wife",
+        "votes": 9,
+        "idf": 5.704604082976278
+    },
+    {
+        "keyword": "amd",
+        "votes": 9,
+        "idf": 5.851207557168154
+    },
+    {
+        "keyword": "irs",
+        "votes": 8,
+        "idf": 6.493061443340548
+    },
+    {
+        "keyword": "dissolving",
+        "votes": 8,
+        "idf": 6.493061443340548
+    },
+    {
+        "keyword": "long",
+        "votes": 8,
+        "idf": 5.299138974868114
+    },
+    {
+        "keyword": "stats",
+        "votes": 8,
+        "idf": 6.310739886546594
+    },
+    {
+        "keyword": "men",
+        "votes": 8,
+        "idf": 5.269286011718433
+    },
+    {
+        "keyword": "one",
+        "votes": 8,
+        "idf": 4.6212592664389565
+    },
+    {
+        "keyword": "perfect",
+        "votes": 8,
+        "idf": 6.087596335232384
+    },
+    {
+        "keyword": "looked",
+        "votes": 8,
+        "idf": 6.310739886546594
+    },
+    {
+        "keyword": "preferred",
+        "votes": 8,
+        "idf": 6.310739886546594
+    },
+    {
+        "keyword": "attractive",
+        "votes": 8,
+        "idf": 6.3977512635362235
+    },
+    {
+        "keyword": "coin",
+        "votes": 7,
+        "idf": 4.263047043181338
+    },
+    {
+        "keyword": "wow",
+        "votes": 7,
+        "idf": 6.230697178873058
+    },
+    {
+        "keyword": "us",
+        "votes": 7,
+        "idf": 5.24029847484518
+    },
+    {
+        "keyword": "make",
+        "votes": 7,
+        "idf": 4.388927289070341
+    },
+    {
+        "keyword": "dash",
+        "votes": 7,
+        "idf": 6.716204994654758
+    },
+    {
+        "keyword": "hell",
+        "votes": 7,
+        "idf": 6.023057814094813
+    },
+    {
+        "keyword": "hate",
+        "votes": 7,
+        "idf": 6.3977512635362235
+    },
+    {
+        "keyword": "never",
+        "votes": 7,
+        "idf": 5.184728623690369
+    },
+    {
+        "keyword": "ton",
+        "votes": 7,
+        "idf": 5.082074469630286
+    },
+    {
+        "keyword": "show",
+        "votes": 7,
+        "idf": 5.394449154672439
+    },
+    {
+        "keyword": "naka",
+        "votes": 7,
+        "idf": 5.704604082976278
+    },
+    {
+        "keyword": "confidence",
+        "votes": 7,
+        "idf": 6.023057814094813
+    },
+    {
+        "keyword": "super",
+        "votes": 7,
+        "idf": 5.751124098611171
+    },
+    {
+        "keyword": "know",
+        "votes": 7,
+        "idf": 4.883623530906448
+    },
+    {
+        "keyword": "little",
+        "votes": 7,
+        "idf": 5.46344202615939
+    },
+    {
+        "keyword": "alena",
+        "votes": 7,
+        "idf": 6.087596335232384
+    },
+    {
+        "keyword": "bullish",
+        "votes": 7,
+        "idf": 5.4283507063481204
+    },
+    {
+        "keyword": "miss",
+        "votes": 7,
+        "idf": 5.361659331849448
+    },
+    {
+        "keyword": "management",
+        "votes": 7,
+        "idf": 6.493061443340548
+    },
+    {
+        "keyword": "anything",
+        "votes": 6,
+        "idf": 6.087596335232384
+    },
+    {
+        "keyword": "space",
+        "votes": 6,
+        "idf": 6.3977512635362235
+    },
+    {
+        "keyword": "rather",
+        "votes": 6,
+        "idf": 6.493061443340548
+    },
+    {
+        "keyword": "yes",
+        "votes": 6,
+        "idf": 6.087596335232384
+    },
+    {
+        "keyword": "chose",
+        "votes": 6,
+        "idf": 6.310739886546594
+    },
+    {
+        "keyword": "next",
+        "votes": 6,
+        "idf": 4.636763452974922
+    },
+    {
+        "keyword": "time",
+        "votes": 6,
+        "idf": 4.788313351102123
+    },
+    {
+        "keyword": "today",
+        "votes": 6,
+        "idf": 5.269286011718433
+    },
+    {
+        "keyword": "bit",
+        "votes": 6,
+        "idf": 6.3977512635362235
+    },
+    {
+        "keyword": "wearing",
+        "votes": 6,
+        "idf": 6.598421958998375
+    },
+    {
+        "keyword": "well",
+        "votes": 6,
+        "idf": 5.704604082976278
+    },
+    {
+        "keyword": "ever",
+        "votes": 6,
+        "idf": 5.962433192278378
+    },
+    {
+        "keyword": "steady",
+        "votes": 6,
+        "idf": 6.849736387279281
+    },
+    {
+        "keyword": "update",
+        "votes": 6,
+        "idf": 6.598421958998375
+    },
+    {
+        "keyword": "right",
+        "votes": 6,
+        "idf": 5.4283507063481204
+    },
+    {
+        "keyword": "though",
+        "votes": 6,
+        "idf": 6.023057814094813
+    },
+    {
+        "keyword": "yeah",
+        "votes": 6,
+        "idf": 6.3977512635362235
+    },
+    {
+        "keyword": "shows",
+        "votes": 6,
+        "idf": 5.751124098611171
+    },
+    {
+        "keyword": "bother",
+        "votes": 6,
+        "idf": 6.598421958998375
+    },
+    {
+        "keyword": "og",
+        "votes": 6,
+        "idf": 6.156589206719335
+    },
+    {
+        "keyword": "nothing",
+        "votes": 6,
+        "idf": 6.023057814094813
+    }
+]

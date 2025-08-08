@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "hood",
+        "votes": 50,
+        "idf": 3.1102132003465894
+    },
+    {
+        "keyword": "polygon",
+        "votes": 43,
+        "idf": 3.4203681286504293
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 40,
+        "idf": 3.4909856958643823
+    },
+    {
+        "keyword": "average",
+        "votes": 30,
+        "idf": 3.4909856958643823
+    },
+    {
+        "keyword": "appear",
+        "votes": 30,
+        "idf": 3.1102132003465894
+    },
+    {
+        "keyword": "0",
+        "votes": 24,
+        "idf": 3.837261932582216
+    },
+    {
+        "keyword": "9",
+        "votes": 20,
+        "idf": 4.160035324845268
+    },
+    {
+        "keyword": "explainer",
+        "votes": 17,
+        "idf": 4.2088254890147
+    },
+    {
+        "keyword": "life",
+        "votes": 17,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "nascar",
+        "votes": 14,
+        "idf": 3.127020318662971
+    },
+    {
+        "keyword": "patrick",
+        "votes": 11,
+        "idf": 4.431969040328909
+    },
+    {
+        "keyword": "post",
+        "votes": 11,
+        "idf": 4.639608405107154
+    },
+    {
+        "keyword": "99",
+        "votes": 10,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "447",
+        "votes": 10,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "videos",
+        "votes": 10,
+        "idf": 4.639608405107154
+    },
+    {
+        "keyword": "101",
+        "votes": 10,
+        "idf": 4.26011878340225
+    },
+    {
+        "keyword": "new",
+        "votes": 10,
+        "idf": 4.314186004672526
+    },
+    {
+        "keyword": "missing",
+        "votes": 9,
+        "idf": 4.26011878340225
+    },
+    {
+        "keyword": "farce",
+        "votes": 9,
+        "idf": 4.069063546639541
+    },
+    {
+        "keyword": "darkcoin",
+        "votes": 9,
+        "idf": 4.069063546639541
+    },
+    {
+        "keyword": "supporting",
+        "votes": 8,
+        "idf": 5.007333185232471
+    },
+    {
+        "keyword": "14",
+        "votes": 8,
+        "idf": 3.946461224547208
+    },
+    {
+        "keyword": "alt",
+        "votes": 7,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "x",
+        "votes": 6,
+        "idf": 5.258647613513377
+    },
+    {
+        "keyword": "prize",
+        "votes": 6,
+        "idf": 5.258647613513377
+    },
+    {
+        "keyword": "138288",
+        "votes": 6,
+        "idf": 5.258647613513377
+    },
+    {
+        "keyword": "making",
+        "votes": 6,
+        "idf": 5.258647613513377
+    },
+    {
+        "keyword": "future",
+        "votes": 6,
+        "idf": 4.71965111278069
+    },
+    {
+        "keyword": "rt",
+        "votes": 5,
+        "idf": 4.431969040328909
+    },
+    {
+        "keyword": "sponsored",
+        "votes": 5,
+        "idf": 5.007333185232471
+    },
+    {
+        "keyword": "strangest",
+        "votes": 5,
+        "idf": 3.1102132003465894
+    },
+    {
+        "keyword": "446",
+        "votes": 5,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "fact",
+        "votes": 5,
+        "idf": 5.258647613513377
+    },
+    {
+        "keyword": "made",
+        "votes": 4,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "news",
+        "votes": 4,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "tracker",
+        "votes": 4,
+        "idf": 4.901972669574645
+    },
+    {
+        "keyword": "voted",
+        "votes": 4,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "site",
+        "votes": 4,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "sponsorship",
+        "votes": 4,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "solicits",
+        "votes": 4,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "wise",
+        "votes": 4,
+        "idf": 3.946461224547208
+    },
+    {
+        "keyword": "community",
+        "votes": 4,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "livery",
+        "votes": 4,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "join",
+        "votes": 4,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "roundup",
+        "votes": 4,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "go",
+        "votes": 4,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "nascars",
+        "votes": 4,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "dlc",
+        "votes": 4,
+        "idf": 4.71965111278069
+    },
+    {
+        "keyword": "powerful",
+        "votes": 4,
+        "idf": 5.258647613513377
+    },
+    {
+        "keyword": "car",
+        "votes": 3,
+        "idf": 3.593639849924466
+    },
+    {
+        "keyword": "available",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "devs",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "thx",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "birthday",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "2014",
+        "votes": 3,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "price",
+        "votes": 3,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "looks",
+        "votes": 3,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "place",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "8",
+        "votes": 3,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "stuffcoins",
+        "votes": 3,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "auction",
+        "votes": 3,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "thoughts",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "haha",
+        "votes": 3,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "good",
+        "votes": 3,
+        "idf": 5.59511985013459
+    },
+    {
+        "keyword": "via",
+        "votes": 3,
+        "idf": 3.770570558083544
+    },
+    {
+        "keyword": "way",
+        "votes": 3,
+        "idf": 4.565500432953431
+    },
+    {
+        "keyword": "star",
+        "votes": 3,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "today",
+        "votes": 3,
+        "idf": 5.412798293340635
+    },
+    {
+        "keyword": "finish",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "15th",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "dogecar",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "fan",
+        "votes": 3,
+        "idf": 4.565500432953431
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 3,
+        "idf": 3.3978952727983707
+    },
+    {
+        "keyword": "2236",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "448",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "protection",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "thinking",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "kind",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "vote",
+        "votes": 3,
+        "idf": 4.565500432953431
+    },
+    {
+        "keyword": "102",
+        "votes": 3,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 5.007333185232471
+    },
+    {
+        "keyword": "race",
+        "votes": 2,
+        "idf": 3.515678308454754
+    },
+    {
+        "keyword": "goes",
+        "votes": 2,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "first",
+        "votes": 2,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "view",
+        "votes": 2,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "sure",
+        "votes": 2,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "popular",
+        "votes": 2,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "everyone",
+        "votes": 2,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "shares",
+        "votes": 2,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "quickbooks",
+        "votes": 2,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "coinjar",
+        "votes": 2,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "render",
+        "votes": 2,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "revealed",
+        "votes": 2,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "question",
+        "votes": 2,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "million",
+        "votes": 2,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "finance",
+        "votes": 2,
+        "idf": 5.8182634014487995
+    },
+    {
+        "keyword": "two",
+        "votes": 2,
+        "idf": 6.10594547390058
+    },
+    {
+        "keyword": "know",
+        "votes": 2,
+        "idf": 6.10594547390058
+    }
+]

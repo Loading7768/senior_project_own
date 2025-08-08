@@ -35,11 +35,6 @@
         "idf": 4.73289633953071
     },
     {
-        "keyword": "team",
-        "votes": 3,
-        "idf": 4.95603989084492
-    },
-    {
         "keyword": "together",
         "votes": 3,
         "idf": 4.95603989084492
@@ -70,12 +65,12 @@
         "idf": 3.634284050862601
     },
     {
-        "keyword": "far",
+        "keyword": "today",
         "votes": 2,
         "idf": 4.73289633953071
     },
     {
-        "keyword": "today",
+        "keyword": "far",
         "votes": 2,
         "idf": 4.73289633953071
     },
@@ -88,6 +83,11 @@
         "keyword": "community",
         "votes": 2,
         "idf": 5.243721963296702
+    },
+    {
+        "keyword": "team",
+        "votes": 2,
+        "idf": 4.95603989084492
     },
     {
         "keyword": "buying",
@@ -125,12 +125,17 @@
         "idf": 5.243721963296702
     },
     {
-        "keyword": "session",
+        "keyword": "focusses",
         "votes": 2,
         "idf": 5.243721963296702
     },
     {
-        "keyword": "focusses",
+        "keyword": "register",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "part",
         "votes": 2,
         "idf": 5.243721963296702
     },
@@ -140,13 +145,358 @@
         "idf": 4.262892710284975
     },
     {
+        "keyword": "cap",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
         "keyword": "percentage",
         "votes": 2,
         "idf": 5.243721963296702
     },
     {
-        "keyword": "55",
+        "keyword": "next",
+        "votes": 2,
+        "idf": 4.3964241029094975
+    },
+    {
+        "keyword": "78",
         "votes": 2,
         "idf": 5.243721963296702
+    },
+    {
+        "keyword": "matic",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "tel",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "egld",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "man",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "know",
+        "votes": 2,
+        "idf": 4.550574782736756
+    },
+    {
+        "keyword": "strides",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "remarkable",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "names",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "bro",
+        "votes": 2,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "pours",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "rains",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "ftw",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "likely",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "coolest",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "care",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "face",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "every",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "cent",
+        "votes": 1,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "soft",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "lately",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "music",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "dip",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "side",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "guess",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "earth",
+        "votes": 1,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "amazing",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "across",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "gif",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "came",
+        "votes": 1,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "ltc",
+        "votes": 1,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "shib",
+        "votes": 1,
+        "idf": 3.634284050862601
+    },
+    {
+        "keyword": "forth",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "general",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "trend",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "2019",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "lucky",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "case",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "mind",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "included",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "memecoin",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "mint",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "lesson",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "really",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "millionaire",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "69",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "father",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "tell",
+        "votes": 1,
+        "idf": 5.243721963296702
+    },
+    {
+        "keyword": "want",
+        "votes": 1,
+        "idf": 4.73289633953071
+    },
+    {
+        "keyword": "plunged",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "result",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "prediction",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "fake",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "willing",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "knowledge",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "evidence",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "graham",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "sort",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "latest",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "video",
+        "votes": 1,
+        "idf": 4.95603989084492
+    },
+    {
+        "keyword": "check",
+        "votes": 1,
+        "idf": 4.550574782736756
+    },
+    {
+        "keyword": "anglio",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "brilliant",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "possibly",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "whales",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "cost",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "kappa",
+        "votes": 1,
+        "idf": 5.6491870714048655
+    },
+    {
+        "keyword": "millions",
+        "votes": 1,
+        "idf": 5.6491870714048655
     }
 ]

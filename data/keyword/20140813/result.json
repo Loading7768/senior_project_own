@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "5",
+        "votes": 38,
+        "idf": 3.0762312660495876
+    },
+    {
+        "keyword": "decreased",
+        "votes": 31,
+        "idf": 3.2740570093795074
+    },
+    {
+        "keyword": "7",
+        "votes": 22,
+        "idf": 3.5617390818312886
+    },
+    {
+        "keyword": "increased",
+        "votes": 16,
+        "idf": 3.906579568123018
+    },
+    {
+        "keyword": "sell",
+        "votes": 12,
+        "idf": 4.174843554717697
+    },
+    {
+        "keyword": "buy",
+        "votes": 12,
+        "idf": 3.7953539330127937
+    },
+    {
+        "keyword": "error",
+        "votes": 12,
+        "idf": 4.174843554717697
+    },
+    {
+        "keyword": "25",
+        "votes": 9,
+        "idf": 3.8494211542830694
+    },
+    {
+        "keyword": "4",
+        "votes": 8,
+        "idf": 4.437207819185188
+    },
+    {
+        "keyword": "live",
+        "votes": 7,
+        "idf": 4.660351370499399
+    },
+    {
+        "keyword": "8",
+        "votes": 7,
+        "idf": 4.542568334843015
+    },
+    {
+        "keyword": "burn",
+        "votes": 7,
+        "idf": 4.100735582563976
+    },
+    {
+        "keyword": "account",
+        "votes": 6,
+        "idf": 4.793882763123921
+    },
+    {
+        "keyword": "price",
+        "votes": 6,
+        "idf": 4.793882763123921
+    },
+    {
+        "keyword": "counterparty",
+        "votes": 6,
+        "idf": 4.542568334843015
+    },
+    {
+        "keyword": "comes",
+        "votes": 5,
+        "idf": 4.793882763123921
+    },
+    {
+        "keyword": "100",
+        "votes": 4,
+        "idf": 4.660351370499399
+    },
+    {
+        "keyword": "14",
+        "votes": 4,
+        "idf": 5.130354999745133
+    },
+    {
+        "keyword": "27",
+        "votes": 4,
+        "idf": 4.542568334843015
+    },
+    {
+        "keyword": "28",
+        "votes": 4,
+        "idf": 5.130354999745133
+    },
+    {
+        "keyword": "24",
+        "votes": 4,
+        "idf": 4.542568334843015
+    },
+    {
+        "keyword": "camp",
+        "votes": 3,
+        "idf": 4.9480334429511785
+    },
+    {
+        "keyword": "interest",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "via",
+        "votes": 3,
+        "idf": 4.031742711077024
+    },
+    {
+        "keyword": "amaze",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "take",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "doge",
+        "votes": 3,
+        "idf": 3.906579568123018
+    },
+    {
+        "keyword": "crypto",
+        "votes": 3,
+        "idf": 5.130354999745133
+    },
+    {
+        "keyword": "burning",
+        "votes": 3,
+        "idf": 5.130354999745133
+    },
+    {
+        "keyword": "profitable",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "merged",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "make",
+        "votes": 3,
+        "idf": 4.9480334429511785
+    },
+    {
+        "keyword": "wow",
+        "votes": 3,
+        "idf": 5.130354999745133
+    },
+    {
+        "keyword": "much",
+        "votes": 3,
+        "idf": 4.542568334843015
+    },
+    {
+        "keyword": "daily",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "incubator",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "partners",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "startup",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 3,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "party",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "talk",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "47",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "tip",
+        "votes": 2,
+        "idf": 4.660351370499399
+    },
+    {
+        "keyword": "driving",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "nascar",
+        "votes": 2,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "26",
+        "votes": 2,
+        "idf": 3.6952704744558114
+    },
+    {
+        "keyword": "dogeparty",
+        "votes": 2,
+        "idf": 4.254886262391234
+    },
+    {
+        "keyword": "547",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "64",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "start",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 5.130354999745133
+    },
+    {
+        "keyword": "right",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "xdp",
+        "votes": 2,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "87",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "shibe",
+        "votes": 2,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "lists",
+        "votes": 2,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "think",
+        "votes": 2,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "create",
+        "votes": 2,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "coin",
+        "votes": 2,
+        "idf": 4.793882763123921
+    },
+    {
+        "keyword": "value",
+        "votes": 2,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "financial",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "warns",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "us",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "stories",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "official",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "urges",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "charlie",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "lee",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "2",
+        "votes": 2,
+        "idf": 4.793882763123921
+    },
+    {
+        "keyword": "ever",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "soul",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "tittiecoin",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "win",
+        "votes": 2,
+        "idf": 4.9480334429511785
+    },
+    {
+        "keyword": "53",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "proof",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "558",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "complaints",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "west",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "wild",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "569",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "past",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "10",
+        "votes": 2,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "top",
+        "votes": 2,
+        "idf": 5.130354999745133
+    },
+    {
+        "keyword": "check",
+        "votes": 2,
+        "idf": 5.353498551059343
+    },
+    {
+        "keyword": "cause",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "got",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "lives",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "time",
+        "votes": 1,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "cryptocoin",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "coinsis",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "cards",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "wallets",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "problems",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "eternity",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "admiration",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "one",
+        "votes": 1,
+        "idf": 5.641180623511125
+    },
+    {
+        "keyword": "7160",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "548",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    },
+    {
+        "keyword": "03",
+        "votes": 1,
+        "idf": 6.0466457316192885
+    }
+]

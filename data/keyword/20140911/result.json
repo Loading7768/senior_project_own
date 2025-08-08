@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "price",
+        "votes": 34,
+        "idf": 3.388986527909261
+    },
+    {
+        "keyword": "6",
+        "votes": 33,
+        "idf": 3.5472105331241552
+    },
+    {
+        "keyword": "7",
+        "votes": 30,
+        "idf": 3.6685713901284225
+    },
+    {
+        "keyword": "0",
+        "votes": 25,
+        "idf": 3.844462056592087
+    },
+    {
+        "keyword": "decreased",
+        "votes": 23,
+        "idf": 3.924504764265623
+    },
+    {
+        "keyword": "increased",
+        "votes": 22,
+        "idf": 3.967064378684419
+    },
+    {
+        "keyword": "error",
+        "votes": 21,
+        "idf": 4.011516141255253
+    },
+    {
+        "keyword": "cst",
+        "votes": 17,
+        "idf": 4.212186836717404
+    },
+    {
+        "keyword": "bits",
+        "votes": 17,
+        "idf": 4.158119615447129
+    },
+    {
+        "keyword": "8",
+        "votes": 16,
+        "idf": 4.269345250557352
+    },
+    {
+        "keyword": "9",
+        "votes": 15,
+        "idf": 4.329969872373788
+    },
+    {
+        "keyword": "2",
+        "votes": 14,
+        "idf": 4.158119615447129
+    },
+    {
+        "keyword": "3",
+        "votes": 14,
+        "idf": 4.394508393511359
+    },
+    {
+        "keyword": "per",
+        "votes": 13,
+        "idf": 3.2107382965029423
+    },
+    {
+        "keyword": "across",
+        "votes": 12,
+        "idf": 4.537609237152032
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 12,
+        "idf": 3.0250211507078495
+    },
+    {
+        "keyword": "coindesk",
+        "votes": 10,
+        "idf": 4.617651944825568
+    },
+    {
+        "keyword": "officially",
+        "votes": 9,
+        "idf": 4.7046633218151985
+    },
+    {
+        "keyword": "4",
+        "votes": 7,
+        "idf": 4.7046633218151985
+    },
+    {
+        "keyword": "via",
+        "votes": 6,
+        "idf": 4.799973501619523
+    },
+    {
+        "keyword": "e",
+        "votes": 6,
+        "idf": 3.3183689606953077
+    },
+    {
+        "keyword": "continues",
+        "votes": 6,
+        "idf": 5.156648445558256
+    },
+    {
+        "keyword": "rally",
+        "votes": 6,
+        "idf": 5.156648445558256
+    },
+    {
+        "keyword": "475",
+        "votes": 5,
+        "idf": 5.310799125385514
+    },
+    {
+        "keyword": "blocks",
+        "votes": 5,
+        "idf": 5.310799125385514
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 5,
+        "idf": 4.058036156890146
+    },
+    {
+        "keyword": "37",
+        "votes": 5,
+        "idf": 4.799973501619523
+    },
+    {
+        "keyword": "36",
+        "votes": 5,
+        "idf": 5.023117052933733
+    },
+    {
+        "keyword": "debate",
+        "votes": 4,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "months",
+        "votes": 4,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "happy",
+        "votes": 4,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "time",
+        "votes": 4,
+        "idf": 5.310799125385514
+    },
+    {
+        "keyword": "476",
+        "votes": 4,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "switched",
+        "votes": 4,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "goes",
+        "votes": 4,
+        "idf": 5.156648445558256
+    },
+    {
+        "keyword": "live",
+        "votes": 4,
+        "idf": 4.617651944825568
+    },
+    {
+        "keyword": "core",
+        "votes": 4,
+        "idf": 4.617651944825568
+    },
+    {
+        "keyword": "faucet",
+        "votes": 4,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "41",
+        "votes": 4,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "42",
+        "votes": 3,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "great",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "news",
+        "votes": 3,
+        "idf": 5.310799125385514
+    },
+    {
+        "keyword": "ongoing",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "poa",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "event",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 4.011516141255253
+    },
+    {
+        "keyword": "following",
+        "votes": 3,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "auxil",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "auxpow",
+        "votes": 3,
+        "idf": 5.156648445558256
+    },
+    {
+        "keyword": "474",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "44",
+        "votes": 3,
+        "idf": 5.156648445558256
+    },
+    {
+        "keyword": "players",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "try",
+        "votes": 3,
+        "idf": 5.493120682179469
+    },
+    {
+        "keyword": "exclusive",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "wheel",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "harvard",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "register",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "student",
+        "votes": 3,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "party",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "beginning",
+        "votes": 2,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "13",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "people",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "v\u00eda",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "59",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "43",
+        "votes": 2,
+        "idf": 5.023117052933733
+    },
+    {
+        "keyword": "minutes",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "mergeminable",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "post",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "topper",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "vergeet",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "foster",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "network",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "creativity",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "hashrate",
+        "votes": 2,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "sw",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "first",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 4.799973501619523
+    },
+    {
+        "keyword": "release",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "honeymooning",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "married",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "5",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "forkening",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "systems",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 5.156648445558256
+    },
+    {
+        "keyword": "check",
+        "votes": 2,
+        "idf": 5.310799125385514
+    },
+    {
+        "keyword": "expecting",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "ltc",
+        "votes": 2,
+        "idf": 5.310799125385514
+    },
+    {
+        "keyword": "tournament",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "legends",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "talk",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "471",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "pst",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "9am",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "effects",
+        "votes": 2,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "seems",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "louisville",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "paddles",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "man",
+        "votes": 2,
+        "idf": 5.716264233493678
+    },
+    {
+        "keyword": "accepting",
+        "votes": 2,
+        "idf": 6.003946305945459
+    },
+    {
+        "keyword": "celebrate",
+        "votes": 2,
+        "idf": 6.003946305945459
+    }
+]

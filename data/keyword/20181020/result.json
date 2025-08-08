@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "1",
+        "votes": 24,
+        "idf": 3.12525107771113
+    },
+    {
+        "keyword": "20",
+        "votes": 21,
+        "idf": 3.6786363158959166
+    },
+    {
+        "keyword": "0",
+        "votes": 14,
+        "idf": 4.106080330722856
+    },
+    {
+        "keyword": "takes",
+        "votes": 13,
+        "idf": 4.175073202209807
+    },
+    {
+        "keyword": "liquidity",
+        "votes": 13,
+        "idf": 4.175073202209807
+    },
+    {
+        "keyword": "lending",
+        "votes": 13,
+        "idf": 4.041541809585285
+    },
+    {
+        "keyword": "greatest",
+        "votes": 12,
+        "idf": 4.24918117436353
+    },
+    {
+        "keyword": "biggest",
+        "votes": 12,
+        "idf": 4.24918117436353
+    },
+    {
+        "keyword": "borrow",
+        "votes": 12,
+        "idf": 4.24918117436353
+    },
+    {
+        "keyword": "much",
+        "votes": 12,
+        "idf": 3.7696080941016437
+    },
+    {
+        "keyword": "many",
+        "votes": 11,
+        "idf": 4.175073202209807
+    },
+    {
+        "keyword": "negative",
+        "votes": 9,
+        "idf": 4.511545438831021
+    },
+    {
+        "keyword": "itc",
+        "votes": 8,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "13",
+        "votes": 8,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "nuls",
+        "votes": 8,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "stole",
+        "votes": 8,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "option",
+        "votes": 7,
+        "idf": 4.416235259026696
+    },
+    {
+        "keyword": "bonus",
+        "votes": 7,
+        "idf": 4.73468899014523
+    },
+    {
+        "keyword": "post",
+        "votes": 7,
+        "idf": 4.511545438831021
+    },
+    {
+        "keyword": "fundstrat",
+        "votes": 7,
+        "idf": 4.24918117436353
+    },
+    {
+        "keyword": "analyzes",
+        "votes": 7,
+        "idf": 4.329223882037066
+    },
+    {
+        "keyword": "highlights",
+        "votes": 7,
+        "idf": 4.329223882037066
+    },
+    {
+        "keyword": "10k",
+        "votes": 7,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "analysts",
+        "votes": 7,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "times",
+        "votes": 7,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "price",
+        "votes": 6,
+        "idf": 3.0074680420547466
+    },
+    {
+        "keyword": "support",
+        "votes": 6,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "joke",
+        "votes": 6,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "excuse",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "lack",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "packdoge",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "games",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "blk",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "chat",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "hard",
+        "votes": 5,
+        "idf": 4.73468899014523
+    },
+    {
+        "keyword": "collateral",
+        "votes": 5,
+        "idf": 3.518293665820737
+    },
+    {
+        "keyword": "useful",
+        "votes": 5,
+        "idf": 4.616905954488847
+    },
+    {
+        "keyword": "claims",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "easy",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "coinpot",
+        "votes": 5,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "wall",
+        "votes": 4,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "solid",
+        "votes": 4,
+        "idf": 4.868220382769753
+    },
+    {
+        "keyword": "23",
+        "votes": 4,
+        "idf": 3.2306115933689563
+    },
+    {
+        "keyword": "vtr",
+        "votes": 4,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "stout",
+        "votes": 4,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "problem",
+        "votes": 4,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "invest",
+        "votes": 4,
+        "idf": 4.868220382769753
+    },
+    {
+        "keyword": "coin",
+        "votes": 4,
+        "idf": 4.24918117436353
+    },
+    {
+        "keyword": "quality",
+        "votes": 4,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "read",
+        "votes": 4,
+        "idf": 4.511545438831021
+    },
+    {
+        "keyword": "decide",
+        "votes": 4,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "faucet",
+        "votes": 4,
+        "idf": 4.511545438831021
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 4.329223882037066
+    },
+    {
+        "keyword": "unveils",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "sturdy",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "robust",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "bts",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "discount",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "positive",
+        "votes": 3,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "institutional",
+        "votes": 3,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "street",
+        "votes": 3,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "24hrs",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "percent",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "paperwallets",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "tough",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "changes",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "loans",
+        "votes": 3,
+        "idf": 4.868220382769753
+    },
+    {
+        "keyword": "lender",
+        "votes": 3,
+        "idf": 3.8183982582710754
+    },
+    {
+        "keyword": "myst",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "earncrypto",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "coins",
+        "votes": 3,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "heavy",
+        "votes": 3,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "loan",
+        "votes": 3,
+        "idf": 3.9809171877688505
+    },
+    {
+        "keyword": "mkt",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "cap",
+        "votes": 3,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "9",
+        "votes": 3,
+        "idf": 5.022371062597012
+    },
+    {
+        "keyword": "19",
+        "votes": 3,
+        "idf": 5.427836170705175
+    },
+    {
+        "keyword": "huobi",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "husd",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "powerful",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "14",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "sergei",
+        "votes": 2,
+        "idf": 4.868220382769753
+    },
+    {
+        "keyword": "70",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "81",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "emercoin",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "putincoin",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "ripple",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "43",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "standouts",
+        "votes": 2,
+        "idf": 4.24918117436353
+    },
+    {
+        "keyword": "calls",
+        "votes": 2,
+        "idf": 4.175073202209807
+    },
+    {
+        "keyword": "intense",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "07",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "rich",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "backed",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "47",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "free",
+        "votes": 2,
+        "idf": 3.412933150162911
+    },
+    {
+        "keyword": "made",
+        "votes": 2,
+        "idf": 5.715518243156957
+    },
+    {
+        "keyword": "never",
+        "votes": 2,
+        "idf": 5.204692619390966
+    },
+    {
+        "keyword": "creator",
+        "votes": 2,
+        "idf": 4.868220382769753
+    },
+    {
+        "keyword": "mighty",
+        "votes": 2,
+        "idf": 5.715518243156957
+    }
+]

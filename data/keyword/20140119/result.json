@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "catcoin",
+        "votes": 24,
+        "idf": 3.768269061095265
+    },
+    {
+        "keyword": "news",
+        "votes": 23,
+        "idf": 3.7015776865965924
+    },
+    {
+        "keyword": "dummy",
+        "votes": 19,
+        "idf": 4.091042453358316
+    },
+    {
+        "keyword": "source",
+        "votes": 19,
+        "idf": 4.139832617527748
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 19,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "coinye",
+        "votes": 12,
+        "idf": 3.669828988282012
+    },
+    {
+        "keyword": "via",
+        "votes": 10,
+        "idf": 4.570615533620202
+    },
+    {
+        "keyword": "beast",
+        "votes": 10,
+        "idf": 4.737669618283368
+    },
+    {
+        "keyword": "moon",
+        "votes": 9,
+        "idf": 4.139832617527748
+    },
+    {
+        "keyword": "bobsled",
+        "votes": 7,
+        "idf": 3.83972802507741
+    },
+    {
+        "keyword": "guide",
+        "votes": 7,
+        "idf": 3.6092043664655775
+    },
+    {
+        "keyword": "raised",
+        "votes": 6,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "cute",
+        "votes": 6,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "receive",
+        "votes": 6,
+        "idf": 5.189654742026425
+    },
+    {
+        "keyword": "follow",
+        "votes": 6,
+        "idf": 5.189654742026425
+    },
+    {
+        "keyword": "tweet",
+        "votes": 6,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "donate",
+        "votes": 5,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "olympics",
+        "votes": 5,
+        "idf": 4.832979798087694
+    },
+    {
+        "keyword": "dog",
+        "votes": 5,
+        "idf": 4.832979798087694
+    },
+    {
+        "keyword": "much",
+        "votes": 4,
+        "idf": 3.9575110607337933
+    },
+    {
+        "keyword": "jamaican",
+        "votes": 4,
+        "idf": 4.191125911915298
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.362976168841957
+    },
+    {
+        "keyword": "olympic",
+        "votes": 4,
+        "idf": 5.526126978647638
+    },
+    {
+        "keyword": "85",
+        "votes": 4,
+        "idf": 5.189654742026425
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 4,
+        "idf": 3.4720032449520923
+    },
+    {
+        "keyword": "like",
+        "votes": 4,
+        "idf": 4.000070675152589
+    },
+    {
+        "keyword": "84",
+        "votes": 4,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "million",
+        "votes": 4,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "price",
+        "votes": 4,
+        "idf": 4.362976168841957
+    },
+    {
+        "keyword": "mining",
+        "votes": 4,
+        "idf": 3.9575110607337933
+    },
+    {
+        "keyword": "wow",
+        "votes": 4,
+        "idf": 4.000070675152589
+    },
+    {
+        "keyword": "foundation",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "fund",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "go",
+        "votes": 3,
+        "idf": 4.832979798087694
+    },
+    {
+        "keyword": "community",
+        "votes": 3,
+        "idf": 4.302351547025523
+    },
+    {
+        "keyword": "thing",
+        "votes": 3,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "rt",
+        "votes": 3,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "far",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "sochi",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "donations",
+        "votes": 3,
+        "idf": 5.526126978647638
+    },
+    {
+        "keyword": "started",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "looking",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "win",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "popular",
+        "votes": 3,
+        "idf": 5.526126978647638
+    },
+    {
+        "keyword": "combined",
+        "votes": 3,
+        "idf": 5.526126978647638
+    },
+    {
+        "keyword": "doge",
+        "votes": 3,
+        "idf": 3.916689066213538
+    },
+    {
+        "keyword": "0",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "2000",
+        "votes": 3,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "tip",
+        "votes": 3,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "currency",
+        "votes": 3,
+        "idf": 4.49650756146648
+    },
+    {
+        "keyword": "get",
+        "votes": 3,
+        "idf": 4.191125911915298
+    },
+    {
+        "keyword": "github",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "24h",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "sale",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "yes",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "available",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "also",
+        "votes": 2,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "success",
+        "votes": 2,
+        "idf": 5.526126978647638
+    },
+    {
+        "keyword": "making",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "history",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "cause",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 2,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "forget",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "fundraiser",
+        "votes": 2,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "reddit",
+        "votes": 2,
+        "idf": 5.189654742026425
+    },
+    {
+        "keyword": "growing",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "surprising",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "outpacing",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "transactions",
+        "votes": 2,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "use",
+        "votes": 2,
+        "idf": 5.056123349401903
+    },
+    {
+        "keyword": "opinion",
+        "votes": 2,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "r",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "paypal",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 3.0751218805353195
+    },
+    {
+        "keyword": "whole",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "crash",
+        "votes": 2,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "sell",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "hold",
+        "votes": 2,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "crashing",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "buying",
+        "votes": 2,
+        "idf": 5.526126978647638
+    },
+    {
+        "keyword": "back",
+        "votes": 2,
+        "idf": 5.526126978647638
+    },
+    {
+        "keyword": "video",
+        "votes": 2,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "donated",
+        "votes": 2,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "1414",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "almost",
+        "votes": 2,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "reply",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "sign",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "work",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "100",
+        "votes": 2,
+        "idf": 5.189654742026425
+    },
+    {
+        "keyword": "trade",
+        "votes": 2,
+        "idf": 5.343805421853684
+    },
+    {
+        "keyword": "1432",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "play",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "1p",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "sent",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "wondering",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "send",
+        "votes": 2,
+        "idf": 4.9383403137455195
+    },
+    {
+        "keyword": "exchange",
+        "votes": 2,
+        "idf": 6.0369526024136295
+    },
+    {
+        "keyword": "future",
+        "votes": 2,
+        "idf": 5.749270529961848
+    },
+    {
+        "keyword": "internet",
+        "votes": 2,
+        "idf": 5.526126978647638
+    }
+]

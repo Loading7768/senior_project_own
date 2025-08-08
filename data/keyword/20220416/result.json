@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "coin",
+        "votes": 10,
+        "idf": 3.646627388475804
+    },
+    {
+        "keyword": "data",
+        "votes": 10,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "full",
+        "votes": 10,
+        "idf": 4.724186267946081
+    },
+    {
+        "keyword": "love",
+        "votes": 9,
+        "idf": 4.552336011019422
+    },
+    {
+        "keyword": "2020",
+        "votes": 8,
+        "idf": 5.194189897191817
+    },
+    {
+        "keyword": "2019",
+        "votes": 8,
+        "idf": 5.194189897191817
+    },
+    {
+        "keyword": "0",
+        "votes": 8,
+        "idf": 5.098879717387492
+    },
+    {
+        "keyword": "thats",
+        "votes": 7,
+        "idf": 5.417333448506026
+    },
+    {
+        "keyword": "internet",
+        "votes": 7,
+        "idf": 4.724186267946081
+    },
+    {
+        "keyword": "4",
+        "votes": 6,
+        "idf": 5.417333448506026
+    },
+    {
+        "keyword": "missed",
+        "votes": 6,
+        "idf": 5.098879717387492
+    },
+    {
+        "keyword": "right",
+        "votes": 6,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "4700",
+        "votes": 6,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "ceo",
+        "votes": 6,
+        "idf": 4.663561646129646
+    },
+    {
+        "keyword": "60d",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "90d",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "7d",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "tether",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "11",
+        "votes": 5,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "like",
+        "votes": 5,
+        "idf": 4.238678452164381
+    },
+    {
+        "keyword": "today",
+        "votes": 5,
+        "idf": 4.552336011019422
+    },
+    {
+        "keyword": "tender",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "predicts",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "swing",
+        "votes": 5,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "difference",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "closing",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "vol",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "prices",
+        "votes": 5,
+        "idf": 5.417333448506026
+    },
+    {
+        "keyword": "update",
+        "votes": 5,
+        "idf": 5.098879717387492
+    },
+    {
+        "keyword": "usd",
+        "votes": 5,
+        "idf": 4.45225255246244
+    },
+    {
+        "keyword": "2022",
+        "votes": 5,
+        "idf": 4.405732536827546
+    },
+    {
+        "keyword": "mobile",
+        "votes": 5,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "moon",
+        "votes": 5,
+        "idf": 5.098879717387492
+    },
+    {
+        "keyword": "says",
+        "votes": 5,
+        "idf": 5.098879717387492
+    },
+    {
+        "keyword": "bullish",
+        "votes": 5,
+        "idf": 5.417333448506026
+    },
+    {
+        "keyword": "airdrop",
+        "votes": 5,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "daily",
+        "votes": 5,
+        "idf": 5.417333448506026
+    },
+    {
+        "keyword": "spell",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "ust",
+        "votes": 5,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "amc",
+        "votes": 5,
+        "idf": 4.857717660570604
+    },
+    {
+        "keyword": "nice",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "money",
+        "votes": 4,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "patreon",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "cocos",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "support",
+        "votes": 4,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "baby",
+        "votes": 4,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "clarification",
+        "votes": 4,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "02",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "pm",
+        "votes": 4,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "far",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "value",
+        "votes": 4,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "current",
+        "votes": 4,
+        "idf": 3.7125853562676014
+    },
+    {
+        "keyword": "price",
+        "votes": 4,
+        "idf": 3.2482797481365036
+    },
+    {
+        "keyword": "rank",
+        "votes": 4,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "good",
+        "votes": 4,
+        "idf": 4.405732536827546
+    },
+    {
+        "keyword": "always",
+        "votes": 4,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "comment",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.129479160199388
+    },
+    {
+        "keyword": "payments",
+        "votes": 4,
+        "idf": 4.857717660570604
+    },
+    {
+        "keyword": "source",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "frequent",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "across",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "tickets",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "upnl",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "road",
+        "votes": 4,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "balance",
+        "votes": 4,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "meme",
+        "votes": 3,
+        "idf": 5.194189897191817
+    },
+    {
+        "keyword": "invested",
+        "votes": 3,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "sell",
+        "votes": 3,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "first",
+        "votes": 3,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "bought",
+        "votes": 3,
+        "idf": 5.098879717387492
+    },
+    {
+        "keyword": "accepting",
+        "votes": 3,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "creator",
+        "votes": 3,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "likely",
+        "votes": 3,
+        "idf": 6.110480629065972
+    },
+    {
+        "keyword": "something",
+        "votes": 3,
+        "idf": 5.417333448506026
+    },
+    {
+        "keyword": "trading",
+        "votes": 3,
+        "idf": 4.724186267946081
+    },
+    {
+        "keyword": "downwards",
+        "votes": 3,
+        "idf": 6.110480629065972
+    },
+    {
+        "keyword": "matic",
+        "votes": 3,
+        "idf": 5.194189897191817
+    },
+    {
+        "keyword": "sand",
+        "votes": 3,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "added",
+        "votes": 3,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "app",
+        "votes": 3,
+        "idf": 5.194189897191817
+    },
+    {
+        "keyword": "pay",
+        "votes": 3,
+        "idf": 5.299550412849643
+    },
+    {
+        "keyword": "rt",
+        "votes": 3,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "still",
+        "votes": 3,
+        "idf": 5.098879717387492
+    },
+    {
+        "keyword": "shiba",
+        "votes": 3,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "responds",
+        "votes": 3,
+        "idf": 6.110480629065972
+    },
+    {
+        "keyword": "markus",
+        "votes": 3,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "term",
+        "votes": 3,
+        "idf": 5.705015520957808
+    },
+    {
+        "keyword": "let",
+        "votes": 3,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "accepts",
+        "votes": 3,
+        "idf": 5.550864841130549
+    },
+    {
+        "keyword": "fix",
+        "votes": 3,
+        "idf": 6.110480629065972
+    },
+    {
+        "keyword": "better",
+        "votes": 2,
+        "idf": 5.887337077751762
+    },
+    {
+        "keyword": "weekly",
+        "votes": 2,
+        "idf": 6.3981627015177525
+    },
+    {
+        "keyword": "utc",
+        "votes": 2,
+        "idf": 6.3981627015177525
+    },
+    {
+        "keyword": "apr",
+        "votes": 2,
+        "idf": 6.3981627015177525
+    },
+    {
+        "keyword": "convince",
+        "votes": 2,
+        "idf": 6.3981627015177525
+    },
+    {
+        "keyword": "thinks",
+        "votes": 2,
+        "idf": 6.3981627015177525
+    },
+    {
+        "keyword": "world",
+        "votes": 2,
+        "idf": 5.0118683403978626
+    },
+    {
+        "keyword": "hottest",
+        "votes": 2,
+        "idf": 6.3981627015177525
+    },
+    {
+        "keyword": "one",
+        "votes": 2,
+        "idf": 3.783202923481555
+    }
+]

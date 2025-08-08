@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "years",
+        "votes": 71,
+        "idf": 4.123146202271336
+    },
+    {
+        "keyword": "boring",
+        "votes": 33,
+        "idf": 4.784544684516701
+    },
+    {
+        "keyword": "lol",
+        "votes": 28,
+        "idf": 4.832553903703062
+    },
+    {
+        "keyword": "good",
+        "votes": 28,
+        "idf": 4.512610969033059
+    },
+    {
+        "keyword": "yes",
+        "votes": 28,
+        "idf": 4.9544437213120975
+    },
+    {
+        "keyword": "beautiful",
+        "votes": 24,
+        "idf": 5.279866121746726
+    },
+    {
+        "keyword": "call",
+        "votes": 20,
+        "idf": 5.446920206409892
+    },
+    {
+        "keyword": "people",
+        "votes": 20,
+        "idf": 4.6807478908350575
+    },
+    {
+        "keyword": "moon",
+        "votes": 18,
+        "idf": 5.647590901872044
+    },
+    {
+        "keyword": "nope",
+        "votes": 17,
+        "idf": 5.647590901872044
+    },
+    {
+        "keyword": "time",
+        "votes": 17,
+        "idf": 4.612694427590041
+    },
+    {
+        "keyword": "women",
+        "votes": 16,
+        "idf": 5.18222765218281
+    },
+    {
+        "keyword": "like",
+        "votes": 16,
+        "idf": 3.625307774032156
+    },
+    {
+        "keyword": "men",
+        "votes": 15,
+        "idf": 5.446920206409892
+    },
+    {
+        "keyword": "thing",
+        "votes": 15,
+        "idf": 5.388079706386959
+    },
+    {
+        "keyword": "coin",
+        "votes": 15,
+        "idf": 4.299036868735
+    },
+    {
+        "keyword": "go",
+        "votes": 15,
+        "idf": 4.918076077141223
+    },
+    {
+        "keyword": "love",
+        "votes": 15,
+        "idf": 5.093280166166314
+    },
+    {
+        "keyword": "going",
+        "votes": 15,
+        "idf": 5.0314047624482265
+    },
+    {
+        "keyword": "wrong",
+        "votes": 15,
+        "idf": 5.765373937528427
+    },
+    {
+        "keyword": "curious",
+        "votes": 14,
+        "idf": 5.8989053301529495
+    },
+    {
+        "keyword": "nothing",
+        "votes": 14,
+        "idf": 5.611223257701169
+    },
+    {
+        "keyword": "profile",
+        "votes": 13,
+        "idf": 4.918076077141223
+    },
+    {
+        "keyword": "maybe",
+        "votes": 13,
+        "idf": 5.417067243260211
+    },
+    {
+        "keyword": "bots",
+        "votes": 13,
+        "idf": 5.647590901872044
+    },
+    {
+        "keyword": "never",
+        "votes": 13,
+        "idf": 5.1592381339581115
+    },
+    {
+        "keyword": "guys",
+        "votes": 13,
+        "idf": 5.68533122985489
+    },
+    {
+        "keyword": "long",
+        "votes": 13,
+        "idf": 5.1592381339581115
+    },
+    {
+        "keyword": "always",
+        "votes": 13,
+        "idf": 5.446920206409892
+    },
+    {
+        "keyword": "5",
+        "votes": 12,
+        "idf": 5.477691865076646
+    },
+    {
+        "keyword": "course",
+        "votes": 12,
+        "idf": 6.0530560099802075
+    },
+    {
+        "keyword": "sure",
+        "votes": 12,
+        "idf": 5.388079706386959
+    },
+    {
+        "keyword": "4",
+        "votes": 12,
+        "idf": 5.388079706386959
+    },
+    {
+        "keyword": "wow",
+        "votes": 12,
+        "idf": 6.0530560099802075
+    },
+    {
+        "keyword": "ok",
+        "votes": 11,
+        "idf": 6.304370438261114
+    },
+    {
+        "keyword": "post",
+        "votes": 11,
+        "idf": 5.18222765218281
+    },
+    {
+        "keyword": "know",
+        "votes": 11,
+        "idf": 4.738735148485406
+    },
+    {
+        "keyword": "well",
+        "votes": 11,
+        "idf": 5.542230386214217
+    },
+    {
+        "keyword": "check",
+        "votes": 11,
+        "idf": 4.612694427590041
+    },
+    {
+        "keyword": "checked",
+        "votes": 11,
+        "idf": 6.235377566774162
+    },
+    {
+        "keyword": "bot",
+        "votes": 11,
+        "idf": 5.611223257701169
+    },
+    {
+        "keyword": "think",
+        "votes": 11,
+        "idf": 4.816293382831281
+    },
+    {
+        "keyword": "eyes",
+        "votes": 11,
+        "idf": 6.110214423820157
+    },
+    {
+        "keyword": "say",
+        "votes": 11,
+        "idf": 5.229855701172065
+    },
+    {
+        "keyword": "life",
+        "votes": 11,
+        "idf": 5.205758149593004
+    },
+    {
+        "keyword": "way",
+        "votes": 11,
+        "idf": 4.918076077141223
+    },
+    {
+        "keyword": "alena",
+        "votes": 11,
+        "idf": 6.304370438261114
+    },
+    {
+        "keyword": "yeah",
+        "votes": 10,
+        "idf": 5.852385314518057
+    },
+    {
+        "keyword": "okay",
+        "votes": 10,
+        "idf": 6.110214423820157
+    },
+    {
+        "keyword": "let",
+        "votes": 10,
+        "idf": 5.279866121746726
+    },
+    {
+        "keyword": "nah",
+        "votes": 10,
+        "idf": 6.0530560099802075
+    },
+    {
+        "keyword": "pretty",
+        "votes": 10,
+        "idf": 6.170839045636591
+    },
+    {
+        "keyword": "look",
+        "votes": 10,
+        "idf": 5.254548313762436
+    },
+    {
+        "keyword": "6",
+        "votes": 10,
+        "idf": 5.765373937528427
+    },
+    {
+        "keyword": "year",
+        "votes": 10,
+        "idf": 5.852385314518057
+    },
+    {
+        "keyword": "mine",
+        "votes": 10,
+        "idf": 6.304370438261114
+    },
+    {
+        "keyword": "much",
+        "votes": 9,
+        "idf": 5.1592381339581115
+    },
+    {
+        "keyword": "right",
+        "votes": 9,
+        "idf": 5.136765278106052
+    },
+    {
+        "keyword": "every",
+        "votes": 9,
+        "idf": 5.446920206409892
+    },
+    {
+        "keyword": "oh",
+        "votes": 9,
+        "idf": 5.807933551947223
+    },
+    {
+        "keyword": "best",
+        "votes": 9,
+        "idf": 5.852385314518057
+    },
+    {
+        "keyword": "wife",
+        "votes": 9,
+        "idf": 6.304370438261114
+    },
+    {
+        "keyword": "baby",
+        "votes": 9,
+        "idf": 6.0530560099802075
+    },
+    {
+        "keyword": "take",
+        "votes": 9,
+        "idf": 5.8989053301529495
+    },
+    {
+        "keyword": "hours",
+        "votes": 9,
+        "idf": 5.947695494322382
+    },
+    {
+        "keyword": "posted",
+        "votes": 9,
+        "idf": 6.378478410414836
+    },
+    {
+        "keyword": "alerts",
+        "votes": 9,
+        "idf": 6.378478410414836
+    },
+    {
+        "keyword": "gorgeous",
+        "votes": 8,
+        "idf": 6.640842674882327
+    },
+    {
+        "keyword": "since",
+        "votes": 8,
+        "idf": 5.417067243260211
+    },
+    {
+        "keyword": "u",
+        "votes": 8,
+        "idf": 6.170839045636591
+    },
+    {
+        "keyword": "buy",
+        "votes": 8,
+        "idf": 5.647590901872044
+    },
+    {
+        "keyword": "sounds",
+        "votes": 8,
+        "idf": 6.545532495078002
+    },
+    {
+        "keyword": "perfect",
+        "votes": 8,
+        "idf": 6.304370438261114
+    },
+    {
+        "keyword": "see",
+        "votes": 8,
+        "idf": 4.328307251035113
+    },
+    {
+        "keyword": "absolutely",
+        "votes": 8,
+        "idf": 5.998988788709932
+    },
+    {
+        "keyword": "better",
+        "votes": 8,
+        "idf": 5.542230386214217
+    },
+    {
+        "keyword": "1",
+        "votes": 8,
+        "idf": 4.882984757329954
+    },
+    {
+        "keyword": "money",
+        "votes": 8,
+        "idf": 5.765373937528427
+    },
+    {
+        "keyword": "months",
+        "votes": 8,
+        "idf": 6.304370438261114
+    },
+    {
+        "keyword": "woman",
+        "votes": 8,
+        "idf": 5.647590901872044
+    },
+    {
+        "keyword": "3",
+        "votes": 8,
+        "idf": 5.0314047624482265
+    },
+    {
+        "keyword": "hope",
+        "votes": 8,
+        "idf": 5.8989053301529495
+    },
+    {
+        "keyword": "almost",
+        "votes": 7,
+        "idf": 6.545532495078002
+    },
+    {
+        "keyword": "would",
+        "votes": 7,
+        "idf": 4.723920062700266
+    },
+    {
+        "keyword": "haha",
+        "votes": 7,
+        "idf": 6.640842674882327
+    },
+    {
+        "keyword": "posts",
+        "votes": 7,
+        "idf": 5.998988788709932
+    },
+    {
+        "keyword": "likes",
+        "votes": 7,
+        "idf": 5.947695494322382
+    },
+    {
+        "keyword": "actually",
+        "votes": 7,
+        "idf": 5.998988788709932
+    },
+    {
+        "keyword": "send",
+        "votes": 7,
+        "idf": 5.947695494322382
+    },
+    {
+        "keyword": "curiosity",
+        "votes": 7,
+        "idf": 6.458521118088372
+    },
+    {
+        "keyword": "break",
+        "votes": 7,
+        "idf": 6.0530560099802075
+    },
+    {
+        "keyword": "community",
+        "votes": 7,
+        "idf": 5.477691865076646
+    },
+    {
+        "keyword": "tell",
+        "votes": 7,
+        "idf": 6.170839045636591
+    },
+    {
+        "keyword": "single",
+        "votes": 7,
+        "idf": 5.417067243260211
+    },
+    {
+        "keyword": "us",
+        "votes": 7,
+        "idf": 5.724551943008172
+    },
+    {
+        "keyword": "cycle",
+        "votes": 7,
+        "idf": 5.765373937528427
+    },
+    {
+        "keyword": "nice",
+        "votes": 7,
+        "idf": 5.852385314518057
+    },
+    {
+        "keyword": "season",
+        "votes": 7,
+        "idf": 6.0530560099802075
+    },
+    {
+        "keyword": "10",
+        "votes": 7,
+        "idf": 5.254548313762436
+    },
+    {
+        "keyword": "believe",
+        "votes": 7,
+        "idf": 5.947695494322382
+    }
+]

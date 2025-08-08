@@ -90,6 +90,11 @@
         "idf": 4.702843994464309
     },
     {
+        "keyword": "free",
+        "votes": 5,
+        "idf": 5.395991175024254
+    },
+    {
         "keyword": "sir",
         "votes": 5,
         "idf": 5.1728476237100445
@@ -115,7 +120,12 @@
         "idf": 4.530993737537649
     },
     {
-        "keyword": "participating",
+        "keyword": "idea",
+        "votes": 4,
+        "idf": 5.529522567648777
+    },
+    {
+        "keyword": "becomes",
         "votes": 4,
         "idf": 5.86599480426999
     },
@@ -148,5 +158,345 @@
         "keyword": "0",
         "votes": 4,
         "idf": 5.86599480426999
+    },
+    {
+        "keyword": "past",
+        "votes": 4,
+        "idf": 4.910483359242553
+    },
+    {
+        "keyword": "hour",
+        "votes": 4,
+        "idf": 3.949072192087929
+    },
+    {
+        "keyword": "lost",
+        "votes": 4,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "help",
+        "votes": 4,
+        "idf": 5.395991175024254
+    },
+    {
+        "keyword": "h",
+        "votes": 4,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "based",
+        "votes": 4,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "wiser",
+        "votes": 4,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "tether",
+        "votes": 4,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "cardano",
+        "votes": 4,
+        "idf": 5.529522567648777
+    },
+    {
+        "keyword": "walmart",
+        "votes": 4,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "thats",
+        "votes": 4,
+        "idf": 5.529522567648777
+    },
+    {
+        "keyword": "prices",
+        "votes": 4,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "love",
+        "votes": 4,
+        "idf": 4.384390263345774
+    },
+    {
+        "keyword": "dope",
+        "votes": 4,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "grab",
+        "votes": 4,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "follow",
+        "votes": 3,
+        "idf": 5.27820813936787
+    },
+    {
+        "keyword": "holder",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "dogemongo",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "rapid",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "prepared",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "increase",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "technical",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "announcement",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "pic",
+        "votes": 3,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "know",
+        "votes": 3,
+        "idf": 4.8363753870888315
+    },
+    {
+        "keyword": "shiba",
+        "votes": 3,
+        "idf": 4.76738251560188
+    },
+    {
+        "keyword": "7",
+        "votes": 3,
+        "idf": 5.683673247476035
+    },
+    {
+        "keyword": "6",
+        "votes": 3,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "yeah",
+        "votes": 3,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "model",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "ranking",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "downwards",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "closing",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "hr",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "swing",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "difference",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "update",
+        "votes": 3,
+        "idf": 4.76738251560188
+    },
+    {
+        "keyword": "one",
+        "votes": 3,
+        "idf": 3.8378465569777043
+    },
+    {
+        "keyword": "lol",
+        "votes": 3,
+        "idf": 5.1728476237100445
+    },
+    {
+        "keyword": "post",
+        "votes": 3,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "entered",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "enter",
+        "votes": 3,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "participating",
+        "votes": 3,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "enthusiastic",
+        "votes": 3,
+        "idf": 5.529522567648777
+    },
+    {
+        "keyword": "prediction",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "website",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "telegram",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "inu",
+        "votes": 3,
+        "idf": 4.76738251560188
+    },
+    {
+        "keyword": "add",
+        "votes": 3,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "copycats",
+        "votes": 3,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "dips",
+        "votes": 2,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "spot",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "77m",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "net",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "nice",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "success",
+        "votes": 2,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "hope",
+        "votes": 2,
+        "idf": 4.99052606691609
+    },
+    {
+        "keyword": "dumping",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "ethereum",
+        "votes": 2,
+        "idf": 5.1728476237100445
+    },
+    {
+        "keyword": "shuttering",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "order",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "improperly",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "excellent",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "participated",
+        "votes": 2,
+        "idf": 6.37682042803598
+    },
+    {
+        "keyword": "part",
+        "votes": 2,
+        "idf": 6.0891383555842
+    },
+    {
+        "keyword": "joke",
+        "votes": 2,
+        "idf": 5.683673247476035
+    },
+    {
+        "keyword": "also",
+        "votes": 2,
+        "idf": 5.86599480426999
+    },
+    {
+        "keyword": "reading",
+        "votes": 2,
+        "idf": 6.37682042803598
     }
 ]

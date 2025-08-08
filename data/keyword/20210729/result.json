@@ -105,6 +105,11 @@
         "idf": 4.891237037668311
     },
     {
+        "keyword": "new",
+        "votes": 10,
+        "idf": 5.079289269171251
+    },
+    {
         "keyword": "going",
         "votes": 10,
         "idf": 5.079289269171251
@@ -113,11 +118,6 @@
         "keyword": "update",
         "votes": 10,
         "idf": 4.980849196357998
-    },
-    {
-        "keyword": "accepted",
-        "votes": 10,
-        "idf": 5.881635741696188
     },
     {
         "keyword": "far",
@@ -140,13 +140,363 @@
         "idf": 5.450852825603734
     },
     {
-        "keyword": "new",
-        "votes": 9,
-        "idf": 5.079289269171251
-    },
-    {
         "keyword": "tesla",
         "votes": 9,
         "idf": 5.114380588982521
+    },
+    {
+        "keyword": "prices",
+        "votes": 9,
+        "idf": 5.881635741696188
+    },
+    {
+        "keyword": "accepted",
+        "votes": 9,
+        "idf": 5.881635741696188
+    },
+    {
+        "keyword": "amc",
+        "votes": 8,
+        "idf": 4.783023453028079
+    },
+    {
+        "keyword": "robinhood",
+        "votes": 8,
+        "idf": 5.012597894672579
+    },
+    {
+        "keyword": "ready",
+        "votes": 8,
+        "idf": 5.8075277695424665
+    },
+    {
+        "keyword": "mdoge",
+        "votes": 8,
+        "idf": 6.249360521821505
+    },
+    {
+        "keyword": "h",
+        "votes": 8,
+        "idf": 6.249360521821505
+    },
+    {
+        "keyword": "wiser",
+        "votes": 8,
+        "idf": 6.249360521821505
+    },
+    {
+        "keyword": "til",
+        "votes": 8,
+        "idf": 6.249360521821505
+    },
+    {
+        "keyword": "thats",
+        "votes": 8,
+        "idf": 6.249360521821505
+    },
+    {
+        "keyword": "like",
+        "votes": 8,
+        "idf": 3.9692482846795185
+    },
+    {
+        "keyword": "brazil",
+        "votes": 8,
+        "idf": 6.048689826359355
+    },
+    {
+        "keyword": "holding",
+        "votes": 8,
+        "idf": 5.188488561136243
+    },
+    {
+        "keyword": "value",
+        "votes": 7,
+        "idf": 5.0453877174955695
+    },
+    {
+        "keyword": "pay",
+        "votes": 7,
+        "idf": 5.311090883228576
+    },
+    {
+        "keyword": "7d",
+        "votes": 7,
+        "idf": 6.367143557477889
+    },
+    {
+        "keyword": "30d",
+        "votes": 7,
+        "idf": 6.367143557477889
+    },
+    {
+        "keyword": "1h",
+        "votes": 7,
+        "idf": 5.311090883228576
+    },
+    {
+        "keyword": "look",
+        "votes": 7,
+        "idf": 5.881635741696188
+    },
+    {
+        "keyword": "please",
+        "votes": 7,
+        "idf": 5.114380588982521
+    },
+    {
+        "keyword": "looks",
+        "votes": 7,
+        "idf": 5.8075277695424665
+    },
+    {
+        "keyword": "tether",
+        "votes": 7,
+        "idf": 6.367143557477889
+    },
+    {
+        "keyword": "cardano",
+        "votes": 7,
+        "idf": 6.048689826359355
+    },
+    {
+        "keyword": "money",
+        "votes": 7,
+        "idf": 5.0453877174955695
+    },
+    {
+        "keyword": "time",
+        "votes": 7,
+        "idf": 4.733013032453417
+    },
+    {
+        "keyword": "past",
+        "votes": 7,
+        "idf": 5.188488561136243
+    },
+    {
+        "keyword": "change",
+        "votes": 7,
+        "idf": 4.115851758871393
+    },
+    {
+        "keyword": "ranking",
+        "votes": 7,
+        "idf": 6.367143557477889
+    },
+    {
+        "keyword": "daytrade",
+        "votes": 7,
+        "idf": 6.367143557477889
+    },
+    {
+        "keyword": "difference",
+        "votes": 7,
+        "idf": 6.367143557477889
+    },
+    {
+        "keyword": "love",
+        "votes": 7,
+        "idf": 4.757705645043789
+    },
+    {
+        "keyword": "1",
+        "votes": 7,
+        "idf": 3.8216122858734543
+    },
+    {
+        "keyword": "get",
+        "votes": 6,
+        "idf": 4.102779677304041
+    },
+    {
+        "keyword": "stock",
+        "votes": 6,
+        "idf": 6.048689826359355
+    },
+    {
+        "keyword": "back",
+        "votes": 6,
+        "idf": 5.311090883228576
+    },
+    {
+        "keyword": "take",
+        "votes": 6,
+        "idf": 5.355542645799409
+    },
+    {
+        "keyword": "wish",
+        "votes": 6,
+        "idf": 6.048689826359355
+    },
+    {
+        "keyword": "payment",
+        "votes": 6,
+        "idf": 5.556213341261561
+    },
+    {
+        "keyword": "one",
+        "votes": 6,
+        "idf": 3.9806769805031412
+    },
+    {
+        "keyword": "thank",
+        "votes": 6,
+        "idf": 5.613371755101509
+    },
+    {
+        "keyword": "many",
+        "votes": 6,
+        "idf": 5.402062661434302
+    },
+    {
+        "keyword": "58",
+        "votes": 6,
+        "idf": 6.500674950102412
+    },
+    {
+        "keyword": "sell",
+        "votes": 6,
+        "idf": 5.268531268809779
+    },
+    {
+        "keyword": "something",
+        "votes": 6,
+        "idf": 5.961678449369725
+    },
+    {
+        "keyword": "hope",
+        "votes": 6,
+        "idf": 5.8075277695424665
+    },
+    {
+        "keyword": "wait",
+        "votes": 6,
+        "idf": 5.556213341261561
+    },
+    {
+        "keyword": "bought",
+        "votes": 6,
+        "idf": 5.8075277695424665
+    },
+    {
+        "keyword": "ipo",
+        "votes": 5,
+        "idf": 5.881635741696188
+    },
+    {
+        "keyword": "shiba",
+        "votes": 5,
+        "idf": 5.188488561136243
+    },
+    {
+        "keyword": "akita",
+        "votes": 5,
+        "idf": 5.881635741696188
+    },
+    {
+        "keyword": "sir",
+        "votes": 5,
+        "idf": 6.249360521821505
+    },
+    {
+        "keyword": "busd",
+        "votes": 5,
+        "idf": 6.367143557477889
+    },
+    {
+        "keyword": "9",
+        "votes": 5,
+        "idf": 6.367143557477889
+    },
+    {
+        "keyword": "usdc",
+        "votes": 5,
+        "idf": 6.249360521821505
+    },
+    {
+        "keyword": "guys",
+        "votes": 5,
+        "idf": 5.556213341261561
+    },
+    {
+        "keyword": "green",
+        "votes": 5,
+        "idf": 6.249360521821505
+    },
+    {
+        "keyword": "man",
+        "votes": 5,
+        "idf": 6.048689826359355
+    },
+    {
+        "keyword": "think",
+        "votes": 5,
+        "idf": 4.733013032453417
+    },
+    {
+        "keyword": "hit",
+        "votes": 5,
+        "idf": 5.738534898055515
+    },
+    {
+        "keyword": "really",
+        "votes": 5,
+        "idf": 5.355542645799409
+    },
+    {
+        "keyword": "family",
+        "votes": 5,
+        "idf": 5.881635741696188
+    },
+    {
+        "keyword": "momentum",
+        "votes": 5,
+        "idf": 6.65482562992967
+    },
+    {
+        "keyword": "closing",
+        "votes": 5,
+        "idf": 6.65482562992967
+    },
+    {
+        "keyword": "hr",
+        "votes": 5,
+        "idf": 6.65482562992967
+    },
+    {
+        "keyword": "come",
+        "votes": 5,
+        "idf": 5.402062661434302
+    },
+    {
+        "keyword": "believe",
+        "votes": 5,
+        "idf": 5.673996376917944
+    },
+    {
+        "keyword": "quarter",
+        "votes": 5,
+        "idf": 6.65482562992967
+    },
+    {
+        "keyword": "invested",
+        "votes": 5,
+        "idf": 6.500674950102412
+    },
+    {
+        "keyword": "burger",
+        "votes": 5,
+        "idf": 5.556213341261561
+    },
+    {
+        "keyword": "49",
+        "votes": 5,
+        "idf": 6.65482562992967
+    },
+    {
+        "keyword": "hive",
+        "votes": 5,
+        "idf": 6.65482562992967
     }
 ]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "average",
+        "votes": 38,
+        "idf": 3.5356789751614235
+    },
+    {
+        "keyword": "0",
+        "votes": 36,
+        "idf": 3.6136405166311354
+    },
+    {
+        "keyword": "swimming",
+        "votes": 24,
+        "idf": 3.9287215632710306
+    },
+    {
+        "keyword": "ios",
+        "votes": 24,
+        "idf": 3.892353919100156
+    },
+    {
+        "keyword": "increased",
+        "votes": 23,
+        "idf": 4.046504598927415
+    },
+    {
+        "keyword": "decreased",
+        "votes": 22,
+        "idf": 4.0890642133462105
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 21,
+        "idf": 3.510986362571052
+    },
+    {
+        "keyword": "6",
+        "votes": 21,
+        "idf": 4.0890642133462105
+    },
+    {
+        "keyword": "7",
+        "votes": 16,
+        "idf": 4.391345085219143
+    },
+    {
+        "keyword": "2",
+        "votes": 15,
+        "idf": 4.334186671379195
+    },
+    {
+        "keyword": "dogeco",
+        "votes": 13,
+        "idf": 4.585501099660101
+    },
+    {
+        "keyword": "42",
+        "votes": 12,
+        "idf": 4.391345085219143
+    },
+    {
+        "keyword": "lifehacker",
+        "votes": 12,
+        "idf": 4.659609071813823
+    },
+    {
+        "keyword": "trading",
+        "votes": 11,
+        "idf": 4.451969707035579
+    },
+    {
+        "keyword": "9",
+        "votes": 10,
+        "idf": 4.659609071813823
+    },
+    {
+        "keyword": "hackadoge",
+        "votes": 9,
+        "idf": 4.51650822817315
+    },
+    {
+        "keyword": "drop",
+        "votes": 9,
+        "idf": 4.921973336281314
+    },
+    {
+        "keyword": "8",
+        "votes": 8,
+        "idf": 5.02733385193914
+    },
+    {
+        "keyword": "lets",
+        "votes": 8,
+        "idf": 5.02733385193914
+    },
+    {
+        "keyword": "claim",
+        "votes": 7,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "tip",
+        "votes": 7,
+        "idf": 4.28011945010892
+    },
+    {
+        "keyword": "via",
+        "votes": 7,
+        "idf": 4.391345085219143
+    },
+    {
+        "keyword": "alt",
+        "votes": 7,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "tracker",
+        "votes": 7,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "625",
+        "votes": 7,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "youtube",
+        "votes": 7,
+        "idf": 5.02733385193914
+    },
+    {
+        "keyword": "anyone",
+        "votes": 7,
+        "idf": 5.02733385193914
+    },
+    {
+        "keyword": "leap",
+        "votes": 7,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "sending",
+        "votes": 7,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "40",
+        "votes": 7,
+        "idf": 4.28011945010892
+    },
+    {
+        "keyword": "everything",
+        "votes": 6,
+        "idf": 5.278648280220047
+    },
+    {
+        "keyword": "happy",
+        "votes": 6,
+        "idf": 4.8266631564769895
+    },
+    {
+        "keyword": "drops",
+        "votes": 6,
+        "idf": 5.278648280220047
+    },
+    {
+        "keyword": "leaps",
+        "votes": 6,
+        "idf": 5.278648280220047
+    },
+    {
+        "keyword": "baird",
+        "votes": 6,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "app",
+        "votes": 5,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "supporting",
+        "votes": 5,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "5",
+        "votes": 5,
+        "idf": 5.432798960047305
+    },
+    {
+        "keyword": "stuff",
+        "votes": 5,
+        "idf": 5.278648280220047
+    },
+    {
+        "keyword": "good",
+        "votes": 4,
+        "idf": 4.739651779487359
+    },
+    {
+        "keyword": "last",
+        "votes": 4,
+        "idf": 3.3959170327862647
+    },
+    {
+        "keyword": "showcases",
+        "votes": 4,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "website",
+        "votes": 4,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "624",
+        "votes": 4,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "bunch",
+        "votes": 4,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "new",
+        "votes": 4,
+        "idf": 4.451969707035579
+    },
+    {
+        "keyword": "scientist",
+        "votes": 4,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "622",
+        "votes": 4,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "puppy",
+        "votes": 4,
+        "idf": 5.432798960047305
+    },
+    {
+        "keyword": "love",
+        "votes": 4,
+        "idf": 5.278648280220047
+    },
+    {
+        "keyword": "peercoin",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "dogecoi",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "sunday",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "621",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "magazine",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "teach",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 4.451969707035579
+    },
+    {
+        "keyword": "16",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "hackathon",
+        "votes": 3,
+        "idf": 4.8266631564769895
+    },
+    {
+        "keyword": "halvening",
+        "votes": 3,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "halving",
+        "votes": 3,
+        "idf": 4.51650822817315
+    },
+    {
+        "keyword": "day",
+        "votes": 3,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "check",
+        "votes": 3,
+        "idf": 5.432798960047305
+    },
+    {
+        "keyword": "3878",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "community",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "puts",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "crypto",
+        "votes": 3,
+        "idf": 5.432798960047305
+    },
+    {
+        "keyword": "623",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "internet",
+        "votes": 3,
+        "idf": 5.02733385193914
+    },
+    {
+        "keyword": "4",
+        "votes": 3,
+        "idf": 5.432798960047305
+    },
+    {
+        "keyword": "299529",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "current",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "300000",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "friend",
+        "votes": 3,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "ideas",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "vote",
+        "votes": 2,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "microlending",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "campaign",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "used",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "stream",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "single",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "video",
+        "votes": 2,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "620",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "grand",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "prize",
+        "votes": 2,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "3974",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "games",
+        "votes": 2,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "best",
+        "votes": 2,
+        "idf": 5.278648280220047
+    },
+    {
+        "keyword": "time",
+        "votes": 2,
+        "idf": 5.838264068155469
+    },
+    {
+        "keyword": "free",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "overlooked",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "practically",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "shibes",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "3907",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "philanthropy",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 2,
+        "idf": 6.12594614060725
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 5.432798960047305
+    },
+    {
+        "keyword": "much",
+        "votes": 2,
+        "idf": 5.145116887595524
+    },
+    {
+        "keyword": "press",
+        "votes": 2,
+        "idf": 5.278648280220047
+    },
+    {
+        "keyword": "historical",
+        "votes": 2,
+        "idf": 6.12594614060725
+    }
+]

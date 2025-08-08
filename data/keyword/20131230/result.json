@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "someone",
+        "votes": 24,
+        "idf": 3.6888188391743224
+    },
+    {
+        "keyword": "community",
+        "votes": 21,
+        "idf": 3.494662824733365
+    },
+    {
+        "keyword": "two",
+        "votes": 20,
+        "idf": 3.885529133420377
+    },
+    {
+        "keyword": "wallet",
+        "votes": 17,
+        "idf": 3.8021475244813256
+    },
+    {
+        "keyword": "victims",
+        "votes": 17,
+        "idf": 3.236833715431265
+    },
+    {
+        "keyword": "paper",
+        "votes": 16,
+        "idf": 4.1878100052933105
+    },
+    {
+        "keyword": "l",
+        "votes": 15,
+        "idf": 4.248434627109745
+    },
+    {
+        "keyword": "donating",
+        "votes": 14,
+        "idf": 4.130651591453361
+    },
+    {
+        "keyword": "deal",
+        "votes": 13,
+        "idf": 4.381966019734268
+    },
+    {
+        "keyword": "raises",
+        "votes": 13,
+        "idf": 4.381966019734268
+    },
+    {
+        "keyword": "people",
+        "votes": 12,
+        "idf": 3.9765009116261036
+    },
+    {
+        "keyword": "actually",
+        "votes": 10,
+        "idf": 3.5870361448643804
+    },
+    {
+        "keyword": "raising",
+        "votes": 9,
+        "idf": 4.623128076551156
+    },
+    {
+        "keyword": "imgurone",
+        "votes": 8,
+        "idf": 4.823798772013307
+    },
+    {
+        "keyword": "much",
+        "votes": 8,
+        "idf": 4.312973148247316
+    },
+    {
+        "keyword": "moon",
+        "votes": 8,
+        "idf": 4.718438256355481
+    },
+    {
+        "keyword": "litecoin",
+        "votes": 8,
+        "idf": 4.623128076551156
+    },
+    {
+        "keyword": "really",
+        "votes": 7,
+        "idf": 4.312973148247316
+    },
+    {
+        "keyword": "stories",
+        "votes": 7,
+        "idf": 4.9415818076696905
+    },
+    {
+        "keyword": "day",
+        "votes": 7,
+        "idf": 3.524515787883046
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 7,
+        "idf": 3.524515787883046
+    },
+    {
+        "keyword": "generosity",
+        "votes": 7,
+        "idf": 4.823798772013307
+    },
+    {
+        "keyword": "xmas",
+        "votes": 6,
+        "idf": 5.075113200294213
+    },
+    {
+        "keyword": "virty",
+        "votes": 6,
+        "idf": 5.075113200294213
+    },
+    {
+        "keyword": "comedy",
+        "votes": 6,
+        "idf": 5.075113200294213
+    },
+    {
+        "keyword": "59",
+        "votes": 6,
+        "idf": 4.9415818076696905
+    },
+    {
+        "keyword": "future",
+        "votes": 6,
+        "idf": 4.823798772013307
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 6,
+        "idf": 4.4560739918879895
+    },
+    {
+        "keyword": "wallets",
+        "votes": 5,
+        "idf": 5.229263880121471
+    },
+    {
+        "keyword": "stolen",
+        "votes": 5,
+        "idf": 4.312973148247316
+    },
+    {
+        "keyword": "21",
+        "votes": 5,
+        "idf": 5.229263880121471
+    },
+    {
+        "keyword": "alternative",
+        "votes": 5,
+        "idf": 5.075113200294213
+    },
+    {
+        "keyword": "new",
+        "votes": 5,
+        "idf": 4.312973148247316
+    },
+    {
+        "keyword": "via",
+        "votes": 5,
+        "idf": 4.623128076551156
+    },
+    {
+        "keyword": "61",
+        "votes": 5,
+        "idf": 5.075113200294213
+    },
+    {
+        "keyword": "know",
+        "votes": 5,
+        "idf": 4.623128076551156
+    },
+    {
+        "keyword": "56",
+        "votes": 5,
+        "idf": 5.229263880121471
+    },
+    {
+        "keyword": "need",
+        "votes": 5,
+        "idf": 5.075113200294213
+    },
+    {
+        "keyword": "aims",
+        "votes": 5,
+        "idf": 4.823798772013307
+    },
+    {
+        "keyword": "hit",
+        "votes": 4,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "security",
+        "votes": 4,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "takes",
+        "votes": 4,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "one",
+        "votes": 4,
+        "idf": 4.9415818076696905
+    },
+    {
+        "keyword": "accept",
+        "votes": 4,
+        "idf": 5.229263880121471
+    },
+    {
+        "keyword": "million",
+        "votes": 4,
+        "idf": 4.823798772013307
+    },
+    {
+        "keyword": "post",
+        "votes": 4,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "disappear",
+        "votes": 4,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "736",
+        "votes": 4,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "wow",
+        "votes": 4,
+        "idf": 4.130651591453361
+    },
+    {
+        "keyword": "reimburse",
+        "votes": 4,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "reported",
+        "votes": 4,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "based",
+        "votes": 4,
+        "idf": 5.075113200294213
+    },
+    {
+        "keyword": "meme",
+        "votes": 4,
+        "idf": 4.9415818076696905
+    },
+    {
+        "keyword": "dogewallet",
+        "votes": 4,
+        "idf": 4.623128076551156
+    },
+    {
+        "keyword": "738",
+        "votes": 3,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "gone",
+        "votes": 3,
+        "idf": 5.229263880121471
+    },
+    {
+        "keyword": "virtual",
+        "votes": 3,
+        "idf": 5.229263880121471
+    },
+    {
+        "keyword": "doge",
+        "votes": 3,
+        "idf": 4.130651591453361
+    },
+    {
+        "keyword": "735",
+        "votes": 3,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "many",
+        "votes": 3,
+        "idf": 5.075113200294213
+    },
+    {
+        "keyword": "tyler",
+        "votes": 3,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "cc",
+        "votes": 3,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "attack",
+        "votes": 3,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "called",
+        "votes": 3,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "733",
+        "votes": 3,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "trends",
+        "votes": 3,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "icon",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "god",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "55",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "coin",
+        "votes": 2,
+        "idf": 4.623128076551156
+    },
+    {
+        "keyword": "currency",
+        "votes": 2,
+        "idf": 3.2143608595792066
+    },
+    {
+        "keyword": "thing",
+        "votes": 2,
+        "idf": 4.823798772013307
+    },
+    {
+        "keyword": "great",
+        "votes": 2,
+        "idf": 5.411585436915426
+    },
+    {
+        "keyword": "savedogemas",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "donate",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "fund",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "verge",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "740",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "totally",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "might",
+        "votes": 2,
+        "idf": 5.229263880121471
+    },
+    {
+        "keyword": "inc",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "reddit",
+        "votes": 2,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "oh",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "units",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "sites",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "stole",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "news",
+        "votes": 2,
+        "idf": 4.9415818076696905
+    },
+    {
+        "keyword": "lost",
+        "votes": 2,
+        "idf": 4.9415818076696905
+    },
+    {
+        "keyword": "money",
+        "votes": 2,
+        "idf": 3.2143608595792066
+    },
+    {
+        "keyword": "hacked",
+        "votes": 2,
+        "idf": 3.4375044108934163
+    },
+    {
+        "keyword": "trap",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "2268",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "see",
+        "votes": 2,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "pc",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "help",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "set",
+        "votes": 2,
+        "idf": 5.634728988229636
+    },
+    {
+        "keyword": "bitcoins",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "accessible",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "making",
+        "votes": 2,
+        "idf": 5.922411060681417
+    },
+    {
+        "keyword": "737",
+        "votes": 2,
+        "idf": 5.922411060681417
+    }
+]

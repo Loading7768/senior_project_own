@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "3",
+        "votes": 40,
+        "idf": 3.0677455019166446
+    },
+    {
+        "keyword": "4",
+        "votes": 39,
+        "idf": 3.1153735509058995
+    },
+    {
+        "keyword": "0",
+        "votes": 27,
+        "idf": 3.461649787623733
+    },
+    {
+        "keyword": "survive",
+        "votes": 20,
+        "idf": 3.570849079588725
+    },
+    {
+        "keyword": "must",
+        "votes": 19,
+        "idf": 3.570849079588725
+    },
+    {
+        "keyword": "via",
+        "votes": 10,
+        "idf": 3.533108751605878
+    },
+    {
+        "keyword": "8",
+        "votes": 9,
+        "idf": 4.431050344811837
+    },
+    {
+        "keyword": "7",
+        "votes": 8,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "6",
+        "votes": 5,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "5",
+        "votes": 5,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "week",
+        "votes": 5,
+        "idf": 4.883035468554894
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 5,
+        "idf": 4.883035468554894
+    },
+    {
+        "keyword": "voted",
+        "votes": 5,
+        "idf": 4.6317210402739875
+    },
+    {
+        "keyword": "64",
+        "votes": 5,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "supporting",
+        "votes": 4,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "tracker",
+        "votes": 4,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "gift",
+        "votes": 4,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "586",
+        "votes": 4,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 4.431050344811837
+    },
+    {
+        "keyword": "9",
+        "votes": 3,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "582",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "alt",
+        "votes": 3,
+        "idf": 4.883035468554894
+    },
+    {
+        "keyword": "etherex",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "roundup",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "585",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "62",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "584",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "course",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "magazine",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "added",
+        "votes": 3,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "exchange",
+        "votes": 3,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "74",
+        "votes": 3,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "food",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "motivations",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "250",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "following",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "76",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "583",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "accepting",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "today",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "surges",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "darkcoin",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "twitter",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "tweet",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "happy",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "respigo",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "66",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "2014",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "1000",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "swanson",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "63",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "hilarious",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "cool",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "cost",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "ever",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "delusional",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "falling",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "cryptocurrencies",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "follow",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "rise",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "june",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 4.431050344811837
+    },
+    {
+        "keyword": "wolves",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "view",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "v\u00eda",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "2467",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "economy",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "thrive",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "\u1d25",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "looks",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "hood",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "video",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "appear",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 3.833213344056216
+    },
+    {
+        "keyword": "589",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "rt",
+        "votes": 2,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "respective",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "exactly",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "photography",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "away",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "giving",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "say",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "wise",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "doge",
+        "votes": 2,
+        "idf": 3.833213344056216
+    },
+    {
+        "keyword": "article",
+        "votes": 2,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "time",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "dog",
+        "votes": 2,
+        "idf": 5.219507705176107
+    },
+    {
+        "keyword": "attacking",
+        "votes": 2,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "300",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "301",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "version",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "embedded",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "miner",
+        "votes": 1,
+        "idf": 5.7303333289420975
+    },
+    {
+        "keyword": "algorithm",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "simple",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "adjust",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "various",
+        "votes": 1,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "safe",
+        "votes": 1,
+        "idf": 6.135798437050262
+    }
+]

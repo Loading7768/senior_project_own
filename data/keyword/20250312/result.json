@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "good",
+        "votes": 30,
+        "idf": 4.394324502374394
+    },
+    {
+        "keyword": "multiple",
+        "votes": 29,
+        "idf": 4.624340932976365
+    },
+    {
+        "keyword": "decision",
+        "votes": 26,
+        "idf": 3.8019820209364137
+    },
+    {
+        "keyword": "morning",
+        "votes": 25,
+        "idf": 5.219048040723058
+    },
+    {
+        "keyword": "delays",
+        "votes": 25,
+        "idf": 3.786944143571873
+    },
+    {
+        "keyword": "vaneck",
+        "votes": 22,
+        "idf": 4.367295829986475
+    },
+    {
+        "keyword": "breaking",
+        "votes": 18,
+        "idf": 4.923583827829222
+    },
+    {
+        "keyword": "latest",
+        "votes": 16,
+        "idf": 4.69579989695851
+    },
+    {
+        "keyword": "etfs",
+        "votes": 16,
+        "idf": 3.4015802147847958
+    },
+    {
+        "keyword": "gainer",
+        "votes": 15,
+        "idf": 5.912195221283003
+    },
+    {
+        "keyword": "movers",
+        "votes": 15,
+        "idf": 5.912195221283003
+    },
+    {
+        "keyword": "several",
+        "votes": 15,
+        "idf": 4.85614254703369
+    },
+    {
+        "keyword": "go",
+        "votes": 14,
+        "idf": 4.923583827829222
+    },
+    {
+        "keyword": "postponed",
+        "votes": 14,
+        "idf": 4.923583827829222
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 13,
+        "idf": 3.7360240531446163
+    },
+    {
+        "keyword": "engaging",
+        "votes": 13,
+        "idf": 6.045726613907526
+    },
+    {
+        "keyword": "1500",
+        "votes": 12,
+        "idf": 6.1198345860612475
+    },
+    {
+        "keyword": "still",
+        "votes": 10,
+        "idf": 4.480091324131818
+    },
+    {
+        "keyword": "gm",
+        "votes": 10,
+        "idf": 6.1198345860612475
+    },
+    {
+        "keyword": "moon",
+        "votes": 9,
+        "idf": 4.947114325239417
+    },
+    {
+        "keyword": "buy",
+        "votes": 9,
+        "idf": 4.394324502374394
+    },
+    {
+        "keyword": "application",
+        "votes": 9,
+        "idf": 5.912195221283003
+    },
+    {
+        "keyword": "accepted",
+        "votes": 9,
+        "idf": 6.045726613907526
+    },
+    {
+        "keyword": "audience",
+        "votes": 9,
+        "idf": 6.286888670724414
+    },
+    {
+        "keyword": "via",
+        "votes": 8,
+        "idf": 5.388947077518456
+    },
+    {
+        "keyword": "hit",
+        "votes": 8,
+        "idf": 5.549289727593635
+    },
+    {
+        "keyword": "better",
+        "votes": 8,
+        "idf": 5.158423418906623
+    },
+    {
+        "keyword": "alena",
+        "votes": 8,
+        "idf": 6.382198850528739
+    },
+    {
+        "keyword": "nerd",
+        "votes": 8,
+        "idf": 6.382198850528739
+    },
+    {
+        "keyword": "bro",
+        "votes": 8,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "hey",
+        "votes": 8,
+        "idf": 5.549289727593635
+    },
+    {
+        "keyword": "postpones",
+        "votes": 8,
+        "idf": 5.8515705994665685
+    },
+    {
+        "keyword": "pay",
+        "votes": 8,
+        "idf": 5.794412185626619
+    },
+    {
+        "keyword": "delayed",
+        "votes": 8,
+        "idf": 4.590439381300683
+    },
+    {
+        "keyword": "relatively",
+        "votes": 7,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "coming",
+        "votes": 7,
+        "idf": 5.794412185626619
+    },
+    {
+        "keyword": "support",
+        "votes": 7,
+        "idf": 4.69579989695851
+    },
+    {
+        "keyword": "lead",
+        "votes": 7,
+        "idf": 5.593741490164469
+    },
+    {
+        "keyword": "reach",
+        "votes": 7,
+        "idf": 6.382198850528739
+    },
+    {
+        "keyword": "signals",
+        "votes": 7,
+        "idf": 6.382198850528739
+    },
+    {
+        "keyword": "success",
+        "votes": 7,
+        "idf": 6.6053424018429485
+    },
+    {
+        "keyword": "awaits",
+        "votes": 7,
+        "idf": 6.487559366186565
+    },
+    {
+        "keyword": "price",
+        "votes": 7,
+        "idf": 4.120435752054949
+    },
+    {
+        "keyword": "approve",
+        "votes": 7,
+        "idf": 6.286888670724414
+    },
+    {
+        "keyword": "securities",
+        "votes": 7,
+        "idf": 5.465908118654584
+    },
+    {
+        "keyword": "green",
+        "votes": 7,
+        "idf": 6.382198850528739
+    },
+    {
+        "keyword": "love",
+        "votes": 6,
+        "idf": 5.283586561860629
+    },
+    {
+        "keyword": "cheap",
+        "votes": 6,
+        "idf": 6.045726613907526
+    },
+    {
+        "keyword": "waiting",
+        "votes": 6,
+        "idf": 5.912195221283003
+    },
+    {
+        "keyword": "follow",
+        "votes": 6,
+        "idf": 5.640261505799361
+    },
+    {
+        "keyword": "father",
+        "votes": 6,
+        "idf": 6.738873794467471
+    },
+    {
+        "keyword": "moving",
+        "votes": 6,
+        "idf": 6.6053424018429485
+    },
+    {
+        "keyword": "today",
+        "votes": 6,
+        "idf": 5.021222297393138
+    },
+    {
+        "keyword": "etf",
+        "votes": 6,
+        "idf": 3.5314923490250054
+    },
+    {
+        "keyword": "next",
+        "votes": 6,
+        "idf": 4.436288701473425
+    },
+    {
+        "keyword": "work",
+        "votes": 6,
+        "idf": 6.199877293734784
+    },
+    {
+        "keyword": "yes",
+        "votes": 6,
+        "idf": 5.593741490164469
+    },
+    {
+        "keyword": "elon",
+        "votes": 6,
+        "idf": 3.9226100087250284
+    },
+    {
+        "keyword": "stick",
+        "votes": 6,
+        "idf": 6.199877293734784
+    },
+    {
+        "keyword": "harness",
+        "votes": 6,
+        "idf": 6.286888670724414
+    },
+    {
+        "keyword": "pump",
+        "votes": 6,
+        "idf": 5.5067301131748385
+    },
+    {
+        "keyword": "review",
+        "votes": 6,
+        "idf": 5.593741490164469
+    },
+    {
+        "keyword": "u",
+        "votes": 6,
+        "idf": 5.31748811353631
+    },
+    {
+        "keyword": "think",
+        "votes": 6,
+        "idf": 5.047197783796399
+    },
+    {
+        "keyword": "diversification",
+        "votes": 6,
+        "idf": 6.6053424018429485
+    },
+    {
+        "keyword": "decisions",
+        "votes": 6,
+        "idf": 4.3807188503186145
+    },
+    {
+        "keyword": "prediction",
+        "votes": 6,
+        "idf": 6.382198850528739
+    },
+    {
+        "keyword": "say",
+        "votes": 6,
+        "idf": 5.219048040723058
+    },
+    {
+        "keyword": "validate",
+        "votes": 6,
+        "idf": 6.487559366186565
+    },
+    {
+        "keyword": "continues",
+        "votes": 6,
+        "idf": 6.1198345860612475
+    },
+    {
+        "keyword": "bite",
+        "votes": 6,
+        "idf": 6.738873794467471
+    },
+    {
+        "keyword": "times",
+        "votes": 6,
+        "idf": 6.6053424018429485
+    },
+    {
+        "keyword": "coins",
+        "votes": 6,
+        "idf": 4.278064696258531
+    },
+    {
+        "keyword": "followers",
+        "votes": 6,
+        "idf": 6.6053424018429485
+    },
+    {
+        "keyword": "yet",
+        "votes": 6,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "regulator",
+        "votes": 6,
+        "idf": 6.487559366186565
+    },
+    {
+        "keyword": "update",
+        "votes": 6,
+        "idf": 5.07386603087856
+    },
+    {
+        "keyword": "expected",
+        "votes": 6,
+        "idf": 5.912195221283003
+    },
+    {
+        "keyword": "upgrade",
+        "votes": 5,
+        "idf": 6.738873794467471
+    },
+    {
+        "keyword": "holding",
+        "votes": 5,
+        "idf": 5.976733742420574
+    },
+    {
+        "keyword": "individuals",
+        "votes": 5,
+        "idf": 6.738873794467471
+    },
+    {
+        "keyword": "locked",
+        "votes": 5,
+        "idf": 6.6053424018429485
+    },
+    {
+        "keyword": "lets",
+        "votes": 5,
+        "idf": 6.6053424018429485
+    },
+    {
+        "keyword": "trump",
+        "votes": 5,
+        "idf": 4.218875824868201
+    },
+    {
+        "keyword": "losing",
+        "votes": 5,
+        "idf": 6.6053424018429485
+    },
+    {
+        "keyword": "patience",
+        "votes": 5,
+        "idf": 6.199877293734784
+    },
+    {
+        "keyword": "spot",
+        "votes": 5,
+        "idf": 4.002652716398565
+    },
+    {
+        "keyword": "32",
+        "votes": 5,
+        "idf": 6.738873794467471
+    },
+    {
+        "keyword": "life",
+        "votes": 5,
+        "idf": 6.045726613907526
+    },
+    {
+        "keyword": "money",
+        "votes": 5,
+        "idf": 5.188276382056304
+    },
+    {
+        "keyword": "10",
+        "votes": 5,
+        "idf": 4.878121453752465
+    },
+    {
+        "keyword": "things",
+        "votes": 5,
+        "idf": 6.199877293734784
+    },
+    {
+        "keyword": "brewing",
+        "votes": 5,
+        "idf": 6.893024474294729
+    },
+    {
+        "keyword": "one",
+        "votes": 5,
+        "idf": 4.120435752054949
+    },
+    {
+        "keyword": "60",
+        "votes": 5,
+        "idf": 6.1198345860612475
+    },
+    {
+        "keyword": "way",
+        "votes": 5,
+        "idf": 5.047197783796399
+    },
+    {
+        "keyword": "happen",
+        "votes": 5,
+        "idf": 6.286888670724414
+    },
+    {
+        "keyword": "natural",
+        "votes": 5,
+        "idf": 6.738873794467471
+    },
+    {
+        "keyword": "delay",
+        "votes": 5,
+        "idf": 5.640261505799361
+    },
+    {
+        "keyword": "please",
+        "votes": 5,
+        "idf": 5.593741490164469
+    }
+]

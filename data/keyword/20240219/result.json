@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "moon",
+        "votes": 12,
+        "idf": 4.155362419145875
+    },
+    {
+        "keyword": "flow",
+        "votes": 7,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "accepts",
+        "votes": 7,
+        "idf": 4.9285523073793565
+    },
+    {
+        "keyword": "longed",
+        "votes": 6,
+        "idf": 5.334017415487521
+    },
+    {
+        "keyword": "ever",
+        "votes": 6,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "cents",
+        "votes": 6,
+        "idf": 4.9285523073793565
+    },
+    {
+        "keyword": "9",
+        "votes": 6,
+        "idf": 4.705408756065147
+    },
+    {
+        "keyword": "welsh",
+        "votes": 6,
+        "idf": 5.334017415487521
+    },
+    {
+        "keyword": "tall",
+        "votes": 6,
+        "idf": 5.467548808112044
+    },
+    {
+        "keyword": "stands",
+        "votes": 6,
+        "idf": 5.467548808112044
+    },
+    {
+        "keyword": "time",
+        "votes": 6,
+        "idf": 4.081254446992153
+    },
+    {
+        "keyword": "method",
+        "votes": 5,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "sports",
+        "votes": 5,
+        "idf": 5.467548808112044
+    },
+    {
+        "keyword": "cars",
+        "votes": 5,
+        "idf": 5.334017415487521
+    },
+    {
+        "keyword": "tf",
+        "votes": 5,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "going",
+        "votes": 5,
+        "idf": 4.523087199271192
+    },
+    {
+        "keyword": "delists",
+        "votes": 5,
+        "idf": 5.334017415487521
+    },
+    {
+        "keyword": "go",
+        "votes": 4,
+        "idf": 4.469019978000917
+    },
+    {
+        "keyword": "bearish",
+        "votes": 4,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "narrative",
+        "votes": 4,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "biggest",
+        "votes": 4,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "pumping",
+        "votes": 4,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "first",
+        "votes": 4,
+        "idf": 4.523087199271192
+    },
+    {
+        "keyword": "meme",
+        "votes": 4,
+        "idf": 4.523087199271192
+    },
+    {
+        "keyword": "car",
+        "votes": 4,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "begins",
+        "votes": 4,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "payments",
+        "votes": 4,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "gala",
+        "votes": 4,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "today",
+        "votes": 4,
+        "idf": 4.58024561311114
+    },
+    {
+        "keyword": "hey",
+        "votes": 4,
+        "idf": 5.467548808112044
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 3.829940018711247
+    },
+    {
+        "keyword": "shorted",
+        "votes": 4,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "ferrari",
+        "votes": 4,
+        "idf": 3.775872797440971
+    },
+    {
+        "keyword": "bullish",
+        "votes": 4,
+        "idf": 4.117622091163028
+    },
+    {
+        "keyword": "coin",
+        "votes": 4,
+        "idf": 3.8581108956779433
+    },
+    {
+        "keyword": "send",
+        "votes": 4,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "og",
+        "votes": 4,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "hard",
+        "votes": 4,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "coming",
+        "votes": 3,
+        "idf": 4.84850959970582
+    },
+    {
+        "keyword": "interesting",
+        "votes": 3,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "shock",
+        "votes": 3,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "seems",
+        "votes": 3,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "use",
+        "votes": 3,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "ready",
+        "votes": 3,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "continue",
+        "votes": 3,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "much",
+        "votes": 3,
+        "idf": 5.467548808112044
+    },
+    {
+        "keyword": "also",
+        "votes": 3,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "rn",
+        "votes": 3,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "u",
+        "votes": 3,
+        "idf": 5.015563684368987
+    },
+    {
+        "keyword": "want",
+        "votes": 3,
+        "idf": 4.84850959970582
+    },
+    {
+        "keyword": "whale",
+        "votes": 3,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "buying",
+        "votes": 3,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "better",
+        "votes": 3,
+        "idf": 5.334017415487521
+    },
+    {
+        "keyword": "answer",
+        "votes": 3,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "way",
+        "votes": 3,
+        "idf": 5.110873864173311
+    },
+    {
+        "keyword": "goes",
+        "votes": 3,
+        "idf": 5.015563684368987
+    },
+    {
+        "keyword": "hodl",
+        "votes": 3,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "1y",
+        "votes": 3,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "erasing",
+        "votes": 3,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "killer",
+        "votes": 3,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "best",
+        "votes": 3,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "good",
+        "votes": 3,
+        "idf": 4.469019978000917
+    },
+    {
+        "keyword": "til",
+        "votes": 3,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "yes",
+        "votes": 3,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "real",
+        "votes": 3,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "forget",
+        "votes": 2,
+        "idf": 5.467548808112044
+    },
+    {
+        "keyword": "man",
+        "votes": 2,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "write",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "gonna",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "already",
+        "votes": 2,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "\ud835\udd4f",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "anything",
+        "votes": 2,
+        "idf": 5.334017415487521
+    },
+    {
+        "keyword": "style",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "100x",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "mars",
+        "votes": 2,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "back",
+        "votes": 2,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "rise",
+        "votes": 2,
+        "idf": 5.467548808112044
+    },
+    {
+        "keyword": "looks",
+        "votes": 2,
+        "idf": 5.015563684368987
+    },
+    {
+        "keyword": "would",
+        "votes": 2,
+        "idf": 4.58024561311114
+    },
+    {
+        "keyword": "zero",
+        "votes": 2,
+        "idf": 5.804021044733257
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 5.015563684368987
+    },
+    {
+        "keyword": "let",
+        "votes": 2,
+        "idf": 5.334017415487521
+    },
+    {
+        "keyword": "check",
+        "votes": 2,
+        "idf": 4.705408756065147
+    },
+    {
+        "keyword": "1hr",
+        "votes": 2,
+        "idf": 5.621699487939302
+    },
+    {
+        "keyword": "woof",
+        "votes": 2,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "09",
+        "votes": 2,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "soon",
+        "votes": 2,
+        "idf": 4.774401627552098
+    },
+    {
+        "keyword": "10",
+        "votes": 2,
+        "idf": 4.84850959970582
+    },
+    {
+        "keyword": "2013",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "2015",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "rather",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "warping",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "adds",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "accepted",
+        "votes": 2,
+        "idf": 6.0271645960474665
+    },
+    {
+        "keyword": "years",
+        "votes": 2,
+        "idf": 5.467548808112044
+    },
+    {
+        "keyword": "ignoring",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "completely",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "quietly",
+        "votes": 2,
+        "idf": 6.314846668499247
+    },
+    {
+        "keyword": "support",
+        "votes": 2,
+        "idf": 5.216234379831137
+    },
+    {
+        "keyword": "trying",
+        "votes": 2,
+        "idf": 6.314846668499247
+    }
+]

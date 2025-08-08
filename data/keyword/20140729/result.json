@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "exchanges",
+        "votes": 31,
+        "idf": 3.200690785312706
+    },
+    {
+        "keyword": "7",
+        "votes": 29,
+        "idf": 3.232439483627286
+    },
+    {
+        "keyword": "decreased",
+        "votes": 25,
+        "idf": 3.40833015009095
+    },
+    {
+        "keyword": "increased",
+        "votes": 22,
+        "idf": 3.5309324721832827
+    },
+    {
+        "keyword": "3",
+        "votes": 18,
+        "idf": 3.6219042503890093
+    },
+    {
+        "keyword": "challenge",
+        "votes": 18,
+        "idf": 3.4883728577644866
+    },
+    {
+        "keyword": "continues",
+        "votes": 17,
+        "idf": 3.4883728577644866
+    },
+    {
+        "keyword": "5",
+        "votes": 17,
+        "idf": 3.4475508632442313
+    },
+    {
+        "keyword": "decline",
+        "votes": 16,
+        "idf": 3.4883728577644866
+    },
+    {
+        "keyword": "37",
+        "votes": 9,
+        "idf": 4.363841595118386
+    },
+    {
+        "keyword": "error",
+        "votes": 8,
+        "idf": 4.469202110776212
+    },
+    {
+        "keyword": "36",
+        "votes": 7,
+        "idf": 3.8938379658726507
+    },
+    {
+        "keyword": "8",
+        "votes": 7,
+        "idf": 4.469202110776212
+    },
+    {
+        "keyword": "average",
+        "votes": 7,
+        "idf": 3.200690785312706
+    },
+    {
+        "keyword": "4",
+        "votes": 6,
+        "idf": 4.363841595118386
+    },
+    {
+        "keyword": "34",
+        "votes": 6,
+        "idf": 4.101477330650896
+    },
+    {
+        "keyword": "bank",
+        "votes": 5,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "585",
+        "votes": 5,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "community",
+        "votes": 5,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "despite",
+        "votes": 5,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "shuts",
+        "votes": 4,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "coinye",
+        "votes": 4,
+        "idf": 5.056988775678332
+    },
+    {
+        "keyword": "baffling",
+        "votes": 4,
+        "idf": 5.056988775678332
+    },
+    {
+        "keyword": "currencies",
+        "votes": 4,
+        "idf": 5.056988775678332
+    },
+    {
+        "keyword": "zealand",
+        "votes": 4,
+        "idf": 5.056988775678332
+    },
+    {
+        "keyword": "52",
+        "votes": 4,
+        "idf": 5.056988775678332
+    },
+    {
+        "keyword": "get",
+        "votes": 3,
+        "idf": 4.181520038324432
+    },
+    {
+        "keyword": "tip",
+        "votes": 3,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "want",
+        "votes": 3,
+        "idf": 4.720516539057119
+    },
+    {
+        "keyword": "future",
+        "votes": 3,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "586",
+        "votes": 3,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "betting",
+        "votes": 3,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "value",
+        "votes": 3,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "582",
+        "votes": 3,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "583",
+        "votes": 3,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "9",
+        "votes": 3,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "strong",
+        "votes": 3,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "590",
+        "votes": 3,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "wallet",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "impact",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "high",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "tipping",
+        "votes": 2,
+        "idf": 4.874667218884377
+    },
+    {
+        "keyword": "accept",
+        "votes": 2,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "17",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "21",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "building",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "broke",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "talks",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "sponsors",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "driver",
+        "votes": 2,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "incubator",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "partners",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "startup",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "fellow",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "long",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "hates",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "still",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "cheap",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "amazing",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "trip",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "travels",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "tech",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "gaming",
+        "votes": 2,
+        "idf": 5.056988775678332
+    },
+    {
+        "keyword": "growing",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "space",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "closing",
+        "votes": 2,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "mintpal",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "03",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "29",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "need",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "magazine",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "join",
+        "votes": 2,
+        "idf": 5.2801323269925415
+    },
+    {
+        "keyword": "via",
+        "votes": 2,
+        "idf": 4.469202110776212
+    },
+    {
+        "keyword": "33",
+        "votes": 2,
+        "idf": 3.7760549302162674
+    },
+    {
+        "keyword": "hour",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 4.720516539057119
+    },
+    {
+        "keyword": "online",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "sign",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "supporting",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "system",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "besides",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "add",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "hr",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "doge",
+        "votes": 2,
+        "idf": 4.469202110776212
+    },
+    {
+        "keyword": "85",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "donate",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "bought",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "49",
+        "votes": 2,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "newzealand",
+        "votes": 1,
+        "idf": 5.973279507552487
+    },
+    {
+        "keyword": "spin",
+        "votes": 1,
+        "idf": 5.973279507552487
+    },
+    {
+        "keyword": "win",
+        "votes": 1,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "many",
+        "votes": 1,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "u",
+        "votes": 1,
+        "idf": 5.973279507552487
+    },
+    {
+        "keyword": "10",
+        "votes": 1,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "esports",
+        "votes": 1,
+        "idf": 5.567814399444322
+    },
+    {
+        "keyword": "two",
+        "votes": 1,
+        "idf": 5.973279507552487
+    },
+    {
+        "keyword": "sponsorship",
+        "votes": 1,
+        "idf": 5.973279507552487
+    },
+    {
+        "keyword": "teaser",
+        "votes": 1,
+        "idf": 5.973279507552487
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "1",
+        "votes": 21,
+        "idf": 3.2529881518546735
+    },
+    {
+        "keyword": "14",
+        "votes": 18,
+        "idf": 3.7425363771733795
+    },
+    {
+        "keyword": "wed",
+        "votes": 18,
+        "idf": 3.7425363771733795
+    },
+    {
+        "keyword": "humans",
+        "votes": 18,
+        "idf": 3.508921525991874
+    },
+    {
+        "keyword": "loser",
+        "votes": 12,
+        "idf": 4.122025998878283
+    },
+    {
+        "keyword": "greatest",
+        "votes": 11,
+        "idf": 4.122025998878283
+    },
+    {
+        "keyword": "7",
+        "votes": 9,
+        "idf": 4.2890800835414495
+    },
+    {
+        "keyword": "23",
+        "votes": 9,
+        "idf": 4.384390263345774
+    },
+    {
+        "keyword": "vechain",
+        "votes": 7,
+        "idf": 4.607533814659984
+    },
+    {
+        "keyword": "monero",
+        "votes": 7,
+        "idf": 4.607533814659984
+    },
+    {
+        "keyword": "negative",
+        "votes": 6,
+        "idf": 4.741065207284507
+    },
+    {
+        "keyword": "13",
+        "votes": 6,
+        "idf": 4.741065207284507
+    },
+    {
+        "keyword": "positive",
+        "votes": 6,
+        "idf": 4.741065207284507
+    },
+    {
+        "keyword": "td",
+        "votes": 6,
+        "idf": 4.4897507790036
+    },
+    {
+        "keyword": "8",
+        "votes": 6,
+        "idf": 4.741065207284507
+    },
+    {
+        "keyword": "surprise",
+        "votes": 5,
+        "idf": 4.895215887111765
+    },
+    {
+        "keyword": "makes",
+        "votes": 5,
+        "idf": 4.895215887111765
+    },
+    {
+        "keyword": "drops",
+        "votes": 5,
+        "idf": 4.607533814659984
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 5,
+        "idf": 4.741065207284507
+    },
+    {
+        "keyword": "tue",
+        "votes": 5,
+        "idf": 4.895215887111765
+    },
+    {
+        "keyword": "decide",
+        "votes": 4,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "6",
+        "votes": 4,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "disappear",
+        "votes": 4,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "jackson",
+        "votes": 4,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "palmer",
+        "votes": 4,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "nonsense",
+        "votes": 4,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "wow",
+        "votes": 3,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "true",
+        "votes": 3,
+        "idf": 5.07753744390572
+    },
+    {
+        "keyword": "moon",
+        "votes": 3,
+        "idf": 4.895215887111765
+    },
+    {
+        "keyword": "one",
+        "votes": 3,
+        "idf": 4.741065207284507
+    },
+    {
+        "keyword": "immortality",
+        "votes": 3,
+        "idf": 5.300680995219929
+    },
+    {
+        "keyword": "reaches",
+        "votes": 3,
+        "idf": 5.300680995219929
+    },
+    {
+        "keyword": "faucet",
+        "votes": 2,
+        "idf": 4.895215887111765
+    },
+    {
+        "keyword": "buy",
+        "votes": 2,
+        "idf": 4.895215887111765
+    },
+    {
+        "keyword": "thanks",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "non",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "bts",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "pair",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "hope",
+        "votes": 2,
+        "idf": 5.300680995219929
+    },
+    {
+        "keyword": "gateway",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "nice",
+        "votes": 2,
+        "idf": 4.895215887111765
+    },
+    {
+        "keyword": "contribution",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "dead",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "shows",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "guys",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "grizzly",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "girl",
+        "votes": 2,
+        "idf": 5.300680995219929
+    },
+    {
+        "keyword": "via",
+        "votes": 2,
+        "idf": 4.607533814659984
+    },
+    {
+        "keyword": "amazing",
+        "votes": 2,
+        "idf": 5.300680995219929
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 4.607533814659984
+    },
+    {
+        "keyword": "news",
+        "votes": 2,
+        "idf": 3.354770846164616
+    },
+    {
+        "keyword": "surprising",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "brings",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "ground",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "bear",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "good",
+        "votes": 2,
+        "idf": 4.607533814659984
+    },
+    {
+        "keyword": "ecosystem",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "18",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "approx",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "captainaltcoin",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "next",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "9",
+        "votes": 2,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "means",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "changed",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "perhaps",
+        "votes": 1,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "buzz",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "posts",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "sentiment",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "xtz",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "kmd",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "zen",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "st1",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "ht",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "xem",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "agi",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "usdt",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "5622982",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "art",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "showing",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "transactions",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "always",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "site",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "dogeday",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "sing",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "happy",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "proof",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "indicator",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "voya",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "zsc",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "grid",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "add",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "grin",
+        "votes": 1,
+        "idf": 5.300680995219929
+    },
+    {
+        "keyword": "failing",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "still",
+        "votes": 1,
+        "idf": 5.58836306767171
+    },
+    {
+        "keyword": "even",
+        "votes": 1,
+        "idf": 5.300680995219929
+    },
+    {
+        "keyword": "introduce",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "promote",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "education",
+        "votes": 1,
+        "idf": 5.993828175779875
+    },
+    {
+        "keyword": "percent",
+        "votes": 1,
+        "idf": 5.993828175779875
+    }
+]

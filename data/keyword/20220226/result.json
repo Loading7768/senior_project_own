@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "digest",
+        "votes": 36,
+        "idf": 3.362649333736696
+    },
+    {
+        "keyword": "hodler",
+        "votes": 35,
+        "idf": 3.4367573058904175
+    },
+    {
+        "keyword": "feb",
+        "votes": 35,
+        "idf": 3.362649333736696
+    },
+    {
+        "keyword": "coin",
+        "votes": 8,
+        "idf": 3.6345830492203377
+    },
+    {
+        "keyword": "jan",
+        "votes": 7,
+        "idf": 4.702423679221694
+    },
+    {
+        "keyword": "show",
+        "votes": 7,
+        "idf": 4.903094374683844
+    },
+    {
+        "keyword": "percentage",
+        "votes": 7,
+        "idf": 5.020877410340228
+    },
+    {
+        "keyword": "cap",
+        "votes": 7,
+        "idf": 4.903094374683844
+    },
+    {
+        "keyword": "baby",
+        "votes": 7,
+        "idf": 5.020877410340228
+    },
+    {
+        "keyword": "2021",
+        "votes": 6,
+        "idf": 4.702423679221694
+    },
+    {
+        "keyword": "current",
+        "votes": 5,
+        "idf": 3.411439497906128
+    },
+    {
+        "keyword": "price",
+        "votes": 5,
+        "idf": 3.168493319295738
+    },
+    {
+        "keyword": "benzinga",
+        "votes": 5,
+        "idf": 4.903094374683844
+    },
+    {
+        "keyword": "good",
+        "votes": 5,
+        "idf": 4.392268750917854
+    },
+    {
+        "keyword": "love",
+        "votes": 5,
+        "idf": 5.020877410340228
+    },
+    {
+        "keyword": "60d",
+        "votes": 4,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "90d",
+        "votes": 4,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "7d",
+        "votes": 4,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "breaking",
+        "votes": 4,
+        "idf": 5.154408802964751
+    },
+    {
+        "keyword": "coti",
+        "votes": 4,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "algo",
+        "votes": 4,
+        "idf": 5.020877410340228
+    },
+    {
+        "keyword": "floki",
+        "votes": 4,
+        "idf": 4.615412302232064
+    },
+    {
+        "keyword": "dao",
+        "votes": 4,
+        "idf": 3.293656462249744
+    },
+    {
+        "keyword": "join",
+        "votes": 4,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "donate",
+        "votes": 4,
+        "idf": 5.308559482792009
+    },
+    {
+        "keyword": "13",
+        "votes": 4,
+        "idf": 5.154408802964751
+    },
+    {
+        "keyword": "right",
+        "votes": 4,
+        "idf": 4.702423679221694
+    },
+    {
+        "keyword": "today",
+        "votes": 4,
+        "idf": 5.154408802964751
+    },
+    {
+        "keyword": "officially",
+        "votes": 4,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "station",
+        "votes": 4,
+        "idf": 5.308559482792009
+    },
+    {
+        "keyword": "sand",
+        "votes": 3,
+        "idf": 5.308559482792009
+    },
+    {
+        "keyword": "news",
+        "votes": 3,
+        "idf": 4.615412302232064
+    },
+    {
+        "keyword": "crypto",
+        "votes": 3,
+        "idf": 4.209947194123899
+    },
+    {
+        "keyword": "0",
+        "votes": 3,
+        "idf": 4.903094374683844
+    },
+    {
+        "keyword": "salvador",
+        "votes": 3,
+        "idf": 3.316129318101803
+    },
+    {
+        "keyword": "accept",
+        "votes": 3,
+        "idf": 5.020877410340228
+    },
+    {
+        "keyword": "know",
+        "votes": 3,
+        "idf": 4.702423679221694
+    },
+    {
+        "keyword": "us",
+        "votes": 3,
+        "idf": 5.020877410340228
+    },
+    {
+        "keyword": "tether",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "1h",
+        "votes": 3,
+        "idf": 5.020877410340228
+    },
+    {
+        "keyword": "difference",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "thats",
+        "votes": 3,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "united",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "closing",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "vol",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "01",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "pm",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "2022",
+        "votes": 3,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "far",
+        "votes": 3,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "value",
+        "votes": 3,
+        "idf": 5.154408802964751
+    },
+    {
+        "keyword": "go",
+        "votes": 3,
+        "idf": 4.615412302232064
+    },
+    {
+        "keyword": "thank",
+        "votes": 3,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "one",
+        "votes": 3,
+        "idf": 3.8814431271518632
+    },
+    {
+        "keyword": "donations",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "edge",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "surpasses",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "volumes",
+        "votes": 3,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "rbi",
+        "votes": 3,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "community",
+        "votes": 3,
+        "idf": 5.308559482792009
+    },
+    {
+        "keyword": "say",
+        "votes": 3,
+        "idf": 5.308559482792009
+    },
+    {
+        "keyword": "wanted",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "card",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "happened",
+        "votes": 2,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "1829",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "714",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "sell",
+        "votes": 2,
+        "idf": 5.308559482792009
+    },
+    {
+        "keyword": "hit",
+        "votes": 2,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "going",
+        "votes": 2,
+        "idf": 4.797733859026018
+    },
+    {
+        "keyword": "founder",
+        "votes": 2,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "speaks",
+        "votes": 2,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "coins",
+        "votes": 2,
+        "idf": 5.154408802964751
+    },
+    {
+        "keyword": "track",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "important",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "coming",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "fear",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "32",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "index",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "hodlers",
+        "votes": 2,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "reaching",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "2024",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "capable",
+        "votes": 2,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "joz",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "cents",
+        "votes": 2,
+        "idf": 5.490881039585964
+    },
+    {
+        "keyword": "cardano",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "put",
+        "votes": 2,
+        "idf": 5.7140245909001735
+    },
+    {
+        "keyword": "eos",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "everywhere",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "growth",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "memecoins",
+        "votes": 2,
+        "idf": 3.271677555530969
+    },
+    {
+        "keyword": "flock",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "getting",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "swing",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "ftt",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "busd",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "help",
+        "votes": 2,
+        "idf": 4.903094374683844
+    },
+    {
+        "keyword": "want",
+        "votes": 2,
+        "idf": 4.797733859026018
+    },
+    {
+        "keyword": "woof",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "largest",
+        "votes": 2,
+        "idf": 6.001706663351954
+    },
+    {
+        "keyword": "patreon",
+        "votes": 2,
+        "idf": 6.001706663351954
+    }
+]

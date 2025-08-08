@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "sat",
+        "votes": 19,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "humans",
+        "votes": 19,
+        "idf": 3.533696813957432
+    },
+    {
+        "keyword": "06",
+        "votes": 19,
+        "idf": 3.5745188084776873
+    },
+    {
+        "keyword": "sentiment",
+        "votes": 15,
+        "idf": 3.979983916585852
+    },
+    {
+        "keyword": "shift",
+        "votes": 14,
+        "idf": 3.979983916585852
+    },
+    {
+        "keyword": "loser",
+        "votes": 12,
+        "idf": 4.187623281364097
+    },
+    {
+        "keyword": "13",
+        "votes": 12,
+        "idf": 4.187623281364097
+    },
+    {
+        "keyword": "14",
+        "votes": 12,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "12",
+        "votes": 11,
+        "idf": 4.267665989037633
+    },
+    {
+        "keyword": "3",
+        "votes": 11,
+        "idf": 4.267665989037633
+    },
+    {
+        "keyword": "11",
+        "votes": 11,
+        "idf": 4.187623281364097
+    },
+    {
+        "keyword": "major",
+        "votes": 9,
+        "idf": 4.449987545831587
+    },
+    {
+        "keyword": "quarry",
+        "votes": 9,
+        "idf": 4.354677366027262
+    },
+    {
+        "keyword": "negative",
+        "votes": 9,
+        "idf": 4.449987545831587
+    },
+    {
+        "keyword": "spike",
+        "votes": 9,
+        "idf": 3.919359294769417
+    },
+    {
+        "keyword": "build",
+        "votes": 8,
+        "idf": 4.555348061489413
+    },
+    {
+        "keyword": "hey",
+        "votes": 8,
+        "idf": 4.449987545831587
+    },
+    {
+        "keyword": "lets",
+        "votes": 6,
+        "idf": 4.449987545831587
+    },
+    {
+        "keyword": "greatest",
+        "votes": 6,
+        "idf": 4.187623281364097
+    },
+    {
+        "keyword": "comchain",
+        "votes": 6,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "7",
+        "votes": 5,
+        "idf": 3.8622008809294686
+    },
+    {
+        "keyword": "8",
+        "votes": 5,
+        "idf": 3.919359294769417
+    },
+    {
+        "keyword": "blokt",
+        "votes": 5,
+        "idf": 4.960813169597579
+    },
+    {
+        "keyword": "9",
+        "votes": 5,
+        "idf": 3.8622008809294686
+    },
+    {
+        "keyword": "declares",
+        "votes": 5,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "along",
+        "votes": 5,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "plays",
+        "votes": 5,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "fri",
+        "votes": 5,
+        "idf": 4.960813169597579
+    },
+    {
+        "keyword": "5",
+        "votes": 5,
+        "idf": 3.70805020110221
+    },
+    {
+        "keyword": "blah",
+        "votes": 4,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "nonsense",
+        "votes": 4,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 4,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "coin",
+        "votes": 4,
+        "idf": 3.8622008809294686
+    },
+    {
+        "keyword": "05",
+        "votes": 4,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "alert",
+        "votes": 4,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "positive",
+        "votes": 3,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "link",
+        "votes": 3,
+        "idf": 4.449987545831587
+    },
+    {
+        "keyword": "cares",
+        "votes": 3,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "thanks",
+        "votes": 3,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "get",
+        "votes": 3,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "stand",
+        "votes": 3,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "surge",
+        "votes": 3,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "0",
+        "votes": 3,
+        "idf": 4.673131097145797
+    },
+    {
+        "keyword": "decrease",
+        "votes": 3,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "europe",
+        "votes": 3,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "registration",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "mxm",
+        "votes": 2,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "losers",
+        "votes": 2,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "movie",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "tweet",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "kmd",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "let",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "18",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "approx",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "6",
+        "votes": 2,
+        "idf": 3.1972245773362196
+    },
+    {
+        "keyword": "lsk",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "faster",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "morbidiz",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "srn",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "ceo",
+        "votes": 2,
+        "idf": 4.113515309210374
+    },
+    {
+        "keyword": "tree",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "great",
+        "votes": 2,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "huobi",
+        "votes": 2,
+        "idf": 4.044522437723423
+    },
+    {
+        "keyword": "70",
+        "votes": 2,
+        "idf": 4.960813169597579
+    },
+    {
+        "keyword": "san",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "university",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "ripple",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "150",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 2,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "50000",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "clicks",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "voting",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "vote",
+        "votes": 2,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "moon",
+        "votes": 2,
+        "idf": 5.366278277705742
+    },
+    {
+        "keyword": "mine",
+        "votes": 2,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "gain",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "2164488",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "number",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "near",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "whole",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "dollar",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "tnb",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "anything",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "movement",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "717067",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "nas",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "ela",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "w",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "video",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "trump",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "nwo",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "think",
+        "votes": 1,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "case",
+        "votes": 1,
+        "idf": 5.653960350157523
+    },
+    {
+        "keyword": "exmo",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "person",
+        "votes": 1,
+        "idf": 6.059425458265688
+    },
+    {
+        "keyword": "wow",
+        "votes": 1,
+        "idf": 5.143134726391533
+    },
+    {
+        "keyword": "day",
+        "votes": 1,
+        "idf": 4.673131097145797
+    },
+    {
+        "keyword": "make",
+        "votes": 1,
+        "idf": 4.267665989037633
+    }
+]

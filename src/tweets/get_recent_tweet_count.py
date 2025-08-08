@@ -19,8 +19,8 @@ import config
 TOKEN = config.X_API_V2_ACCESS_TOKEN
 COIN_SHORT_NAME = config.COIN_SHORT_NAME
 QUERY = config.QUERY_STRING
-START_TIME = '2025-07-19T00:00:00Z' #YYYY-MM-DDTHH:mm:ssZ
-END_TIME = '2025-07-24T23:59:59Z' #YYYY-MM-DDTHH:mm:ssZ
+START_TIME = '2025-08-06T00:00:00Z' #YYYY-MM-DDTHH:mm:ssZ
+END_TIME = '2025-08-07T23:59:59Z' #YYYY-MM-DDTHH:mm:ssZ
 '''parameters'''
 
 endpoint = "https://api.twitter.com/2/tweets/counts/recent"

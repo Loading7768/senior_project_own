@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "decreased",
+        "votes": 25,
+        "idf": 3.455636267487887
+    },
+    {
+        "keyword": "increased",
+        "votes": 21,
+        "idf": 3.622690352151053
+    },
+    {
+        "keyword": "2",
+        "votes": 20,
+        "idf": 3.5356789751614235
+    },
+    {
+        "keyword": "6",
+        "votes": 19,
+        "idf": 3.6692103677859462
+    },
+    {
+        "keyword": "0",
+        "votes": 19,
+        "idf": 3.6692103677859462
+    },
+    {
+        "keyword": "9",
+        "votes": 17,
+        "idf": 3.8233610476132043
+    },
+    {
+        "keyword": "survive",
+        "votes": 15,
+        "idf": 3.880519461453153
+    },
+    {
+        "keyword": "merged",
+        "votes": 15,
+        "idf": 3.941144083269588
+    },
+    {
+        "keyword": "7",
+        "votes": 14,
+        "idf": 4.005682604407159
+    },
+    {
+        "keyword": "42",
+        "votes": 11,
+        "idf": 3.880519461453153
+    },
+    {
+        "keyword": "mining",
+        "votes": 10,
+        "idf": 3.8233610476132043
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 10,
+        "idf": 3.455636267487887
+    },
+    {
+        "keyword": "error",
+        "votes": 10,
+        "idf": 4.315837532710999
+    },
+    {
+        "keyword": "8",
+        "votes": 9,
+        "idf": 4.315837532710999
+    },
+    {
+        "keyword": "630",
+        "votes": 6,
+        "idf": 4.767822656454056
+    },
+    {
+        "keyword": "629",
+        "votes": 6,
+        "idf": 4.767822656454056
+    },
+    {
+        "keyword": "5",
+        "votes": 5,
+        "idf": 4.921973336281314
+    },
+    {
+        "keyword": "38",
+        "votes": 5,
+        "idf": 4.921973336281314
+    },
+    {
+        "keyword": "tip",
+        "votes": 4,
+        "idf": 4.51650822817315
+    },
+    {
+        "keyword": "doge",
+        "votes": 4,
+        "idf": 3.4948569806411682
+    },
+    {
+        "keyword": "41",
+        "votes": 4,
+        "idf": 5.104294893075269
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 4,
+        "idf": 5.104294893075269
+    },
+    {
+        "keyword": "wheel",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "gambling",
+        "votes": 3,
+        "idf": 5.104294893075269
+    },
+    {
+        "keyword": "designed",
+        "votes": 3,
+        "idf": 3.7692938263429285
+    },
+    {
+        "keyword": "says",
+        "votes": 3,
+        "idf": 3.7692938263429285
+    },
+    {
+        "keyword": "00",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "claim",
+        "votes": 3,
+        "idf": 5.104294893075269
+    },
+    {
+        "keyword": "winner",
+        "votes": 3,
+        "idf": 5.104294893075269
+    },
+    {
+        "keyword": "22",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "631",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "favorite",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "grace",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "graph",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "magazine",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "games",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "press",
+        "votes": 3,
+        "idf": 4.921973336281314
+    },
+    {
+        "keyword": "628",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "incubator",
+        "votes": 3,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "korean",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "snowpiercer",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "snowden",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "debit",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "cryptocoinsnews",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "contest",
+        "votes": 2,
+        "idf": 4.767822656454056
+    },
+    {
+        "keyword": "char",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "66",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "alt",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "supporting",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "tracker",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "first",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "wealth",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "management",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "digital",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "next",
+        "votes": 2,
+        "idf": 4.51650822817315
+    },
+    {
+        "keyword": "support",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "based",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "cthulhu",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "forget",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "wow",
+        "votes": 2,
+        "idf": 4.51650822817315
+    },
+    {
+        "keyword": "632",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "39",
+        "votes": 2,
+        "idf": 3.6692103677859462
+    },
+    {
+        "keyword": "check",
+        "votes": 2,
+        "idf": 4.921973336281314
+    },
+    {
+        "keyword": "union",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "state",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "today",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "mine",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "86",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "wants",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "genius",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "acceptance",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "service",
+        "votes": 2,
+        "idf": 5.104294893075269
+    },
+    {
+        "keyword": "tips",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "following",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "stream",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "dangerously",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "hashrate",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "response",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "4",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "15",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "love",
+        "votes": 2,
+        "idf": 5.327438444389479
+    },
+    {
+        "keyword": "ringplus",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "cell",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "also",
+        "votes": 2,
+        "idf": 5.104294893075269
+    },
+    {
+        "keyword": "giveaways",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "soon",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "000",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "495",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "media",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "3974",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "kansas",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "city",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "develop",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "coming",
+        "votes": 2,
+        "idf": 5.104294893075269
+    },
+    {
+        "keyword": "costs",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "extremely",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "cup",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "prize",
+        "votes": 2,
+        "idf": 5.61512051684126
+    },
+    {
+        "keyword": "tournament",
+        "votes": 2,
+        "idf": 5.61512051684126
+    }
+]

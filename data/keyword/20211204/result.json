@@ -30,6 +30,11 @@
         "idf": 4.626243883122451
     },
     {
+        "keyword": "dip",
+        "votes": 4,
+        "idf": 3.933096702562506
+    },
+    {
         "keyword": "updated",
         "votes": 4,
         "idf": 4.962716119743664
@@ -43,11 +48,6 @@
         "keyword": "gone",
         "votes": 4,
         "idf": 4.780394562949709
-    },
-    {
-        "keyword": "usd",
-        "votes": 3,
-        "idf": 4.962716119743664
     },
     {
         "keyword": "buy",
@@ -65,11 +65,6 @@
         "idf": 4.780394562949709
     },
     {
-        "keyword": "dip",
-        "votes": 3,
-        "idf": 3.933096702562506
-    },
-    {
         "keyword": "elon",
         "votes": 3,
         "idf": 4.269568939183719
@@ -80,12 +75,22 @@
         "idf": 4.962716119743664
     },
     {
+        "keyword": "usd",
+        "votes": 2,
+        "idf": 4.962716119743664
+    },
+    {
         "keyword": "value",
         "votes": 2,
         "idf": 4.780394562949709
     },
     {
         "keyword": "buying",
+        "votes": 2,
+        "idf": 5.185859671057874
+    },
+    {
+        "keyword": "retweet",
         "votes": 2,
         "idf": 5.185859671057874
     },
@@ -125,6 +130,11 @@
         "idf": 3.933096702562506
     },
     {
+        "keyword": "optimus",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
         "keyword": "birthday",
         "votes": 2,
         "idf": 5.473541743509655
@@ -140,13 +150,353 @@
         "idf": 5.473541743509655
     },
     {
-        "keyword": "one",
+        "keyword": "wrong",
         "votes": 2,
-        "idf": 3.933096702562506
+        "idf": 5.473541743509655
     },
     {
         "keyword": "got",
         "votes": 2,
         "idf": 4.780394562949709
+    },
+    {
+        "keyword": "take",
+        "votes": 2,
+        "idf": 4.626243883122451
+    },
+    {
+        "keyword": "look",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "back",
+        "votes": 2,
+        "idf": 5.185859671057874
+    },
+    {
+        "keyword": "yes",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "total",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "mdoge",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "every",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "sir",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "thank",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "forever",
+        "votes": 2,
+        "idf": 5.185859671057874
+    },
+    {
+        "keyword": "dead",
+        "votes": 2,
+        "idf": 5.185859671057874
+    },
+    {
+        "keyword": "56",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "percentage",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "price",
+        "votes": 2,
+        "idf": 3.3140574941562826
+    },
+    {
+        "keyword": "dogeclaren",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "add",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "hodl",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "backbling",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "11",
+        "votes": 2,
+        "idf": 4.962716119743664
+    },
+    {
+        "keyword": "btc",
+        "votes": 2,
+        "idf": 3.394100201829819
+    },
+    {
+        "keyword": "decentralized",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "30m",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "mc",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "usdt",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "sfp",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "kda",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "win",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "better",
+        "votes": 2,
+        "idf": 5.185859671057874
+    },
+    {
+        "keyword": "agree",
+        "votes": 2,
+        "idf": 5.185859671057874
+    },
+    {
+        "keyword": "overbought",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "crossed",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "canada",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "medication",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "prescription",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "way",
+        "votes": 2,
+        "idf": 4.780394562949709
+    },
+    {
+        "keyword": "bullish",
+        "votes": 2,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "whales",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "enough",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "maximalist",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "76",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "79",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "protest",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "till",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "18",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "launched",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "ready",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "1st",
+        "votes": 1,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "crypto",
+        "votes": 1,
+        "idf": 3.799565309937983
+    },
+    {
+        "keyword": "idiots",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "crap",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "assets",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "bigger",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "coming",
+        "votes": 1,
+        "idf": 4.4927124904979285
+    },
+    {
+        "keyword": "prize",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "ok",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "hello",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "dfy",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "super",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "rfox",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "gets",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "dame",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "bama",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "passed",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "maybe",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "years",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "crashed",
+        "votes": 1,
+        "idf": 5.879006851617819
+    },
+    {
+        "keyword": "fuck",
+        "votes": 1,
+        "idf": 5.473541743509655
+    },
+    {
+        "keyword": "low",
+        "votes": 1,
+        "idf": 4.962716119743664
     }
 ]

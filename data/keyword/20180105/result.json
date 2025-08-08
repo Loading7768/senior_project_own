@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "called",
+        "votes": 21,
+        "idf": 4.032022274959191
+    },
+    {
+        "keyword": "worth",
+        "votes": 18,
+        "idf": 3.0731719286662407
+    },
+    {
+        "keyword": "price",
+        "votes": 17,
+        "idf": 3.671008929421861
+    },
+    {
+        "keyword": "created",
+        "votes": 16,
+        "idf": 4.122994053164918
+    },
+    {
+        "keyword": "1billion",
+        "votes": 15,
+        "idf": 4.334303146832125
+    },
+    {
+        "keyword": "mock",
+        "votes": 14,
+        "idf": 3.9094199528668594
+    },
+    {
+        "keyword": "cap",
+        "votes": 11,
+        "idf": 3.2963154799804504
+    },
+    {
+        "keyword": "buy",
+        "votes": 11,
+        "idf": 3.766319109226186
+    },
+    {
+        "keyword": "parody",
+        "votes": 10,
+        "idf": 3.0731719286662407
+    },
+    {
+        "keyword": "howtobuy",
+        "votes": 10,
+        "idf": 4.602567133426804
+    },
+    {
+        "keyword": "surpasses",
+        "votes": 9,
+        "idf": 4.769621218089971
+    },
+    {
+        "keyword": "best",
+        "votes": 9,
+        "idf": 4.459466289786131
+    },
+    {
+        "keyword": "woofs",
+        "votes": 9,
+        "idf": 4.864931397894296
+    },
+    {
+        "keyword": "dollars",
+        "votes": 9,
+        "idf": 4.864931397894296
+    },
+    {
+        "keyword": "10",
+        "votes": 8,
+        "idf": 4.769621218089971
+    },
+    {
+        "keyword": "trade",
+        "votes": 8,
+        "idf": 4.769621218089971
+    },
+    {
+        "keyword": "sign",
+        "votes": 8,
+        "idf": 4.769621218089971
+    },
+    {
+        "keyword": "bter",
+        "votes": 8,
+        "idf": 4.970291913552122
+    },
+    {
+        "keyword": "05",
+        "votes": 8,
+        "idf": 4.864931397894296
+    },
+    {
+        "keyword": "invented",
+        "votes": 8,
+        "idf": 3.8353119807131373
+    },
+    {
+        "keyword": "moon",
+        "votes": 8,
+        "idf": 4.39492776864856
+    },
+    {
+        "keyword": "developers",
+        "votes": 7,
+        "idf": 5.088074949208505
+    },
+    {
+        "keyword": "lament",
+        "votes": 7,
+        "idf": 5.088074949208505
+    },
+    {
+        "keyword": "joke",
+        "votes": 7,
+        "idf": 4.17178421733435
+    },
+    {
+        "keyword": "internet",
+        "votes": 7,
+        "idf": 4.864931397894296
+    },
+    {
+        "keyword": "000",
+        "votes": 7,
+        "idf": 4.970291913552122
+    },
+    {
+        "keyword": "via",
+        "votes": 7,
+        "idf": 3.583997552432231
+    },
+    {
+        "keyword": "started",
+        "votes": 7,
+        "idf": 4.769621218089971
+    },
+    {
+        "keyword": "discount",
+        "votes": 7,
+        "idf": 5.088074949208505
+    },
+    {
+        "keyword": "sky",
+        "votes": 7,
+        "idf": 5.088074949208505
+    },
+    {
+        "keyword": "milestone",
+        "votes": 6,
+        "idf": 5.088074949208505
+    },
+    {
+        "keyword": "hits",
+        "votes": 6,
+        "idf": 4.970291913552122
+    },
+    {
+        "keyword": "dismay",
+        "votes": 6,
+        "idf": 4.864931397894296
+    },
+    {
+        "keyword": "power",
+        "votes": 6,
+        "idf": 5.221606341833028
+    },
+    {
+        "keyword": "meme",
+        "votes": 6,
+        "idf": 4.122994053164918
+    },
+    {
+        "keyword": "latest",
+        "votes": 6,
+        "idf": 5.088074949208505
+    },
+    {
+        "keyword": "despite",
+        "votes": 5,
+        "idf": 4.970291913552122
+    },
+    {
+        "keyword": "general",
+        "votes": 5,
+        "idf": 5.221606341833028
+    },
+    {
+        "keyword": "valued",
+        "votes": 5,
+        "idf": 5.375757021660286
+    },
+    {
+        "keyword": "future",
+        "votes": 5,
+        "idf": 5.221606341833028
+    },
+    {
+        "keyword": "go",
+        "votes": 4,
+        "idf": 4.682609841100341
+    },
+    {
+        "keyword": "right",
+        "votes": 4,
+        "idf": 4.970291913552122
+    },
+    {
+        "keyword": "roof",
+        "votes": 4,
+        "idf": 4.970291913552122
+    },
+    {
+        "keyword": "1",
+        "votes": 4,
+        "idf": 3.008633407528669
+    },
+    {
+        "keyword": "news",
+        "votes": 4,
+        "idf": 4.970291913552122
+    },
+    {
+        "keyword": "selling",
+        "votes": 4,
+        "idf": 5.558078578454241
+    },
+    {
+        "keyword": "left",
+        "votes": 4,
+        "idf": 5.558078578454241
+    },
+    {
+        "keyword": "behind",
+        "votes": 4,
+        "idf": 5.375757021660286
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 4,
+        "idf": 3.1244652230537913
+    },
+    {
+        "keyword": "world",
+        "votes": 3,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "follow",
+        "votes": 3,
+        "idf": 4.864931397894296
+    },
+    {
+        "keyword": "2018",
+        "votes": 3,
+        "idf": 5.088074949208505
+    },
+    {
+        "keyword": "ready",
+        "votes": 3,
+        "idf": 5.221606341833028
+    },
+    {
+        "keyword": "goes",
+        "votes": 3,
+        "idf": 4.970291913552122
+    },
+    {
+        "keyword": "1b",
+        "votes": 3,
+        "idf": 4.769621218089971
+    },
+    {
+        "keyword": "plus",
+        "votes": 3,
+        "idf": 5.558078578454241
+    },
+    {
+        "keyword": "two",
+        "votes": 3,
+        "idf": 5.221606341833028
+    },
+    {
+        "keyword": "check",
+        "votes": 3,
+        "idf": 4.864931397894296
+    },
+    {
+        "keyword": "capitalization",
+        "votes": 3,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "breaks",
+        "votes": 3,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "barrier",
+        "votes": 3,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "city",
+        "votes": 3,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "investors",
+        "votes": 3,
+        "idf": 5.558078578454241
+    },
+    {
+        "keyword": "wikipedia",
+        "votes": 3,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "edited",
+        "votes": 3,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "jytdog",
+        "votes": 3,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "around",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "please",
+        "votes": 2,
+        "idf": 5.221606341833028
+    },
+    {
+        "keyword": "alert",
+        "votes": 2,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "decide",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "faucet",
+        "votes": 2,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "year",
+        "votes": 2,
+        "idf": 4.864931397894296
+    },
+    {
+        "keyword": "b",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "2555",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "target",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "care",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "one",
+        "votes": 2,
+        "idf": 4.39492776864856
+    },
+    {
+        "keyword": "better",
+        "votes": 2,
+        "idf": 5.375757021660286
+    },
+    {
+        "keyword": "get",
+        "votes": 2,
+        "idf": 3.8353119807131373
+    },
+    {
+        "keyword": "value",
+        "votes": 2,
+        "idf": 4.769621218089971
+    },
+    {
+        "keyword": "str",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "crazy",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "seller",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "usa",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "quick",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "jump",
+        "votes": 2,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "giveaway",
+        "votes": 2,
+        "idf": 5.781222129768451
+    },
+    {
+        "keyword": "rt",
+        "votes": 2,
+        "idf": 5.558078578454241
+    },
+    {
+        "keyword": "passes",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "1bn",
+        "votes": 2,
+        "idf": 4.682609841100341
+    },
+    {
+        "keyword": "social",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "index",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "popularity",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "mkt",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "likely",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "established",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "heat",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "animal",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "12",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    },
+    {
+        "keyword": "according",
+        "votes": 2,
+        "idf": 6.0689042022202315
+    }
+]

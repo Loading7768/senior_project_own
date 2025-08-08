@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "PART 3 = SO WHO ELSE LOST MONEY ON AND ITS KEEPS GOING #CRYPTSY  #BITCOIN #ALTCOINS #QUARKCOIN #dogecoin #LITECOIN http://t.co/LrQlQG3Y11",
+        "X_token": "part, 3, else, lost, money, keeps, going, cryptsy, bitcoin, altcoins, quarkcoin, dogecoin, litecoin, http",
+        "X_tweet_count": 9,
+        "X_username": "BITCOINCHASERS",
+        "Y_text": "PART 2 = SO WHO ELSE LOST MONEY ON #CRYPTSY  #BITCOIN #ALTCOINS #QUARKCOIN #dogecoin #LITECOIN http://t.co/M9d5a8xj10",
+        "Y_token": "part, 2, else, lost, money, cryptsy, bitcoin, altcoins, quarkcoin, dogecoin, litecoin, http",
+        "Y_tweet_count": 10,
+        "Y_username": "BITCOINCHASERS",
+        "X_length": 137,
+        "Y_length": 117,
+        "Y_length_percent_of_X": 85.4,
+        "X_length_percent_of_Y": 117.09,
+        "dice_coefficient": 84.62
+    },
+    {
+        "X_text": "PART 2 = SO WHO ELSE LOST MONEY ON #CRYPTSY  #BITCOIN #ALTCOINS #QUARKCOIN #dogecoin #LITECOIN http://t.co/M9d5a8xj10",
+        "X_token": "part, 2, else, lost, money, cryptsy, bitcoin, altcoins, quarkcoin, dogecoin, litecoin, http",
+        "X_tweet_count": 10,
+        "X_username": "BITCOINCHASERS",
+        "Y_text": "SO WHO ELSE LOST MONEY ON #CRYPTSY \n#BITCOIN #ALTCOINS #QUARKCOIN #dogecoin #LITECOIN http://t.co/5DNc641TYC",
+        "Y_token": "else, lost, money, cryptsy, bitcoin, altcoins, quarkcoin, dogecoin, litecoin, http",
+        "Y_tweet_count": 11,
+        "Y_username": "BITCOINCHASERS",
+        "X_length": 117,
+        "Y_length": 108,
+        "Y_length_percent_of_X": 92.31,
+        "X_length_percent_of_Y": 108.33,
+        "dice_coefficient": 90.91
+    }
+]

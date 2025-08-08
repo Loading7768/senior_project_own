@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "moon",
+        "votes": 22,
+        "idf": 4.3990787368018704
+    },
+    {
+        "keyword": "advisors",
+        "votes": 21,
+        "idf": 5.210008953018199
+    },
+    {
+        "keyword": "unveil",
+        "votes": 20,
+        "idf": 5.246376597189074
+    },
+    {
+        "keyword": "plans",
+        "votes": 19,
+        "idf": 5.210008953018199
+    },
+    {
+        "keyword": "please",
+        "votes": 17,
+        "idf": 5.174917633206928
+    },
+    {
+        "keyword": "gm",
+        "votes": 15,
+        "idf": 5.49769102546998
+    },
+    {
+        "keyword": "buy",
+        "votes": 14,
+        "idf": 4.610387830469077
+    },
+    {
+        "keyword": "great",
+        "votes": 13,
+        "idf": 5.141016081531247
+    },
+    {
+        "keyword": "follow",
+        "votes": 12,
+        "idf": 5.406719247264253
+    },
+    {
+        "keyword": "2020",
+        "votes": 12,
+        "idf": 5.977264105731866
+    },
+    {
+        "keyword": "happy",
+        "votes": 11,
+        "idf": 5.174917633206928
+    },
+    {
+        "keyword": "majors",
+        "votes": 11,
+        "idf": 6.057306813405402
+    },
+    {
+        "keyword": "1",
+        "votes": 10,
+        "idf": 4.185504636503811
+    },
+    {
+        "keyword": "go",
+        "votes": 10,
+        "idf": 4.878651817063757
+    },
+    {
+        "keyword": "trending",
+        "votes": 10,
+        "idf": 6.057306813405402
+    },
+    {
+        "keyword": "good",
+        "votes": 10,
+        "idf": 4.878651817063757
+    },
+    {
+        "keyword": "bite",
+        "votes": 10,
+        "idf": 6.057306813405402
+    },
+    {
+        "keyword": "etfs",
+        "votes": 10,
+        "idf": 5.076477560393676
+    },
+    {
+        "keyword": "huge",
+        "votes": 9,
+        "idf": 5.709000119137187
+    },
+    {
+        "keyword": "crypto",
+        "votes": 9,
+        "idf": 3.327277705584417
+    },
+    {
+        "keyword": "mars",
+        "votes": 9,
+        "idf": 4.931295550549178
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 9,
+        "idf": 3.6295585774573507
+    },
+    {
+        "keyword": "weekend",
+        "votes": 9,
+        "idf": 5.903156133578144
+    },
+    {
+        "keyword": "takes",
+        "votes": 8,
+        "idf": 5.903156133578144
+    },
+    {
+        "keyword": "doji",
+        "votes": 8,
+        "idf": 5.709000119137187
+    },
+    {
+        "keyword": "st",
+        "votes": 8,
+        "idf": 5.323337638325202
+    },
+    {
+        "keyword": "yes",
+        "votes": 8,
+        "idf": 5.323337638325202
+    },
+    {
+        "keyword": "boring",
+        "votes": 8,
+        "idf": 6.057306813405402
+    },
+    {
+        "keyword": "morning",
+        "votes": 8,
+        "idf": 6.057306813405402
+    },
+    {
+        "keyword": "sold",
+        "votes": 7,
+        "idf": 5.769624740953621
+    },
+    {
+        "keyword": "prediction",
+        "votes": 7,
+        "idf": 5.8341632620911925
+    },
+    {
+        "keyword": "something",
+        "votes": 7,
+        "idf": 5.49769102546998
+    },
+    {
+        "keyword": "dm",
+        "votes": 7,
+        "idf": 5.8341632620911925
+    },
+    {
+        "keyword": "send",
+        "votes": 7,
+        "idf": 5.709000119137187
+    },
+    {
+        "keyword": "better",
+        "votes": 7,
+        "idf": 5.8341632620911925
+    },
+    {
+        "keyword": "lawmaker",
+        "votes": 7,
+        "idf": 6.344988885857183
+    },
+    {
+        "keyword": "currency",
+        "votes": 7,
+        "idf": 5.0158529385772415
+    },
+    {
+        "keyword": "several",
+        "votes": 7,
+        "idf": 5.546481189639412
+    },
+    {
+        "keyword": "way",
+        "votes": 7,
+        "idf": 5.045705901726922
+    },
+    {
+        "keyword": "like",
+        "votes": 6,
+        "idf": 3.9172406499091315
+    },
+    {
+        "keyword": "dosu",
+        "votes": 6,
+        "idf": 6.59630331413809
+    },
+    {
+        "keyword": "soon",
+        "votes": 6,
+        "idf": 5.451171009835087
+    },
+    {
+        "keyword": "closes",
+        "votes": 6,
+        "idf": 6.239628370199357
+    },
+    {
+        "keyword": "happened",
+        "votes": 6,
+        "idf": 6.144318190395032
+    },
+    {
+        "keyword": "payments",
+        "votes": 6,
+        "idf": 5.8341632620911925
+    },
+    {
+        "keyword": "lead",
+        "votes": 6,
+        "idf": 6.239628370199357
+    },
+    {
+        "keyword": "fun",
+        "votes": 6,
+        "idf": 5.406719247264253
+    },
+    {
+        "keyword": "80",
+        "votes": 6,
+        "idf": 6.344988885857183
+    },
+    {
+        "keyword": "poised",
+        "votes": 6,
+        "idf": 6.239628370199357
+    },
+    {
+        "keyword": "going",
+        "votes": 6,
+        "idf": 5.49769102546998
+    },
+    {
+        "keyword": "bitconemine",
+        "votes": 6,
+        "idf": 6.59630331413809
+    },
+    {
+        "keyword": "delays",
+        "votes": 6,
+        "idf": 5.546481189639412
+    },
+    {
+        "keyword": "day",
+        "votes": 6,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "people",
+        "votes": 6,
+        "idf": 4.878651817063757
+    },
+    {
+        "keyword": "elon",
+        "votes": 6,
+        "idf": 3.7138997258911015
+    },
+    {
+        "keyword": "bulls",
+        "votes": 6,
+        "idf": 6.344988885857183
+    },
+    {
+        "keyword": "reach",
+        "votes": 6,
+        "idf": 5.709000119137187
+    },
+    {
+        "keyword": "pom",
+        "votes": 6,
+        "idf": 6.462771921513567
+    },
+    {
+        "keyword": "hope",
+        "votes": 6,
+        "idf": 5.709000119137187
+    },
+    {
+        "keyword": "65",
+        "votes": 5,
+        "idf": 6.239628370199357
+    },
+    {
+        "keyword": "push",
+        "votes": 5,
+        "idf": 6.144318190395032
+    },
+    {
+        "keyword": "lol",
+        "votes": 5,
+        "idf": 6.057306813405402
+    },
+    {
+        "keyword": "gold",
+        "votes": 5,
+        "idf": 5.8341632620911925
+    },
+    {
+        "keyword": "lucky",
+        "votes": 5,
+        "idf": 6.59630331413809
+    },
+    {
+        "keyword": "tweet",
+        "votes": 5,
+        "idf": 6.344988885857183
+    },
+    {
+        "keyword": "u",
+        "votes": 5,
+        "idf": 5.977264105731866
+    },
+    {
+        "keyword": "money",
+        "votes": 5,
+        "idf": 4.958694524737293
+    },
+    {
+        "keyword": "analyst",
+        "votes": 5,
+        "idf": 5.8341632620911925
+    },
+    {
+        "keyword": "think",
+        "votes": 5,
+        "idf": 4.931295550549178
+    },
+    {
+        "keyword": "x",
+        "votes": 5,
+        "idf": 5.451171009835087
+    },
+    {
+        "keyword": "patrick",
+        "votes": 5,
+        "idf": 5.903156133578144
+    },
+    {
+        "keyword": "turning",
+        "votes": 5,
+        "idf": 6.239628370199357
+    },
+    {
+        "keyword": "love",
+        "votes": 5,
+        "idf": 5.246376597189074
+    },
+    {
+        "keyword": "well",
+        "votes": 5,
+        "idf": 5.8341632620911925
+    },
+    {
+        "keyword": "much",
+        "votes": 5,
+        "idf": 5.045705901726922
+    },
+    {
+        "keyword": "see",
+        "votes": 5,
+        "idf": 4.322705758017296
+    },
+    {
+        "keyword": "bitcoinist",
+        "votes": 5,
+        "idf": 6.750453993965348
+    },
+    {
+        "keyword": "joining",
+        "votes": 5,
+        "idf": 6.462771921513567
+    },
+    {
+        "keyword": "overtaking",
+        "votes": 5,
+        "idf": 6.750453993965348
+    },
+    {
+        "keyword": "bro",
+        "votes": 5,
+        "idf": 6.750453993965348
+    },
+    {
+        "keyword": "seeing",
+        "votes": 5,
+        "idf": 6.344988885857183
+    },
+    {
+        "keyword": "bull",
+        "votes": 5,
+        "idf": 5.709000119137187
+    },
+    {
+        "keyword": "dogefather",
+        "votes": 5,
+        "idf": 6.59630331413809
+    },
+    {
+        "keyword": "favorite",
+        "votes": 5,
+        "idf": 6.239628370199357
+    },
+    {
+        "keyword": "dog",
+        "votes": 5,
+        "idf": 5.49769102546998
+    },
+    {
+        "keyword": "wow",
+        "votes": 5,
+        "idf": 5.977264105731866
+    },
+    {
+        "keyword": "15",
+        "votes": 5,
+        "idf": 6.344988885857183
+    },
+    {
+        "keyword": "buying",
+        "votes": 5,
+        "idf": 5.903156133578144
+    },
+    {
+        "keyword": "fortknox",
+        "votes": 5,
+        "idf": 6.462771921513567
+    },
+    {
+        "keyword": "ready",
+        "votes": 5,
+        "idf": 4.758023829275142
+    },
+    {
+        "keyword": "best",
+        "votes": 5,
+        "idf": 5.451171009835087
+    },
+    {
+        "keyword": "alena",
+        "votes": 5,
+        "idf": 6.462771921513567
+    },
+    {
+        "keyword": "rebounded",
+        "votes": 5,
+        "idf": 6.750453993965348
+    },
+    {
+        "keyword": "stop",
+        "votes": 5,
+        "idf": 6.462771921513567
+    },
+    {
+        "keyword": "oversold",
+        "votes": 5,
+        "idf": 6.750453993965348
+    },
+    {
+        "keyword": "110",
+        "votes": 5,
+        "idf": 6.750453993965348
+    },
+    {
+        "keyword": "fell",
+        "votes": 5,
+        "idf": 6.750453993965348
+    },
+    {
+        "keyword": "insight",
+        "votes": 5,
+        "idf": 6.750453993965348
+    },
+    {
+        "keyword": "back",
+        "votes": 4,
+        "idf": 4.828641396489095
+    },
+    {
+        "keyword": "year",
+        "votes": 4,
+        "idf": 5.769624740953621
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "8",
+        "votes": 43,
+        "idf": 3.2702497123511094
+    },
+    {
+        "keyword": "7",
+        "votes": 24,
+        "idf": 3.8355635214011694
+    },
+    {
+        "keyword": "4",
+        "votes": 21,
+        "idf": 3.7963428082478883
+    },
+    {
+        "keyword": "0",
+        "votes": 20,
+        "idf": 3.9633968929110543
+    },
+    {
+        "keyword": "6",
+        "votes": 15,
+        "idf": 4.281850624029589
+    },
+    {
+        "keyword": "5",
+        "votes": 11,
+        "idf": 4.05870707271538
+    },
+    {
+        "keyword": "1",
+        "votes": 7,
+        "idf": 3.443521433625146
+    },
+    {
+        "keyword": "alt",
+        "votes": 5,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "tracker",
+        "votes": 5,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "supporting",
+        "votes": 5,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "joke",
+        "votes": 5,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "cnn",
+        "votes": 5,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "internet",
+        "votes": 5,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "3",
+        "votes": 5,
+        "idf": 4.974997804589535
+    },
+    {
+        "keyword": "670",
+        "votes": 5,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "accept",
+        "votes": 4,
+        "idf": 4.751854253275325
+    },
+    {
+        "keyword": "153",
+        "votes": 4,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "coin",
+        "votes": 4,
+        "idf": 4.05870707271538
+    },
+    {
+        "keyword": "doge",
+        "votes": 4,
+        "idf": 3.653241964607215
+    },
+    {
+        "keyword": "2",
+        "votes": 4,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "site",
+        "votes": 4,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "160",
+        "votes": 4,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "673",
+        "votes": 4,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "man",
+        "votes": 3,
+        "idf": 4.751854253275325
+    },
+    {
+        "keyword": "659",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 4.489489988807834
+    },
+    {
+        "keyword": "tipbot",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "wow",
+        "votes": 3,
+        "idf": 4.56953269648137
+    },
+    {
+        "keyword": "155",
+        "votes": 3,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "pay",
+        "votes": 3,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "154",
+        "votes": 3,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "tipping",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "pack",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "955",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "small",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "appeal",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "numbers",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "balance",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 3,
+        "idf": 3.653241964607215
+    },
+    {
+        "keyword": "water",
+        "votes": 3,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "156",
+        "votes": 3,
+        "idf": 4.656544073471
+    },
+    {
+        "keyword": "going",
+        "votes": 3,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "page",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "reddit",
+        "votes": 2,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "selling",
+        "votes": 2,
+        "idf": 4.974997804589535
+    },
+    {
+        "keyword": "home",
+        "votes": 2,
+        "idf": 4.857214768933151
+    },
+    {
+        "keyword": "question",
+        "votes": 2,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "alternative",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "also",
+        "votes": 2,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "created",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "time",
+        "votes": 2,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "976",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "quote",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "jonnysomething",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "playing",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "bitinfocharts",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "explorer",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "657",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "check",
+        "votes": 2,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "donated",
+        "votes": 2,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "sweet",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "finally",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "cart",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "coupon",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "bought",
+        "votes": 2,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "project",
+        "votes": 2,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "awesome",
+        "votes": 2,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "bird",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "turns",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "living",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "duty",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "playstation",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "university",
+        "votes": 2,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "student",
+        "votes": 2,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "logo",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "buttons",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "easy",
+        "votes": 2,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "article",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "shibes",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "hope",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "maybe",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "really",
+        "votes": 2,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "place",
+        "votes": 2,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "keep",
+        "votes": 2,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "948",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "159",
+        "votes": 2,
+        "idf": 4.974997804589535
+    },
+    {
+        "keyword": "game",
+        "votes": 2,
+        "idf": 5.66814498514948
+    },
+    {
+        "keyword": "super",
+        "votes": 2,
+        "idf": 5.44500143383527
+    },
+    {
+        "keyword": "pays",
+        "votes": 2,
+        "idf": 5.2626798770413155
+    },
+    {
+        "keyword": "initiative",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "foundation",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "951",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "5000",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "v2",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "v3",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "edition",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "young",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "dance",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "reckless",
+        "votes": 2,
+        "idf": 5.955827057601261
+    },
+    {
+        "keyword": "blockchain",
+        "votes": 2,
+        "idf": 5.955827057601261
+    }
+]

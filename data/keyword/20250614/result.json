@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "go",
+        "votes": 12,
+        "idf": 4.457077840056612
+    },
+    {
+        "keyword": "please",
+        "votes": 7,
+        "idf": 4.528536804038756
+    },
+    {
+        "keyword": "sava",
+        "votes": 7,
+        "idf": 5.74493212836325
+    },
+    {
+        "keyword": "good",
+        "votes": 7,
+        "idf": 4.73333121668477
+    },
+    {
+        "keyword": "miss",
+        "votes": 6,
+        "idf": 4.934001912146922
+    },
+    {
+        "keyword": "update",
+        "votes": 6,
+        "idf": 5.259424312581549
+    },
+    {
+        "keyword": "yes",
+        "votes": 6,
+        "idf": 4.934001912146922
+    },
+    {
+        "keyword": "send",
+        "votes": 5,
+        "idf": 5.339467020255086
+    },
+    {
+        "keyword": "love",
+        "votes": 5,
+        "idf": 5.339467020255086
+    },
+    {
+        "keyword": "cocoro",
+        "votes": 5,
+        "idf": 5.74493212836325
+    },
+    {
+        "keyword": "kaia",
+        "votes": 5,
+        "idf": 5.878463520987773
+    },
+    {
+        "keyword": "dego",
+        "votes": 5,
+        "idf": 5.878463520987773
+    },
+    {
+        "keyword": "loka",
+        "votes": 5,
+        "idf": 5.878463520987773
+    },
+    {
+        "keyword": "smci",
+        "votes": 5,
+        "idf": 5.74493212836325
+    },
+    {
+        "keyword": "move",
+        "votes": 5,
+        "idf": 5.051784947803305
+    },
+    {
+        "keyword": "missed",
+        "votes": 4,
+        "idf": 5.5217885770490405
+    },
+    {
+        "keyword": "waiting",
+        "votes": 4,
+        "idf": 5.878463520987773
+    },
+    {
+        "keyword": "thank",
+        "votes": 4,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "happy",
+        "votes": 4,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "coffee",
+        "votes": 4,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "steady",
+        "votes": 4,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "ton",
+        "votes": 4,
+        "idf": 4.99116032598687
+    },
+    {
+        "keyword": "need",
+        "votes": 4,
+        "idf": 5.1853163404278275
+    },
+    {
+        "keyword": "mp",
+        "votes": 4,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "crowd",
+        "votes": 4,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "stats",
+        "votes": 4,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "still",
+        "votes": 4,
+        "idf": 4.934001912146922
+    },
+    {
+        "keyword": "1",
+        "votes": 4,
+        "idf": 4.1867875103167
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 4.64631983969514
+    },
+    {
+        "keyword": "beautiful",
+        "votes": 4,
+        "idf": 5.74493212836325
+    },
+    {
+        "keyword": "targets",
+        "votes": 4,
+        "idf": 5.74493212836325
+    },
+    {
+        "keyword": "really",
+        "votes": 4,
+        "idf": 5.878463520987773
+    },
+    {
+        "keyword": "let",
+        "votes": 4,
+        "idf": 4.879934690876645
+    },
+    {
+        "keyword": "next",
+        "votes": 4,
+        "idf": 4.298013145426925
+    },
+    {
+        "keyword": "freshly",
+        "votes": 4,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "friends",
+        "votes": 4,
+        "idf": 5.627149092706866
+    },
+    {
+        "keyword": "target",
+        "votes": 4,
+        "idf": 5.74493212836325
+    },
+    {
+        "keyword": "gmx",
+        "votes": 4,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "placing",
+        "votes": 4,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "sleeping",
+        "votes": 4,
+        "idf": 5.878463520987773
+    },
+    {
+        "keyword": "weekend",
+        "votes": 3,
+        "idf": 5.878463520987773
+    },
+    {
+        "keyword": "climbed",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "mstr",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "og",
+        "votes": 3,
+        "idf": 5.74493212836325
+    },
+    {
+        "keyword": "naka",
+        "votes": 3,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "without",
+        "votes": 3,
+        "idf": 5.5217885770490405
+    },
+    {
+        "keyword": "ethfi",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "meta",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "coin",
+        "votes": 3,
+        "idf": 4.0867040517597175
+    },
+    {
+        "keyword": "fear",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "index",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "perfect",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "started",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "benefits",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "crazy",
+        "votes": 3,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "like",
+        "votes": 3,
+        "idf": 4.2408547315869765
+    },
+    {
+        "keyword": "operating",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "gone",
+        "votes": 3,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "buzz",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "prophit",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "congrats",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "snipe",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "limits",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "bulls",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "one",
+        "votes": 3,
+        "idf": 4.528536804038756
+    },
+    {
+        "keyword": "ready",
+        "votes": 3,
+        "idf": 4.99116032598687
+    },
+    {
+        "keyword": "ark",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "star",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "api",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "pepe",
+        "votes": 3,
+        "idf": 3.0621997352453296
+    },
+    {
+        "keyword": "paid",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "accurate",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "wct",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "us",
+        "votes": 3,
+        "idf": 5.259424312581549
+    },
+    {
+        "keyword": "new",
+        "votes": 3,
+        "idf": 5.051784947803305
+    },
+    {
+        "keyword": "50x",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "leverage",
+        "votes": 3,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "patient",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "sleep",
+        "votes": 3,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "tho",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "1500",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "aergo",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "ya",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "find",
+        "votes": 3,
+        "idf": 6.032614200815031
+    },
+    {
+        "keyword": "resolv",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "solv",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "atm",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "xtz",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "catch",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "memefi",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "elon",
+        "votes": 3,
+        "idf": 5.426478397244716
+    },
+    {
+        "keyword": "moge",
+        "votes": 3,
+        "idf": 5.878463520987773
+    },
+    {
+        "keyword": "vixel",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "cati",
+        "votes": 3,
+        "idf": 6.214935757608986
+    },
+    {
+        "keyword": "never",
+        "votes": 3,
+        "idf": 5.5217885770490405
+    },
+    {
+        "keyword": "stop",
+        "votes": 3,
+        "idf": 5.5217885770490405
+    },
+    {
+        "keyword": "sweat",
+        "votes": 3,
+        "idf": 5.74493212836325
+    },
+    {
+        "keyword": "2014",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "2022",
+        "votes": 3,
+        "idf": 6.438079308923196
+    },
+    {
+        "keyword": "2013",
+        "votes": 3,
+        "idf": 6.438079308923196
+    }
+]

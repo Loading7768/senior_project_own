@@ -5,12 +5,12 @@
         "idf": 3.7300291078209855
     },
     {
-        "keyword": "far",
+        "keyword": "today",
         "votes": 1,
         "idf": 4.13549421592915
     },
     {
-        "keyword": "today",
+        "keyword": "far",
         "votes": 1,
         "idf": 4.13549421592915
     },
@@ -20,12 +20,7 @@
         "idf": 3.7300291078209855
     },
     {
-        "keyword": "ethereum",
-        "votes": 1,
-        "idf": 4.13549421592915
-    },
-    {
-        "keyword": "9",
+        "keyword": "tether",
         "votes": 1,
         "idf": 4.13549421592915
     },
@@ -35,17 +30,22 @@
         "idf": 4.13549421592915
     },
     {
-        "keyword": "donated",
+        "keyword": "9",
         "votes": 1,
         "idf": 4.13549421592915
     },
     {
-        "keyword": "understood",
+        "keyword": "g4",
         "votes": 1,
         "idf": 4.13549421592915
     },
     {
-        "keyword": "thing",
+        "keyword": "list",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "believe",
         "votes": 1,
         "idf": 4.13549421592915
     },
@@ -55,12 +55,12 @@
         "idf": 4.13549421592915
     },
     {
-        "keyword": "hit",
+        "keyword": "10",
         "votes": 1,
         "idf": 4.13549421592915
     },
     {
-        "keyword": "patience",
+        "keyword": "hit",
         "votes": 1,
         "idf": 4.13549421592915
     },
@@ -80,7 +80,7 @@
         "idf": 4.13549421592915
     },
     {
-        "keyword": "swole",
+        "keyword": "swoledoge",
         "votes": 1,
         "idf": 4.13549421592915
     },
@@ -90,17 +90,7 @@
         "idf": 4.13549421592915
     },
     {
-        "keyword": "swoledoge",
-        "votes": 1,
-        "idf": 4.13549421592915
-    },
-    {
-        "keyword": "right",
-        "votes": 1,
-        "idf": 4.13549421592915
-    },
-    {
-        "keyword": "cat",
+        "keyword": "swole",
         "votes": 1,
         "idf": 4.13549421592915
     },
@@ -110,7 +100,17 @@
         "idf": 4.13549421592915
     },
     {
-        "keyword": "telegram",
+        "keyword": "cat",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "right",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "description",
         "votes": 1,
         "idf": 4.13549421592915
     },
@@ -135,6 +135,11 @@
         "idf": 3.7300291078209855
     },
     {
+        "keyword": "updated",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
         "keyword": "gone",
         "votes": 1,
         "idf": 4.13549421592915
@@ -145,7 +150,352 @@
         "idf": 4.13549421592915
     },
     {
-        "keyword": "updated",
+        "keyword": "memecoin",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "wars",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "musk",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "mean",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "use",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "could",
+        "votes": 1,
+        "idf": 3.7300291078209855
+    },
+    {
+        "keyword": "serious",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "seriously",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "question",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "tokenomically",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "money",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "converting",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "thorough",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "helpful",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "much",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "lighting",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "top",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "change",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "year",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "battle",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "dominance",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "wallet",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "holders",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "original",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "greatest",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "cryptocurrency",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "roots",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "send",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "chain",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "pending",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "lets",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "go",
+        "votes": 1,
+        "idf": 3.7300291078209855
+    },
+    {
+        "keyword": "luna",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "dkwon",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "meme",
+        "votes": 1,
+        "idf": 3.4423470353692043
+    },
+    {
+        "keyword": "vet",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "needs",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "every",
+        "votes": 1,
+        "idf": 3.7300291078209855
+    },
+    {
+        "keyword": "qogecoin",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "official",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "remember",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "trading",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "updates",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "follow",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "scroll",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "swiftly",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "beautifull",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "firm",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "favorite",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "dinger",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "fud",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "hoge",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "pass",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "dex",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "soon",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "released",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "dobo",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "oh",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "ready",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "24h",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "7d",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "30d",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "fantastic",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "neki",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "guys",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "pull",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "floki",
+        "votes": 1,
+        "idf": 3.4423470353692043
+    },
+    {
+        "keyword": "think",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "invest",
+        "votes": 1,
+        "idf": 4.13549421592915
+    },
+    {
+        "keyword": "boom",
         "votes": 1,
         "idf": 4.13549421592915
     }

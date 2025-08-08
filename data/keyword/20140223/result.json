@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "1",
+        "votes": 43,
+        "idf": 3.000304221121112
+    },
+    {
+        "keyword": "2",
+        "votes": 36,
+        "idf": 3.570849079588725
+    },
+    {
+        "keyword": "error",
+        "votes": 31,
+        "idf": 3.768674822918645
+    },
+    {
+        "keyword": "8",
+        "votes": 30,
+        "idf": 3.8004235212332254
+    },
+    {
+        "keyword": "0",
+        "votes": 25,
+        "idf": 3.8671148957318975
+    },
+    {
+        "keyword": "5",
+        "votes": 22,
+        "idf": 3.9763141876968895
+    },
+    {
+        "keyword": "super",
+        "votes": 21,
+        "idf": 4.056356895370426
+    },
+    {
+        "keyword": "thrown",
+        "votes": 21,
+        "idf": 3.9385738597140425
+    },
+    {
+        "keyword": "barred",
+        "votes": 20,
+        "idf": 4.143368272360055
+    },
+    {
+        "keyword": "miner",
+        "votes": 19,
+        "idf": 4.143368272360055
+    },
+    {
+        "keyword": "9",
+        "votes": 18,
+        "idf": 4.289971746551931
+    },
+    {
+        "keyword": "core",
+        "votes": 17,
+        "idf": 3.9022062155431674
+    },
+    {
+        "keyword": "facility",
+        "votes": 15,
+        "idf": 4.143368272360055
+    },
+    {
+        "keyword": "7",
+        "votes": 13,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "wow",
+        "votes": 11,
+        "idf": 4.056356895370426
+    },
+    {
+        "keyword": "4",
+        "votes": 11,
+        "idf": 4.526360524616162
+    },
+    {
+        "keyword": "supporting",
+        "votes": 10,
+        "idf": 4.8365154529200005
+    },
+    {
+        "keyword": "tracker",
+        "votes": 10,
+        "idf": 4.8365154529200005
+    },
+    {
+        "keyword": "6",
+        "votes": 8,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "resources",
+        "votes": 8,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "much",
+        "votes": 7,
+        "idf": 3.9763141876968895
+    },
+    {
+        "keyword": "tip",
+        "votes": 7,
+        "idf": 4.056356895370426
+    },
+    {
+        "keyword": "misused",
+        "votes": 6,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "operation",
+        "votes": 6,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "alt",
+        "votes": 6,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "booted",
+        "votes": 6,
+        "idf": 5.288500576663059
+    },
+    {
+        "keyword": "performance",
+        "votes": 6,
+        "idf": 5.288500576663059
+    },
+    {
+        "keyword": "via",
+        "votes": 5,
+        "idf": 4.595353396103112
+    },
+    {
+        "keyword": "providing",
+        "votes": 5,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "qr",
+        "votes": 5,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "add",
+        "votes": 5,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "supercomputer",
+        "votes": 5,
+        "idf": 4.669461368256835
+    },
+    {
+        "keyword": "commandeered",
+        "votes": 5,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "moon",
+        "votes": 4,
+        "idf": 5.288500576663059
+    },
+    {
+        "keyword": "thank",
+        "votes": 4,
+        "idf": 5.288500576663059
+    },
+    {
+        "keyword": "feathercoin",
+        "votes": 4,
+        "idf": 4.8365154529200005
+    },
+    {
+        "keyword": "cluster",
+        "votes": 4,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "secretly",
+        "votes": 4,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "digital",
+        "votes": 4,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "supercomputing",
+        "votes": 4,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "thing",
+        "votes": 4,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "hey",
+        "votes": 3,
+        "idf": 5.288500576663059
+    },
+    {
+        "keyword": "50",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "rt",
+        "votes": 3,
+        "idf": 4.669461368256835
+    },
+    {
+        "keyword": "made",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "193",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "etc",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "crypto",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "designed",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "point",
+        "votes": 3,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "management",
+        "votes": 3,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "card",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "percent",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "pcie",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "game",
+        "votes": 3,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "shibe",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "191",
+        "votes": 3,
+        "idf": 5.288500576663059
+    },
+    {
+        "keyword": "coins",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "far",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "625",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "place",
+        "votes": 3,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "doge",
+        "votes": 3,
+        "idf": 4.01553490085017
+    },
+    {
+        "keyword": "register",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "nanusd",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "used",
+        "votes": 3,
+        "idf": 4.931825632724326
+    },
+    {
+        "keyword": "629",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "network",
+        "votes": 3,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "wired",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "enterprise",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "friend",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "various",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "safe",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "monitor",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "free",
+        "votes": 3,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "go",
+        "votes": 3,
+        "idf": 5.037186148382152
+    },
+    {
+        "keyword": "211",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "link",
+        "votes": 2,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "man",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "25",
+        "votes": 2,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "scam",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "seller",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "time",
+        "votes": 2,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "r",
+        "votes": 2,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "2014",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "wonder",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 4.46182200347859
+    },
+    {
+        "keyword": "agree",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "paid",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "welcome",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "see",
+        "votes": 2,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "world",
+        "votes": 2,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "10",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "followers",
+        "votes": 2,
+        "idf": 5.624972813284271
+    },
+    {
+        "keyword": "huge",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "edited",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "sunday",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "update",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "frame",
+        "votes": 2,
+        "idf": 6.135798437050262
+    },
+    {
+        "keyword": "diy",
+        "votes": 2,
+        "idf": 6.135798437050262
+    }
+]

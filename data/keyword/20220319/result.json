@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "baby",
+        "votes": 19,
+        "idf": 3.9466295605462594
+    },
+    {
+        "keyword": "sued",
+        "votes": 16,
+        "idf": 3.989189174965055
+    },
+    {
+        "keyword": "coinbase",
+        "votes": 15,
+        "idf": 4.033640937535889
+    },
+    {
+        "keyword": "unregistered",
+        "votes": 15,
+        "idf": 3.8665868528727225
+    },
+    {
+        "keyword": "coin",
+        "votes": 15,
+        "idf": 3.192857758169879
+    },
+    {
+        "keyword": "percentage",
+        "votes": 9,
+        "idf": 4.726788118095834
+    },
+    {
+        "keyword": "cap",
+        "votes": 9,
+        "idf": 4.639776741106204
+    },
+    {
+        "keyword": "0",
+        "votes": 8,
+        "idf": 4.927458813557985
+    },
+    {
+        "keyword": "current",
+        "votes": 7,
+        "idf": 3.0471459469884854
+    },
+    {
+        "keyword": "good",
+        "votes": 7,
+        "idf": 4.927458813557985
+    },
+    {
+        "keyword": "rival",
+        "votes": 7,
+        "idf": 5.045241849214369
+    },
+    {
+        "keyword": "news",
+        "votes": 6,
+        "idf": 4.726788118095834
+    },
+    {
+        "keyword": "accumulating",
+        "votes": 6,
+        "idf": 5.045241849214369
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 5,
+        "idf": 5.178773241838892
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 5,
+        "idf": 4.23431163299804
+    },
+    {
+        "keyword": "oil",
+        "votes": 5,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "60d",
+        "votes": 5,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "90d",
+        "votes": 5,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "7d",
+        "votes": 5,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "2022",
+        "votes": 5,
+        "idf": 4.822098297900159
+    },
+    {
+        "keyword": "loses",
+        "votes": 5,
+        "idf": 5.045241849214369
+    },
+    {
+        "keyword": "patreon",
+        "votes": 4,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "cocos",
+        "votes": 4,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "us",
+        "votes": 4,
+        "idf": 5.178773241838892
+    },
+    {
+        "keyword": "swing",
+        "votes": 4,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "atom",
+        "votes": 4,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "busd",
+        "votes": 4,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "right",
+        "votes": 4,
+        "idf": 4.822098297900159
+    },
+    {
+        "keyword": "downwards",
+        "votes": 4,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "closing",
+        "votes": 4,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "hourly",
+        "votes": 4,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "prices",
+        "votes": 4,
+        "idf": 4.927458813557985
+    },
+    {
+        "keyword": "update",
+        "votes": 4,
+        "idf": 4.726788118095834
+    },
+    {
+        "keyword": "usd",
+        "votes": 4,
+        "idf": 4.639776741106204
+    },
+    {
+        "keyword": "pm",
+        "votes": 4,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "value",
+        "votes": 4,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "far",
+        "votes": 4,
+        "idf": 5.045241849214369
+    },
+    {
+        "keyword": "today",
+        "votes": 4,
+        "idf": 4.927458813557985
+    },
+    {
+        "keyword": "company",
+        "votes": 4,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "ios",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "lawsuit",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "facing",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "rt",
+        "votes": 3,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "trending",
+        "votes": 3,
+        "idf": 5.045241849214369
+    },
+    {
+        "keyword": "let",
+        "votes": 3,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "hodl",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "security",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "earned",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "44",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "4700",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "fast",
+        "votes": 3,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "airdrop",
+        "votes": 3,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "momentum",
+        "votes": 3,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "\u0256",
+        "votes": 3,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "api",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "02",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "427",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "farming",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "yobit",
+        "votes": 3,
+        "idf": 5.178773241838892
+    },
+    {
+        "keyword": "moon",
+        "votes": 3,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 4.485626061278946
+    },
+    {
+        "keyword": "still",
+        "votes": 3,
+        "idf": 4.927458813557985
+    },
+    {
+        "keyword": "detection",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "impulse",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "volatility",
+        "votes": 3,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "go",
+        "votes": 3,
+        "idf": 4.3520946686544235
+    },
+    {
+        "keyword": "ever",
+        "votes": 3,
+        "idf": 4.927458813557985
+    },
+    {
+        "keyword": "tether",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "13",
+        "votes": 3,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "1h",
+        "votes": 3,
+        "idf": 4.927458813557985
+    },
+    {
+        "keyword": "luck",
+        "votes": 3,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "come",
+        "votes": 3,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "usdt",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "btcnews",
+        "votes": 2,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "put",
+        "votes": 2,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "saitama",
+        "votes": 2,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "would",
+        "votes": 2,
+        "idf": 4.822098297900159
+    },
+    {
+        "keyword": "looks",
+        "votes": 2,
+        "idf": 5.33292392166615
+    },
+    {
+        "keyword": "like",
+        "votes": 2,
+        "idf": 4.416633189791995
+    },
+    {
+        "keyword": "wen",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "total",
+        "votes": 2,
+        "idf": 4.639776741106204
+    },
+    {
+        "keyword": "tokens",
+        "votes": 2,
+        "idf": 5.178773241838892
+    },
+    {
+        "keyword": "white",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "rocket",
+        "votes": 2,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "probably",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "100",
+        "votes": 2,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "u",
+        "votes": 2,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "life",
+        "votes": 2,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "75",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "black",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "apecoin",
+        "votes": 2,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "meme",
+        "votes": 2,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "rising",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "family",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "cute",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "damn",
+        "votes": 2,
+        "idf": 5.515245478460105
+    },
+    {
+        "keyword": "makes",
+        "votes": 2,
+        "idf": 5.738389029774314
+    },
+    {
+        "keyword": "cents",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "performance",
+        "votes": 2,
+        "idf": 6.026071102226095
+    },
+    {
+        "keyword": "target",
+        "votes": 2,
+        "idf": 6.026071102226095
+    }
+]

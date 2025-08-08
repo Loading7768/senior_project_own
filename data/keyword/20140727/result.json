@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "increased",
+        "votes": 22,
+        "idf": 3.0685124711476455
+    },
+    {
+        "keyword": "7",
+        "votes": 17,
+        "idf": 3.2082744135228043
+    },
+    {
+        "keyword": "decreased",
+        "votes": 15,
+        "idf": 3.431417964837014
+    },
+    {
+        "keyword": "average",
+        "votes": 13,
+        "idf": 3.5649493574615367
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 12,
+        "idf": 3.495956485974585
+    },
+    {
+        "keyword": "5",
+        "votes": 12,
+        "idf": 3.6390573296152584
+    },
+    {
+        "keyword": "buying",
+        "votes": 11,
+        "idf": 3.719100037288795
+    },
+    {
+        "keyword": "service",
+        "votes": 11,
+        "idf": 3.719100037288795
+    },
+    {
+        "keyword": "coindesk",
+        "votes": 10,
+        "idf": 3.806111414278425
+    },
+    {
+        "keyword": "37",
+        "votes": 8,
+        "idf": 3.9014215940827497
+    },
+    {
+        "keyword": "34",
+        "votes": 8,
+        "idf": 4.006782109740576
+    },
+    {
+        "keyword": "594",
+        "votes": 5,
+        "idf": 4.412247217848741
+    },
+    {
+        "keyword": "595",
+        "votes": 4,
+        "idf": 4.5945687746426955
+    },
+    {
+        "keyword": "4",
+        "votes": 4,
+        "idf": 4.412247217848741
+    },
+    {
+        "keyword": "35",
+        "votes": 4,
+        "idf": 3.6390573296152584
+    },
+    {
+        "keyword": "account",
+        "votes": 4,
+        "idf": 4.5945687746426955
+    },
+    {
+        "keyword": "live",
+        "votes": 4,
+        "idf": 4.5945687746426955
+    },
+    {
+        "keyword": "prices",
+        "votes": 4,
+        "idf": 4.5945687746426955
+    },
+    {
+        "keyword": "9",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "592",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "future",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "tipping",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "gaming",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "0",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "win",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "596",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "increase",
+        "votes": 3,
+        "idf": 4.5945687746426955
+    },
+    {
+        "keyword": "8",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "599",
+        "votes": 3,
+        "idf": 4.817712325956904
+    },
+    {
+        "keyword": "68",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "via",
+        "votes": 2,
+        "idf": 4.258096538021482
+    },
+    {
+        "keyword": "63",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "55",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "error",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "btx",
+        "votes": 2,
+        "idf": 4.412247217848741
+    },
+    {
+        "keyword": "trader",
+        "votes": 2,
+        "idf": 4.412247217848741
+    },
+    {
+        "keyword": "adoption",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "mine",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "hot",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "currencies",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "33",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "free",
+        "votes": 2,
+        "idf": 4.412247217848741
+    },
+    {
+        "keyword": "bitcoin",
+        "votes": 2,
+        "idf": 3.02595285672885
+    },
+    {
+        "keyword": "yahoo",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "598",
+        "votes": 2,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "giant",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "kind",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "small",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "stratosphere",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "taking",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "feet",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "remember",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "commerce",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "deals",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "per",
+        "votes": 1,
+        "idf": 3.495956485974585
+    },
+    {
+        "keyword": "4606",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "5i7t7tbidzbj6q642mkq",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "thanks",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "pls",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "41",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "love",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "much",
+        "votes": 1,
+        "idf": 4.5945687746426955
+    },
+    {
+        "keyword": "wow",
+        "votes": 1,
+        "idf": 4.5945687746426955
+    },
+    {
+        "keyword": "post",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "sum",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "posts",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "r",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "nutshell",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "4605",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "51",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "problem",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "dodgecoin",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "pgs",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "christian",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "rain",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "creating",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "poems",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "gifs",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "exchange",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "repair",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "things",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "great",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "game",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "bioshock",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "faucet",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "tools",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "poker",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "worth",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "gave",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "crap",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "4595",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "39",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "meet",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "way",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "official",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "paper",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "add",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "2",
+        "votes": 1,
+        "idf": 5.105394398408686
+    },
+    {
+        "keyword": "4634",
+        "votes": 1,
+        "idf": 5.51085950651685
+    },
+    {
+        "keyword": "simplify",
+        "votes": 1,
+        "idf": 5.51085950651685
+    }
+]

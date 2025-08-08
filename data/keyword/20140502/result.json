@@ -1,0 +1,502 @@
+[
+    {
+        "keyword": "0",
+        "votes": 39,
+        "idf": 3.5794950684639155
+    },
+    {
+        "keyword": "1",
+        "votes": 24,
+        "idf": 3.603592620042976
+    },
+    {
+        "keyword": "9",
+        "votes": 23,
+        "idf": 4.139110856399338
+    },
+    {
+        "keyword": "exchanges",
+        "votes": 22,
+        "idf": 3.405141681319138
+    },
+    {
+        "keyword": "cc",
+        "votes": 14,
+        "idf": 4.2726422490238605
+    },
+    {
+        "keyword": "4",
+        "votes": 14,
+        "idf": 4.321432413193293
+    },
+    {
+        "keyword": "move",
+        "votes": 12,
+        "idf": 4.678107357132025
+    },
+    {
+        "keyword": "gets",
+        "votes": 12,
+        "idf": 4.609114485645074
+    },
+    {
+        "keyword": "help",
+        "votes": 11,
+        "idf": 4.544575964507503
+    },
+    {
+        "keyword": "nicely",
+        "votes": 11,
+        "idf": 4.226122233388968
+    },
+    {
+        "keyword": "2",
+        "votes": 10,
+        "idf": 4.752215329285747
+    },
+    {
+        "keyword": "well",
+        "votes": 9,
+        "idf": 4.752215329285747
+    },
+    {
+        "keyword": "longer",
+        "votes": 9,
+        "idf": 4.919269413948913
+    },
+    {
+        "keyword": "garage",
+        "votes": 8,
+        "idf": 4.919269413948913
+    },
+    {
+        "keyword": "vertcoin",
+        "votes": 8,
+        "idf": 5.119940109411065
+    },
+    {
+        "keyword": "rt",
+        "votes": 8,
+        "idf": 4.372725707580843
+    },
+    {
+        "keyword": "done",
+        "votes": 8,
+        "idf": 4.181670470818134
+    },
+    {
+        "keyword": "tip",
+        "votes": 7,
+        "idf": 4.752215329285747
+    },
+    {
+        "keyword": "first",
+        "votes": 7,
+        "idf": 4.426792928851119
+    },
+    {
+        "keyword": "getting",
+        "votes": 7,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "moon",
+        "votes": 7,
+        "idf": 4.832258036959283
+    },
+    {
+        "keyword": "talks",
+        "votes": 6,
+        "idf": 5.119940109411065
+    },
+    {
+        "keyword": "wow",
+        "votes": 6,
+        "idf": 4.321432413193293
+    },
+    {
+        "keyword": "learn",
+        "votes": 6,
+        "idf": 5.119940109411065
+    },
+    {
+        "keyword": "7",
+        "votes": 6,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "phone",
+        "votes": 6,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "inspect",
+        "votes": 6,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "ready",
+        "votes": 6,
+        "idf": 4.919269413948913
+    },
+    {
+        "keyword": "live",
+        "votes": 5,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "android",
+        "votes": 5,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "race",
+        "votes": 5,
+        "idf": 3.603592620042976
+    },
+    {
+        "keyword": "8",
+        "votes": 5,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "real",
+        "votes": 5,
+        "idf": 4.678107357132025
+    },
+    {
+        "keyword": "track",
+        "votes": 5,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "joke",
+        "votes": 5,
+        "idf": 4.544575964507503
+    },
+    {
+        "keyword": "life",
+        "votes": 5,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "108",
+        "votes": 5,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "6",
+        "votes": 5,
+        "idf": 5.014579593753238
+    },
+    {
+        "keyword": "go",
+        "votes": 5,
+        "idf": 4.483951342691068
+    },
+    {
+        "keyword": "upstart",
+        "votes": 5,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "weeks",
+        "votes": 5,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "told",
+        "votes": 5,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "reality",
+        "votes": 5,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "4th",
+        "votes": 5,
+        "idf": 5.119940109411065
+    },
+    {
+        "keyword": "thanks",
+        "votes": 4,
+        "idf": 4.609114485645074
+    },
+    {
+        "keyword": "doge",
+        "votes": 4,
+        "idf": 3.8206571252808037
+    },
+    {
+        "keyword": "love",
+        "votes": 4,
+        "idf": 5.119940109411065
+    },
+    {
+        "keyword": "supporting",
+        "votes": 4,
+        "idf": 5.707726774313183
+    },
+    {
+        "keyword": "great",
+        "votes": 4,
+        "idf": 5.119940109411065
+    },
+    {
+        "keyword": "looks",
+        "votes": 4,
+        "idf": 5.119940109411065
+    },
+    {
+        "keyword": "made",
+        "votes": 4,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "vroom",
+        "votes": 4,
+        "idf": 5.707726774313183
+    },
+    {
+        "keyword": "ever",
+        "votes": 4,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "news",
+        "votes": 4,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "awesome",
+        "votes": 4,
+        "idf": 4.919269413948913
+    },
+    {
+        "keyword": "driver",
+        "votes": 4,
+        "idf": 4.752215329285747
+    },
+    {
+        "keyword": "98",
+        "votes": 4,
+        "idf": 4.321432413193293
+    },
+    {
+        "keyword": "follow",
+        "votes": 4,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "111",
+        "votes": 4,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "behind",
+        "votes": 3,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "mention",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "register",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "username",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "much",
+        "votes": 3,
+        "idf": 4.059068148725801
+    },
+    {
+        "keyword": "balance",
+        "votes": 3,
+        "idf": 5.707726774313183
+    },
+    {
+        "keyword": "actually",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "supported",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "tracker",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "looking",
+        "votes": 3,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "nascar",
+        "votes": 3,
+        "idf": 3.2396272428415642
+    },
+    {
+        "keyword": "spotlight",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "heat",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "disrupted",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "racing",
+        "votes": 3,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "story",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "buy",
+        "votes": 3,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "keep",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "look",
+        "votes": 3,
+        "idf": 4.2726422490238605
+    },
+    {
+        "keyword": "crypto",
+        "votes": 3,
+        "idf": 5.707726774313183
+    },
+    {
+        "keyword": "spotted",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "diecast",
+        "votes": 3,
+        "idf": 5.5254052175192285
+    },
+    {
+        "keyword": "please",
+        "votes": 3,
+        "idf": 5.119940109411065
+    },
+    {
+        "keyword": "succeeded",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "number",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "sponsor",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "needs",
+        "votes": 3,
+        "idf": 5.707726774313183
+    },
+    {
+        "keyword": "weekend",
+        "votes": 3,
+        "idf": 4.832258036959283
+    },
+    {
+        "keyword": "low",
+        "votes": 3,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "dogecoins",
+        "votes": 3,
+        "idf": 5.707726774313183
+    },
+    {
+        "keyword": "coverage",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "mt",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "got",
+        "votes": 3,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "invest",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "unlikely",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "practice",
+        "votes": 3,
+        "idf": 5.3712545376919705
+    },
+    {
+        "keyword": "diner",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "sponsored",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "wolves",
+        "votes": 3,
+        "idf": 5.930870325627393
+    },
+    {
+        "keyword": "100",
+        "votes": 3,
+        "idf": 5.237723145067448
+    },
+    {
+        "keyword": "equivalent",
+        "votes": 3,
+        "idf": 5.930870325627393
+    }
+]

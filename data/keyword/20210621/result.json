@@ -148,5 +148,355 @@
         "keyword": "like",
         "votes": 36,
         "idf": 3.9951070781600726
+    },
+    {
+        "keyword": "let",
+        "votes": 36,
+        "idf": 5.21588700080239
+    },
+    {
+        "keyword": "hold",
+        "votes": 35,
+        "idf": 5.096222497046301
+    },
+    {
+        "keyword": "help",
+        "votes": 35,
+        "idf": 5.443276842998051
+    },
+    {
+        "keyword": "save",
+        "votes": 35,
+        "idf": 5.604544990594173
+    },
+    {
+        "keyword": "hodl",
+        "votes": 34,
+        "idf": 5.351842637038419
+    },
+    {
+        "keyword": "get",
+        "votes": 34,
+        "idf": 4.256471842294481
+    },
+    {
+        "keyword": "trending",
+        "votes": 34,
+        "idf": 6.074548619839908
+    },
+    {
+        "keyword": "damn",
+        "votes": 34,
+        "idf": 5.979238440035584
+    },
+    {
+        "keyword": "dead",
+        "votes": 34,
+        "idf": 5.99758757870378
+    },
+    {
+        "keyword": "current",
+        "votes": 32,
+        "idf": 5.313742790806148
+    },
+    {
+        "keyword": "sir",
+        "votes": 32,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "1",
+        "votes": 31,
+        "idf": 4.67830392786685
+    },
+    {
+        "keyword": "love",
+        "votes": 30,
+        "idf": 5.21588700080239
+    },
+    {
+        "keyword": "rise",
+        "votes": 30,
+        "idf": 5.723891748226739
+    },
+    {
+        "keyword": "high",
+        "votes": 29,
+        "idf": 5.796916883241629
+    },
+    {
+        "keyword": "really",
+        "votes": 29,
+        "idf": 5.081296846829625
+    },
+    {
+        "keyword": "rn",
+        "votes": 28,
+        "idf": 6.248902006984686
+    },
+    {
+        "keyword": "think",
+        "votes": 28,
+        "idf": 4.760824951554854
+    },
+    {
+        "keyword": "shit",
+        "votes": 28,
+        "idf": 5.592122470595616
+    },
+    {
+        "keyword": "tweet",
+        "votes": 27,
+        "idf": 5.4539721321147985
+    },
+    {
+        "keyword": "need",
+        "votes": 27,
+        "idf": 5.04492920265875
+    },
+    {
+        "keyword": "dips",
+        "votes": 27,
+        "idf": 5.682506532063885
+    },
+    {
+        "keyword": "got",
+        "votes": 27,
+        "idf": 5.158257887965753
+    },
+    {
+        "keyword": "baby",
+        "votes": 27,
+        "idf": 6.202381991349793
+    },
+    {
+        "keyword": "done",
+        "votes": 26,
+        "idf": 5.875697761094743
+    },
+    {
+        "keyword": "wait",
+        "votes": 26,
+        "idf": 5.827688541908382
+    },
+    {
+        "keyword": "say",
+        "votes": 26,
+        "idf": 5.323132531155988
+    },
+    {
+        "keyword": "day",
+        "votes": 26,
+        "idf": 4.936715618018518
+    },
+    {
+        "keyword": "hell",
+        "votes": 25,
+        "idf": 6.297692171154118
+    },
+    {
+        "keyword": "happened",
+        "votes": 25,
+        "idf": 6.297692171154118
+    },
+    {
+        "keyword": "something",
+        "votes": 25,
+        "idf": 5.391451775133465
+    },
+    {
+        "keyword": "excited",
+        "votes": 25,
+        "idf": 6.272999558563747
+    },
+    {
+        "keyword": "wow",
+        "votes": 24,
+        "idf": 5.827688541908382
+    },
+    {
+        "keyword": "cents",
+        "votes": 24,
+        "idf": 4.905167260283592
+    },
+    {
+        "keyword": "getting",
+        "votes": 24,
+        "idf": 5.555754826424741
+    },
+    {
+        "keyword": "fuck",
+        "votes": 24,
+        "idf": 6.15793022877896
+    },
+    {
+        "keyword": "shib",
+        "votes": 24,
+        "idf": 5.142384538809464
+    },
+    {
+        "keyword": "panic",
+        "votes": 23,
+        "idf": 5.926128614721636
+    },
+    {
+        "keyword": "crypto",
+        "votes": 23,
+        "idf": 4.081209777213484
+    },
+    {
+        "keyword": "hit",
+        "votes": 23,
+        "idf": 5.5677310174714565
+    },
+    {
+        "keyword": "u",
+        "votes": 23,
+        "idf": 5.796916883241629
+    },
+    {
+        "keyword": "bad",
+        "votes": 23,
+        "idf": 5.796916883241629
+    },
+    {
+        "keyword": "looks",
+        "votes": 22,
+        "idf": 5.682506532063885
+    },
+    {
+        "keyword": "wtf",
+        "votes": 22,
+        "idf": 6.5525844207829085
+    },
+    {
+        "keyword": "accept",
+        "votes": 22,
+        "idf": 5.875697761094743
+    },
+    {
+        "keyword": "remember",
+        "votes": 22,
+        "idf": 5.767063920091948
+    },
+    {
+        "keyword": "tesla",
+        "votes": 22,
+        "idf": 5.642766203414371
+    },
+    {
+        "keyword": "looking",
+        "votes": 22,
+        "idf": 5.723891748226739
+    },
+    {
+        "keyword": "twitter",
+        "votes": 22,
+        "idf": 6.094751327157428
+    },
+    {
+        "keyword": "rip",
+        "votes": 22,
+        "idf": 6.690734759263726
+    },
+    {
+        "keyword": "come",
+        "votes": 22,
+        "idf": 5.391451775133465
+    },
+    {
+        "keyword": "best",
+        "votes": 21,
+        "idf": 5.166290059663018
+    },
+    {
+        "keyword": "end",
+        "votes": 21,
+        "idf": 5.827688541908382
+    },
+    {
+        "keyword": "18",
+        "votes": 21,
+        "idf": 6.248902006984686
+    },
+    {
+        "keyword": "people",
+        "votes": 21,
+        "idf": 4.212020079723646
+    },
+    {
+        "keyword": "20",
+        "votes": 21,
+        "idf": 5.4539721321147985
+    },
+    {
+        "keyword": "strong",
+        "votes": 21,
+        "idf": 5.509234810789848
+    },
+    {
+        "keyword": "believe",
+        "votes": 21,
+        "idf": 5.391451775133465
+    },
+    {
+        "keyword": "happy",
+        "votes": 21,
+        "idf": 6.074548619839908
+    },
+    {
+        "keyword": "btc",
+        "votes": 21,
+        "idf": 4.296212170943994
+    },
+    {
+        "keyword": "way",
+        "votes": 21,
+        "idf": 5.166290059663018
+    },
+    {
+        "keyword": "hey",
+        "votes": 20,
+        "idf": 5.812184355372417
+    },
+    {
+        "keyword": "trust",
+        "votes": 20,
+        "idf": 6.179909135497735
+    },
+    {
+        "keyword": "far",
+        "votes": 20,
+        "idf": 6.348985465541669
+    },
+    {
+        "keyword": "man",
+        "votes": 19,
+        "idf": 6.115370614360164
+    },
+    {
+        "keyword": "hodling",
+        "votes": 19,
+        "idf": 6.115370614360164
+    },
+    {
+        "keyword": "goes",
+        "votes": 19,
+        "idf": 5.738076383218695
+    },
+    {
+        "keyword": "guys",
+        "votes": 19,
+        "idf": 5.738076383218695
+    },
+    {
+        "keyword": "updates",
+        "votes": 19,
+        "idf": 6.61927579528158
+    },
+    {
+        "keyword": "sold",
+        "votes": 19,
+        "idf": 5.304440398143835
     }
 ]

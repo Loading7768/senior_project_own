@@ -40,11 +40,6 @@
         "idf": 4.867287111586755
     },
     {
-        "keyword": "update",
-        "votes": 10,
-        "idf": 4.46182200347859
-    },
-    {
         "keyword": "shib",
         "votes": 9,
         "idf": 3.5623383899208165
@@ -135,6 +130,11 @@
         "idf": 4.6441435602725445
     },
     {
+        "keyword": "tsla",
+        "votes": 6,
+        "idf": 5.5604342921467
+    },
+    {
         "keyword": "staking",
         "votes": 6,
         "idf": 4.867287111586755
@@ -148,5 +148,355 @@
         "keyword": "right",
         "votes": 6,
         "idf": 5.33729074083249
+    },
+    {
+        "keyword": "current",
+        "votes": 6,
+        "idf": 3.465488563930899
+    },
+    {
+        "keyword": "family",
+        "votes": 6,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "far",
+        "votes": 5,
+        "idf": 5.241980561028165
+    },
+    {
+        "keyword": "value",
+        "votes": 5,
+        "idf": 5.000818504211277
+    },
+    {
+        "keyword": "moon",
+        "votes": 5,
+        "idf": 4.6954368546600955
+    },
+    {
+        "keyword": "h",
+        "votes": 5,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "seems",
+        "votes": 5,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "based",
+        "votes": 5,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "tether",
+        "votes": 5,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "12",
+        "votes": 5,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "solana",
+        "votes": 5,
+        "idf": 5.693965684771222
+    },
+    {
+        "keyword": "0",
+        "votes": 5,
+        "idf": 5.241980561028165
+    },
+    {
+        "keyword": "swing",
+        "votes": 5,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "usd",
+        "votes": 5,
+        "idf": 4.6954368546600955
+    },
+    {
+        "keyword": "dot",
+        "votes": 5,
+        "idf": 4.46182200347859
+    },
+    {
+        "keyword": "pm",
+        "votes": 5,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "2021",
+        "votes": 5,
+        "idf": 4.344038967822207
+    },
+    {
+        "keyword": "difference",
+        "votes": 5,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "thats",
+        "votes": 5,
+        "idf": 5.693965684771222
+    },
+    {
+        "keyword": "got",
+        "votes": 5,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "update",
+        "votes": 5,
+        "idf": 4.46182200347859
+    },
+    {
+        "keyword": "shiba",
+        "votes": 5,
+        "idf": 4.2058886293413895
+    },
+    {
+        "keyword": "come",
+        "votes": 5,
+        "idf": 5.693965684771222
+    },
+    {
+        "keyword": "nice",
+        "votes": 4,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "yes",
+        "votes": 4,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "one",
+        "votes": 4,
+        "idf": 3.8556861999082748
+    },
+    {
+        "keyword": "working",
+        "votes": 4,
+        "idf": 5.154969184038536
+    },
+    {
+        "keyword": "eth",
+        "votes": 4,
+        "idf": 3.632542648594065
+    },
+    {
+        "keyword": "funny",
+        "votes": 4,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "think",
+        "votes": 4,
+        "idf": 5.000818504211277
+    },
+    {
+        "keyword": "tag",
+        "votes": 4,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "benzinga",
+        "votes": 4,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "works",
+        "votes": 4,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "neck",
+        "votes": 4,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "emerge",
+        "votes": 4,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "watched",
+        "votes": 4,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "02",
+        "votes": 4,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "past",
+        "votes": 4,
+        "idf": 4.80666248977032
+    },
+    {
+        "keyword": "buy",
+        "votes": 4,
+        "idf": 5.000818504211277
+    },
+    {
+        "keyword": "dogelon",
+        "votes": 4,
+        "idf": 5.5604342921467
+    },
+    {
+        "keyword": "going",
+        "votes": 4,
+        "idf": 4.749504075930371
+    },
+    {
+        "keyword": "baby",
+        "votes": 4,
+        "idf": 4.272580003840062
+    },
+    {
+        "keyword": "may",
+        "votes": 4,
+        "idf": 5.442651256490317
+    },
+    {
+        "keyword": "gains",
+        "votes": 4,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "smart",
+        "votes": 3,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "tesla",
+        "votes": 3,
+        "idf": 5.5604342921467
+    },
+    {
+        "keyword": "u",
+        "votes": 3,
+        "idf": 5.241980561028165
+    },
+    {
+        "keyword": "uranus",
+        "votes": 3,
+        "idf": 6.253581472706645
+    },
+    {
+        "keyword": "1",
+        "votes": 3,
+        "idf": 3.5968245659919855
+    },
+    {
+        "keyword": "supports",
+        "votes": 3,
+        "idf": 6.253581472706645
+    },
+    {
+        "keyword": "drop",
+        "votes": 3,
+        "idf": 6.253581472706645
+    },
+    {
+        "keyword": "holidays",
+        "votes": 3,
+        "idf": 5.693965684771222
+    },
+    {
+        "keyword": "cardano",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "69",
+        "votes": 3,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "musk",
+        "votes": 3,
+        "idf": 5.000818504211277
+    },
+    {
+        "keyword": "bro",
+        "votes": 3,
+        "idf": 5.693965684771222
+    },
+    {
+        "keyword": "wearing",
+        "votes": 3,
+        "idf": 5.693965684771222
+    },
+    {
+        "keyword": "message",
+        "votes": 3,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "kill",
+        "votes": 3,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "change",
+        "votes": 3,
+        "idf": 3.9509963797125995
+    },
+    {
+        "keyword": "amazing",
+        "votes": 3,
+        "idf": 6.030437921392435
+    },
+    {
+        "keyword": "friend",
+        "votes": 3,
+        "idf": 6.253581472706645
+    },
+    {
+        "keyword": "never",
+        "votes": 3,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "santa",
+        "votes": 3,
+        "idf": 5.33729074083249
+    },
+    {
+        "keyword": "accept",
+        "votes": 3,
+        "idf": 5.848116364598481
+    },
+    {
+        "keyword": "thank",
+        "votes": 3,
+        "idf": 5.5604342921467
+    },
+    {
+        "keyword": "let",
+        "votes": 3,
+        "idf": 5.0749264763649995
+    },
+    {
+        "keyword": "01",
+        "votes": 3,
+        "idf": 6.253581472706645
+    },
+    {
+        "keyword": "happened",
+        "votes": 3,
+        "idf": 6.253581472706645
+    },
+    {
+        "keyword": "cap",
+        "votes": 3,
+        "idf": 5.154969184038536
     }
 ]
