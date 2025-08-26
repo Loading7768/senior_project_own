@@ -40149,3 +40149,1703 @@ Timestamp：
 	2025-08-07 04:53:53 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250805.json → ../data/tweets/DOGE/2025/08/DOGE_20250805_Latest17619.json
 	2025-08-07 04:53:53 End
 
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-08 since:2025-08-07'
+SEARCH = 'Latest'
+執行時間：2025-08-08 21:25:41 ~ 2025-08-08 22:21:23 (0 day 0 hr 55 min)
+推文數量：2022 (0 WrittingError)
+推文時間：Thu Aug 07 18:40:36 +0000 2025 ~ Thu Aug 07 23:59:39 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-08 21:25:41 Start
+	2025-08-08 21:25:43 FileNotFoundError
+	2025-08-08 21:55:08 TooManyRequests - Got 1218 tweets
+	Waiting until  2025-08-08 21:55:42 (0 min 33 sec)
+	2025-08-08 22:07:03 TooManyRequests - Got 1638 tweets
+	Waiting until  2025-08-08 22:10:55 (3 min 51 sec)
+	2025-08-08 22:21:23 No more tweets found
+	2025-08-08 22:21:23 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250807.json → ../data/tweets/DOGE/2025/08/DOGE_20250807_Latest2022.json
+	2025-08-08 22:21:23 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-07 since:2025-08-06'
+SEARCH = 'Latest'
+執行時間：2025-08-08 21:22:57 ~ 2025-08-08 22:24:18 (0 day 1 hr 1 min)
+推文數量：2653 (0 WrittingError)
+推文時間：Wed Aug 06 17:51:10 +0000 2025 ~ Wed Aug 06 23:59:47 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-08 21:22:57 Start
+	2025-08-08 21:22:58 FileNotFoundError
+	2025-08-08 21:35:23 TooManyRequests - Got 779 tweets
+	Waiting until  2025-08-08 21:37:58 (2 min 34 sec)
+	2025-08-08 21:52:08 TooManyRequests - Got 1615 tweets
+	Waiting until  2025-08-08 21:53:04 (0 min 55 sec)
+	2025-08-08 22:05:23 TooManyRequests - Got 2119 tweets
+	Waiting until  2025-08-08 22:08:08 (2 min 44 sec)
+	2025-08-08 22:22:57 TooManyRequests - Got 2604 tweets
+	Waiting until  2025-08-08 22:23:15 (0 min 17 sec)
+	2025-08-08 22:24:18 No more tweets found
+	2025-08-08 22:24:18 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250806.json → ../data/tweets/DOGE/2025/08/DOGE_20250806_Latest2653.json
+	2025-08-08 22:24:18 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-08 since:2025-08-07'
+SEARCH = 'Latest'
+執行時間：2025-08-08 22:24:24 ~ 2025-08-08 23:24:08 (0 day 0 hr 59 min)
+推文數量：1999 (0 WrittingError)
+推文時間：Thu Aug 07 18:40:36 +0000 2025 ~ Thu Aug 07 23:59:39 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-08 22:24:24 Start
+	2025-08-08 22:24:24 FileNotFoundError
+	2025-08-08 22:31:48 TooManyRequests - Got 649 tweets
+	Waiting until  2025-08-08 22:38:19 (6 min 30 sec)
+	2025-08-08 23:03:58 TooManyRequests - Got 1385 tweets
+	Waiting until  2025-08-08 23:08:29 (4 min 30 sec)
+	2025-08-08 23:22:45 TooManyRequests - Got 1973 tweets
+	Waiting until  2025-08-08 23:23:34 (0 min 48 sec)
+	2025-08-08 23:24:08 No more tweets found
+	2025-08-08 23:24:08 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250807.json → ../data/tweets/DOGE/2025/08/DOGE_20250807_Latest1999.json
+	2025-08-08 23:24:08 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-09 since:2025-08-08'
+SEARCH = 'Latest'
+執行時間：2025-08-12 20:48:31 ~ 2025-08-12 21:40:26 (0 day 0 hr 51 min)
+推文數量：2058 (0 WrittingError)
+推文時間：Fri Aug 08 17:49:44 +0000 2025 ~ Fri Aug 08 23:59:46 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-12 20:48:31 Start
+	2025-08-12 20:49:56 FileNotFoundError
+	2025-08-12 21:02:35 TooManyRequests - Got 666 tweets
+	Waiting until  2025-08-12 21:03:32 (0 min 56 sec)
+	2025-08-12 21:30:53 TooManyRequests - Got 1997 tweets
+	Waiting until  2025-08-12 21:34:39 (3 min 45 sec)
+	2025-08-12 21:40:26 No more tweets found
+	2025-08-12 21:40:26 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250808.json → ../data/tweets/DOGE/2025/08/DOGE_20250808_Latest2058.json
+	2025-08-12 21:40:26 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-11 since:2025-08-10'
+SEARCH = 'Latest'
+執行時間：2025-08-12 20:48:36 ~ 2025-08-12 22:20:40 (0 day 1 hr 32 min)
+推文數量：3342 (0 WrittingError)
+推文時間：Sun Aug 10 15:04:31 +0000 2025 ~ Sun Aug 10 23:59:58 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-12 20:48:36 Start
+	2025-08-12 20:48:37 FileNotFoundError
+	2025-08-12 21:17:02 TooManyRequests - Got 1332 tweets
+	Waiting until  2025-08-12 21:18:43 (1 min 40 sec)
+	2025-08-12 21:43:59 TooManyRequests - Got 2525 tweets
+	Waiting until  2025-08-12 21:49:32 (5 min 32 sec)
+	2025-08-12 22:00:16 TooManyRequests - Got 2886 tweets
+	Waiting until  2025-08-12 22:04:37 (4 min 20 sec)
+	2025-08-12 22:20:40 No more tweets found
+	2025-08-12 22:20:40 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250810.json → ../data/tweets/DOGE/2025/08/DOGE_20250810_Latest3342.json
+	2025-08-12 22:20:40 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-10 since:2025-08-09'
+SEARCH = 'Latest'
+執行時間：2025-08-12 21:40:36 ~ 2025-08-12 22:52:24 (0 day 1 hr 11 min)
+推文數量：3100 (0 WrittingError)
+推文時間：Sat Aug 09 15:17:47 +0000 2025 ~ Sat Aug 09 23:59:56 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-12 21:40:36 Start
+	2025-08-12 21:40:37 FileNotFoundError
+	2025-08-12 21:46:40 TooManyRequests - Got 560 tweets
+	Waiting until  2025-08-12 21:49:46 (3 min 5 sec)
+	2025-08-12 22:02:01 TooManyRequests - Got 1107 tweets
+	Waiting until  2025-08-12 22:04:52 (2 min 50 sec)
+	2025-08-12 22:29:18 TooManyRequests - Got 2405 tweets
+	Waiting until  2025-08-12 22:35:00 (5 min 41 sec)
+	2025-08-12 22:41:25 TooManyRequests - Got 2960 tweets
+	Waiting until  2025-08-12 22:50:13 (8 min 47 sec)
+	2025-08-12 22:52:24 No more tweets found
+	2025-08-12 22:52:24 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250809.json → ../data/tweets/DOGE/2025/08/DOGE_20250809_Latest3100.json
+	2025-08-12 22:52:24 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-12 since:2025-08-11'
+SEARCH = 'Latest'
+執行時間：2025-08-12 22:20:50 ~ 2025-08-12 23:43:01 (0 day 1 hr 22 min)
+推文數量：3153 (0 WrittingError)
+推文時間：Mon Aug 11 15:53:45 +0000 2025 ~ Mon Aug 11 23:59:55 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-12 22:20:50 Start
+	2025-08-12 22:20:51 FileNotFoundError
+	2025-08-12 22:27:59 TooManyRequests - Got 657 tweets
+	Waiting until  2025-08-12 22:35:03 (7 min 3 sec)
+	2025-08-12 22:48:57 TooManyRequests - Got 1361 tweets
+	Waiting until  2025-08-12 22:50:08 (1 min 10 sec)
+	2025-08-12 23:03:21 TooManyRequests - Got 2131 tweets
+	Waiting until  2025-08-12 23:05:14 (1 min 52 sec)
+	2025-08-12 23:17:05 TooManyRequests - Got 2645 tweets
+	Waiting until  2025-08-12 23:20:19 (3 min 13 sec)
+	2025-08-12 23:34:29 TooManyRequests - Got 3065 tweets
+	Waiting until  2025-08-12 23:35:25 (0 min 55 sec)
+	2025-08-12 23:43:01 No more tweets found
+	2025-08-12 23:43:01 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250811.json → ../data/tweets/DOGE/2025/08/DOGE_20250811_Latest3153.json
+	2025-08-12 23:43:01 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-13 since:2025-08-12'
+SEARCH = 'Latest'
+執行時間：2025-08-14 12:03:06 ~ 2025-08-14 12:43:06 (0 day 0 hr 40 min)
+推文數量：1614 (0 WrittingError)
+推文時間：Tue Aug 12 19:58:28 +0000 2025 ~ Tue Aug 12 23:59:50 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-14 12:03:06 Start
+	2025-08-14 12:03:08 FileNotFoundError
+	2025-08-14 12:16:11 TooManyRequests - Got 696 tweets
+	Waiting until  2025-08-14 12:18:07 (1 min 55 sec)
+	2025-08-14 12:43:06 No more tweets found
+	2025-08-14 12:43:06 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250812.json → ../data/tweets/DOGE/2025/08/DOGE_20250812_Latest1614.json
+	2025-08-14 12:43:06 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-14 since:2025-08-13'
+SEARCH = 'Latest'
+執行時間：2025-08-14 12:08:50 ~ 2025-08-14 12:57:27 (0 day 0 hr 48 min)
+推文數量：1232 (0 WrittingError)
+推文時間：Wed Aug 13 20:12:37 +0000 2025 ~ Wed Aug 13 23:59:41 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-14 12:08:50 Start
+	2025-08-14 12:08:52 FileNotFoundError
+	2025-08-14 12:57:27 No more tweets found
+	2025-08-14 12:57:27 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250813.json → ../data/tweets/DOGE/2025/08/DOGE_20250813_Latest1232.json
+	2025-08-14 12:57:27 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-15 since:2025-08-14'
+SEARCH = 'Latest'
+執行時間：2025-08-17 21:28:48 ~ 2025-08-17 22:00:35 (0 day 0 hr 31 min)
+推文數量：744 (0 WrittingError)
+推文時間：Thu Aug 14 21:03:58 +0000 2025 ~ Thu Aug 14 23:59:41 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-17 21:28:48 Start
+	2025-08-17 21:28:49 FileNotFoundError
+	2025-08-17 21:39:13 TooManyRequests - Got 544 tweets
+	Waiting until  2025-08-17 21:43:58 (4 min 44 sec)
+	2025-08-17 22:00:35 No more tweets found
+	2025-08-17 22:00:35 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250814.json → ../data/tweets/DOGE/2025/08/DOGE_20250814_Latest744.json
+	2025-08-17 22:00:35 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-17 since:2025-08-16'
+SEARCH = 'Latest'
+執行時間：2025-08-17 21:29:07 ~ 2025-08-17 22:30:23 (0 day 1 hr 1 min)
+推文數量：1769 (0 WrittingError)
+推文時間：Sat Aug 16 18:19:14 +0000 2025 ~ Sat Aug 16 23:59:09 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-17 21:29:07 Start
+	2025-08-17 21:29:09 FileNotFoundError
+	2025-08-17 21:37:45 TooManyRequests - Got 541 tweets
+	Waiting until  2025-08-17 21:44:08 (6 min 22 sec)
+	2025-08-17 21:57:18 TooManyRequests - Got 1082 tweets
+	Waiting until  2025-08-17 21:59:15 (1 min 56 sec)
+	2025-08-17 22:13:09 TooManyRequests - Got 1444 tweets
+	Waiting until  2025-08-17 22:14:21 (1 min 11 sec)
+	2025-08-17 22:22:30 TooManyRequests - Got 1752 tweets
+	Waiting until  2025-08-17 22:29:27 (6 min 56 sec)
+	2025-08-17 22:30:23 No more tweets found
+	2025-08-17 22:30:23 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250816.json → ../data/tweets/DOGE/2025/08/DOGE_20250816_Latest1769.json
+	2025-08-17 22:30:23 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-16 since:2025-08-15'
+SEARCH = 'Latest'
+執行時間：2025-08-17 22:00:43 ~ 2025-08-17 23:18:29 (0 day 1 hr 17 min)
+推文數量：2769 (0 WrittingError)
+推文時間：Fri Aug 15 16:38:40 +0000 2025 ~ Fri Aug 15 23:59:47 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-17 22:00:43 Start
+	2025-08-17 22:00:44 FileNotFoundError
+	2025-08-17 22:10:25 TooManyRequests - Got 692 tweets
+	Waiting until  2025-08-17 22:15:43 (5 min 17 sec)
+	2025-08-17 22:45:28 TooManyRequests - Got 1869 tweets
+	Waiting until  2025-08-17 22:47:10 (1 min 41 sec)
+	2025-08-17 22:55:58 TooManyRequests - Got 2323 tweets
+	Waiting until  2025-08-17 23:02:18 (6 min 19 sec)
+	2025-08-17 23:08:58 TooManyRequests - Got 2732 tweets
+	Waiting until  2025-08-17 23:17:31 (8 min 32 sec)
+	2025-08-17 23:18:29 No more tweets found
+	2025-08-17 23:18:29 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250815.json → ../data/tweets/DOGE/2025/08/DOGE_20250815_Latest2769.json
+	2025-08-17 23:18:29 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-15 since:2025-08-14'
+SEARCH = 'Latest'
+執行時間：2025-08-17 23:33:13 ~ 2025-08-17 23:53:45 (0 day 0 hr 20 min)
+推文數量：743 (0 WrittingError)
+推文時間：Thu Aug 14 21:03:58 +0000 2025 ~ Thu Aug 14 23:59:41 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-17 23:33:13 Start
+	2025-08-17 23:33:14 FileNotFoundError
+	2025-08-17 23:45:27 TooManyRequests - Got 524 tweets
+	Waiting until  2025-08-17 23:48:14 (2 min 46 sec)
+	2025-08-17 23:53:45 No more tweets found
+	2025-08-17 23:53:45 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250814.json → ../data/tweets/DOGE/2025/08/DOGE_20250814_Latest743.json
+	2025-08-17 23:53:45 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-18 since:2025-08-17'
+SEARCH = 'Latest'
+執行時間：2025-08-18 22:00:39 ~ 2025-08-19 00:48:56 (0 day 2 hr 48 min)
+推文數量：6248 (0 WrittingError)
+推文時間：Sun Aug 17 06:48:33 +0000 2025 ~ Sun Aug 17 23:59:54 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-18 22:00:39 Start
+	2025-08-18 22:00:41 FileNotFoundError
+	2025-08-18 22:08:51 TooManyRequests - Got 642 tweets
+	Waiting until  2025-08-18 22:15:40 (6 min 48 sec)
+	2025-08-18 22:25:33 TooManyRequests - Got 1429 tweets
+	Waiting until  2025-08-18 22:30:46 (5 min 12 sec)
+	2025-08-18 22:53:52 TooManyRequests - Got 2347 tweets
+	Waiting until  2025-08-18 23:02:46 (8 min 53 sec)
+	2025-08-18 23:13:52 TooManyRequests - Got 2919 tweets
+	Waiting until  2025-08-18 23:17:53 (4 min 0 sec)
+	2025-08-18 23:43:20 TooManyRequests - Got 4193 tweets
+	Waiting until  2025-08-18 23:47:59 (4 min 38 sec)
+	2025-08-19 00:17:42 TooManyRequests - Got 5285 tweets
+	Waiting until  2025-08-19 00:18:14 (0 min 31 sec)
+	2025-08-19 00:28:57 TooManyRequests - Got 5770 tweets
+	Waiting until  2025-08-19 00:33:21 (4 min 23 sec)
+	2025-08-19 00:42:50 TooManyRequests - Got 6233 tweets
+	Waiting until  2025-08-19 00:48:28 (5 min 37 sec)
+	2025-08-19 00:48:56 No more tweets found
+	2025-08-19 00:48:56 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250817.json → ../data/tweets/DOGE/2025/08/DOGE_20250817_Latest6248.json
+	2025-08-19 00:48:56 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-02 since:2025-06-01'
+SEARCH = 'Latest'
+執行時間：2025-08-18 23:01:56 ~ 2025-08-19 01:07:01 (0 day 2 hr 5 min)
+推文數量：5077 (0 WrittingError)
+推文時間：Sun Jun 01 10:26:09 +0000 2025 ~ Sun Jun 01 23:59:53 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-18 23:01:56 Start
+	2025-08-18 23:01:58 FileNotFoundError
+	2025-08-18 23:13:54 TooManyRequests - Got 658 tweets
+	Waiting until  2025-08-18 23:16:57 (3 min 2 sec)
+	2025-08-18 23:24:11 TooManyRequests - Got 1459 tweets
+	Waiting until  2025-08-18 23:32:05 (7 min 53 sec)
+	2025-08-18 23:57:36 TooManyRequests - Got 2857 tweets
+	Waiting until  2025-08-19 00:02:44 (5 min 7 sec)
+	2025-08-19 00:13:40 TooManyRequests - Got 3593 tweets
+	Waiting until  2025-08-19 00:17:52 (4 min 11 sec)
+	2025-08-19 00:47:10 TooManyRequests - Got 4610 tweets
+	Waiting until  2025-08-19 00:48:44 (1 min 33 sec)
+	2025-08-19 00:57:17 TooManyRequests - Got 5041 tweets
+	Waiting until  2025-08-19 01:03:50 (6 min 32 sec)
+	2025-08-19 01:07:01 No more tweets found
+	2025-08-19 01:07:01 Renamed: ../data/tweets/PEPE/2025/06/PEPE_20250601.json → ../data/tweets/PEPE/2025/06/PEPE_20250601_Latest5077.json
+	2025-08-19 01:07:01 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-07 since:2025-06-06'
+SEARCH = 'Latest'
+執行時間：2025-08-19 00:53:09 ~ 2025-08-19 03:15:31 (0 day 2 hr 22 min)
+推文數量：5571 (0 WrittingError)
+推文時間：Fri Jun 06 07:45:45 +0000 2025 ~ Fri Jun 06 23:59:40 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 00:53:09 Start
+	2025-08-19 00:53:10 FileNotFoundError
+	2025-08-19 01:02:54 TooManyRequests - Got 629 tweets
+	Waiting until  2025-08-19 01:03:36 (0 min 41 sec)
+	2025-08-19 01:12:22 TooManyRequests - Got 1183 tweets
+	Waiting until  2025-08-19 01:18:41 (6 min 18 sec)
+	2025-08-19 01:28:48 TooManyRequests - Got 1696 tweets
+	Waiting until  2025-08-19 01:33:47 (4 min 58 sec)
+	2025-08-19 02:14:48 TooManyRequests - Got 3349 tweets
+	Waiting until  2025-08-19 02:18:56 (4 min 7 sec)
+	2025-08-19 02:33:49 TooManyRequests - Got 3976 tweets
+	Waiting until  2025-08-19 02:34:02 (0 min 12 sec)
+	2025-08-19 02:43:43 TooManyRequests - Got 4461 tweets
+	Waiting until  2025-08-19 02:49:06 (5 min 22 sec)
+	2025-08-19 03:02:08 TooManyRequests - Got 5038 tweets
+	Waiting until  2025-08-19 03:04:10 (2 min 1 sec)
+	2025-08-19 03:15:31 No more tweets found
+	2025-08-19 03:15:31 Renamed: ../data/tweets/PEPE/2025/06/PEPE_20250606.json → ../data/tweets/PEPE/2025/06/PEPE_20250606_Latest5571.json
+	2025-08-19 03:15:31 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-03 since:2025-06-02'
+SEARCH = 'Latest'
+執行時間：2025-08-19 01:07:10 ~ 2025-08-19 04:06:53 (0 day 2 hr 59 min)
+推文數量：8102 (0 WrittingError)
+推文時間：Mon Jun 02 00:00:00 +0000 2025 ~ Mon Jun 02 23:59:30 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 01:07:10 Start
+	2025-08-19 01:07:11 FileNotFoundError
+	2025-08-19 01:15:07 TooManyRequests - Got 613 tweets
+	Waiting until  2025-08-19 01:18:56 (3 min 48 sec)
+	2025-08-19 01:26:30 TooManyRequests - Got 1149 tweets
+	Waiting until  2025-08-19 01:34:01 (7 min 30 sec)
+	2025-08-19 01:42:32 TooManyRequests - Got 1562 tweets
+	Waiting until  2025-08-19 01:49:08 (6 min 35 sec)
+	2025-08-19 02:01:29 TooManyRequests - Got 2198 tweets
+	Waiting until  2025-08-19 02:04:15 (2 min 45 sec)
+	2025-08-19 02:29:10 TooManyRequests - Got 3636 tweets
+	Waiting until  2025-08-19 02:34:26 (5 min 15 sec)
+	2025-08-19 02:41:13 TooManyRequests - Got 4413 tweets
+	Waiting until  2025-08-19 02:49:32 (8 min 18 sec)
+	2025-08-19 03:00:14 TooManyRequests - Got 5146 tweets
+	Waiting until  2025-08-19 03:04:37 (4 min 22 sec)
+	2025-08-19 03:15:12 TooManyRequests - Got 5851 tweets
+	Waiting until  2025-08-19 03:19:43 (4 min 30 sec)
+	2025-08-19 03:27:00 TooManyRequests - Got 6485 tweets
+	Waiting until  2025-08-19 03:34:57 (7 min 56 sec)
+	2025-08-19 03:44:38 TooManyRequests - Got 7162 tweets
+	Waiting until  2025-08-19 03:50:03 (5 min 24 sec)
+	2025-08-19 04:03:37 TooManyRequests - Got 7938 tweets
+	Waiting until  2025-08-19 04:05:08 (1 min 30 sec)
+	2025-08-19 04:06:53 No more tweets found
+	2025-08-19 04:06:53 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-08 since:2025-06-07'
+SEARCH = 'Latest'
+執行時間：2025-08-19 03:15:41 ~ 2025-08-19 05:14:53 (0 day 1 hr 59 min)
+推文數量：4824 (0 WrittingError)
+推文時間：Sat Jun 07 10:34:27 +0000 2025 ~ Sat Jun 07 23:59:52 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 03:15:41 Start
+	2025-08-19 03:15:42 FileNotFoundError
+	2025-08-19 03:18:35 TooManyRequests - Got 75 tweets
+	Waiting until  2025-08-19 03:19:16 (0 min 40 sec)
+	2025-08-19 03:31:05 TooManyRequests - Got 843 tweets
+	Waiting until  2025-08-19 03:34:21 (3 min 15 sec)
+	2025-08-19 03:47:02 TooManyRequests - Got 1474 tweets
+	Waiting until  2025-08-19 03:49:46 (2 min 43 sec)
+	2025-08-19 03:57:44 TooManyRequests - Got 2149 tweets
+	Waiting until  2025-08-19 04:04:54 (7 min 9 sec)
+	2025-08-19 04:15:52 TooManyRequests - Got 2703 tweets
+	Waiting until  2025-08-19 04:20:01 (4 min 8 sec)
+	2025-08-19 04:31:10 TooManyRequests - Got 3356 tweets
+	Waiting until  2025-08-19 04:35:06 (3 min 55 sec)
+	2025-08-19 04:47:28 TooManyRequests - Got 4046 tweets
+	Waiting until  2025-08-19 04:50:12 (2 min 43 sec)
+	2025-08-19 05:14:53 No more tweets found
+	2025-08-19 05:14:53 Renamed: ../data/tweets/PEPE/2025/06/PEPE_20250607.json → ../data/tweets/PEPE/2025/06/PEPE_20250607_Latest4824.json
+	2025-08-19 05:14:53 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-04 since:2025-06-03'
+SEARCH = 'Latest'
+執行時間：2025-08-19 04:07:03 ~ 2025-08-19 08:00:01 (0 day 3 hr 52 min)
+推文數量：8985 (0 WrittingError)
+推文時間：Tue Jun 03 00:00:00 +0000 2025 ~ Tue Jun 03 23:59:50 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 04:07:03 Start
+	2025-08-19 04:07:03 FileNotFoundError
+	2025-08-19 04:14:55 TooManyRequests - Got 519 tweets
+	Waiting until  2025-08-19 04:20:15 (5 min 19 sec)
+	2025-08-19 04:33:01 TooManyRequests - Got 1203 tweets
+	Waiting until  2025-08-19 04:35:22 (2 min 20 sec)
+	2025-08-19 04:49:09 TooManyRequests - Got 1865 tweets
+	Waiting until  2025-08-19 04:50:39 (1 min 29 sec)
+	2025-08-19 05:02:39 TooManyRequests - Got 2375 tweets
+	Waiting until  2025-08-19 05:05:47 (3 min 7 sec)
+	2025-08-19 05:19:47 TooManyRequests - Got 2923 tweets
+	Waiting until  2025-08-19 05:20:54 (1 min 6 sec)
+	2025-08-19 05:33:27 TooManyRequests - Got 3510 tweets
+	Waiting until  2025-08-19 05:36:00 (2 min 32 sec)
+	2025-08-19 06:33:31 TooManyRequests - Got 5525 tweets
+	Waiting until  2025-08-19 06:40:13 (6 min 41 sec)
+	2025-08-19 06:51:37 TooManyRequests - Got 6278 tweets
+	Waiting until  2025-08-19 06:55:20 (3 min 42 sec)
+	2025-08-19 07:08:39 TooManyRequests - Got 6714 tweets
+	Waiting until  2025-08-19 07:10:28 (1 min 48 sec)
+	2025-08-19 07:18:50 TooManyRequests - Got 7270 tweets
+	Waiting until  2025-08-19 07:25:35 (6 min 44 sec)
+	2025-08-19 07:52:32 TooManyRequests - Got 8507 tweets
+	Waiting until  2025-08-19 07:55:43 (3 min 10 sec)
+	2025-08-19 08:00:01 No more tweets found
+	2025-08-19 08:00:01 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-09 since:2025-06-08'
+SEARCH = 'Latest'
+執行時間：2025-08-19 05:15:00 ~ 2025-08-19 08:30:35 (0 day 3 hr 15 min)
+推文數量：7819 (0 WrittingError)
+推文時間：Sun Jun 08 00:00:00 +0000 2025 ~ Sun Jun 08 23:59:54 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 05:15:00 Start
+	2025-08-19 05:15:01 FileNotFoundError
+	2025-08-19 05:17:59 TooManyRequests - Got 96 tweets
+	Waiting until  2025-08-19 05:20:24 (2 min 24 sec)
+	2025-08-19 05:35:02 TooManyRequests - Got 960 tweets
+	Waiting until  2025-08-19 05:35:29 (0 min 26 sec)
+	2025-08-19 05:45:15 TooManyRequests - Got 1645 tweets
+	Waiting until  2025-08-19 05:50:34 (5 min 18 sec)
+	2025-08-19 06:20:20 TooManyRequests - Got 2790 tweets
+	Waiting until  2025-08-19 06:21:30 (1 min 9 sec)
+	2025-08-19 06:32:44 TooManyRequests - Got 3418 tweets
+	Waiting until  2025-08-19 06:36:37 (3 min 52 sec)
+	2025-08-19 06:49:40 TooManyRequests - Got 4144 tweets
+	Waiting until  2025-08-19 06:51:44 (2 min 3 sec)
+	2025-08-19 07:06:01 TooManyRequests - Got 4757 tweets
+	Waiting until  2025-08-19 07:06:51 (0 min 49 sec)
+	2025-08-19 07:19:34 TooManyRequests - Got 5257 tweets
+	Waiting until  2025-08-19 07:22:04 (2 min 29 sec)
+	2025-08-19 07:33:43 TooManyRequests - Got 5635 tweets
+	Waiting until  2025-08-19 07:37:10 (3 min 26 sec)
+	2025-08-19 07:51:14 TooManyRequests - Got 5983 tweets
+	Waiting until  2025-08-19 07:52:15 (1 min 0 sec)
+	2025-08-19 08:01:53 TooManyRequests - Got 6634 tweets
+	Waiting until  2025-08-19 08:07:22 (5 min 28 sec)
+	2025-08-19 08:13:38 TooManyRequests - Got 7269 tweets
+	Waiting until  2025-08-19 08:22:28 (8 min 49 sec)
+	2025-08-19 08:30:35 No more tweets found
+	2025-08-19 08:30:35 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-05 since:2025-06-04'
+SEARCH = 'Latest'
+執行時間：2025-08-19 08:00:09 ~ 2025-08-19 09:59:32 (0 day 1 hr 59 min)
+推文數量：4498 (0 WrittingError)
+推文時間：Wed Jun 04 12:14:12 +0000 2025 ~ Wed Jun 04 23:59:42 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 08:00:09 Start
+	2025-08-19 08:00:09 FileNotFoundError
+	2025-08-19 08:02:31 TooManyRequests - Got 215 tweets
+	Waiting until  2025-08-19 08:10:50 (8 min 18 sec)
+	2025-08-19 08:25:52 TooManyRequests - Got 919 tweets
+	Waiting until  2025-08-19 08:25:54 (0 min 1 sec)
+	2025-08-19 08:54:06 TooManyRequests - Got 2001 tweets
+	Waiting until  2025-08-19 08:56:52 (2 min 45 sec)
+	2025-08-19 09:05:41 TooManyRequests - Got 2590 tweets
+	Waiting until  2025-08-19 09:11:58 (6 min 16 sec)
+	2025-08-19 09:25:01 TooManyRequests - Got 3279 tweets
+	Waiting until  2025-08-19 09:27:04 (2 min 2 sec)
+	2025-08-19 09:35:26 TooManyRequests - Got 3879 tweets
+	Waiting until  2025-08-19 09:42:10 (6 min 43 sec)
+	2025-08-19 09:59:32 No more tweets found
+	2025-08-19 09:59:32 Renamed: ../data/tweets/PEPE/2025/06/PEPE_20250604.json → ../data/tweets/PEPE/2025/06/PEPE_20250604_Latest4498.json
+	2025-08-19 09:59:32 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-06 since:2025-06-05'
+SEARCH = 'Latest'
+執行時間：2025-08-19 09:59:41 ~ 2025-08-19 10:12:26 (0 day 0 hr 12 min)
+推文數量：382 (0 WrittingError)
+推文時間：Thu Jun 05 22:22:04 +0000 2025 ~ Thu Jun 05 23:59:58 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 09:59:41 Start
+	2025-08-19 09:59:42 FileNotFoundError
+	2025-08-19 10:04:09 TooManyRequests - Got 382 tweets
+	Waiting until  2025-08-19 10:12:19 (8 min 9 sec)
+	2025-08-19 10:12:26 No more tweets found
+	2025-08-19 10:12:26 Renamed: ../data/tweets/PEPE/2025/06/PEPE_20250605.json → ../data/tweets/PEPE/2025/06/PEPE_20250605_Latest382.json
+	2025-08-19 10:12:26 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-10 since:2025-06-09'
+SEARCH = 'Latest'
+執行時間：2025-08-19 08:30:44 ~ 2025-08-19 11:48:03 (0 day 3 hr 17 min)
+推文數量：8352 (0 WrittingError)
+推文時間：Mon Jun 09 00:00:00 +0000 2025 ~ Mon Jun 09 23:59:35 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 08:30:44 Start
+	2025-08-19 08:30:44 FileNotFoundError
+	2025-08-19 08:33:43 TooManyRequests - Got 143 tweets
+	Waiting until  2025-08-19 08:37:35 (3 min 51 sec)
+	2025-08-19 08:49:48 TooManyRequests - Got 858 tweets
+	Waiting until  2025-08-19 08:52:41 (2 min 52 sec)
+	2025-08-19 09:07:46 TooManyRequests - Got 1591 tweets
+	Waiting until  2025-08-19 09:07:47 (0 min 0 sec)
+	2025-08-19 09:19:03 TooManyRequests - Got 2306 tweets
+	Waiting until  2025-08-19 09:22:53 (3 min 49 sec)
+	2025-08-19 09:36:35 TooManyRequests - Got 2873 tweets
+	Waiting until  2025-08-19 09:38:00 (1 min 24 sec)
+	2025-08-19 09:48:33 TooManyRequests - Got 3567 tweets
+	Waiting until  2025-08-19 09:53:06 (4 min 32 sec)
+	2025-08-19 10:03:33 TooManyRequests - Got 4241 tweets
+	Waiting until  2025-08-19 10:08:13 (4 min 39 sec)
+	2025-08-19 10:19:27 TooManyRequests - Got 4993 tweets
+	Waiting until  2025-08-19 10:23:18 (3 min 50 sec)
+	2025-08-19 10:34:36 TooManyRequests - Got 5788 tweets
+	Waiting until  2025-08-19 10:38:23 (3 min 46 sec)
+	2025-08-19 10:52:26 TooManyRequests - Got 6259 tweets
+	Waiting until  2025-08-19 10:53:30 (1 min 3 sec)
+	2025-08-19 11:06:56 TooManyRequests - Got 6744 tweets
+	Waiting until  2025-08-19 11:08:35 (1 min 38 sec)
+	2025-08-19 11:19:37 TooManyRequests - Got 7102 tweets
+	Waiting until  2025-08-19 11:23:39 (4 min 1 sec)
+	2025-08-19 11:33:00 TooManyRequests - Got 7846 tweets
+	Waiting until  2025-08-19 11:38:44 (5 min 43 sec)
+	2025-08-19 11:48:03 No more tweets found
+	2025-08-19 11:48:03 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-11 since:2025-06-10'
+SEARCH = 'Latest'
+執行時間：2025-08-19 11:48:13 ~ 2025-08-19 14:55:43 (0 day 3 hr 7 min)
+推文數量：8289 (0 WrittingError)
+推文時間：Tue Jun 10 05:50:47 +0000 2025 ~ Tue Jun 10 23:59:55 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 11:48:13 Start
+	2025-08-19 11:48:14 FileNotFoundError
+	2025-08-19 11:50:14 TooManyRequests - Got 239 tweets
+	Waiting until  2025-08-19 11:53:48 (3 min 33 sec)
+	2025-08-19 11:59:55 TooManyRequests - Got 844 tweets
+	Waiting until  2025-08-19 12:08:53 (8 min 57 sec)
+	2025-08-19 12:19:35 TooManyRequests - Got 1502 tweets
+	Waiting until  2025-08-19 12:23:58 (4 min 22 sec)
+	2025-08-19 12:33:54 TooManyRequests - Got 2234 tweets
+	Waiting until  2025-08-19 12:39:03 (5 min 8 sec)
+	2025-08-19 12:51:29 TooManyRequests - Got 2825 tweets
+	Waiting until  2025-08-19 12:54:08 (2 min 38 sec)
+	2025-08-19 13:05:01 TooManyRequests - Got 3480 tweets
+	Waiting until  2025-08-19 13:09:12 (4 min 10 sec)
+	2025-08-19 13:22:37 TooManyRequests - Got 4254 tweets
+	Waiting until  2025-08-19 13:24:17 (1 min 39 sec)
+	2025-08-19 13:33:03 TooManyRequests - Got 4982 tweets
+	Waiting until  2025-08-19 13:39:24 (6 min 20 sec)
+	2025-08-19 13:51:17 TooManyRequests - Got 5717 tweets
+	Waiting until  2025-08-19 13:54:30 (3 min 12 sec)
+	2025-08-19 14:08:21 TooManyRequests - Got 6351 tweets
+	Waiting until  2025-08-19 14:09:38 (1 min 16 sec)
+	2025-08-19 14:20:25 TooManyRequests - Got 6982 tweets
+	Waiting until  2025-08-19 14:24:45 (4 min 19 sec)
+	2025-08-19 14:38:59 TooManyRequests - Got 7612 tweets
+	Waiting until  2025-08-19 14:39:51 (0 min 51 sec)
+	2025-08-19 14:46:52 TooManyRequests - Got 8260 tweets
+	Waiting until  2025-08-19 14:54:58 (8 min 5 sec)
+	2025-08-19 14:55:43 No more tweets found
+	2025-08-19 14:55:43 Renamed: ../data/tweets/PEPE/2025/06/PEPE_20250610.json → ../data/tweets/PEPE/2025/06/PEPE_20250610_Latest8289.json
+	2025-08-19 14:55:43 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-12 since:2025-06-11'
+SEARCH = 'Latest'
+執行時間：2025-08-19 14:55:52 ~ 2025-08-19 17:57:47 (0 day 3 hr 1 min)
+推文數量：8322 (0 WrittingError)
+推文時間：Wed Jun 11 00:00:00 +0000 2025 ~ Wed Jun 11 23:59:39 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 14:55:52 Start
+	2025-08-19 14:55:53 FileNotFoundError
+	2025-08-19 15:03:47 TooManyRequests - Got 456 tweets
+	Waiting until  2025-08-19 15:10:04 (6 min 16 sec)
+	2025-08-19 15:19:37 TooManyRequests - Got 1130 tweets
+	Waiting until  2025-08-19 15:25:08 (5 min 30 sec)
+	2025-08-19 15:36:29 TooManyRequests - Got 1829 tweets
+	Waiting until  2025-08-19 15:40:16 (3 min 46 sec)
+	2025-08-19 15:53:30 TooManyRequests - Got 2459 tweets
+	Waiting until  2025-08-19 15:55:30 (1 min 59 sec)
+	2025-08-19 16:06:40 TooManyRequests - Got 3145 tweets
+	Waiting until  2025-08-19 16:10:37 (3 min 56 sec)
+	2025-08-19 16:48:19 TooManyRequests - Got 5267 tweets
+	Waiting until  2025-08-19 16:55:52 (7 min 32 sec)
+	2025-08-19 17:04:30 TooManyRequests - Got 5986 tweets
+	Waiting until  2025-08-19 17:10:57 (6 min 26 sec)
+	2025-08-19 17:36:35 TooManyRequests - Got 7376 tweets
+	Waiting until  2025-08-19 17:41:09 (4 min 33 sec)
+	2025-08-19 17:53:32 TooManyRequests - Got 8173 tweets
+	Waiting until  2025-08-19 17:56:24 (2 min 51 sec)
+	2025-08-19 17:57:47 No more tweets found
+	2025-08-19 17:57:47 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-13 since:2025-06-12'
+SEARCH = 'Latest'
+執行時間：2025-08-19 17:57:54 ~ 2025-08-19 18:58:02 (0 day 1 hr 0 min)
+推文數量：2538 (0 WrittingError)
+推文時間：Thu Jun 12 17:36:55 +0000 2025 ~ Thu Jun 12 23:59:48 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-19 17:57:54 Start
+	2025-08-19 17:59:35 FileNotFoundError
+	2025-08-19 18:08:38 TooManyRequests - Got 609 tweets
+	Waiting until  2025-08-19 18:11:31 (2 min 52 sec)
+	2025-08-19 18:21:00 TooManyRequests - Got 1312 tweets
+	Waiting until  2025-08-19 18:26:36 (5 min 35 sec)
+	2025-08-19 18:53:55 TooManyRequests - Got 2463 tweets
+	Waiting until  2025-08-19 18:57:02 (3 min 6 sec)
+	2025-08-19 18:58:02 No more tweets found
+	2025-08-19 18:58:02 Renamed: ../data/tweets/PEPE/2025/06/PEPE_20250612.json → ../data/tweets/PEPE/2025/06/PEPE_20250612_Latest2538.json
+	2025-08-19 18:58:02 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-19 since:2025-08-18'
+SEARCH = 'Latest'
+執行時間：2025-08-20 01:02:54 ~ 2025-08-20 02:10:20 (0 day 1 hr 7 min)
+推文數量：2456 (0 WrittingError)
+推文時間：Mon Aug 18 18:13:21 +0000 2025 ~ Mon Aug 18 23:59:59 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-20 01:02:54 Start
+	2025-08-20 01:02:56 FileNotFoundError
+	2025-08-20 01:16:45 TooManyRequests - Got 609 tweets
+	Waiting until  2025-08-20 01:17:55 (1 min 9 sec)
+	2025-08-20 01:25:08 TooManyRequests - Got 1036 tweets
+	Waiting until  2025-08-20 01:33:01 (7 min 52 sec)
+	2025-08-20 01:43:31 TooManyRequests - Got 1503 tweets
+	Waiting until  2025-08-20 01:48:06 (4 min 34 sec)
+	2025-08-20 01:59:27 TooManyRequests - Got 2067 tweets
+	Waiting until  2025-08-20 02:03:11 (3 min 43 sec)
+	2025-08-20 02:10:20 No more tweets found
+	2025-08-20 02:10:20 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250818.json → ../data/tweets/DOGE/2025/08/DOGE_20250818_Latest2456.json
+	2025-08-20 02:10:20 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-20 since:2025-08-19'
+SEARCH = 'Latest'
+執行時間：2025-08-20 18:24:22 ~ 2025-08-20 19:50:23 (0 day 1 hr 26 min)
+推文數量：3158 (0 WrittingError)
+推文時間：Tue Aug 19 16:29:20 +0000 2025 ~ Tue Aug 19 23:59:54 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-20 18:24:22 Start
+	2025-08-20 18:24:23 FileNotFoundError
+	2025-08-20 18:36:56 TooManyRequests - Got 667 tweets
+	Waiting until  2025-08-20 18:39:23 (2 min 26 sec)
+	2025-08-20 18:49:49 TooManyRequests - Got 1353 tweets
+	Waiting until  2025-08-20 18:54:30 (4 min 40 sec)
+	2025-08-20 19:08:26 TooManyRequests - Got 1936 tweets
+	Waiting until  2025-08-20 19:09:37 (1 min 10 sec)
+	2025-08-20 19:19:19 TooManyRequests - Got 2320 tweets
+	Waiting until  2025-08-20 19:24:42 (5 min 22 sec)
+	2025-08-20 19:31:25 TooManyRequests - Got 2853 tweets
+	Waiting until  2025-08-20 19:39:48 (8 min 22 sec)
+	2025-08-20 19:50:23 No more tweets found
+	2025-08-20 19:50:23 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250819.json → ../data/tweets/DOGE/2025/08/DOGE_20250819_Latest3158.json
+	2025-08-20 19:50:23 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-06 since:2025-06-05'
+SEARCH = 'Latest'
+執行時間：2025-08-20 20:32:02 ~ 2025-08-20 20:32:19 (0 day 0 hr 0 min)
+推文數量：31 (0 WrittingError)
+推文時間：Thu Jun 05 23:52:20 +0000 2025 ~ Thu Jun 05 23:59:58 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-20 20:32:02 Start
+	2025-08-20 20:32:03 FileNotFoundError
+	2025-08-20 20:32:19 No more tweets found
+	2025-08-20 20:32:19 Renamed: ../data/tweets/PEPE/2025/06/PEPE_20250605.json → ../data/tweets/PEPE/2025/06/PEPE_20250605_Latest31.json
+	2025-08-20 20:32:19 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-01 since:2025-05-31'
+SEARCH = 'Latest'
+執行時間：2025-08-20 20:33:18 ~ 2025-08-20 20:35:35 (0 day 0 hr 2 min)
+推文數量：240 (0 WrittingError)
+推文時間：Sat May 31 22:52:41 +0000 2025 ~ Sat May 31 23:59:54 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-20 20:33:18 Start
+	2025-08-20 20:33:19 FileNotFoundError
+	2025-08-20 20:35:35 No more tweets found
+	2025-08-20 20:35:35 Renamed: ../data/tweets/PEPE/2025/05/PEPE_20250531.json → ../data/tweets/PEPE/2025/05/PEPE_20250531_Latest240.json
+	2025-08-20 20:35:35 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-06-01 since:2025-05-31'
+SEARCH = 'Latest'
+執行時間：2025-08-20 20:36:48 ~ 2025-08-20 20:39:59 (0 day 0 hr 3 min)
+推文數量：26 (0 WrittingError)
+推文時間：Sat May 31 23:52:23 +0000 2025 ~ Sat May 31 23:59:54 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-20 20:36:48 Start
+	2025-08-20 20:39:45 FileNotFoundError
+	2025-08-20 20:39:59 No more tweets found
+	2025-08-20 20:39:59 Renamed: ../data/tweets/PEPE/2025/05/PEPE_20250531.json → ../data/tweets/PEPE/2025/05/PEPE_20250531_Latest26.json
+	2025-08-20 20:39:59 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-02 since:2024-12-01'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:18:31 ~ 2025-08-20 22:21:06 (0 day 0 hr 2 min)
+推文數量：312 (0 WrittingError)
+推文時間：Sun Dec 01 23:11:32 +0000 2024 ~ Sun Dec 01 23:59:55 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:18:31 Start
+	2025-08-20 22:18:33 FileNotFoundError
+	2025-08-20 22:21:06 No more tweets found
+	2025-08-20 22:21:06 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241201.json → ../data/tweets/PEPE/2024/12/PEPE_20241201_Latest312.json
+	2025-08-20 22:21:06 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-03 since:2024-12-02'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:21:14 ~ 2025-08-20 22:21:20 (0 day 0 hr 0 min)
+推文數量：13 (0 WrittingError)
+推文時間：Mon Dec 02 23:57:50 +0000 2024 ~ Mon Dec 02 23:59:53 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:21:14 Start
+	2025-08-20 22:21:15 FileNotFoundError
+	2025-08-20 22:21:20 No more tweets found
+	2025-08-20 22:21:20 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241202.json → ../data/tweets/PEPE/2024/12/PEPE_20241202_Latest13.json
+	2025-08-20 22:21:20 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-05 since:2024-12-04'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:21:35 ~ 2025-08-20 22:22:02 (0 day 0 hr 0 min)
+推文數量：44 (0 WrittingError)
+推文時間：Wed Dec 04 23:52:13 +0000 2024 ~ Wed Dec 04 23:59:34 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:21:35 Start
+	2025-08-20 22:21:36 FileNotFoundError
+	2025-08-20 22:22:02 No more tweets found
+	2025-08-20 22:22:02 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241204.json → ../data/tweets/PEPE/2024/12/PEPE_20241204_Latest44.json
+	2025-08-20 22:22:02 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-07 since:2024-12-06'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:22:17 ~ 2025-08-20 22:22:23 (0 day 0 hr 0 min)
+推文數量：7 (0 WrittingError)
+推文時間：Fri Dec 06 23:59:19 +0000 2024 ~ Fri Dec 06 23:59:53 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:22:17 Start
+	2025-08-20 22:22:18 FileNotFoundError
+	2025-08-20 22:22:23 No more tweets found
+	2025-08-20 22:22:23 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241206.json → ../data/tweets/PEPE/2024/12/PEPE_20241206_Latest7.json
+	2025-08-20 22:22:23 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-08 since:2024-12-07'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:22:28 ~ 2025-08-20 22:26:44 (0 day 0 hr 4 min)
+推文數量：113 (0 WrittingError)
+推文時間：Sat Dec 07 23:51:00 +0000 2024 ~ Sat Dec 07 23:59:57 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:22:28 Start
+	2025-08-20 22:22:29 FileNotFoundError
+	2025-08-20 22:26:44 No more tweets found
+	2025-08-20 22:26:44 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241207.json → ../data/tweets/PEPE/2024/12/PEPE_20241207_Latest113.json
+	2025-08-20 22:26:44 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-09 since:2024-12-08'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:26:54 ~ 2025-08-20 22:27:35 (0 day 0 hr 0 min)
+推文數量：60 (0 WrittingError)
+推文時間：Sun Dec 08 23:53:18 +0000 2024 ~ Sun Dec 08 23:59:45 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:26:54 Start
+	2025-08-20 22:26:55 FileNotFoundError
+	2025-08-20 22:27:35 No more tweets found
+	2025-08-20 22:27:35 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241208.json → ../data/tweets/PEPE/2024/12/PEPE_20241208_Latest60.json
+	2025-08-20 22:27:35 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-10 since:2024-12-09'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:27:40 ~ 2025-08-20 22:33:42 (0 day 0 hr 6 min)
+推文數量：17 (0 WrittingError)
+推文時間：Mon Dec 09 23:58:00 +0000 2024 ~ Mon Dec 09 23:59:57 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:27:40 Start
+	2025-08-20 22:27:40 FileNotFoundError
+	2025-08-20 22:28:05 TooManyRequests - Got 17 tweets
+	Waiting until  2025-08-20 22:33:38 (5 min 32 sec)
+	2025-08-20 22:33:42 No more tweets found
+	2025-08-20 22:33:42 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241209.json → ../data/tweets/PEPE/2024/12/PEPE_20241209_Latest17.json
+	2025-08-20 22:33:42 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-11 since:2024-12-10'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:33:52 ~ 2025-08-20 22:37:10 (0 day 0 hr 3 min)
+推文數量：28 (0 WrittingError)
+推文時間：Tue Dec 10 23:57:20 +0000 2024 ~ Tue Dec 10 23:59:57 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:33:52 Start
+	2025-08-20 22:33:53 FileNotFoundError
+	2025-08-20 22:37:10 No more tweets found
+	2025-08-20 22:37:10 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241210.json → ../data/tweets/PEPE/2024/12/PEPE_20241210_Latest28.json
+	2025-08-20 22:37:10 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-12 since:2024-12-11'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:37:20 ~ 2025-08-20 22:37:28 (0 day 0 hr 0 min)
+推文數量：6 (0 WrittingError)
+推文時間：Wed Dec 11 23:59:24 +0000 2024 ~ Wed Dec 11 23:59:58 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:37:20 Start
+	2025-08-20 22:37:21 FileNotFoundError
+	2025-08-20 22:37:28 No more tweets found
+	2025-08-20 22:37:28 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241211.json → ../data/tweets/PEPE/2024/12/PEPE_20241211_Latest6.json
+	2025-08-20 22:37:28 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-13 since:2024-12-12'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:37:36 ~ 2025-08-20 22:38:15 (0 day 0 hr 0 min)
+推文數量：32 (0 WrittingError)
+推文時間：Thu Dec 12 23:54:50 +0000 2024 ~ Thu Dec 12 23:59:49 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:37:36 Start
+	2025-08-20 22:37:37 FileNotFoundError
+	2025-08-20 22:38:15 No more tweets found
+	2025-08-20 22:38:15 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241212.json → ../data/tweets/PEPE/2024/12/PEPE_20241212_Latest32.json
+	2025-08-20 22:38:15 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-14 since:2024-12-13'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:38:21 ~ 2025-08-20 22:38:29 (0 day 0 hr 0 min)
+推文數量：11 (0 WrittingError)
+推文時間：Fri Dec 13 23:58:21 +0000 2024 ~ Fri Dec 13 23:59:45 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:38:21 Start
+	2025-08-20 22:38:22 FileNotFoundError
+	2025-08-20 22:38:29 No more tweets found
+	2025-08-20 22:38:29 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241213.json → ../data/tweets/PEPE/2024/12/PEPE_20241213_Latest11.json
+	2025-08-20 22:38:29 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-15 since:2024-12-14'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:38:38 ~ 2025-08-20 22:39:16 (0 day 0 hr 0 min)
+推文數量：33 (0 WrittingError)
+推文時間：Sat Dec 14 23:55:27 +0000 2024 ~ Sat Dec 14 23:59:59 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:38:38 Start
+	2025-08-20 22:38:39 FileNotFoundError
+	2025-08-20 22:39:16 No more tweets found
+	2025-08-20 22:39:16 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241214.json → ../data/tweets/PEPE/2024/12/PEPE_20241214_Latest33.json
+	2025-08-20 22:39:16 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-16 since:2024-12-15'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:39:22 ~ 2025-08-20 22:55:04 (0 day 0 hr 15 min)
+推文數量：783 (0 WrittingError)
+推文時間：Sun Dec 15 22:17:58 +0000 2024 ~ Sun Dec 15 23:59:52 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:39:22 Start
+	2025-08-20 22:39:24 FileNotFoundError
+	2025-08-20 22:46:52 TooManyRequests - Got 392 tweets
+	Waiting until  2025-08-20 22:48:42 (1 min 49 sec)
+	2025-08-20 22:55:04 No more tweets found
+	2025-08-20 22:55:04 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241215.json → ../data/tweets/PEPE/2024/12/PEPE_20241215_Latest783.json
+	2025-08-20 22:55:04 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-17 since:2024-12-16'
+SEARCH = 'Latest'
+執行時間：2025-08-20 22:55:10 ~ 2025-08-20 23:05:01 (0 day 0 hr 9 min)
+推文數量：234 (0 WrittingError)
+推文時間：Mon Dec 16 23:18:32 +0000 2024 ~ Mon Dec 16 23:59:46 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 22:55:10 Start
+	2025-08-20 22:55:11 FileNotFoundError
+	2025-08-20 22:58:20 TooManyRequests - Got 152 tweets
+	Waiting until  2025-08-20 23:03:47 (5 min 26 sec)
+	2025-08-20 23:05:01 No more tweets found
+	2025-08-20 23:05:01 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241216.json → ../data/tweets/PEPE/2024/12/PEPE_20241216_Latest234.json
+	2025-08-20 23:05:01 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-18 since:2024-12-17'
+SEARCH = 'Latest'
+執行時間：2025-08-20 23:05:06 ~ 2025-08-20 23:05:16 (0 day 0 hr 0 min)
+推文數量：13 (0 WrittingError)
+推文時間：Tue Dec 17 23:58:00 +0000 2024 ~ Tue Dec 17 23:59:59 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 23:05:06 Start
+	2025-08-20 23:05:07 FileNotFoundError
+	2025-08-20 23:05:16 No more tweets found
+	2025-08-20 23:05:16 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241217.json → ../data/tweets/PEPE/2024/12/PEPE_20241217_Latest13.json
+	2025-08-20 23:05:16 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-19 since:2024-12-18'
+SEARCH = 'Latest'
+執行時間：2025-08-20 23:05:21 ~ 2025-08-20 23:05:45 (0 day 0 hr 0 min)
+推文數量：23 (0 WrittingError)
+推文時間：Wed Dec 18 23:56:25 +0000 2024 ~ Wed Dec 18 23:59:41 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 23:05:21 Start
+	2025-08-20 23:05:22 FileNotFoundError
+	2025-08-20 23:05:45 No more tweets found
+	2025-08-20 23:05:45 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241218.json → ../data/tweets/PEPE/2024/12/PEPE_20241218_Latest23.json
+	2025-08-20 23:05:45 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-20 since:2024-12-19'
+SEARCH = 'Latest'
+執行時間：2025-08-20 23:05:53 ~ 2025-08-20 23:10:18 (0 day 0 hr 4 min)
+推文數量：240 (0 WrittingError)
+推文時間：Thu Dec 19 23:16:52 +0000 2024 ~ Thu Dec 19 23:59:22 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 23:05:53 Start
+	2025-08-20 23:07:18 FileNotFoundError
+	2025-08-20 23:10:18 No more tweets found
+	2025-08-20 23:10:18 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241219.json → ../data/tweets/PEPE/2024/12/PEPE_20241219_Latest240.json
+	2025-08-20 23:10:18 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-21 since:2024-12-20'
+SEARCH = 'Latest'
+執行時間：2025-08-20 23:10:28 ~ 2025-08-20 23:24:44 (0 day 0 hr 14 min)
+推文數量：447 (0 WrittingError)
+推文時間：Fri Dec 20 22:45:09 +0000 2024 ~ Fri Dec 20 23:59:22 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 23:10:28 Start
+	2025-08-20 23:10:29 FileNotFoundError
+	2025-08-20 23:11:54 TooManyRequests - Got 143 tweets
+	Waiting until  2025-08-20 23:18:52 (6 min 57 sec)
+	2025-08-20 23:24:44 No more tweets found
+	2025-08-20 23:24:44 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241220.json → ../data/tweets/PEPE/2024/12/PEPE_20241220_Latest447.json
+	2025-08-20 23:24:44 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-22 since:2024-12-21'
+SEARCH = 'Latest'
+執行時間：2025-08-20 23:24:54 ~ 2025-08-20 23:25:22 (0 day 0 hr 0 min)
+推文數量：43 (0 WrittingError)
+推文時間：Sat Dec 21 23:47:13 +0000 2024 ~ Sat Dec 21 23:59:50 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 23:24:54 Start
+	2025-08-20 23:24:55 FileNotFoundError
+	2025-08-20 23:25:22 No more tweets found
+	2025-08-20 23:25:22 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241221.json → ../data/tweets/PEPE/2024/12/PEPE_20241221_Latest43.json
+	2025-08-20 23:25:22 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-23 since:2024-12-22'
+SEARCH = 'Latest'
+執行時間：2025-08-20 23:25:32 ~ 2025-08-20 23:38:11 (0 day 0 hr 12 min)
+推文數量：407 (0 WrittingError)
+推文時間：Sun Dec 22 22:43:47 +0000 2024 ~ Sun Dec 22 23:59:57 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 23:25:32 Start
+	2025-08-20 23:25:33 FileNotFoundError
+	2025-08-20 23:27:51 TooManyRequests - Got 236 tweets
+	Waiting until  2025-08-20 23:34:00 (6 min 8 sec)
+	2025-08-20 23:38:11 No more tweets found
+	2025-08-20 23:38:11 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241222.json → ../data/tweets/PEPE/2024/12/PEPE_20241222_Latest407.json
+	2025-08-20 23:38:11 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-24 since:2024-12-23'
+SEARCH = 'Latest'
+執行時間：2025-08-20 23:38:18 ~ 2025-08-21 00:00:04 (0 day 0 hr 21 min)
+推文數量：620 (0 WrittingError)
+推文時間：Mon Dec 23 21:57:26 +0000 2024 ~ Mon Dec 23 23:59:53 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-20 23:38:18 Start
+	2025-08-20 23:38:19 FileNotFoundError
+	2025-08-21 00:00:04 No more tweets found
+	2025-08-21 00:00:04 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241223.json → ../data/tweets/PEPE/2024/12/PEPE_20241223_Latest620.json
+	2025-08-21 00:00:04 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-25 since:2024-12-24'
+SEARCH = 'Latest'
+執行時間：2025-08-21 00:00:12 ~ 2025-08-21 03:45:19 (0 day 3 hr 45 min)
+推文數量：8103 (0 WrittingError)
+推文時間：Tue Dec 24 00:00:00 +0000 2024 ~ Tue Dec 24 23:59:58 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-21 00:00:12 Start
+	2025-08-21 00:00:13 FileNotFoundError
+	2025-08-21 00:03:17 TooManyRequests - Got 127 tweets
+	Waiting until  2025-08-21 00:05:34 (2 min 16 sec)
+	2025-08-21 00:30:39 TooManyRequests - Got 961 tweets
+	Waiting until  2025-08-21 00:36:13 (5 min 33 sec)
+	2025-08-21 00:47:36 TooManyRequests - Got 1557 tweets
+	Waiting until  2025-08-21 00:51:18 (3 min 41 sec)
+	2025-08-21 01:06:00 TooManyRequests - Got 2248 tweets
+	Waiting until  2025-08-21 01:06:31 (0 min 30 sec)
+	2025-08-21 01:15:33 TooManyRequests - Got 2860 tweets
+	Waiting until  2025-08-21 01:21:47 (6 min 13 sec)
+	2025-08-21 01:30:44 TooManyRequests - Got 3441 tweets
+	Waiting until  2025-08-21 01:36:54 (6 min 9 sec)
+	2025-08-21 01:50:30 TooManyRequests - Got 4071 tweets
+	Waiting until  2025-08-21 01:51:59 (1 min 28 sec)
+	2025-08-21 02:04:18 TooManyRequests - Got 4654 tweets
+	Waiting until  2025-08-21 02:07:04 (2 min 45 sec)
+	2025-08-21 02:16:05 TooManyRequests - Got 5266 tweets
+	Waiting until  2025-08-21 02:22:09 (6 min 3 sec)
+	2025-08-21 02:35:03 TooManyRequests - Got 5756 tweets
+	Waiting until  2025-08-21 02:37:13 (2 min 9 sec)
+	2025-08-21 02:44:40 TooManyRequests - Got 6237 tweets
+	Waiting until  2025-08-21 02:52:25 (7 min 44 sec)
+	2025-08-21 03:01:58 TooManyRequests - Got 6805 tweets
+	Waiting until  2025-08-21 03:07:38 (5 min 39 sec)
+	2025-08-21 03:22:17 TooManyRequests - Got 7289 tweets
+	Waiting until  2025-08-21 03:22:44 (0 min 26 sec)
+	2025-08-21 03:45:19 No more tweets found
+	2025-08-21 03:45:19 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-26 since:2024-12-25'
+SEARCH = 'Latest'
+執行時間：2025-08-21 03:45:27 ~ 2025-08-21 07:01:18 (0 day 3 hr 15 min)
+推文數量：7092 (0 WrittingError)
+推文時間：Wed Dec 25 00:00:00 +0000 2024 ~ Wed Dec 25 23:58:16 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-21 03:45:27 Start
+	2025-08-21 03:45:27 FileNotFoundError
+	2025-08-21 04:08:04 TooManyRequests - Got 824 tweets
+	Waiting until  2025-08-21 04:09:47 (1 min 42 sec)
+	2025-08-21 04:21:58 TooManyRequests - Got 1487 tweets
+	Waiting until  2025-08-21 04:24:54 (2 min 55 sec)
+	2025-08-21 04:54:06 TooManyRequests - Got 2471 tweets
+	Waiting until  2025-08-21 04:55:07 (1 min 0 sec)
+	2025-08-21 05:06:54 TooManyRequests - Got 3141 tweets
+	Waiting until  2025-08-21 05:10:14 (3 min 19 sec)
+	2025-08-21 05:19:19 TooManyRequests - Got 3746 tweets
+	Waiting until  2025-08-21 05:25:20 (6 min 0 sec)
+	2025-08-21 05:37:59 TooManyRequests - Got 4288 tweets
+	Waiting until  2025-08-21 05:40:26 (2 min 26 sec)
+	2025-08-21 06:21:21 TooManyRequests - Got 5607 tweets
+	Waiting until  2025-08-21 06:26:43 (5 min 21 sec)
+	2025-08-21 06:37:05 TooManyRequests - Got 6107 tweets
+	Waiting until  2025-08-21 06:41:50 (4 min 44 sec)
+	2025-08-21 07:01:18 No more tweets found
+	2025-08-21 07:01:18 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-27 since:2024-12-26'
+SEARCH = 'Latest'
+執行時間：2025-08-21 07:01:23 ~ 2025-08-21 09:16:45 (0 day 2 hr 15 min)
+推文數量：4804 (0 WrittingError)
+推文時間：Thu Dec 26 09:43:27 +0000 2024 ~ Thu Dec 26 23:59:49 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-21 07:01:23 Start
+	2025-08-21 07:01:24 FileNotFoundError
+	2025-08-21 07:05:50 TooManyRequests - Got 210 tweets
+	Waiting until  2025-08-21 07:12:00 (6 min 9 sec)
+	2025-08-21 07:24:44 TooManyRequests - Got 760 tweets
+	Waiting until  2025-08-21 07:27:06 (2 min 21 sec)
+	2025-08-21 07:38:27 TooManyRequests - Got 1343 tweets
+	Waiting until  2025-08-21 07:42:11 (3 min 43 sec)
+	2025-08-21 08:07:18 TooManyRequests - Got 2387 tweets
+	Waiting until  2025-08-21 08:12:20 (5 min 1 sec)
+	2025-08-21 08:21:04 TooManyRequests - Got 3004 tweets
+	Waiting until  2025-08-21 08:27:26 (6 min 21 sec)
+	2025-08-21 08:39:14 TooManyRequests - Got 3600 tweets
+	Waiting until  2025-08-21 08:42:32 (3 min 17 sec)
+	2025-08-21 09:11:02 TooManyRequests - Got 4709 tweets
+	Waiting until  2025-08-21 09:14:50 (3 min 47 sec)
+	2025-08-21 09:16:45 No more tweets found
+	2025-08-21 09:16:45 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241226.json → ../data/tweets/PEPE/2024/12/PEPE_20241226_Latest4804.json
+	2025-08-21 09:16:45 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-28 since:2024-12-27'
+SEARCH = 'Latest'
+執行時間：2025-08-21 09:16:55 ~ 2025-08-21 12:49:44 (0 day 3 hr 32 min)
+推文數量：7345 (0 WrittingError)
+推文時間：Fri Dec 27 00:00:01 +0000 2024 ~ Fri Dec 27 23:59:39 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-21 09:16:55 Start
+	2025-08-21 09:16:56 FileNotFoundError
+	2025-08-21 09:26:11 TooManyRequests - Got 425 tweets
+	Waiting until  2025-08-21 09:29:58 (3 min 46 sec)
+	2025-08-21 09:41:38 TooManyRequests - Got 794 tweets
+	Waiting until  2025-08-21 09:45:03 (3 min 24 sec)
+	2025-08-21 09:59:34 TooManyRequests - Got 1209 tweets
+	Waiting until  2025-08-21 10:00:10 (0 min 35 sec)
+	2025-08-21 10:11:34 TooManyRequests - Got 1782 tweets
+	Waiting until  2025-08-21 10:15:15 (3 min 40 sec)
+	2025-08-21 10:40:34 TooManyRequests - Got 2789 tweets
+	Waiting until  2025-08-21 10:45:54 (5 min 19 sec)
+	2025-08-21 10:54:20 TooManyRequests - Got 3384 tweets
+	Waiting until  2025-08-21 11:01:01 (6 min 40 sec)
+	2025-08-21 11:10:12 TooManyRequests - Got 3943 tweets
+	Waiting until  2025-08-21 11:16:09 (5 min 56 sec)
+	2025-08-21 11:28:07 TooManyRequests - Got 4393 tweets
+	Waiting until  2025-08-21 11:31:15 (3 min 7 sec)
+	2025-08-21 11:41:58 TooManyRequests - Got 4947 tweets
+	Waiting until  2025-08-21 11:46:23 (4 min 24 sec)
+	2025-08-21 12:10:22 TooManyRequests - Got 6064 tweets
+	Waiting until  2025-08-21 12:16:36 (6 min 13 sec)
+	2025-08-21 12:26:07 TooManyRequests - Got 6644 tweets
+	Waiting until  2025-08-21 12:31:43 (5 min 35 sec)
+	2025-08-21 12:43:09 TooManyRequests - Got 7253 tweets
+	Waiting until  2025-08-21 12:46:49 (3 min 39 sec)
+	2025-08-21 12:49:44 No more tweets found
+	2025-08-21 12:49:44 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-29 since:2024-12-28'
+SEARCH = 'Latest'
+執行時間：2025-08-21 12:49:54 ~ 2025-08-21 13:24:22 (0 day 0 hr 34 min)
+推文數量：958 (0 WrittingError)
+推文時間：Sat Dec 28 20:38:56 +0000 2024 ~ Sat Dec 28 23:59:24 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-21 12:49:54 Start
+	2025-08-21 12:49:55 FileNotFoundError
+	2025-08-21 13:24:22 No more tweets found
+	2025-08-21 13:24:22 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241228.json → ../data/tweets/PEPE/2024/12/PEPE_20241228_Latest958.json
+	2025-08-21 13:24:22 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-30 since:2024-12-29'
+SEARCH = 'Latest'
+執行時間：2025-08-21 13:24:30 ~ 2025-08-21 14:28:09 (0 day 1 hr 3 min)
+推文數量：2665 (0 WrittingError)
+推文時間：Sun Dec 29 16:16:09 +0000 2024 ~ Sun Dec 29 23:59:00 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-21 13:24:30 Start
+	2025-08-21 13:24:31 FileNotFoundError
+	2025-08-21 13:33:07 TooManyRequests - Got 464 tweets
+	Waiting until  2025-08-21 13:34:35 (1 min 27 sec)
+	2025-08-21 13:45:41 TooManyRequests - Got 1120 tweets
+	Waiting until  2025-08-21 13:49:40 (3 min 58 sec)
+	2025-08-21 14:01:35 TooManyRequests - Got 1817 tweets
+	Waiting until  2025-08-21 14:04:44 (3 min 8 sec)
+	2025-08-21 14:15:35 TooManyRequests - Got 2436 tweets
+	Waiting until  2025-08-21 14:19:50 (4 min 14 sec)
+	2025-08-21 14:28:09 No more tweets found
+	2025-08-21 14:28:09 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241229.json → ../data/tweets/PEPE/2024/12/PEPE_20241229_Latest2665.json
+	2025-08-21 14:28:09 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-31 since:2024-12-30'
+SEARCH = 'Latest'
+執行時間：2025-08-21 14:28:17 ~ 2025-08-21 17:42:45 (0 day 3 hr 14 min)
+推文數量：7594 (0 WrittingError)
+推文時間：Mon Dec 30 00:00:12 +0000 2024 ~ Mon Dec 30 23:59:44 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-21 14:28:17 Start
+	2025-08-21 14:29:41 FileNotFoundError
+	2025-08-21 14:33:21 TooManyRequests - Got 373 tweets
+	Waiting until  2025-08-21 14:34:54 (1 min 32 sec)
+	2025-08-21 14:47:01 TooManyRequests - Got 1107 tweets
+	Waiting until  2025-08-21 14:49:58 (2 min 56 sec)
+	2025-08-21 14:58:54 TooManyRequests - Got 1765 tweets
+	Waiting until  2025-08-21 15:05:03 (6 min 8 sec)
+	2025-08-21 15:32:10 TooManyRequests - Got 3039 tweets
+	Waiting until  2025-08-21 15:32:31 (0 min 20 sec)
+	2025-08-21 15:44:12 TooManyRequests - Got 3839 tweets
+	Waiting until  2025-08-21 15:47:47 (3 min 34 sec)
+	2025-08-21 15:59:17 TooManyRequests - Got 4452 tweets
+	Waiting until  2025-08-21 16:02:53 (3 min 35 sec)
+	2025-08-21 16:29:54 TooManyRequests - Got 5286 tweets
+	Waiting until  2025-08-21 16:33:28 (3 min 33 sec)
+	2025-08-21 17:02:34 TooManyRequests - Got 6216 tweets
+	Waiting until  2025-08-21 17:04:31 (1 min 56 sec)
+	2025-08-21 17:14:48 TooManyRequests - Got 6760 tweets
+	Waiting until  2025-08-21 17:19:46 (4 min 57 sec)
+	2025-08-21 17:42:45 No more tweets found
+	2025-08-21 17:42:45 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-01-01 since:2024-12-31'
+SEARCH = 'Latest'
+執行時間：2025-08-21 17:42:54 ~ 2025-08-21 20:14:06 (0 day 2 hr 31 min)
+推文數量：7668 (0 WrittingError)
+推文時間：Tue Dec 31 13:39:00 +0000 2024 ~ Tue Dec 31 23:59:52 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-21 17:42:54 Start
+	2025-08-21 17:42:55 FileNotFoundError
+	2025-08-21 18:06:14 TooManyRequests - Got 1395 tweets
+	Waiting until  2025-08-21 18:07:49 (1 min 34 sec)
+	2025-08-21 18:16:58 TooManyRequests - Got 2119 tweets
+	Waiting until  2025-08-21 18:22:56 (5 min 57 sec)
+	2025-08-21 18:36:20 TooManyRequests - Got 2864 tweets
+	Waiting until  2025-08-21 18:38:01 (1 min 40 sec)
+	2025-08-21 18:48:00 TooManyRequests - Got 3583 tweets
+	Waiting until  2025-08-21 18:53:06 (5 min 5 sec)
+	2025-08-21 19:03:03 TooManyRequests - Got 4379 tweets
+	Waiting until  2025-08-21 19:08:13 (5 min 9 sec)
+	2025-08-21 19:20:07 TooManyRequests - Got 5219 tweets
+	Waiting until  2025-08-21 19:23:19 (3 min 11 sec)
+	2025-08-21 19:54:28 TooManyRequests - Got 6745 tweets
+	Waiting until  2025-08-21 19:56:00 (1 min 31 sec)
+	2025-08-21 20:08:18 TooManyRequests - Got 7516 tweets
+	Waiting until  2025-08-21 20:11:05 (2 min 46 sec)
+	2025-08-21 20:14:06 No more tweets found
+	2025-08-21 20:14:06 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241231.json → ../data/tweets/PEPE/2024/12/PEPE_20241231_Latest7668.json
+	2025-08-21 20:14:06 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-20 since:2024-12-19'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:39:52 ~ 2025-08-24 21:41:07 (0 day 0 hr 1 min)
+推文數量：108 (0 WrittingError)
+推文時間：Thu Dec 19 23:38:41 +0000 2024 ~ Thu Dec 19 23:59:22 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:39:52 Start
+	2025-08-24 21:40:02 FileNotFoundError
+	2025-08-24 21:41:07 No more tweets found
+	2025-08-24 21:41:07 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241219.json → ../data/tweets/PEPE/2024/12/PEPE_20241219_Latest108.json
+	2025-08-24 21:41:07 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-02 since:2024-12-01'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:42:54 ~ 2025-08-24 21:44:10 (0 day 0 hr 1 min)
+推文數量：154 (0 WrittingError)
+推文時間：Sun Dec 01 23:36:12 +0000 2024 ~ Sun Dec 01 23:59:55 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:42:54 Start
+	2025-08-24 21:42:55 FileNotFoundError
+	2025-08-24 21:44:10 No more tweets found
+	2025-08-24 21:44:10 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241201.json → ../data/tweets/PEPE/2024/12/PEPE_20241201_Latest154.json
+	2025-08-24 21:44:10 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-03 since:2024-12-02'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:44:15 ~ 2025-08-24 21:44:39 (0 day 0 hr 0 min)
+推文數量：38 (0 WrittingError)
+推文時間：Mon Dec 02 23:53:37 +0000 2024 ~ Mon Dec 02 23:59:53 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:44:15 Start
+	2025-08-24 21:44:16 FileNotFoundError
+	2025-08-24 21:44:39 No more tweets found
+	2025-08-24 21:44:39 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241202.json → ../data/tweets/PEPE/2024/12/PEPE_20241202_Latest38.json
+	2025-08-24 21:44:39 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-04 since:2024-12-03'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:44:49 ~ 2025-08-24 21:45:56 (0 day 0 hr 1 min)
+推文數量：123 (0 WrittingError)
+推文時間：Tue Dec 03 23:43:46 +0000 2024 ~ Tue Dec 03 23:59:59 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:44:49 Start
+	2025-08-24 21:44:50 FileNotFoundError
+	2025-08-24 21:45:56 No more tweets found
+	2025-08-24 21:45:56 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241203.json → ../data/tweets/PEPE/2024/12/PEPE_20241203_Latest123.json
+	2025-08-24 21:45:56 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-21 since:2025-08-20'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:10:09 ~ 2025-08-24 21:47:31 (0 day 0 hr 37 min)
+推文數量：1279 (0 WrittingError)
+推文時間：Wed Aug 20 19:18:32 +0000 2025 ~ Wed Aug 20 23:59:57 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-24 21:10:09 Start
+	2025-08-24 21:10:11 FileNotFoundError
+	2025-08-24 21:21:09 TooManyRequests - Got 487 tweets
+	Waiting until  2025-08-24 21:25:10 (4 min 0 sec)
+	2025-08-24 21:34:30 TooManyRequests - Got 1042 tweets
+	Waiting until  2025-08-24 21:40:17 (5 min 46 sec)
+	2025-08-24 21:47:31 No more tweets found
+	2025-08-24 21:47:31 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250820.json → ../data/tweets/DOGE/2025/08/DOGE_20250820_Latest1279.json
+	2025-08-24 21:47:31 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-06 since:2024-12-05'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:46:12 ~ 2025-08-24 21:49:36 (0 day 0 hr 3 min)
+推文數量：186 (0 WrittingError)
+推文時間：Thu Dec 05 23:30:46 +0000 2024 ~ Thu Dec 05 23:59:55 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:46:12 Start
+	2025-08-24 21:46:14 FileNotFoundError
+	2025-08-24 21:48:51 httpx.ReadTimeout
+	2025-08-24 21:49:36 No more tweets found
+	2025-08-24 21:49:36 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241205.json → ../data/tweets/PEPE/2024/12/PEPE_20241205_Latest186.json
+	2025-08-24 21:49:36 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-07 since:2024-12-06'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:49:45 ~ 2025-08-24 21:56:05 (0 day 0 hr 6 min)
+推文數量：57 (0 WrittingError)
+推文時間：Fri Dec 06 23:50:16 +0000 2024 ~ Fri Dec 06 23:59:53 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:49:45 Start
+	2025-08-24 21:49:46 FileNotFoundError
+	2025-08-24 21:49:50 TooManyRequests - Got 7 tweets
+	Waiting until  2025-08-24 21:55:01 (5 min 10 sec)
+	2025-08-24 21:55:50 httpx.ReadTimeout
+	2025-08-24 21:56:05 No more tweets found
+	2025-08-24 21:56:05 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241206.json → ../data/tweets/PEPE/2024/12/PEPE_20241206_Latest57.json
+	2025-08-24 21:56:05 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-08 since:2024-12-07'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:56:12 ~ 2025-08-24 21:56:35 (0 day 0 hr 0 min)
+推文數量：37 (0 WrittingError)
+推文時間：Sat Dec 07 23:57:12 +0000 2024 ~ Sat Dec 07 23:59:55 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:56:12 Start
+	2025-08-24 21:56:13 FileNotFoundError
+	2025-08-24 21:56:35 No more tweets found
+	2025-08-24 21:56:35 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241207.json → ../data/tweets/PEPE/2024/12/PEPE_20241207_Latest37.json
+	2025-08-24 21:56:35 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-09 since:2024-12-08'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:56:41 ~ 2025-08-24 21:57:26 (0 day 0 hr 0 min)
+推文數量：71 (0 WrittingError)
+推文時間：Sun Dec 08 23:52:13 +0000 2024 ~ Sun Dec 08 23:59:45 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:56:41 Start
+	2025-08-24 21:56:42 FileNotFoundError
+	2025-08-24 21:57:26 No more tweets found
+	2025-08-24 21:57:26 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241208.json → ../data/tweets/PEPE/2024/12/PEPE_20241208_Latest71.json
+	2025-08-24 21:57:26 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-10 since:2024-12-09'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:57:31 ~ 2025-08-24 21:57:49 (0 day 0 hr 0 min)
+推文數量：9 (0 WrittingError)
+推文時間：Mon Dec 09 23:59:16 +0000 2024 ~ Mon Dec 09 23:59:57 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:57:31 Start
+	2025-08-24 21:57:32 FileNotFoundError
+	2025-08-24 21:57:49 No more tweets found
+	2025-08-24 21:57:49 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241209.json → ../data/tweets/PEPE/2024/12/PEPE_20241209_Latest9.json
+	2025-08-24 21:57:49 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-11 since:2024-12-10'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:57:54 ~ 2025-08-24 21:58:16 (0 day 0 hr 0 min)
+推文數量：13 (0 WrittingError)
+推文時間：Tue Dec 10 23:58:21 +0000 2024 ~ Tue Dec 10 23:59:57 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:57:54 Start
+	2025-08-24 21:57:55 FileNotFoundError
+	2025-08-24 21:58:16 No more tweets found
+	2025-08-24 21:58:16 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241210.json → ../data/tweets/PEPE/2024/12/PEPE_20241210_Latest13.json
+	2025-08-24 21:58:16 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-12 since:2024-12-11'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:58:26 ~ 2025-08-24 22:02:11 (0 day 0 hr 3 min)
+推文數量：128 (0 WrittingError)
+推文時間：Wed Dec 11 23:41:09 +0000 2024 ~ Wed Dec 11 23:59:58 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 21:58:26 Start
+	2025-08-24 21:58:27 FileNotFoundError
+	2025-08-24 22:02:11 No more tweets found
+	2025-08-24 22:02:11 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241211.json → ../data/tweets/PEPE/2024/12/PEPE_20241211_Latest128.json
+	2025-08-24 22:02:11 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-13 since:2024-12-12'
+SEARCH = 'Latest'
+執行時間：2025-08-24 22:02:20 ~ 2025-08-24 22:12:59 (0 day 0 hr 10 min)
+推文數量：97 (0 WrittingError)
+推文時間：Thu Dec 12 23:41:37 +0000 2024 ~ Thu Dec 12 23:59:49 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 22:02:20 Start
+	2025-08-24 22:02:21 FileNotFoundError
+	2025-08-24 22:03:03 TooManyRequests - Got 38 tweets
+	Waiting until  2025-08-24 22:10:05 (7 min 1 sec)
+	2025-08-24 22:12:59 No more tweets found
+	2025-08-24 22:12:59 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241212.json → ../data/tweets/PEPE/2024/12/PEPE_20241212_Latest97.json
+	2025-08-24 22:12:59 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-15 since:2024-12-14'
+SEARCH = 'Latest'
+執行時間：2025-08-24 22:13:12 ~ 2025-08-24 22:15:22 (0 day 0 hr 2 min)
+推文數量：31 (0 WrittingError)
+推文時間：Sat Dec 14 23:55:27 +0000 2024 ~ Sat Dec 14 23:59:59 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 22:13:12 Start
+	2025-08-24 22:13:13 FileNotFoundError
+	2025-08-24 22:15:22 No more tweets found
+	2025-08-24 22:15:22 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241214.json → ../data/tweets/PEPE/2024/12/PEPE_20241214_Latest31.json
+	2025-08-24 22:15:22 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-16 since:2024-12-15'
+SEARCH = 'Latest'
+執行時間：2025-08-24 22:15:27 ~ 2025-08-24 22:16:10 (0 day 0 hr 0 min)
+推文數量：91 (0 WrittingError)
+推文時間：Sun Dec 15 23:50:17 +0000 2024 ~ Sun Dec 15 23:59:52 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-24 22:15:27 Start
+	2025-08-24 22:15:27 FileNotFoundError
+	2025-08-24 22:16:10 No more tweets found
+	2025-08-24 22:16:10 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241215.json → ../data/tweets/PEPE/2024/12/PEPE_20241215_Latest91.json
+	2025-08-24 22:16:10 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-22 since:2025-08-21'
+SEARCH = 'Latest'
+執行時間：2025-08-24 21:47:38 ~ 2025-08-24 23:51:10 (0 day 2 hr 3 min)
+推文數量：4159 (0 WrittingError)
+推文時間：Thu Aug 21 09:59:17 +0000 2025 ~ Thu Aug 21 23:59:51 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-24 21:47:38 Start
+	2025-08-24 21:47:39 FileNotFoundError
+	2025-08-24 21:51:00 TooManyRequests - Got 326 tweets
+	Waiting until  2025-08-24 21:55:22 (4 min 21 sec)
+	2025-08-24 22:06:45 TooManyRequests - Got 944 tweets
+	Waiting until  2025-08-24 22:10:28 (3 min 42 sec)
+	2025-08-24 22:23:30 TooManyRequests - Got 1676 tweets
+	Waiting until  2025-08-24 22:25:34 (2 min 3 sec)
+	2025-08-24 22:38:28 TooManyRequests - Got 2077 tweets
+	Waiting until  2025-08-24 22:40:40 (2 min 11 sec)
+	2025-08-24 22:51:22 httpx.ReadTimeout
+	2025-08-24 22:51:59 TooManyRequests - Got 2478 tweets
+	Waiting until  2025-08-24 22:55:45 (3 min 45 sec)
+	2025-08-24 23:06:37 TooManyRequests - Got 2834 tweets
+	Waiting until  2025-08-24 23:10:51 (4 min 13 sec)
+	2025-08-24 23:25:04 TooManyRequests - Got 3447 tweets
+	Waiting until  2025-08-24 23:25:58 (0 min 53 sec)
+	2025-08-24 23:35:59 TooManyRequests - Got 3875 tweets
+	Waiting until  2025-08-24 23:41:02 (5 min 2 sec)
+	2025-08-24 23:51:10 No more tweets found
+	2025-08-24 23:51:10 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250821.json → ../data/tweets/DOGE/2025/08/DOGE_20250821_Latest4159.json
+	2025-08-24 23:51:10 End
+
+QUERY = '(dogecoin OR "doge coin" OR "doge meme coin" OR $DOGE OR "dollar doge") lang:en until:2025-08-23 since:2025-08-22'
+SEARCH = 'Latest'
+執行時間：2025-08-24 23:51:15 ~ 2025-08-25 00:50:36 (0 day 0 hr 59 min)
+推文數量：2480 (0 WrittingError)
+推文時間：Fri Aug 22 17:14:34 +0000 2025 ~ Fri Aug 22 23:59:40 +0000 2025 (GMT+0)
+Timestamp：
+	2025-08-24 23:51:15 Start
+	2025-08-24 23:51:16 FileNotFoundError
+	2025-08-24 23:52:38 httpx.ReadTimeout
+	2025-08-24 23:53:45 TooManyRequests - Got 237 tweets
+	Waiting until  2025-08-24 23:56:07 (2 min 21 sec)
+	2025-08-25 00:10:26 TooManyRequests - Got 987 tweets
+	Waiting until  2025-08-25 00:11:23 (0 min 56 sec)
+	2025-08-25 00:21:08 TooManyRequests - Got 1598 tweets
+	Waiting until  2025-08-25 00:26:30 (5 min 21 sec)
+	2025-08-25 00:37:51 TooManyRequests - Got 2179 tweets
+	Waiting until  2025-08-25 00:41:37 (3 min 45 sec)
+	2025-08-25 00:50:36 No more tweets found
+	2025-08-25 00:50:36 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250822.json → ../data/tweets/DOGE/2025/08/DOGE_20250822_Latest2480.json
+	2025-08-25 00:50:36 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-02 since:2024-12-01'
+SEARCH = 'Latest'
+執行時間：2025-08-25 01:06:18 ~ 2025-08-25 05:18:17 (0 day 4 hr 11 min)
+推文數量：10378 (0 WrittingError)
+推文時間：Sun Dec 01 00:00:00 +0000 2024 ~ Sun Dec 01 23:59:55 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 01:06:18 Start
+	2025-08-25 01:06:19 FileNotFoundError
+	2025-08-25 01:16:17 TooManyRequests - Got 734 tweets
+	Waiting until  2025-08-25 01:21:19 (5 min 1 sec)
+	2025-08-25 02:08:28 TooManyRequests - Got 2947 tweets
+	Waiting until  2025-08-25 02:09:38 (1 min 9 sec)
+	2025-08-25 02:16:40 TooManyRequests - Got 3544 tweets
+	Waiting until  2025-08-25 02:24:42 (8 min 1 sec)
+	2025-08-25 02:35:02 TooManyRequests - Got 4235 tweets
+	Waiting until  2025-08-25 02:39:50 (4 min 47 sec)
+	2025-08-25 02:46:29 TooManyRequests - Got 4894 tweets
+	Waiting until  2025-08-25 02:54:55 (8 min 25 sec)
+	2025-08-25 03:20:49 TooManyRequests - Got 6076 tweets
+	Waiting until  2025-08-25 03:25:36 (4 min 46 sec)
+	2025-08-25 03:35:14 status: 404, message: ""
+	2025-08-25 03:38:25 TooManyRequests - Got 6780 tweets
+	Waiting until  2025-08-25 03:40:43 (2 min 17 sec)
+	2025-08-25 03:46:15 status: 404, message: ""
+	2025-08-25 03:50:14 TooManyRequests - Got 7314 tweets
+	Waiting until  2025-08-25 03:55:51 (5 min 36 sec)
+	2025-08-25 04:21:00 TooManyRequests - Got 8373 tweets
+	Waiting until  2025-08-25 04:26:00 (4 min 59 sec)
+	2025-08-25 04:52:50 TooManyRequests - Got 9629 tweets
+	Waiting until  2025-08-25 04:58:14 (5 min 23 sec)
+	2025-08-25 05:18:17 No more tweets found
+	2025-08-25 05:18:17 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-03 since:2024-12-02'
+SEARCH = 'Latest'
+執行時間：2025-08-25 05:18:28 ~ 2025-08-25 05:49:57 (0 day 0 hr 31 min)
+推文數量：1300 (0 WrittingError)
+推文時間：Mon Dec 02 20:58:58 +0000 2024 ~ Mon Dec 02 23:59:53 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 05:18:28 Start
+	2025-08-25 05:18:28 FileNotFoundError
+	2025-08-25 05:23:43 status: 404, message: ""
+	2025-08-25 05:25:28 TooManyRequests - Got 484 tweets
+	Waiting until  2025-08-25 05:30:07 (4 min 38 sec)
+	2025-08-25 05:39:07 TooManyRequests - Got 1128 tweets
+	Waiting until  2025-08-25 05:45:14 (6 min 6 sec)
+	2025-08-25 05:49:57 No more tweets found
+	2025-08-25 05:49:57 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241202.json → ../data/tweets/PEPE/2024/12/PEPE_20241202_Latest1300.json
+	2025-08-25 05:49:57 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-04 since:2024-12-03'
+SEARCH = 'Latest'
+執行時間：2025-08-25 05:50:06 ~ 2025-08-25 07:05:22 (0 day 1 hr 15 min)
+推文數量：3256 (0 WrittingError)
+推文時間：Tue Dec 03 17:29:54 +0000 2024 ~ Tue Dec 03 23:59:59 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 05:50:06 Start
+	2025-08-25 05:50:07 FileNotFoundError
+	2025-08-25 06:00:58 TooManyRequests - Got 507 tweets
+	Waiting until  2025-08-25 06:03:15 (2 min 16 sec)
+	2025-08-25 06:17:32 TooManyRequests - Got 1196 tweets
+	Waiting until  2025-08-25 06:18:19 (0 min 46 sec)
+	2025-08-25 06:31:32 TooManyRequests - Got 2005 tweets
+	Waiting until  2025-08-25 06:33:31 (1 min 58 sec)
+	2025-08-25 06:41:53 TooManyRequests - Got 2701 tweets
+	Waiting until  2025-08-25 06:48:35 (6 min 41 sec)
+	2025-08-25 07:05:22 No more tweets found
+	2025-08-25 07:05:22 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241203.json → ../data/tweets/PEPE/2024/12/PEPE_20241203_Latest3256.json
+	2025-08-25 07:05:22 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-05 since:2024-12-04'
+SEARCH = 'Latest'
+執行時間：2025-08-25 07:05:31 ~ 2025-08-25 08:08:54 (0 day 1 hr 3 min)
+推文數量：2552 (0 WrittingError)
+推文時間：Wed Dec 04 18:22:12 +0000 2024 ~ Wed Dec 04 23:59:34 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 07:05:31 Start
+	2025-08-25 07:05:32 FileNotFoundError
+	2025-08-25 07:16:36 TooManyRequests - Got 565 tweets
+	Waiting until  2025-08-25 07:19:08 (2 min 31 sec)
+	2025-08-25 07:27:46 status: 404, message: ""
+	2025-08-25 07:32:01 TooManyRequests - Got 1118 tweets
+	Waiting until  2025-08-25 07:34:13 (2 min 11 sec)
+	2025-08-25 07:46:10 TooManyRequests - Got 1729 tweets
+	Waiting until  2025-08-25 07:49:21 (3 min 10 sec)
+	2025-08-25 08:08:54 No more tweets found
+	2025-08-25 08:08:54 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241204.json → ../data/tweets/PEPE/2024/12/PEPE_20241204_Latest2552.json
+	2025-08-25 08:08:54 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-06 since:2024-12-05'
+SEARCH = 'Latest'
+執行時間：2025-08-25 08:08:59 ~ 2025-08-25 08:25:50 (0 day 0 hr 16 min)
+推文數量：547 (0 WrittingError)
+推文時間：Thu Dec 05 22:43:43 +0000 2024 ~ Thu Dec 05 23:59:55 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 08:08:59 Start
+	2025-08-25 08:09:00 FileNotFoundError
+	2025-08-25 08:13:27 TooManyRequests - Got 285 tweets
+	Waiting until  2025-08-25 08:19:33 (6 min 5 sec)
+	2025-08-25 08:25:50 No more tweets found
+	2025-08-25 08:25:50 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241205.json → ../data/tweets/PEPE/2024/12/PEPE_20241205_Latest547.json
+	2025-08-25 08:25:50 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-07 since:2024-12-06'
+SEARCH = 'Latest'
+執行時間：2025-08-25 08:25:57 ~ 2025-08-25 11:25:10 (0 day 2 hr 59 min)
+推文數量：6825 (0 WrittingError)
+推文時間：Fri Dec 06 08:49:58 +0000 2024 ~ Fri Dec 06 23:59:53 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 08:25:57 Start
+	2025-08-25 08:25:58 FileNotFoundError
+	2025-08-25 08:33:51 TooManyRequests - Got 332 tweets
+	Waiting until  2025-08-25 08:34:39 (0 min 47 sec)
+	2025-08-25 09:03:18 TooManyRequests - Got 1514 tweets
+	Waiting until  2025-08-25 09:05:20 (2 min 1 sec)
+	2025-08-25 09:15:30 TooManyRequests - Got 2181 tweets
+	Waiting until  2025-08-25 09:20:26 (4 min 55 sec)
+	2025-08-25 09:30:35 TooManyRequests - Got 2863 tweets
+	Waiting until  2025-08-25 09:35:32 (4 min 56 sec)
+	2025-08-25 10:03:27 TooManyRequests - Got 3784 tweets
+	Waiting until  2025-08-25 10:06:21 (2 min 53 sec)
+	2025-08-25 10:18:35 status: 404, message: ""
+	2025-08-25 10:21:34 TooManyRequests - Got 4388 tweets
+	Waiting until  2025-08-25 10:21:37 (0 min 2 sec)
+	2025-08-25 10:34:43 TooManyRequests - Got 5004 tweets
+	Waiting until  2025-08-25 10:36:41 (1 min 57 sec)
+	2025-08-25 10:48:09 TooManyRequests - Got 5578 tweets
+	Waiting until  2025-08-25 10:51:47 (3 min 37 sec)
+	2025-08-25 11:08:22 httpx.ReadTimeout
+	2025-08-25 11:17:12 TooManyRequests - Got 6654 tweets
+	Waiting until  2025-08-25 11:23:04 (5 min 51 sec)
+	2025-08-25 11:25:10 No more tweets found
+	2025-08-25 11:25:10 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241206.json → ../data/tweets/PEPE/2024/12/PEPE_20241206_Latest6825.json
+	2025-08-25 11:25:10 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-08 since:2024-12-07'
+SEARCH = 'Latest'
+執行時間：2025-08-25 11:25:18 ~ 2025-08-25 17:32:16 (0 day 6 hr 6 min)
+推文數量：14653 (0 WrittingError)
+推文時間：Sat Dec 07 00:00:02 +0000 2024 ~ Sat Dec 07 23:59:55 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 11:25:18 Start
+	2025-08-25 11:25:19 FileNotFoundError
+	2025-08-25 11:29:47 TooManyRequests - Got 442 tweets
+	Waiting until  2025-08-25 11:38:09 (8 min 21 sec)
+	2025-08-25 11:44:55 httpx.ReadTimeout
+	2025-08-25 11:51:40 TooManyRequests - Got 1119 tweets
+	Waiting until  2025-08-25 11:53:23 (1 min 42 sec)
+	2025-08-25 11:59:23 TooManyRequests - Got 1729 tweets
+	Waiting until  2025-08-25 12:08:29 (9 min 5 sec)
+	2025-08-25 12:19:27 httpx.ReadTimeout
+	2025-08-25 12:21:13 TooManyRequests - Got 2357 tweets
+	Waiting until  2025-08-25 12:23:36 (2 min 22 sec)
+	2025-08-25 12:25:13 status: 404, message: ""
+	2025-08-25 12:32:11 TooManyRequests - Got 3050 tweets
+	Waiting until  2025-08-25 12:38:41 (6 min 29 sec)
+	2025-08-25 12:44:48 TooManyRequests - Got 3734 tweets
+	Waiting until  2025-08-25 12:53:48 (8 min 59 sec)
+	2025-08-25 13:16:23 TooManyRequests - Got 5318 tweets
+	Waiting until  2025-08-25 13:23:56 (7 min 32 sec)
+	2025-08-25 13:30:45 TooManyRequests - Got 6015 tweets
+	Waiting until  2025-08-25 13:39:03 (8 min 17 sec)
+	2025-08-25 13:53:17 TooManyRequests - Got 6702 tweets
+	Waiting until  2025-08-25 13:54:07 (0 min 49 sec)
+	2025-08-25 13:54:45 status: 404, message: ""
+	2025-08-25 14:04:02 TooManyRequests - Got 7344 tweets
+	Waiting until  2025-08-25 14:09:12 (5 min 9 sec)
+	2025-08-25 14:18:53 TooManyRequests - Got 7955 tweets
+	Waiting until  2025-08-25 14:24:17 (5 min 23 sec)
+	2025-08-25 14:28:52 status: 404, message: ""
+	2025-08-25 14:35:35 TooManyRequests - Got 8476 tweets
+	Waiting until  2025-08-25 14:39:23 (3 min 47 sec)
+	2025-08-25 14:46:49 status: 404, message: ""
+	2025-08-25 14:51:39 TooManyRequests - Got 8937 tweets
+	Waiting until  2025-08-25 14:54:28 (2 min 48 sec)
+	2025-08-25 15:07:14 TooManyRequests - Got 9456 tweets
+	Waiting until  2025-08-25 15:09:43 (2 min 28 sec)
+	2025-08-25 15:23:09 TooManyRequests - Got 10123 tweets
+	Waiting until  2025-08-25 15:24:48 (1 min 38 sec)
+	2025-08-25 15:38:01 TooManyRequests - Got 10790 tweets
+	Waiting until  2025-08-25 15:39:53 (1 min 51 sec)
+	2025-08-25 16:37:33 TooManyRequests - Got 12664 tweets
+	Waiting until  2025-08-25 16:42:28 (4 min 54 sec)
+	2025-08-25 16:53:49 TooManyRequests - Got 13320 tweets
+	Waiting until  2025-08-25 16:57:33 (3 min 43 sec)
+	2025-08-25 17:25:00 TooManyRequests - Got 14543 tweets
+	Waiting until  2025-08-25 17:28:19 (3 min 18 sec)
+	2025-08-25 17:32:16 No more tweets found
+	2025-08-25 17:32:16 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-09 since:2024-12-08'
+SEARCH = 'Latest'
+執行時間：2025-08-25 17:32:24 ~ 2025-08-25 20:50:40 (0 day 3 hr 18 min)
+推文數量：7225 (0 WrittingError)
+推文時間：Sun Dec 08 13:36:08 +0000 2024 ~ Sun Dec 08 23:59:45 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 17:32:24 Start
+	2025-08-25 17:35:25 FileNotFoundError
+	2025-08-25 18:10:18 TooManyRequests - Got 1397 tweets
+	Waiting until  2025-08-25 18:15:45 (5 min 26 sec)
+	2025-08-25 18:35:06 status: 404, message: ""
+	2025-08-25 18:41:24 TooManyRequests - Got 2339 tweets
+	Waiting until  2025-08-25 18:45:51 (4 min 26 sec)
+	2025-08-25 18:51:08 status: 404, message: ""
+	2025-08-25 18:59:29 TooManyRequests - Got 2892 tweets
+	Waiting until  2025-08-25 19:00:57 (1 min 27 sec)
+	2025-08-25 19:24:52 status: 404, message: ""
+	2025-08-25 19:29:18 TooManyRequests - Got 3997 tweets
+	Waiting until  2025-08-25 19:32:09 (2 min 50 sec)
+	2025-08-25 19:42:53 status: 404, message: ""
+	2025-08-25 19:44:05 TooManyRequests - Got 4787 tweets
+	Waiting until  2025-08-25 19:47:13 (3 min 7 sec)
+	2025-08-25 19:47:43 status: 404, message: ""
+	2025-08-25 19:58:57 TooManyRequests - Got 5400 tweets
+	Waiting until  2025-08-25 20:02:21 (3 min 23 sec)
+	2025-08-25 20:17:14 TooManyRequests - Got 5936 tweets
+	Waiting until  2025-08-25 20:17:27 (0 min 12 sec)
+	2025-08-25 20:30:02 status: 404, message: ""
+	2025-08-25 20:45:29 TooManyRequests - Got 6985 tweets
+	Waiting until  2025-08-25 20:47:32 (2 min 2 sec)
+	2025-08-25 20:50:40 No more tweets found
+	2025-08-25 20:50:40 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241208.json → ../data/tweets/PEPE/2024/12/PEPE_20241208_Latest7225.json
+	2025-08-25 20:50:40 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-10 since:2024-12-09'
+SEARCH = 'Latest'
+執行時間：2025-08-25 20:50:47 ~ 2025-08-25 20:55:18 (0 day 0 hr 4 min)
+推文數量：44 (0 WrittingError)
+推文時間：Mon Dec 09 23:55:35 +0000 2024 ~ Mon Dec 09 23:59:57 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 20:50:47 Start
+	2025-08-25 20:50:48 FileNotFoundError
+	2025-08-25 20:51:15 status: 404, message: ""
+	2025-08-25 20:55:18 No more tweets found
+	2025-08-25 20:55:18 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241209.json → ../data/tweets/PEPE/2024/12/PEPE_20241209_Latest44.json
+	2025-08-25 20:55:18 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-11 since:2024-12-10'
+SEARCH = 'Latest'
+執行時間：2025-08-25 20:55:26 ~ 2025-08-25 21:04:47 (0 day 0 hr 9 min)
+推文數量：196 (0 WrittingError)
+推文時間：Tue Dec 10 23:39:02 +0000 2024 ~ Tue Dec 10 23:59:57 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 20:55:26 Start
+	2025-08-25 20:55:26 FileNotFoundError
+	2025-08-25 20:57:52 TooManyRequests - Got 92 tweets
+	Waiting until  2025-08-25 21:02:37 (4 min 44 sec)
+	2025-08-25 21:04:47 No more tweets found
+	2025-08-25 21:04:47 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241210.json → ../data/tweets/PEPE/2024/12/PEPE_20241210_Latest196.json
+	2025-08-25 21:04:47 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-12 since:2024-12-11'
+SEARCH = 'Latest'
+執行時間：2025-08-25 21:04:53 ~ 2025-08-25 21:18:16 (0 day 0 hr 13 min)
+推文數量：390 (0 WrittingError)
+推文時間：Wed Dec 11 23:15:09 +0000 2024 ~ Wed Dec 11 23:59:58 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 21:04:53 Start
+	2025-08-25 21:04:54 FileNotFoundError
+	2025-08-25 21:09:43 TooManyRequests - Got 348 tweets
+	Waiting until  2025-08-25 21:17:42 (7 min 58 sec)
+	2025-08-25 21:18:16 No more tweets found
+	2025-08-25 21:18:16 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241211.json → ../data/tweets/PEPE/2024/12/PEPE_20241211_Latest390.json
+	2025-08-25 21:18:16 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-13 since:2024-12-12'
+SEARCH = 'Latest'
+執行時間：2025-08-25 21:18:26 ~ 2025-08-25 21:20:13 (0 day 0 hr 1 min)
+推文數量：85 (0 WrittingError)
+推文時間：Thu Dec 12 23:44:16 +0000 2024 ~ Thu Dec 12 23:59:49 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 21:18:26 Start
+	2025-08-25 21:18:26 FileNotFoundError
+	2025-08-25 21:20:13 No more tweets found
+	2025-08-25 21:20:13 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241212.json → ../data/tweets/PEPE/2024/12/PEPE_20241212_Latest85.json
+	2025-08-25 21:20:13 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-14 since:2024-12-13'
+SEARCH = 'Latest'
+執行時間：2025-08-25 21:20:18 ~ 2025-08-25 21:37:21 (0 day 0 hr 17 min)
+推文數量：343 (0 WrittingError)
+推文時間：Fri Dec 13 23:15:16 +0000 2024 ~ Fri Dec 13 23:59:45 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 21:20:18 Start
+	2025-08-25 21:20:19 FileNotFoundError
+	2025-08-25 21:26:27 TooManyRequests - Got 216 tweets
+	Waiting until  2025-08-25 21:32:48 (6 min 20 sec)
+	2025-08-25 21:37:21 No more tweets found
+	2025-08-25 21:37:21 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241213.json → ../data/tweets/PEPE/2024/12/PEPE_20241213_Latest343.json
+	2025-08-25 21:37:21 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-15 since:2024-12-14'
+SEARCH = 'Latest'
+執行時間：2025-08-25 21:37:29 ~ 2025-08-25 21:37:55 (0 day 0 hr 0 min)
+推文數量：30 (0 WrittingError)
+推文時間：Sat Dec 14 23:55:27 +0000 2024 ~ Sat Dec 14 23:59:59 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 21:37:29 Start
+	2025-08-25 21:37:30 FileNotFoundError
+	2025-08-25 21:37:55 No more tweets found
+	2025-08-25 21:37:55 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241214.json → ../data/tweets/PEPE/2024/12/PEPE_20241214_Latest30.json
+	2025-08-25 21:37:55 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-12-16 since:2024-12-15'
+SEARCH = 'Latest'
+執行時間：2025-08-25 21:38:03 ~ 2025-08-25 21:52:08 (0 day 0 hr 14 min)
+推文數量：803 (0 WrittingError)
+推文時間：Sun Dec 15 22:16:14 +0000 2024 ~ Sun Dec 15 23:59:52 +0000 2024 (GMT+0)
+Timestamp：
+	2025-08-25 21:38:03 Start
+	2025-08-25 21:38:04 FileNotFoundError
+	2025-08-25 21:43:41 TooManyRequests - Got 417 tweets
+	Waiting until  2025-08-25 21:47:53 (4 min 11 sec)
+	2025-08-25 21:52:08 No more tweets found
+	2025-08-25 21:52:08 Renamed: ../data/tweets/PEPE/2024/12/PEPE_20241215.json → ../data/tweets/PEPE/2024/12/PEPE_20241215_Latest803.json
+	2025-08-25 21:52:08 End
+

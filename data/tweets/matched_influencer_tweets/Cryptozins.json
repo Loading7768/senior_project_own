@@ -1,35 +1,39 @@
-﻿[
-    {
-        "tweet_count": 1,
-        "username": "Zin",
-        "user_account": "Cryptozins",
-        "text": "The man himself from $DOGE just bought $KABOSU...\nhttps://t.co/vP52IME6ev",
-        "created_at": "Fri May 23 00:53:22 +0000 2025",
-        "retweet": 9,
-        "likes": 47,
-        "retweeted_tweet": null,
-        "match_type": "user_account"
-    },
-    {
-        "tweet_count": 2,
-        "username": "Cīphɛr-Salamance🐉🏛",
-        "user_account": "0xsalamance",
-        "text": "@Cryptozins $KABOSU on ETH is THE play right now! 🚀 At just 2M MC with direct ties to Dogecoin's legacy, this has moonshot written all over it. Insiders are already loading up (that wallet doesn't lie!).\n\nThe perfect storm:\n✅ OG Doge narrative\n✅ Early accumulation phase",
-        "created_at": "Fri May 16 04:57:47 +0000 2025",
-        "retweet": 0,
-        "likes": 0,
-        "retweeted_tweet": null,
-        "match_type": "text"
-    },
-    {
-        "tweet_count": 3,
-        "username": "Drenk",
-        "user_account": "Drenk_07",
-        "text": "@Cryptozins I think it is Dogecoin",
-        "created_at": "Sun Jul 20 21:19:20 +0000 2025",
-        "retweet": 0,
-        "likes": 0,
-        "retweeted_tweet": null,
-        "match_type": "text"
-    }
-]
+﻿{
+    "account_name": "Cryptozins",
+    "is_spammer": false,
+    "tweets": [
+        {
+            "tweet_count": 1,
+            "username": "Zin",
+            "user_account": "Cryptozins",
+            "text": "The man himself from $DOGE just bought $KABOSU...\nhttps://t.co/vP52IME6ev",
+            "created_at": "Fri May 23 00:53:22 +0000 2025",
+            "retweet": 9,
+            "likes": 47,
+            "retweeted_tweet": null,
+            "match_type": "user_account"
+        },
+        {
+            "tweet_count": 2,
+            "username": "Cīphɛr-Salamance🐉🏛",
+            "user_account": "0xsalamance",
+            "text": "@Cryptozins $KABOSU on ETH is THE play right now! 🚀 At just 2M MC with direct ties to Dogecoin's legacy, this has moonshot written all over it. Insiders are already loading up (that wallet doesn't lie!).\n\nThe perfect storm:\n✅ OG Doge narrative\n✅ Early accumulation phase",
+            "created_at": "Fri May 16 04:57:47 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null,
+            "match_type": "text"
+        },
+        {
+            "tweet_count": 3,
+            "username": "Drenk",
+            "user_account": "Drenk_07",
+            "text": "@Cryptozins I think it is Dogecoin",
+            "created_at": "Sun Jul 20 21:19:20 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null,
+            "match_type": "text"
+        }
+    ]
+}

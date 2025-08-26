@@ -1,13 +1,17 @@
-﻿[
-    {
-        "tweet_count": 1,
-        "username": "Godly👑",
-        "user_account": "Web3_Godly",
-        "text": "@APEinMask @pepecoineth @thecatwifmask @pudgypenguins @dogecoin @bonk_inu @ApeMP5 @0xVonGogh @973Meech Congrats on your token launch",
-        "created_at": "Mon Jul 28 07:46:09 +0000 2025",
-        "retweet": 0,
-        "likes": 1,
-        "retweeted_tweet": null,
-        "match_type": "text"
-    }
-]
+﻿{
+    "account_name": "0xVonGogh",
+    "is_spammer": false,
+    "tweets": [
+        {
+            "tweet_count": 1,
+            "username": "Godly👑",
+            "user_account": "Web3_Godly",
+            "text": "@APEinMask @pepecoineth @thecatwifmask @pudgypenguins @dogecoin @bonk_inu @ApeMP5 @0xVonGogh @973Meech Congrats on your token launch",
+            "created_at": "Mon Jul 28 07:46:09 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null,
+            "match_type": "text"
+        }
+    ]
+}
