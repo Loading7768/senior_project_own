@@ -19,7 +19,7 @@ import sys
 from pathlib import Path
 parent_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(parent_dir))
-import config
+import config_PEPE, config
 
 
 # 若要直接修改 QUERY 在 198 行  並把 185 - 195 行註解
@@ -41,9 +41,9 @@ START_YEAR = 2025  # 開始的年份
 
 START_MONTH = 8  # 開始的月份
 
-START_DAY = 7  # 開始的日期
+START_DAY = 23  # 開始的日期
 
-DAY_COUNT = 1  # 要連續找幾天
+DAY_COUNT = 3  # 要連續找幾天
 
 TRUN_ON_TIWCE_BREAK = False  # 看有沒有要當出現兩次 Rate limit reached 就馬上停止執行
 

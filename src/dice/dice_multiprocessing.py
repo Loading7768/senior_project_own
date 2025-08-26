@@ -22,11 +22,13 @@ YEAR = "2025"
 
 MONTH = "07"
 
-FOLDER_PATH = f"../data/spammer/{YEAR}/{MONTH}"  # 選擇要對哪個資料夾執行
+FOLDER_PATH = "../data/tweets/matched_influencer_tweets"  # 選擇要對哪個資料夾執行
 # "../Kmeans/data/clustered/"
-# "../project_vscode/data/spammer/04"
+# f"../data/spammer/{YEAR}/{MONTH}"
+# 
 
-OUTPUT_FOLDER_NAME = f"{YEAR}{MONTH}"  # 設定要儲存到的資料夾名稱   ex. "../LCS/analysis/{OUTPUT_FOLDER_NAME}/"
+OUTPUT_FOLDER_NAME = "influencer"  # 設定要儲存到的資料夾名稱   ex. "../LCS/analysis/{OUTPUT_FOLDER_NAME}/"
+# f"{YEAR}{MONTH}"
 
 JSON_DICT_NAME = config.JSON_DICT_NAME  # 設定推文所存的 json 檔中字典的名稱
 
@@ -241,7 +243,7 @@ def process_tweet_group(tweets_group, json_output, json_output_path, cluster_id=
 
 # 🧠 主程式入口：處理整個資料夾
 if __name__ == "__main__":
-    all_files = [f for f in os.listdir(FOLDER_PATH) if f.endswith(".json")]
+    all_files = [f for f in os.listdir(FOLDER_PATH) if f.endswith(".json")]  # f.endswith("_spammer.json")
     print(f"📂 總共找到 {len(all_files)} 個檔案要處理")
 
     # 先清空 robottxt.txt
@@ -268,6 +270,7 @@ if __name__ == "__main__":
             data_json = json.load(file)
 
         tweets = data_json[JSON_DICT_NAME]
+        # tweets = data_json
         print(f"\n📄 正在處理檔案：{filename}，共 {len(tweets)} 筆推文")
 
         # # 先把 txt 檔裡清空

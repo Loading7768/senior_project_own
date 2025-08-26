@@ -135,4 +135,21 @@
 
 
     logistic_regression.py：
+
+1. estimate_the_total.py：產生推文縮放比
+2. idf_all.py：個別抓關鍵詞
+
+-------- 三個都 push ----------
+
+3. combine_keywords.py：合併關鍵詞
+
+-------- 三個都 pull ----------
+
+4. X_from_keywords.py：個別計算X裡的值 => 生出個別的 X 與按照 X 排的日期
+(X：二為陣列, 日期：一為陣列)
+5. current_date_price.py：生出個別的 Y
+
+-------- 三個都 push ----------
+
+6. merge_and_splitset.py：先個別切資料集再合併成完整的X, Y
         

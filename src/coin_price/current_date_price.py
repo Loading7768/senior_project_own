@@ -1,3 +1,4 @@
+from collections import defaultdict
 import os
 import json
 import pandas as pd
@@ -24,10 +25,23 @@ DOGE_price.csv：
     ...
 '''
 
+
+'''可修改參數'''
 # === 修改為你的 CSV 檔與 JSON 資料夾路徑 ===
 PRICE_CSV_PATH = f"../data/coin_price/{COIN_SHORT_NAME}_price.csv"
-NORMAL_TWEETS_JSON_GLOB = f"../data/filtered_tweets/normal_tweets/*/*/*.json"
-OUTPUT_CSV_PATH = "../data/coin_price/current_tweet_price_output.csv"
+NORMAL_TWEETS_JSON_GLOB = f"../data/filtered_tweets/normal_tweets/*/*/*.json"  # 是針對 normal_tweet 做運算
+OUTPUT_CSV_PATH = f"../data/coin_price/{COIN_SHORT_NAME}_current_tweet_price_output.csv"
+
+# === 自訂時間範圍 (格式：YYYY/MM/DD) ===
+START_DATE = "2013/12/15"
+END_DATE   = "2025/07/31"
+'''可修改參數'''
+
+
+
+# 轉成 datetime 方便比較
+START_DATE_DT = pd.to_datetime(START_DATE, format="%Y/%m/%d")
+END_DATE_DT   = pd.to_datetime(END_DATE, format="%Y/%m/%d")
 
 # === 讀取價格 CSV ===
 price_df = pd.read_csv(PRICE_CSV_PATH)
@@ -35,8 +49,15 @@ price_df['snapped_at'] = pd.to_datetime(price_df['snapped_at'], format="%Y-%m-%d
 price_df.set_index('snapped_at', inplace=True)
 price_df.index = price_df.index.tz_localize(None)  # 移除時區 只保留日期部分
 
-# === 收集 tweet 有出現的日期 ===
-tweet_dates = set()
+# 🔹 過濾價格資料到時間範圍內
+price_df = price_df.loc[(price_df.index >= START_DATE_DT) & (price_df.index <= END_DATE_DT + pd.Timedelta(days=1))]
+
+
+# === 儲存推文資訊 若當天沒有推文則不會加進去 set 中 ===
+tweet_dates = set()  # 收集 tweet 有出現的日期
+
+tweet_count = defaultdict(int)  # 儲存每天的推文數量
+
 
 json_files = glob(NORMAL_TWEETS_JSON_GLOB)
 for json_path in tqdm(json_files, desc="正在找尋日期"):
@@ -54,6 +75,14 @@ for json_path in tqdm(json_files, desc="正在找尋日期"):
         ).strftime("%Y/%m/%d")
         date_dt = pd.to_datetime(date_str)
         tweet_dates.add(date_dt)
+
+        # 🔹 過濾掉不在範圍內的推文
+        if not (START_DATE_DT <= date_dt <= END_DATE_DT):
+            continue
+
+        # 取得當天推文數量
+        tweet_count[date_dt] = len(tweets)
+
     except Exception as e:
         print(f"[錯誤] {json_path}: {e}")
 
@@ -62,9 +91,26 @@ if not tweet_dates:
     print("沒有抓到任何推文日期")
     exit()
 
-min_date = min(tweet_dates)
-max_date = max(tweet_dates)
-tweet_dates = sorted(tweet_dates)
+tweet_dates = sorted(tweet_dates)  # 因為抓進來的檔案順序可能會是亂的
+
+# ----------- 將 tweet_count 輸出成 json 檔 -------------
+# 將 datetime 轉成字串，defaultdict -> dict
+tweet_count_dict = {
+    date.strftime("%Y/%m/%d"): count
+    for date, count in sorted(tweet_count.items())  # <- 這裡 sorted 會依 datetime 升序排序
+}
+
+# 儲存成 JSON
+output_tweet_count_path = "../data/ml/dataset/coin_price"
+os.makedirs(output_tweet_count_path, exist_ok=True)
+output_tweet_count_path_file = f"{output_tweet_count_path}/{COIN_SHORT_NAME}_current_tweet_count.json"
+with open(output_tweet_count_path_file, "w", encoding="utf-8") as f:
+    json.dump(tweet_count_dict, f, ensure_ascii=False, indent=4)
+
+print(f"✅ 已儲存 {COIN_SHORT_NAME}_tweet_count 到 {output_tweet_count_path_file}")
+
+total_tweets = sum(tweet_count.values())
+print(f"\n全部 normal_tweet 的推文數量: {total_tweets}\n")
 
 # === 建立最終結果表 ===
 output_rows = []
@@ -84,6 +130,7 @@ for current_date in tqdm(tweet_dates, desc="正在儲存價錢"):
                 output_rows.append({
                     "date": d.strftime("%Y/%m/%d"),
                     "price": price,
+                    "tweet_count": 0,
                     "has_tweet": False
                 })
     # 當前 tweet 日期
@@ -91,6 +138,7 @@ for current_date in tqdm(tweet_dates, desc="正在儲存價錢"):
     output_rows.append({
         "date": current_date.strftime("%Y/%m/%d"),
         "price": price,
+        "tweet_count": tweet_count[current_date],
         "has_tweet": True
     })
     prev_date = current_date
@@ -132,21 +180,24 @@ nan_rows = df_output[df_output['price_diff_float'].isna()]
 
 # 顯示是哪幾天
 print("\n以下日期 price_diff 無法計算（可能缺少當天或隔天價格）:")
-print(nan_rows[['date', 'price', 'has_tweet']])
+print(nan_rows[['date', 'price', 'tweet_count', 'has_tweet']])
 
 
+# ----------------------- 儲存 price_diff.npy --------------------------
 # 先把空字串轉成 NaN，方便處理（這一步會將非數值都轉成 NaN）
 df_output['price_diff'] = pd.to_numeric(df_output['price_diff'], errors='coerce')
 
 # 過濾出 has_tweet == True 的資料，且 price_diff 不是 NaN
 filtered_df = df_output[(df_output['has_tweet'] == True) & (df_output['price_diff'].notna())]
 
-# 轉成 numpy 陣列
-price_diff_array = filtered_df['price_diff'].to_numpy()
+# 依 tweet_count 重複 price_diff
+expanded_price_diffs = []
+for _, row in filtered_df.iterrows():  # 逐行遍歷 filtered_df
+    expanded_price_diffs.extend([row['price_diff']] * row['tweet_count'])  # extend() 方法會把這個 list 的所有元素加到 expanded_price_diffs 裡
 
-# 存成 .npy 檔
-np.save("../data/coin_price/price_diff.npy", price_diff_array)
+price_diff_array = np.array(expanded_price_diffs, dtype=float)  # 轉成 numpy 陣列
+np.save(f"../data/ml/dataset/coin_price/{COIN_SHORT_NAME}_price_diff.npy", price_diff_array)  # 存成 .npy 檔
 
 # 顯示預覽
-print(f"\n✅ 已儲存 price_diff.npy（共 {len(price_diff_array)} 筆）：\n{price_diff_array}")
+print(f"\n✅ 已儲存 {COIN_SHORT_NAME}_price_diff.npy（共 {len(price_diff_array)} 筆）：\n{price_diff_array}")
 

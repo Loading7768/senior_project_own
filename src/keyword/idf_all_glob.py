@@ -30,20 +30,20 @@ sys.path.append(str(parent_dir))
 from config import JSON_DICT_NAME, COIN_SHORT_NAME
 
 # --------------------parameters--------------------
-START_DATE = datetime(2025, 1, 18)
+START_DATE = datetime(2013, 12, 15)
 END_DATE = datetime(2025, 7, 31)
 
 KEYWORD_PER_DAY = 100
 # --------------------parameters--------------------
 
-def load_tweets(date):
+def load_tweets(json_file):
     '''
     Load tweets from a entire given date.
     '''
-    TWEET_PATH = Path('../data/filtered_tweets/normal_tweets')
-    date_str = datetime.strftime(date, '%Y%m%d')
-    year, month = date_str[0:4], date_str[4:6]
-    json_file = Path(f'{TWEET_PATH}/{year}/{month}/{COIN_SHORT_NAME}_{date_str}_normal.json')
+    # TWEET_PATH = Path('../data/filtered_tweets/normal_tweets')
+    # date_str = datetime.strftime(date, '%Y%m%d')
+    # year, month = date_str[0:4], date_str[4:6]
+    # json_file = Path(f'{TWEET_PATH}/{year}/{month}/{COIN_SHORT_NAME}_{date_str}_normal.json')
 
     tweets = []
     try:
@@ -123,9 +123,24 @@ def save_result(global_keywords):
 def main():
     global_keywords = []
 
+    TWEET_PATH = Path('../data/filtered_tweets/normal_tweets')
+    all_files = list(TWEET_PATH.rglob(f"*_normal.json"))  # 遞迴抓全部 JSON
+
     for date in rrule(DAILY, dtstart=START_DATE, until=END_DATE):
-        print(f'Processing {datetime.strftime(date, '%Y%m%d')}...')
-        tweets = load_tweets(date)
+        date_str = datetime.strftime(date, '%Y%m%d')
+        print(f'Processing {date_str}...')
+
+        tweets = None
+
+        # 篩選出今天的檔案
+        for f in all_files:
+            if date_str in f.name:
+                files_for_date = f
+                print(files_for_date)
+                tweets = load_tweets(files_for_date)
+
+        # tweets = load_tweets(date)
+
         if tweets is None:
             print(f'No data in {datetime.strftime(date, '%Y%m%d')}, skipping.')
             continue
