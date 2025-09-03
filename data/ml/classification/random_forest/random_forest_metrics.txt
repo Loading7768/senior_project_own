@@ -1,0 +1,20 @@
+X shape: (2177, 21561), Y shape: (2177,)
+Positive rate (Y==1): 0.473
+
+[Accuracy]
+Train: 0.562
+Val: 0.499
+Test: 0.509
+
+[Classification Report - Test]
+              precision    recall  f1-score   support
+
+           0       0.51      1.00      0.67       222
+           1       0.00      0.00      0.00       214
+
+    accuracy                           0.51       436
+   macro avg       0.25      0.50      0.34       436
+weighted avg       0.26      0.51      0.34       436
+
+Overfitting 圖: ..\outputs\figures\ml\classification\rf_overfitting_check.png
+特徵重要度 JSON: ..\data\ml\classification\random_forest_feature_importances.json

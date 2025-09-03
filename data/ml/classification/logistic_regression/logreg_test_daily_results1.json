@@ -1,0 +1,5118 @@
+{
+    "DOGE": {
+        "2025-01-06": {
+            "true_label": 0,
+            "up": 3077,
+            "down": 2266,
+            "total": 5343,
+            "up_ratio": 57.58936926820139,
+            "down_ratio": 42.41063073179861,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-05-12": {
+            "true_label": 0,
+            "up": 9451,
+            "down": 22786,
+            "total": 32237,
+            "up_ratio": 29.31724416043677,
+            "down_ratio": 70.68275583956324,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-06-04": {
+            "true_label": 0,
+            "up": 5435,
+            "down": 8953,
+            "total": 14388,
+            "up_ratio": 37.774534334167356,
+            "down_ratio": 62.22546566583264,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-02-02": {
+            "true_label": 1,
+            "up": 297,
+            "down": 391,
+            "total": 688,
+            "up_ratio": 43.16860465116279,
+            "down_ratio": 56.83139534883721,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2015-11-28": {
+            "true_label": 0,
+            "up": 74,
+            "down": 94,
+            "total": 168,
+            "up_ratio": 44.047619047619044,
+            "down_ratio": 55.952380952380956,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-09-22": {
+            "true_label": 1,
+            "up": 1060,
+            "down": 1276,
+            "total": 2336,
+            "up_ratio": 45.37671232876712,
+            "down_ratio": 54.62328767123288,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-02-17": {
+            "true_label": 0,
+            "up": 212,
+            "down": 368,
+            "total": 580,
+            "up_ratio": 36.55172413793103,
+            "down_ratio": 63.44827586206897,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-05-24": {
+            "true_label": 1,
+            "up": 6060,
+            "down": 10164,
+            "total": 16224,
+            "up_ratio": 37.35207100591716,
+            "down_ratio": 62.64792899408283,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-06-04": {
+            "true_label": 0,
+            "up": 1784,
+            "down": 2156,
+            "total": 3940,
+            "up_ratio": 45.27918781725888,
+            "down_ratio": 54.72081218274112,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-05-25": {
+            "true_label": 0,
+            "up": 11223,
+            "down": 18581,
+            "total": 29804,
+            "up_ratio": 37.65601932626493,
+            "down_ratio": 62.34398067373507,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-05-09": {
+            "true_label": 1,
+            "up": 2320,
+            "down": 1547,
+            "total": 3867,
+            "up_ratio": 59.9948280320662,
+            "down_ratio": 40.0051719679338,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2021-04-13": {
+            "true_label": 1,
+            "up": 8650,
+            "down": 2899,
+            "total": 11549,
+            "up_ratio": 74.89825958957485,
+            "down_ratio": 25.101740410425144,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2021-04-18": {
+            "true_label": 1,
+            "up": 8895,
+            "down": 6885,
+            "total": 15780,
+            "up_ratio": 56.368821292775664,
+            "down_ratio": 43.631178707224336,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2021-06-14": {
+            "true_label": 0,
+            "up": 2371,
+            "down": 3097,
+            "total": 5468,
+            "up_ratio": 43.361375274323336,
+            "down_ratio": 56.638624725676664,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-05-13": {
+            "true_label": 1,
+            "up": 1290,
+            "down": 2831,
+            "total": 4121,
+            "up_ratio": 31.303081776267895,
+            "down_ratio": 68.69691822373211,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-11-06": {
+            "true_label": 1,
+            "up": 75,
+            "down": 187,
+            "total": 262,
+            "up_ratio": 28.62595419847328,
+            "down_ratio": 71.37404580152672,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-03-24": {
+            "true_label": 0,
+            "up": 21,
+            "down": 118,
+            "total": 139,
+            "up_ratio": 15.107913669064748,
+            "down_ratio": 84.89208633093526,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-07-13": {
+            "true_label": 1,
+            "up": 1043,
+            "down": 887,
+            "total": 1930,
+            "up_ratio": 54.04145077720207,
+            "down_ratio": 45.95854922279793,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-01-13": {
+            "true_label": 1,
+            "up": 2185,
+            "down": 1975,
+            "total": 4160,
+            "up_ratio": 52.52403846153846,
+            "down_ratio": 47.47596153846153,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-07-23": {
+            "true_label": 0,
+            "up": 537,
+            "down": 464,
+            "total": 1001,
+            "up_ratio": 53.64635364635365,
+            "down_ratio": 46.353646353646354,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-05-27": {
+            "true_label": 0,
+            "up": 3618,
+            "down": 14491,
+            "total": 18109,
+            "up_ratio": 19.979015958915454,
+            "down_ratio": 80.02098404108455,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2017-12-27": {
+            "true_label": 1,
+            "up": 429,
+            "down": 426,
+            "total": 855,
+            "up_ratio": 50.175438596491226,
+            "down_ratio": 49.824561403508774,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-03-09": {
+            "true_label": 1,
+            "up": 24,
+            "down": 127,
+            "total": 151,
+            "up_ratio": 15.894039735099339,
+            "down_ratio": 84.10596026490066,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-02-22": {
+            "true_label": 1,
+            "up": 1392,
+            "down": 974,
+            "total": 2366,
+            "up_ratio": 58.8334742180896,
+            "down_ratio": 41.166525781910394,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-06-18": {
+            "true_label": 1,
+            "up": 323,
+            "down": 353,
+            "total": 676,
+            "up_ratio": 47.781065088757394,
+            "down_ratio": 52.2189349112426,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-11-20": {
+            "true_label": 0,
+            "up": 217,
+            "down": 255,
+            "total": 472,
+            "up_ratio": 45.97457627118644,
+            "down_ratio": 54.02542372881356,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-05-23": {
+            "true_label": 0,
+            "up": 1746,
+            "down": 1500,
+            "total": 3246,
+            "up_ratio": 53.789279112754166,
+            "down_ratio": 46.21072088724584,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2014-10-07": {
+            "true_label": 0,
+            "up": 71,
+            "down": 442,
+            "total": 513,
+            "up_ratio": 13.840155945419102,
+            "down_ratio": 86.15984405458089,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-02-23": {
+            "true_label": 0,
+            "up": 58,
+            "down": 103,
+            "total": 161,
+            "up_ratio": 36.024844720496894,
+            "down_ratio": 63.975155279503106,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-02-17": {
+            "true_label": 0,
+            "up": 1254,
+            "down": 1039,
+            "total": 2293,
+            "up_ratio": 54.68818142171828,
+            "down_ratio": 45.31181857828172,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-03-25": {
+            "true_label": 1,
+            "up": 1768,
+            "down": 1999,
+            "total": 3767,
+            "up_ratio": 46.9338996548978,
+            "down_ratio": 53.06610034510221,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-05-20": {
+            "true_label": 1,
+            "up": 6968,
+            "down": 13645,
+            "total": 20613,
+            "up_ratio": 33.80391015378644,
+            "down_ratio": 66.19608984621355,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-04-30": {
+            "true_label": 1,
+            "up": 1516,
+            "down": 1473,
+            "total": 2989,
+            "up_ratio": 50.71930411508866,
+            "down_ratio": 49.28069588491134,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-06-21": {
+            "true_label": 0,
+            "up": 11,
+            "down": 154,
+            "total": 165,
+            "up_ratio": 6.666666666666667,
+            "down_ratio": 93.33333333333333,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-12-31": {
+            "true_label": 1,
+            "up": 85,
+            "down": 120,
+            "total": 205,
+            "up_ratio": 41.46341463414634,
+            "down_ratio": 58.536585365853654,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-07-31": {
+            "true_label": 0,
+            "up": 546,
+            "down": 503,
+            "total": 1049,
+            "up_ratio": 52.04957102001907,
+            "down_ratio": 47.950428979980934,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-03-24": {
+            "true_label": 0,
+            "up": 2009,
+            "down": 2645,
+            "total": 4654,
+            "up_ratio": 43.16716802750322,
+            "down_ratio": 56.83283197249678,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-04-01": {
+            "true_label": 0,
+            "up": 1573,
+            "down": 1828,
+            "total": 3401,
+            "up_ratio": 46.25110261687739,
+            "down_ratio": 53.74889738312261,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-03-02": {
+            "true_label": 0,
+            "up": 17,
+            "down": 129,
+            "total": 146,
+            "up_ratio": 11.643835616438356,
+            "down_ratio": 88.35616438356165,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-03-06": {
+            "true_label": 0,
+            "up": 1604,
+            "down": 974,
+            "total": 2578,
+            "up_ratio": 62.2187742435997,
+            "down_ratio": 37.78122575640031,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-26": {
+            "true_label": 0,
+            "up": 779,
+            "down": 669,
+            "total": 1448,
+            "up_ratio": 53.79834254143646,
+            "down_ratio": 46.20165745856354,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-06-01": {
+            "true_label": 1,
+            "up": 5861,
+            "down": 6263,
+            "total": 12124,
+            "up_ratio": 48.342131309798745,
+            "down_ratio": 51.657868690201255,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-11-18": {
+            "true_label": 1,
+            "up": 4513,
+            "down": 4360,
+            "total": 8873,
+            "up_ratio": 50.86216612194298,
+            "down_ratio": 49.13783387805702,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-06-22": {
+            "true_label": 0,
+            "up": 54,
+            "down": 243,
+            "total": 297,
+            "up_ratio": 18.181818181818183,
+            "down_ratio": 81.81818181818183,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-04-11": {
+            "true_label": 1,
+            "up": 5186,
+            "down": 3272,
+            "total": 8458,
+            "up_ratio": 61.31473161503902,
+            "down_ratio": 38.685268384960985,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-04-27": {
+            "true_label": 0,
+            "up": 1121,
+            "down": 1116,
+            "total": 2237,
+            "up_ratio": 50.11175681716584,
+            "down_ratio": 49.88824318283415,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2014-09-02": {
+            "true_label": 1,
+            "up": 85,
+            "down": 193,
+            "total": 278,
+            "up_ratio": 30.575539568345324,
+            "down_ratio": 69.42446043165468,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-07-14": {
+            "true_label": 1,
+            "up": 1732,
+            "down": 1379,
+            "total": 3111,
+            "up_ratio": 55.673416907746706,
+            "down_ratio": 44.326583092253294,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-19": {
+            "true_label": 1,
+            "up": 848,
+            "down": 620,
+            "total": 1468,
+            "up_ratio": 57.765667574931875,
+            "down_ratio": 42.234332425068125,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2021-08-16": {
+            "true_label": 0,
+            "up": 2418,
+            "down": 1657,
+            "total": 4075,
+            "up_ratio": 59.33742331288343,
+            "down_ratio": 40.66257668711656,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-03-19": {
+            "true_label": 1,
+            "up": 1943,
+            "down": 1999,
+            "total": 3942,
+            "up_ratio": 49.28970065956367,
+            "down_ratio": 50.71029934043633,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-05-02": {
+            "true_label": 1,
+            "up": 5455,
+            "down": 3876,
+            "total": 9331,
+            "up_ratio": 58.46104383238667,
+            "down_ratio": 41.538956167613335,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-17": {
+            "true_label": 0,
+            "up": 1090,
+            "down": 782,
+            "total": 1872,
+            "up_ratio": 58.22649572649573,
+            "down_ratio": 41.77350427350427,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2022-05-14": {
+            "true_label": 1,
+            "up": 1165,
+            "down": 2230,
+            "total": 3395,
+            "up_ratio": 34.31516936671576,
+            "down_ratio": 65.68483063328424,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-06-07": {
+            "true_label": 1,
+            "up": 1697,
+            "down": 1353,
+            "total": 3050,
+            "up_ratio": 55.63934426229509,
+            "down_ratio": 44.36065573770492,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-02-08": {
+            "true_label": 1,
+            "up": 63,
+            "down": 111,
+            "total": 174,
+            "up_ratio": 36.206896551724135,
+            "down_ratio": 63.793103448275865,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2017-12-04": {
+            "true_label": 1,
+            "up": 273,
+            "down": 148,
+            "total": 421,
+            "up_ratio": 64.8456057007126,
+            "down_ratio": 35.15439429928741,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2022-05-12": {
+            "true_label": 1,
+            "up": 1039,
+            "down": 2221,
+            "total": 3260,
+            "up_ratio": 31.87116564417178,
+            "down_ratio": 68.12883435582822,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-12-13": {
+            "true_label": 1,
+            "up": 98,
+            "down": 135,
+            "total": 233,
+            "up_ratio": 42.06008583690987,
+            "down_ratio": 57.93991416309014,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-04-18": {
+            "true_label": 1,
+            "up": 1122,
+            "down": 991,
+            "total": 2113,
+            "up_ratio": 53.09985802177,
+            "down_ratio": 46.90014197823,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2022-01-04": {
+            "true_label": 0,
+            "up": 314,
+            "down": 452,
+            "total": 766,
+            "up_ratio": 40.992167101827675,
+            "down_ratio": 59.00783289817232,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-03-29": {
+            "true_label": 0,
+            "up": 249,
+            "down": 502,
+            "total": 751,
+            "up_ratio": 33.15579227696405,
+            "down_ratio": 66.84420772303595,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-04-25": {
+            "true_label": 1,
+            "up": 4782,
+            "down": 3562,
+            "total": 8344,
+            "up_ratio": 57.31064237775647,
+            "down_ratio": 42.68935762224353,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-01-09": {
+            "true_label": 0,
+            "up": 347,
+            "down": 333,
+            "total": 680,
+            "up_ratio": 51.02941176470588,
+            "down_ratio": 48.970588235294116,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-02-06": {
+            "true_label": 0,
+            "up": 1545,
+            "down": 1194,
+            "total": 2739,
+            "up_ratio": 56.40744797371303,
+            "down_ratio": 43.59255202628697,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-10-07": {
+            "true_label": 0,
+            "up": 560,
+            "down": 737,
+            "total": 1297,
+            "up_ratio": 43.17656129529684,
+            "down_ratio": 56.823438704703165,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-02-02": {
+            "true_label": 1,
+            "up": 52,
+            "down": 228,
+            "total": 280,
+            "up_ratio": 18.571428571428573,
+            "down_ratio": 81.42857142857143,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-03-07": {
+            "true_label": 0,
+            "up": 1399,
+            "down": 1152,
+            "total": 2551,
+            "up_ratio": 54.84123872990983,
+            "down_ratio": 45.15876127009016,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2018-05-14": {
+            "true_label": 1,
+            "up": 85,
+            "down": 281,
+            "total": 366,
+            "up_ratio": 23.224043715846996,
+            "down_ratio": 76.775956284153,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-07-27": {
+            "true_label": 0,
+            "up": 686,
+            "down": 524,
+            "total": 1210,
+            "up_ratio": 56.69421487603306,
+            "down_ratio": 43.30578512396694,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-09-20": {
+            "true_label": 0,
+            "up": 1403,
+            "down": 2608,
+            "total": 4011,
+            "up_ratio": 34.9788082772376,
+            "down_ratio": 65.02119172276241,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-09-03": {
+            "true_label": 1,
+            "up": 347,
+            "down": 488,
+            "total": 835,
+            "up_ratio": 41.55688622754491,
+            "down_ratio": 58.44311377245509,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-09-18": {
+            "true_label": 0,
+            "up": 527,
+            "down": 790,
+            "total": 1317,
+            "up_ratio": 40.015186028853456,
+            "down_ratio": 59.984813971146544,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-07-05": {
+            "true_label": 1,
+            "up": 104,
+            "down": 103,
+            "total": 207,
+            "up_ratio": 50.24154589371981,
+            "down_ratio": 49.75845410628019,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-07-16": {
+            "true_label": 1,
+            "up": 2457,
+            "down": 1830,
+            "total": 4287,
+            "up_ratio": 57.312806158152554,
+            "down_ratio": 42.687193841847446,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-07-02": {
+            "true_label": 0,
+            "up": 395,
+            "down": 294,
+            "total": 689,
+            "up_ratio": 57.32946298984035,
+            "down_ratio": 42.670537010159656,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-05-01": {
+            "true_label": 1,
+            "up": 4728,
+            "down": 2760,
+            "total": 7488,
+            "up_ratio": 63.141025641025635,
+            "down_ratio": 36.858974358974365,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-14": {
+            "true_label": 1,
+            "up": 598,
+            "down": 497,
+            "total": 1095,
+            "up_ratio": 54.61187214611872,
+            "down_ratio": 45.38812785388128,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-11": {
+            "true_label": 1,
+            "up": 1144,
+            "down": 1133,
+            "total": 2277,
+            "up_ratio": 50.24154589371981,
+            "down_ratio": 49.75845410628019,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-07-23": {
+            "true_label": 1,
+            "up": 77,
+            "down": 264,
+            "total": 341,
+            "up_ratio": 22.58064516129032,
+            "down_ratio": 77.41935483870968,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-04-23": {
+            "true_label": 1,
+            "up": 1894,
+            "down": 1585,
+            "total": 3479,
+            "up_ratio": 54.440931302098306,
+            "down_ratio": 45.559068697901694,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-06-14": {
+            "true_label": 1,
+            "up": 44,
+            "down": 255,
+            "total": 299,
+            "up_ratio": 14.715719063545151,
+            "down_ratio": 85.28428093645485,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2022-05-08": {
+            "true_label": 0,
+            "up": 267,
+            "down": 591,
+            "total": 858,
+            "up_ratio": 31.11888111888112,
+            "down_ratio": 68.88111888111888,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-10-31": {
+            "true_label": 1,
+            "up": 333,
+            "down": 440,
+            "total": 773,
+            "up_ratio": 43.07891332470893,
+            "down_ratio": 56.92108667529108,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-07-29": {
+            "true_label": 0,
+            "up": 49,
+            "down": 229,
+            "total": 278,
+            "up_ratio": 17.62589928057554,
+            "down_ratio": 82.37410071942446,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-04-23": {
+            "true_label": 1,
+            "up": 1968,
+            "down": 1443,
+            "total": 3411,
+            "up_ratio": 57.69569041336852,
+            "down_ratio": 42.30430958663149,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-01-13": {
+            "true_label": 0,
+            "up": 301,
+            "down": 436,
+            "total": 737,
+            "up_ratio": 40.84124830393487,
+            "down_ratio": 59.158751696065124,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-02-03": {
+            "true_label": 0,
+            "up": 211,
+            "down": 357,
+            "total": 568,
+            "up_ratio": 37.147887323943664,
+            "down_ratio": 62.852112676056336,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-07-22": {
+            "true_label": 1,
+            "up": 94,
+            "down": 259,
+            "total": 353,
+            "up_ratio": 26.628895184135974,
+            "down_ratio": 73.37110481586402,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-04-14": {
+            "true_label": 0,
+            "up": 1215,
+            "down": 1333,
+            "total": 2548,
+            "up_ratio": 47.68445839874411,
+            "down_ratio": 52.31554160125589,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-01-25": {
+            "true_label": 0,
+            "up": 1646,
+            "down": 1761,
+            "total": 3407,
+            "up_ratio": 48.31229820956853,
+            "down_ratio": 51.68770179043146,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-04-22": {
+            "true_label": 1,
+            "up": 1516,
+            "down": 1259,
+            "total": 2775,
+            "up_ratio": 54.63063063063063,
+            "down_ratio": 45.369369369369366,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-06-03": {
+            "true_label": 0,
+            "up": 1467,
+            "down": 1869,
+            "total": 3336,
+            "up_ratio": 43.97482014388489,
+            "down_ratio": 56.0251798561151,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-04-10": {
+            "true_label": 0,
+            "up": 1695,
+            "down": 1686,
+            "total": 3381,
+            "up_ratio": 50.13309671694765,
+            "down_ratio": 49.86690328305235,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-01": {
+            "true_label": 1,
+            "up": 578,
+            "down": 625,
+            "total": 1203,
+            "up_ratio": 48.046550290939315,
+            "down_ratio": 51.953449709060685,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-05-28": {
+            "true_label": 0,
+            "up": 89,
+            "down": 233,
+            "total": 322,
+            "up_ratio": 27.639751552795033,
+            "down_ratio": 72.36024844720497,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-04-08": {
+            "true_label": 1,
+            "up": 1143,
+            "down": 1259,
+            "total": 2402,
+            "up_ratio": 47.58534554537885,
+            "down_ratio": 52.41465445462114,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-08-30": {
+            "true_label": 0,
+            "up": 819,
+            "down": 1247,
+            "total": 2066,
+            "up_ratio": 39.641819941916744,
+            "down_ratio": 60.358180058083256,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-10-04": {
+            "true_label": 1,
+            "up": 2027,
+            "down": 2307,
+            "total": 4334,
+            "up_ratio": 46.76972773419474,
+            "down_ratio": 53.230272265805255,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-03-29": {
+            "true_label": 0,
+            "up": 977,
+            "down": 1051,
+            "total": 2028,
+            "up_ratio": 48.17554240631164,
+            "down_ratio": 51.824457593688365,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-02-26": {
+            "true_label": 1,
+            "up": 424,
+            "down": 223,
+            "total": 647,
+            "up_ratio": 65.53323029366305,
+            "down_ratio": 34.46676970633694,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2019-04-30": {
+            "true_label": 1,
+            "up": 194,
+            "down": 236,
+            "total": 430,
+            "up_ratio": 45.11627906976744,
+            "down_ratio": 54.88372093023256,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-04-03": {
+            "true_label": 1,
+            "up": 1100,
+            "down": 1409,
+            "total": 2509,
+            "up_ratio": 43.842168194499806,
+            "down_ratio": 56.1578318055002,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-04-28": {
+            "true_label": 0,
+            "up": 881,
+            "down": 749,
+            "total": 1630,
+            "up_ratio": 54.04907975460122,
+            "down_ratio": 45.95092024539878,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2024-12-04": {
+            "true_label": 1,
+            "up": 307,
+            "down": 299,
+            "total": 606,
+            "up_ratio": 50.66006600660066,
+            "down_ratio": 49.339933993399335,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-31": {
+            "true_label": 1,
+            "up": 1311,
+            "down": 1938,
+            "total": 3249,
+            "up_ratio": 40.35087719298245,
+            "down_ratio": 59.64912280701754,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-06-02": {
+            "true_label": 0,
+            "up": 712,
+            "down": 760,
+            "total": 1472,
+            "up_ratio": 48.369565217391305,
+            "down_ratio": 51.63043478260869,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-10-17": {
+            "true_label": 1,
+            "up": 30,
+            "down": 25,
+            "total": 55,
+            "up_ratio": 54.54545454545454,
+            "down_ratio": 45.45454545454545,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-08-08": {
+            "true_label": 0,
+            "up": 47,
+            "down": 225,
+            "total": 272,
+            "up_ratio": 17.27941176470588,
+            "down_ratio": 82.72058823529412,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-04-11": {
+            "true_label": 0,
+            "up": 219,
+            "down": 370,
+            "total": 589,
+            "up_ratio": 37.18166383701188,
+            "down_ratio": 62.81833616298812,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-08-09": {
+            "true_label": 0,
+            "up": 52,
+            "down": 231,
+            "total": 283,
+            "up_ratio": 18.374558303886925,
+            "down_ratio": 81.62544169611307,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-03-29": {
+            "true_label": 0,
+            "up": 1241,
+            "down": 770,
+            "total": 2011,
+            "up_ratio": 61.7105917454003,
+            "down_ratio": 38.2894082545997,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-01-16": {
+            "true_label": 1,
+            "up": 2030,
+            "down": 1690,
+            "total": 3720,
+            "up_ratio": 54.56989247311827,
+            "down_ratio": 45.43010752688172,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-05-21": {
+            "true_label": 0,
+            "up": 83,
+            "down": 299,
+            "total": 382,
+            "up_ratio": 21.727748691099478,
+            "down_ratio": 78.27225130890052,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-02-08": {
+            "true_label": 1,
+            "up": 293,
+            "down": 295,
+            "total": 588,
+            "up_ratio": 49.82993197278912,
+            "down_ratio": 50.17006802721088,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-07-05": {
+            "true_label": 0,
+            "up": 986,
+            "down": 1499,
+            "total": 2485,
+            "up_ratio": 39.67806841046277,
+            "down_ratio": 60.32193158953723,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-06-20": {
+            "true_label": 0,
+            "up": 255,
+            "down": 354,
+            "total": 609,
+            "up_ratio": 41.87192118226601,
+            "down_ratio": 58.128078817733986,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2019-03-30": {
+            "true_label": 0,
+            "up": 118,
+            "down": 96,
+            "total": 214,
+            "up_ratio": 55.140186915887845,
+            "down_ratio": 44.85981308411215,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-04-04": {
+            "true_label": 1,
+            "up": 1305,
+            "down": 1525,
+            "total": 2830,
+            "up_ratio": 46.113074204947,
+            "down_ratio": 53.88692579505301,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2017-12-29": {
+            "true_label": 0,
+            "up": 278,
+            "down": 332,
+            "total": 610,
+            "up_ratio": 45.57377049180328,
+            "down_ratio": 54.42622950819672,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-04-13": {
+            "true_label": 0,
+            "up": 1053,
+            "down": 1164,
+            "total": 2217,
+            "up_ratio": 47.496617050067655,
+            "down_ratio": 52.503382949932345,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-04-28": {
+            "true_label": 0,
+            "up": 623,
+            "down": 447,
+            "total": 1070,
+            "up_ratio": 58.22429906542056,
+            "down_ratio": 41.77570093457944,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2014-08-06": {
+            "true_label": 0,
+            "up": 96,
+            "down": 206,
+            "total": 302,
+            "up_ratio": 31.788079470198678,
+            "down_ratio": 68.21192052980133,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-05-17": {
+            "true_label": 0,
+            "up": 531,
+            "down": 852,
+            "total": 1383,
+            "up_ratio": 38.39479392624729,
+            "down_ratio": 61.60520607375272,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-04-23": {
+            "true_label": 1,
+            "up": 122,
+            "down": 277,
+            "total": 399,
+            "up_ratio": 30.576441102756892,
+            "down_ratio": 69.42355889724311,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-07-11": {
+            "true_label": 0,
+            "up": 531,
+            "down": 1063,
+            "total": 1594,
+            "up_ratio": 33.31242158092848,
+            "down_ratio": 66.68757841907151,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-10-24": {
+            "true_label": 1,
+            "up": 3523,
+            "down": 4694,
+            "total": 8217,
+            "up_ratio": 42.874528416697096,
+            "down_ratio": 57.12547158330291,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-04-09": {
+            "true_label": 1,
+            "up": 105,
+            "down": 268,
+            "total": 373,
+            "up_ratio": 28.150134048257375,
+            "down_ratio": 71.84986595174263,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-02-22": {
+            "true_label": 1,
+            "up": 223,
+            "down": 425,
+            "total": 648,
+            "up_ratio": 34.413580246913575,
+            "down_ratio": 65.58641975308642,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-08-07": {
+            "true_label": 0,
+            "up": 41,
+            "down": 159,
+            "total": 200,
+            "up_ratio": 20.5,
+            "down_ratio": 79.5,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2013-12-23": {
+            "true_label": 1,
+            "up": 242,
+            "down": 480,
+            "total": 722,
+            "up_ratio": 33.51800554016621,
+            "down_ratio": 66.4819944598338,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-03-30": {
+            "true_label": 1,
+            "up": 88,
+            "down": 98,
+            "total": 186,
+            "up_ratio": 47.31182795698925,
+            "down_ratio": 52.68817204301075,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-05-21": {
+            "true_label": 1,
+            "up": 1667,
+            "down": 1510,
+            "total": 3177,
+            "up_ratio": 52.47088448221593,
+            "down_ratio": 47.52911551778407,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-11-18": {
+            "true_label": 0,
+            "up": 50,
+            "down": 147,
+            "total": 197,
+            "up_ratio": 25.380710659898476,
+            "down_ratio": 74.61928934010153,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-04-08": {
+            "true_label": 0,
+            "up": 240,
+            "down": 779,
+            "total": 1019,
+            "up_ratio": 23.552502453385674,
+            "down_ratio": 76.44749754661433,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-04-07": {
+            "true_label": 0,
+            "up": 255,
+            "down": 660,
+            "total": 915,
+            "up_ratio": 27.86885245901639,
+            "down_ratio": 72.1311475409836,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-03-27": {
+            "true_label": 0,
+            "up": 1595,
+            "down": 1882,
+            "total": 3477,
+            "up_ratio": 45.872878918607995,
+            "down_ratio": 54.127121081392005,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-09-10": {
+            "true_label": 0,
+            "up": 313,
+            "down": 557,
+            "total": 870,
+            "up_ratio": 35.97701149425288,
+            "down_ratio": 64.02298850574712,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-01-01": {
+            "true_label": 0,
+            "up": 137,
+            "down": 116,
+            "total": 253,
+            "up_ratio": 54.1501976284585,
+            "down_ratio": 45.8498023715415,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2022-04-23": {
+            "true_label": 0,
+            "up": 369,
+            "down": 592,
+            "total": 961,
+            "up_ratio": 38.397502601456814,
+            "down_ratio": 61.602497398543186,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-12-16": {
+            "true_label": 0,
+            "up": 79,
+            "down": 126,
+            "total": 205,
+            "up_ratio": 38.53658536585366,
+            "down_ratio": 61.46341463414634,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-02-06": {
+            "true_label": 1,
+            "up": 257,
+            "down": 383,
+            "total": 640,
+            "up_ratio": 40.15625,
+            "down_ratio": 59.84374999999999,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-03-08": {
+            "true_label": 0,
+            "up": 970,
+            "down": 882,
+            "total": 1852,
+            "up_ratio": 52.37580993520518,
+            "down_ratio": 47.62419006479482,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2024-08-20": {
+            "true_label": 1,
+            "up": 174,
+            "down": 166,
+            "total": 340,
+            "up_ratio": 51.17647058823529,
+            "down_ratio": 48.8235294117647,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2014-09-26": {
+            "true_label": 0,
+            "up": 181,
+            "down": 378,
+            "total": 559,
+            "up_ratio": 32.379248658318424,
+            "down_ratio": 67.62075134168157,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-10-08": {
+            "true_label": 0,
+            "up": 242,
+            "down": 275,
+            "total": 517,
+            "up_ratio": 46.808510638297875,
+            "down_ratio": 53.191489361702125,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-12-02": {
+            "true_label": 0,
+            "up": 595,
+            "down": 966,
+            "total": 1561,
+            "up_ratio": 38.11659192825112,
+            "down_ratio": 61.88340807174888,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-04-30": {
+            "true_label": 1,
+            "up": 23,
+            "down": 118,
+            "total": 141,
+            "up_ratio": 16.312056737588655,
+            "down_ratio": 83.68794326241135,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-01-24": {
+            "true_label": 1,
+            "up": 308,
+            "down": 431,
+            "total": 739,
+            "up_ratio": 41.67794316644114,
+            "down_ratio": 58.32205683355887,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-01-22": {
+            "true_label": 0,
+            "up": 3359,
+            "down": 2758,
+            "total": 6117,
+            "up_ratio": 54.912538826222004,
+            "down_ratio": 45.087461173777996,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2022-03-25": {
+            "true_label": 0,
+            "up": 143,
+            "down": 233,
+            "total": 376,
+            "up_ratio": 38.03191489361702,
+            "down_ratio": 61.96808510638297,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-05-11": {
+            "true_label": 0,
+            "up": 97,
+            "down": 240,
+            "total": 337,
+            "up_ratio": 28.783382789317507,
+            "down_ratio": 71.2166172106825,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-03-21": {
+            "true_label": 0,
+            "up": 1467,
+            "down": 1556,
+            "total": 3023,
+            "up_ratio": 48.527952365200136,
+            "down_ratio": 51.472047634799864,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-04-18": {
+            "true_label": 1,
+            "up": 146,
+            "down": 273,
+            "total": 419,
+            "up_ratio": 34.84486873508354,
+            "down_ratio": 65.15513126491646,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2013-12-19": {
+            "true_label": 0,
+            "up": 458,
+            "down": 495,
+            "total": 953,
+            "up_ratio": 48.05876180482686,
+            "down_ratio": 51.941238195173135,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-10-01": {
+            "true_label": 1,
+            "up": 312,
+            "down": 435,
+            "total": 747,
+            "up_ratio": 41.76706827309237,
+            "down_ratio": 58.23293172690763,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-03-01": {
+            "true_label": 0,
+            "up": 530,
+            "down": 469,
+            "total": 999,
+            "up_ratio": 53.053053053053056,
+            "down_ratio": 46.94694694694695,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2020-01-30": {
+            "true_label": 0,
+            "up": 48,
+            "down": 114,
+            "total": 162,
+            "up_ratio": 29.629629629629626,
+            "down_ratio": 70.37037037037037,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-04-19": {
+            "true_label": 0,
+            "up": 960,
+            "down": 892,
+            "total": 1852,
+            "up_ratio": 51.83585313174947,
+            "down_ratio": 48.16414686825054,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2014-02-03": {
+            "true_label": 0,
+            "up": 242,
+            "down": 463,
+            "total": 705,
+            "up_ratio": 34.326241134751776,
+            "down_ratio": 65.67375886524822,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-04-06": {
+            "true_label": 1,
+            "up": 125,
+            "down": 316,
+            "total": 441,
+            "up_ratio": 28.34467120181406,
+            "down_ratio": 71.65532879818595,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-01-21": {
+            "true_label": 0,
+            "up": 1019,
+            "down": 484,
+            "total": 1503,
+            "up_ratio": 67.7977378576181,
+            "down_ratio": 32.202262142381905,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2016-06-05": {
+            "true_label": 1,
+            "up": 20,
+            "down": 138,
+            "total": 158,
+            "up_ratio": 12.658227848101266,
+            "down_ratio": 87.34177215189874,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-11-02": {
+            "true_label": 0,
+            "up": 61,
+            "down": 162,
+            "total": 223,
+            "up_ratio": 27.3542600896861,
+            "down_ratio": 72.6457399103139,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-10-25": {
+            "true_label": 0,
+            "up": 402,
+            "down": 575,
+            "total": 977,
+            "up_ratio": 41.14636642784033,
+            "down_ratio": 58.853633572159666,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-04-17": {
+            "true_label": 1,
+            "up": 151,
+            "down": 329,
+            "total": 480,
+            "up_ratio": 31.458333333333332,
+            "down_ratio": 68.54166666666667,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-01-10": {
+            "true_label": 1,
+            "up": 99,
+            "down": 141,
+            "total": 240,
+            "up_ratio": 41.25,
+            "down_ratio": 58.75,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-11-11": {
+            "true_label": 1,
+            "up": 563,
+            "down": 850,
+            "total": 1413,
+            "up_ratio": 39.84430290162774,
+            "down_ratio": 60.155697098372265,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-03-23": {
+            "true_label": 1,
+            "up": 631,
+            "down": 598,
+            "total": 1229,
+            "up_ratio": 51.342554922701375,
+            "down_ratio": 48.65744507729862,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-08-31": {
+            "true_label": 0,
+            "up": 40,
+            "down": 29,
+            "total": 69,
+            "up_ratio": 57.971014492753625,
+            "down_ratio": 42.028985507246375,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2016-05-10": {
+            "true_label": 1,
+            "up": 35,
+            "down": 141,
+            "total": 176,
+            "up_ratio": 19.886363636363637,
+            "down_ratio": 80.11363636363636,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-04-01": {
+            "true_label": 0,
+            "up": 32,
+            "down": 138,
+            "total": 170,
+            "up_ratio": 18.823529411764707,
+            "down_ratio": 81.17647058823529,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-08-03": {
+            "true_label": 0,
+            "up": 54,
+            "down": 248,
+            "total": 302,
+            "up_ratio": 17.880794701986755,
+            "down_ratio": 82.11920529801324,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-01-28": {
+            "true_label": 1,
+            "up": 64,
+            "down": 125,
+            "total": 189,
+            "up_ratio": 33.86243386243386,
+            "down_ratio": 66.13756613756614,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-10-28": {
+            "true_label": 0,
+            "up": 84,
+            "down": 157,
+            "total": 241,
+            "up_ratio": 34.85477178423236,
+            "down_ratio": 65.14522821576763,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-02-18": {
+            "true_label": 0,
+            "up": 537,
+            "down": 367,
+            "total": 904,
+            "up_ratio": 59.40265486725663,
+            "down_ratio": 40.597345132743364,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-23": {
+            "true_label": 1,
+            "up": 652,
+            "down": 404,
+            "total": 1056,
+            "up_ratio": 61.74242424242424,
+            "down_ratio": 38.25757575757576,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-04-16": {
+            "true_label": 0,
+            "up": 24,
+            "down": 108,
+            "total": 132,
+            "up_ratio": 18.181818181818183,
+            "down_ratio": 81.81818181818183,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-02-15": {
+            "true_label": 0,
+            "up": 36,
+            "down": 104,
+            "total": 140,
+            "up_ratio": 25.71428571428571,
+            "down_ratio": 74.28571428571429,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-06-25": {
+            "true_label": 0,
+            "up": 823,
+            "down": 1190,
+            "total": 2013,
+            "up_ratio": 40.88425235966219,
+            "down_ratio": 59.1157476403378,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-07-01": {
+            "true_label": 1,
+            "up": 628,
+            "down": 573,
+            "total": 1201,
+            "up_ratio": 52.289758534554544,
+            "down_ratio": 47.71024146544546,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2014-09-15": {
+            "true_label": 0,
+            "up": 136,
+            "down": 352,
+            "total": 488,
+            "up_ratio": 27.86885245901639,
+            "down_ratio": 72.1311475409836,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-05-05": {
+            "true_label": 0,
+            "up": 105,
+            "down": 248,
+            "total": 353,
+            "up_ratio": 29.745042492917843,
+            "down_ratio": 70.25495750708215,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-09-09": {
+            "true_label": 1,
+            "up": 198,
+            "down": 418,
+            "total": 616,
+            "up_ratio": 32.142857142857146,
+            "down_ratio": 67.85714285714286,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-08-07": {
+            "true_label": 1,
+            "up": 995,
+            "down": 557,
+            "total": 1552,
+            "up_ratio": 64.11082474226805,
+            "down_ratio": 35.88917525773196,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-11-27": {
+            "true_label": 1,
+            "up": 80,
+            "down": 139,
+            "total": 219,
+            "up_ratio": 36.5296803652968,
+            "down_ratio": 63.4703196347032,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-07-02": {
+            "true_label": 1,
+            "up": 58,
+            "down": 219,
+            "total": 277,
+            "up_ratio": 20.938628158844764,
+            "down_ratio": 79.06137184115524,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-09-08": {
+            "true_label": 1,
+            "up": 99,
+            "down": 224,
+            "total": 323,
+            "up_ratio": 30.65015479876161,
+            "down_ratio": 69.3498452012384,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-09-27": {
+            "true_label": 1,
+            "up": 78,
+            "down": 217,
+            "total": 295,
+            "up_ratio": 26.440677966101696,
+            "down_ratio": 73.5593220338983,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-07-08": {
+            "true_label": 1,
+            "up": 132,
+            "down": 109,
+            "total": 241,
+            "up_ratio": 54.77178423236515,
+            "down_ratio": 45.22821576763486,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2014-05-18": {
+            "true_label": 1,
+            "up": 234,
+            "down": 567,
+            "total": 801,
+            "up_ratio": 29.213483146067414,
+            "down_ratio": 70.78651685393258,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-01-19": {
+            "true_label": 1,
+            "up": 248,
+            "down": 213,
+            "total": 461,
+            "up_ratio": 53.79609544468546,
+            "down_ratio": 46.20390455531454,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-02-26": {
+            "true_label": 0,
+            "up": 39,
+            "down": 136,
+            "total": 175,
+            "up_ratio": 22.285714285714285,
+            "down_ratio": 77.71428571428571,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-02-15": {
+            "true_label": 0,
+            "up": 72,
+            "down": 144,
+            "total": 216,
+            "up_ratio": 33.33333333333333,
+            "down_ratio": 66.66666666666666,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-04-19": {
+            "true_label": 1,
+            "up": 18,
+            "down": 170,
+            "total": 188,
+            "up_ratio": 9.574468085106384,
+            "down_ratio": 90.42553191489363,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-12-11": {
+            "true_label": 1,
+            "up": 86,
+            "down": 108,
+            "total": 194,
+            "up_ratio": 44.329896907216494,
+            "down_ratio": 55.670103092783506,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2017-11-23": {
+            "true_label": 1,
+            "up": 397,
+            "down": 339,
+            "total": 736,
+            "up_ratio": 53.940217391304344,
+            "down_ratio": 46.059782608695656,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-30": {
+            "true_label": 0,
+            "up": 1294,
+            "down": 1606,
+            "total": 2900,
+            "up_ratio": 44.62068965517241,
+            "down_ratio": 55.37931034482758,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-07-22": {
+            "true_label": 0,
+            "up": 89,
+            "down": 219,
+            "total": 308,
+            "up_ratio": 28.8961038961039,
+            "down_ratio": 71.1038961038961,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-01-03": {
+            "true_label": 1,
+            "up": 201,
+            "down": 153,
+            "total": 354,
+            "up_ratio": 56.779661016949156,
+            "down_ratio": 43.22033898305085,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2014-02-07": {
+            "true_label": 1,
+            "up": 420,
+            "down": 589,
+            "total": 1009,
+            "up_ratio": 41.62537165510407,
+            "down_ratio": 58.37462834489594,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2017-11-19": {
+            "true_label": 0,
+            "up": 104,
+            "down": 106,
+            "total": 210,
+            "up_ratio": 49.523809523809526,
+            "down_ratio": 50.476190476190474,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-03-21": {
+            "true_label": 0,
+            "up": 155,
+            "down": 533,
+            "total": 688,
+            "up_ratio": 22.52906976744186,
+            "down_ratio": 77.47093023255815,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-06-30": {
+            "true_label": 1,
+            "up": 688,
+            "down": 463,
+            "total": 1151,
+            "up_ratio": 59.77410947002606,
+            "down_ratio": 40.22589052997393,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2021-08-25": {
+            "true_label": 0,
+            "up": 217,
+            "down": 345,
+            "total": 562,
+            "up_ratio": 38.612099644128115,
+            "down_ratio": 61.387900355871885,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2017-11-29": {
+            "true_label": 1,
+            "up": 178,
+            "down": 198,
+            "total": 376,
+            "up_ratio": 47.340425531914896,
+            "down_ratio": 52.659574468085104,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-11-21": {
+            "true_label": 1,
+            "up": 62,
+            "down": 133,
+            "total": 195,
+            "up_ratio": 31.794871794871792,
+            "down_ratio": 68.2051282051282,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-08-28": {
+            "true_label": 1,
+            "up": 278,
+            "down": 275,
+            "total": 553,
+            "up_ratio": 50.27124773960217,
+            "down_ratio": 49.728752260397826,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2022-01-22": {
+            "true_label": 0,
+            "up": 236,
+            "down": 430,
+            "total": 666,
+            "up_ratio": 35.43543543543544,
+            "down_ratio": 64.56456456456456,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-03-24": {
+            "true_label": 0,
+            "up": 142,
+            "down": 552,
+            "total": 694,
+            "up_ratio": 20.461095100864554,
+            "down_ratio": 79.53890489913545,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-05-24": {
+            "true_label": 0,
+            "up": 70,
+            "down": 211,
+            "total": 281,
+            "up_ratio": 24.91103202846975,
+            "down_ratio": 75.08896797153025,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-03-04": {
+            "true_label": 0,
+            "up": 155,
+            "down": 410,
+            "total": 565,
+            "up_ratio": 27.43362831858407,
+            "down_ratio": 72.56637168141593,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-03-21": {
+            "true_label": 1,
+            "up": 28,
+            "down": 131,
+            "total": 159,
+            "up_ratio": 17.61006289308176,
+            "down_ratio": 82.38993710691824,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-01-28": {
+            "true_label": 1,
+            "up": 51,
+            "down": 142,
+            "total": 193,
+            "up_ratio": 26.42487046632124,
+            "down_ratio": 73.57512953367875,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2017-12-20": {
+            "true_label": 0,
+            "up": 533,
+            "down": 417,
+            "total": 950,
+            "up_ratio": 56.10526315789473,
+            "down_ratio": 43.89473684210527,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2019-04-10": {
+            "true_label": 0,
+            "up": 169,
+            "down": 216,
+            "total": 385,
+            "up_ratio": 43.896103896103895,
+            "down_ratio": 56.1038961038961,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-07-17": {
+            "true_label": 0,
+            "up": 906,
+            "down": 687,
+            "total": 1593,
+            "up_ratio": 56.873822975517896,
+            "down_ratio": 43.12617702448211,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2019-04-25": {
+            "true_label": 0,
+            "up": 123,
+            "down": 156,
+            "total": 279,
+            "up_ratio": 44.086021505376344,
+            "down_ratio": 55.91397849462365,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-05-13": {
+            "true_label": 1,
+            "up": 373,
+            "down": 209,
+            "total": 582,
+            "up_ratio": 64.08934707903781,
+            "down_ratio": 35.9106529209622,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-06-07": {
+            "true_label": 1,
+            "up": 22,
+            "down": 131,
+            "total": 153,
+            "up_ratio": 14.37908496732026,
+            "down_ratio": 85.62091503267973,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-07-06": {
+            "true_label": 1,
+            "up": 106,
+            "down": 202,
+            "total": 308,
+            "up_ratio": 34.41558441558442,
+            "down_ratio": 65.5844155844156,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-03-16": {
+            "true_label": 0,
+            "up": 63,
+            "down": 80,
+            "total": 143,
+            "up_ratio": 44.05594405594406,
+            "down_ratio": 55.94405594405595,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-05-29": {
+            "true_label": 1,
+            "up": 28,
+            "down": 137,
+            "total": 165,
+            "up_ratio": 16.969696969696972,
+            "down_ratio": 83.03030303030303,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-05-13": {
+            "true_label": 0,
+            "up": 302,
+            "down": 882,
+            "total": 1184,
+            "up_ratio": 25.506756756756754,
+            "down_ratio": 74.49324324324324,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2019-04-13": {
+            "true_label": 1,
+            "up": 133,
+            "down": 119,
+            "total": 252,
+            "up_ratio": 52.77777777777778,
+            "down_ratio": 47.22222222222222,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2017-12-09": {
+            "true_label": 1,
+            "up": 266,
+            "down": 226,
+            "total": 492,
+            "up_ratio": 54.0650406504065,
+            "down_ratio": 45.9349593495935,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2020-01-19": {
+            "true_label": 0,
+            "up": 70,
+            "down": 144,
+            "total": 214,
+            "up_ratio": 32.71028037383177,
+            "down_ratio": 67.28971962616822,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-09-19": {
+            "true_label": 0,
+            "up": 208,
+            "down": 376,
+            "total": 584,
+            "up_ratio": 35.61643835616438,
+            "down_ratio": 64.38356164383562,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-12-21": {
+            "true_label": 0,
+            "up": 199,
+            "down": 142,
+            "total": 341,
+            "up_ratio": 58.35777126099707,
+            "down_ratio": 41.64222873900293,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2024-08-16": {
+            "true_label": 1,
+            "up": 322,
+            "down": 309,
+            "total": 631,
+            "up_ratio": 51.03011093502378,
+            "down_ratio": 48.96988906497623,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2022-05-29": {
+            "true_label": 1,
+            "up": 51,
+            "down": 54,
+            "total": 105,
+            "up_ratio": 48.57142857142857,
+            "down_ratio": 51.42857142857142,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-06-14": {
+            "true_label": 0,
+            "up": 405,
+            "down": 506,
+            "total": 911,
+            "up_ratio": 44.45664105378705,
+            "down_ratio": 55.54335894621295,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-08-04": {
+            "true_label": 1,
+            "up": 38,
+            "down": 131,
+            "total": 169,
+            "up_ratio": 22.485207100591715,
+            "down_ratio": 77.51479289940828,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-01-01": {
+            "true_label": 0,
+            "up": 41,
+            "down": 89,
+            "total": 130,
+            "up_ratio": 31.538461538461537,
+            "down_ratio": 68.46153846153847,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-08-14": {
+            "true_label": 0,
+            "up": 93,
+            "down": 255,
+            "total": 348,
+            "up_ratio": 26.72413793103448,
+            "down_ratio": 73.27586206896551,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-07-26": {
+            "true_label": 1,
+            "up": 675,
+            "down": 479,
+            "total": 1154,
+            "up_ratio": 58.49220103986135,
+            "down_ratio": 41.50779896013865,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-06-27": {
+            "true_label": 1,
+            "up": 15,
+            "down": 120,
+            "total": 135,
+            "up_ratio": 11.11111111111111,
+            "down_ratio": 88.88888888888889,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-07-23": {
+            "true_label": 0,
+            "up": 1263,
+            "down": 1316,
+            "total": 2579,
+            "up_ratio": 48.97246994959287,
+            "down_ratio": 51.02753005040713,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2017-11-11": {
+            "true_label": 0,
+            "up": 136,
+            "down": 123,
+            "total": 259,
+            "up_ratio": 52.509652509652504,
+            "down_ratio": 47.49034749034749,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2019-04-16": {
+            "true_label": 1,
+            "up": 150,
+            "down": 162,
+            "total": 312,
+            "up_ratio": 48.07692307692308,
+            "down_ratio": 51.92307692307693,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-10-23": {
+            "true_label": 1,
+            "up": 104,
+            "down": 223,
+            "total": 327,
+            "up_ratio": 31.804281345565748,
+            "down_ratio": 68.19571865443424,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2022-03-27": {
+            "true_label": 1,
+            "up": 233,
+            "down": 333,
+            "total": 566,
+            "up_ratio": 41.1660777385159,
+            "down_ratio": 58.8339222614841,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2015-11-13": {
+            "true_label": 0,
+            "up": 26,
+            "down": 113,
+            "total": 139,
+            "up_ratio": 18.705035971223023,
+            "down_ratio": 81.29496402877699,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2013-12-31": {
+            "true_label": 0,
+            "up": 108,
+            "down": 150,
+            "total": 258,
+            "up_ratio": 41.86046511627907,
+            "down_ratio": 58.139534883720934,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-05-17": {
+            "true_label": 0,
+            "up": 345,
+            "down": 605,
+            "total": 950,
+            "up_ratio": 36.31578947368421,
+            "down_ratio": 63.68421052631579,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-02-24": {
+            "true_label": 0,
+            "up": 31,
+            "down": 119,
+            "total": 150,
+            "up_ratio": 20.666666666666668,
+            "down_ratio": 79.33333333333333,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-04-29": {
+            "true_label": 0,
+            "up": 93,
+            "down": 206,
+            "total": 299,
+            "up_ratio": 31.103678929765888,
+            "down_ratio": 68.89632107023411,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-01-15": {
+            "true_label": 1,
+            "up": 503,
+            "down": 333,
+            "total": 836,
+            "up_ratio": 60.16746411483253,
+            "down_ratio": 39.83253588516747,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-06-03": {
+            "true_label": 0,
+            "up": 57,
+            "down": 216,
+            "total": 273,
+            "up_ratio": 20.87912087912088,
+            "down_ratio": 79.12087912087912,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-03-11": {
+            "true_label": 1,
+            "up": 157,
+            "down": 360,
+            "total": 517,
+            "up_ratio": 30.36750483558994,
+            "down_ratio": 69.63249516441006,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2015-12-28": {
+            "true_label": 1,
+            "up": 33,
+            "down": 113,
+            "total": 146,
+            "up_ratio": 22.602739726027394,
+            "down_ratio": 77.3972602739726,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-11-25": {
+            "true_label": 0,
+            "up": 143,
+            "down": 116,
+            "total": 259,
+            "up_ratio": 55.21235521235521,
+            "down_ratio": 44.78764478764479,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2014-08-05": {
+            "true_label": 0,
+            "up": 112,
+            "down": 261,
+            "total": 373,
+            "up_ratio": 30.02680965147453,
+            "down_ratio": 69.97319034852548,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-08-22": {
+            "true_label": 1,
+            "up": 219,
+            "down": 313,
+            "total": 532,
+            "up_ratio": 41.16541353383459,
+            "down_ratio": 58.83458646616542,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-10-06": {
+            "true_label": 0,
+            "up": 113,
+            "down": 317,
+            "total": 430,
+            "up_ratio": 26.27906976744186,
+            "down_ratio": 73.72093023255813,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-02-18": {
+            "true_label": 0,
+            "up": 193,
+            "down": 443,
+            "total": 636,
+            "up_ratio": 30.345911949685533,
+            "down_ratio": 69.65408805031447,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-10-27": {
+            "true_label": 1,
+            "up": 87,
+            "down": 78,
+            "total": 165,
+            "up_ratio": 52.72727272727272,
+            "down_ratio": 47.27272727272727,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-06-20": {
+            "true_label": 0,
+            "up": 55,
+            "down": 243,
+            "total": 298,
+            "up_ratio": 18.456375838926174,
+            "down_ratio": 81.54362416107382,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2015-12-06": {
+            "true_label": 1,
+            "up": 20,
+            "down": 134,
+            "total": 154,
+            "up_ratio": 12.987012987012985,
+            "down_ratio": 87.01298701298701,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-02-28": {
+            "true_label": 0,
+            "up": 144,
+            "down": 329,
+            "total": 473,
+            "up_ratio": 30.443974630021142,
+            "down_ratio": 69.55602536997885,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-11-26": {
+            "true_label": 0,
+            "up": 53,
+            "down": 138,
+            "total": 191,
+            "up_ratio": 27.748691099476442,
+            "down_ratio": 72.25130890052355,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-03-31": {
+            "true_label": 0,
+            "up": 205,
+            "down": 312,
+            "total": 517,
+            "up_ratio": 39.65183752417795,
+            "down_ratio": 60.34816247582205,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-03-21": {
+            "true_label": 1,
+            "up": 120,
+            "down": 222,
+            "total": 342,
+            "up_ratio": 35.08771929824561,
+            "down_ratio": 64.91228070175438,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2022-02-08": {
+            "true_label": 0,
+            "up": 42,
+            "down": 68,
+            "total": 110,
+            "up_ratio": 38.18181818181819,
+            "down_ratio": 61.81818181818181,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-05-09": {
+            "true_label": 0,
+            "up": 145,
+            "down": 320,
+            "total": 465,
+            "up_ratio": 31.182795698924732,
+            "down_ratio": 68.81720430107528,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-01-29": {
+            "true_label": 0,
+            "up": 75,
+            "down": 111,
+            "total": 186,
+            "up_ratio": 40.32258064516129,
+            "down_ratio": 59.67741935483871,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-01-27": {
+            "true_label": 0,
+            "up": 38,
+            "down": 57,
+            "total": 95,
+            "up_ratio": 40.0,
+            "down_ratio": 60.0,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-11-05": {
+            "true_label": 1,
+            "up": 73,
+            "down": 158,
+            "total": 231,
+            "up_ratio": 31.601731601731604,
+            "down_ratio": 68.3982683982684,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2022-02-02": {
+            "true_label": 0,
+            "up": 160,
+            "down": 233,
+            "total": 393,
+            "up_ratio": 40.71246819338422,
+            "down_ratio": 59.28753180661578,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2015-12-13": {
+            "true_label": 1,
+            "up": 42,
+            "down": 116,
+            "total": 158,
+            "up_ratio": 26.582278481012654,
+            "down_ratio": 73.41772151898735,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-11-23": {
+            "true_label": 0,
+            "up": 163,
+            "down": 246,
+            "total": 409,
+            "up_ratio": 39.85330073349633,
+            "down_ratio": 60.14669926650367,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-07-30": {
+            "true_label": 1,
+            "up": 251,
+            "down": 303,
+            "total": 554,
+            "up_ratio": 45.30685920577617,
+            "down_ratio": 54.69314079422383,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2017-12-08": {
+            "true_label": 0,
+            "up": 284,
+            "down": 201,
+            "total": 485,
+            "up_ratio": 58.55670103092784,
+            "down_ratio": 41.44329896907217,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2014-08-02": {
+            "true_label": 0,
+            "up": 51,
+            "down": 163,
+            "total": 214,
+            "up_ratio": 23.83177570093458,
+            "down_ratio": 76.16822429906543,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-03-09": {
+            "true_label": 0,
+            "up": 113,
+            "down": 210,
+            "total": 323,
+            "up_ratio": 34.984520123839005,
+            "down_ratio": 65.01547987616098,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-02-03": {
+            "true_label": 1,
+            "up": 68,
+            "down": 239,
+            "total": 307,
+            "up_ratio": 22.149837133550488,
+            "down_ratio": 77.85016286644951,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-03-08": {
+            "true_label": 1,
+            "up": 46,
+            "down": 28,
+            "total": 74,
+            "up_ratio": 62.16216216216216,
+            "down_ratio": 37.83783783783784,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-06-30": {
+            "true_label": 1,
+            "up": 48,
+            "down": 213,
+            "total": 261,
+            "up_ratio": 18.39080459770115,
+            "down_ratio": 81.60919540229885,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-06-20": {
+            "true_label": 0,
+            "up": 14,
+            "down": 127,
+            "total": 141,
+            "up_ratio": 9.929078014184398,
+            "down_ratio": 90.0709219858156,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-09-29": {
+            "true_label": 1,
+            "up": 203,
+            "down": 335,
+            "total": 538,
+            "up_ratio": 37.732342007434944,
+            "down_ratio": 62.26765799256505,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2019-03-04": {
+            "true_label": 0,
+            "up": 117,
+            "down": 107,
+            "total": 224,
+            "up_ratio": 52.23214285714286,
+            "down_ratio": 47.767857142857146,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2014-07-26": {
+            "true_label": 0,
+            "up": 118,
+            "down": 189,
+            "total": 307,
+            "up_ratio": 38.43648208469055,
+            "down_ratio": 61.563517915309454,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-10-18": {
+            "true_label": 1,
+            "up": 133,
+            "down": 150,
+            "total": 283,
+            "up_ratio": 46.996466431095406,
+            "down_ratio": 53.003533568904594,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-02-04": {
+            "true_label": 0,
+            "up": 247,
+            "down": 356,
+            "total": 603,
+            "up_ratio": 40.96185737976783,
+            "down_ratio": 59.03814262023217,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-05-10": {
+            "true_label": 0,
+            "up": 120,
+            "down": 243,
+            "total": 363,
+            "up_ratio": 33.057851239669425,
+            "down_ratio": 66.94214876033058,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-09-01": {
+            "true_label": 0,
+            "up": 76,
+            "down": 67,
+            "total": 143,
+            "up_ratio": 53.14685314685315,
+            "down_ratio": 46.85314685314685,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-11-25": {
+            "true_label": 0,
+            "up": 208,
+            "down": 313,
+            "total": 521,
+            "up_ratio": 39.923224568138195,
+            "down_ratio": 60.076775431861805,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-06-19": {
+            "true_label": 0,
+            "up": 15,
+            "down": 144,
+            "total": 159,
+            "up_ratio": 9.433962264150944,
+            "down_ratio": 90.56603773584906,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-12-26": {
+            "true_label": 0,
+            "up": 40,
+            "down": 43,
+            "total": 83,
+            "up_ratio": 48.19277108433735,
+            "down_ratio": 51.80722891566265,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-03-18": {
+            "true_label": 0,
+            "up": 134,
+            "down": 61,
+            "total": 195,
+            "up_ratio": 68.71794871794872,
+            "down_ratio": 31.28205128205128,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2016-06-08": {
+            "true_label": 1,
+            "up": 14,
+            "down": 132,
+            "total": 146,
+            "up_ratio": 9.58904109589041,
+            "down_ratio": 90.41095890410958,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2017-12-21": {
+            "true_label": 0,
+            "up": 501,
+            "down": 485,
+            "total": 986,
+            "up_ratio": 50.811359026369175,
+            "down_ratio": 49.18864097363083,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2019-04-19": {
+            "true_label": 0,
+            "up": 147,
+            "down": 143,
+            "total": 290,
+            "up_ratio": 50.689655172413794,
+            "down_ratio": 49.310344827586206,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2016-08-28": {
+            "true_label": 1,
+            "up": 33,
+            "down": 192,
+            "total": 225,
+            "up_ratio": 14.666666666666666,
+            "down_ratio": 85.33333333333334,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-10-29": {
+            "true_label": 0,
+            "up": 111,
+            "down": 256,
+            "total": 367,
+            "up_ratio": 30.24523160762943,
+            "down_ratio": 69.75476839237056,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-07-03": {
+            "true_label": 0,
+            "up": 230,
+            "down": 197,
+            "total": 427,
+            "up_ratio": 53.86416861826698,
+            "down_ratio": 46.13583138173302,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2024-12-25": {
+            "true_label": 0,
+            "up": 262,
+            "down": 160,
+            "total": 422,
+            "up_ratio": 62.08530805687204,
+            "down_ratio": 37.91469194312796,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2016-04-07": {
+            "true_label": 1,
+            "up": 23,
+            "down": 122,
+            "total": 145,
+            "up_ratio": 15.862068965517242,
+            "down_ratio": 84.13793103448276,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-04-04": {
+            "true_label": 1,
+            "up": 63,
+            "down": 84,
+            "total": 147,
+            "up_ratio": 42.857142857142854,
+            "down_ratio": 57.14285714285714,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-12-11": {
+            "true_label": 1,
+            "up": 56,
+            "down": 90,
+            "total": 146,
+            "up_ratio": 38.35616438356164,
+            "down_ratio": 61.64383561643836,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2022-05-05": {
+            "true_label": 0,
+            "up": 83,
+            "down": 200,
+            "total": 283,
+            "up_ratio": 29.328621908127207,
+            "down_ratio": 70.6713780918728,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-06-01": {
+            "true_label": 0,
+            "up": 591,
+            "down": 409,
+            "total": 1000,
+            "up_ratio": 59.099999999999994,
+            "down_ratio": 40.9,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2018-12-18": {
+            "true_label": 1,
+            "up": 185,
+            "down": 174,
+            "total": 359,
+            "up_ratio": 51.532033426183844,
+            "down_ratio": 48.467966573816156,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2022-04-08": {
+            "true_label": 0,
+            "up": 57,
+            "down": 100,
+            "total": 157,
+            "up_ratio": 36.30573248407643,
+            "down_ratio": 63.69426751592356,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-03-26": {
+            "true_label": 1,
+            "up": 305,
+            "down": 200,
+            "total": 505,
+            "up_ratio": 60.396039603960396,
+            "down_ratio": 39.603960396039604,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2018-11-01": {
+            "true_label": 0,
+            "up": 65,
+            "down": 212,
+            "total": 277,
+            "up_ratio": 23.465703971119133,
+            "down_ratio": 76.53429602888086,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-05-19": {
+            "true_label": 1,
+            "up": 165,
+            "down": 327,
+            "total": 492,
+            "up_ratio": 33.53658536585366,
+            "down_ratio": 66.46341463414635,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2015-11-16": {
+            "true_label": 1,
+            "up": 22,
+            "down": 113,
+            "total": 135,
+            "up_ratio": 16.296296296296298,
+            "down_ratio": 83.7037037037037,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-05-25": {
+            "true_label": 0,
+            "up": 76,
+            "down": 259,
+            "total": 335,
+            "up_ratio": 22.686567164179106,
+            "down_ratio": 77.31343283582089,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-08-09": {
+            "true_label": 1,
+            "up": 40,
+            "down": 145,
+            "total": 185,
+            "up_ratio": 21.62162162162162,
+            "down_ratio": 78.37837837837837,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-03-12": {
+            "true_label": 0,
+            "up": 115,
+            "down": 166,
+            "total": 281,
+            "up_ratio": 40.92526690391459,
+            "down_ratio": 59.07473309608541,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-04-25": {
+            "true_label": 0,
+            "up": 77,
+            "down": 216,
+            "total": 293,
+            "up_ratio": 26.27986348122867,
+            "down_ratio": 73.72013651877133,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-07-10": {
+            "true_label": 0,
+            "up": 17,
+            "down": 161,
+            "total": 178,
+            "up_ratio": 9.550561797752808,
+            "down_ratio": 90.4494382022472,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2015-11-15": {
+            "true_label": 1,
+            "up": 30,
+            "down": 110,
+            "total": 140,
+            "up_ratio": 21.428571428571427,
+            "down_ratio": 78.57142857142857,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-02-20": {
+            "true_label": 1,
+            "up": 50,
+            "down": 106,
+            "total": 156,
+            "up_ratio": 32.05128205128205,
+            "down_ratio": 67.94871794871796,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-03-22": {
+            "true_label": 1,
+            "up": 62,
+            "down": 38,
+            "total": 100,
+            "up_ratio": 62.0,
+            "down_ratio": 38.0,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2017-11-27": {
+            "true_label": 1,
+            "up": 151,
+            "down": 158,
+            "total": 309,
+            "up_ratio": 48.86731391585761,
+            "down_ratio": 51.1326860841424,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-09-03": {
+            "true_label": 1,
+            "up": 157,
+            "down": 212,
+            "total": 369,
+            "up_ratio": 42.54742547425474,
+            "down_ratio": 57.45257452574526,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-11-12": {
+            "true_label": 1,
+            "up": 93,
+            "down": 199,
+            "total": 292,
+            "up_ratio": 31.84931506849315,
+            "down_ratio": 68.15068493150685,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-03-09": {
+            "true_label": 0,
+            "up": 108,
+            "down": 345,
+            "total": 453,
+            "up_ratio": 23.841059602649008,
+            "down_ratio": 76.15894039735099,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2019-03-01": {
+            "true_label": 1,
+            "up": 81,
+            "down": 117,
+            "total": 198,
+            "up_ratio": 40.909090909090914,
+            "down_ratio": 59.09090909090909,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-03-23": {
+            "true_label": 1,
+            "up": 31,
+            "down": 114,
+            "total": 145,
+            "up_ratio": 21.379310344827587,
+            "down_ratio": 78.62068965517241,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-08-15": {
+            "true_label": 1,
+            "up": 30,
+            "down": 98,
+            "total": 128,
+            "up_ratio": 23.4375,
+            "down_ratio": 76.5625,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-08-11": {
+            "true_label": 0,
+            "up": 30,
+            "down": 156,
+            "total": 186,
+            "up_ratio": 16.129032258064516,
+            "down_ratio": 83.87096774193549,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-03-10": {
+            "true_label": 1,
+            "up": 102,
+            "down": 110,
+            "total": 212,
+            "up_ratio": 48.113207547169814,
+            "down_ratio": 51.886792452830186,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2015-11-23": {
+            "true_label": 1,
+            "up": 39,
+            "down": 89,
+            "total": 128,
+            "up_ratio": 30.46875,
+            "down_ratio": 69.53125,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-10-28": {
+            "true_label": 0,
+            "up": 118,
+            "down": 173,
+            "total": 291,
+            "up_ratio": 40.549828178694156,
+            "down_ratio": 59.450171821305844,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-05-19": {
+            "true_label": 1,
+            "up": 63,
+            "down": 61,
+            "total": 124,
+            "up_ratio": 50.806451612903224,
+            "down_ratio": 49.193548387096776,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-08-01": {
+            "true_label": 0,
+            "up": 28,
+            "down": 138,
+            "total": 166,
+            "up_ratio": 16.867469879518072,
+            "down_ratio": 83.13253012048193,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-03-13": {
+            "true_label": 0,
+            "up": 51,
+            "down": 132,
+            "total": 183,
+            "up_ratio": 27.86885245901639,
+            "down_ratio": 72.1311475409836,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-08-16": {
+            "true_label": 1,
+            "up": 29,
+            "down": 85,
+            "total": 114,
+            "up_ratio": 25.438596491228072,
+            "down_ratio": 74.56140350877193,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2017-11-13": {
+            "true_label": 1,
+            "up": 73,
+            "down": 92,
+            "total": 165,
+            "up_ratio": 44.24242424242424,
+            "down_ratio": 55.757575757575765,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-03-02": {
+            "true_label": 0,
+            "up": 403,
+            "down": 462,
+            "total": 865,
+            "up_ratio": 46.589595375722546,
+            "down_ratio": 53.410404624277454,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-05-08": {
+            "true_label": 0,
+            "up": 39,
+            "down": 139,
+            "total": 178,
+            "up_ratio": 21.910112359550563,
+            "down_ratio": 78.08988764044943,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-07-04": {
+            "true_label": 0,
+            "up": 62,
+            "down": 62,
+            "total": 124,
+            "up_ratio": 50.0,
+            "down_ratio": 50.0,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2020-04-17": {
+            "true_label": 1,
+            "up": 63,
+            "down": 82,
+            "total": 145,
+            "up_ratio": 43.44827586206896,
+            "down_ratio": 56.55172413793104,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2022-05-31": {
+            "true_label": 0,
+            "up": 55,
+            "down": 58,
+            "total": 113,
+            "up_ratio": 48.67256637168141,
+            "down_ratio": 51.32743362831859,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-05-27": {
+            "true_label": 1,
+            "up": 97,
+            "down": 251,
+            "total": 348,
+            "up_ratio": 27.873563218390807,
+            "down_ratio": 72.12643678160919,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-04-26": {
+            "true_label": 0,
+            "up": 61,
+            "down": 60,
+            "total": 121,
+            "up_ratio": 50.413223140495866,
+            "down_ratio": 49.586776859504134,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2016-01-22": {
+            "true_label": 1,
+            "up": 39,
+            "down": 80,
+            "total": 119,
+            "up_ratio": 32.773109243697476,
+            "down_ratio": 67.22689075630252,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-10-31": {
+            "true_label": 0,
+            "up": 109,
+            "down": 122,
+            "total": 231,
+            "up_ratio": 47.18614718614719,
+            "down_ratio": 52.81385281385281,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-05-03": {
+            "true_label": 0,
+            "up": 92,
+            "down": 264,
+            "total": 356,
+            "up_ratio": 25.842696629213485,
+            "down_ratio": 74.15730337078652,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-11-20": {
+            "true_label": 1,
+            "up": 55,
+            "down": 152,
+            "total": 207,
+            "up_ratio": 26.570048309178745,
+            "down_ratio": 73.42995169082126,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-07-19": {
+            "true_label": 0,
+            "up": 10,
+            "down": 136,
+            "total": 146,
+            "up_ratio": 6.8493150684931505,
+            "down_ratio": 93.15068493150685,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-05-23": {
+            "true_label": 0,
+            "up": 32,
+            "down": 125,
+            "total": 157,
+            "up_ratio": 20.382165605095544,
+            "down_ratio": 79.61783439490446,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-07-11": {
+            "true_label": 0,
+            "up": 17,
+            "down": 136,
+            "total": 153,
+            "up_ratio": 11.11111111111111,
+            "down_ratio": 88.88888888888889,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-05-22": {
+            "true_label": 1,
+            "up": 41,
+            "down": 134,
+            "total": 175,
+            "up_ratio": 23.42857142857143,
+            "down_ratio": 76.57142857142857,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-05-30": {
+            "true_label": 0,
+            "up": 77,
+            "down": 205,
+            "total": 282,
+            "up_ratio": 27.30496453900709,
+            "down_ratio": 72.69503546099291,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-05-03": {
+            "true_label": 0,
+            "up": 37,
+            "down": 132,
+            "total": 169,
+            "up_ratio": 21.893491124260358,
+            "down_ratio": 78.10650887573965,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-04-10": {
+            "true_label": 0,
+            "up": 77,
+            "down": 72,
+            "total": 149,
+            "up_ratio": 51.67785234899329,
+            "down_ratio": 48.322147651006716,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2020-01-06": {
+            "true_label": 1,
+            "up": 141,
+            "down": 149,
+            "total": 290,
+            "up_ratio": 48.62068965517241,
+            "down_ratio": 51.37931034482759,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-11-04": {
+            "true_label": 0,
+            "up": 19,
+            "down": 26,
+            "total": 45,
+            "up_ratio": 42.22222222222222,
+            "down_ratio": 57.77777777777777,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-05-24": {
+            "true_label": 0,
+            "up": 37,
+            "down": 67,
+            "total": 104,
+            "up_ratio": 35.57692307692308,
+            "down_ratio": 64.42307692307693,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-03-17": {
+            "true_label": 1,
+            "up": 70,
+            "down": 84,
+            "total": 154,
+            "up_ratio": 45.45454545454545,
+            "down_ratio": 54.54545454545454,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-01-18": {
+            "true_label": 1,
+            "up": 208,
+            "down": 185,
+            "total": 393,
+            "up_ratio": 52.926208651399484,
+            "down_ratio": 47.07379134860051,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-07-18": {
+            "true_label": 1,
+            "up": 215,
+            "down": 186,
+            "total": 401,
+            "up_ratio": 53.61596009975062,
+            "down_ratio": 46.38403990024938,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2019-04-27": {
+            "true_label": 0,
+            "up": 110,
+            "down": 114,
+            "total": 224,
+            "up_ratio": 49.107142857142854,
+            "down_ratio": 50.89285714285714,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-11-26": {
+            "true_label": 1,
+            "up": 125,
+            "down": 85,
+            "total": 210,
+            "up_ratio": 59.523809523809526,
+            "down_ratio": 40.476190476190474,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2020-03-26": {
+            "true_label": 0,
+            "up": 61,
+            "down": 82,
+            "total": 143,
+            "up_ratio": 42.65734265734265,
+            "down_ratio": 57.34265734265735,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2015-12-31": {
+            "true_label": 1,
+            "up": 25,
+            "down": 95,
+            "total": 120,
+            "up_ratio": 20.833333333333336,
+            "down_ratio": 79.16666666666666,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-08-21": {
+            "true_label": 0,
+            "up": 85,
+            "down": 254,
+            "total": 339,
+            "up_ratio": 25.073746312684364,
+            "down_ratio": 74.92625368731564,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-02-27": {
+            "true_label": 0,
+            "up": 29,
+            "down": 114,
+            "total": 143,
+            "up_ratio": 20.27972027972028,
+            "down_ratio": 79.72027972027972,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-12-09": {
+            "true_label": 0,
+            "up": 52,
+            "down": 63,
+            "total": 115,
+            "up_ratio": 45.21739130434783,
+            "down_ratio": 54.78260869565217,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-04-21": {
+            "true_label": 0,
+            "up": 2,
+            "down": 7,
+            "total": 9,
+            "up_ratio": 22.22222222222222,
+            "down_ratio": 77.77777777777779,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2015-12-16": {
+            "true_label": 0,
+            "up": 42,
+            "down": 115,
+            "total": 157,
+            "up_ratio": 26.751592356687897,
+            "down_ratio": 73.24840764331209,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-08-05": {
+            "true_label": 1,
+            "up": 39,
+            "down": 147,
+            "total": 186,
+            "up_ratio": 20.967741935483872,
+            "down_ratio": 79.03225806451613,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2025-06-21": {
+            "true_label": 0,
+            "up": 97,
+            "down": 105,
+            "total": 202,
+            "up_ratio": 48.01980198019802,
+            "down_ratio": 51.98019801980198,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-02-29": {
+            "true_label": 0,
+            "up": 67,
+            "down": 83,
+            "total": 150,
+            "up_ratio": 44.666666666666664,
+            "down_ratio": 55.333333333333336,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-08-05": {
+            "true_label": 0,
+            "up": 19,
+            "down": 34,
+            "total": 53,
+            "up_ratio": 35.84905660377358,
+            "down_ratio": 64.15094339622641,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-05-06": {
+            "true_label": 1,
+            "up": 53,
+            "down": 137,
+            "total": 190,
+            "up_ratio": 27.89473684210526,
+            "down_ratio": 72.10526315789474,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-03-11": {
+            "true_label": 0,
+            "up": 47,
+            "down": 86,
+            "total": 133,
+            "up_ratio": 35.338345864661655,
+            "down_ratio": 64.66165413533834,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-04-12": {
+            "true_label": 0,
+            "up": 20,
+            "down": 25,
+            "total": 45,
+            "up_ratio": 44.44444444444444,
+            "down_ratio": 55.55555555555556,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-04-13": {
+            "true_label": 0,
+            "up": 58,
+            "down": 73,
+            "total": 131,
+            "up_ratio": 44.274809160305345,
+            "down_ratio": 55.72519083969466,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-04-19": {
+            "true_label": 0,
+            "up": 50,
+            "down": 73,
+            "total": 123,
+            "up_ratio": 40.65040650406504,
+            "down_ratio": 59.34959349593496,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-02-03": {
+            "true_label": 1,
+            "up": 21,
+            "down": 24,
+            "total": 45,
+            "up_ratio": 46.666666666666664,
+            "down_ratio": 53.333333333333336,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-08-02": {
+            "true_label": 0,
+            "up": 92,
+            "down": 121,
+            "total": 213,
+            "up_ratio": 43.1924882629108,
+            "down_ratio": 56.8075117370892,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-03-25": {
+            "true_label": 1,
+            "up": 22,
+            "down": 109,
+            "total": 131,
+            "up_ratio": 16.793893129770993,
+            "down_ratio": 83.20610687022901,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-08-15": {
+            "true_label": 1,
+            "up": 35,
+            "down": 131,
+            "total": 166,
+            "up_ratio": 21.084337349397593,
+            "down_ratio": 78.91566265060241,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-04-27": {
+            "true_label": 1,
+            "up": 4,
+            "down": 28,
+            "total": 32,
+            "up_ratio": 12.5,
+            "down_ratio": 87.5,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2014-09-20": {
+            "true_label": 1,
+            "up": 162,
+            "down": 239,
+            "total": 401,
+            "up_ratio": 40.399002493765586,
+            "down_ratio": 59.60099750623441,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-05-30": {
+            "true_label": 1,
+            "up": 42,
+            "down": 148,
+            "total": 190,
+            "up_ratio": 22.105263157894736,
+            "down_ratio": 77.89473684210526,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-06-23": {
+            "true_label": 0,
+            "up": 62,
+            "down": 60,
+            "total": 122,
+            "up_ratio": 50.81967213114754,
+            "down_ratio": 49.18032786885246,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2016-05-26": {
+            "true_label": 0,
+            "up": 35,
+            "down": 140,
+            "total": 175,
+            "up_ratio": 20.0,
+            "down_ratio": 80.0,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2020-02-22": {
+            "true_label": 1,
+            "up": 36,
+            "down": 82,
+            "total": 118,
+            "up_ratio": 30.508474576271187,
+            "down_ratio": 69.49152542372882,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-07-23": {
+            "true_label": 1,
+            "up": 14,
+            "down": 129,
+            "total": 143,
+            "up_ratio": 9.79020979020979,
+            "down_ratio": 90.20979020979021,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-04-23": {
+            "true_label": 1,
+            "up": 15,
+            "down": 157,
+            "total": 172,
+            "up_ratio": 8.720930232558139,
+            "down_ratio": 91.27906976744185,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-02-23": {
+            "true_label": 0,
+            "up": 35,
+            "down": 107,
+            "total": 142,
+            "up_ratio": 24.647887323943664,
+            "down_ratio": 75.35211267605634,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-01-15": {
+            "true_label": 0,
+            "up": 39,
+            "down": 44,
+            "total": 83,
+            "up_ratio": 46.98795180722892,
+            "down_ratio": 53.01204819277109,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-12-17": {
+            "true_label": 0,
+            "up": 74,
+            "down": 82,
+            "total": 156,
+            "up_ratio": 47.43589743589743,
+            "down_ratio": 52.56410256410257,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-05-04": {
+            "true_label": 0,
+            "up": 43,
+            "down": 133,
+            "total": 176,
+            "up_ratio": 24.431818181818183,
+            "down_ratio": 75.56818181818183,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2019-03-13": {
+            "true_label": 1,
+            "up": 112,
+            "down": 136,
+            "total": 248,
+            "up_ratio": 45.16129032258064,
+            "down_ratio": 54.83870967741935,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-10-30": {
+            "true_label": 0,
+            "up": 37,
+            "down": 45,
+            "total": 82,
+            "up_ratio": 45.1219512195122,
+            "down_ratio": 54.87804878048781,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-07-04": {
+            "true_label": 0,
+            "up": 56,
+            "down": 221,
+            "total": 277,
+            "up_ratio": 20.216606498194945,
+            "down_ratio": 79.78339350180505,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-04-29": {
+            "true_label": 1,
+            "up": 39,
+            "down": 40,
+            "total": 79,
+            "up_ratio": 49.36708860759494,
+            "down_ratio": 50.63291139240506,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2015-12-23": {
+            "true_label": 1,
+            "up": 51,
+            "down": 79,
+            "total": 130,
+            "up_ratio": 39.23076923076923,
+            "down_ratio": 60.76923076923077,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-04-28": {
+            "true_label": 1,
+            "up": 83,
+            "down": 94,
+            "total": 177,
+            "up_ratio": 46.89265536723164,
+            "down_ratio": 53.10734463276836,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2016-02-16": {
+            "true_label": 0,
+            "up": 32,
+            "down": 136,
+            "total": 168,
+            "up_ratio": 19.047619047619047,
+            "down_ratio": 80.95238095238095,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2016-02-14": {
+            "true_label": 0,
+            "up": 38,
+            "down": 108,
+            "total": 146,
+            "up_ratio": 26.027397260273972,
+            "down_ratio": 73.97260273972603,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2014-05-16": {
+            "true_label": 0,
+            "up": 19,
+            "down": 15,
+            "total": 34,
+            "up_ratio": 55.88235294117647,
+            "down_ratio": 44.11764705882353,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2022-03-05": {
+            "true_label": 0,
+            "up": 17,
+            "down": 38,
+            "total": 55,
+            "up_ratio": 30.909090909090907,
+            "down_ratio": 69.0909090909091,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-05-19": {
+            "true_label": 1,
+            "up": 9,
+            "down": 32,
+            "total": 41,
+            "up_ratio": 21.951219512195124,
+            "down_ratio": 78.04878048780488,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2021-03-12": {
+            "true_label": 1,
+            "up": 33,
+            "down": 37,
+            "total": 70,
+            "up_ratio": 47.14285714285714,
+            "down_ratio": 52.85714285714286,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2015-11-08": {
+            "true_label": 0,
+            "up": 4,
+            "down": 25,
+            "total": 29,
+            "up_ratio": 13.793103448275861,
+            "down_ratio": 86.20689655172413,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2018-10-05": {
+            "true_label": 0,
+            "up": 16,
+            "down": 45,
+            "total": 61,
+            "up_ratio": 26.229508196721312,
+            "down_ratio": 73.77049180327869,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2021-09-30": {
+            "true_label": 1,
+            "up": 31,
+            "down": 64,
+            "total": 95,
+            "up_ratio": 32.631578947368425,
+            "down_ratio": 67.36842105263158,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-07-09": {
+            "true_label": 1,
+            "up": 3,
+            "down": 1,
+            "total": 4,
+            "up_ratio": 75.0,
+            "down_ratio": 25.0,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-12-19": {
+            "true_label": 0,
+            "up": 73,
+            "down": 66,
+            "total": 139,
+            "up_ratio": 52.51798561151079,
+            "down_ratio": 47.482014388489205,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2024-04-23": {
+            "true_label": 0,
+            "up": 42,
+            "down": 41,
+            "total": 83,
+            "up_ratio": 50.602409638554214,
+            "down_ratio": 49.39759036144578,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2021-08-20": {
+            "true_label": 1,
+            "up": 14,
+            "down": 28,
+            "total": 42,
+            "up_ratio": 33.33333333333333,
+            "down_ratio": 66.66666666666666,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2022-02-01": {
+            "true_label": 0,
+            "up": 33,
+            "down": 50,
+            "total": 83,
+            "up_ratio": 39.75903614457831,
+            "down_ratio": 60.24096385542169,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-09-27": {
+            "true_label": 1,
+            "up": 6,
+            "down": 1,
+            "total": 7,
+            "up_ratio": 85.71428571428571,
+            "down_ratio": 14.285714285714285,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2020-03-18": {
+            "true_label": 1,
+            "up": 62,
+            "down": 56,
+            "total": 118,
+            "up_ratio": 52.54237288135594,
+            "down_ratio": 47.45762711864407,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2021-12-30": {
+            "true_label": 1,
+            "up": 24,
+            "down": 36,
+            "total": 60,
+            "up_ratio": 40.0,
+            "down_ratio": 60.0,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-10-26": {
+            "true_label": 1,
+            "up": 24,
+            "down": 31,
+            "total": 55,
+            "up_ratio": 43.63636363636363,
+            "down_ratio": 56.36363636363636,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-07-12": {
+            "true_label": 1,
+            "up": 44,
+            "down": 34,
+            "total": 78,
+            "up_ratio": 56.41025641025641,
+            "down_ratio": 43.58974358974359,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-03-15": {
+            "true_label": 0,
+            "up": 9,
+            "down": 8,
+            "total": 17,
+            "up_ratio": 52.94117647058824,
+            "down_ratio": 47.05882352941176,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2024-09-12": {
+            "true_label": 1,
+            "up": 9,
+            "down": 15,
+            "total": 24,
+            "up_ratio": 37.5,
+            "down_ratio": 62.5,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2020-03-07": {
+            "true_label": 0,
+            "up": 57,
+            "down": 97,
+            "total": 154,
+            "up_ratio": 37.01298701298701,
+            "down_ratio": 62.98701298701299,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-05-20": {
+            "true_label": 1,
+            "up": 10,
+            "down": 5,
+            "total": 15,
+            "up_ratio": 66.66666666666666,
+            "down_ratio": 33.33333333333333,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2016-02-21": {
+            "true_label": 0,
+            "up": 31,
+            "down": 118,
+            "total": 149,
+            "up_ratio": 20.80536912751678,
+            "down_ratio": 79.19463087248322,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-08-12": {
+            "true_label": 1,
+            "up": 6,
+            "down": 8,
+            "total": 14,
+            "up_ratio": 42.857142857142854,
+            "down_ratio": 57.14285714285714,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2018-08-21": {
+            "true_label": 0,
+            "up": 2,
+            "down": 21,
+            "total": 23,
+            "up_ratio": 8.695652173913043,
+            "down_ratio": 91.30434782608695,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-04-13": {
+            "true_label": 0,
+            "up": 15,
+            "down": 20,
+            "total": 35,
+            "up_ratio": 42.857142857142854,
+            "down_ratio": 57.14285714285714,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-04-06": {
+            "true_label": 1,
+            "up": 10,
+            "down": 10,
+            "total": 20,
+            "up_ratio": 50.0,
+            "down_ratio": 50.0,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-03-27": {
+            "true_label": 1,
+            "up": 35,
+            "down": 34,
+            "total": 69,
+            "up_ratio": 50.72463768115942,
+            "down_ratio": 49.275362318840585,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2021-12-27": {
+            "true_label": 0,
+            "up": 4,
+            "down": 10,
+            "total": 14,
+            "up_ratio": 28.57142857142857,
+            "down_ratio": 71.42857142857143,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2022-02-14": {
+            "true_label": 1,
+            "up": 14,
+            "down": 26,
+            "total": 40,
+            "up_ratio": 35.0,
+            "down_ratio": 65.0,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-05-22": {
+            "true_label": 0,
+            "up": 15,
+            "down": 14,
+            "total": 29,
+            "up_ratio": 51.724137931034484,
+            "down_ratio": 48.275862068965516,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2024-05-25": {
+            "true_label": 1,
+            "up": 13,
+            "down": 7,
+            "total": 20,
+            "up_ratio": 65.0,
+            "down_ratio": 35.0,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2021-08-21": {
+            "true_label": 0,
+            "up": 0,
+            "down": 5,
+            "total": 5,
+            "up_ratio": 0.0,
+            "down_ratio": 100.0,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2024-02-14": {
+            "true_label": 1,
+            "up": 11,
+            "down": 9,
+            "total": 20,
+            "up_ratio": 55.00000000000001,
+            "down_ratio": 45.0,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-02-11": {
+            "true_label": 1,
+            "up": 2,
+            "down": 7,
+            "total": 9,
+            "up_ratio": 22.22222222222222,
+            "down_ratio": 77.77777777777779,
+            "majority_pred": 0,
+            "majority_correct": 0
+        },
+        "2024-03-20": {
+            "true_label": 1,
+            "up": 12,
+            "down": 12,
+            "total": 24,
+            "up_ratio": 50.0,
+            "down_ratio": 50.0,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-02-12": {
+            "true_label": 1,
+            "up": 6,
+            "down": 4,
+            "total": 10,
+            "up_ratio": 60.0,
+            "down_ratio": 40.0,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2015-12-02": {
+            "true_label": 1,
+            "up": 1,
+            "down": 1,
+            "total": 2,
+            "up_ratio": 50.0,
+            "down_ratio": 50.0,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2024-03-07": {
+            "true_label": 1,
+            "up": 0,
+            "down": 1,
+            "total": 1,
+            "up_ratio": 0.0,
+            "down_ratio": 100.0,
+            "majority_pred": 0,
+            "majority_correct": 0
+        }
+    },
+    "PEPE": {
+        "2025-03-20": {
+            "true_label": 0,
+            "up": 4025,
+            "down": 1509,
+            "total": 5534,
+            "up_ratio": 72.73220093964584,
+            "down_ratio": 27.267799060354175,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-05-13": {
+            "true_label": 1,
+            "up": 3090,
+            "down": 899,
+            "total": 3989,
+            "up_ratio": 77.46302331411381,
+            "down_ratio": 22.536976685886188,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-06-19": {
+            "true_label": 0,
+            "up": 1289,
+            "down": 644,
+            "total": 1933,
+            "up_ratio": 66.68391101914123,
+            "down_ratio": 33.31608898085877,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-05-03": {
+            "true_label": 0,
+            "up": 3690,
+            "down": 1766,
+            "total": 5456,
+            "up_ratio": 67.63196480938416,
+            "down_ratio": 32.368035190615835,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-06": {
+            "true_label": 1,
+            "up": 2721,
+            "down": 1095,
+            "total": 3816,
+            "up_ratio": 71.30503144654088,
+            "down_ratio": 28.69496855345912,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-06-09": {
+            "true_label": 1,
+            "up": 4119,
+            "down": 1736,
+            "total": 5855,
+            "up_ratio": 70.35012809564475,
+            "down_ratio": 29.64987190435525,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-04-28": {
+            "true_label": 1,
+            "up": 1060,
+            "down": 458,
+            "total": 1518,
+            "up_ratio": 69.82872200263505,
+            "down_ratio": 30.171277997364953,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-31": {
+            "true_label": 1,
+            "up": 2563,
+            "down": 1210,
+            "total": 3773,
+            "up_ratio": 67.93002915451895,
+            "down_ratio": 32.06997084548105,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-02-15": {
+            "true_label": 0,
+            "up": 979,
+            "down": 435,
+            "total": 1414,
+            "up_ratio": 69.23620933521923,
+            "down_ratio": 30.763790664780764,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-03": {
+            "true_label": 0,
+            "up": 4384,
+            "down": 2106,
+            "total": 6490,
+            "up_ratio": 67.55007704160246,
+            "down_ratio": 32.449922958397536,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-07-13": {
+            "true_label": 1,
+            "up": 4943,
+            "down": 1540,
+            "total": 6483,
+            "up_ratio": 76.24556532469535,
+            "down_ratio": 23.75443467530464,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-01": {
+            "true_label": 1,
+            "up": 728,
+            "down": 474,
+            "total": 1202,
+            "up_ratio": 60.56572379367721,
+            "down_ratio": 39.43427620632279,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-11": {
+            "true_label": 0,
+            "up": 2003,
+            "down": 573,
+            "total": 2576,
+            "up_ratio": 77.75621118012423,
+            "down_ratio": 22.243788819875775,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-04-25": {
+            "true_label": 1,
+            "up": 975,
+            "down": 335,
+            "total": 1310,
+            "up_ratio": 74.42748091603053,
+            "down_ratio": 25.572519083969464,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-07-20": {
+            "true_label": 1,
+            "up": 5283,
+            "down": 1844,
+            "total": 7127,
+            "up_ratio": 74.12656096534306,
+            "down_ratio": 25.873439034656936,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-02-05": {
+            "true_label": 0,
+            "up": 1376,
+            "down": 757,
+            "total": 2133,
+            "up_ratio": 64.51007969995311,
+            "down_ratio": 35.48992030004688,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-10": {
+            "true_label": 0,
+            "up": 3898,
+            "down": 1786,
+            "total": 5684,
+            "up_ratio": 68.57846586910627,
+            "down_ratio": 31.421534130893736,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-02-03": {
+            "true_label": 0,
+            "up": 1690,
+            "down": 816,
+            "total": 2506,
+            "up_ratio": 67.43814844373503,
+            "down_ratio": 32.56185155626496,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-05-26": {
+            "true_label": 1,
+            "up": 3227,
+            "down": 1259,
+            "total": 4486,
+            "up_ratio": 71.93490860454747,
+            "down_ratio": 28.06509139545252,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-02-27": {
+            "true_label": 0,
+            "up": 1174,
+            "down": 629,
+            "total": 1803,
+            "up_ratio": 65.1136993899057,
+            "down_ratio": 34.88630061009429,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-05-25": {
+            "true_label": 0,
+            "up": 3564,
+            "down": 1420,
+            "total": 4984,
+            "up_ratio": 71.50882825040128,
+            "down_ratio": 28.491171749598713,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-29": {
+            "true_label": 1,
+            "up": 1764,
+            "down": 457,
+            "total": 2221,
+            "up_ratio": 79.42368302566412,
+            "down_ratio": 20.576316974335885,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-07-17": {
+            "true_label": 0,
+            "up": 4042,
+            "down": 1461,
+            "total": 5503,
+            "up_ratio": 73.45084499363983,
+            "down_ratio": 26.549155006360163,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-23": {
+            "true_label": 1,
+            "up": 2823,
+            "down": 1137,
+            "total": 3960,
+            "up_ratio": 71.28787878787878,
+            "down_ratio": 28.71212121212121,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-07-19": {
+            "true_label": 1,
+            "up": 3598,
+            "down": 1406,
+            "total": 5004,
+            "up_ratio": 71.90247801758593,
+            "down_ratio": 28.09752198241407,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-02-09": {
+            "true_label": 0,
+            "up": 1311,
+            "down": 752,
+            "total": 2063,
+            "up_ratio": 63.54823073194377,
+            "down_ratio": 36.451769268056225,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-02-10": {
+            "true_label": 1,
+            "up": 1334,
+            "down": 701,
+            "total": 2035,
+            "up_ratio": 65.55282555282555,
+            "down_ratio": 34.44717444717445,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-04-24": {
+            "true_label": 1,
+            "up": 1471,
+            "down": 468,
+            "total": 1939,
+            "up_ratio": 75.86384734399175,
+            "down_ratio": 24.136152656008253,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-02-21": {
+            "true_label": 0,
+            "up": 771,
+            "down": 455,
+            "total": 1226,
+            "up_ratio": 62.88743882544862,
+            "down_ratio": 37.11256117455138,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-31": {
+            "true_label": 1,
+            "up": 303,
+            "down": 147,
+            "total": 450,
+            "up_ratio": 67.33333333333333,
+            "down_ratio": 32.666666666666664,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-19": {
+            "true_label": 1,
+            "up": 1192,
+            "down": 549,
+            "total": 1741,
+            "up_ratio": 68.4663986214819,
+            "down_ratio": 31.533601378518096,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-14": {
+            "true_label": 0,
+            "up": 612,
+            "down": 158,
+            "total": 770,
+            "up_ratio": 79.48051948051949,
+            "down_ratio": 20.51948051948052,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-14": {
+            "true_label": 1,
+            "up": 271,
+            "down": 139,
+            "total": 410,
+            "up_ratio": 66.09756097560975,
+            "down_ratio": 33.90243902439025,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-23": {
+            "true_label": 0,
+            "up": 1575,
+            "down": 467,
+            "total": 2042,
+            "up_ratio": 77.13026444662096,
+            "down_ratio": 22.86973555337904,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-09": {
+            "true_label": 0,
+            "up": 982,
+            "down": 464,
+            "total": 1446,
+            "up_ratio": 67.91147994467497,
+            "down_ratio": 32.088520055325034,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-07-12": {
+            "true_label": 0,
+            "up": 1809,
+            "down": 540,
+            "total": 2349,
+            "up_ratio": 77.01149425287356,
+            "down_ratio": 22.988505747126435,
+            "majority_pred": 1,
+            "majority_correct": 0
+        }
+    },
+    "TRUMP": {
+        "2025-05-04": {
+            "true_label": 0,
+            "up": 1218,
+            "down": 383,
+            "total": 1601,
+            "up_ratio": 76.07745159275453,
+            "down_ratio": 23.922548407245472,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-02-15": {
+            "true_label": 0,
+            "up": 3116,
+            "down": 2012,
+            "total": 5128,
+            "up_ratio": 60.764430577223095,
+            "down_ratio": 39.23556942277691,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-10": {
+            "true_label": 0,
+            "up": 1272,
+            "down": 545,
+            "total": 1817,
+            "up_ratio": 70.00550357732526,
+            "down_ratio": 29.99449642267474,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-01-23": {
+            "true_label": 0,
+            "up": 2790,
+            "down": 759,
+            "total": 3549,
+            "up_ratio": 78.61369399830939,
+            "down_ratio": 21.386306001690617,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-02-09": {
+            "true_label": 0,
+            "up": 1710,
+            "down": 572,
+            "total": 2282,
+            "up_ratio": 74.93426818580193,
+            "down_ratio": 25.065731814198074,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-04-10": {
+            "true_label": 0,
+            "up": 1927,
+            "down": 670,
+            "total": 2597,
+            "up_ratio": 74.20100115517906,
+            "down_ratio": 25.798998844820947,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-02-23": {
+            "true_label": 0,
+            "up": 436,
+            "down": 262,
+            "total": 698,
+            "up_ratio": 62.46418338108882,
+            "down_ratio": 37.53581661891118,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-05-08": {
+            "true_label": 0,
+            "up": 1607,
+            "down": 327,
+            "total": 1934,
+            "up_ratio": 83.09203722854188,
+            "down_ratio": 16.907962771458116,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-11": {
+            "true_label": 1,
+            "up": 411,
+            "down": 152,
+            "total": 563,
+            "up_ratio": 73.00177619893428,
+            "down_ratio": 26.99822380106572,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-02-27": {
+            "true_label": 0,
+            "up": 1889,
+            "down": 975,
+            "total": 2864,
+            "up_ratio": 65.95670391061452,
+            "down_ratio": 34.04329608938548,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-02-05": {
+            "true_label": 0,
+            "up": 1221,
+            "down": 402,
+            "total": 1623,
+            "up_ratio": 75.23105360443623,
+            "down_ratio": 24.76894639556377,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-04": {
+            "true_label": 1,
+            "up": 2077,
+            "down": 879,
+            "total": 2956,
+            "up_ratio": 70.2638700947226,
+            "down_ratio": 29.7361299052774,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-04-29": {
+            "true_label": 0,
+            "up": 671,
+            "down": 142,
+            "total": 813,
+            "up_ratio": 82.53382533825338,
+            "down_ratio": 17.466174661746617,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-02-14": {
+            "true_label": 1,
+            "up": 946,
+            "down": 407,
+            "total": 1353,
+            "up_ratio": 69.91869918699187,
+            "down_ratio": 30.081300813008134,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-13": {
+            "true_label": 1,
+            "up": 261,
+            "down": 113,
+            "total": 374,
+            "up_ratio": 69.78609625668449,
+            "down_ratio": 30.213903743315505,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-07": {
+            "true_label": 1,
+            "up": 1661,
+            "down": 379,
+            "total": 2040,
+            "up_ratio": 81.42156862745098,
+            "down_ratio": 18.57843137254902,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-04-04": {
+            "true_label": 1,
+            "up": 1012,
+            "down": 386,
+            "total": 1398,
+            "up_ratio": 72.38912732474965,
+            "down_ratio": 27.61087267525036,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-13": {
+            "true_label": 1,
+            "up": 473,
+            "down": 87,
+            "total": 560,
+            "up_ratio": 84.46428571428571,
+            "down_ratio": 15.535714285714286,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-02-24": {
+            "true_label": 0,
+            "up": 1309,
+            "down": 620,
+            "total": 1929,
+            "up_ratio": 67.8589942975635,
+            "down_ratio": 32.1410057024365,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-04-09": {
+            "true_label": 1,
+            "up": 1859,
+            "down": 527,
+            "total": 2386,
+            "up_ratio": 77.91282481139983,
+            "down_ratio": 22.087175188600167,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-02-25": {
+            "true_label": 1,
+            "up": 1962,
+            "down": 897,
+            "total": 2859,
+            "up_ratio": 68.62539349422875,
+            "down_ratio": 31.374606505771247,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-09": {
+            "true_label": 0,
+            "up": 1648,
+            "down": 327,
+            "total": 1975,
+            "up_ratio": 83.44303797468355,
+            "down_ratio": 16.556962025316455,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-01": {
+            "true_label": 1,
+            "up": 1555,
+            "down": 683,
+            "total": 2238,
+            "up_ratio": 69.4816800714924,
+            "down_ratio": 30.518319928507598,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-05-27": {
+            "true_label": 0,
+            "up": 1206,
+            "down": 321,
+            "total": 1527,
+            "up_ratio": 78.97838899803537,
+            "down_ratio": 21.021611001964637,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-04-28": {
+            "true_label": 1,
+            "up": 652,
+            "down": 153,
+            "total": 805,
+            "up_ratio": 80.99378881987577,
+            "down_ratio": 19.006211180124225,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-17": {
+            "true_label": 0,
+            "up": 910,
+            "down": 339,
+            "total": 1249,
+            "up_ratio": 72.85828662930345,
+            "down_ratio": 27.141713370696557,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-07-04": {
+            "true_label": 0,
+            "up": 16,
+            "down": 3,
+            "total": 19,
+            "up_ratio": 84.21052631578947,
+            "down_ratio": 15.789473684210526,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-07-05": {
+            "true_label": 1,
+            "up": 445,
+            "down": 109,
+            "total": 554,
+            "up_ratio": 80.32490974729242,
+            "down_ratio": 19.67509025270758,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-06-16": {
+            "true_label": 0,
+            "up": 169,
+            "down": 52,
+            "total": 221,
+            "up_ratio": 76.47058823529412,
+            "down_ratio": 23.52941176470588,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-05-14": {
+            "true_label": 1,
+            "up": 392,
+            "down": 82,
+            "total": 474,
+            "up_ratio": 82.70042194092827,
+            "down_ratio": 17.29957805907173,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-06-23": {
+            "true_label": 1,
+            "up": 327,
+            "down": 97,
+            "total": 424,
+            "up_ratio": 77.12264150943396,
+            "down_ratio": 22.87735849056604,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-03-02": {
+            "true_label": 0,
+            "up": 223,
+            "down": 73,
+            "total": 296,
+            "up_ratio": 75.33783783783784,
+            "down_ratio": 24.66216216216216,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-18": {
+            "true_label": 0,
+            "up": 72,
+            "down": 32,
+            "total": 104,
+            "up_ratio": 69.23076923076923,
+            "down_ratio": 30.76923076923077,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-03-12": {
+            "true_label": 1,
+            "up": 69,
+            "down": 27,
+            "total": 96,
+            "up_ratio": 71.875,
+            "down_ratio": 28.125,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-04-13": {
+            "true_label": 0,
+            "up": 43,
+            "down": 17,
+            "total": 60,
+            "up_ratio": 71.66666666666667,
+            "down_ratio": 28.333333333333332,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-15": {
+            "true_label": 0,
+            "up": 21,
+            "down": 3,
+            "total": 24,
+            "up_ratio": 87.5,
+            "down_ratio": 12.5,
+            "majority_pred": 1,
+            "majority_correct": 0
+        },
+        "2025-06-30": {
+            "true_label": 1,
+            "up": 16,
+            "down": 8,
+            "total": 24,
+            "up_ratio": 66.66666666666666,
+            "down_ratio": 33.33333333333333,
+            "majority_pred": 1,
+            "majority_correct": 1
+        },
+        "2025-04-21": {
+            "true_label": 0,
+            "up": 7,
+            "down": 9,
+            "total": 16,
+            "up_ratio": 43.75,
+            "down_ratio": 56.25,
+            "majority_pred": 0,
+            "majority_correct": 1
+        },
+        "2025-07-29": {
+            "true_label": 0,
+            "up": 1,
+            "down": 0,
+            "total": 1,
+            "up_ratio": 100.0,
+            "down_ratio": 0.0,
+            "majority_pred": 1,
+            "majority_correct": 0
+        }
+    }
+}
