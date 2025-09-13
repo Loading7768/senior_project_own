@@ -353,7 +353,7 @@ class ModelHubMixin:
     def _encode_arg(cls, arg: Any) -> Any:
         """Encode an argument into a JSON serializable format."""
         if is_dataclass(arg):
-            return asdict(arg)
+            return asdict(arg)  # type: ignore[arg-type]
         for type_, (encoder, _) in cls._hub_mixin_coders.items():
             if isinstance(arg, type_):
                 if arg is None:
@@ -491,7 +491,7 @@ class ModelHubMixin:
                 'http://hostname': 'foo.bar:4012'}`. The proxies are used on every request.
             token (`str` or `bool`, *optional*):
                 The token to use as HTTP bearer authorization for remote files. By default, it will use the token
-                cached when running `huggingface-cli login`.
+                cached when running `hf auth login`.
             cache_dir (`str`, `Path`, *optional*):
                 Path to the folder where cached files are stored.
             local_files_only (`bool`, *optional*, defaults to `False`):
@@ -619,7 +619,7 @@ class ModelHubMixin:
                 'http://hostname': 'foo.bar:4012'}`).
             token (`str` or `bool`, *optional*):
                 The token to use as HTTP bearer authorization for remote files. By default, it will use the token
-                cached when running `huggingface-cli login`.
+                cached when running `hf auth login`.
             cache_dir (`str`, `Path`, *optional*):
                 Path to the folder where cached files are stored.
             local_files_only (`bool`, *optional*, defaults to `False`):
@@ -664,7 +664,7 @@ class ModelHubMixin:
                 If `None` (default), the repo will be public unless the organization's default is private.
             token (`str`, *optional*):
                 The token to use as HTTP bearer authorization for remote files. By default, it will use the token
-                cached when running `huggingface-cli login`.
+                cached when running `hf auth login`.
             branch (`str`, *optional*):
                 The git branch on which to push the model. This defaults to `"main"`.
             create_pr (`boolean`, *optional*):
@@ -767,7 +767,7 @@ class PyTorchModelHubMixin(ModelHubMixin):
     def _save_pretrained(self, save_directory: Path) -> None:
         """Save weights from a Pytorch model to a local directory."""
         model_to_save = self.module if hasattr(self, "module") else self  # type: ignore
-        save_model_as_safetensor(model_to_save, str(save_directory / constants.SAFETENSORS_SINGLE_FILE))
+        save_model_as_safetensor(model_to_save, str(save_directory / constants.SAFETENSORS_SINGLE_FILE))  # type: ignore [arg-type]
 
     @classmethod
     def _from_pretrained(
