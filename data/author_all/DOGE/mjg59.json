@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 291,
+            "username": "Matthew Garrett (@mjg59@nondeterministic.computer)",
+            "user_account": "mjg59",
+            "text": "Botnet of Dogecoin miners running on compromised BMCs",
+            "created_at": "Wed Jan 08 03:39:34 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1262,
+            "username": "Matthew Garrett (@mjg59@nondeterministic.computer)",
+            "user_account": "mjg59",
+            "text": "Given the complete lack of power management on this thing I suspect that running a dogecoin miner whenever watching a DVD would make money",
+            "created_at": "Mon Apr 14 01:04:30 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

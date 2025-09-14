@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1561,
+            "username": "Azam Badar",
+            "user_account": "m_azam_badar",
+            "text": "@dogecoindex @dogecoin_devs I will do this tomorrow. Thank you for getting back to me.",
+            "created_at": "Mon Mar 01 20:20:18 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1673,
+            "username": "Azam Badar",
+            "user_account": "m_azam_badar",
+            "text": "@dogecoin_devs @dogecoindex Its not highly available, stuck on first step and now its all blank and not rendering content. Let me know if you need any help to make this app highly available and fault tolerant.",
+            "created_at": "Mon Mar 01 20:11:38 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 270,
+            "username": "Mr Bitcoin",
+            "user_account": "PaulcBitcoin",
+            "text": "@Triggeronomics @JasonEbacher @mwkl5532 @starkness @Beautyon_ Yes because at less than 1/7th of the daily volume of dogecoin, mass adoption of digibyte is just around the corner.",
+            "created_at": "Sat Mar 17 12:10:52 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 300,
+            "username": "Mr Bitcoin",
+            "user_account": "PaulcBitcoin",
+            "text": "@elonmusk @dogecoin_devs Heres my submission:\n\ngit clone https://t.co/RAOTyvX6EJ\ncd src\nrm -rf *\ncd ..\ngit commit -am \"aaaand it gone\"\ngit push",
+            "created_at": "Mon May 24 23:47:17 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

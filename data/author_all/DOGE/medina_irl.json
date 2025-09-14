@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 12001,
+            "username": "Jonathan Medina",
+            "user_account": "medina_irl",
+            "text": "Should I buy #Dogecoin?",
+            "created_at": "Sat May 08 17:54:10 +0000 2021",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 804,
+            "username": "Jonathan Medina",
+            "user_account": "medina_irl",
+            "text": "Now that @elonmusk bought Twitter, every tweet will cost 1 #dogecoin to send. https://t.co/6fx78RWd0P",
+            "created_at": "Mon Apr 25 22:35:27 +0000 2022",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

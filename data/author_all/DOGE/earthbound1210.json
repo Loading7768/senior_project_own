@@ -1,0 +1,44 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 197,
+            "username": "Samuel B. Newman",
+            "user_account": "earthbound1210",
+            "text": "100 DOGE coin for the person who can solve this build failure:  \n\nError Output:\n{'error': 'Build failed with code 1 for env id: 9xp029-1452', 'build_logs': '&gt; my-app@0.1.0 build\n&gt; next build\n\n   ▲ Next.js 15.2.0-canary.33\n   - Environments: .env.local\n\n   Linting and checking",
+            "created_at": "Thu Jan 30 23:21:40 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 266,
+            "username": "Samuel B. Newman",
+            "user_account": "earthbound1210",
+            "text": "@Investments_CEO Yo! I love doge coin!",
+            "created_at": "Sun Mar 30 21:09:38 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 677,
+            "username": "Samuel B. Newman",
+            "user_account": "earthbound1210",
+            "text": "@GinoTheGhost Except dogecoin",
+            "created_at": "Thu May 01 20:16:51 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1696,
+            "username": "Samuel B. Newman",
+            "user_account": "earthbound1210",
+            "text": "@dogecoin @DogecoinFdn @houseofdoge How about payment in Dogecoin",
+            "created_at": "Thu May 01 15:51:20 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

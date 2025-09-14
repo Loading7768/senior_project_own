@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 8012,
+            "username": "Izzy",
+            "user_account": "Izzmaniac",
+            "text": "We get doge and we hold doge #dogecoin",
+            "created_at": "Tue May 04 20:00:29 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 1669,
+            "username": "Izzy",
+            "user_account": "Izzmaniac",
+            "text": "Doge coin is officially on coinbase 🤫",
+            "created_at": "Thu Jun 03 21:56:57 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

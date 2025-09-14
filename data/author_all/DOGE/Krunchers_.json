@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 22812,
+            "username": "kruncher",
+            "user_account": "Krunchers_",
+            "text": "Dogecoin (1)",
+            "created_at": "Fri May 07 09:22:52 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 42012,
+            "username": "kruncher",
+            "user_account": "Krunchers_",
+            "text": "just found out i said this days before the dogecoin price drops",
+            "created_at": "Tue May 11 00:01:50 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 406,
+            "username": "Valentin",
+            "user_account": "valentinfigo",
+            "text": "@wabidubulubdu I think you can’t, dogecoin using scrypt algo like litecoin :p",
+            "created_at": "Tue Jan 09 17:41:26 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 583,
+            "username": "Valentin",
+            "user_account": "valentinfigo",
+            "text": "@wabidubulubdu One dogecoin that’s cool",
+            "created_at": "Tue Jan 09 15:38:43 +0000 2018",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 45,
+            "username": "Valentin",
+            "user_account": "valentinfigo",
+            "text": "@CryptoTrader_1 @rogerkver Dogecoin is better than bcash",
+            "created_at": "Sat Feb 03 22:25:18 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

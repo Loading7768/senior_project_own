@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 10411,
+            "username": "Alex",
+            "user_account": "alex_bcg",
+            "text": "@FreddieFarmer maybe its dogecoin",
+            "created_at": "Tue May 04 19:05:11 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 26337,
+            "username": "Alex",
+            "user_account": "alex_bcg",
+            "text": "Libra should just use dogecoin at this point",
+            "created_at": "Tue May 11 10:07:53 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 167,
+            "username": "Alex",
+            "user_account": "alex_bcg",
+            "text": "@mgnr_io long dogecoin short shiba inu\n\ndogecoin is the real and only doge and it's Elon's pet",
+            "created_at": "Tue Aug 24 23:19:20 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 618,
+            "username": "Escanor Liones",
+            "text": "#dogearmy #dogecoin @elonmusk \nDogecoin Core Version 1.14.4 Update 08/16:\n1. Lower the minimal relay fee to 0.001 DOGE (Done)\n2. Better default behavior for the options -mintxfee and -mintxrelayfee.(Done)\n3. Reject descendant block headers from invalid blocks.(Now to testing)",
+            "created_at": "Mon Aug 16 22:12:13 +0000 2021",
+            "retweet": 1,
+            "likes": 5
+        },
+        {
+            "tweet_count": 2258,
+            "username": "Escanor Liones",
+            "text": "I'm signing the Dogecoin Manifesto! @dogecoinFdn @dogecoin  https://t.co/FK2ja4TPt9 #dogecoinManifesto",
+            "created_at": "Tue Aug 17 18:23:28 +0000 2021",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 4676,
+            "username": "Escanor Liones",
+            "text": "@dogecoin_devs @elonmusk @BillyM2k @michilumin #dogearmy #dogecoin @MattWallace888 \n\nDogecoin Core V1.14.4 Update 08/17\n1. Reject descendant block headers from invalid blocks. (Done)\n2. Disable rounding for fee calculation. (Approval)\n3. Reject invalid chain building. (Testing)",
+            "created_at": "Tue Aug 17 10:40:51 +0000 2021",
+            "retweet": 1,
+            "likes": 1
+        },
+        {
+            "tweet_count": 670,
+            "username": "Escanor Liones",
+            "text": "@DogeSeeds @dogecoin_devs @elonmusk @BillyM2k @michilumin @MattWallace888 @Tesla Just realized there is some pre-release work to be done (binaries, artifacts, and final checks and testing of it all together), so expect it by the weekend, it should be released.",
+            "created_at": "Wed Aug 18 21:59:56 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 789,
+            "username": "Escanor Liones",
+            "text": "@DogeSeeds @dogecoin_devs @elonmusk @BillyM2k @michilumin @MattWallace888 @Tesla I know nothing about tesla so I have nothing to offer.",
+            "created_at": "Wed Aug 18 21:39:37 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 798,
+            "username": "Escanor Liones",
+            "text": "@DogeSeeds @dogecoin_devs @elonmusk @BillyM2k @michilumin @MattWallace888 @Tesla It's ready. Only 3 tasks, all documentation including the release notes, left on the dock. So, the real work is done. WIP means Work In Progress. I'd say release today or tomorrow.",
+            "created_at": "Wed Aug 18 21:38:53 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 845,
+            "username": "Escanor Liones",
+            "text": "@dogecoin_devs @elonmusk @BillyM2k @michilumin #dogearmy #dogecoin @MattWallace888\nDogecoin Core V1.14.4 Update 08/18  \n1. Disconnect outbound peers on the invalid chain. (Moved to 1.14.5)\n2. Documentation.(WIP)\n2. Release Notes. (Review)",
+            "created_at": "Wed Aug 18 21:30:16 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 4788,
+            "username": "Escanor Liones",
+            "text": "@cleanmymac @dogecoin_devs @JRossNicoll @langer_hans @michilumin \n\nhttps://t.co/pRO7SRrrYk\n\nPlease have your engineers look at this. Dogecoin Core is a false positive. Please fix this. Also, a contact us form on your website would help.",
+            "created_at": "Wed Aug 18 10:57:19 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 7344,
+            "username": "Escanor Liones",
+            "text": "@dogecoin_devs @elonmusk @BillyM2k @michilumin\n #dogearmy #dogecoin @MattWallace888\nDogecoin Core V1.14.4 Update 08/17 (PART 2) \n1. Disable rounding for fee calculation. (Done)\n2. Reject invalid chain building. (Done)\n3. Disconnect outbound peers on the invalid chain. (Submitted)",
+            "created_at": "Wed Aug 18 01:53:08 +0000 2021",
+            "retweet": 0,
+            "likes": 4
+        }
+    ]
+}

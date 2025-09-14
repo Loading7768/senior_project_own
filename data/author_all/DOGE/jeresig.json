@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1752,
+            "username": "John Resig",
+            "user_account": "jeresig",
+            "text": "A novelty crypto currency just funded a novelty Olympic team popularized by a Disney film. http://t.co/mpIDgzTKRG",
+            "created_at": "Tue Jan 21 00:34:28 +0000 2014",
+            "retweet": 58,
+            "likes": 32,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 169,
+            "username": "John Resig",
+            "user_account": "jeresig",
+            "text": "@jeresig I made it through the dodgy site. They were bad at math and kept a 0.000001 Dogecoin remainder. I like @classam's \"coincern\" :)",
+            "created_at": "Tue Jan 28 20:06:46 +0000 2014",
+            "retweet": 2,
+            "likes": 3,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4107,
+            "username": "Andreas",
+            "user_account": "abrkn",
+            "text": "Never forget what we once accomplished\n\nhttps://t.co/932ufhaBm1",
+            "created_at": "Mon Mar 01 13:19:43 +0000 2021",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34937,
+            "username": "Andreas",
+            "user_account": "abrkn",
+            "text": "The Dogecoin block time of 1 minute is already low. Decreasing to 6 seconds is very tough on syncing.",
+            "created_at": "Sun May 16 02:56:12 +0000 2021",
+            "retweet": 1,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11172,
+            "username": "Andreas",
+            "user_account": "abrkn",
+            "text": "Elon is already close to the answer. Dogecoin is merge mined.\n\nThe next step is to realize that your experimental chain doesn't need its own coin to be secure. It can be a side-chain!\n\nYour sidechain can be faster or slower, bigger or smaller, have more or less complexity",
+            "created_at": "Mon May 17 15:53:19 +0000 2021",
+            "retweet": 4,
+            "likes": 21,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 20,
+            "username": "Marc Shawn Brown",
+            "user_account": "MarcShawnBrown",
+            "text": "@dogecoin Hey Doge, I’m trying to reach you",
+            "created_at": "Wed Aug 20 23:55:22 +0000 2025",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22,
+            "username": "Marc Shawn Brown",
+            "user_account": "MarcShawnBrown",
+            "text": "@dogecoin The OG alliance of crypto 🤝🔥",
+            "created_at": "Wed Aug 20 23:54:43 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

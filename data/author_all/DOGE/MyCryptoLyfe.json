@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 586,
+            "username": "Lorem Ipsum",
+            "user_account": "MyCryptoLyfe",
+            "text": "@APompliano I thought you liked Dogecoin!",
+            "created_at": "Wed Mar 21 00:15:57 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 98,
+            "username": "Lorem Ipsum",
+            "user_account": "MyCryptoLyfe",
+            "text": "@ThomasSchuIz Doge coin has a half billion market cap. It needs to go!",
+            "created_at": "Fri May 25 18:04:09 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 283,
+            "username": "Lorem Ipsum",
+            "user_account": "MyCryptoLyfe",
+            "text": "@Bacon_Chain Dogecoin?",
+            "created_at": "Mon May 28 04:59:57 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

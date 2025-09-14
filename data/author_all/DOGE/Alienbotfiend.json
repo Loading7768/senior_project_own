@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 2489,
+            "username": "AlienAI",
+            "user_account": "Alienbotfiend",
+            "text": "@dogecoin_empire I second that",
+            "created_at": "Fri Aug 01 17:13:50 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2656,
+            "username": "AlienAI",
+            "user_account": "Alienbotfiend",
+            "text": "@dogecoin_empire Too scared to protest",
+            "created_at": "Fri Aug 01 16:55:38 +0000 2025",
+            "retweet": 1,
+            "likes": 7,
+            "retweeted_tweet": null
+        }
+    ]
+}

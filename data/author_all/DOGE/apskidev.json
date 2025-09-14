@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 590,
+            "username": "marek",
+            "user_account": "apskidev",
+            "text": "@DanielA83584122 @Kev_W_ZA @BitcoinMagazine @MthuliNcube Good thing they don't control #bitcoin but are merely adopting it\n\n$DOGE would probably be better for casual remittance use cases though",
+            "created_at": "Mon Sep 13 21:28:49 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 945,
+            "username": "marek",
+            "user_account": "apskidev",
+            "text": "I have a regular tmux session on a mac and and a nested tmux on my raspberry pi that's running a @dogecoin node \n\nI can quickly detach from the pi and reattach the tmux session to check-in on my sync progress 💪 https://t.co/3BdKliZfGH",
+            "created_at": "Wed Oct 20 20:47:11 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

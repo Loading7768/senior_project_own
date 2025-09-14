@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 8488,
+            "username": "Dinomite",
+            "user_account": "TheMightyDino",
+            "text": "Dogecoin climbing back up to 70 cents",
+            "created_at": "Fri May 07 21:19:55 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 10370,
+            "username": "Dinomite",
+            "user_account": "TheMightyDino",
+            "text": "Dogecoin going back up after that week long dip",
+            "created_at": "Fri May 14 17:43:47 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

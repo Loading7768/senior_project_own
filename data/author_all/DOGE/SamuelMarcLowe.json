@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 5116,
+            "username": "Sam Lowe",
+            "user_account": "SamuelMarcLowe",
+            "text": "Dogecoin, surely.",
+            "created_at": "Tue May 04 21:10:15 +0000 2021",
+            "retweet": 0,
+            "likes": 16
+        },
+        {
+            "tweet_count": 5001,
+            "username": "Sam Lowe",
+            "user_account": "SamuelMarcLowe",
+            "text": "BRB, going to plough my savings into dogecoin https://t.co/ikNBQA7yRt",
+            "created_at": "Thu Sep 23 06:10:10 +0000 2021",
+            "retweet": 3,
+            "likes": 21,
+            "retweeted_tweet": null
+        }
+    ]
+}

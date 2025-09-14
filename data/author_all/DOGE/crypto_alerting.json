@@ -1,0 +1,43 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 45599,
+            "username": "Crypto Exchange Listing Bot",
+            "user_account": "crypto_alerting",
+            "text": "We've detected that Dogecoin $DOGE has been listed on Gemini!\n\n View on Gemini: https://t.co/Fn2njXDI1l\n https://t.co/EcooA4WgWd",
+            "created_at": "Tue May 04 12:09:06 +0000 2021",
+            "retweet": 10,
+            "likes": 25
+        },
+        {
+            "tweet_count": 6391,
+            "username": "Crypto Exchange Listing Bot",
+            "user_account": "crypto_alerting",
+            "text": "We've detected that Dogecoin $DOGE has been listed on Coinbase Pro!\n\n View on Coinbase Pro: https://t.co/GcYM1Vf0LT\n https://t.co/EcooA4WgWd",
+            "created_at": "Tue Jun 01 19:09:01 +0000 2021",
+            "retweet": 12,
+            "likes": 28,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3104,
+            "username": "Crypto Exchange Listing Bot",
+            "user_account": "crypto_alerting",
+            "text": "We've detected that Dogecoin $DOGE has been listed on Coinbase!\n\n View on Coinbase: https://t.co/3s8JpqIaNa\n https://t.co/EcooA4WgWd",
+            "created_at": "Thu Jun 03 20:54:50 +0000 2021",
+            "retweet": 4,
+            "likes": 7,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3728,
+            "username": "Crypto Exchange Listing Bot",
+            "user_account": "crypto_alerting",
+            "text": "We've detected that Dogecoin Gold $DOGEG has been listed on Gemini!\n\n View on Gemini: https://t.co/syNfAB5IyJ\n https://t.co/EcooA4WgWd",
+            "created_at": "Fri Apr 11 01:39:56 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

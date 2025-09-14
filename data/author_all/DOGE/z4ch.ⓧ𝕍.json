@@ -1,0 +1,244 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 590,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@PiccoloNamekGod @X1_blockchain @lavanetxyz @Starknet @dogecoin @_Bellscoin Its a dedicated bare metal server via Contabo.",
+            "created_at": "Mon Feb 26 17:29:05 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 606,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "1 validator node @X1_blockchain \n2 PoS nodes @lavanetxyz and @Starknet \n2 PoW nodes @dogecoin and @_Bellscoin \n\nMaximizing rent. https://t.co/CB35BVwTjy",
+            "created_at": "Mon Feb 26 17:16:41 +0000 2024",
+            "retweet": 0,
+            "likes": 6
+        },
+        {
+            "tweet_count": 624,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@wagmisaurus3 @dmtnatdogs @doggy_market FYI. The address you have on Doggy is not controlled by the site. It is non custodial. \n\nNow, regarding your issue, sending Doge to another wallet should not take long. \n\nHave you checked the tx on a Dogecoin explorer like SoChain?",
+            "created_at": "Mon Feb 26 17:02:43 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 2287,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "cd\ncd dogecoin-1.14.6/bin\n./dogecoin-cli stop\npause\ncd\nmv dogecoin-1.14.6 doge-old\nwget https://t.co/QPybvGltCU\ntar -xvzf dogecoin-1.14.7-x86_64-linux-gnu.tar.gz\ncd dogecoin-1.14.7/bin\n./dogecoind -daemon",
+            "created_at": "Thu Feb 29 06:45:18 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 3094,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "6/ Run the new Dogecoin core.\n\nFrom root directory, navigate to Dogecoin folder\n\ncd dogecoin-1.14.7\ncd bin\n./dogecoind -daemon\n\nNote:\nOptional step, renamed the folder to just \"doge\". As shown on the screenshot below https://t.co/IOWMu6hHog",
+            "created_at": "Thu Feb 29 02:50:31 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 3095,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "5/ Extract the tar\n\ntar -xvzf dogecoin-1.14.7-x86_64-linux-gnu.tar.gz\n\nWait for extract to complete https://t.co/YY05delfxW",
+            "created_at": "Thu Feb 29 02:50:31 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 3096,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "3/ Rename old Core folder\n\nFrom root directory:\n\ncd\nmv dogecoin-1.14.6 doge-old\n\nNote:\nMy core is named \"doge\" so I just rename it back to original folder named \"dogecoin-1.14.6. See screenshot. https://t.co/TrlBCVQpfa",
+            "created_at": "Thu Feb 29 02:50:29 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 3097,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "2/ Stopping your Dogecoin Core!\n\nFrom root directory:\n\ncd dogecoin-1.14.6\ncd bin\n./dogecoin-cli stop\n\nWait until the core is completely stopped\n\nNote: \nIn may case I have renamed it to just \"doge\" as shown on the screenshot. https://t.co/dMjaWBIvff",
+            "created_at": "Thu Feb 29 02:50:28 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 3098,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "1/ Backup your wallet!\n\nOn your terminal, go to root directory:\n\ncd\ncd ~/.dogecoin\ncp wallet.dat &lt;backup location&gt; https://t.co/qBLYkfSqnw",
+            "created_at": "Thu Feb 29 02:50:27 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 3099,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "Update your @dogecoin  core to 1.14.7\nhttps://t.co/Z3AtH2SWRD\n\nIt will be a quick simple process. Steps involve backing up your \"wallet.dat\", stopping daemon, renaming folder, downloading new core and running it.\n\nIf you are on LInux, here are the the commands.",
+            "created_at": "Thu Feb 29 02:50:27 +0000 2024",
+            "retweet": 1,
+            "likes": 10
+        },
+        {
+            "tweet_count": 2128,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "My 2024 BR bag rests upon the mother of all memecoins @dogecoin and the protocols/metaprotocols that are being built on top of it. \n\n@DoginalsHub \n@DoginalMaxiBiz \n@DogeBuds \n@shitonchai98498 \n@minidogeart \n@trac_btc \n@dmtnatdogs \n\n@elonmusk does not even have to tweet about it. https://t.co/S9PGTpNWrp",
+            "created_at": "Sun Mar 03 02:48:49 +0000 2024",
+            "retweet": 4,
+            "likes": 15
+        },
+        {
+            "tweet_count": 121,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@Steve63051825 @dmtnatdogs @dogecoin @dmtnatcats @Bitcoin That is a lot. I barely hold half of that",
+            "created_at": "Tue Mar 05 22:38:09 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 4229,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@TrueMETAx @dogecoin @BellsChain We onboard, educate and entertain.",
+            "created_at": "Wed Nov 06 10:27:25 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 4253,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "Whatever story they come up with, they will never find a direct connection with @dogecoin \n\nThe $DOGE Daddy is and will always be $BELLS @BellsChain \n\nThe creator Billy Markus already mentioned it several times. \nThe code on Github confirms it. \nEven the onchain data, genesis https://t.co/jCmdiSxa3Z",
+            "created_at": "Wed Nov 06 10:19:51 +0000 2024",
+            "retweet": 10,
+            "likes": 41
+        },
+        {
+            "tweet_count": 4458,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@dogecoin @BillyM2k $BELLS: Yes son?",
+            "created_at": "Wed Nov 06 09:20:49 +0000 2024",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 31,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "An interesting space about memetics. \nFeaturing @QuaiNetwork @dogecoin and @BellsChain \n\nIf you have the time, listen in. \nThank me later.",
+            "created_at": "Thu Nov 07 23:52:11 +0000 2024",
+            "retweet": 9,
+            "likes": 17
+        },
+        {
+            "tweet_count": 40,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@HasLuog @QuaiNetwork An L1 memecoin/utility coin created by Billy Markus before Dogecoin. Died and revived in December 2023. \n\nLearn more:\n\nhttps://t.co/guRwy5YKNs",
+            "created_at": "Thu Nov 07 23:50:15 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 5451,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@vmpyre_xyz @dogecoin congrats",
+            "created_at": "Mon Nov 11 13:34:09 +0000 2024",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 3963,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@MEXC_Official @LuckyCoinProj Will just leave this here.\nComing from @BillyM2k himself.\nThe creator of @dogecoin \n\nhttps://t.co/Xfj8tiHK6b",
+            "created_at": "Thu Nov 14 15:55:52 +0000 2024",
+            "retweet": 1,
+            "likes": 3
+        },
+        {
+            "tweet_count": 2716,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@dogeshan @litecoin @dogecoin @BellsChain i approve this art",
+            "created_at": "Fri Nov 15 16:19:59 +0000 2024",
+            "retweet": 0,
+            "likes": 5
+        },
+        {
+            "tweet_count": 14480,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@adamamcbride @litecoin @dogecoin @BellsChain Yeah, totally dumped $BELLS even before it had legs. At least he made sure that the revival would not die like the OG.",
+            "created_at": "Fri Nov 15 04:11:57 +0000 2024",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 14642,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@adamamcbride @litecoin @dogecoin @BellsChain Majority only knows about $DOGE due to Elon. \nBilly needs to talk about his OG project more. But I guess that is not his priority anymore.",
+            "created_at": "Fri Nov 15 03:32:22 +0000 2024",
+            "retweet": 0,
+            "likes": 12
+        },
+        {
+            "tweet_count": 74,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@investwithkolt @LuckyCoinProj It is because the Bells client also has the same text. Was never modified.\n\nSo this was also carried over to Dogecoin client. \n\nThis claim is useless.",
+            "created_at": "Sun Dec 01 23:43:59 +0000 2024",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 2026,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@dogecoin This OG client still has the original $DOGE logo.\nMuch wow. https://t.co/JVm7r3VzMr",
+            "created_at": "Sun Dec 01 17:13:49 +0000 2024",
+            "retweet": 3,
+            "likes": 13
+        },
+        {
+            "tweet_count": 2034,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@ApotheosisIvan I actually found the OG v1.0 client of @dogecoin dated 12-6-2013.\nYou can see here the OG Doge icon.\nAnd also the OG Bells icon that was never changed.\n\nCheck here:\nhttps://t.co/h1fe69Q42l https://t.co/6RA6tLA7gv",
+            "created_at": "Sun Dec 01 17:11:59 +0000 2024",
+            "retweet": 2,
+            "likes": 8
+        },
+        {
+            "tweet_count": 2081,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "But wait, there is more....\n\nI actually found the oldest available copy of @dogecoin  core.\n\nhttps://t.co/1d6c4zsYSO\n\nThis dates back to 12-6-2013. \nThe very first commit made by Billy on Github.\n\nWhich coincides with this tweet dated 12-6-2013:\nhttps://t.co/pElNGWNbX9\n\nThe same https://t.co/4YwuFJNfCV",
+            "created_at": "Sun Dec 01 17:02:42 +0000 2024",
+            "retweet": 5,
+            "likes": 12
+        },
+        {
+            "tweet_count": 2986,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "As per the suggestion of ChatGPT, I compared the block rewards and difficulty addjustments.\n\nHere is what ChatGPT has to say:\n\nThe analysis of block rewards and difficulty adjustment logic across Luckycoin, Bellscoin, and Dogecoin shows a clear progression of code evolution. https://t.co/DnPYi8pTEg",
+            "created_at": "Sun Dec 01 14:20:33 +0000 2024",
+            "retweet": 1,
+            "likes": 11
+        },
+        {
+            "tweet_count": 2987,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "It is the weekend, and it has been raining all day, so time to do some more sleuthing.\n\nWith the help of ChatGPT (I am no coder, barely understand code too) I asked him to compare some lines of code from Luckycoin, Bellscoin and Dogecoin.\n\nTLDR:\n\nThe lineage is correct and stands https://t.co/pg9kzB4ULL",
+            "created_at": "Sun Dec 01 14:20:31 +0000 2024",
+            "retweet": 6,
+            "likes": 45
+        },
+        {
+            "tweet_count": 5524,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "@litecoin @dogecoin @BellsChain Scrypt Angels",
+            "created_at": "Sun Dec 01 00:38:17 +0000 2024",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 1,
+            "username": "z4ch.ⓧ𝕍",
+            "text": "Bellscoin predates Dogecoin. \nBoth Made in America. \nBy Billy Markus. \n@grok, needs to learn this.",
+            "created_at": "Sat Mar 08 23:59:35 +0000 2025",
+            "retweet": 8,
+            "likes": 37
+        }
+    ]
+}

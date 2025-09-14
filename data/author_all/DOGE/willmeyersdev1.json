@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 2801,
+            "username": "Will Meyers",
+            "user_account": "willmeyersdev1",
+            "text": "Dogecoin is the new internet currency! Do you have any problems with it?",
+            "created_at": "Mon Apr 18 07:03:02 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2741,
+            "username": "Will Meyers",
+            "user_account": "willmeyersdev1",
+            "text": "What problems do you have with #Dogecoin?",
+            "created_at": "Fri Apr 22 06:03:05 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4502,
+            "username": "Pedro",
+            "user_account": "pedro0_0",
+            "text": "@og_dogecoin Let’s get this wake and bake going!",
+            "created_at": "Sun May 02 16:43:17 +0000 2021",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 29607,
+            "username": "Pedro",
+            "user_account": "pedro0_0",
+            "text": "@og_dogecoin Just did!",
+            "created_at": "Wed May 19 01:42:22 +0000 2021",
+            "retweet": 1,
+            "likes": 3,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 8873,
+            "username": "Tommy",
+            "user_account": "thosmonkey",
+            "text": "Dogecoin go brrrrrrrrrrrr",
+            "created_at": "Tue May 04 19:41:39 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 31809,
+            "username": "Tommy",
+            "user_account": "thosmonkey",
+            "text": "dogecoin",
+            "created_at": "Tue May 25 01:35:32 +0000 2021",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 425,
+            "username": "Fred",
+            "user_account": "grandeFred10",
+            "text": "#dogecoin lets go 1$",
+            "created_at": "Sat Feb 08 10:06:59 +0000 2020",
+            "retweet": 4,
+            "likes": 40,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 71,
+            "username": "Fred",
+            "user_account": "grandeFred10",
+            "text": "@elonmusk  dogecoin?",
+            "created_at": "Thu Mar 26 15:21:45 +0000 2020",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 259,
+            "username": "Fred",
+            "user_account": "grandeFred10",
+            "text": "#dogecoin i love this coin",
+            "created_at": "Sun Apr 26 13:32:26 +0000 2020",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

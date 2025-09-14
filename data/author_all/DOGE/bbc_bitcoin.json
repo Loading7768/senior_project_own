@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 9479,
+            "username": "BBC vs Bitcoin",
+            "user_account": "bbc_bitcoin",
+            "text": "@DocumentingBTC Elon talking about dogecoin earlier this year",
+            "created_at": "Sun May 16 19:13:25 +0000 2021",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9584,
+            "username": "BBC vs Bitcoin",
+            "user_account": "bbc_bitcoin",
+            "text": "@gemsays Elon on dogecoin. Please share!",
+            "created_at": "Sun May 16 19:11:19 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9628,
+            "username": "BBC vs Bitcoin",
+            "user_account": "bbc_bitcoin",
+            "text": "@PeterMcCormack @elonmusk Elon on dogecoin 👇🏼",
+            "created_at": "Sun May 16 19:10:25 +0000 2021",
+            "retweet": 3,
+            "likes": 10,
+            "retweeted_tweet": null
+        }
+    ]
+}

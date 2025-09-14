@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4044,
+            "username": "Meerkat",
+            "user_account": "MeerkatObserver",
+            "text": "If Dogecoin hits $1 I will quit my job",
+            "created_at": "Thu May 06 20:43:21 +0000 2021",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 71100,
+            "username": "Meerkat",
+            "user_account": "MeerkatObserver",
+            "text": "Dogecoin is going down cause people are finding out SNL isnt funny.",
+            "created_at": "Sun May 09 04:03:15 +0000 2021",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        }
+    ]
+}

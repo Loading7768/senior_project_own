@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 27833,
+            "username": "Nate",
+            "user_account": "Yedd3r",
+            "text": "This is actually fucking crazy... #dogecoin",
+            "created_at": "Tue May 04 14:34:57 +0000 2021",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 67266,
+            "username": "Nate",
+            "user_account": "Yedd3r",
+            "text": "Trying to buy the dip... #Dogecoin https://t.co/9P6PIVxsLT",
+            "created_at": "Sun May 09 04:22:48 +0000 2021",
+            "retweet": 1,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 70519,
+            "username": "Nate",
+            "user_account": "Yedd3r",
+            "text": "THE WHALES ARE SELLING!! #dogecoin",
+            "created_at": "Sun May 09 04:06:51 +0000 2021",
+            "retweet": 1,
+            "likes": 7,
+            "retweeted_tweet": null
+        }
+    ]
+}

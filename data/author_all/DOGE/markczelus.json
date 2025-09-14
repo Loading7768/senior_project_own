@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 42529,
+            "username": "Mark Czelusniak",
+            "user_account": "markczelus",
+            "text": "Holly needs some $DOGE",
+            "created_at": "Sun May 09 10:33:17 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3116,
+            "username": "Mark Czelusniak",
+            "user_account": "markczelus",
+            "text": "@BillOReilly Holly wants some Dogecoin",
+            "created_at": "Wed Jun 02 20:04:11 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4129,
+            "username": "Mark Czelusniak",
+            "user_account": "markczelus",
+            "text": "@BillOReilly @NoSpinNews Elon definitely has some Dogecoin",
+            "created_at": "Tue Apr 26 12:23:40 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

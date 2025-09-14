@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 3008,
+            "username": "Zurik Pazurik",
+            "user_account": "ZurikPazurik",
+            "text": "@AltcoinDailyio dogecoin",
+            "created_at": "Tue Oct 12 14:47:00 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1251,
+            "username": "Zurik Pazurik",
+            "user_account": "ZurikPazurik",
+            "text": "@ERG_Armeanio @dogecoin @RosenBridge_erg Not sure if they went through with refunding the biggest donor, but there was one address that sent them two transactions totaling 5000 ETH. I checked the donator's address for incoming transactions and most is Kraken or their second account. https://t.co/SQOo4t1fYT",
+            "created_at": "Mon Jul 14 20:26:01 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1705,
+            "username": "Zurik Pazurik",
+            "user_account": "ZurikPazurik",
+            "text": "@ERG_Armeanio @dogecoin @RosenBridge_erg I just did a little snooping and found the contract on etherscan: https://t.co/5Cn6hM3JnP. The contract was mentioned here: https://t.co/HIvvya2dY2 I checked incoming transactions and they amounted to 5,465.08 ETH",
+            "created_at": "Mon Jul 14 19:37:59 +0000 2025",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        }
+    ]
+}

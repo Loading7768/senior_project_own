@@ -1,0 +1,44 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 456,
+            "username": "Don Park",
+            "user_account": "donpdonp",
+            "text": "@kwestin I'd say the Jamacian Bobsled team raised the Dogecoin market cap from $20Mill to $60Mill. http://t.co/dMQgV96cvo",
+            "created_at": "Tue Jan 21 17:21:57 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 228,
+            "username": "Don Park",
+            "user_account": "donpdonp",
+            "text": "IRC 24/7 tech chat reminder http://t.co/3eSgVgdHvC channel #pdxtech. We have robots and dogecoin here.",
+            "created_at": "Sun Mar 23 17:38:50 +0000 2014",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 203,
+            "username": "Don Park",
+            "user_account": "donpdonp",
+            "text": "The dogecoin racecar gets mentioned. #cryptocurrency https://t.co/Krjfi0wxRE",
+            "created_at": "Sun May 04 22:18:24 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 414,
+            "username": "Don Park",
+            "user_account": "donpdonp",
+            "text": "@BlockCypher greetings. im looking at the dogecoin fee code and the default minimum fee is 1DOGE. the average doge tx seems to confirm this value is used in practice. how does https://t.co/Zf3R1qetrz calculate 0.00079 for high priority?",
+            "created_at": "Tue May 01 07:14:30 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

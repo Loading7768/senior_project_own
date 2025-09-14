@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 122,
+            "username": "Luke Childs ☂️",
+            "user_account": "lukechilds",
+            "text": "@sabotagebeats Dogecoin is merge mined with Litecoin so not really comparable.",
+            "created_at": "Mon Apr 29 14:30:21 +0000 2019",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7054,
+            "username": "Luke Childs ☂️",
+            "user_account": "lukechilds",
+            "text": "Example:\n\nBitcoin: SHA-256 @ 145,566 PH/s = 4.30 GW\nEthereum: Ethash @ 599 TH/s = 1.42 GW\nDogecoin: Scrypt @ 323 TH/s = 308 MW https://t.co/hywROq81EQ",
+            "created_at": "Tue May 18 16:26:32 +0000 2021",
+            "retweet": 1,
+            "likes": 7,
+            "retweeted_tweet": null
+        }
+    ]
+}

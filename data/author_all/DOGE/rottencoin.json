@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 200,
+            "username": "Rotten",
+            "user_account": "rottencoin",
+            "text": "@Fullbeerbottle Dogecoin",
+            "created_at": "Thu May 03 13:25:05 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "Rotten",
+            "user_account": "rottencoin",
+            "text": "@imBagsy @inversebrah Dogecoin counts?",
+            "created_at": "Wed Jan 22 22:46:22 +0000 2020",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

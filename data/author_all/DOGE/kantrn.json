@@ -1,0 +1,44 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 622,
+            "username": "Noah Kantrowitz",
+            "user_account": "kantrn",
+            "text": "@steveklabnik All API requests manipulating dogecoin will have to use the HTTP verb WOW.",
+            "created_at": "Wed Dec 18 05:12:29 +0000 2013",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 954,
+            "username": "Noah Kantrowitz",
+            "user_account": "kantrn",
+            "text": "Its official, @jessenoller has lost it http://t.co/55HmKaK0kc",
+            "created_at": "Thu Dec 19 03:42:59 +0000 2013",
+            "retweet": 1,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 138,
+            "username": "Noah Kantrowitz",
+            "user_account": "kantrn",
+            "text": "@jessenoller @balanced @dogecoin tree fiddy.",
+            "created_at": "Thu Jan 02 19:58:43 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 753,
+            "username": "Noah Kantrowitz",
+            "user_account": "kantrn",
+            "text": "@r1chardj0n3s https://t.co/sY2GzzV1gI http://t.co/oPzaqIaYN9 \"doge coin\"",
+            "created_at": "Wed Jan 22 08:07:47 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

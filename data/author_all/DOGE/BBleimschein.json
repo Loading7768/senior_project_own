@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 6506,
+            "username": "3ene",
+            "user_account": "BBleimschein",
+            "text": "Be careful out there though. Coins like $DOGE have lost &gt;95% of value in past Bitcoin cycles when the bear market came (and it will come at some point).",
+            "created_at": "Fri May 14 19:28:25 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6507,
+            "username": "3ene",
+            "user_account": "BBleimschein",
+            "text": "Some background: Dogecoin was forked from Litecoin (which was forked from early Bitcoin). The problem with Doge is, that nobody kept developing it so it has old security loopholes. Don't take my word for that, take the inventor's:\nhttps://t.co/MWH3LcOtaF",
+            "created_at": "Fri May 14 19:28:24 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6508,
+            "username": "3ene",
+            "user_account": "BBleimschein",
+            "text": "I find it strange that Elon is endorsing another proof-of-work consensus chain - #DogeCoin - after critiquing #Bitcoin for it's energy use.\nBoth projects use the same amount of energy for the same throughput.\nI'm pretty sure he's aware of that - something's fishy here...",
+            "created_at": "Fri May 14 19:28:24 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

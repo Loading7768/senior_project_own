@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 155,
+            "username": "slush",
+            "user_account": "slush",
+            "text": "@otaria123 @TomasForgac Dogecoin can handle much more tx, too.",
+            "created_at": "Sun Nov 19 11:41:46 +0000 2017",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 351,
+            "username": "slush",
+            "user_account": "slush",
+            "text": "@olthoff @TREZOR @dogecoin @pavolrusnak @IMmsGNU https://t.co/DBPAFJfti7 is our new experimental blockchain indexer (replacement of Bitcore). Adding Doge should be pretty straightforward and that's enough.",
+            "created_at": "Sat May 05 07:01:42 +0000 2018",
+            "retweet": 1,
+            "likes": 9,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 175,
+            "username": "slush",
+            "user_account": "slush",
+            "text": "@hodlonaut @mcnicollme @BitcoinErrorLog @Trezor I never recommended Ethereum, Litecoin, Dogecoin, Namecoin, Dash, NEM or any other coin except Bitcoin. All these are supported by Trezor. However, I never get so much hate from other coin crowd than from Bitcoiners about Bcash.\n\nTechnical support isn't recommendation.",
+            "created_at": "Sun Jul 29 11:59:16 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

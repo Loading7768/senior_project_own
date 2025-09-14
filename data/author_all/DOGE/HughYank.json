@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 44103,
+            "username": "Hugh Boyle Yank",
+            "user_account": "HughYank",
+            "text": "Dogecoin 😎",
+            "created_at": "Tue May 04 12:20:20 +0000 2021",
+            "retweet": 0,
+            "likes": 11
+        },
+        {
+            "tweet_count": 16352,
+            "username": "Hugh Boyle Yank",
+            "user_account": "HughYank",
+            "text": "The dog has run its race 😢 #dogecoin",
+            "created_at": "Wed May 19 13:38:25 +0000 2021",
+            "retweet": 0,
+            "likes": 6,
+            "retweeted_tweet": null
+        }
+    ]
+}

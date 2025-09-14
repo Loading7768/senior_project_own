@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4257,
+            "username": "Girish",
+            "user_account": "Girish87490569",
+            "text": "@vladtenev Dogecoin",
+            "created_at": "Fri Apr 02 03:03:34 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3339,
+            "username": "Girish",
+            "user_account": "Girish87490569",
+            "text": "@elonmusk Dogecoin",
+            "created_at": "Sun Apr 04 01:04:07 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2619,
+            "username": "Girish",
+            "user_account": "Girish87490569",
+            "text": "@elonmusk Dogecoin",
+            "created_at": "Fri Apr 09 10:16:16 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

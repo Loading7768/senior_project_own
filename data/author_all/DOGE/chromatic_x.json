@@ -1,0 +1,664 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 524,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "I had forgotten I'd written this, and it's outlived the API it supported.\n\nSic transit gloria doge or something.\n\nhttps://t.co/qoVabo4RSV",
+            "created_at": "Sun Apr 11 22:51:02 +0000 2021",
+            "retweet": 1,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1095,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Does anyone in my network read/write:\n\n * Persian\n * Korean\n * Malay\n * Nepali\n * Slovak\n\nhttps://t.co/e4NX4y4J5o",
+            "created_at": "Sat Sep 04 18:50:36 +0000 2021",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 856,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "My PR to make managing translations easier (with helpful suggestions from Patrick) just merged, so now I have to update that blog post.\n\nhttps://t.co/ICZLpiSLHO",
+            "created_at": "Sun Apr 10 20:18:01 +0000 2022",
+            "retweet": 1,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 710,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "A high-DPI scaling warning, a backported PR, two issues, and additional ways end users can help with testing!\n\nhttps://t.co/73TVDlnSaz\n\n#DogeDevDiary #dogecoin",
+            "created_at": "Sat Apr 23 18:51:33 +0000 2022",
+            "retweet": 8,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6476,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@untitledmonarch @ifdogethenwow @sodogetip @dogecoin_devs Debugging it is.\n\nThank you for your help!\n\n@sodogetip tip @untitledmonarch 10 doge",
+            "created_at": "Tue Apr 26 07:14:13 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6606,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@untitledmonarch @ifdogethenwow @sodogetip @dogecoin_devs ... and done!",
+            "created_at": "Tue Apr 26 06:59:03 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6628,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@untitledmonarch @ifdogethenwow @sodogetip @dogecoin_devs I'll have to set a watcher on that wallet too; just need to get its address.",
+            "created_at": "Tue Apr 26 06:56:43 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6950,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "I bet if someone tipped the Doge Dev Wallet, @ifdogethenwow would either Tweet about it, or I'd have to debug it.\n\nhttps://t.co/2GXNS1DEqb",
+            "created_at": "Tue Apr 26 06:12:31 +0000 2022",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 422,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Weekly Dogecoin development roundup. Credit goes to Patrick for putting this together.\n\n#dogecoin\n\nhttps://t.co/fFY63ekwgV",
+            "created_at": "Fri Apr 29 21:31:59 +0000 2022",
+            "retweet": 1,
+            "likes": 10,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1136,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@untitledmonarch @tjstebbing @DogecoinFdn @dogecoin_devs @MyDogeTip Good question! I don't know; I'm not involved with either Twitter account.",
+            "created_at": "Wed May 04 19:05:45 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1672,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "This week's #dogecoin development roundup, thanks to Patrick!\n\nhttps://t.co/tQf6i5TSek",
+            "created_at": "Sat May 07 15:09:53 +0000 2022",
+            "retweet": 6,
+            "likes": 19,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 31,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Slack webhook documentation!\n\nhttps://t.co/k9ArfAGrYL\n\n#dogecoin",
+            "created_at": "Fri May 13 23:45:03 +0000 2022",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 108,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Alright!\n\nHere's documentation for the Email action for https://t.co/Yun12Bb7Ph:\n\nhttps://t.co/v69lbJb3pK\n\nThis is early access for developers; the only way to use the API is from curl/postman/etc.\n\nTest it out, play with it, report bugs, give feedback.\n\n#dogecoin",
+            "created_at": "Fri May 13 23:16:57 +0000 2022",
+            "retweet": 1,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 928,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Patrick's latest weekly development roundup:\n\nhttps://t.co/mDghqU0l2I\n\n#dogecoin #dogedev",
+            "created_at": "Sat May 14 18:40:33 +0000 2022",
+            "retweet": 14,
+            "likes": 38,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4259,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "We should all aspire to pass the Lil Tony test:\n\nhttps://t.co/nKLMY895vQ",
+            "created_at": "Sat May 14 00:08:55 +0000 2022",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4270,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Public Tweet documentation!\n\nhttps://t.co/SFpX2wza47\n\nThat's it for today. Feedback welcome.\n\n#dogecoin #dogedev",
+            "created_at": "Sat May 14 00:05:12 +0000 2022",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1047,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "woke up early to troll @mishaboar again\n\nhttps://t.co/gTh18vNHkK",
+            "created_at": "Sun May 15 17:23:10 +0000 2022",
+            "retweet": 0,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1391,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@tjstebbing @jrdavidmitchell @mishaboar @Dogecoin_GER Noah Smith:\n\nhttps://t.co/ZLxVjwfzFn",
+            "created_at": "Mon May 16 16:46:01 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 802,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "There should be a lesson in here about *really* questioning assumptions.\n\nhttps://t.co/UmzR3rlqSU\n\nSure, it should be unsigned, but what does this value really represent and why?",
+            "created_at": "Sun May 22 17:26:14 +0000 2022",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1694,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "I want to clarify: I mean \"Dogecoin Foundation may have to field questions about copyright on behalf of the network, developers, etc\".\n\nI don't mean Foundation has any involvement with ordinals or inscriptions.\n\nI apologize for the unclear language.",
+            "created_at": "Fri Feb 02 21:22:09 +0000 2024",
+            "retweet": 1,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Hey #Dogecoin shibes! If you're running Windows, comfortable working with WSL (1 or 2), and don't mind compiling software, we're updating the Dogecoin Core Windows build guide and welcome your feedback:\n\nhttps://t.co/jFmKiCXYLw",
+            "created_at": "Sat Feb 10 23:59:49 +0000 2024",
+            "retweet": 14,
+            "likes": 34,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 219,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "I find myself using a lot of watch-only addresses so I don't have to keep an online wallet in the nodes I care about, so I found myself wanting to remove a watch-only address, so I wrote some Python and C++ code.\n\nhttps://t.co/0HmfIz2REr\n\n#dogecoin",
+            "created_at": "Sun Mar 10 22:53:16 +0000 2024",
+            "retweet": 3,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "The button integrates nicely. I'll make the SVG available somewhere.\n\nhttps://t.co/8kOOMivIRr https://t.co/vy9rWOFX3C",
+            "created_at": "Sun Apr 28 23:52:16 +0000 2024",
+            "retweet": 4,
+            "likes": 20,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 224,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@ZordiakDev @PepecoinNetwork @mishaboar Am I going to NOT go to an amazing pinball and arcade history museum / ice cream parlor because they take @dingocoincrypto using a software approach my book recommended and not Dogecoin?\n\nNo. That's amazing and cool. More power to them.\n\n10/n",
+            "created_at": "Sat May 04 22:29:48 +0000 2024",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 234,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Furthermore, I'm humble enough to think that there are enough new ideas that don't have to be expressed in Dogecoin. Nor do I think you have to fork Dogecoin to make something new (@ZordiakDev and @PepecoinNetwork notwithstanding).\n\nLet's share ideas!\n\n6/n",
+            "created_at": "Sat May 04 22:26:33 +0000 2024",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 242,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Dogecoin does some new things and it does things differently from other L1 PoW cryptocurrencies, but some 90% of what it does is enough the same as Bitcoin, Litecoin, etc that I can write about one and mostly cover the others.\n\n3/n",
+            "created_at": "Sat May 04 22:24:00 +0000 2024",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 245,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "You can read the (unformatted/raw) text at this link:\n\nhttps://t.co/z8GYNR6Cs6\n\n2/n",
+            "created_at": "Sat May 04 22:23:16 +0000 2024",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3250,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Dogecoin as punk aesthetic.\n\nDiscuss.",
+            "created_at": "Tue May 14 03:09:00 +0000 2024",
+            "retweet": 2,
+            "likes": 16,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 161,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Giveaway time!\n\nTo enter the giveaway for pre-order access to PDFs/ebooks of my upcoming book #Dogecoin Tricks, you must repost, like, and follow me.\n\nI'll select at least one lucky winner in the next 24 hours.\n\nRead more here: https://t.co/fzVBtTHyVx https://t.co/nPFl91zGD7",
+            "created_at": "Sat Jun 15 21:59:54 +0000 2024",
+            "retweet": 11,
+            "likes": 20,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 790,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "I'm looking for a meme in finance\ntrustless\nL1\ndoge coin",
+            "created_at": "Fri Jun 28 15:33:49 +0000 2024",
+            "retweet": 0,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1191,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "What's this?\n\nOh, just a #Dogecoin Core 1.14.8 release process starting.\n\nIf you run a node or a Core wallet, keep your eyes open for some bugfixes on the way. Regular updates keep the network working well!\n\nhttps://t.co/uVBKVrvh4s",
+            "created_at": "Sun Jul 21 17:17:04 +0000 2024",
+            "retweet": 13,
+            "likes": 42,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2212,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Before writing a web service, write the business logic and storage layer--and their tests.\n\n#Dogecoin https://t.co/YKJlAjn96d",
+            "created_at": "Sun Jul 21 06:31:24 +0000 2024",
+            "retweet": 0,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 734,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "It has been 180 days since the #Dogecoin Core 1.14.7 release, @patricklodder. Which of us owes the other a drink?",
+            "created_at": "Wed Jul 31 16:31:15 +0000 2024",
+            "retweet": 1,
+            "likes": 13,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Barring any unforeseen issues, this book will be available in print well before the holidays. I think it may get to the printer by Halloween.\n\nIt's about time!\n\nIf you want the ebooks now, start your preorder of #Dogecoin Tricks here:\n\nhttps://t.co/fzVBtTHyVx\n\n2/2",
+            "created_at": "Sun Oct 13 23:47:29 +0000 2024",
+            "retweet": 2,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 31,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Having finally demonstrated end-to-end \"let me send you a Dogecoin and buy a credit on your pinball machine\", I've now finished the final tip in the book.\n\nPre-orders are still open, and if you've already paid, you now have all 101 tips available for download!\n\n1/2",
+            "created_at": "Sun Oct 13 23:45:59 +0000 2024",
+            "retweet": 8,
+            "likes": 30,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 309,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "It is 100% okay and incredibly healthy and pretty cool that Tobias works on an alternate Dogecoin implementation. That's really good for the network!\n\nIs that enough reason to work on it and be proud of it? I think so!\n\nI guess I don't see why FUD is necessary.\n\nDisappointing.",
+            "created_at": "Thu Dec 12 22:41:28 +0000 2024",
+            "retweet": 1,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 318,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Tobias sent an email about a security disclosure, gave a deadline, and the people he claims are \"not maintaining Dogecoin\" did what maintainers do -- researched his issue, found a patch, and released a new version.",
+            "created_at": "Thu Dec 12 22:38:22 +0000 2024",
+            "retweet": 1,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 54,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@Fantoumi @goldorakmazing1 @BillyM2k @TruthGrayson @PepecoinNetwork @dogecoin_devs Neither one is eating pizza so I can't tell.",
+            "created_at": "Tue Dec 17 23:47:58 +0000 2024",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4925,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "\"make a pinball machine powered by Dogecoin inspired by my book\" by @grok https://t.co/YSW43IZwUG",
+            "created_at": "Mon Dec 30 02:39:48 +0000 2024",
+            "retweet": 4,
+            "likes": 46,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2136,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@kenzo_robin @dogecoin Scarcity is harmful to a currency.\n\nPlenty of other coins and tokens have the goal of being a store of value. Why change Dogecoin to make it less unique and give up its advantages?",
+            "created_at": "Tue Dec 31 16:20:49 +0000 2024",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 142,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@planetmall2 The preorder link here should still work:\n\nhttps://t.co/fzVBtTHyVx",
+            "created_at": "Sat Jan 04 23:40:01 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5813,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "As of today, \"Dogecoin Tricks\" has recouped its production costs!\n\nI still can't explain shipping dates/times from retailers though, but everyone who's ordered physical copies will be getting them.",
+            "created_at": "Wed Jan 08 02:00:03 +0000 2025",
+            "retweet": 3,
+            "likes": 36,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1395,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "No shade on @rocksmithplus but I already have the game disc and USB cord and this Dogecoin burning a hole in my hot wallet. What do you say?",
+            "created_at": "Sun Jan 12 19:48:36 +0000 2025",
+            "retweet": 0,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1403,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Hey @Ubisoft , happy Sunday, long time listener, first time caller etc.\n\nI play Rocksmith 2014 on my Xbox. I'll pay you 100 Doge right here in public in exchange for codes for the tracks you're no longer selling (as long as you have the music rights still).\n\nCold hard Dogecoin.",
+            "created_at": "Sun Jan 12 19:47:46 +0000 2025",
+            "retweet": 6,
+            "likes": 35,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1342,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@book_sean There's a sample download available from the book's page:\n\nhttps://t.co/fzVBtTHyVx\n\nLook for \"PDF Preview\".",
+            "created_at": "Fri Jan 17 19:09:21 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7324,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "The @BillyM2k effect helped Dogecoin Tricks break the top 100 Technology best sellers on Amazon today.\n\nCan it reach the top 10? That's up to you! https://t.co/1ZAKYQOjz5",
+            "created_at": "Sat Jan 18 01:41:30 +0000 2025",
+            "retweet": 111,
+            "likes": 287,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1213,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@StarshiningDoge @BillyM2k I was on my phone earlier and had trouble typing, but this link offers payments in Doge for PDFs: https://t.co/fzVBtTHyVx\n\nLet me know how well that works for you!",
+            "created_at": "Sun Jan 19 20:20:38 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7801,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "I am chatting with CoPilot in VSCode on Linux to add tests to and refactor my Dogecoin Perl purchase code and it's going surprisingly well.\n\nI like yelling at computers.",
+            "created_at": "Sun Jan 19 04:09:39 +0000 2025",
+            "retweet": 0,
+            "likes": 7,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1976,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@raunchysturdy They're available from my website: https://t.co/fzVBtTHyVx",
+            "created_at": "Mon Jan 20 18:43:30 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3992,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@Fantoumi @shenjian31 I helped the core developer get some tests passing when he first started and give him code advice now and then. It's a fork of Dogecoin Core.\n\nI mentioned it in my book as well--most of the Dogecoin ideas translate over more than any other blockchain.",
+            "created_at": "Mon Mar 24 02:09:54 +0000 2025",
+            "retweet": 1,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2564,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Dogecoin would have released Coyote vs. Acme on time.",
+            "created_at": "Fri Mar 28 04:43:33 +0000 2025",
+            "retweet": 1,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 613,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@kimdogex I think I understand the question and no offense taken. It's a good question.\n\nI've received tips *after* I've done development work--Dogecoin developer tips, for example.\n\nI've never taken up-front payment for anything, and I've never taken any payment to promote anything.",
+            "created_at": "Sat Mar 29 18:47:08 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3793,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "In the meantime, the first edition with those typos is still available online (Amazon just offered me a 30% off coupon) so this collector's edition could be yours!\n\nhttps://t.co/pEYjQXHX5e",
+            "created_at": "Mon Mar 31 02:19:29 +0000 2025",
+            "retweet": 1,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3794,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "I've just fixed a few typos in my Dogecoin Tricks book, thanks to @pepecoininfo who's diligently read word by word and asked me \"is this what you REALLY meant\".\n\nIn a few cases, no. It wasn't.\n\nWhen's the second printing? Great question!",
+            "created_at": "Mon Mar 31 02:17:47 +0000 2025",
+            "retweet": 19,
+            "likes": 45,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1398,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "I have to print this lovely Dogecoin Tricks review from @jimjimmiejames so I can explain to my parents what I did.\n\nReviews help indie authors tremendously. If you've also appreciated this book, a good review will do wonders to help other people hear about it! https://t.co/oqer2NZ13J",
+            "created_at": "Sun Apr 06 15:50:30 +0000 2025",
+            "retweet": 8,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2864,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "So how do I find one, drop $500 worth of Dogecoin to get it into my lab, and then wire it up to accept crypto payments?",
+            "created_at": "Fri Apr 18 04:14:57 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 616,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Anyhow, here's my latest delve into the C++ mines this morning.\n\nhttps://t.co/GVp5DSWXPd\n\nLooks easier than it was.",
+            "created_at": "Sat Apr 19 19:21:01 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3049,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@litecoin I'm playing pinball with Dogecoin, but I could easily do it with Litecoin too.\n\nYes I'm nerdy today.\n\nhttps://t.co/wMdqK4VaIp",
+            "created_at": "Sat May 10 15:33:00 +0000 2025",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1432,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@PepecoinNetwork You can buy an electronic version using either Pepecoin or Dogecoin:\n\nhttps://t.co/hPChI5uhE6\n\n... and if you want an autographed copy, look for the Pepecoin booth at the Litecoin Summit in Las Vegas next week!",
+            "created_at": "Sat May 24 15:53:26 +0000 2025",
+            "retweet": 4,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1438,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "The giveaway closes on May 29th at 00:00 UTC — winners will be announced soon after. Follow @chromatic_x and @PepecoinNetwork,\nLike, repost, and comment on this tweet saying why you love Dogecoin and/or Pepecoin.",
+            "created_at": "Sat May 24 15:52:45 +0000 2025",
+            "retweet": 9,
+            "likes": 29,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1461,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Hey @PepecoinNetwork fans, did you know that my book Dogecoin Tricks applies to other layer one cryptocurrencies as well? You can even buy an electronic copy from my site with Pepecoin!\n\nI'm giving away 5 free digital editions completely free!\n\nDetails in the replies.",
+            "created_at": "Sat May 24 15:45:23 +0000 2025",
+            "retweet": 28,
+            "likes": 80,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3778,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@garycatalano @dogecoin @adam__brady @MyDogeCTO Is this the core? Couple of things you could do is let it run and see what happens, run a couple of older cores in order offline to upgrade the wallet file itself (back it up first), export the keys and import into a newer core.",
+            "created_at": "Fri Jul 18 14:47:51 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 664,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@PennybagsCX @shibesdoggo @dogecoin_devs @DogecoinFdn @dogecoin Someone asked for a draft a while back and said \"I expected a 20 page pamphlet and you gave me a 350 page book!\"",
+            "created_at": "Thu Jul 31 22:06:31 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3765,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "Looking for a native Kurdish speaker in the Dogecoin community (or adjacent community) to help review a translation pull request! Link in next comment.\n\nPlease share/RT.",
+            "created_at": "Sun Aug 17 15:06:57 +0000 2025",
+            "retweet": 4,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 62,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@tjstebbing @0x_CCE @k_kree17 @minidogeart @houseofdoge \"Dogecoin has 20 million investors\"\n\nThis is a bad analogy. Holding a decentralized currency (which I argue is NOT inherently investing) is very different from managing a centralized entity in whole or in part.",
+            "created_at": "Sun Aug 24 23:45:59 +0000 2025",
+            "retweet": 0,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 965,
+            "username": "☣ junior developer ☣",
+            "user_account": "chromatic_x",
+            "text": "@adamamcbride Small nit: some people have been talking about changing Dogecoin from PoW to PoS. There are no serious proposals for the Dogecoin Core to make such a change, at this point.\n\nFurthermore, that's an entire network's decision, not one of code or a small group of people.",
+            "created_at": "Sun Aug 24 20:22:35 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

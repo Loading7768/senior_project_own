@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 892,
+            "username": "Chris",
+            "user_account": "seatsea",
+            "text": "I have 0.07€ in dogecoin so far, all got by mining.",
+            "created_at": "Tue Mar 04 09:44:26 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 914,
+            "username": "Chris",
+            "user_account": "seatsea",
+            "text": "1.6 dogecoin update, good move",
+            "created_at": "Mon Mar 17 11:35:05 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 107,
+            "username": "Chris",
+            "user_account": "seatsea",
+            "text": "Dogecoin wallet taking ages to catch up",
+            "created_at": "Fri Mar 21 21:22:38 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

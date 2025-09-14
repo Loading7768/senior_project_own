@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 10746,
+            "username": "basic",
+            "user_account": "Cpt_Basic",
+            "text": "@lookner ETH is up more than Dogecoin today",
+            "created_at": "Mon May 03 19:18:16 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 5143,
+            "username": "basic",
+            "user_account": "Cpt_Basic",
+            "text": "So SNL tanked Dogecoin? I guess the most ironic outcome truly is the most likely.",
+            "created_at": "Sun May 09 21:53:14 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5710,
+            "username": "basic",
+            "user_account": "Cpt_Basic",
+            "text": "@lookner Why are you looking at Dogecoin? Crypto is capitulating",
+            "created_at": "Wed May 19 19:03:33 +0000 2021",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        }
+    ]
+}

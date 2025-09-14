@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 53,
+            "username": "Iamtutut",
+            "user_account": "tututpouet",
+            "text": ".@dogecoin #DOGE $DOGE has many more full nodes than @BitcoinSVNode #BSV $BSV.\n\nLet that sink in.\n\n#JustSaying",
+            "created_at": "Sat Feb 15 17:45:38 +0000 2020",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 45,
+            "username": "Iamtutut",
+            "user_account": "tututpouet",
+            "text": "@mrabino1 @0xstark @mflaxman Blocksize limit is 4Mb. Already saw 1.7-1.8Mb blocks.\n\nBlock 618070 7 hours ago OKEx 1,517.24Kb.\n\nBCH and BSV failed (less nodes than @dogecoin) experiments are the proof big blocks are...A failure.",
+            "created_at": "Wed Feb 19 18:21:02 +0000 2020",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

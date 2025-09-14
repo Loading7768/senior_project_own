@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 6467,
+            "username": "John",
+            "user_account": "MrJohnHooper",
+            "text": "@francispouliot_ Dogecoin is a cryptocurrency created as a joke.",
+            "created_at": "Fri May 07 22:13:35 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 31796,
+            "username": "John",
+            "user_account": "MrJohnHooper",
+            "text": "@ryancaban24 Yeah, DogeCoin had a rough night",
+            "created_at": "Sun May 09 13:38:21 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

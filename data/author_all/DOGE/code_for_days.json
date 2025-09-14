@@ -1,0 +1,44 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 552,
+            "username": "Scott Davis",
+            "user_account": "code_for_days",
+            "text": "@jacksonpalmer thanks for all your work on #dogecoin #tothemoon",
+            "created_at": "Sat Dec 21 04:46:12 +0000 2013",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 554,
+            "username": "Scott Davis",
+            "user_account": "code_for_days",
+            "text": "@BillyM2k also excited to see #dogecoin i its fourth major exchange. It hit #vircurex today",
+            "created_at": "Sat Dec 21 04:40:51 +0000 2013",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 555,
+            "username": "Scott Davis",
+            "user_account": "code_for_days",
+            "text": "@BillyM2k thanks for creating #dogecoin #tothemoon",
+            "created_at": "Sat Dec 21 04:37:41 +0000 2013",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 231,
+            "username": "Scott Davis",
+            "user_account": "code_for_days",
+            "text": "@nwoolls any plans to add support for #dogecoin to #multiminer?",
+            "created_at": "Tue Dec 31 10:07:53 +0000 2013",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

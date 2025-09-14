@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4740,
+            "username": "Joe the Gent",
+            "user_account": "Jaayarc",
+            "text": "#dogecoin is hitting .80 tonight I feel it",
+            "created_at": "Fri May 07 22:36:03 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 11757,
+            "username": "Joe the Gent",
+            "user_account": "Jaayarc",
+            "text": "Woke up too late to the dogecoin dip",
+            "created_at": "Wed May 19 15:21:38 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

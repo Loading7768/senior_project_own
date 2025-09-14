@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 10512,
+            "username": "longzone",
+            "user_account": "longzone2589",
+            "text": "@elonmusk #dogecoin 1$ coming",
+            "created_at": "Sat May 08 18:38:39 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 50001,
+            "username": "longzone",
+            "user_account": "longzone2589",
+            "text": "@elonmusk How about #dogecoin pump",
+            "created_at": "Sun May 09 07:00:28 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

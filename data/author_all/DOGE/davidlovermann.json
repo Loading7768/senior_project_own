@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 184,
+            "username": "David",
+            "user_account": "davidlovermann",
+            "text": "@MattWallace888 Doge coin",
+            "created_at": "Mon Feb 07 23:01:47 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 99,
+            "username": "David",
+            "user_account": "davidlovermann",
+            "text": "@CoinDCX Dogecoin",
+            "created_at": "Tue Mar 01 23:10:09 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 14141,
+            "username": "Mark Hachman",
+            "user_account": "markhachman",
+            "text": "Dogecoin gets you A's tickets.",
+            "created_at": "Mon May 03 16:50:11 +0000 2021",
+            "retweet": 3,
+            "likes": 4
+        },
+        {
+            "tweet_count": 52403,
+            "username": "Mark Hachman",
+            "user_account": "markhachman",
+            "text": "Everyone's so concerned about the price of Dogecoin after SNL but I just went to the grocery store and wings were half price",
+            "created_at": "Sun May 09 06:11:04 +0000 2021",
+            "retweet": 3,
+            "likes": 3,
+            "retweeted_tweet": null
+        }
+    ]
+}

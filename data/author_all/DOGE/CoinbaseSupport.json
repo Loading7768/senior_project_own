@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 2277,
+            "username": "Coinbase Support",
+            "user_account": "CoinbaseSupport",
+            "text": "@yifannuo123 Hi there, thank you for asking! You can find more info about Dogecoin at: https://t.co/MfB5OCbEaW",
+            "created_at": "Fri Sep 24 16:22:36 +0000 2021",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 369,
+            "username": "Coinbase Support",
+            "user_account": "CoinbaseSupport",
+            "text": "@Dogemarine Thanks for clarifying. The transaction fees for Dogecoin would be determined by their network. If you would like to know the cost of a Dogecoin transaction you can do a quick test by initiating a transaction, then you can see the tx fee on our send preview page. Thanks!\n^BB",
+            "created_at": "Tue Apr 26 22:35:19 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

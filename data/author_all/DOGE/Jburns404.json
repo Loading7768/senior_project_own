@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 10995,
+            "username": "John Burns",
+            "user_account": "Jburns404",
+            "text": "@ComfortablySmug They’re gonna dump it into Dogecoin before tomorrow anyway",
+            "created_at": "Fri May 07 19:47:04 +0000 2021",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 9123,
+            "username": "John Burns",
+            "user_account": "Jburns404",
+            "text": "@KassyDillon It’s all so he can pump dogecoin",
+            "created_at": "Mon Apr 25 13:30:30 +0000 2022",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

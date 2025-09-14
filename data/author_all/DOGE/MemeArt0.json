@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4040,
+            "username": "Meme Artist",
+            "user_account": "MemeArt0",
+            "text": "@cb_doge Doge coin",
+            "created_at": "Sat Jul 19 13:36:32 +0000 2025",
+            "retweet": 2,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3918,
+            "username": "Meme Artist",
+            "user_account": "MemeArt0",
+            "text": "@cb_doge Doge coin",
+            "created_at": "Fri Jul 25 12:57:17 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

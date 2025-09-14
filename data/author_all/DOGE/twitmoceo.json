@@ -1,0 +1,32 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 46301,
+            "username": "TweetCzar",
+            "user_account": "twitmoceo",
+            "text": "#dogecoin Just broke $.50",
+            "created_at": "Tue May 04 12:05:35 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 12504,
+            "username": "TweetCzar",
+            "user_account": "twitmoceo",
+            "text": "@tinastullracing @okaannbey @elonmusk @dogecoin @SpaceX Robinhood is the easiest way.",
+            "created_at": "Sat May 08 17:38:50 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 2478,
+            "username": "TweetCzar",
+            "user_account": "twitmoceo",
+            "text": "Damn #dogecoin what are you doing?",
+            "created_at": "Mon Jun 21 22:22:22 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

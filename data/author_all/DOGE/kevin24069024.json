@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 3279,
+            "username": "kevin",
+            "user_account": "kevin24069024",
+            "text": "@dogecoin_rise I haveeee",
+            "created_at": "Wed May 05 22:04:55 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 7616,
+            "username": "kevin",
+            "user_account": "kevin24069024",
+            "text": "@dogecoin_rise I bought again",
+            "created_at": "Mon May 10 20:11:56 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7706,
+            "username": "kevin",
+            "user_account": "kevin24069024",
+            "text": "@dogecoin_rise I’m holding",
+            "created_at": "Mon May 10 20:09:56 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

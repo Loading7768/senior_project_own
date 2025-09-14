@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 260,
+            "username": "Antoine Le Calvez",
+            "user_account": "khannib",
+            "text": "And now Dogecoin, where lots of coins from 2014 are still untouched. https://t.co/na6R0rBbd0",
+            "created_at": "Sun Sep 23 07:33:11 +0000 2018",
+            "retweet": 9,
+            "likes": 57,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 31,
+            "username": "Antoine Le Calvez",
+            "user_account": "khannib",
+            "text": "One possible reason why BTC was created with \"only\" 21 quadrillion satoshis: it fits in a signed long (63 bits).\n\nDogecoin has such a high supply it overflows a Java long and will even overflow 64 bits in the future due to tail inflation.",
+            "created_at": "Tue Oct 02 20:41:27 +0000 2018",
+            "retweet": 3,
+            "likes": 26,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34533,
+            "username": "Antoine Le Calvez",
+            "user_account": "khannib",
+            "text": "Dogecoin nodes are quite slow right now.\n\nGiven it split off Bitcoin's code, this puts in perspective the amount of work that went into optimizing Bitcoin Core in the past few years.",
+            "created_at": "Sun May 09 13:04:43 +0000 2021",
+            "retweet": 2,
+            "likes": 43,
+            "retweeted_tweet": null
+        }
+    ]
+}

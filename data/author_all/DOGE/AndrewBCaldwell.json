@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1030,
+            "username": "Andrew Caldwell",
+            "user_account": "AndrewBCaldwell",
+            "text": "@OtayDonkey @rettlerb How is the extrinsic value of Bitcoin different from Dogecoin or any other cryptocurrency? People buy them because they think the value in USD will go up.",
+            "created_at": "Fri Jun 18 21:15:36 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1165,
+            "username": "Andrew Caldwell",
+            "user_account": "AndrewBCaldwell",
+            "text": "@OtayDonkey @rettlerb Sure there’s more people who work on projects on top of Bitcoin, but wasn’t the code for Dogecoin copied from Bitcoin? And the lightning network is not the Bitcoin blockchain. If Bitcoin is what you say it is, why not use the main blockchain rather than a 2nd layer?",
+            "created_at": "Fri Jun 18 20:56:39 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1234,
+            "username": "Andrew Caldwell",
+            "user_account": "AndrewBCaldwell",
+            "text": "@OtayDonkey @rettlerb Sure, I think a lot of people wish they had bought a few bitcoin 10 years ago. But past performance is not predictive of future performance. Dogecoin is up 11589.6% over the last year, should people invest in that? The underlying blockchain is not very different.",
+            "created_at": "Fri Jun 18 20:45:35 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

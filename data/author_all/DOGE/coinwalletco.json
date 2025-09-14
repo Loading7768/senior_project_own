@@ -1,0 +1,54 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 110,
+            "username": "CoinWallet.co",
+            "user_account": "coinwalletco",
+            "text": "Dogecoin has now been added to CoinWallet.co",
+            "created_at": "Thu Feb 27 22:25:37 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1224,
+            "username": "CoinWallet.co",
+            "user_account": "coinwalletco",
+            "text": "We are downloading the entire Dogecoin chain again for 1.8, so DOGE wallet will be unavailable for around 30 - 60 minutes.",
+            "created_at": "Thu Sep 18 13:26:52 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1410,
+            "username": "CoinWallet.co",
+            "user_account": "coinwalletco",
+            "text": "Dogecoin wallet is active again on http://t.co/BgSfzkRCLA",
+            "created_at": "Fri Sep 19 07:21:01 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1409,
+            "username": "CoinWallet.co",
+            "user_account": "coinwalletco",
+            "text": "Dogecoin wallet is in offline mode while we re-index the block chain. Apologies for the delays.",
+            "created_at": "Wed Jan 27 04:53:03 +0000 2016",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 121,
+            "username": "CoinWallet.co",
+            "user_account": "coinwalletco",
+            "text": "The Dogecoin block chain stalled on our client so we are re-syncing now. Apologies for any inconvenience caused.",
+            "created_at": "Sun Mar 27 14:46:02 +0000 2016",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

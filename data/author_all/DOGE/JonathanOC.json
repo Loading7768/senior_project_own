@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 220,
+            "username": "Jonathan",
+            "user_account": "JonathanOC",
+            "text": "@anguschampion =IFERROR(\"Kodak\"=1,\"Dogecoin\")",
+            "created_at": "Tue Jan 09 20:04:54 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 723,
+            "username": "Jonathan",
+            "user_account": "JonathanOC",
+            "text": "@jclishman I'm sorry I only accept Dogecoin.",
+            "created_at": "Sat Jan 13 03:32:35 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1221,
+            "username": "Jonathan",
+            "user_account": "JonathanOC",
+            "text": "@dogecoin_empire How is that unhygienic? Do you eat off the floor?",
+            "created_at": "Sat Jul 26 19:50:50 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

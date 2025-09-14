@@ -1,0 +1,32 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 5882,
+            "username": "David Ball",
+            "user_account": "dball33",
+            "text": "#Robinhood loves going down for maintenance after #dogecoin spikes.",
+            "created_at": "Mon May 03 21:36:10 +0000 2021",
+            "retweet": 1,
+            "likes": 2
+        },
+        {
+            "tweet_count": 543,
+            "username": "David Ball",
+            "user_account": "dball33",
+            "text": "It’s crazy how #Dogecoin is at $0.55 yet it isn’t even trending on Twitter.",
+            "created_at": "Tue May 04 23:37:53 +0000 2021",
+            "retweet": 3,
+            "likes": 6
+        },
+        {
+            "tweet_count": 4741,
+            "username": "David Ball",
+            "user_account": "dball33",
+            "text": "#Solana is the new #Dogecoin",
+            "created_at": "Tue Sep 07 06:46:53 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

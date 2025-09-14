@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4913,
+            "username": "Mr Banks",
+            "user_account": "MrBanksDenver",
+            "text": "Dogecoin is a literal digital coin",
+            "created_at": "Thu Apr 01 13:37:32 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4917,
+            "username": "Mr Banks",
+            "user_account": "MrBanksDenver",
+            "text": "@elonmusk @RpsAgainstTrump Dogecoin is a literal digital coin",
+            "created_at": "Thu Apr 01 13:37:10 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

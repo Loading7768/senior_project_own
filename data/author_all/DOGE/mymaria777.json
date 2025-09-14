@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 10613,
+            "username": "maria",
+            "user_account": "mymaria777",
+            "text": "May the #dogecoin be with you.",
+            "created_at": "Tue May 04 19:01:39 +0000 2021",
+            "retweet": 1,
+            "likes": 11
+        },
+        {
+            "tweet_count": 6433,
+            "username": "maria",
+            "user_account": "mymaria777",
+            "text": "So, $doge ?",
+            "created_at": "Wed May 12 22:12:46 +0000 2021",
+            "retweet": 0,
+            "likes": 7,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10121,
+            "username": "maria",
+            "user_account": "mymaria777",
+            "text": "Dogecoin surges more than 30% and the crypto army cheers as Coinbase Pro network opens to transfers - MarketWatch https://t.co/XvxHSnzAp4",
+            "created_at": "Wed Jun 02 13:46:22 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

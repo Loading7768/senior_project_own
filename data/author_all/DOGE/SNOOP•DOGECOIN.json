@@ -1,0 +1,36 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 10373,
+            "username": "SNOOP•DOGECOIN",
+            "text": "| ~/bos/PerfectionCheck.hs\n  |\n  | $ runhaskell PerfectionCheck.hs                                                   \n  | True\n  |  \n  | $ []                                                                       \n└─────────────",
+            "created_at": "Tue Nov 12 04:41:03 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 10374,
+            "username": "SNOOP•DOGECOIN",
+            "text": "|                 c = 💙\n  |           print (isSumEqual a b c)                                         \n  |\n├─────────────\n  | :set nowrap                                                     \n└─────────────\n┌─────────────\n  | $ pwd",
+            "created_at": "Tue Nov 12 04:41:02 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 10375,
+            "username": "SNOOP•DOGECOIN",
+            "text": "┌─────────────\n  | ~/bos/PerfectionCheck.hs         ├─────────────\n  | isSumEqual :: (Eq a, Num a) =&gt;\n  | isSumEqual x y z = (x + y) == z\n  |\n  | main :: IO ()\n  | main = do\n  |           let a = Cardano\n  |                 b = $SNOOP",
+            "created_at": "Tue Nov 12 04:41:02 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 11477,
+            "username": "SNOOP•DOGECOIN",
+            "text": "@coinbase @binance @BinanceUS @krakenfx @cryptocom what you waiting for? Come and get a taste. 🚀🚀🚀\n\nhttps://t.co/E5F7y3yQnN\nhttps://t.co/eF8FyXPwN6\n\n@Bitcoin @BTCTN #BTC #Bitcoin https://t.co/592gL4WLnH",
+            "created_at": "Tue Nov 12 02:13:37 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        }
+    ]
+}

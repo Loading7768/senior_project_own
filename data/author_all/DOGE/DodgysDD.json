@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 11155,
+            "username": "Ryan",
+            "user_account": "DodgysDD",
+            "text": "@elonmusk do you love dogecoin too",
+            "created_at": "Sun May 02 03:14:40 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 806,
+            "username": "Ryan",
+            "user_account": "DodgysDD",
+            "text": "@elonmusk even as much as dogecoin?",
+            "created_at": "Thu Apr 14 21:42:07 +0000 2022",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

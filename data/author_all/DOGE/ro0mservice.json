@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1060,
+            "username": "roomservice",
+            "user_account": "ro0mservice",
+            "text": "Who let the $DOGE out? $LUNA https://t.co/pLEHplBL5n",
+            "created_at": "Fri Dec 03 19:16:07 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 207,
+            "username": "roomservice",
+            "user_account": "ro0mservice",
+            "text": "@Pluto9r @astroport_fi @THORChain To be fair, we could also have skipped $LUNA for this swap entirely because we could cross-chain-swap $UST into $DOGE as well - but where would be the fun.\n\nJust a proof of concept for swapping a CW20 into any THORChain layer 1 asset in just one transaction.",
+            "created_at": "Wed Feb 16 22:30:02 +0000 2022",
+            "retweet": 1,
+            "likes": 39,
+            "retweeted_tweet": null
+        }
+    ]
+}

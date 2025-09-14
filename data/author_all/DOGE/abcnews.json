@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 5685,
+            "username": "ABC News",
+            "user_account": "abcnews",
+            "text": "Dogecoin 'bubble' surges ahead of Elon Musk's debut on SNL https://t.co/QBxq67HF5l",
+            "created_at": "Thu May 06 19:42:59 +0000 2021",
+            "retweet": 1,
+            "likes": 6
+        },
+        {
+            "tweet_count": 6513,
+            "username": "ABC News",
+            "user_account": "abcnews",
+            "text": "Cryptocurrency dogecoin tumbles after Elon Musk calls it a 'hustle' on Saturday Night Live https://t.co/9QiY8Cirqx",
+            "created_at": "Sun May 09 21:14:50 +0000 2021",
+            "retweet": 8,
+            "likes": 18,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3925,
+            "username": "ABC News",
+            "user_account": "abcnews",
+            "text": "Regan Gallagher has made a fortune from Dogecoin, but he says it’s not about the money https://t.co/nTdkg3MY1L",
+            "created_at": "Thu May 20 19:21:17 +0000 2021",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        }
+    ]
+}

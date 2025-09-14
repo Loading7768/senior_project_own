@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 16800,
+            "username": "James Dillon",
+            "user_account": "ItsJamesDillon",
+            "text": "#dogecoin was boomin yesterday!!! What’s gon happen tuhdayyy",
+            "created_at": "Wed May 05 15:10:56 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 16064,
+            "username": "James Dillon",
+            "user_account": "ItsJamesDillon",
+            "text": "#dogecoin hittin that dip again!! Time to buy 👀",
+            "created_at": "Thu May 13 18:26:33 +0000 2021",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

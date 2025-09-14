@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 5880,
+            "username": "beefstew",
+            "user_account": "OGBeefsTwo",
+            "text": "@elonmusk tweet about dogecoin",
+            "created_at": "Thu May 06 19:36:08 +0000 2021",
+            "retweet": 1,
+            "likes": 86
+        },
+        {
+            "tweet_count": 11957,
+            "username": "beefstew",
+            "user_account": "OGBeefsTwo",
+            "text": "@twtselma @elonmusk please tweet about dogecoin",
+            "created_at": "Wed May 19 15:16:21 +0000 2021",
+            "retweet": 0,
+            "likes": 178,
+            "retweeted_tweet": null
+        }
+    ]
+}

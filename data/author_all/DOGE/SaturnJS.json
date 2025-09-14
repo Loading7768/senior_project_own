@@ -1,0 +1,54 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 24140,
+            "username": "onChain",
+            "user_account": "SaturnJS",
+            "text": "@elonmusk @itsALLrisky You know doge coin has a rounding error on every tx right?",
+            "created_at": "Sun May 16 09:49:07 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21937,
+            "username": "onChain",
+            "user_account": "SaturnJS",
+            "text": "@elonmusk @loshan1212 @itsALLrisky Doge coin can't do math either because of 64 bit int use.\n\nhttps://t.co/W8cPzwwJVU",
+            "created_at": "Mon May 17 11:29:27 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22624,
+            "username": "onChain",
+            "user_account": "SaturnJS",
+            "text": "64 bit integer use causes problem, hence why doge coin is a joke coin.\n\nhttps://t.co/W8cPzwwJVU",
+            "created_at": "Mon May 17 10:46:53 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23545,
+            "username": "onChain",
+            "user_account": "SaturnJS",
+            "text": "@foo78017145 @lifeporterH @JihanWu Because Doge coin has an internal rounding error on each transaction.\n\nThat's why its a joke coin.\n\nThere is a reason why bitcoin has 8 integers on each side of the decimal.",
+            "created_at": "Mon May 17 09:46:11 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15664,
+            "username": "onChain",
+            "user_account": "SaturnJS",
+            "text": "@JihanWu Are you guys going to keep the rounding error in all dogecoin transactions? Don't fix that because that's what makes it Dogecoin!!!\n\nhttps://t.co/W8cPzwwJVU",
+            "created_at": "Tue May 25 12:38:07 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

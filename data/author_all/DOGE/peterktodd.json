@@ -1,0 +1,114 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 241,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "From warren re the @dogecoin fork: \"such competence, many chains, wow\" https://t.co/uXvSl1g8mU",
+            "created_at": "Sun Jan 05 05:40:25 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 140,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "#bitcoin needs to remember that #litecoin, #dogecoin, #monero etc. can compete for new investment/mindshare by implementing %51 protections.",
+            "created_at": "Wed Jul 09 22:23:06 +0000 2014",
+            "retweet": 3,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 166,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "@tristan_winters I actually agree here, and dogecoin was done in an ethical way IMO. @ummjackson's comments today disappointing.",
+            "created_at": "Sat Mar 05 17:12:07 +0000 2016",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 172,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "@ummjackson @DarrenMills Why did you work on dogecoin?",
+            "created_at": "Sat Mar 05 16:52:14 +0000 2016",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 814,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "@mperklin @_CFour_ I'm surprised that the Certified #Dogecoin Professional (CDP) certificate isn't in Comic Sans.",
+            "created_at": "Fri Apr 01 09:14:28 +0000 2016",
+            "retweet": 1,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 302,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "Hey babe, I'm a Dogecoin maximalist. https://t.co/lmekaWVqh2",
+            "created_at": "Sat May 19 06:28:23 +0000 2018",
+            "retweet": 5,
+            "likes": 82,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 250,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "This is really misleading.\n\nDogecoin is merge-mined, so the marginal cost to attack it is _zero_; attacking Monero is much more expensive than that.\n\nPrior example: Coiled Coin was merge-mined, and years ago one person with no budget 51% attacked it, killing the coin. https://t.co/ksnxF6jPyr",
+            "created_at": "Wed May 30 07:28:55 +0000 2018",
+            "retweet": 30,
+            "likes": 105,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21233,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "Reminder: Elon Musk is one of the founders of PayPal.\n\nIt shouldn't surprise you if he tries to turn Dogecoin into PayPal 2.0\n\nhttps://t.co/DXJYux03Bm",
+            "created_at": "Sun May 16 11:49:00 +0000 2021",
+            "retweet": 18,
+            "likes": 117,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27854,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "But being able to tolerate high latency is what's required to become currency of the solar system.\n\nLightning on a long-block-interval coin can become the payment layer of the solar system. A 6 second block interval Dogecoin simply can't.\n\nI'm surprised his goals are so low.",
+            "created_at": "Sun May 16 07:33:14 +0000 2021",
+            "retweet": 29,
+            "likes": 278,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 38474,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "😂😂😂😂😂😂😂😂😂😂😂\n\nDogecoin's block interval is already just 60 seconds. That's low enough that larger miners already have a big profit advantage over smaller ones.\n\nA 6 second block interval with 10MB blocks would just break the consensus.\n\nMusk should focus on rockets.",
+            "created_at": "Sun May 16 01:40:36 +0000 2021",
+            "retweet": 233,
+            "likes": 1983,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9499,
+            "username": "Peter Todd",
+            "user_account": "peterktodd",
+            "text": "@clqr Note that Bitcoin has bigger tolerances than the 0.1s I quoted for a 60s interval (which happens to be what Dogecoin uses), because a 10 minute block interval gives you more lee-way.",
+            "created_at": "Fri May 21 13:51:27 +0000 2021",
+            "retweet": 0,
+            "likes": 10,
+            "retweeted_tweet": null
+        }
+    ]
+}

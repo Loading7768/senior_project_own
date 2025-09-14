@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 48327,
+            "username": "Some kid off Twítter",
+            "user_account": "ChrisJGerman",
+            "text": "#DogeCoin is flying today",
+            "created_at": "Tue May 04 11:10:48 +0000 2021",
+            "retweet": 10,
+            "likes": 41
+        },
+        {
+            "tweet_count": 13865,
+            "username": "Some kid off Twítter",
+            "user_account": "ChrisJGerman",
+            "text": "#Dogecoin was never in doubt",
+            "created_at": "Wed Jun 02 11:10:59 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

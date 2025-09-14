@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 327,
+            "username": "david",
+            "user_account": "davidstrayhorn",
+            "text": "Is there any reason to prefer #BCH over #Zcash or #dogecoin? #ZEC and #DOGE transactions are cheaper than #BCH; ZEC is more private; and BCH suffers from mining centralization.",
+            "created_at": "Wed Dec 20 17:25:59 +0000 2017",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 905,
+            "username": "david",
+            "user_account": "davidstrayhorn",
+            "text": "@Hodl_Lambo @rogerkver @BITCOlNCASH @BitcoinCashFans @mises @feeonline @lopp @VinnyLingham @tylerwinklevoss @winklevoss @brian_armstrong @GovJVentura 3/ This would explain why Roger prefers BCH over other faster coins like Dogecoin: BCH is the only one with centralized mining control, plus a mechanism to maintain said centralized control (assuming no PoW change).",
+            "created_at": "Thu Dec 21 04:07:14 +0000 2017",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 284,
+            "username": "david",
+            "user_account": "davidstrayhorn",
+            "text": "@crypto_daze @CryptoRick6 @justicemate Dogecoin (as well as other alts) have lower fees than BCH. Why does Roger not promote Doge instead of BCH? I speculate the answer to be that Roger considers *centralized control* of BCH mining to be a *feature*, not a bug: it means he can continue to increase blocksize as needed.",
+            "created_at": "Sun Dec 24 18:54:15 +0000 2017",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

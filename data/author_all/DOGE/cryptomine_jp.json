@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1339,
+            "username": "cryptomine.jp",
+            "user_account": "cryptomine_jp",
+            "text": "@mclemmensen Could you add my dogecoin p2pool node on P2Pool Finder?\nhttp://t.co/S41nSfsJgN\nPlease add above URL rather than reverse DNS.",
+            "created_at": "Thu Feb 06 09:16:26 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2231,
+            "username": "cryptomine.jp",
+            "user_account": "cryptomine_jp",
+            "text": "Our #dogecoin P2Pool suffered many DOA on  on 25 March. We modified dogecoin.conf and restarted both dogecoind and P2Pool. It seems fine now",
+            "created_at": "Wed Mar 26 02:52:47 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

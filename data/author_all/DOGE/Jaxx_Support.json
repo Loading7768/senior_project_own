@@ -1,0 +1,123 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 626,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@satoshivc We don't know of any issues with $DOGE and it seems to work as we just tested. Pls. open a support req. https://t.co/hpxstR4JVe",
+            "created_at": "Tue Dec 26 10:43:36 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 274,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@CryptoMark33 @satoshivc @jaxx_io @dogecoin @AppStore @WellsFargo @coinbase We will follow up through your ticket, we are just swamped at the moment.",
+            "created_at": "Wed Dec 27 18:08:38 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 367,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@satoshivc @CryptoMark33 @jaxx_io @dogecoin Can you make sure you have the latest version of Jaxx &amp; if still having issues, pls file a ticket: https://t.co/hpxstR4JVe",
+            "created_at": "Wed Dec 27 16:30:40 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 368,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@CryptoMark33 @satoshivc @jaxx_io @dogecoin Can you make sure you have the latest version of Jaxx &amp; if still having issues, pls file a ticket: https://t.co/hpxstR4JVe",
+            "created_at": "Wed Dec 27 16:30:30 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 261,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@lubo_lock @dogecoin Thanks for your answer. Our devs are aware of some issues and they are working on it. Hoping to be resolve it very soon.",
+            "created_at": "Sun Feb 11 15:39:45 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 312,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@metabarisakalin Hi there, sorry to hear you're having issues! Our devs are working on some items for the $DOGE backend and we hope they will sort out any issues soon. Sorry to see you go and we hope to see you back in the future.",
+            "created_at": "Sun Feb 11 14:17:37 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 323,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@lubo_lock Our devs were working out some issues on the $DOGE backend at the end of this workweek. Could you open a support request with our team on https://t.co/hpxstR4JVe so we understand exactly what is happening on your side?",
+            "created_at": "Sun Feb 11 14:07:39 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 256,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@HtetYan79703545 Sorry to hear you're having issues transferring $DOGE. It may be best if you open a support request with our team on https://t.co/hpxstR4JVe so they can investigate. Thanks in advance! - DA",
+            "created_at": "Sun Jul 29 06:49:02 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 26,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@SannerAurelien Hi there! The Jaxx Dogecoin wallet seems to be working fine from what we can see. Could you open a support request with our team on https://t.co/jNOFicm6BQ with all the details of your issue and they will look into it asap? Thanks! - DA",
+            "created_at": "Tue Dec 25 23:02:58 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 47855,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@ImYourDustiny44 Hi Dustin, the Send to Self transaction is when you send Doge from your wallet to an address in your wallet as well. The value of that transaction is zero because you're not moving any Dogecoin in or out of your wallet.\nWhat error are you getting when exchanging?",
+            "created_at": "Tue May 04 11:26:01 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 16481,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@xtzfaucet Hi. When sending transactions, if you're not sending (spending) the entire amount, some of it may return into what is called a change address, but that's part of your wallet as well. You can see all your addresses in the MENU &gt; Tools &lt; View Private Keys &gt; Dogecoin.",
+            "created_at": "Wed Jun 02 08:31:03 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8589,
+            "username": "Jaxx Support",
+            "user_account": "Jaxx_Support",
+            "text": "@Cryptoc06883871 Hi. Paste in the address as well to see the final fee amount.\nThose may actually be correct if you have a lot of incoming transactions (UTXOs) that make up the maximum balance. Transaction mining fees on the Dogecoin blockchain are calculated based on the actual size, not amount.",
+            "created_at": "Fri Jun 04 12:07:03 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

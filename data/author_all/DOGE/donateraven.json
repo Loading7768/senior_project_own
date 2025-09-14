@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 192,
+            "username": "donateraven",
+            "user_account": "donateraven",
+            "text": "@coinkit_ tip 3 $doge @realmaineguy",
+            "created_at": "Thu Jan 23 01:08:41 +0000 2020",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 53,
+            "username": "donateraven",
+            "user_account": "donateraven",
+            "text": "@coinkit_ tip 20 $doge @realmaineguy",
+            "created_at": "Wed Jan 29 18:21:17 +0000 2020",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 54,
+            "username": "donateraven",
+            "user_account": "donateraven",
+            "text": "@coinkit_ tip 21 $doge @realmaineguy",
+            "created_at": "Wed Jan 29 18:19:51 +0000 2020",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

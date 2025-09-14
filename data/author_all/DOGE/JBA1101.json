@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 6514,
+            "username": "John B.",
+            "user_account": "JBA1101",
+            "text": "DO THE DAMN THING #dogecoin !!!!",
+            "created_at": "Tue May 04 20:33:04 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 2514,
+            "username": "John B.",
+            "user_account": "JBA1101",
+            "text": "#dogecoin is playing with us again",
+            "created_at": "Thu Oct 28 19:57:13 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

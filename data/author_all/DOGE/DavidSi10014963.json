@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1424,
+            "username": "David Sinclair",
+            "user_account": "DavidSi10014963",
+            "text": "#dogecoin pumping right now!",
+            "created_at": "Wed May 05 23:09:55 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 1595,
+            "username": "David Sinclair",
+            "user_account": "DavidSi10014963",
+            "text": "@elonmusk How much doge coin was used to purchase this ride into orbit?",
+            "created_at": "Sun May 09 23:20:33 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6753,
+            "username": "David Sinclair",
+            "user_account": "DavidSi10014963",
+            "text": "@davidgokhshtein Approximately how much doge coin did this transaction cost?",
+            "created_at": "Sun May 09 21:08:34 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

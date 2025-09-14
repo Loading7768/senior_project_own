@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 645,
+            "username": "Zem Gao",
+            "user_account": "zeminggao",
+            "text": "@elonmusk @dogecoin_devs You should accept the invitation by Craig and look into BSV.  \n\nThe only drawback for you is: \n\nwith BSV you'll not enjoy as much control (or play) as you have now with DOGE, because BSV is serious. But on the other hand, it will be good for your long-term reputation and legacy.",
+            "created_at": "Thu Sep 02 21:34:56 +0000 2021",
+            "retweet": 0,
+            "likes": 7,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 669,
+            "username": "Zem Gao",
+            "user_account": "zeminggao",
+            "text": "@elonmusk @dogecoin_devs Information theory? If you mean the mathematical study of the coding of information in the form of sequences of symbols, impulses, and of how rapidly such information can be transmitted, then you'd realize Craig Wright is the only one who's actually developing this on blockchain.",
+            "created_at": "Thu Sep 02 21:31:23 +0000 2021",
+            "retweet": 1,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 684,
+            "username": "Zem Gao",
+            "user_account": "zeminggao",
+            "text": "@elonmusk @dogecoin_devs If you are serious about any of that, you'd find 30 TPS is too low when BSV has already shown 100K and unlimited TPS, the only limit being the actual txs available to be processed; \n&amp;\n$0.5/tx is too high when BSV is at $0.0001 (and devs still want 'lower' for nano-payment apps)",
+            "created_at": "Thu Sep 02 21:28:54 +0000 2021",
+            "retweet": 1,
+            "likes": 14,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 276,
+            "username": "Prices",
+            "user_account": "PriceLogs",
+            "text": "Prices for Wed Apr  6 19:09:51 2022\nNGF - Gas: $6.09\nCLF - Oil: $96.97\nGCF - Gold: $1928.4\nSIF - Silver: $24.58\nCMX - Copper: $4.7\nPLF - Platinum: $954.8\nURA - Uranium: $25.75\nDOGE - Dogecoin: $0.15\nTWTR - Twitter: $50.77",
+            "created_at": "Wed Apr 06 22:09:51 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1507,
+            "username": "Prices",
+            "user_account": "PriceLogs",
+            "text": "Prices for Fri May 13 13:24:03 2022\nNGF - Gas: $7.58\nCLF - Oil: $110.22\nGCF - Gold: $1809.7\nSIF - Silver: $21.06\nCMX - Copper: $4.16\nPLF - Platinum: $930.7\nURA - Uranium: $20.55\nTWTR - Twitter: $41.47\nDOGE - Dogecoin: $0.09",
+            "created_at": "Fri May 13 16:24:03 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 761,
+            "username": "Prices",
+            "user_account": "PriceLogs",
+            "text": "Prices for Sat May 14 16:25:12 2022\nNGF - Gas: $7.62\nCLF - Oil: $110.16\nGCF - Gold: $1810.3\nSIF - Silver: $21.11\nCMX - Copper: $4.16\nPLF - Platinum: $930.8\nURA - Uranium: $20.27\nBP: $30.49\nDOGE - Dogecoin: $0.09",
+            "created_at": "Sat May 14 19:25:12 +0000 2022",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

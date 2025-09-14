@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 47103,
+            "username": "ANAKIN",
+            "user_account": "1023Bird",
+            "text": "GOOD MORNING #dogecoin",
+            "created_at": "Tue May 04 11:46:30 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 8195,
+            "username": "ANAKIN",
+            "user_account": "1023Bird",
+            "text": "FUCK YOU #dogecoin",
+            "created_at": "Tue Jun 22 12:34:26 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5036,
+            "username": "ANAKIN",
+            "user_account": "1023Bird",
+            "text": "RISE N SHINE #dogecoin",
+            "created_at": "Tue Jun 29 13:23:53 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

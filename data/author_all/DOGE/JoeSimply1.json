@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 19114,
+            "username": "Joe Simply",
+            "user_account": "JoeSimply1",
+            "text": "@dogecoin_rise Any update DOGS coins update ?",
+            "created_at": "Fri May 07 13:33:50 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 9019,
+            "username": "Joe Simply",
+            "user_account": "JoeSimply1",
+            "text": "@ChairwomanDoge I love dogecoin for life",
+            "created_at": "Sun May 23 14:20:51 +0000 2021",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9034,
+            "username": "Joe Simply",
+            "user_account": "JoeSimply1",
+            "text": "@ChairwomanDoge I love dogecoin",
+            "created_at": "Sun May 23 14:19:35 +0000 2021",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

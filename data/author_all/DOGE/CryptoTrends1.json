@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 287,
+            "username": "John",
+            "user_account": "CryptoTrends1",
+            "text": "The coin is modeled in a similar way to Dogecoin, except the creators are interested in raising the value of each coin exponentially.",
+            "created_at": "Sat Mar 29 19:37:00 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 776,
+            "username": "John",
+            "user_account": "CryptoTrends1",
+            "text": "@dogecoin has dipped in the past 24 hours. Their remains roughy two weeks until the prize for mining is halved.",
+            "created_at": "Sun Apr 13 06:17:31 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2706,
+            "username": "John",
+            "user_account": "CryptoTrends1",
+            "text": "http://t.co/0E6qp4fsY9 The Doge Vault was attacked. Stay tuned for updates on damages and loss. Hopefully, nothing serious .#BTC @DogeVault",
+            "created_at": "Wed May 14 05:37:29 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

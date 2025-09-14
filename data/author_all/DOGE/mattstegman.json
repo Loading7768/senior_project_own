@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4907,
+            "username": "Matt Stegman",
+            "user_account": "mattstegman",
+            "text": "Wow #dogecoin just hit 70 cents 😳",
+            "created_at": "Fri May 07 22:33:37 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 2479,
+            "username": "Matt Stegman",
+            "user_account": "mattstegman",
+            "text": "@cnnbrk They can have my useless dogecoin",
+            "created_at": "Mon Jul 05 16:59:28 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

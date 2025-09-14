@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 940,
+            "username": "Nico Smid",
+            "user_account": "Smidnico",
+            "text": "📉 Halvings &amp; Monetary Policy: \n➡️ Bitcoin &amp; Litecoin: Halvings every ~4 years (latest: BTC in Apr 2024, LTC in Aug 2023). \n➡️ Dogecoin: No halving. Fixed reward of 10,000 DOGE/block = inflationary. \n➡️ Kaspa: No halving, but monthly emission reduction—gradual, not abrupt.",
+            "created_at": "Thu Apr 10 18:13:16 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 941,
+            "username": "Nico Smid",
+            "user_account": "Smidnico",
+            "text": "⛏️ Difficulty Adjustments: \n➡️ Bitcoin: Adjusts every 2 weeks. \n➡️ Litecoin/Dogecoin: Adjust every block. \n➡️ Kaspa: Adjusts dynamically every second.",
+            "created_at": "Thu Apr 10 18:13:16 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 942,
+            "username": "Nico Smid",
+            "user_account": "Smidnico",
+            "text": "⚙️ Comparing Hardware &amp; Algorithms: \n➡️ Bitcoin uses SHA-256, requiring high TH/s output. ➡️ Litecoin &amp; Dogecoin run on the Scrypt algorithm and benefit from merged mining—mine one, earn both. \n➡️ Kaspa uses kHeavyHash and has moved from GPU to ASICs only since late 2023.  Each https://t.co/PDX706ciql",
+            "created_at": "Thu Apr 10 18:13:15 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

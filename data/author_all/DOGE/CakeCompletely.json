@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 2337,
+            "username": "CompletelyCake",
+            "user_account": "CakeCompletely",
+            "text": "$CompletelyCake #CashAppBitcoin \n\n@CashApp Consider adding Dogecoin \n#Dogecoin",
+            "created_at": "Fri Mar 19 16:43:19 +0000 2021",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2383,
+            "username": "CompletelyCake",
+            "user_account": "CakeCompletely",
+            "text": "@CashApp Consider adding Dogecoin\n\n$CompletelyCake #CashAppBitcoin #Dogecoin",
+            "created_at": "Fri Mar 19 16:34:30 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

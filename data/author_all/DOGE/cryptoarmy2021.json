@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 3760,
+            "username": "dani",
+            "user_account": "cryptoarmy2021",
+            "text": "@coinbase Shiba inu\nbaby dogecoin",
+            "created_at": "Fri Jul 02 15:11:52 +0000 2021",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5069,
+            "username": "dani",
+            "user_account": "cryptoarmy2021",
+            "text": "@elonmusk Baby dogecoin",
+            "created_at": "Fri Jul 02 13:26:17 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5333,
+            "username": "dani",
+            "user_account": "cryptoarmy2021",
+            "text": "@elonmusk Greeting from Baby dogecoin",
+            "created_at": "Fri Jul 02 13:12:13 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 13818,
+            "username": "Diane D.",
+            "user_account": "itsmeDyanD",
+            "text": "$DOGE",
+            "created_at": "Sat Jun 05 04:18:36 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13822,
+            "username": "Diane D.",
+            "user_account": "itsmeDyanD",
+            "text": "@TommyBeFamous $DOGE",
+            "created_at": "Sat Jun 05 04:18:11 +0000 2021",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

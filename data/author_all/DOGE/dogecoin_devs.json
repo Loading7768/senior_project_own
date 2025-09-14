@@ -1,0 +1,4021 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 332,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Stay up to date on #dogecoin development with this official developer feed @JRossNicoll @leofidus @langer_hans @jwiechers @dogecoin",
+            "created_at": "Tue Apr 15 20:04:15 +0000 2014",
+            "retweet": 4,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 466,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Dogecoin 1.7 is out now, and brings us inline with Bitcoin 0.9  http://t.co/umjLYvgFsm",
+            "created_at": "Wed May 21 20:05:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 761,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Have you tried turning it off then on again?",
+            "created_at": "Tue Jul 15 16:46:41 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 742,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Dogecoin CoreDev Interview - LangerHans http://t.co/vH6yUxH15s",
+            "created_at": "Wed Jul 30 16:02:54 +0000 2014",
+            "retweet": 13,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 238,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Looking like the #dogecoin hard fork will hit on the 11th. Update to 1.8 now if you haven't already",
+            "created_at": "Tue Sep 02 13:44:17 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1376,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Reminder that #dogecoin 1.8 is out and is a required update. Updates of Android and Multidoge clients also released",
+            "created_at": "Mon Sep 08 07:05:47 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1165,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "If you're running a pre-1.8 #dogecoin client, please update or shut it down immediately. Est. 53 hours remaining until hard fork",
+            "created_at": "Tue Sep 09 13:13:53 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 368,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "T minus 23 hours and counting to AuxPoW",
+            "created_at": "Wed Sep 10 20:40:56 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1414,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "T minus 36 hours to AuxPoW, and counting",
+            "created_at": "Wed Sep 10 06:58:18 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 581,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "AuxPoW online and all systems wow",
+            "created_at": "Thu Sep 11 19:49:52 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 625,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Eight blocks to AuxPoW",
+            "created_at": "Thu Sep 11 19:36:52 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1004,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Spinning up a bunch of EC2 nodes, but always need more client nodes if your running 1.8, please make sure you're online",
+            "created_at": "Thu Sep 11 17:07:01 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1361,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "T minus 6 hours and counting to AuxPoW, all systems wow.",
+            "created_at": "Thu Sep 11 13:55:37 +0000 2014",
+            "retweet": 3,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1608,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "T minus 12 hours and counting until AuxWoW",
+            "created_at": "Thu Sep 11 08:19:47 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 158,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "If you like the idea of Bitcoin, but don't like the transaction fees, Dogecoin is intentionally a drop-in replacement and has sub-cent tx fees.",
+            "created_at": "Tue Dec 12 19:35:23 +0000 2017",
+            "retweet": 7,
+            "likes": 16,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 100,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Dogecoin Core 1.14 is still being worked on, for those who have been wondering. Hoping to get dug into it over the break!",
+            "created_at": "Thu Dec 21 20:52:09 +0000 2017",
+            "retweet": 1,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 848,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@tommyp408 Oops I managed to miss this - the main dev team certainly is focused on the core releases, but we're always encouraging of anyone building on the platform!",
+            "created_at": "Fri Dec 22 00:12:13 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 852,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@OhMeadhbh Are you doing an ICO? 😁\n\n(For anyone reading this and wondering, no I'm not serious)",
+            "created_at": "Fri Dec 22 00:01:29 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 18,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity @JRossNicoll I'm just confused, really (although mostly it sounds like we're getting blame for an unrelated website?)",
+            "created_at": "Thu Dec 28 23:43:22 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 41,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@RancidPotato @OutrOnline I'm trying to work out if they're saying the website didn't pay them, or the client lost the funds, or something else entirely.",
+            "created_at": "Thu Dec 28 23:15:11 +0000 2017",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 47,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@GordonFreemanUS Which would leave us without any rewards for the miners, and a fork without miners isn't really a fork.",
+            "created_at": "Fri Dec 29 22:50:52 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 73,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "There are no current Dogecoin Electrum forks (AFAIK) but for those using it with other currencies https://t.co/l2IOZmQGFU",
+            "created_at": "Sun Jan 07 22:58:10 +0000 2018",
+            "retweet": 1,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 985,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@CEOofDogecoin Where we're going, we won't need dollars! :-D",
+            "created_at": "Sun Jan 07 12:49:19 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1055,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@RedPlumpTomato Part of the problem is we don't do development in \"master\" so people grabbing that branch don't get unstable builds, which makes it look like nothing is going on :( It's all in https://t.co/bi43j7aGKu",
+            "created_at": "Sun Jan 07 11:38:44 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1067,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@RedPlumpTomato Should have a clear timeline for 1.14 alpha within a week, 1.15 is likely to be a concurrent release, thinking about roadmap for 1.16, and about to start prodding exchanges/service providers about how we can help. You?",
+            "created_at": "Sun Jan 07 11:31:24 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1086,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Today in painful tech support queries - please don't overwrite wallet.dat with old versions. Just generally never delete old wallets, you never know what you might need from them.",
+            "created_at": "Sun Jan 07 11:05:46 +0000 2018",
+            "retweet": 2,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1098,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "What can we do to help our existing service providers increase adoption? @CoinPaymentsNET @ShapeShift_io",
+            "created_at": "Sun Jan 07 10:51:37 +0000 2018",
+            "retweet": 2,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 123,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I've got a plan. We launch Dogebinance tokens, which is an ICO to get Dogecoin listed on binance, but then we'll need funds to get the ICO listed.",
+            "created_at": "Tue Jan 09 21:48:53 +0000 2018",
+            "retweet": 3,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 133,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Got a status update from @MSingularity on why we're not listed on Binance. TLDR; they're used to organisations with ICOs, their listing fee is about 40% of the current dev fund: https://t.co/JolKOUf31S",
+            "created_at": "Tue Jan 09 21:39:41 +0000 2018",
+            "retweet": 1,
+            "likes": 9,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 175,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Hey @binance_2017 , anything we can do to help you add Doge?",
+            "created_at": "Tue Jan 09 21:06:17 +0000 2018",
+            "retweet": 15,
+            "likes": 35,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 186,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Last post for the night, the path to #dogecoin 1.14 alpha: https://t.co/Qq2P7nKGUK",
+            "created_at": "Tue Jan 09 20:58:14 +0000 2018",
+            "retweet": 5,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 281,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The 1.14 progress tracker is up if you want to see where we're up to: https://t.co/eZE0oQs0XH",
+            "created_at": "Tue Jan 09 19:03:17 +0000 2018",
+            "retweet": 6,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 342,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity I wouldn't mind if they were contributing code :P",
+            "created_at": "Tue Jan 09 18:33:04 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 605,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Bate9009 We're doing a Q&amp;A 16th Feb, although part of our ethos is we don't tell people to invest, so that limits things! :-D",
+            "created_at": "Tue Jan 09 15:13:05 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 587,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity I don't know, I'm on a diet, okay if I eat carrot sticks? :)",
+            "created_at": "Wed Jan 10 12:58:21 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1009,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@NicoleChaisson4 err @langer_hans perhaps, although it should sync fairly quickly. Android wallet I take it?",
+            "created_at": "Wed Jan 10 01:53:44 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@z3dster @dylanreibling @lorenzoFB https://t.co/cTqN0iiTUe is pretty close :P",
+            "created_at": "Thu Jan 11 23:52:50 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "That does it, I'm shipping 1.14 alpha before I sleep. Hold my coffee.",
+            "created_at": "Thu Jan 11 23:47:27 +0000 2018",
+            "retweet": 4,
+            "likes": 15,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@lorenzoFB @hacks4pancakes Now... okay, I may be biased, but I feel \"Is actually still usable as a payment platform and have a non-deflationary economic model\" is a fairly good argument for Doge.",
+            "created_at": "Thu Jan 11 23:45:35 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@AnarchosCredit Certainly a review of the case once the draft goes up would be nice :)",
+            "created_at": "Thu Jan 11 23:35:40 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Very I'm sticking my head back down and getting on writing a case for why Dogecoin is a viable currency. https://t.co/l7cLyMAjdR",
+            "created_at": "Thu Jan 11 23:33:44 +0000 2018",
+            "retweet": 2,
+            "likes": 7,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 404,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ialmost1it I sold my all of my initial Bitcoins at $20. I'm not necessarily the last person you should ask for investment advice, but certainly you'd be better off with a magic 8-ball :-D",
+            "created_at": "Thu Jan 11 16:12:54 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 663,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Having languages barrier issues trying to help with https://t.co/IUgpyTX5nT, can anyone help?",
+            "created_at": "Thu Jan 11 10:51:56 +0000 2018",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 682,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "There's a whole comment thread on reddit about how fast and cheap #dogecoin is to use: https://t.co/SuxnYTNbgK\n\nHow do we get retailers to appreciate this?",
+            "created_at": "Thu Jan 11 10:28:30 +0000 2018",
+            "retweet": 1,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 635,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@YearOfDoge Err... apparently about $100k, but it varies. I think we're more having ethical issues about exchanges requiring payment to list things, though.",
+            "created_at": "Fri Jan 12 12:01:53 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 638,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Didn't actually lose my grip on reality last night, the pre-alpha is a bit early but I actually needed a tagged release for infrastructure tests.\n\nAlso; starting to deploy 1.14 to permanent testnet infrastructure.",
+            "created_at": "Fri Jan 12 12:01:06 +0000 2018",
+            "retweet": 5,
+            "likes": 17,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 646,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@hacks4pancakes @pvineetha @cynicalsecurity @jcase Yes! I'm tired, there's Star Trek on Netflix, can tea and blankets on the sofa and watching Netflix please be a thing.",
+            "created_at": "Fri Jan 12 11:56:24 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@sammyleecrypto @htichcock Which API? Who am I poking to turn Doge on again?",
+            "created_at": "Sun Jan 14 23:38:01 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 98,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Osman accepts Dogecoin for signboards and digital printing https://t.co/HycOTsGmRC",
+            "created_at": "Sun Jan 14 21:42:33 +0000 2018",
+            "retweet": 2,
+            "likes": 18,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 101,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Looks like the Dogecoin Foundation still semi-exists, so we may resurrect it and have it hold domain names.",
+            "created_at": "Sun Jan 14 21:40:42 +0000 2018",
+            "retweet": 2,
+            "likes": 16,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 106,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@willskillllz Doge itself is fairly broke unfortunately (no premine, no ICO, post-launch dev team, so we all bought in with our own funds). There's a bloody huge bounty on the Doge/Eth bridge but we're expecting a team to claim it next month :-/",
+            "created_at": "Sun Jan 14 21:36:10 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 110,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@osmansahindede Do you have a website or similar link? If I RT you I suspect most people will end up at your Instagram, is that the right result?",
+            "created_at": "Sun Jan 14 21:32:25 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 111,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@pinguino No problem, trying to get some actual commerce activity moving again, thanks for accepting Doge :)",
+            "created_at": "Sun Jan 14 21:31:25 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 116,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "OMG so many new followers! Hey everyone, great to have you on board! How many of you are accepting Dogecoin payments for good/services?",
+            "created_at": "Sun Jan 14 21:27:01 +0000 2018",
+            "retweet": 6,
+            "likes": 46,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 126,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Santim3050 New update to Dogecoin Core, mostly integrating a bunch of improvements from Bitcoin Core.",
+            "created_at": "Sun Jan 14 21:23:06 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 136,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Tioman_Island I think Doge makes itself popular :-D We've got Ross (me), Max &amp; Patrick on it with Sporklin assisting, all on a free-time basis though.",
+            "created_at": "Sun Jan 14 21:22:35 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 146,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@nw1Gwe @Twitter @dogecoin Two key problems - very easy to game, and who supplies the Doge?",
+            "created_at": "Sun Jan 14 21:21:32 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Payment processors, we'd love to have you on board, let us know if we can help you take Dogecoin. Meanwhile a status update: https://t.co/BKN6FusXXq",
+            "created_at": "Tue Jan 16 23:46:13 +0000 2018",
+            "retweet": 8,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 18,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@WetKittyCaprice @Farmrsagent Generally good, although be really careful not to lose your account details!",
+            "created_at": "Wed Jan 17 22:59:29 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@WetKittyCaprice @ialmost1it Ledger Nano S is my personal choice, both reliable and easy to use, but pricey. Failing that suggest Dogecoin Core",
+            "created_at": "Wed Jan 17 22:43:46 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 45,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Farmrsagent Ledger Nano S is my personal choice, both reliable and easy to use, but pricey. Failing that suggest Dogecoin Core",
+            "created_at": "Wed Jan 17 22:06:43 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 171,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ialmost1it because someone may take it",
+            "created_at": "Wed Jan 17 18:51:10 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 560,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "This keeps happening, and unfortunately it seems inevitable it will keep happening :( https://t.co/xvV3VjaIbX",
+            "created_at": "Wed Jan 17 08:31:17 +0000 2018",
+            "retweet": 1,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 802,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@RedPlumpTomato That's going to be tricky, although mobile phones are getting ubiquitous enough it's not as out of the question as it might first seem",
+            "created_at": "Wed Jan 17 00:24:10 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity Plan B: We hook up a Markov chain generator to reddit. Totes same.",
+            "created_at": "Thu Jan 18 23:49:20 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@LudwigDeLarge Does it stay synced most of that time? Totally counts then :) Thanks!",
+            "created_at": "Thu Jan 18 23:45:15 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity I'm going to probably be on mobile, so my bet is me. Also I already have 57 messages I haven't dealt with and that's going up.",
+            "created_at": "Thu Jan 18 23:33:34 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@LudwigDeLarge Many thanks for all your work on the video :-D",
+            "created_at": "Thu Jan 18 23:28:24 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 28,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "There will be a Dogecoin developer Q&amp;A on the 16th Feb! We're finalising details, but expect early evening GMT, probably Max &amp; Ross sharing this account. Watch this space. Or that space. That space is also cool.",
+            "created_at": "Thu Jan 18 23:27:33 +0000 2018",
+            "retweet": 66,
+            "likes": 174,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 40,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@hotglam @europeanmint This is my sad face, European Mint :( Any idea what's going on?",
+            "created_at": "Thu Jan 18 23:12:56 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 531,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@BtcpayServer @olthoff Yup, we keep the whole thing as Bitcoin-compatible as possible, so should be fairly much trivial once 1.14 ships ;)",
+            "created_at": "Fri Jan 19 08:34:09 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 764,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@olthoff @BtcpayServer Ooh, will do, thanks!",
+            "created_at": "Fri Jan 19 00:33:19 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 774,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.14 pre-alpha node is still going strong; we're seeing some hiccups in spam protection, which I'll be tackling over the weekend.",
+            "created_at": "Fri Jan 19 00:23:35 +0000 2018",
+            "retweet": 37,
+            "likes": 137,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 160,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ubolator I need to see if I can form a group working on a Shopify plugin, would that be your sort of thing?",
+            "created_at": "Sat Jan 20 18:40:41 +0000 2018",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 184,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Down to three open PRs before the 1.14 alpha, plus resolving some weirdness with coinbase maturity",
+            "created_at": "Sat Jan 20 18:07:03 +0000 2018",
+            "retweet": 7,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 224,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@RedPlumpTomato Green :) Although now I'm on coffee...",
+            "created_at": "Sat Jan 20 17:15:05 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 406,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I'm here to drink tea and resolve why our fee schedule stops mempool removal from functioning, and I'm all out of tea.\n\n(That's not true, I have tea but I'm breaking gender norms and multitasking)",
+            "created_at": "Sat Jan 20 11:25:52 +0000 2018",
+            "retweet": 7,
+            "likes": 31,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 866,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Down to single issue blockers on 1.14 alpha. Right now it's Gitian (deterministic) builds of the Windows clients. Hoping for this week for an actual release.",
+            "created_at": "Mon Jan 22 00:29:37 +0000 2018",
+            "retweet": 8,
+            "likes": 44,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@alikoneko I'm probably going to do a slightly reskinned \"Dogecoin Pro\" edition of 1.14, if you fancied further improving it that would be amazing!",
+            "created_at": "Tue Jan 23 23:47:39 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@stripe Sorry it didn't work out with Bitcoin, but when you're ready to consider other cryptocurrencies, call us?",
+            "created_at": "Tue Jan 23 22:30:04 +0000 2018",
+            "retweet": 3,
+            "likes": 7,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 697,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "#dogecoin didn't #ICO\n\n(which is important to understand, because we have day jobs to pay the bills) https://t.co/1LCog634eK",
+            "created_at": "Wed Jan 24 08:06:41 +0000 2018",
+            "retweet": 13,
+            "likes": 53,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 709,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@alikoneko Will do once it's forked!",
+            "created_at": "Wed Jan 24 07:58:17 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 990,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I wrote some words on 1.14 to 1.16 https://t.co/BDu7kOXBav",
+            "created_at": "Wed Jan 24 00:06:08 +0000 2018",
+            "retweet": 11,
+            "likes": 30,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Everyone's figured out #dogecoin is a good way of moving value around between exchanges, now you just need to use it for purchases too :-D\n\nOr are we just going to rebrand as \"Exchange-to-exchange-transfer-coin\"? :P",
+            "created_at": "Thu Jan 25 23:40:46 +0000 2018",
+            "retweet": 13,
+            "likes": 76,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 30,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "And then two accounts unfollowed me!\n\nMeanwhile, today's update on 1.14: https://t.co/DkqVJa279q",
+            "created_at": "Thu Jan 25 23:15:50 +0000 2018",
+            "retweet": 3,
+            "likes": 9,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 70,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "2,048 followers!",
+            "created_at": "Thu Jan 25 22:39:17 +0000 2018",
+            "retweet": 4,
+            "likes": 39,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 237,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@sammyleecrypto @Crypdoge @RichDevX No worries, glad you found others who are better placed to comment on the market :)",
+            "created_at": "Thu Jan 25 19:15:38 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 701,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@sammyleecrypto Not really. Wasn't everything pulled up by Bitcoin that week?",
+            "created_at": "Thu Jan 25 09:41:58 +0000 2018",
+            "retweet": 0,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1043,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Crisis everyone, we've got new competition for worst idea in a cryptocurrency! https://t.co/GuUhYQTFK5\n\n(This is not an endorsement.)",
+            "created_at": "Thu Jan 25 00:37:54 +0000 2018",
+            "retweet": 4,
+            "likes": 14,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I've written more details about where we are with the RPC tests: https://t.co/Vn1fPavKb9",
+            "created_at": "Sun Jan 28 23:17:33 +0000 2018",
+            "retweet": 4,
+            "likes": 20,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 174,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@realubm It's a Python test, yes, although you'd need to be able to read/debug C++ to make sense of why it's failing, I fear :(",
+            "created_at": "Sun Jan 28 19:51:04 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 190,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@clare762 We're an open source project rather than a company, so we don't really have formal support. It sounds like the wallet isn't synced (it takes ages, sorry). https://t.co/W8oCuAphkx may be a good place to post!",
+            "created_at": "Sun Jan 28 19:36:32 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 372,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "(With apologies for the gendering on that tweet, in my defence I'm quoting)",
+            "created_at": "Sun Jan 28 15:31:14 +0000 2018",
+            "retweet": 1,
+            "likes": 10,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 386,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I need a hero\nI'm holding out for a hero 'til the morning light\nHe's gotta be sure\nAnd it's gotta be soon\nAnd he's gotta be willing to explain why p2p-fullblocktests is failing",
+            "created_at": "Sun Jan 28 15:21:13 +0000 2018",
+            "retweet": 9,
+            "likes": 35,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 433,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Currently trying to trace down some really frustrating issues with RPC tests in 1.14. Mostly these are problems in the tests, but we can't release without knowing why they fail :(",
+            "created_at": "Sun Jan 28 14:12:01 +0000 2018",
+            "retweet": 8,
+            "likes": 31,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 53,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ThiccGives Sadly/fortunately not the comments to us, but I appreciate the kind thoughts :)",
+            "created_at": "Mon Jan 29 22:38:00 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 55,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Oh no I read the comments :(",
+            "created_at": "Mon Jan 29 22:34:01 +0000 2018",
+            "retweet": 1,
+            "likes": 13,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 151,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ialmost1it We try to discourage it, primarily because despite popular belief it's probably illegal, but also because it creates unsustainable bubbles",
+            "created_at": "Mon Jan 29 20:08:41 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 156,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ialmost1it ...and we've re-invented market manipulation, badly :-/",
+            "created_at": "Mon Jan 29 20:01:27 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 166,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ialmost1it Finding someone who wants to buy it for $1 :P\n\nThings you can do now are mostly trying to make it more useful, help shops adopt it, build usage.",
+            "created_at": "Mon Jan 29 19:45:33 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 168,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Because cates are also important https://t.co/QXJFAQDgQB",
+            "created_at": "Mon Jan 29 19:39:53 +0000 2018",
+            "retweet": 1,
+            "likes": 10,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 38,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Did in fact manage to get the watch only test fixed, so we know that works. Next one is fee schedule related, might be the functionality in question is incompatible with parts of our design. TBD.",
+            "created_at": "Tue Jan 30 22:44:25 +0000 2018",
+            "retweet": 3,
+            "likes": 29,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 87,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Right, `fundrawtransactions` seems to be failing because it's spending the money it sent to the watch only address. At least that's a conclusion, even if I can't figure out how to fix the test case.",
+            "created_at": "Tue Jan 30 21:13:11 +0000 2018",
+            "retweet": 1,
+            "likes": 11,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 95,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Apparently all the cool kids are getting ETFs. Can we have a dogETF?",
+            "created_at": "Tue Jan 30 21:00:13 +0000 2018",
+            "retweet": 3,
+            "likes": 25,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 139,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@EnesAyDeu Writing an actual roadmap down is on my to-do list once 1.14 alpha goes out :)",
+            "created_at": "Tue Jan 30 19:32:33 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 143,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@EnesAyDeu More or less, and it goes:\n\nShip 1.14\nUpdate CATE so we have a good SPV client\nGet Doge/Ether bridge working for 1.16",
+            "created_at": "Tue Jan 30 19:28:50 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 74,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "An official 1.14 is coming, but meanwhile I've rolled up everything we have into an alpha candidate: https://t.co/xiQhFdb4o0 - Ross",
+            "created_at": "Wed Jan 31 22:24:31 +0000 2018",
+            "retweet": 9,
+            "likes": 30,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 99,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@exodus_io @ummjackson @BittyCryptonius We've also got a 1.15 candidate that fully sync, already!",
+            "created_at": "Wed Jan 31 21:49:57 +0000 2018",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 104,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Please please please use multisig addresses for fund raisers and other community funds. We've seen far too many mishandling (intentional or otherwise) of funds in single-signature addresses.",
+            "created_at": "Wed Jan 31 21:47:29 +0000 2018",
+            "retweet": 2,
+            "likes": 14,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 107,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@exodus_io @ummjackson @BittyCryptonius We ain't dead!\n\nhttps://t.co/l5M3Q19DSf should get an alpha release imminently, and if you want to try it now, that'd be amazing :)",
+            "created_at": "Wed Jan 31 21:43:03 +0000 2018",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 90,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@GaryLittlemore Yeah it was my main hardware wallet I misplaced. I can restore from the seed if I had to, but I thought it was a timely reminder :)\n\n(I found it, it was in the desk tidy)",
+            "created_at": "Thu Feb 01 21:44:28 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 99,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "It's 9:30pm, do you know where your cryptocurrency wallets are?\n\nBecause yes, I just had to turn my room upside down looking for mine, so consider this a reminder that you should know :P",
+            "created_at": "Thu Feb 01 21:31:38 +0000 2018",
+            "retweet": 2,
+            "likes": 25,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 696,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.14 \"Made in a factory that processes nuts\" is rolling out onto live infrastructure (non-wallet nodes) today so we can start stability testing.",
+            "created_at": "Thu Feb 01 08:44:02 +0000 2018",
+            "retweet": 11,
+            "likes": 32,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 590,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "It's likely 1.15 will be a non-release, and just exist for forward/backward compatibility tests between 1.14 and 1.16, but we've learnt a lot from how rough jumping 4 release at once was!",
+            "created_at": "Fri Feb 02 08:45:57 +0000 2018",
+            "retweet": 6,
+            "likes": 22,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 594,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.14 has a bunch of work in the review backlog now, so I'm going to get dug into 1.15 on Sunday, see if I can at least draw up a timeline for it",
+            "created_at": "Fri Feb 02 08:42:36 +0000 2018",
+            "retweet": 5,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 637,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@i_am_afeezee @dogecoin Most of the discussion is on https://t.co/QzzmRmU3UL",
+            "created_at": "Fri Feb 02 07:43:56 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 114,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "#dogecoin 1.14 alpha 1 is officially out now: https://t.co/UgmRrfSQR5",
+            "created_at": "Sun Feb 04 20:18:44 +0000 2018",
+            "retweet": 17,
+            "likes": 37,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 257,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Almost all, if not all, of these failures will be test values that need updating rather than bugs in the underlying code, but we need to understand why every single failure exists, for the release to be considered stable.",
+            "created_at": "Sun Feb 04 16:18:48 +0000 2018",
+            "retweet": 3,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 262,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For #Dogecoin 1.15 (that's the version after the release we're focusing on): 27 RPC tests fail, 37 pass. Improved from 32 failures vs 31 passes this morning.",
+            "created_at": "Sun Feb 04 16:15:20 +0000 2018",
+            "retweet": 7,
+            "likes": 36,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@garrettTuba Not as such, it's part of the design and is important to how anonymisation works. It will send change back to an address you own, though.",
+            "created_at": "Mon Feb 05 22:42:57 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 544,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@billmask No worries. It just needs me stepping through the code with a debugger when I'm less tired :)",
+            "created_at": "Fri Feb 09 08:13:23 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 545,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@cryptokaze666 So investment in Doge from the devs is limited to money we could both invest and hold for several years, and therefore profit/loss relatively limited.",
+            "created_at": "Fri Feb 09 08:12:15 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 553,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@cryptokaze666 It's a point I keep trying to make; no ICO, no premine = no big pot of dev funds. Especially as the current devs are post-launch",
+            "created_at": "Fri Feb 09 08:08:23 +0000 2018",
+            "retweet": 2,
+            "likes": 15,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 776,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@cryptokaze666 not right now, I have work in 8 hours!",
+            "created_at": "Fri Feb 09 01:05:40 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 779,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@billmask chainparams.cpp and validation.cpp in https://t.co/CKW8g0kQss",
+            "created_at": "Fri Feb 09 01:03:25 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 794,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The parameters are correct in the original data object, so one of:\n\n1. The data object is being modified despite no evidence that is happening\n2. The wrong data object is being found\n3. Something even weirder\n\nSo that's my weekend plans, anyway",
+            "created_at": "Fri Feb 09 00:41:28 +0000 2018",
+            "retweet": 7,
+            "likes": 32,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 798,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Got as far as the coinbase maturity check code in 1.14 is definitely finding the wrong value, but a lot less clear how/where from.",
+            "created_at": "Fri Feb 09 00:37:06 +0000 2018",
+            "retweet": 3,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 112,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Have made some progress on the RPC tests, and there were two actual bugs that we've identified and fixed. Those fixes will be in 1.14 alpha 2 / beta 1.",
+            "created_at": "Sun Feb 11 19:39:15 +0000 2018",
+            "retweet": 10,
+            "likes": 49,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 233,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We're doing a developer Q&amp;A this Friday 16th at 1930 UTC, for #YearOfTheDoge - watch this and the @dogecoin feeds for details.",
+            "created_at": "Sun Feb 11 16:26:08 +0000 2018",
+            "retweet": 16,
+            "likes": 40,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@RamNode @toastytaoist Also wanted to add - it's really appreciated, I'm very aware we're a tiny account in the grand scheme of things :)",
+            "created_at": "Thu Feb 15 23:10:03 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 158,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Crisis averted, VPS host has a note on my file now :)",
+            "created_at": "Thu Feb 15 19:01:09 +0000 2018",
+            "retweet": 2,
+            "likes": 14,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 161,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@RamNode @toastytaoist And they lived happily ever after :-D",
+            "created_at": "Thu Feb 15 19:00:19 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 214,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Halio1984 Oh, and needs to be up 24/7 because the point is to run things like the DNS seed from them :)",
+            "created_at": "Thu Feb 15 17:42:04 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 229,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Let me try that again - I'm looking for a VPS host that doesn't assume any cryptocurrency daemon is mining. We don't mine on VPSes, but they're this isn't the first time we've had to explain that to them",
+            "created_at": "Thu Feb 15 17:17:58 +0000 2018",
+            "retweet": 12,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 231,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Halio1984 rather a lot more expensive though. The issue is the host thinks any cryptocurrency daemon is mining, we're not mining",
+            "created_at": "Thu Feb 15 17:16:08 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 347,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I'm apparently in the market for a new VPS provider that can differentiate fully validating nodes and mining. Suggestions?",
+            "created_at": "Thu Feb 15 14:53:05 +0000 2018",
+            "retweet": 3,
+            "likes": 20,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 467,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@____CLIFF____ @dogecoin Ah... I think we all have Android. Hoping external teams will support a wallet, we've had wallets but none seem to stay active",
+            "created_at": "Thu Feb 15 11:24:41 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 523,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@____CLIFF____ @dogecoin err, there is an Android wallet already",
+            "created_at": "Thu Feb 15 10:04:30 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@LafsokanTweet That's rather up to Binance, although certainly the fees they charge for listing mean we'd be looking at community vote approach.",
+            "created_at": "Fri Feb 16 23:26:40 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 20,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I'll go over the questions again when I have a chance, I can see there's common themes. Some stuff we need to explain better, some stuff we need to demonstrate more of. 1.14 will be priority but I'll try to squeeze an FAQ into the work queue! - Ross",
+            "created_at": "Fri Feb 16 23:20:59 +0000 2018",
+            "retweet": 8,
+            "likes": 33,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 104,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@alvarezderrick1 More functionality for us, a stabler currency for Ethereum",
+            "created_at": "Fri Feb 16 20:37:37 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 108,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@woodygar Is that better than supporting both sides I'd there is a split? - Ross",
+            "created_at": "Fri Feb 16 20:33:47 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 119,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Flaming85475311 Have a look at EthereumX. It's not a lot more than a full node, although we need to actually release 1.14",
+            "created_at": "Fri Feb 16 20:26:59 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 123,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "And we need to look into feasibility of running an Ethereum server",
+            "created_at": "Fri Feb 16 20:25:09 +0000 2018",
+            "retweet": 1,
+            "likes": 11,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 124,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I need to update the CATE multi-coin client and get it to release quality",
+            "created_at": "Fri Feb 16 20:24:43 +0000 2018",
+            "retweet": 1,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 125,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Stuff we're working on that's not the main client - I think Max is updating the Android wallet",
+            "created_at": "Fri Feb 16 20:24:11 +0000 2018",
+            "retweet": 4,
+            "likes": 13,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 127,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@postmattern @aidansparkes not saying we can't change at all, but I can't see a solution where we have no rewards and TX fees are viable",
+            "created_at": "Fri Feb 16 20:22:42 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 128,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "So we can change the balance of rewards and fees, but to me that feels like it makes us just a rebranded Bitcoin",
+            "created_at": "Fri Feb 16 20:21:41 +0000 2018",
+            "retweet": 2,
+            "likes": 13,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 129,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "That can be mining rewards or transaction fees or something else we haven't thought of, but it needs to be something",
+            "created_at": "Fri Feb 16 20:20:59 +0000 2018",
+            "retweet": 2,
+            "likes": 9,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 130,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Let me talk economics a bit while Max fixes stuff. We need to pay for mining infrastructure, even if we moved to proof of stake we need to motivate people to put up stake",
+            "created_at": "Fri Feb 16 20:20:22 +0000 2018",
+            "retweet": 2,
+            "likes": 20,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 132,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Max is having technical issues, try sending questions to @langer_hans and see if that works - Ross",
+            "created_at": "Fri Feb 16 20:18:08 +0000 2018",
+            "retweet": 3,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 136,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@erhanizmirli I don't believe there are any current coins that don't have rewards. Bitcoin is closest to end of mining, and that's part of how it got $40 TX fees",
+            "created_at": "Fri Feb 16 20:12:21 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 141,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Krumbeersubb Another development team is driving it, but I'm hoping this year - Ross",
+            "created_at": "Fri Feb 16 20:08:41 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 143,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@erhanizmirli okay and how do we convince miners to adopt a new client that doesn't pay them?",
+            "created_at": "Fri Feb 16 20:07:58 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 144,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "If we ever write up operational risks I'd note I'm doing this Q&amp;A while dodging traffic - Ross",
+            "created_at": "Fri Feb 16 20:06:28 +0000 2018",
+            "retweet": 2,
+            "likes": 17,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 146,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@mrmagna1 Not off the top of my head I'll see if we have a directory anywhere -  Ross",
+            "created_at": "Fri Feb 16 20:04:50 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 148,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Krumbeersubb One example might be voting to make payments from a charity fund, rather than trusting a small group. Wonder if we can use them to buy cryptokitties... - Ross",
+            "created_at": "Fri Feb 16 20:04:07 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 153,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@fogelnikita0 Not at this time, we need to pay the miners somehow! Even if we moved to something else, block creation requires infrastructure that needs rewards to pay for",
+            "created_at": "Fri Feb 16 20:01:26 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 161,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@WatchfanaticRu Any smart contract that uses Ethereum tokens should work with Dogecoin tokens basically. -  Ross",
+            "created_at": "Fri Feb 16 19:55:13 +0000 2018",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 162,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@TheBitDipper Mostly accelerating releases so we get 1.15 and 1. 16 out this year - Ross",
+            "created_at": "Fri Feb 16 19:54:54 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 167,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@mrmagna1 Help encourage shops to accept it, or support those that do! - Ross",
+            "created_at": "Fri Feb 16 19:50:49 +0000 2018",
+            "retweet": 1,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 168,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@TalattAbi @mrmagna1 There is a lot more info on the GitHub: https://t.co/0DW4lrOfG6 -Max",
+            "created_at": "Fri Feb 16 19:50:37 +0000 2018",
+            "retweet": 1,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 171,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Jass__minee A lot has to go into consideration for such a change. I'm not fully against it, but there would need to be some deeper research into the implications. -Max",
+            "created_at": "Fri Feb 16 19:48:50 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 172,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For everyone asking about price, if I could predict markets I'd be retired on a beach by now! - Ross",
+            "created_at": "Fri Feb 16 19:48:28 +0000 2018",
+            "retweet": 4,
+            "likes": 37,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 173,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ChillinIb They didn't ask yet ;) -Max",
+            "created_at": "Fri Feb 16 19:47:38 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 174,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@postmattern Things can always change, you don't have to have the current developers do it. We do however need block rewards if we want to keep transaction fees low - Ross",
+            "created_at": "Fri Feb 16 19:47:35 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 177,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Krumbeersubb Moon i guess ;) More seriously we need to ship 1.14 at some point, I wanna look at alternative solutions for light clients, then more Core updates. DOGE-ETH bridge seems fancy... -Max",
+            "created_at": "Fri Feb 16 19:45:58 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 180,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ChillinIb I fear that's one for them unfortunately - Ross",
+            "created_at": "Fri Feb 16 19:45:36 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 184,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@WatchfanaticRu Like 70% chance, more if LN works",
+            "created_at": "Fri Feb 16 19:44:26 +0000 2018",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 186,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@DonAndrewBailey Personally I'd like to find a version of PoS that I'm happy with, but so far everything has issues-  Ross",
+            "created_at": "Fri Feb 16 19:43:46 +0000 2018",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 187,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@DonAndrewBailey We're working with external developers to support Doge on Ethereum to give us smart contracts",
+            "created_at": "Fri Feb 16 19:42:25 +0000 2018",
+            "retweet": 2,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 194,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@mrmagna1 We're working with other developers who are developing a Doge-Ethereum bridge, that's probably the most exciting thing right now",
+            "created_at": "Fri Feb 16 19:38:53 +0000 2018",
+            "retweet": 3,
+            "likes": 14,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 200,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Sorry for the delay, ready for your questions! - Ross",
+            "created_at": "Fri Feb 16 19:36:15 +0000 2018",
+            "retweet": 7,
+            "likes": 32,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 393,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "This is exactly why we're less responsive these days, everything is a development effort vs support effort vs sleep compromise. https://t.co/4TlhJa3SH6",
+            "created_at": "Fri Feb 16 15:24:55 +0000 2018",
+            "retweet": 1,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 573,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@CEOofDogecoin \"Much crazy, such work, so here\" in conclusion. Now just need to get them printed..",
+            "created_at": "Fri Feb 16 11:08:35 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 576,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We've solved the VPS issue, please stop recommending hosting providers :)",
+            "created_at": "Fri Feb 16 11:04:45 +0000 2018",
+            "retweet": 3,
+            "likes": 27,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 584,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@CEOofDogecoin Hmm.. \"Much crazy. Such work. Very here\" perhaps",
+            "created_at": "Fri Feb 16 10:57:26 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 585,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@CEOofDogecoin I now need \"Very crazy. Such work. Very here\" mugs",
+            "created_at": "Fri Feb 16 10:57:04 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 652,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Dogecoin devs Q&amp;A _here_ at 1930 UTC (just under 11 hours from now), with Max &amp; Ross.\n\nAlso to hopefully answer a lot of questions I see; please keep in mind we're not a company!",
+            "created_at": "Fri Feb 16 08:48:22 +0000 2018",
+            "retweet": 6,
+            "likes": 27,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 914,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MadMarvin666 @dogecoin The devs certainly are in no position to offer financial services, but obviously others could provide that as they do for other cryptos :)",
+            "created_at": "Fri Feb 16 00:21:54 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 922,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@andrShvchk @dogecoin @exodus_io We're sorting a release pipeline for 1.15 &amp; 1.16 and hoping that gets their attention, but right now we're still wrangling RPC tests for 1.14.",
+            "created_at": "Fri Feb 16 00:12:21 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@cookeesinc @dogecoin DMed!",
+            "created_at": "Sat Feb 17 23:54:11 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 130,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Dogecoin 1.14 alpha 2 is out now, and includes two important bugfixes: https://t.co/hFGhlAGJdb",
+            "created_at": "Sun Feb 18 21:03:43 +0000 2018",
+            "retweet": 27,
+            "likes": 67,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 303,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Okay, that last RPC test fix is in https://t.co/9xPosS4vqI along with a detailed account of current state.",
+            "created_at": "Sun Feb 18 17:53:51 +0000 2018",
+            "retweet": 6,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 325,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "p2p-fullblocktests seems to work now (re-checking it before calling it done). A bunch of other failures seem to be down from running on limited hardware, booting a faster cloud EC2 instance and trying again.",
+            "created_at": "Sun Feb 18 17:25:11 +0000 2018",
+            "retweet": 6,
+            "likes": 30,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 385,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@devmobnow @RoberttBertton @dum @dogecoin Well.. it's 2-3%-ish but the merchant charges that as a flat rate across all transactions so it _looks_ free, there's a difference.\n\nAlso settlement is typically 2-3 days later.\n\nAware we have a perception problem, though, yes.",
+            "created_at": "Sun Feb 18 16:13:52 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 399,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@LudwigDeLarge I like the idea of an \"Unread transactions count\" as it would be. Slight snag in that we don't so much have a development Mac right now, let me get back to you! :-D",
+            "created_at": "Sun Feb 18 15:56:58 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 633,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@LemmingAttack It means you can use something that's equivalent to Dogecoin in any Ethereum contract, but are also guaranteed your Dogecoins back at the end.",
+            "created_at": "Wed Feb 21 09:18:09 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 641,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Just to clarify; we are working with an external team to develop a token on Ethereum, but we haven't confirmed timelines yet, and the really really important bit is you can always get your Doge back at the rate you exchanged them.",
+            "created_at": "Wed Feb 21 09:02:32 +0000 2018",
+            "retweet": 18,
+            "likes": 59,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 647,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Essentially I'm worried someone's trying to remake the situation we had with Dogeparty where they get everyone excited for a token but the project goes nowhere.",
+            "created_at": "Wed Feb 21 08:57:29 +0000 2018",
+            "retweet": 6,
+            "likes": 23,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 649,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Apparently someone's marketing a \"Dogethereum\" cryptocurrency. Obviously anyone's free to launch whatever they like, but please be careful with anything that can't be converted directly back to Dogecoin. What we're involved in is a locked 1:1 Doge/Doge-on-ether currency",
+            "created_at": "Wed Feb 21 08:55:26 +0000 2018",
+            "retweet": 24,
+            "likes": 57,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 281,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@TCadido is the latest stable release, yup. 1.14 is making good progress but we need to put alerts back in before it makes it to beta",
+            "created_at": "Fri Feb 23 15:09:14 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 284,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I'm off for the weekend. My luggage is 50% penguin onesie, 25% wolf slippers, 25% things I actually need. See you Monday - Ross",
+            "created_at": "Fri Feb 23 15:06:07 +0000 2018",
+            "retweet": 3,
+            "likes": 30,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 741,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@bonsaihorn Probably. but there's no timeline for it. Realistically we have to fork to change how we use block version numbers, for long term health of the coin, and we'll then jam everything else in at the same time. If we can avoid it, we will.",
+            "created_at": "Fri Feb 23 00:11:35 +0000 2018",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 742,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@TFRCaptain I'll try. We're working on you being able to send your Dogecoins to the Ethereum chain, use them in Ethereum contracts, and then get them back later. The last bit being the magic no-one else has working (AFAIK)",
+            "created_at": "Fri Feb 23 00:10:11 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 745,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@TCadido You can grab the latest Dogecoin Core from https://t.co/usxB5QLxfk",
+            "created_at": "Fri Feb 23 00:08:01 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@kundaliniawaken @bonsaihorn As per last comment, if we can avoid a fork we will. The features that need it are in development currently, we won't have any sort of timeline until they're being tested.",
+            "created_at": "Wed Feb 28 23:59:33 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 373,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "As you may have seen, @LastWeekTonight has done a rather good piece on cryptocurrency. Although my understanding is Dogecoin's origin was a lot more \"Hold my beer\" than \"Look people will buy anything\" :-D\n\n- Ross",
+            "created_at": "Wed Mar 14 08:56:21 +0000 2018",
+            "retweet": 12,
+            "likes": 59,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 75,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Moey43870408 @JRossNicoll @LastWeekTonight Unless you've got... well much more Doge than I do (even with the dev fund), you're not going to impact the market. Understand your own financial situation and do what makes sense for you.",
+            "created_at": "Thu Mar 15 20:07:34 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 296,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The idea is to enable use of Dogecoins (or a token equivalent to a Dogecoin) in Ethereum smart contracts. Think of the tokens as casino chips you exchange for Dogecoins, and can be used in smart contracts.",
+            "created_at": "Fri Mar 16 12:56:12 +0000 2018",
+            "retweet": 6,
+            "likes": 27,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 297,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "There's a demo of Dogecoins being burnt to create tokens on Ethereum at https://t.co/31zJ6EMOMD - it's the first part of a bridge, the second part being getting the Dogecoins back from the token.",
+            "created_at": "Fri Mar 16 12:54:54 +0000 2018",
+            "retweet": 14,
+            "likes": 33,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 406,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Been asked about updates and it's a good point. I've been snowed under with a crisis at the day job, should get back to 1.14 on Sunday.\n\nDoge-Eth bridge is a whole different team, but AFAIK they're progressing. Code is hard :(",
+            "created_at": "Fri Mar 16 09:02:17 +0000 2018",
+            "retweet": 6,
+            "likes": 34,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 431,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Moey43870408 Okay that falls under \"A lot more than I have\". You need an investment advisor at that level",
+            "created_at": "Fri Mar 16 08:14:49 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 293,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@HyperRpgFan It's actually side chains, because you don't need a counter party to the trade",
+            "created_at": "Sat Mar 17 11:07:52 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Okay two PRs we need to merge for 1.14 to ship:\n\n* https://t.co/fXs4rqLpyl\n* https://t.co/8WjdTQrlxI\n\nAnd we're still having OS X build issues around printing.",
+            "created_at": "Sun Apr 01 23:27:16 +0000 2018",
+            "retweet": 5,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 109,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@UchihaDesendent It's about why we're not doing an April fool's joke.",
+            "created_at": "Sun Apr 01 19:13:58 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 127,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We haven't forgotten what day it is, but basically plans A &amp; B have collapsed as we can't get third party approval, and plans C-E are really terrible ideas. I'm back working on the unit tests and we'll be better organised next year!",
+            "created_at": "Sun Apr 01 18:16:07 +0000 2018",
+            "retweet": 3,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@rroarde Yeah, one of our service providers has had mixed experiences with it, so for caution it won't be a release. Instead we're going to just rebase on it, fix the tests and then proceed to 1. 16",
+            "created_at": "Mon Apr 02 23:50:10 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.14 has two PRs open, once they're merged we still need to solve some OS X build issues, but otherwise it's just down to testing before release.\n\nI'm starting serious work on 1.15 _right now_. So far so good but need to address how a fee market works in Doge.",
+            "created_at": "Mon Apr 02 22:31:19 +0000 2018",
+            "retweet": 2,
+            "likes": 30,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 222,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@poocoins really can't tell if you're serious or sarcastic, so I'm going to go with thanks.",
+            "created_at": "Mon Apr 02 14:10:20 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 231,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@CEOofDogecoin I mean officially we have to let people make their own decisions, but also yes.",
+            "created_at": "Mon Apr 02 13:53:53 +0000 2018",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 244,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "That said, for clarity, we (as the team responsible for https://t.co/mU1tCbgYht) haven't announced any hard forks. You can follow any forks you like, but they're not ours",
+            "created_at": "Mon Apr 02 13:26:15 +0000 2018",
+            "retweet": 3,
+            "likes": 25,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 247,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Today's reminder we're a decentralised currency, multiple independent teams are involved in Dogecoin. Please point questions about stuff others announce, at those teams",
+            "created_at": "Mon Apr 02 13:21:11 +0000 2018",
+            "retweet": 3,
+            "likes": 18,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 153,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Muhamma38785734 that we missed April Fool day? Yes",
+            "created_at": "Tue Apr 03 17:35:20 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 365,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@DmitriyStakovsk Nope, and my impression of anything that has affiliate bonuses is to be very cautious. If you can't see where they're paying bonuses from, it's a bad sign",
+            "created_at": "Tue Apr 03 08:30:50 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 381,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I've got a block of time put aside this weekend, so hopefully will have more tangible updates then!",
+            "created_at": "Tue Apr 03 07:57:19 +0000 2018",
+            "retweet": 2,
+            "likes": 17,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 385,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Right, so 1.15 basically needs to have all the tests updated to work, but that should be a lot shorter than for 1.14 as we're only going up one version not four. I'll then update the branding to Dogecoin, check it's vaguely sane, and we'll start on 1.16.",
+            "created_at": "Tue Apr 03 07:53:13 +0000 2018",
+            "retweet": 7,
+            "likes": 30,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 545,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Peeps, we're still not an ICO coin. Like, we all have day jobs. Many of the community actually have more Dogecoin than I do, even with the dev fund (and good grief I can't do investment advice).",
+            "created_at": "Wed Apr 04 00:04:21 +0000 2018",
+            "retweet": 4,
+            "likes": 35,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 41,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "That's how it should work. Someone (anyone) releases code and the community adopts/rejects it based on experience with the team, the case made for/against the update, etc.",
+            "created_at": "Sun Apr 08 21:40:11 +0000 2018",
+            "retweet": 1,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 42,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "If we wrote a client that forked to give us billions of Doge, you'd tell us to get knotted, right? So it wouldn't ever get through.\n\nIf we add in sidechain functionality for Doge/Eth tokens, you'll probably accept it.\n\nHowever, we have to negotiate with EVERYONE for this.",
+            "created_at": "Sun Apr 08 21:39:17 +0000 2018",
+            "retweet": 1,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Reminded, I was reading https://t.co/QbJG2bIaSq\n\nThe whole thing where the exchange tries to sue the developers for not hard forking is insane.\n\nYou want a hard fork, you write the code and release it. That's it. We're not the gatekeepers, the community is.",
+            "created_at": "Sun Apr 08 21:37:48 +0000 2018",
+            "retweet": 2,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "This is important because single points of failure are what cryptocurrency is meant to defend against. If @dogecoin was ever hacked, heaven forbid, I'd want to know you guys would realise it was talking nonsense and make good decisions.",
+            "created_at": "Sun Apr 08 21:35:39 +0000 2018",
+            "retweet": 2,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 48,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The Doge/Eth bridge work is being done by an entirely independent team, who are even funded via Eth rather than Doge. We have status meetings from time to time, but neither of us leads the other.",
+            "created_at": "Sun Apr 08 21:34:31 +0000 2018",
+            "retweet": 1,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 49,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Bitcoin Dogecoin for example has multiple different teams doing different things. Max, Patrick &amp; myself working Dogecoin Core. The reddit mods are an independent team we get along well with, but we have to negotiate changes with them.",
+            "created_at": "Sun Apr 08 21:33:04 +0000 2018",
+            "retweet": 0,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 51,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The @bitcoin account has been suspended again, but...\n\nListen, I was serious about the decentralised bit. If cryptocurrencies are run by a central \"trusted\" party, they're just an inefficient reinvention of existing payments",
+            "created_at": "Sun Apr 08 21:32:02 +0000 2018",
+            "retweet": 2,
+            "likes": 18,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 141,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ComradeEevee @MSingularity For the main https://t.co/ZPhL6cDSCC site there's a bunch of politics to negotiate, rather than concerns about what you might do. Lets see what Movable says :)",
+            "created_at": "Sun Apr 08 17:54:13 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 142,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Muhamma38785734 @Bitcoin Oh they've suspended the account again. It looks like the account was suspended, then deleted, then someone random managed to register it.",
+            "created_at": "Sun Apr 08 17:52:37 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 161,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ComradeEevee @MSingularity What's the political situation with the main website? Or, is it going to be easier for me to just give @ComradeEevee one of the other domains and let them run wild?",
+            "created_at": "Sun Apr 08 17:05:14 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 163,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Cryptocurrency is of course intended to be decentralised, and you should look to no single party as authoritative.\n\nIn related news, some random guy in Turkey is now in control of @bitcoin.",
+            "created_at": "Sun Apr 08 17:02:46 +0000 2018",
+            "retweet": 6,
+            "likes": 23,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 220,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MShahRizan3 it fully syncs. I've seen people launch ICOs with less functional code!",
+            "created_at": "Sun Apr 08 15:56:57 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 242,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Started digging into test failures in 1.15 today, with help from donp. Many are pending fixes in 1.14 being approved, or are simply updating to match Dogecoin parameters.",
+            "created_at": "Sun Apr 08 15:05:58 +0000 2018",
+            "retweet": 3,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 302,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Pimpmycoin Not myself (Ross). @Poloniex have you got a point of contact with us if you need it?",
+            "created_at": "Mon Apr 09 11:03:29 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 374,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@barisbuyuktass The typical listing fee (https://t.co/zkEZ0r5HVM) exceeds our total held funds, so it would be up for the community to vote for Dogecoin to be listed.",
+            "created_at": "Mon Apr 09 07:34:15 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 377,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MShahRizan3 The Doge/Eth bridge fork? Another team's doing the development there and we're waiting for an update from them.",
+            "created_at": "Mon Apr 09 07:30:55 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 20,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I wrote a bit more on the Doge/Eth sidechain progress: https://t.co/XBqmGlK0K6",
+            "created_at": "Tue Apr 10 23:05:03 +0000 2018",
+            "retweet": 7,
+            "likes": 29,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 65,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "As apparently fork rumours are still flying: We haven't confirmed a fork. We certainly haven't announced a schedule or released an update. IF we need a fork (and we'll try to avoid one if possible) it will be all over @dogecoin for starters.",
+            "created_at": "Tue Apr 10 21:35:47 +0000 2018",
+            "retweet": 7,
+            "likes": 25,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 339,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ManojishRehaan @kucoincom @IlkerAkvaryum @bitdegree_org @DigiByteCoin @SiaTechHQ @Bytecoin_BCN @dogecoin @Tronfoundation @justinsuntron At the moment aren't they primarily a token (i.e. things layered on Ethereum or similar) platform?",
+            "created_at": "Mon Apr 16 07:53:08 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity I thought you'd tried?",
+            "created_at": "Tue Apr 17 21:50:24 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Fed up being nice about this. An imminent hard fork with no code to show is vaporware a best, trolling at worse. Put up some code or stop announcing junk.",
+            "created_at": "Tue Apr 17 21:46:03 +0000 2018",
+            "retweet": 8,
+            "likes": 39,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 102,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ComradeEevee DMed :)",
+            "created_at": "Tue Apr 17 19:20:40 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 106,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ComradeEevee Are you still interested in doing something with the website? You're aware we can't pay (or at least, at best you can get a slice of the dev fund, which is nothing like going rate)?",
+            "created_at": "Tue Apr 17 19:12:13 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 111,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Crackles_Dawg @RedPlumpTomato @coinexchang @dogecoin We generally can't do any more than check the transaction on a block explorer, unless an exchange has a specific technical issue they need guidance with. Glad the funds turned up!",
+            "created_at": "Tue Apr 17 18:53:13 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 112,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Pornhub @vergecurrency Welcome to the cryptocurrency party!",
+            "created_at": "Tue Apr 17 18:49:04 +0000 2018",
+            "retweet": 3,
+            "likes": 10,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 242,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Ben25862427 @msingularity has reached out to @Poloniex I believe, but we don't know what is going on with them either",
+            "created_at": "Tue Apr 17 14:05:04 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 72,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MoodyRocket1 Hopping off the main account; it's mostly infuriating how much everyone goes \"Crypto makes you magically rich\", so people genuinely believe we have a quarter million to give away. - Ross",
+            "created_at": "Wed Apr 18 22:08:55 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 76,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We've got people impersonating the main account for scams.\n\nNo actual giveaway will ever ask you to send them money.\n\nAlso, you can see all of our operating funds at https://t.co/0RTUSDP99M - so no, we're not doing a giveaway that's a significant multiple of that",
+            "created_at": "Wed Apr 18 22:02:52 +0000 2018",
+            "retweet": 10,
+            "likes": 29,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 83,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@SCRQr9Vhke2sTbc @dogecoin Despite the fiction many want you to believe, crypto does not make you magically rich. We haven't done ICO, pre-mine or similar. Funds the devs control are 100% donated, purchase or mined ourselves.\n\nPut another way; why aren't you doing a giveaway?",
+            "created_at": "Wed Apr 18 21:52:35 +0000 2018",
+            "retweet": 2,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 101,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@DonAndrewBailey Fiction: Everything is securely locked down.\n\nReality: People will give you their password for a chocolate bar.",
+            "created_at": "Wed Apr 18 21:20:41 +0000 2018",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 107,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@DonAndrewBailey Also https://t.co/aBKTb3fXJ0",
+            "created_at": "Wed Apr 18 21:03:49 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 108,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@DonAndrewBailey There's a team that's been talking about forking the Dogecoin blockchain for months. What they've actually done is launch an Ethereum-like chain with a copy of the Dogecoin balances on it, which is more than I thought they would do.\n\nNo source code though",
+            "created_at": "Wed Apr 18 21:03:27 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 61,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For everyone who missed this yesterday - please don't paste your private keys into stuff you downloaded from anonymous developers with no source code.\n\nI mean generally don't paste it into stuff, but really don't if you have no way of knowing what it does.",
+            "created_at": "Thu Apr 19 22:00:13 +0000 2018",
+            "retweet": 9,
+            "likes": 39,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 244,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ekowyeboah2 In my experience cloud mining tends to either be a ponzi scheme (scam) or fails to make a profit due to overheads, 9 times out of 10 it's the former. Generally if someone has a profitable business model, they can get funding more readily elsewhere.",
+            "created_at": "Fri Apr 20 14:35:31 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 252,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@damivie @DogeCoinLAT Think you want @DogeChain",
+            "created_at": "Fri Apr 20 14:21:12 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 404,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Beulemann84 @Poloniex @dogecoin I haven't had any contact from Poloniex yet, AFAIK neither has any of the rest of the core devs :( - Ross",
+            "created_at": "Fri Apr 20 08:18:33 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 407,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ekowyeboah2 There's no miner I'm involved with certainly, I'll confirm with the rest of the team but I don't believe any of them have affiliated miners either, no. - Ross",
+            "created_at": "Fri Apr 20 08:16:24 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@BitcoinJake09 It's in but disabled in 1.14, it is likely we'll enable it in 1.16 (we're not releasing 1.15), but I can't confirm until we've actually, y'know, got a working build with it enabled.",
+            "created_at": "Sat Apr 21 23:40:37 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 114,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@hashfailed 1.14 was a nightmare for porting (must have started a year or more ago). 1.15 is already working in prototype. Mostly a lesson doing interim updates even if they're not releases.",
+            "created_at": "Sat Apr 21 18:30:00 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 118,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@hashfailed You know we have full time jobs, right?",
+            "created_at": "Sat Apr 21 18:25:51 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 120,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@joeykrug You know Dogecoin's been going basically sidewise for 4 year now, right, at least in relative terms: https://t.co/EsYJ6tfG16",
+            "created_at": "Sat Apr 21 18:20:49 +0000 2018",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 124,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Related: The alerts patch for 1.14 turns out to work first time, so we're tidying it up, merging it, then a beta is basically just some build issues away.",
+            "created_at": "Sat Apr 21 18:13:11 +0000 2018",
+            "retweet": 2,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 128,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ComradeEevee Nope, too late, it's gone straight to my ego...\n\nI AM A CODING GOD!!!",
+            "created_at": "Sat Apr 21 18:11:08 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 130,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I wrote some code that worked first time*\n\n* Okay once I fixed compilation bugs anyway",
+            "created_at": "Sat Apr 21 18:08:31 +0000 2018",
+            "retweet": 2,
+            "likes": 25,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 191,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity Realising we've outlived most exchanges",
+            "created_at": "Sat Apr 21 15:51:57 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 221,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@smvnukyan Yes, but I'm on a train so no idea when I'll read it!",
+            "created_at": "Sat Apr 21 14:37:00 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 223,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity I still remember when we contacted an exchange and were told their only admin was on holiday for three months. How we laughed. Hysterically.",
+            "created_at": "Sat Apr 21 14:36:32 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 253,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@JohnnyRocket514 It acts as a stabiliser on the price, making it a more functional currency, and subsidises transaction fees so we don't have the crazy fees of other currencies",
+            "created_at": "Sat Apr 21 13:37:05 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 255,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Tigerix Good question. SegWit will definitely be present but may be disabled. Like.... 80% chance we'll enable it in 1.16",
+            "created_at": "Sat Apr 21 13:35:25 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 376,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "It took about a week to update 1.15 from 1.14 (and about 6 months from 1.10 to 1.14 - don't skip versions is the lesson here), so expecting to have a viable 1.16 fairly quickly. That _should_ be a shipping version.\n\nTa da, road map",
+            "created_at": "Sat Apr 21 08:30:50 +0000 2018",
+            "retweet": 2,
+            "likes": 16,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 377,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.15 syncs and a lot of the tests pass, but need to finish off updating the tests, then rebranding work is done. It won't ship, so we skip straight to 1.16 from there.",
+            "created_at": "Sat Apr 21 08:29:34 +0000 2018",
+            "retweet": 2,
+            "likes": 14,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 378,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Beyond that, I'm doing live money tests tomorrow to verify it all actually works, and waiting on the reintroduced alert system being tested.",
+            "created_at": "Sat Apr 21 08:28:27 +0000 2018",
+            "retweet": 3,
+            "likes": 7,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 379,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.14 is currently stuck while we resolve a build issue with printing on OS X. We may just remove paper wallet support from OS X to get that moving again.",
+            "created_at": "Sat Apr 21 08:27:46 +0000 2018",
+            "retweet": 2,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 382,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity To be fair, I think we lack a single coherent source of information, so it's scattered across different sites. Hoping the website gets moving again soon, and we can heap everything on it.",
+            "created_at": "Sat Apr 21 08:25:21 +0000 2018",
+            "retweet": 0,
+            "likes": 6,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Fortunately having found why transactions weren't relaying, fixing was a lot easier: https://t.co/rFqj1zh2W8",
+            "created_at": "Sun Apr 22 22:33:52 +0000 2018",
+            "retweet": 4,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 56,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Lessons in not skipping 3 releases #173: 1.14 generates v2 transactions. 1.10 doesn't understand v2 transactions so ignores them until mined.\n\nWorking on it.",
+            "created_at": "Sun Apr 22 21:36:03 +0000 2018",
+            "retweet": 3,
+            "likes": 22,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 38,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "There's a third alpha of 1.14 with the transaction version fix included: https://t.co/f6iyKZqWUo\n\nThis one is ready for real money tests for the brave, but keep the amounts small please.",
+            "created_at": "Mon Apr 23 22:24:17 +0000 2018",
+            "retweet": 10,
+            "likes": 41,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 60,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@iamarinmi I'm not too familiar with the tech Verge uses, but if it's Bitcoin-like it should be possible to then import the private key and rescan, and the funds may then show up",
+            "created_at": "Mon Apr 23 21:23:58 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 63,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@iamarinmi Do you own the private key to the Dogecoin address? If its your wallet it might be possible, less likely if its an exchange. @vergecurrency exporting then importing a key should work, right?",
+            "created_at": "Mon Apr 23 21:16:51 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 73,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@iamarinmi Did it go to an address where you control the private key (i.e. a Dogecoin Core wallet address)? That would help a lot! @vergecurrency Would exporting then importing a private key work? Not sure how compatible the tech is.",
+            "created_at": "Mon Apr 23 20:46:27 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 260,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@manttaz Unfortunately as its not showing up it suggests they've failed to relay the transaction. Only the exchanges would have more detail on why ☹️",
+            "created_at": "Thu Apr 26 11:05:59 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 346,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@manttaz What version of the software are you using? I'm presuming this is Dogecoin Core",
+            "created_at": "Thu Apr 26 07:58:33 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 165,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@gurjant488 Definitely we need to start finding more conferences/workshops. Especially in London, given I'm there already!\n\n- Ross",
+            "created_at": "Fri Apr 27 15:25:04 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 254,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@gurjant488 I think we can assume cryptocurrency newbies aren't the target audience for a conference charging $3k per person",
+            "created_at": "Fri Apr 27 11:44:11 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 339,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@SAMOOSHOOP @dogecoin You need @DogeChain , they're completely separate groups, we just maintain the Dogecoin Core client. Good luck!",
+            "created_at": "Fri Apr 27 07:46:19 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 341,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We're also not going, although this thread has started a whole chain of realisations around we now actually have enough budget to attend conferences again, so also I'll see if we can attend other conferences. - Ross https://t.co/0svyuGSFTB",
+            "created_at": "Fri Apr 27 07:40:45 +0000 2018",
+            "retweet": 2,
+            "likes": 17,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 47,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Muhamma38785734 Generally the stablest options are Dogecoin Core or if you can afford one, a hardware wallet such as the Ledger Nano S (which is what I use)",
+            "created_at": "Sun Apr 29 21:36:43 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 48,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Muhamma38785734 For exchanges, mining pools, etc. they often have test environments for testing new releases of Dogecoin Core.",
+            "created_at": "Sun Apr 29 21:36:12 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 191,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Key point is, you should expect (and demand) this level of transparency from all cryptocurrency projects.",
+            "created_at": "Sun Apr 29 13:57:52 +0000 2018",
+            "retweet": 10,
+            "likes": 35,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 195,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "So any time someone says we're doing something with funds, look at that pot. If it hasn't moved, ask where the money is coming from.\n\nGenerally we announce expenditure on /r/dogecoin on reddit too.",
+            "created_at": "Sun Apr 29 13:53:13 +0000 2018",
+            "retweet": 3,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 196,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Now, that pot in theory will at some point pay the devs back for a bunch of infrastructure we're running, but for the most part it doesn't move between releases because it pays out on releases. That's a standard we hold ourselves to, and you can hold us to it as well.",
+            "created_at": "Sun Apr 29 13:52:04 +0000 2018",
+            "retweet": 1,
+            "likes": 14,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 198,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Going to use that to springboard a conversation I've been wanting to have. Look, one of the big bonuses to cryptocurrency is transparency. In our case, that means our operational funds are on the blockchain and you can see them: https://t.co/0RTUSDP99M",
+            "created_at": "Sun Apr 29 13:50:51 +0000 2018",
+            "retweet": 7,
+            "likes": 27,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 201,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We're not doing a giveaway!\n\nYes, that's another scammer pretending to be us.",
+            "created_at": "Sun Apr 29 13:38:14 +0000 2018",
+            "retweet": 4,
+            "likes": 21,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Muhamma38785734 It's an application for Windows/Linux/Mac. If you want something for Android https://t.co/Fyyq87SXLF is from one of our developers.",
+            "created_at": "Mon Apr 30 22:46:20 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@comcentrate1 Given how much of my time I spend negotiating with other teams, I'd love to know what's more decentralised :)",
+            "created_at": "Mon Apr 30 22:45:23 +0000 2018",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 51,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@kundaliniawaken I've raised it for discussion with the rest of the team :)",
+            "created_at": "Thu May 03 21:03:57 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 224,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.14 is primarily waiting on being well tested enough we're comfortable making it a beta. Should I take the silence since alpha 3 to indicate it's working well?",
+            "created_at": "Mon May 07 12:53:19 +0000 2018",
+            "retweet": 11,
+            "likes": 48,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@kundaliniawaken I did, we're looking at some new EU legislation that may impact holding of funds and trying to if it applies and anything we have to do. Although right now Max is at Google I/O, which also delays.",
+            "created_at": "Wed May 09 22:01:44 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Okay so I think we're as far as we can get with alphas of 1.14. I'm hoping we can build binaries and get a beta out soon.\n\nWe're still having build problems for Macs (first problem - neither Max nor myself have a Mac), but have a new dev helping us out with this. - Ross",
+            "created_at": "Sun May 13 22:38:32 +0000 2018",
+            "retweet": 12,
+            "likes": 56,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 16,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "So that's 1.14 building on OS X with thanks to Michi. As she says we need to finish packaging it up, but hoping to have the beta out soon. https://t.co/F0OwMrYLBV",
+            "created_at": "Tue May 15 23:17:27 +0000 2018",
+            "retweet": 13,
+            "likes": 38,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 44,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@2020retirement1 @Cryptokuvera @sabotagebeats @TheCryptoDog @dogecoin @Dogecoin1dollar ...I'm a little teapot?",
+            "created_at": "Thu May 17 21:19:25 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 294,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@adamnelson35 PR with the OS X patch was raised last night, I'm hoping to review it tonight. Need to nudge Max about actually shipping the beta after that. - Ross",
+            "created_at": "Tue May 22 07:49:49 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 293,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@sonchawoo We're not on Telegram (AFAIK, anyway), so no! - Ross",
+            "created_at": "Thu May 24 08:17:51 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 285,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "https://t.co/0NOitJabI6 now uses HTTPS, with thanks to @github for the hosting!",
+            "created_at": "Wed Jun 06 07:27:55 +0000 2018",
+            "retweet": 12,
+            "likes": 60,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 198,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "How can I put this... any legitimate business with guaranteed returns higher than the stock market average would just be getting business loans, not asking you to refer friends.",
+            "created_at": "Sat Jun 23 09:33:25 +0000 2018",
+            "retweet": 9,
+            "likes": 38,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 248,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Sorry, we're not dead, but we are all snowed under with the respective day jobs :( Currently working on OS X builds so 1.14 beta can ship.",
+            "created_at": "Thu Jun 28 07:36:23 +0000 2018",
+            "retweet": 6,
+            "likes": 52,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@CEOofNothing @YearOfDoge @zclassicblue @oscarguindzberg I think https://t.co/wvBrDbgZnX is the right group.",
+            "created_at": "Wed Jul 11 22:43:51 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@CEOofNothing @YearOfDoge @zclassicblue We haven't heard much in a while actually. @oscarguindzberg perhaps? - Ross",
+            "created_at": "Wed Jul 11 22:20:55 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 33,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "And to answer the obvious question; still blocked on OS X builds, but yes I should be doing 1.16 work while I wait for the builds to be fixed by others (i.e. those with Macs) - Ross",
+            "created_at": "Wed Jul 11 21:58:16 +0000 2018",
+            "retweet": 5,
+            "likes": 28,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Signal boosting because this is awesome. https://t.co/rdgk363aX8",
+            "created_at": "Wed Jul 11 21:57:36 +0000 2018",
+            "retweet": 1,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 33,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Sean82386407 Anything you can do to encourage usage as a currency is always really constructive :)",
+            "created_at": "Sun Jul 15 21:40:48 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The team building the Doge/Ether bridge tech has given us a big bundle of stuff to read: https://t.co/dL5wxs5Wew\n\nI'll try to have summary documents out just as soon as I've got all of this into my head - Ross",
+            "created_at": "Fri Aug 03 22:02:44 +0000 2018",
+            "retweet": 25,
+            "likes": 58,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "One of the seed nodes will be rebooted in the next couple of days for patching L1TF. Unfortunately I don't know exactly when, as it depends on the hosting provider.\n\nNot expecting this to have any impact, but trying to make sure we keep everyone up to date.\n\n - Ross",
+            "created_at": "Wed Aug 22 23:37:07 +0000 2018",
+            "retweet": 9,
+            "likes": 35,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Godswifedotcom Dogethereum (the currency) is a completely independent team. Try @dogethereum I think - Ross",
+            "created_at": "Wed Aug 22 23:35:19 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 202,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Doing an assessment on the state of 1.15 with a view to pausing it and moving on to 1.16 build next.\n\nWork on 1.14 is continuing in parallel, but at different lifecycle stages (near release vs start of development).\n\n- Ross",
+            "created_at": "Sat Aug 25 10:17:23 +0000 2018",
+            "retweet": 9,
+            "likes": 46,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 754,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Guys, quick clarification, it's a technical demo of the bridging technology on 5th September, not a public release. It's still very rough as I understand it.",
+            "created_at": "Fri Aug 31 15:41:46 +0000 2018",
+            "retweet": 19,
+            "likes": 69,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 763,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Another reminder, Wednesday's Doge/Ethereum bridge will be a technical demo to show progress, NOT public release. I'm on a train to London but will catch up with messages ASAP - Ross",
+            "created_at": "Sat Sep 01 15:19:56 +0000 2018",
+            "retweet": 34,
+            "likes": 125,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1772,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@walter_liang9 it's three, and 1.14 is basically beta ready except for packaging problems. I've just started on 1.16",
+            "created_at": "Sat Sep 01 00:36:06 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 631,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I've written a post about the Dogecoin/Ethereum demo on Wednesday: https://t.co/ix4goHoEWp",
+            "created_at": "Sun Sep 02 11:39:46 +0000 2018",
+            "retweet": 29,
+            "likes": 78,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 866,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@DhrumilDesai16 @dogecoin I'll tweet this generally in a minute, but it should be livestreamed at https://t.co/nHeRq1TRvA from 1700 UTC on 5th September.",
+            "created_at": "Sun Sep 02 06:34:35 +0000 2018",
+            "retweet": 6,
+            "likes": 22,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 100,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@jhoneycutt63 Thanks! It's tricky to balance, because I neither want to be too cautious, but also make sure people understand what the situation is. Hopefully the demo will ace it and it'll all roll smoothly from there :)",
+            "created_at": "Mon Sep 03 20:25:41 +0000 2018",
+            "retweet": 1,
+            "likes": 12,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 117,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@BoukidjianRoy @WaitForJohnny 1700 UTC; there's a link and full details on the blog post",
+            "created_at": "Mon Sep 03 20:00:35 +0000 2018",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 122,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@WaitForJohnny I mean, I expect it to work, because they don't get paid if it doesn't, but it's good to make sure people understand what's happening. - Ross",
+            "created_at": "Mon Sep 03 19:56:58 +0000 2018",
+            "retweet": 2,
+            "likes": 10,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 130,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "To emphasise though; this is the first time the Dogecoin Core team gets to see this work end to end, too. It's been developed by a separate team and the demo is for release of a bounty put together on the Ethereum side.",
+            "created_at": "Mon Sep 03 19:46:42 +0000 2018",
+            "retweet": 29,
+            "likes": 110,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 135,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "There's a lot more to write about the Doge/Ethereum bridge demo than I can fit into a tweet, please do read the blog post: https://t.co/Dw58EzITP5 - Ross",
+            "created_at": "Mon Sep 03 19:40:51 +0000 2018",
+            "retweet": 20,
+            "likes": 64,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 605,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Matty93Ice You understand we don't directly control market cap, right? Obviously we do publish corrections if we think people are trading on false information, but we're as hands off as possible otherwise. - Ross",
+            "created_at": "Mon Sep 03 08:59:44 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 650,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Davidewatson2 To clarify; this is an external team demoing to us on Wednesday, so we're cautious because we haven't seen this yet. They theory is sound and I've looked at the code, but I don't want people calling for my head when nothing launches on Wednesday - Ross",
+            "created_at": "Mon Sep 03 07:41:22 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 70,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@bigwerms @dogecoin Good! I'll try to get blog posts out about the next steps, soon, but I talk about what's going on at the end of the stream (same link is now a replay of the demo). - Ross",
+            "created_at": "Wed Sep 05 22:12:44 +0000 2018",
+            "retweet": 2,
+            "likes": 9,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 72,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@bigwerms @dogecoin So we should actually put our content guidance up somewhere, but @dogecoin mostly does light/funny stuff, and we use this account for the deep technical. Different audiences. I may put out an update via the main account in a few days though! - Ross",
+            "created_at": "Wed Sep 05 22:09:59 +0000 2018",
+            "retweet": 2,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 74,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Yes, the demo was a success! You can watch the whole thing at https://t.co/nHeRq1TRvA - it's very technical, but I do talk about my plans at the end. - Ross",
+            "created_at": "Wed Sep 05 22:08:02 +0000 2018",
+            "retweet": 104,
+            "likes": 259,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 304,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Fifteen minutes! https://t.co/nHeRq1TRvA",
+            "created_at": "Wed Sep 05 16:45:06 +0000 2018",
+            "retweet": 18,
+            "likes": 54,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 574,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We get to see the Doge/Ethereum bridge demo in just under 10 hours from now, who'll be there? https://t.co/nHeRq1TRvA\n\nBackground on what's happening: https://t.co/Dw58EzITP5",
+            "created_at": "Wed Sep 05 07:12:56 +0000 2018",
+            "retweet": 31,
+            "likes": 108,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 418,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Jelly_c_ I believe Oscar's re-recording the demo with better audio, and I'll link to it as soon as I have it.",
+            "created_at": "Fri Sep 07 10:41:45 +0000 2018",
+            "retweet": 1,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 420,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@chrisbelltoken @sonar718 @bigwerms @dogecoin There's a lot of politics around the main page, which is why we tend to use external pages, but definitely want to do something more with it!",
+            "created_at": "Fri Sep 07 10:34:41 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 421,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@bigwerms @RobinhoodApp I've got a @LedgerHQ Nano S personally, I believe Trezor recently added support and generally I'm a fan of hardware wallets - Ross",
+            "created_at": "Fri Sep 07 10:33:58 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 424,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@__eesa__ I'm waiting on the proposal being raised with the smart contract now, should be imminent",
+            "created_at": "Fri Sep 07 10:31:00 +0000 2018",
+            "retweet": 3,
+            "likes": 10,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 657,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ShroudaPoppin @MSingularity Your question :-D",
+            "created_at": "Fri Sep 14 02:37:34 +0000 2018",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 682,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@CyTheFox I'm awkwardly sober - Ross",
+            "created_at": "Fri Sep 14 01:53:23 +0000 2018",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 699,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I've just been discussing changing the supply. In short, we reward our miners two orders of magnitude less than any other viable coin already, and we have no workable plan for how to reduce that further.",
+            "created_at": "Fri Sep 14 01:24:37 +0000 2018",
+            "retweet": 32,
+            "likes": 119,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 251,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "There's a patch to Bitcoin Core 0.14 that we need to apply to the Dogecoin Core alpha. I want to get https://t.co/ZM0K9yx2zF merged and then we'll do a new alpha release with it included. This is for https://t.co/3cgAiIao3O",
+            "created_at": "Wed Sep 19 15:11:14 +0000 2018",
+            "retweet": 25,
+            "likes": 74,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 302,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We're talking about cutting the paper wallet functionality from 1.14, which is the part that's causing OS X headaches. If we do that we can probably jump straight to release candidate given the testing it's had. I'll let you know more as soon as we have a decision.",
+            "created_at": "Fri Sep 21 07:59:27 +0000 2018",
+            "retweet": 10,
+            "likes": 61,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 303,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@pinguino I'm honestly just bemused, others handled it before I even woke up, it's just a bit \"Err... okay. Yeah I didn't respond because I was unconscious.\" - Ross",
+            "created_at": "Fri Sep 21 07:58:19 +0000 2018",
+            "retweet": 0,
+            "likes": 8,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 304,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Also having woken up to find a long rant in my email from Github; Max &amp; I are both on EU timezones, as well as having full time jobs to pay the bills, we're not a company with a paid support team to handle helpdesk. - Ross",
+            "created_at": "Fri Sep 21 07:52:41 +0000 2018",
+            "retweet": 7,
+            "likes": 49,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 306,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For everyone asking about the Bitcoin Core update and impact on Dogecoin Core - we should have a new Dogecoin Core 1.14 tagged this weekend, or https://t.co/l5M3Q19DSf has the fix included already if you can't wait. 1.10 should be okay by my reading of the issue.",
+            "created_at": "Fri Sep 21 07:50:00 +0000 2018",
+            "retweet": 13,
+            "likes": 41,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@dogecoin To clarify; that's the new work in progress of Dogecoin Core. It's only intended for those with detailed knowledge of how the client works and comfortable running experimental builds. - Ross",
+            "created_at": "Sun Sep 23 21:54:46 +0000 2018",
+            "retweet": 5,
+            "likes": 30,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 151,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Doge/Ethereum bridge: Voting is taking place now to release 35% of the reward to the developers, and we're waiting on a completion plan from them.",
+            "created_at": "Sun Sep 23 14:00:48 +0000 2018",
+            "retweet": 34,
+            "likes": 144,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 155,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Quick round-up of where we are:\n\n1.14: New alpha is waiting on https://t.co/ZM0K9yx2zF being approved. Release is waiting on OS X build fixes or removing the functionality causing build errors.\n1.16: Was hoping to work on this today, have got a cold and can't focus :(",
+            "created_at": "Sun Sep 23 13:59:51 +0000 2018",
+            "retweet": 12,
+            "likes": 49,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@Tigerix It's definitely on my wants list for 1.16, but I don't want to say anything more until I've talked to the rest of the team. Would likely need a fork due to how we use version bits. - Ross",
+            "created_at": "Mon Sep 24 23:21:21 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "It's tedious, but means we don't have test failures from multiple different changes, which makes it much easier to correct the tests afterwards.",
+            "created_at": "Mon Sep 24 23:13:53 +0000 2018",
+            "retweet": 7,
+            "likes": 55,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For 1.16 I'm trying a new approach to applying the changes to convert Bitcoin to Dogecoin. Instead of updating all of the main parameters at once, I'm doing them individually and ensuring all of the tests pass after every single minor change.",
+            "created_at": "Mon Sep 24 23:13:11 +0000 2018",
+            "retweet": 20,
+            "likes": 84,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 32,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Working on the foundations of 1.16 and watching @Killjoys , how's your evening going?",
+            "created_at": "Mon Sep 24 21:54:50 +0000 2018",
+            "retweet": 3,
+            "likes": 34,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 36,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@ErcHanson That's a separate team, although we work with them. I'm hoping they'll have a release roadmap shortly and I'll let you know as soon as I have anything concrete. - Ross",
+            "created_at": "Mon Sep 24 21:45:51 +0000 2018",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 40,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For everyone who missed this yesterday, we've released a fourth (and hopefully final) alpha of 1.14: https://t.co/RZLQIGDEdM\n\nThis will probably skip beta stage and go straight to release candidate once we have the OS X build fixes in.",
+            "created_at": "Mon Sep 24 21:41:28 +0000 2018",
+            "retweet": 14,
+            "likes": 61,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 98,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "A reminder that random anonymous websites are not good sources of investment advice.",
+            "created_at": "Sat Sep 29 14:16:05 +0000 2018",
+            "retweet": 13,
+            "likes": 82,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 126,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@MSingularity @Davidewatson2 I'd have gone wiht \"Reducing the rewards makes us even less economically viable to mine\" as the primary reason myself, but these are also good reasons - Ross",
+            "created_at": "Wed Oct 10 16:32:31 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Okay I've got Dogecoin Core 1.16 to sync fully on testnet. 1.14 is finding all the bits of our release process that need dusting off, but is rolling along. 1.17 work has started.\n\n- Ross",
+            "created_at": "Sat Oct 13 22:34:31 +0000 2018",
+            "retweet": 25,
+            "likes": 109,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Also, seriously, NEVER JUMP FOUR VERSIONS. So many painful lessons from that one. 1.16 has been so much easier so far.",
+            "created_at": "Sun Oct 14 23:43:54 +0000 2018",
+            "retweet": 6,
+            "likes": 41,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Plan is to get 1.14 out (having branding issues that need nailing down), get most nodes updated to that, and we can then hopefully roll out 1.16. Trying not to jump 4 versions in a batch this time, it rather overcomplicates.",
+            "created_at": "Sun Oct 14 23:38:04 +0000 2018",
+            "retweet": 5,
+            "likes": 26,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Dogecoin Core 1.16 fully syncs on main and test networks. 1,17 has changed how blocks are loaded (again), so it will take more time to verify the AuxPoW changes as we apply them, but that's on track for later this week.",
+            "created_at": "Sun Oct 14 23:36:37 +0000 2018",
+            "retweet": 6,
+            "likes": 37,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "I'm developing 1.16 and 1.17 clients more or less in parallel as the effort to update one is only slightly less than the effort to update two, simply because having looked at a chunk of code recently makes it much easier to work with - Ross",
+            "created_at": "Wed Oct 17 22:50:42 +0000 2018",
+            "retweet": 3,
+            "likes": 23,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.17 (which is where I'm experimenting currently) now fully syncs up to Digishield (block 145,000). Need to debug why it then gets stuck, but hope to have it fully syncing this weekend. - Ross",
+            "created_at": "Wed Oct 17 22:49:44 +0000 2018",
+            "retweet": 5,
+            "likes": 34,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Got the 1.17 client to sync the first 800k or so testnet blocks. Production network tests tomorrow to check, then will start raising pull requests - Ross",
+            "created_at": "Thu Oct 18 21:51:13 +0000 2018",
+            "retweet": 9,
+            "likes": 64,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 24,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "reddit announcement of 1.14 beta 1: https://t.co/Quk65x2hgG",
+            "created_at": "Fri Nov 16 22:05:39 +0000 2018",
+            "retweet": 6,
+            "likes": 37,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 32,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Dogecoin Core 1.14 beta 1 is available now, reddit post coming: https://t.co/XFpxwjmiCl",
+            "created_at": "Fri Nov 16 21:43:27 +0000 2018",
+            "retweet": 16,
+            "likes": 79,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 72,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We are aware that twitter has locked the @dogecoin account, we were updating the birthday to reflect today, and this tripped their internal system. Working to get it back.",
+            "created_at": "Thu Dec 06 18:59:19 +0000 2018",
+            "retweet": 10,
+            "likes": 62,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 104,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "So far the only major issue with 1.14 is it overpays fees sometimes. Discussing how we want to address this, although even if we're trying to introduce a fee market, the rates are high. Should be good for a release candidate after that's solved.",
+            "created_at": "Sun Dec 09 13:14:07 +0000 2018",
+            "retweet": 7,
+            "likes": 49,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We want to thank you for all of the support as we have been in our developmental flurry this past year. It is our hope that you are all spending the holidays happy and enjoying the time. ❤️ #dogecoin Thank you truly for being an one of the most awesome userbases in crypto.",
+            "created_at": "Tue Dec 25 22:27:03 +0000 2018",
+            "retweet": 41,
+            "likes": 227,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Also, before everyone points to the recent bug disclosure for Bitcoin Core 0.14 - we know, we're based on 0.14.3, which has the fixes",
+            "created_at": "Sun Mar 17 20:15:56 +0000 2019",
+            "retweet": 3,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 36,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Anyway, better now, and currently starting stress tests of what I'm hoping will be 1.14 release",
+            "created_at": "Sun Mar 17 20:02:54 +0000 2019",
+            "retweet": 10,
+            "likes": 45,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 37,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Not actually dead, but did move continents and then got two chest infections! - Ross",
+            "created_at": "Sun Mar 17 20:02:27 +0000 2019",
+            "retweet": 2,
+            "likes": 37,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1150,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For anyone wondering if https://t.co/oKq53o0QsI was staged - no, genuinely woke up to someone telling me Elon was tweeting about Dogecoin, and we improvised the rest",
+            "created_at": "Wed Apr 03 03:37:41 +0000 2019",
+            "retweet": 5,
+            "likes": 47,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1270,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Getting back to simpler things like writing code (instead of tweets), 1.14 is waiting on Max to review a change, but 1.17 work continues this week - Ross",
+            "created_at": "Wed Apr 03 02:13:19 +0000 2019",
+            "retweet": 11,
+            "likes": 85,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 42,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.14 RC1 is currently building, yay! Unfortunately it's on my four year old laptop and this is really slow, and the new laptop will probably arrive about 3 hours after the build finishes 😂 - Ross",
+            "created_at": "Sun Apr 14 19:29:12 +0000 2019",
+            "retweet": 6,
+            "likes": 47,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 94,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "1.14 RC1 is out, which means pending any major bugs that will become the release version.\n\n1.17 is coming together nicely but I can't test it effectively without more nodes on 1.14 - please update any testnet nodes you have! - Ross https://t.co/fH2T4YpRxY",
+            "created_at": "Sun Apr 21 15:55:15 +0000 2019",
+            "retweet": 8,
+            "likes": 29,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 165,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "If you're running a Dogecoin testnet node below version 1.14, please upgrade to 1.14 and then run the daemon with --reindex-chainstate so we can switch to block version 4 https://t.co/SfFf5L5kiG",
+            "created_at": "Sun Apr 21 08:06:54 +0000 2019",
+            "retweet": 5,
+            "likes": 18,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1992,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": ".@dogecoindex is looking for testers for their new iOS and Android apps. \nSee below for more info about their DogeDEX apps. #DoOnlyGoodEveryday",
+            "created_at": "Mon Mar 01 20:00:01 +0000 2021",
+            "retweet": 222,
+            "likes": 710,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2442,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@coinbase @CoinbaseSupport PS: Any ETA for when millions of shibes can #DoOnlyGoodEveryday on your exchange too? ❤️🚀",
+            "created_at": "Mon Mar 01 19:07:21 +0000 2021",
+            "retweet": 89,
+            "likes": 417,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2448,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Shout out to @coinbase @CoinbaseSupport for fixing the #dogecoin integration in their iOS wallet at lightning speed. \nWe truly appreciate your swift action! https://t.co/G7Qxxpiz9j",
+            "created_at": "Mon Mar 01 19:07:00 +0000 2021",
+            "retweet": 223,
+            "likes": 1275,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1500,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The network is updating to #Dogecoin v1.14.3 steadily, with about 5% of the network switching over per day! So far, so good, shibes; let's all upgrade our nodes and speed up our network! Get it at https://t.co/XxtKVJQMPF https://t.co/P1TcqYo53G",
+            "created_at": "Thu Mar 04 19:21:15 +0000 2021",
+            "retweet": 354,
+            "likes": 1358,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1134,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For those who love really really (I'm not joking) raw technical detail, I've posted on the work on 1.21: https://t.co/ifzDSmyx8O\n\nBasically while the changes from Dogecoin are limited, there's a LOT of tests that needed fixing to match, but it's now all ready for review - Ross",
+            "created_at": "Sat Mar 13 22:28:49 +0000 2021",
+            "retweet": 203,
+            "likes": 810,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1194,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "These features also offer a perfect opportunity to start developing for cryptocurrencies. If you're looking to get into crypto development, this may be your chance - we'll help.",
+            "created_at": "Tue Mar 23 18:56:46 +0000 2021",
+            "retweet": 330,
+            "likes": 2137,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1198,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We'd love to grow the scope with your help - tell us which features you think are complex by opening an issue on the github repository.",
+            "created_at": "Tue Mar 23 18:56:29 +0000 2021",
+            "retweet": 205,
+            "likes": 1421,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1224,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Today we're announcing Operation Such Frensly - an effort to make the Dogecoin Core wallet easier to use. https://t.co/Ic8YuEoR9T",
+            "created_at": "Tue Mar 23 18:52:06 +0000 2021",
+            "retweet": 471,
+            "likes": 2278,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25994,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "@twiitiago So that's what we're trying to improve - we have a lot of nodes the mobile wallet _could_ sync from, but only a tiny number actually accessible from outside their firewalls, so most of the network is \"invisible\" to the mobile wallets. - Ross",
+            "created_at": "Sat May 08 09:36:13 +0000 2021",
+            "retweet": 5,
+            "likes": 32
+        },
+        {
+            "tweet_count": 26242,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Short version; if you're running Dogecoin Core please open TCP port 22556 on your firewall.",
+            "created_at": "Sat May 08 09:19:48 +0000 2021",
+            "retweet": 143,
+            "likes": 855
+        },
+        {
+            "tweet_count": 26254,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "We're seeing a lot more fully synced nodes on the network, which is great, but it would really help if those running Dogecoin Core can ensure their node is reachable through their firewall. There's a full guide at https://t.co/9hS8VlJgb6",
+            "created_at": "Sat May 08 09:19:23 +0000 2021",
+            "retweet": 418,
+            "likes": 1708
+        },
+        {
+            "tweet_count": 6925,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For anyone who wants to help translate the website, you can raise pull requests on GitHub to update the site: https://t.co/mXNpUZTGPh",
+            "created_at": "Sun May 09 21:04:32 +0000 2021",
+            "retweet": 396,
+            "likes": 2237,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 26472,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Pending final tests, I should have the first long-running 1.21 node on testnet today. - Ross",
+            "created_at": "Wed May 12 11:32:00 +0000 2021",
+            "retweet": 889,
+            "likes": 5367,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3860,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "For an overview of work currently being done towards the next major release of Dogecoin Core, see the project board at https://t.co/P9R0GUh8SL",
+            "created_at": "Mon May 24 21:20:01 +0000 2021",
+            "retweet": 1768,
+            "likes": 9674,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 889,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "It's true! Much operational security. So multisig. Wow.",
+            "created_at": "Fri Jul 09 21:47:02 +0000 2021",
+            "retweet": 156,
+            "likes": 844,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1066,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The moving of the dev fund has concluded and was successful. The new fund address is AC8Q9Z4i4sXcbW7TV1jqrjG1JEWMdLyzcy . wow very transparency.",
+            "created_at": "Fri Jul 09 21:25:22 +0000 2021",
+            "retweet": 229,
+            "likes": 1421,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1370,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "As one of you will no doubt spot at any moment, the Dogecoin developer fund is moving address. This is an operational change in which we replace one of the keys, there is no change in ownership, nor is this a pay out at this time.",
+            "created_at": "Fri Jul 09 20:47:30 +0000 2021",
+            "retweet": 227,
+            "likes": 1320,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1144,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Does someone know who Litecoin address LTCPodha2LAxSyBGsGfkWcmKDEB8cWrqLU is and could they please fix their transaction inclusion?\n\nhttps://t.co/WzG42fCpc7",
+            "created_at": "Fri Sep 24 19:22:06 +0000 2021",
+            "retweet": 118,
+            "likes": 580,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1996,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "The TeamSeas &amp; Dogecoin site is now live, help #teamseas save our planet! https://t.co/zXnmoaLXsB https://t.co/SUXdF8drIC",
+            "created_at": "Fri Oct 29 20:19:36 +0000 2021",
+            "retweet": 231,
+            "likes": 828,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1566,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "10) Moreover, this should likely be done as a routine maintenance practice; especially if you know that a number of invalid transactions have been reissued.",
+            "created_at": "Thu Nov 11 18:47:13 +0000 2021",
+            "retweet": 82,
+            "likes": 844,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1567,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "9) For any providers with concerns about stagnant invalid transactions, we recommend stopping the nodes, removing the mempool.dat file just in case, and then starting the node with -zapwallettxes....",
+            "created_at": "Thu Nov 11 18:47:13 +0000 2021",
+            "retweet": 69,
+            "likes": 707,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1568,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "8) Correct handling to cancel a transaction is to spend the to-be-cancelled transaction's inputs to a different transaction, which invalidates the first...",
+            "created_at": "Thu Nov 11 18:47:13 +0000 2021",
+            "retweet": 57,
+            "likes": 607,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1569,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "7) Takeaways: Invalid transactions don't have a defined timeout limit, but are typically disposed of due to memory limits. However they can hang around if mempool isn't maintained...",
+            "created_at": "Thu Nov 11 18:47:12 +0000 2021",
+            "retweet": 64,
+            "likes": 615,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1570,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "6) Currently what we believe has happened is the previously stuck transactions have been retried automatically, as would happen on each node restart after upgrade - and went through, since now the minfee is lower....",
+            "created_at": "Thu Nov 11 18:47:12 +0000 2021",
+            "retweet": 63,
+            "likes": 615,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1571,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "4) Yesterday we were notified that previously stuck transactions (insufficient fee) had suddenly relayed successfully, post 1.14.5 update - likely because minfees have been lowered in 1.14.5...",
+            "created_at": "Thu Nov 11 18:47:11 +0000 2021",
+            "retweet": 72,
+            "likes": 672,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1572,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Providing some clarification the Binance situation: 1) A bit over a year ago, Binance notified us that they had stuck transactions. We were not shown these transactions, but it was suggested that they were 'stuck' due to insufficient fees...",
+            "created_at": "Thu Nov 11 18:47:10 +0000 2021",
+            "retweet": 441,
+            "likes": 2729,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 607,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Signal boosting some interesting ecosystem dev here - should be of interest to anyone wishing to integrate dogecoin using a websocket API.",
+            "created_at": "Mon Feb 19 19:04:05 +0000 2024",
+            "retweet": 134,
+            "likes": 189,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 732,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Have a Dogecoin infrastructure project you're working on? Is it FOSS and something other than a wallet? Please message this account so we can boost it.  (No \"wallets that happen to include dogecoin\", please. This is meant for Dogecoin-centric, FOSS projects.)",
+            "created_at": "Wed Oct 02 19:55:58 +0000 2024",
+            "retweet": 97,
+            "likes": 110,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3500,
+            "username": "Dogecoin Developers",
+            "user_account": "dogecoin_devs",
+            "text": "Faster, more secure, more compatibility. Libdogecoin 0.1.4 released today, like *now* now.  U should buidl.\n\nhttps://t.co/AYtamJ38gu https://t.co/eM00ou7syY",
+            "created_at": "Fri Apr 11 03:38:58 +0000 2025",
+            "retweet": 348,
+            "likes": 609,
+            "retweeted_tweet": null
+        }
+    ]
+}

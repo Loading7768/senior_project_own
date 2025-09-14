@@ -1,0 +1,28 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 954,
+            "username": "Lars Hvam Petersen",
+            "text": "@l_salva because yea, Dogecoin is fun, and mining it in JS is stupid, running on abap stack is stupid, running on Raspberry PI is stupid..... but its all fun when put together",
+            "created_at": "Wed Feb 28 18:49:59 +0000 2024",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 959,
+            "username": "Lars Hvam Petersen",
+            "text": "@l_salva https://t.co/aLAdZ0YGVd is part of it. Dogecoin uses Scrypt, I could implement Scrypt, but I'm gonna take Javscript eg https://t.co/XX2QUZSr7N and run it on the ABAP stack, running on Raspberry PI Zero",
+            "created_at": "Wed Feb 28 18:48:35 +0000 2024",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 2071,
+            "username": "Lars Hvam Petersen",
+            "text": "Day by day, getting closer to the ultimate blog post \"Dogecoin mining running in the #ABAP stack on a Raspberry Pi Zero\"",
+            "created_at": "Wed Feb 28 15:41:24 +0000 2024",
+            "retweet": 2,
+            "likes": 18
+        }
+    ]
+}

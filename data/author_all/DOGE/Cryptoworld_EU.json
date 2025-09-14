@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 673,
+            "username": "Cryptoworld.eu",
+            "user_account": "Cryptoworld_EU",
+            "text": "Dogecoin mining is UP and running.",
+            "created_at": "Wed Mar 05 14:13:43 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 828,
+            "username": "Cryptoworld.eu",
+            "user_account": "Cryptoworld_EU",
+            "text": "Dogecoin mining is currently down.",
+            "created_at": "Wed Mar 05 10:52:58 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 288,
+            "username": "Cryptoworld.eu",
+            "user_account": "Cryptoworld_EU",
+            "text": "We are upgrading Dogecoin to version 1.6. Dogecoin Pool will be down approximately 1 hour.",
+            "created_at": "Sun Mar 16 20:40:16 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

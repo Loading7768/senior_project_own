@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 234,
+            "username": "Eric Weaver",
+            "user_account": "ecweaver2",
+            "text": "All this #bitcoin and #dogecoin talk makes me wonder... did the work of David Chaum go into any of this, or is it all dim history by now?",
+            "created_at": "Sat Dec 21 19:10:02 +0000 2013",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 305,
+            "username": "Eric Weaver",
+            "user_account": "ecweaver2",
+            "text": "Our #cat informs me he is now accepting donations in #dogecoin.  Very tuna!",
+            "created_at": "Sat Dec 21 16:50:52 +0000 2013",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

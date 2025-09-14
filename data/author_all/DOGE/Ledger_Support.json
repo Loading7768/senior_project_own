@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 73,
+            "username": "Ledger Support",
+            "user_account": "Ledger_Support",
+            "text": "@Le0nNguyen Hi Leon, could you kindly try clearing Ledger Live's cache (Settings &gt; Help &gt; Clear Cache).\n\nIf this doesn't resolve it, don't hesitate to remove and re-add your $DOGE account.",
+            "created_at": "Wed Feb 26 16:31:23 +0000 2020",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2728,
+            "username": "Ledger Support",
+            "user_account": "Ledger_Support",
+            "text": "🎉Ledger Live v2.25.1 is now live!\n\nYou can now buy $DOT $LTC $DOGE and $COMP directly in Ledger Live through our partner Coinify!\n\nWe also added floating rates for the Swap (powered by Changelly) and a brand-new notification system to follow our updates!\n\nhttps://t.co/YyzYReWUHj",
+            "created_at": "Thu Apr 08 07:53:20 +0000 2021",
+            "retweet": 6,
+            "likes": 34,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 12347,
+            "username": "Ledger Support",
+            "user_account": "Ledger_Support",
+            "text": "@VerdegemP Hello, we haven't supported selling Dogecoin directly through Ledger Live - thus far it's only been possible to sell Bitcoin through the Ledger Live sell crypto feature, which is powered by Coinify.",
+            "created_at": "Thu May 06 15:09:16 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        }
+    ]
+}

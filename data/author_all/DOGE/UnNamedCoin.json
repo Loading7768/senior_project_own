@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 954,
+            "username": "Mark",
+            "user_account": "UnNamedCoin",
+            "text": "We accept the challenge! #dogecoin",
+            "created_at": "Fri Apr 11 08:06:51 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 268,
+            "username": "Mark",
+            "user_account": "UnNamedCoin",
+            "text": "@TheDogeHalving @Dogecoin @DogeMarketNews Go Go Dodgie Coin :) To the moon !",
+            "created_at": "Sat Jul 26 17:06:16 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1276,
+            "username": "Mark",
+            "user_account": "UnNamedCoin",
+            "text": "@BitcoinNew Well done #dogecoin",
+            "created_at": "Mon Sep 15 12:50:45 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

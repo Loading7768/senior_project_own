@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4545,
+            "username": "Paul Guarino",
+            "user_account": "PCG7",
+            "text": "If @dogecoin hits @coinbase 👀 \n\n#dogearmy",
+            "created_at": "Fri May 07 22:38:47 +0000 2021",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 99,
+            "username": "Paul Guarino",
+            "user_account": "PCG7",
+            "text": "@davidgokhshtein $doge",
+            "created_at": "Sun May 09 23:57:09 +0000 2021",
+            "retweet": 1,
+            "likes": 22,
+            "retweeted_tweet": null
+        }
+    ]
+}

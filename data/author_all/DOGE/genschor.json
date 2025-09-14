@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 260,
+            "username": "gen",
+            "user_account": "genschor",
+            "text": "Dogecoin",
+            "created_at": "Thu Dec 23 22:24:47 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 261,
+            "username": "gen",
+            "user_account": "genschor",
+            "text": "@bitpanda Dogecoin",
+            "created_at": "Thu Dec 23 22:24:09 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

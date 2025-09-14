@@ -1,0 +1,104 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 712,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "@dogecoin_devs @olthoff Dogecoin seems to be Litecoin fork, adding support to it should not be that hard.",
+            "created_at": "Fri Jan 19 02:08:50 +0000 2018",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 495,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": ".@codeoverwhelmin is adding #dogecoin support to @BtcpayServer ! \n\n1 DOGE = 1 DOGE !!! https://t.co/2NmVzNglN0",
+            "created_at": "Fri Apr 06 01:23:34 +0000 2018",
+            "retweet": 5,
+            "likes": 24,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 519,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "Dogecoin integration to NBXplorer (mostly done @codeoverwhelmin).\n\nComing soon to BTCPayServer! #dogecoin \n\nhttps://t.co/f6fh6f05cT",
+            "created_at": "Tue Apr 10 06:28:52 +0000 2018",
+            "retweet": 4,
+            "likes": 17,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 408,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "1.0.2.10:\n\n* Can send coin inside BTCPay from your Ledger Nano S even for coins not supporting segwit. #dogecoin has a real wallet now! :)",
+            "created_at": "Mon May 07 03:50:56 +0000 2018",
+            "retweet": 2,
+            "likes": 18,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 311,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "Monacoin support got merged to NBitcoin, will be soon on btcpay. Sorry #dogecoin the cats are coming! #Monacoin https://t.co/kp7RvdODD3",
+            "created_at": "Wed May 09 10:09:05 +0000 2018",
+            "retweet": 14,
+            "likes": 34,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 299,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "Or just use NBXplorer https://t.co/f6fh6fhGBt which support all together:\n\n* Bitcoin\n* Litecoin\n* Dogecoin\n* Dash\n* Polis\n* BCash\n* BGold\n* Monacoin\n\nAh, and btw, your \"ethereum support\" seems empty https://t.co/yuQB1E82yS :p https://t.co/vCKLjdlCt1",
+            "created_at": "Fri May 11 08:39:58 +0000 2018",
+            "retweet": 5,
+            "likes": 16,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 355,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "@andersrh_arh I don't code for altcoins, their community has to add their own support:\n\nAll those communities did:\n\n* BGold\n* Dogecoin\n* Feathercoin\n* Groestlcoin\n* Litecoin\n* Monacoin\n* Polis\n* Viacoin\n\nNot BCash. Probably the BCash president need to hire less marketing and more devs 🤣",
+            "created_at": "Fri Jul 27 02:36:18 +0000 2018",
+            "retweet": 17,
+            "likes": 110,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 294,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "@crypto_daze @olthoff @r0ckstardev @2nd_Entropy @ProfFaustus @BitPay @capitalist @dogecoin I want to add: No #dogecoin user threatened to destroy BTCPay because we support #monacoin ... a cat mind you!",
+            "created_at": "Mon Aug 13 06:21:26 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 616,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "@thee_wolf @NicolasDorier @randybrito @cryptobelfrey @ShapeShift_io @bisq_network @OB1Company I see, well I would need support for:\n\n* BGold\n* Dash\n* Dogecoin\n* Feathercoin\n* Groestlcoin\n* Litecoin\n* Monacoin\n* Polis\n* Viacoin\n\nI think it is easier for me to develop such service on top of BTCPay directly than relying on another service and extending it to other coins.",
+            "created_at": "Wed Sep 05 04:45:11 +0000 2018",
+            "retweet": 3,
+            "likes": 23,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 239,
+            "username": "BTCPay Server",
+            "user_account": "BtcpayServer",
+            "text": "$DOGE and $MONA have been added to the one click deploy of lunanode if anybody willing to test. :p",
+            "created_at": "Tue Dec 11 02:40:17 +0000 2018",
+            "retweet": 11,
+            "likes": 31,
+            "retweeted_tweet": null
+        }
+    ]
+}

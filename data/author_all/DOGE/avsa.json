@@ -1,0 +1,44 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1122,
+            "username": "Alex Van de Sande (avsa.eth)",
+            "user_account": "avsa",
+            "text": "The Dogecoin DAO already has more than 8k dollars, all secured by strict rules of governance set on the blockchain. https://t.co/Q5X7oBqKhz",
+            "created_at": "Wed Jan 20 11:03:27 +0000 2016",
+            "retweet": 4,
+            "likes": 11,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 132,
+            "username": "Alex Van de Sande (avsa.eth)",
+            "user_account": "avsa",
+            "text": "Now it's only one-way now, and it's not production ready but let me recap what these crazy people demonstrated us:\n\nThey built a DOGECOIN LIGHT CLIENT ON ETHEREUM. A contract that can check what is the latest dogecoin block, calculate proof of work, figure out chain splits, etc",
+            "created_at": "Fri Feb 09 19:18:50 +0000 2018",
+            "retweet": 6,
+            "likes": 29,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 134,
+            "username": "Alex Van de Sande (avsa.eth)",
+            "user_account": "avsa",
+            "text": "Doge was excited about ethereum too and they posted a thread asking if it was possible to be integrated in ethereum: https://t.co/73R3r3O9f7\n\nSo a few days later, \"some guy\" had implemented Scrypt (doge's native code) in Ethereum: \nhttps://t.co/nNmv9urThl",
+            "created_at": "Fri Feb 09 19:18:46 +0000 2018",
+            "retweet": 4,
+            "likes": 18,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 135,
+            "username": "Alex Van de Sande (avsa.eth)",
+            "user_account": "avsa",
+            "text": "The ethereum community was formed, in part from people that didn't like the bitterness that overtook Bitcoin, so we always tried to be light hearted and fun. Devcons accepted dogecoin. I mean, look at this guy, does he want you to take him seriously? https://t.co/EbFdEwe3oT",
+            "created_at": "Fri Feb 09 19:18:45 +0000 2018",
+            "retweet": 4,
+            "likes": 21,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 749,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@TrustWallet How to convert something like dogecoin on an exchange. Iv gave up as soon as smart chain came into it all.",
+            "created_at": "Mon Sep 13 20:43:18 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@tOSUFever @thedogemoon @dogecoin @BillyM2k @ArroyoXIII @elonmusk @dogecoin_devs Awesome i restarted and rechecked ports are open and up to 12 peers already both in and out, isp isnt really an issue as its a dedicated server in a datacentre. So nothing gets blocked. Its up and running now so ill leave it a few days and then check on it. Thanks for the help 😁",
+            "created_at": "Mon Sep 27 23:56:06 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 110,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@tOSUFever @thedogemoon @dogecoin @BillyM2k @ArroyoXIII @elonmusk How do you remove the connection limits only getting 13 connections, ports are forwaded by linux due to server having its own ip. I tried the dogecoin.conf and added maxconnetions=500",
+            "created_at": "Mon Sep 27 23:26:44 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 136,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@tOSUFever @mishaboar @dogecoin_devs Iv got a handful of 5670s i just never needed the extra power (currently the servers are just sat collecting dust until i can find something fun to do with them) electrics expensive here in the UK just running a gaming pc costs a fortune",
+            "created_at": "Fri Oct 22 23:37:13 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 171,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@tOSUFever @mishaboar @dogecoin_devs I use to use proxmox but it really hates debian 11 (network fails way to often) so i went back to virtual box. Proxmox is just far to broken for me to rely on",
+            "created_at": "Fri Oct 22 23:27:35 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 178,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@tOSUFever @mishaboar @dogecoin_devs So a bit of maths each dl320 runs either a Intel Xeon E5620 or similar (never got around to putting the 6 cores in) each 4core x 2CPU = 8 core per server or (16HT) x 5 soo total of 40 cores (80HT) + 8GB DDR3 per server (RAMs hella expensive) 40GB Ram and 120GB SSD per server",
+            "created_at": "Fri Oct 22 23:25:18 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 239,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@tOSUFever @mishaboar @dogecoin_devs I love a good match XD iv got to get my 5 DL320 up and running but cant figure out a use for them.     I just get stuff cheap off ebay for fun",
+            "created_at": "Fri Oct 22 23:10:19 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 353,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@tOSUFever @mishaboar @dogecoin_devs I see you setup and raise you ryzen 2600x XD cpu is running boinc if anyone cares XD plus 4 vms in virtual box and 2 websites https://t.co/vGTqh4V6Fq",
+            "created_at": "Fri Oct 22 22:48:45 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 436,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@blockchain why oh why can i not set my own fees... dogecoin fees are 13doge to send 100... i can do it in other wallets for 1 doge.. your either ripping people off or just getting bad at your job",
+            "created_at": "Fri Oct 22 22:32:06 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 510,
+            "username": "Timmy",
+            "user_account": "Timmy17672437",
+            "text": "@BillyM2k @ScarlettWyq Never forget you cant fix stupid... all these new people bring shame to the true crypto fans. Hell i dare them to name 5 older coins than dogecoin :D",
+            "created_at": "Fri Nov 05 22:26:07 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

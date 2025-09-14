@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 233,
+            "username": "Ondřej Bárta",
+            "user_account": "bartaxyz",
+            "text": "We're trying to implement dogecoin inside our company for tipping. Meaning if you're a good person and you're helping others often, you may as well get a free cake after a week of being nice to others ☀️",
+            "created_at": "Tue Apr 03 14:32:22 +0000 2018",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 42,
+            "username": "Ondřej Bárta",
+            "user_account": "bartaxyz",
+            "text": "@Gekonn Not sure if I get you. This is more of a fun use case for the kind of cryptocurrency that dogecoin is. One can decide not to use it and still be nice to others. In our case, the behavior of people isn't likely to change. We help each other anyway.",
+            "created_at": "Thu Apr 05 21:34:42 +0000 2018",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

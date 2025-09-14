@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 10932,
+            "username": "Tom Chen",
+            "user_account": "TheTomChen",
+            "text": "Sometimes TA works, sometimes it doesn't. #dogecoin",
+            "created_at": "Wed May 05 17:38:36 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 3081,
+            "username": "Tom Chen",
+            "user_account": "TheTomChen",
+            "text": "@TheMoonCarl @elonmusk Missing some commas and zeroes and wrong currency denomination. $doge",
+            "created_at": "Fri Jun 04 18:44:16 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

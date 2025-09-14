@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4901,
+            "username": "Alex",
+            "user_account": "MeatTownBaller",
+            "text": "Imagine if dogecoin gets to $5",
+            "created_at": "Fri May 07 22:33:47 +0000 2021",
+            "retweet": 0,
+            "likes": 2
+        },
+        {
+            "tweet_count": 3003,
+            "username": "Alex",
+            "user_account": "MeatTownBaller",
+            "text": "Sheetz is accepting dogecoin...",
+            "created_at": "Fri May 28 18:10:39 +0000 2021",
+            "retweet": 0,
+            "likes": 6,
+            "retweeted_tweet": null
+        }
+    ]
+}

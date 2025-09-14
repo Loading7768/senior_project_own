@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 552,
+            "username": "Brady",
+            "user_account": "TutoriaI",
+            "text": "Dogecoin has yet to decrease in value.",
+            "created_at": "Thu Dec 19 16:36:18 +0000 2013",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 622,
+            "username": "Brady",
+            "user_account": "TutoriaI",
+            "text": "The Dogecoin subreddit is raising money to send the Jamaican Bobsled team to the Winter Olympics. Ain't that neat.",
+            "created_at": "Mon Jan 20 19:54:14 +0000 2014",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1305,
+            "username": "Brady",
+            "user_account": "TutoriaI",
+            "text": "The Jamaican bobsled team is trash. But it's cool that they were funded by dogecoin.",
+            "created_at": "Tue Feb 18 07:24:11 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

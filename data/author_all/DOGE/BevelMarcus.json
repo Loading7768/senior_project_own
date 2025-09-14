@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 49968,
+            "username": "Marcus bevel",
+            "user_account": "BevelMarcus",
+            "text": "Go #dogecoin GO!!! WE BELIEVE IN YOU!!!!",
+            "created_at": "Tue May 04 10:14:36 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 28369,
+            "username": "Marcus bevel",
+            "user_account": "BevelMarcus",
+            "text": "Hold the line on #dogecoin #doge",
+            "created_at": "Tue May 11 09:03:52 +0000 2021",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

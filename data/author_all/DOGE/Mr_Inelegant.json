@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 3923,
+            "username": "Vince",
+            "user_account": "Mr_Inelegant",
+            "text": "@dogecoin_empire Happy Birthday!",
+            "created_at": "Tue Jun 03 10:01:43 +0000 2025",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4595,
+            "username": "Vince",
+            "user_account": "Mr_Inelegant",
+            "text": "@dogecoin_empire hello",
+            "created_at": "Sat Jun 07 00:12:53 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3933,
+            "username": "Vince",
+            "user_account": "Mr_Inelegant",
+            "text": "@dogecoin_empire I will now",
+            "created_at": "Mon Jul 21 15:00:10 +0000 2025",
+            "retweet": 1,
+            "likes": 36,
+            "retweeted_tweet": null
+        }
+    ]
+}

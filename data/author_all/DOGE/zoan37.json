@@ -1,0 +1,104 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1655,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "Doginal Bat, a 3D dogecoin inscription of a golden bat, is now available on Doggy Market! The 3D file (~1 MB .glb) is stored directly on the dogecoin blockchain, and it is designed to be used as a sword weapon in @Nifty_Island. 420 supply, 6.9 DOGE price. Much wow, doge to Mars! https://t.co/0UGF9bxHfp",
+            "created_at": "Mon Dec 02 19:37:54 +0000 2024",
+            "retweet": 6,
+            "likes": 41,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2983,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@SKAli8008 @Nifty_Island Hi, by hike do you mean price go up? Doginal Bat is meant to be a fun collectible, and it's probably the first 3D weapon collection on dogecoin (and maybe the 2nd 3D collection in general or at least an early one). Currently looking at supporting it in a custom virtual world as",
+            "created_at": "Tue Dec 03 15:34:44 +0000 2024",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2482,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@doge_stime Hmm, I think doggy market and wonky ord both display the .glb with modelviewer, idk if that supports Draco. (I minted my doginals locally with scripts + dogecoin node)",
+            "created_at": "Mon Mar 24 13:05:32 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2740,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@doge_stime I was able to inscribe 3D .glb on dogecoin with 0.064 doge/kB, I chose it to be 50% higher than the fee on Doggy Market just in case, although lower fee could work. \nhttps://t.co/s03hxFbafO\nhttps://t.co/5c1XwXPIEx https://t.co/vgxYFHgHk9",
+            "created_at": "Mon Mar 24 12:03:34 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 788,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@BuildrJ @DogeOS I think doginals is great for art, and can potentially be used to write merkle root data for dogecoin L2s",
+            "created_at": "Wed Mar 26 20:00:28 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 636,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@BuildrJ @MyDogeCEO @DogeOS Any idea how the bridge from dogecoin to L2 will be done, like a multisig or threshold signature?",
+            "created_at": "Mon Mar 31 19:47:12 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1709,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@DigitalRoninX @Heimdall_Bull I agree. I designed a dogecoin L2, and I realized there is a centralization risk with the bridge wallet (e.g. secured with multiparty computation with (t, n) threshold signatures). Since dogecoin doesn’t have smart contracts, you can’t implement fraud proofs with automatic",
+            "created_at": "Mon Apr 14 14:32:21 +0000 2025",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 495,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@BuildrJ @The_REDWRITER @DogeOS @BuildrJ I am interested in joining the DogeOS dev community! I don't have an idea yet, but I previously minted 3D doginal collections, and have designed a dogecoin L2 rollup.",
+            "created_at": "Wed Apr 16 19:59:16 +0000 2025",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1491,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@John_Inubook @GrokTheUniverse @The_REDWRITER See previous proposals for ZK proof upgrades in the same forum like this one: https://t.co/Cl8Yp0mVyF\nIt's clearly submitting a proposal but implementation is not guaranteed.",
+            "created_at": "Tue Jul 22 20:48:40 +0000 2025",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1815,
+            "username": "zoan",
+            "user_account": "zoan37",
+            "text": "@GrokTheUniverse @The_REDWRITER It’s here: https://t.co/o645GoXr5q",
+            "created_at": "Tue Jul 22 20:06:17 +0000 2025",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

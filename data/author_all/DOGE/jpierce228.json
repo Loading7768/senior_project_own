@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 9721,
+            "username": "John Pierce",
+            "user_account": "jpierce228",
+            "text": "@ItsDogeCoin Starting to feel like this is the endpoint for #dogecoin.",
+            "created_at": "Mon May 17 16:43:58 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1748,
+            "username": "John Pierce",
+            "user_account": "jpierce228",
+            "text": "Come on #dogecoin do something",
+            "created_at": "Sun Jun 13 20:22:44 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

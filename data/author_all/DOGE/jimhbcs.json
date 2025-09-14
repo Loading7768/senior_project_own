@@ -1,0 +1,23 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 12000,
+            "username": "Jim Harty",
+            "user_account": "jimhbcs",
+            "text": "@defNotChuck *DogeCoin",
+            "created_at": "Wed May 05 17:07:21 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        },
+        {
+            "tweet_count": 1085,
+            "username": "Jim Harty",
+            "user_account": "jimhbcs",
+            "text": "@dogeofficialceo Doge coin is risky",
+            "created_at": "Sat Aug 02 20:35:00 +0000 2025",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        }
+    ]
+}

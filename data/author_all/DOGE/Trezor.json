@@ -1,0 +1,52 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1229,
+            "username": "Trezor",
+            "user_account": "Trezor",
+            "text": "@langer_hans In order to get Trezor working with Dogecoin I would suggest to fork Electrum Litecoin or get in touch with encompass devs.",
+            "created_at": "Fri Jan 29 09:30:51 +0000 2016",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1251,
+            "username": "Trezor",
+            "user_account": "Trezor",
+            "text": "@BrianNyeko Litecoin is already supported. For Ether you need customized Trezor firmware and for Dogecoin, please get in touch their devs.",
+            "created_at": "Fri Jan 29 08:43:09 +0000 2016",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 89,
+            "username": "Trezor",
+            "user_account": "Trezor",
+            "text": "@KingOlympo1 @dogecoin Enjoy!",
+            "created_at": "Wed Nov 08 16:03:37 +0000 2017",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 92,
+            "username": "Trezor",
+            "user_account": "Trezor",
+            "text": "@KingOlympo1 @dogecoin Hi! Dogecoin is supported on TREZOR firmware but not natively in the wallet for several reasons. You would have to look for a third-party wallet with functional TREZOR integration.",
+            "created_at": "Wed Nov 08 15:57:36 +0000 2017",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6860,
+            "username": "Trezor",
+            "text": "@CormaOdeon Hi. \n1. Trezor One supports Holo and Dogecoin. Bittorent and Tron are not supported.\n2. The price includes the freight. \n3. To see the full list of supported coins, please take a look at this official list: https://t.co/CsyPMvU3aU",
+            "created_at": "Tue Apr 27 11:45:17 +0000 2021",
+            "retweet": 0,
+            "likes": 0
+        }
+    ]
+}

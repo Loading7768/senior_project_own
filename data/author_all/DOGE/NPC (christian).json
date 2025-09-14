@@ -1,0 +1,20 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 952,
+            "username": "NPC (christian)",
+            "text": "I was going to dogecoin too, but it threw build errors on my system. I tried compiling without berkely db but it still wouldnt work. But autogen and configure took similar lengths of time as bitcoind. Geth also uses signficantly less CPU than bitcoind, which maxxed my system out.",
+            "created_at": "Wed Aug 18 21:12:57 +0000 2021",
+            "retweet": 0,
+            "likes": 1
+        },
+        {
+            "tweet_count": 953,
+            "username": "NPC (christian)",
+            "text": "Who compiles faster? bitcoind, geth, or dogecoin-core? I decided to put it to the test by abusing my 2016 dell XPS 9550 (intel i7 quad, 6th gen), 16gb ram. As someone who only ever compiles node source on raspberry pis, the results were surprising👇 https://t.co/zG71kuKShd",
+            "created_at": "Wed Aug 18 21:12:56 +0000 2021",
+            "retweet": 0,
+            "likes": 2
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 6659,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk for the proof-of-concept, the crypto core classes in Dogecoin offer compatible “Write” interfaces to call the new “Intrinsic” objects.\n::Write(const unsigned char* data, size_t len);",
+            "created_at": "Tue May 25 17:52:12 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11538,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk I just submitted this feature request on GitHub.  What do you think?\n\nhttps://t.co/6P39j61waF",
+            "created_at": "Tue May 25 15:04:32 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 30112,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk \nAES-256 could be optimized too, let me know if you’re interested in any assistance with an integration.  \n\nhttps://t.co/EsZBbXJuDg",
+            "created_at": "Tue May 25 02:27:17 +0000 2021",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34913,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk\nConsider you could increase the throughput of SHA-1 and SHA-256/512 by updating the primitives to use Intel and ARM SHA intrinsics.",
+            "created_at": "Tue May 25 00:39:59 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5940,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk Interestingly, extensions for SHA aren’t generally available on newer Intel; looking at streaming and vector extension implementations.  Luckily, ARM extensions for SHA are universally available on v8.",
+            "created_at": "Wed May 26 16:31:42 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5105,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk my first proof-of-concept uses a single buffer Streaming SIMD Extensions (SSE) implementation; multi-buffer implementations will be highly optimized.",
+            "created_at": "Thu Jun 03 18:42:18 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 17324,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk\nJust shaved off over 13 seconds from the dogecoin test running on my laptop. \nhttps://t.co/V4hT6z0AZB",
+            "created_at": "Thu Jun 03 01:03:33 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1417,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk @JRossNicoll now optimizing scrypt in my proof-of-concept with a 64-bit Haswell version of Salsa20/8!",
+            "created_at": "Fri Jun 04 21:20:23 +0000 2021",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15225,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk proof-of-concept now executes in under a minute using Haswell New Instructions.\nhttps://t.co/V4hT6z0AZB",
+            "created_at": "Fri Jun 04 02:51:04 +0000 2021",
+            "retweet": 1,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 61,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@JRossNicoll @BillyM2k @elonmusk @dogecoin_devs Encryption could reduce some risk there; core could also add a digital copyright.",
+            "created_at": "Sat Jun 05 23:53:17 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3318,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@BillyM2k @elonmusk @dogecoin_devs @JRossNicoll it'd be really cool to add NFT generation to Dogecoin for signing much work; core could read any file, generate a token and hash it with the transaction.",
+            "created_at": "Sat Jun 05 20:07:15 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11036,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Should be able to encrypt roots-of-trust in blockchain for remote attestation of certificates and signed software on mobile devices and computers.",
+            "created_at": "Wed Jun 09 02:31:17 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 205,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Decentralized PKI in blockchain is cool too; it’s possible to use the same certificate standards as well as provide higher assurance than a traditional PKI in some use cases.",
+            "created_at": "Fri Jun 11 23:35:48 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5366,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs @elonmusk @JRossNicoll working more crypto optimizations to further improve transaction efficiency; should have more results in the next few days.",
+            "created_at": "Fri Jun 11 14:47:36 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11446,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon This is a software license use case, but tokens in blockchain could attest to the ownership and authenticity of practically any content. https://t.co/WUDlyrECyg",
+            "created_at": "Fri Jun 11 02:45:10 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2747,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Partially signed transactions are really awesome; lot’s of applications for signing and licensing of digital content under cooperative development.",
+            "created_at": "Sun Jun 13 18:34:04 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2857,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Chaotic nature of blockchain seems so obvious now; this is Ethereum. https://t.co/7w4TtmkxJN",
+            "created_at": "Fri Jun 18 17:34:23 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3556,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Some blocks are attractors the chain evolves towards.",
+            "created_at": "Fri Jun 18 16:19:33 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3825,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Holy shit. Blockchains are actually highly dynamical systems where blocks are fixed points.",
+            "created_at": "Fri Jun 18 15:53:30 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3110,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Five Monte Carlos of blockchain trajectory. https://t.co/EvHk2CbFKD",
+            "created_at": "Sat Jun 19 18:03:12 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3328,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon The trajectory of a blockchain is a function of ledger state transitions, which can be used to characterize transactions as a function of time. \nhttps://t.co/1J7gsEMtDq",
+            "created_at": "Sat Jun 19 17:37:21 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 980,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Device authentication from blockchain based on smart contacts; fully decentralized and remote attestation of device as well as assured distribution of unique and user-customizable content. https://t.co/GJ66TWlmoh",
+            "created_at": "Mon Jul 05 20:59:08 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4759,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Includes open certificate and algorithm standards for broad compatibility; unique content is fully customized and deployed on the device.",
+            "created_at": "Tue Jul 06 13:46:31 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3200,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@elonmusk @lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon Device registration, identification and verification of immutable roots-of-trust occurs based on digitally-signed blockchain transactions with content providers for a completely decentralized service.",
+            "created_at": "Sat Jul 17 18:05:00 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 94,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "Benchmarks!\nhttps://t.co/t2vGyelG81\n@dogecoin_devs @elonmusk",
+            "created_at": "Thu Nov 25 23:41:22 +0000 2021",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2310,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@BillyM2k @elonmusk @dogecoin_devs Thankful for this! ☝️",
+            "created_at": "Sun Nov 28 16:21:11 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 828,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@occupymars42069 @RichDevX @MoonlitMonkey69 @dogecoin_devs @michilumin @tjstebbing @inevitable360 @KBluezr @vladtenev Thanks!  Yes, it's available in the 1.14.6-dev branch and there's experimental builds for anyone try out.",
+            "created_at": "Mon Apr 18 18:48:55 +0000 2022",
+            "retweet": 2,
+            "likes": 10,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1721,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@TheDogeBird @tjstebbing Ok, here it is.. https://t.co/433daEctzx",
+            "created_at": "Thu Mar 28 18:01:56 +0000 2024",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1790,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@TheDogeBird @tjstebbing Cool idea. We can start a thread on https://t.co/LczPP8lkGF if you're interested.",
+            "created_at": "Thu Mar 28 17:49:05 +0000 2024",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3386,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@dogecoin_devs Check out our blog for more info on the release!\n\nhttps://t.co/qFALzgXlnq",
+            "created_at": "Fri Apr 11 04:24:10 +0000 2025",
+            "retweet": 5,
+            "likes": 16,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3439,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "Libdogecoin 0.1.4 is released!\n\nhttps://t.co/qFALzgXlnq",
+            "created_at": "Fri Apr 11 04:06:14 +0000 2025",
+            "retweet": 6,
+            "likes": 27,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1096,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "@DogeRetweet @DevlinDeFran @dogecoin @houseofdoge @DogecoinFdn Thanks!",
+            "created_at": "Wed May 28 18:51:57 +0000 2025",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1104,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "From last Saturday’s meet and greet in Indy. Thank you Dev for meeting us!\n\n@DevlinDeFran @dogecoin @houseofdoge @DogecoinFdn https://t.co/RiJ3qnpiQT",
+            "created_at": "Wed May 28 18:50:47 +0000 2025",
+            "retweet": 7,
+            "likes": 55,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1789,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "Drivers, start your engines!\nA fearless shibe’s at the wheel! \n🏎️💨💨💨🏁\n\n@DevlinDeFran @dogecoin @houseofdoge @DogecoinFdn https://t.co/AX1JyHNSRp",
+            "created_at": "Wed May 28 16:08:49 +0000 2025",
+            "retweet": 5,
+            "likes": 54,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1085,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "In April we released libdogecoin v0.1.4 adding secure enclaves (TEEs) for key management and signatures.\n\nDogecoin is one of the first cryptos to integrate TEE support!\n\nCheck out our blog for more:\nhttps://t.co/qFz8nf6imQ",
+            "created_at": "Sun Jun 01 17:59:51 +0000 2025",
+            "retweet": 11,
+            "likes": 38,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2792,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "Come hack on Libdogecoin at Dogeathon 2025! Plus a surprise demo of a new Dogecoin Core feature.\n\nSee you in Ericeira, July 22-24!",
+            "created_at": "Wed Jul 09 18:18:38 +0000 2025",
+            "retweet": 9,
+            "likes": 35,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3243,
+            "username": "Ed Tubbs",
+            "user_account": "EdTubbs",
+            "text": "Screenshots from the seedphrase support demo!\n\nhttps://t.co/pMSDzXWoHs https://t.co/5PxdCjqZIc",
+            "created_at": "Tue Jul 22 16:52:21 +0000 2025",
+            "retweet": 2,
+            "likes": 4,
+            "retweeted_tweet": null
+        }
+    ]
+}

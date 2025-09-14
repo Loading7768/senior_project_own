@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 5049,
+            "username": "T Delhagen",
+            "user_account": "DelhagenT",
+            "text": "@coinbase @dogecoin Going nowhere 👽",
+            "created_at": "Mon Jun 07 15:46:19 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4133,
+            "username": "T Delhagen",
+            "user_account": "DelhagenT",
+            "text": "@dogecoin @elonmusk are we taking this to mars ?",
+            "created_at": "Sat Jan 25 11:18:12 +0000 2025",
+            "retweet": 0,
+            "likes": 10,
+            "retweeted_tweet": null
+        }
+    ]
+}

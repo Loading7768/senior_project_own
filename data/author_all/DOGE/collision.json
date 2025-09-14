@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 48,
+            "username": "John Collison",
+            "user_account": "collision",
+            "text": "I bet @cperciva is secretly buying up all the Dogecoin to incentivize scrypt analysis.",
+            "created_at": "Thu Jan 02 22:48:14 +0000 2014",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 835,
+            "username": "John Collison",
+            "user_account": "collision",
+            "text": "@stripe when are you coming to dogecoin",
+            "created_at": "Thu Mar 27 16:37:24 +0000 2014",
+            "retweet": 2,
+            "likes": 10,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1611,
+            "username": "John Collison",
+            "user_account": "collision",
+            "text": "Stripe is hiring a Chief Dogecoin Officer: https://t.co/ZPL6yhBhoX",
+            "created_at": "Fri Mar 28 00:15:05 +0000 2014",
+            "retweet": 55,
+            "likes": 75,
+            "retweeted_tweet": null
+        }
+    ]
+}

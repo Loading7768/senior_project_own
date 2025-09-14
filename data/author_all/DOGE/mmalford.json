@@ -1,0 +1,84 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1538,
+            "username": "Matt Alford",
+            "user_account": "mmalford",
+            "text": "created a packer file to build a cudaminer ami next to create cfn template to launch spot instances to mine dogecoin",
+            "created_at": "Tue Jan 21 02:24:22 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 73,
+            "username": "Matt Alford",
+            "user_account": "mmalford",
+            "text": "cloudformation stacks now launched in 3 regions - 8 availability zones ready to launch doge coin miners whenever the spot market drops",
+            "created_at": "Sat Jan 25 21:58:29 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 39,
+            "username": "Matt Alford",
+            "user_account": "mmalford",
+            "text": "Another doge! #dogecoin #dogeparty @ Bitcoin Center NYC http://t.co/2Et3Qi63VF",
+            "created_at": "Fri Feb 07 23:42:38 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 57,
+            "username": "Matt Alford",
+            "user_account": "mmalford",
+            "text": "Another dogecoin meetup doge @ Bitcoin Center NYC http://t.co/Td38nLrLut",
+            "created_at": "Fri Feb 07 23:29:04 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 85,
+            "username": "Matt Alford",
+            "user_account": "mmalford",
+            "text": "nyc dogecoin meetup. @ Bitcoin Center NYC http://t.co/rP4fIHb4Qu",
+            "created_at": "Fri Feb 07 23:23:55 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1803,
+            "username": "Matt Alford",
+            "user_account": "mmalford",
+            "text": "@awscloud gave me a valentines day gift of matching my spot price in us east! #dogecoin",
+            "created_at": "Sat Feb 15 00:13:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 623,
+            "username": "Matt Alford",
+            "user_account": "mmalford",
+            "text": "I have workers submitting to my node because it is on this list!\nhttp://t.co/dGH0FIwjNx\nmany worker\nso submit\nmuch wow\nvery #dogecoin",
+            "created_at": "Tue Feb 25 16:42:39 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2406,
+            "username": "Matt Alford",
+            "user_account": "mmalford",
+            "text": "just realized my #aws bill for April is going to be $1500. :(   I think my days of mining #dogecoin in aws is over.",
+            "created_at": "Thu May 01 01:22:03 +0000 2014",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

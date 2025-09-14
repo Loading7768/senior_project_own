@@ -1,0 +1,44 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 134,
+            "username": "offshore cypherpunk",
+            "user_account": "bitcoinmars",
+            "text": "@rjwile Hey! Would you be mad or charge me billions in bitcoins if I translated your article in french for my site? http://t.co/JwwXcmumLg",
+            "created_at": "Tue Feb 04 22:51:14 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 995,
+            "username": "offshore cypherpunk",
+            "user_account": "bitcoinmars",
+            "text": "@bitcoinmars \"of version 0.8.2 support for IRC bootstrapping has been removed completely\" https://t.co/WB8wGDQDTv Dogecoin still uses IRC...",
+            "created_at": "Wed Feb 19 13:24:20 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1007,
+            "username": "offshore cypherpunk",
+            "user_account": "bitcoinmars",
+            "text": "@bitcoinmars I guess it's more \"new wallets\" cause IRCSeed bootstrapping happens only the first time? #Bitcoin #Dogecoin",
+            "created_at": "Wed Feb 19 13:08:15 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1038,
+            "username": "offshore cypherpunk",
+            "user_account": "bitcoinmars",
+            "text": "Wow much users! 1 out of 4 connected bitcoin-qt like wallets are #Dogecoin wallets. Or am I getting this wrong? http://t.co/OwTCe9aNTT",
+            "created_at": "Wed Feb 19 12:50:10 +0000 2014",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

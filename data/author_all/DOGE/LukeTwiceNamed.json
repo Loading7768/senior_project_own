@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 66,
+            "username": "Luke",
+            "user_account": "LukeTwiceNamed",
+            "text": "#dogecoin still storming. The power of the media never ceases to amaze me",
+            "created_at": "Tue Jan 21 22:50:42 +0000 2014",
+            "retweet": 3,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 675,
+            "username": "Luke",
+            "user_account": "LukeTwiceNamed",
+            "text": ".@dogecoin, why did you have to switch to CIDR?!",
+            "created_at": "Fri Oct 17 16:50:44 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

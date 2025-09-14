@@ -1,0 +1,33 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 4958,
+            "username": "Ben",
+            "user_account": "BenjaminDierker",
+            "text": "Dogecoin is America’s currency",
+            "created_at": "Sun May 02 16:03:22 +0000 2021",
+            "retweet": 0,
+            "likes": 3
+        },
+        {
+            "tweet_count": 3086,
+            "username": "Ben",
+            "user_account": "BenjaminDierker",
+            "text": "Another mans dump is another mans pump get this Dogecoin rolling",
+            "created_at": "Thu May 13 23:17:33 +0000 2021",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10975,
+            "username": "Ben",
+            "user_account": "BenjaminDierker",
+            "text": "@elonmusk @dogecoin_devs Invest all your money in doge",
+            "created_at": "Mon May 24 19:53:02 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

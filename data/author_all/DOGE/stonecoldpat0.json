@@ -1,0 +1,64 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 298,
+            "username": "Patrick McCorry 🐋",
+            "user_account": "stonecoldpat0",
+            "text": "First part of talk - how truebit enables transferring coins from doge to eth. What does our smart contract need to do? We need to provide a merkle proof that the coins are locked in doge coin. This means we need to maintain list of doge headers in ethereum!",
+            "created_at": "Sat Mar 10 11:13:24 +0000 2018",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 250,
+            "username": "Patrick McCorry 🐋",
+            "user_account": "stonecoldpat0",
+            "text": "So he proposes there are crosses to exchange doge for WOW. \n\nSlide is informative. Thing is to mint the wow token and securely. You need some way to ensure doge coin can be returned. No new op code required, based on incentive. https://t.co/O4bfMM2t0k",
+            "created_at": "Sun Jul 01 08:09:24 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 258,
+            "username": "Patrick McCorry 🐋",
+            "user_account": "stonecoldpat0",
+            "text": "Biggest challenge is to get doge coin to add a new “locked” doge coin. \n\nThere is a bit of history between doge and ethereum https://t.co/0LtPMIzwN4",
+            "created_at": "Sun Jul 01 07:50:06 +0000 2018",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 260,
+            "username": "Patrick McCorry 🐋",
+            "user_account": "stonecoldpat0",
+            "text": "There are theee challenges. Effiency of the relay; you want to check individual transactions coming across and the proof of work of dogecoin (too hard to do in a smart contract). Maintain a 1-1 ratio of doge to minted WoW https://t.co/dwSRngm2ml",
+            "created_at": "Sun Jul 01 07:48:20 +0000 2018",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 173,
+            "username": "Patrick McCorry 🐋",
+            "user_account": "stonecoldpat0",
+            "text": "I asked @JasonTeutsch a few questions about true bit during off the chain. \n\n https://t.co/v8A06zJopp",
+            "created_at": "Sat Dec 29 04:12:17 +0000 2018",
+            "retweet": 4,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9096,
+            "username": "Patrick McCorry 🐋",
+            "user_account": "stonecoldpat0",
+            "text": "…will dogecoin become a proxy for upside of twitter?",
+            "created_at": "Mon Apr 25 13:34:38 +0000 2022",
+            "retweet": 0,
+            "likes": 5,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 6404,
+            "username": "Bitcoin Solutions",
+            "user_account": "BTCSolutionsTX",
+            "text": "@StevenTheHodler @Dieter75 @aoeui21 Bitcoin and Litecoin uses different mining algos, Bitcoin uses SHA256, and Litecoin Scrypt mining. Dogecoin is merged-mined with Litecoin therefore Bitcoin ASICS which can only do SHA256 cannot be used to mine Dogecoin.",
+            "created_at": "Sun May 16 20:33:13 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10696,
+            "username": "Bitcoin Solutions",
+            "user_account": "BTCSolutionsTX",
+            "text": "Breaking: Elon Musk wants to transform Dogecoin into Paypal of crypto, you will soon be able to get your money back (aka. double spend).",
+            "created_at": "Sun May 16 18:46:28 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15990,
+            "username": "Bitcoin Solutions",
+            "user_account": "BTCSolutionsTX",
+            "text": "@DanDarkPill If Dogecoin speeds up block time 10x that would mean that the inflation of Dogecoin would increase by 10x. If it also increases the block size 10x than we have 10mb blocks every 6 seconds, that's 3.816×10¹³ bytes per year. I'm sure eveyone will be able to afford a full node!",
+            "created_at": "Sun May 16 15:48:11 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

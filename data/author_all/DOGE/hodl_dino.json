@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 21786,
+            "username": "Hodl Dino 🦖 /acc",
+            "user_account": "hodl_dino",
+            "text": "@DevavratDR @poppeyrs @trungduca8hn @scottmelker If it is faster it's probably less decentralized. If it's faster it probably has big blocks, which makes it heavier and harder to run, contributing to network centralization.\n\nDogecoin has a problem, it depends on Elon Musk. That's a bug, not a feature.",
+            "created_at": "Mon May 17 11:38:55 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21822,
+            "username": "Hodl Dino 🦖 /acc",
+            "user_account": "hodl_dino",
+            "text": "@DevavratDR @poppeyrs @trungduca8hn @scottmelker Miners don't secure the network. Nodes do. Miners propose blocks, Nodes accept them or reject them.\n\nSo even if out of nowhere the hash rate of Dogecoin would increase, you'd still be lacking a huge network of Nodes that validate those blocks and secure the blockchain.",
+            "created_at": "Mon May 17 11:36:46 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

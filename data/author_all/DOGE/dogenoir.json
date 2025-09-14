@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 45,
+            "username": "doge noir",
+            "user_account": "dogenoir",
+            "text": "#dogenoir on t'aime #dogecoin",
+            "created_at": "Tue Mar 11 23:14:36 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "doge noir",
+            "user_account": "dogenoir",
+            "text": "# Dogecoin est amour",
+            "created_at": "Tue Apr 15 23:19:39 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 534,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "Dogecoin now on ypool! such coin",
+            "created_at": "Mon Dec 16 00:54:02 +0000 2013",
+            "retweet": 4,
+            "likes": 5,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 245,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "We are currently updating to Dogecoin 1.5.1 and we recommend everyone to do the same. As always, all mined dogecoin on ypool are safe.",
+            "created_at": "Mon Feb 17 21:09:09 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 246,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "The Dogecoin network is currently forked. We recommend to not send any coins while the issue persists.",
+            "created_at": "Mon Feb 17 21:07:55 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1928,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "Dogecoin wallet software 1.5.2 has been released. If you have a local wallet please update as fast as possible http://t.co/buuvXfTwzJ",
+            "created_at": "Tue Feb 18 00:13:41 +0000 2014",
+            "retweet": 4,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1932,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "Dogecoin payouts are currently disabled until the network issues have been resolved.",
+            "created_at": "Tue Feb 18 00:10:56 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 914,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "Dogecoin wallet 1.6 was released. It's heavily recommended to update.",
+            "created_at": "Fri Mar 14 04:48:10 +0000 2014",
+            "retweet": 3,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 780,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "We now have experimental Stratum support for Dogecoin and MaxCoin. Connection details: stratum+tcp://ypool.net:9090",
+            "created_at": "Thu Mar 20 12:34:48 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 290,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "On Monday we are starting our \"Shibe Days\". We will be giving out over 25.000.000 Dogecoin mining bonus! Much reward. http://t.co/gTjZes4ief",
+            "created_at": "Sat Mar 29 19:32:56 +0000 2014",
+            "retweet": 3,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 75,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "Dogecoin hashrate went up to 300mHash/s from originally 10-20. Such increase",
+            "created_at": "Mon Mar 31 22:21:16 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 318,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "Less than two hours left until the Dogecoin event starts! Every block that is found for the pool will bring up to twice the amount of coins.",
+            "created_at": "Mon Mar 31 19:10:58 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1092,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "We have updated the News page with some info on the upcoming Dogecoin event.",
+            "created_at": "Mon Mar 31 09:10:36 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 969,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "Finally some #Dogecoin blocks are rolling in. Much reward!",
+            "created_at": "Tue Apr 01 10:53:10 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1320,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "#dogecoin hashrate on our pool is nearing 1GH/s!",
+            "created_at": "Tue Apr 01 03:59:38 +0000 2014",
+            "retweet": 2,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 1104,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "So far we gave away 5.000.000 Dogecoin. The pool is still a bit slow and we need more hashrate, spread the news if you want to help!",
+            "created_at": "Wed Apr 02 03:20:18 +0000 2014",
+            "retweet": 6,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 769,
+            "username": "ypool.net",
+            "user_account": "ypool_net",
+            "text": "We just updated the pool. Changes: Dogecoin now uses PPS (instant payouts), decreased payout limits for NRS and PTS, Metiscoin mining fixed",
+            "created_at": "Thu Jul 10 15:53:56 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

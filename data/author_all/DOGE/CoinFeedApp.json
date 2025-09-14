@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 357,
+            "username": "CoinFeed",
+            "user_account": "CoinFeedApp",
+            "text": "CoinFeed is the first iOS app to support @Dogecoin — Wow. http://t.co/fMYvi5ilDD http://t.co/euyseMNyhA",
+            "created_at": "Thu Jan 02 14:48:32 +0000 2014",
+            "retweet": 4,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 188,
+            "username": "CoinFeed",
+            "user_account": "CoinFeedApp",
+            "text": "DOGE/USD (VirCurEx) is up! cc @dogecoin",
+            "created_at": "Thu Jan 16 15:56:34 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 211,
+            "username": "CoinFeed",
+            "user_account": "CoinFeedApp",
+            "text": "CoinFeed is on Reddit right now: http://t.co/fOSm4ciYeS",
+            "created_at": "Thu Jan 23 19:40:06 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        }
+    ]
+}

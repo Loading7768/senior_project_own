@@ -1,0 +1,24 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 128,
+            "username": "Wen-Hao Lue",
+            "user_account": "wlue",
+            "text": "Blue screened my desktop digging for dogecoin.",
+            "created_at": "Sun Dec 29 19:47:12 +0000 2013",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 311,
+            "username": "Wen-Hao Lue",
+            "user_account": "wlue",
+            "text": "Just realized the cause of my recent low disk space warnings is actually the dogecoin block chain taking up 1.4 GB...",
+            "created_at": "Thu Jan 09 05:05:52 +0000 2014",
+            "retweet": 1,
+            "likes": 3,
+            "retweeted_tweet": null
+        }
+    ]
+}
