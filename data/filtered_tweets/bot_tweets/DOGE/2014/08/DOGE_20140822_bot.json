@@ -1,0 +1,834 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/itUM3uSYqu #bitcoin",
+            "created_at": "Fri Aug 22 23:05:32 +0000 2014",
+            "retweet": 3,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7876 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:25 BTER:24 Vircurex:25 Cryptsy:24 ), Coinbase BTC:$518",
+            "created_at": "Fri Aug 22 23:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "John",
+            "user_account": "CarlsonsRaiders",
+            "text": "Wait, there was a Twitter fight with a Dogecoin account and I missed it? Damn.",
+            "created_at": "Fri Aug 22 22:24:06 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/XsNTmG8RRN #bitcoin",
+            "created_at": "Fri Aug 22 22:05:30 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7603 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:25 BTER:24 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$531",
+            "created_at": "Fri Aug 22 22:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/BI8x0754DA #bitcoin",
+            "created_at": "Fri Aug 22 21:05:32 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7603 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:24 BTER:25 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$531",
+            "created_at": "Fri Aug 22 21:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/VUBOxeWgmr #bitcoin",
+            "created_at": "Fri Aug 22 20:05:30 +0000 2014",
+            "retweet": 4,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7884 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:24 BTER:25 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$513",
+            "created_at": "Fri Aug 22 20:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/zVwWTHj84c #bitcoin",
+            "created_at": "Fri Aug 22 19:05:33 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7966 #dogecoin, 1 #DOGE = $0.0001 or 24 satoshi ( Coin-E:24 BTER:24 Vircurex:25 Cryptsy:24 ), Coinbase BTC:$518",
+            "created_at": "Fri Aug 22 19:02:50 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 12,
+            "username": "BitcoinAgile",
+            "user_account": "bitcoinagile",
+            "text": "How Burning Man's #Camp #bitcoin Became #Camp #Dogecoin http://t.co/imPrkUxwcf",
+            "created_at": "Fri Aug 22 18:57:43 +0000 2014",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "Cryptiv",
+            "user_account": "Cryptiv",
+            "text": "How Burning Man's Camp #Bitcoin Became Camp #Dogecoin http://t.co/k8sh1E66Kq via @coindesk",
+            "created_at": "Fri Aug 22 18:08:34 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 14,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/NJNHKToqI8 #bitcoin",
+            "created_at": "Fri Aug 22 18:05:26 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7872 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:24 BTER:24 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$519",
+            "created_at": "Fri Aug 22 18:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 16,
+            "username": "Bitcoin News",
+            "user_account": "News_Bitcoin",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin: Black Rock City excludes buying and selling by d... http://t.co/6BaXuZ3hws #bitcoin",
+            "created_at": "Fri Aug 22 17:51:03 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 17,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/YceTH99TR3",
+            "created_at": "Fri Aug 22 17:09:33 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 18,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/d1DdH03kv1 #bitcoin",
+            "created_at": "Fri Aug 22 17:05:32 +0000 2014",
+            "retweet": 3,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "Bitcoin News",
+            "user_account": "BitHalving",
+            "text": "Start accepting #Bitcoin, Litecoin and Dogecoin Payments today! http://t.co/227HdrPJxz",
+            "created_at": "Fri Aug 22 17:02:24 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 20,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7809 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:24 BTER:24 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$523",
+            "created_at": "Fri Aug 22 17:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/SwZZE65mFH #bitcoin",
+            "created_at": "Fri Aug 22 16:05:33 +0000 2014",
+            "retweet": 3,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7803 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:25 BTER:24 Vircurex:25 Cryptsy:24 ), Coinbase BTC:$523",
+            "created_at": "Fri Aug 22 16:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "Bitcoin",
+            "user_account": "BitcoinFanClub",
+            "text": "How Burning Man’s Camp Bitcoin Became Camp Dogecoin #Bitcoin http://t.co/OHfpT1s2sS\n\n#bitcoins #dogecoin #btc #cryptocoin #news #uk #london",
+            "created_at": "Fri Aug 22 15:24:13 +0000 2014",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 24,
+            "username": "Bitcoin News",
+            "user_account": "scryptsy",
+            "text": "How #Burning #Man’s #Camp #Bitcoin Became Camp #Dogecoin | #Fixed Bitcoin #Cloud #Mining - #Scryptsy https://t.co/KCTGbMukpz",
+            "created_at": "Fri Aug 22 15:19:28 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/sxl7cb9tRf #bitcoin",
+            "created_at": "Fri Aug 22 15:05:28 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 26,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7849 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:25 BTER:24 Vircurex:25 Cryptsy:24 ), Coinbase BTC:$520",
+            "created_at": "Fri Aug 22 15:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/yRE5vBrqOI",
+            "created_at": "Fri Aug 22 14:15:17 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 28,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/TWFO89zj97 #bitcoin",
+            "created_at": "Fri Aug 22 14:05:44 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 29,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7872 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:25 BTER:24 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$513",
+            "created_at": "Fri Aug 22 14:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 30,
+            "username": "Limitless - VIP™",
+            "user_account": "LimitlessVIP_",
+            "text": "Buy or sell #Tittiecoin with #Dogecoin https://t.co/eZOneR42Il",
+            "created_at": "Fri Aug 22 13:33:51 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 31,
+            "username": "PHP Depot",
+            "user_account": "PHP_Depot",
+            "text": "Dogecoin Tools #php #script http://t.co/VqWqXRyhrs",
+            "created_at": "Fri Aug 22 12:57:55 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 32,
+            "username": "BitcoinAgile",
+            "user_account": "bitcoinagile",
+            "text": "How Burning Man's #Camp #bitcoin Became #Camp #Dogecoin - #CoinDesk http://t.co/9RvzK8Qjsg http://t.co/Y7JdLnAvkl",
+            "created_at": "Fri Aug 22 12:54:30 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 33,
+            "username": "GoodShibe",
+            "user_account": "GoodShibe",
+            "text": "Of Wolves and Weasels - Day 226 - With your help: Building a better Contest! is #Live on #Reddit! http://t.co/giLiAdvKft #Dogecoin #Doge",
+            "created_at": "Fri Aug 22 12:49:11 +0000 2014",
+            "retweet": 3,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "Bitcoin",
+            "user_account": "bitcoinhamilton",
+            "text": "How Burning Man’s Camp Bitcoin Became Camp Dogecoin - Out in the Nevada desert, Burning Man's bitcoin-themed c... http://t.co/TlKO9w2Y42",
+            "created_at": "Fri Aug 22 12:07:32 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 35,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/RmsFeIw6Bb #bitcoin",
+            "created_at": "Fri Aug 22 12:05:33 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 36,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7729 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:26 BTER:25 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$512",
+            "created_at": "Fri Aug 22 12:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 37,
+            "username": "Bitcoin Future",
+            "user_account": "BitCommodity",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/WgfdsH6vKF",
+            "created_at": "Fri Aug 22 12:01:41 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 38,
+            "username": "Crypto",
+            "user_account": "CryptoUsers",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/kGkeYC3t5V",
+            "created_at": "Fri Aug 22 12:01:41 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 39,
+            "username": "BitcoinAgile",
+            "user_account": "bitcoinagile",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin http://t.co/vfke9aCgXt #bitcoin #Dogecoin http://t.co/qPUHBWXvLJ",
+            "created_at": "Fri Aug 22 12:01:02 +0000 2014",
+            "retweet": 4,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 40,
+            "username": "Bitcoin News",
+            "user_account": "News_Bitcoin",
+            "text": "How Burning Man’s Camp Bitcoin Became Camp Dogecoin: Black Rock City excludes buying and selling by d... http://t.co/9075EqrzOD #bitcoin",
+            "created_at": "Fri Aug 22 11:39:29 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 41,
+            "username": "Bitcoin News",
+            "user_account": "BTCNewsletter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/PIOYcXb47O",
+            "created_at": "Fri Aug 22 11:21:40 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 42,
+            "username": "Bitcoin News",
+            "user_account": "BitcoinNews247",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin http://t.co/Zr005yxsUV #bitcoin #news",
+            "created_at": "Fri Aug 22 11:18:22 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "Bitcoin News",
+            "user_account": "BitcoinNews24",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/ZQJCvhbQCi",
+            "created_at": "Fri Aug 22 11:16:31 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 44,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin - CoinDesk http://t.co/VksPXPXzQH #bitcoin",
+            "created_at": "Fri Aug 22 11:05:29 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 45,
+            "username": "Bitcoin News",
+            "user_account": "BitcoinNews24",
+            "text": "How Burning Man’s Camp Bitcoin Became Camp Dogecoin http://t.co/ZQJCvhbQCi #Dogecoin #Lifestyle #News #BurningMan",
+            "created_at": "Fri Aug 22 11:03:42 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7845 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:26 BTER:24 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$510",
+            "created_at": "Fri Aug 22 11:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 47,
+            "username": "Bitcoin News",
+            "user_account": "BitHalving",
+            "text": "How Burning Man’s Camp Bitcoin Became Camp Dogecoin http://t.co/1iSDENHPEr #bitcoin",
+            "created_at": "Fri Aug 22 10:51:57 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 48,
+            "username": "Bitcoin News",
+            "user_account": "News_Bitcoin",
+            "text": "How Burning Man’s Camp Bitcoin Became Camp Dogecoin: Black Rock City excludes buying and selling by d... http://t.co/MehXp8HBGF #bitcoin",
+            "created_at": "Fri Aug 22 10:51:08 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 49,
+            "username": "BitcoinAgile",
+            "user_account": "bitcoinagile",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin http://t.co/vfke9aCgXt #bitcoin http://t.co/naBMKCYF5A",
+            "created_at": "Fri Aug 22 10:50:08 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 50,
+            "username": "Bitcoin",
+            "user_account": "bitcoinpoet",
+            "text": "How Burning Man’s Camp Bitcoin Became Camp Dogecoin: \nBlack Rock City excludes buying and selling by definitio... http://t.co/365ex1qNhr",
+            "created_at": "Fri Aug 22 10:46:43 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 51,
+            "username": "BitcoinAgile",
+            "user_account": "bitcoinagile",
+            "text": "How Burning Man's Camp Bitcoin Became Camp Dogecoin http://t.co/vfke9aCgXt #bitcoin #Dogecoin http://t.co/MkRytaPJvy",
+            "created_at": "Fri Aug 22 10:46:38 +0000 2014",
+            "retweet": 4,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 52,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7651 #dogecoin, 1 #DOGE = $0.0001 or 26 satoshi ( Coin-E:27 BTER:26 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$508",
+            "created_at": "Fri Aug 22 10:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 53,
+            "username": "Limitless - VIP™",
+            "user_account": "LimitlessVIP_",
+            "text": "Buy or sell #Tittiecoin with #Dogecoin https://t.co/eZOneR42Il",
+            "created_at": "Fri Aug 22 09:13:42 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 54,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/2aoXCPj5Au #bitcoin",
+            "created_at": "Fri Aug 22 09:05:33 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 55,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7737 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:27 BTER:25 Vircurex:25 Cryptsy:24 ), Coinbase BTC:$512",
+            "created_at": "Fri Aug 22 09:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 56,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/4dxHe4viI4 #bitcoin",
+            "created_at": "Fri Aug 22 08:05:31 +0000 2014",
+            "retweet": 2,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 57,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7826 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:27 BTER:24 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$506",
+            "created_at": "Fri Aug 22 08:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 58,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/uTIBxszFLD #bitcoin",
+            "created_at": "Fri Aug 22 07:05:31 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 59,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7796 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:27 BTER:25 Vircurex:24 Cryptsy:25 ), Coinbase BTC:$508",
+            "created_at": "Fri Aug 22 07:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 60,
+            "username": "Limitless - VIP™",
+            "user_account": "LimitlessVIP_",
+            "text": "Buy or sell #Tittiecoin with #Dogecoin https://t.co/eZOneR42Il",
+            "created_at": "Fri Aug 22 07:00:57 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 61,
+            "username": "InterMedia Web",
+            "user_account": "InterMedia_Web",
+            "text": "Crypto eConomics Bitcoin,Litecoin,Dogecoin |.....\nhttp://t.co/zy64JaR8Y1 Stories via @cuttlefish_btc",
+            "created_at": "Fri Aug 22 06:27:35 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 62,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/iRKTTNcnX8 #bitcoin",
+            "created_at": "Fri Aug 22 06:05:30 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 63,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=8098 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:27 BTER:23 Vircurex:24 Cryptsy:24 ), Coinbase BTC:$504",
+            "created_at": "Fri Aug 22 06:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 64,
+            "username": "Limitless - VIP™",
+            "user_account": "LimitlessVIP_",
+            "text": "Buy or sell #Tittiecoin with #Dogecoin https://t.co/eZOneR42Il",
+            "created_at": "Fri Aug 22 05:44:36 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 65,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/Kg08XZxZZ2",
+            "created_at": "Fri Aug 22 05:14:30 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 66,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/T55XQKyeRv",
+            "created_at": "Fri Aug 22 05:14:12 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 67,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/KA1qgDKXs5 #bitcoin",
+            "created_at": "Fri Aug 22 05:05:30 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 68,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7833 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:27 BTER:24 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$506",
+            "created_at": "Fri Aug 22 05:02:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 69,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/YMTxjSMNbw #bitcoin",
+            "created_at": "Fri Aug 22 04:05:31 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 70,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7807 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:27 BTER:24 Vircurex:25 Cryptsy:24 ), Coinbase BTC:$512",
+            "created_at": "Fri Aug 22 04:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 71,
+            "username": "dogeticker",
+            "user_account": "dogeticker",
+            "text": "The average price of Dogecoin across all exchanges is 0.000126 USD",
+            "created_at": "Fri Aug 22 04:00:19 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 72,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/lnChXU26kU #bitcoin",
+            "created_at": "Fri Aug 22 03:05:30 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 73,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7782 #dogecoin, 1 #DOGE = $0.0001 or 25 satoshi ( Coin-E:26 BTER:24 Vircurex:25 Cryptsy:25 ), Coinbase BTC:$514",
+            "created_at": "Fri Aug 22 03:02:11 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 74,
+            "username": "Frank",
+            "user_account": "OnyxOblivion",
+            "text": "@LordServbot @GSAR_Sho TWENTY DOLLARS IN DOGECOIN",
+            "created_at": "Fri Aug 22 03:00:24 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 75,
+            "username": "Limitless - VIP™",
+            "user_account": "LimitlessVIP_",
+            "text": "Buy or sell #Tittiecoin with #Dogecoin https://t.co/YGFS0ntakb",
+            "created_at": "Fri Aug 22 02:49:21 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 76,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/iTvbDOyNvC #bitcoin",
+            "created_at": "Fri Aug 22 02:05:33 +0000 2014",
+            "retweet": 4,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 77,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7482 #dogecoin, 1 #DOGE = $0.0001 or 26 satoshi ( Coin-E:26 BTER:26 Vircurex:26 Cryptsy:26 ), Coinbase BTC:$514",
+            "created_at": "Fri Aug 22 02:02:11 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 78,
+            "username": "dogeticker",
+            "user_account": "dogeticker",
+            "text": "The average price of Dogecoin across all exchanges is 0.000128 USD",
+            "created_at": "Fri Aug 22 02:00:22 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 79,
+            "username": "Bitcoin News",
+            "user_account": "BTCNewsletter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/wZH5rYjwsl",
+            "created_at": "Fri Aug 22 01:08:27 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 80,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "ATM accepting three major cryptocurrencies Bitcoin, Dogecoin and Litecoin ... - ABC Online http://t.co/PRGxfdOe0X #bitcoin",
+            "created_at": "Fri Aug 22 01:05:31 +0000 2014",
+            "retweet": 4,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 81,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7402 #dogecoin, 1 #DOGE = $0.0001 or 26 satoshi ( Coin-E:26 BTER:26 Vircurex:26 Cryptsy:26 ), Coinbase BTC:$520",
+            "created_at": "Fri Aug 22 01:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 82,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/RGOF6averd",
+            "created_at": "Fri Aug 22 00:15:50 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 83,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=7456 #dogecoin, 1 #DOGE = $0.0001 or 26 satoshi ( Coin-E:26 BTER:26 Vircurex:26 Cryptsy:25 ), Coinbase BTC:$521",
+            "created_at": "Fri Aug 22 00:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

@@ -1,0 +1,634 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "Matt Brown",
+            "user_account": "DrMattBrown",
+            "text": "@FrankoCurrency @CassavaChicago yeah. Now we just gotta make it sell $FRK $RZR $BC $NAUT $DOGE $VTC $PC ..............",
+            "created_at": "Sat Jul 26 23:06:55 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/ZEgjKTN5ma #bitcoin",
+            "created_at": "Sat Jul 26 23:05:24 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4786 #dogecoin, 1 #DOGE = $0.0002 or 35 satoshi ( Coin-E:35 BTER:35 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$597",
+            "created_at": "Sat Jul 26 23:02:14 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "G. Ezondje",
+            "user_account": "dieetervaringen",
+            "text": "Vergeet #Bitcoin. #Dogecoin is topper: http://t.co/l5hYJ19slf",
+            "created_at": "Sat Jul 26 22:46:03 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/xehx6kruNi",
+            "created_at": "Sat Jul 26 22:08:07 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/k31nlq9BCs #bitcoin",
+            "created_at": "Sat Jul 26 22:05:24 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4785 #dogecoin, 1 #DOGE = $0.0002 or 35 satoshi ( Coin-E:35 BTER:35 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$597",
+            "created_at": "Sat Jul 26 22:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/OrHcHILTwd",
+            "created_at": "Sat Jul 26 21:09:46 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/lsKeeivyJ5 #bitcoin",
+            "created_at": "Sat Jul 26 21:05:24 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4891 #dogecoin, 1 #DOGE = $0.0002 or 34 satoshi ( Coin-E:35 BTER:34 Vircurex:34 Cryptsy:34 ), Coinbase BTC:$597",
+            "created_at": "Sat Jul 26 21:02:11 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/qCIbz2YNaD #bitcoin",
+            "created_at": "Sat Jul 26 20:05:22 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 12,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4862 #dogecoin, 1 #DOGE = $0.0002 or 35 satoshi ( Coin-E:35 BTER:35 Vircurex:34 Cryptsy:34 ), Coinbase BTC:$596",
+            "created_at": "Sat Jul 26 20:02:11 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/irmffvbuMB #bitcoin",
+            "created_at": "Sat Jul 26 19:05:23 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 14,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4825 #dogecoin, 1 #DOGE = $0.0002 or 35 satoshi ( Coin-E:35 BTER:35 Vircurex:35 Cryptsy:34 ), Coinbase BTC:$596",
+            "created_at": "Sat Jul 26 19:02:10 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/uXcmHToIpg #bitcoin",
+            "created_at": "Sat Jul 26 18:05:23 +0000 2014",
+            "retweet": 3,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 16,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4811 #dogecoin, 1 #DOGE = $0.0002 or 35 satoshi ( Coin-E:35 BTER:35 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$594",
+            "created_at": "Sat Jul 26 18:02:10 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 17,
+            "username": "Novacoin Market",
+            "user_account": "MarketNvc",
+            "text": "Follow our other account @DogecoinP, for latest Dogecoin prices. Live Price: http://t.co/uaQCPTwoRF",
+            "created_at": "Sat Jul 26 17:30:07 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 18,
+            "username": "Mark",
+            "user_account": "UnNamedCoin",
+            "text": "@TheDogeHalving @Dogecoin @DogeMarketNews Go Go Dodgie Coin :) To the moon !",
+            "created_at": "Sat Jul 26 17:06:16 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/bY4kljRKsB #bitcoin",
+            "created_at": "Sat Jul 26 17:05:23 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 20,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4713 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:36 ), Coinbase BTC:$593",
+            "created_at": "Sat Jul 26 17:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/J0030Si0NC",
+            "created_at": "Sat Jul 26 16:09:52 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/b7zEo7Pt5N",
+            "created_at": "Sat Jul 26 16:09:34 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/wmgIayyqXb #bitcoin",
+            "created_at": "Sat Jul 26 16:05:24 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 24,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4706 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:36 Vircurex:34 Cryptsy:35 ), Coinbase BTC:$599",
+            "created_at": "Sat Jul 26 16:02:12 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/g0SNY4r962 #bitcoin",
+            "created_at": "Sat Jul 26 15:05:26 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 26,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4685 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:36 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$597",
+            "created_at": "Sat Jul 26 15:02:12 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/6DMdyVHzwB #bitcoin",
+            "created_at": "Sat Jul 26 14:05:23 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 28,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4678 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:36 ), Coinbase BTC:$598",
+            "created_at": "Sat Jul 26 14:02:12 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 29,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/3qGi2U9WLj #bitcoin",
+            "created_at": "Sat Jul 26 13:05:25 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 30,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4673 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:36 ), Coinbase BTC:$599",
+            "created_at": "Sat Jul 26 13:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 31,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/LByOglr2g3 #bitcoin",
+            "created_at": "Sat Jul 26 12:05:20 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 32,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4704 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:36 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$595",
+            "created_at": "Sat Jul 26 12:02:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 33,
+            "username": "GoodShibe",
+            "user_account": "GoodShibe",
+            "text": "#Shibes! Vote for #Dogecoin Microlending for the Youth Citizen Entrepreneurship Competition with UNESCO: http://t.co/SGUAlOJYHF",
+            "created_at": "Sat Jul 26 11:10:21 +0000 2014",
+            "retweet": 2,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4758 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$592",
+            "created_at": "Sat Jul 26 11:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 35,
+            "username": "Justin",
+            "user_account": "farmersmap",
+            "text": "Ðogecoin hits new HIGH! For real! http://t.co/uefpiyeGRG #organic #news #farmersmarkets",
+            "created_at": "Sat Jul 26 10:44:24 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 36,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/yksAMVHe3U #bitcoin",
+            "created_at": "Sat Jul 26 10:05:20 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 37,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4763 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$591",
+            "created_at": "Sat Jul 26 10:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 38,
+            "username": "BitcoinAgile",
+            "user_account": "bitcoinagile",
+            "text": "Celery #Launches Consumer-Friendly #bitcoin and #Dogecoin #Buying #Service http://t.co/WmtsHXHkRL http://t.co/6kocaTYImA",
+            "created_at": "Sat Jul 26 09:51:46 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 39,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/BAub9d6GxR #bitcoin",
+            "created_at": "Sat Jul 26 09:05:19 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 40,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4747 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$593",
+            "created_at": "Sat Jul 26 09:02:11 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 41,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/2Y1fZS9hr1 #bitcoin",
+            "created_at": "Sat Jul 26 08:05:20 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 42,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4669 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:36 Cryptsy:36 ), Coinbase BTC:$595",
+            "created_at": "Sat Jul 26 08:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/uxOiK4rrFs #bitcoin",
+            "created_at": "Sat Jul 26 07:05:18 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 44,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4701 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:36 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$595",
+            "created_at": "Sat Jul 26 07:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 45,
+            "username": "InterMedia Web",
+            "user_account": "InterMedia_Web",
+            "text": "Crypto eConomics Bitcoin,Litecoin,Dogecoin |.....\nhttp://t.co/NID27l7qpL Stories via @BitcoinBolt @MrBitc0in",
+            "created_at": "Sat Jul 26 06:28:16 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/XlIFWzaIHO #bitcoin",
+            "created_at": "Sat Jul 26 06:05:18 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 47,
+            "username": "Bitcoin",
+            "user_account": "BitcoinRa",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - http://t.co/aJljEuwhPj http://t.co/2lnld3W7z4",
+            "created_at": "Sat Jul 26 05:51:07 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 48,
+            "username": "Novacoin Market",
+            "user_account": "MarketNvc",
+            "text": "Follow our other account @DogecoinP, for latest Dogecoin prices. Live Price: http://t.co/uaQCPTwoRF",
+            "created_at": "Sat Jul 26 05:30:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 49,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/Jjd5CUuy5y #bitcoin",
+            "created_at": "Sat Jul 26 05:05:18 +0000 2014",
+            "retweet": 3,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 50,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4720 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:36 ), Coinbase BTC:$593",
+            "created_at": "Sat Jul 26 05:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 51,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/KNqa6nH3GJ #bitcoin",
+            "created_at": "Sat Jul 26 04:05:19 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 52,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4652 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:36 ), Coinbase BTC:$601",
+            "created_at": "Sat Jul 26 04:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 53,
+            "username": "BitcoinAgile",
+            "user_account": "bitcoinagile",
+            "text": "CPU #Coin #Mining (Doge#Coin, BTC, LTC, etc) #bit#Coin http://t.co/GvygG4EMRc http://t.co/iugqQLpZ84",
+            "created_at": "Sat Jul 26 03:19:02 +0000 2014",
+            "retweet": 6,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 54,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/5hcdBd8c8Z #bitcoin",
+            "created_at": "Sat Jul 26 03:05:22 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 55,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4687 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:34 Cryptsy:36 ), Coinbase BTC:$601",
+            "created_at": "Sat Jul 26 03:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 56,
+            "username": "Cristal",
+            "user_account": "Crypto_Cutie69",
+            "text": "#OMG @dogecoin is so effin cute, can't get enough!!! Would totally use money with a cute puppy on it",
+            "created_at": "Sat Jul 26 02:48:16 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 57,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/F3GygkFXrs #bitcoin",
+            "created_at": "Sat Jul 26 02:05:24 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 58,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4719 #dogecoin, 1 #DOGE = $0.0002 or 35 satoshi ( Coin-E:37 BTER:35 Vircurex:34 Cryptsy:35 ), Coinbase BTC:$601",
+            "created_at": "Sat Jul 26 02:02:11 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 59,
+            "username": "G. Ezondje",
+            "user_account": "dieetervaringen",
+            "text": "Vergeet #Bitcoin. #Dogecoin is topper: http://t.co/l5hYJ19slf",
+            "created_at": "Sat Jul 26 01:43:03 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 60,
+            "username": "Simon Chapman",
+            "user_account": "securitycast",
+            "text": "#onair \n\nThe Southern Fried Security Podcast: Episode 138 - A Day Late and 3917 Dogecoin Short\n\n http://t.co/GBNqDlzFXe #infosec",
+            "created_at": "Sat Jul 26 01:30:15 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 61,
+            "username": "BitCoinReporter",
+            "user_account": "BitCoinReporter",
+            "text": "Celery Launches Consumer-Friendly Bitcoin and Dogecoin Buying Service - CoinDesk http://t.co/KZXertPBty #bitcoin",
+            "created_at": "Sat Jul 26 01:05:22 +0000 2014",
+            "retweet": 3,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 62,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4728 #dogecoin, 1 #DOGE = $0.0002 or 35 satoshi ( Coin-E:37 BTER:35 Vircurex:34 Cryptsy:35 ), Coinbase BTC:$600",
+            "created_at": "Sat Jul 26 01:02:14 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 63,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=4672 #dogecoin, 1 #DOGE = $0.0002 or 36 satoshi ( Coin-E:37 BTER:35 Vircurex:35 Cryptsy:35 ), Coinbase BTC:$603",
+            "created_at": "Sat Jul 26 00:02:11 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}
