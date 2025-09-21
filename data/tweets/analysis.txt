@@ -42018,3 +42018,42 @@ Timestamp：
 	2025-09-02 22:18:21 Renamed: ../data/tweets/DOGE/2025/08/DOGE_20250831.json → ../data/tweets/DOGE/2025/08/DOGE_20250831_Latest10.json
 	2025-09-02 22:18:21 End
 
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-02-07 since:2024-02-06'
+SEARCH = 'Latest'
+執行時間：2025-09-18 00:51:05 ~ 2025-09-18 00:51:51 (0 day 0 hr 0 min)
+推文數量：661 (-642 WrittingError)
+推文時間：Tue Feb 06 23:50:29 +0000 2024 ~ Mon Feb 05 23:58:20 +0000 2024 (GMT+0)
+Timestamp：
+	2025-09-18 00:51:05 Start
+	2025-09-18 00:51:51 No more tweets found
+	2025-09-18 00:51:51 Renamed: ../data/tweets/PEPE/2024/02/PEPE_20240206.json → ../data/tweets/PEPE/2024/02/PEPE_20240206_Latest661.json
+	2025-09-18 00:51:51 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2024-02-07 since:2024-02-06'
+SEARCH = 'Latest'
+執行時間：2025-09-18 00:54:31 ~ 2025-09-18 00:55:14 (0 day 0 hr 0 min)
+推文數量：19 (0 WrittingError)
+推文時間：Tue Feb 06 23:50:29 +0000 2024 ~ Tue Feb 06 23:59:52 +0000 2024 (GMT+0)
+Timestamp：
+	2025-09-18 00:54:31 Start
+	2025-09-18 00:54:32 FileNotFoundError
+	2025-09-18 00:55:14 No more tweets found
+	2025-09-18 00:55:14 Renamed: ../data/tweets/PEPE/2024/02/PEPE_20240206.json → ../data/tweets/PEPE/2024/02/PEPE_20240206_Latest19.json
+	2025-09-18 00:55:14 End
+
+QUERY = '(pepecoin OR "pepe coin" OR "pepe meme coin" OR pepecoin OR PEPE OR "dollar pepe") lang:en until:2025-03-31 since:2025-03-30'
+SEARCH = 'Latest'
+執行時間：2025-09-18 00:43:08 ~ 2025-09-18 01:54:04 (0 day 1 hr 10 min)
+推文數量：4275 (0 WrittingError)
+推文時間：Sun Mar 30 00:00:00 +0000 2025 ~ Sun Mar 30 23:59:20 +0000 2025 (GMT+0)
+Timestamp：
+	2025-09-18 00:43:08 Start
+	2025-09-18 00:43:09 FileNotFoundError
+	2025-09-18 01:07:38 httpx.ReadTimeout
+	2025-09-18 01:28:35 TooManyRequests - Got 2973 tweets
+	Waiting until  2025-09-18 01:32:56 (4 min 20 sec)
+	2025-09-18 01:39:48 TooManyRequests - Got 3859 tweets
+	Waiting until  2025-09-18 01:48:12 (8 min 23 sec)
+	2025-09-18 01:54:04 No more tweets found
+	2025-09-18 01:54:04 End
+

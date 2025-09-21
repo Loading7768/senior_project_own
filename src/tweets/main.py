@@ -37,13 +37,13 @@ JSON_DICT_NAME = config_PEPE.JSON_DICT_NAME  # 設定推文所存的 json 檔中
 
 SEARCH = 'Latest'  # 在 X 的哪個欄位內搜尋 (Top, Latest, People, Media, Lists)
 
-START_YEAR = 2024  # 開始的年份
+START_YEAR = 2025  # 開始的年份
 
-START_MONTH = 12  # 開始的月份
+START_MONTH = 3  # 開始的月份
 
-START_DAY = 1  # 開始的日期
+START_DAY = 30  # 開始的日期
 
-DAY_COUNT = 15  # 要連續找幾天
+DAY_COUNT = 1  # 要連續找幾天
 
 TRUN_ON_TIWCE_BREAK = False  # 看有沒有要當出現兩次 Rate limit reached 就馬上停止執行
 

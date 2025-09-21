@@ -152,4 +152,6 @@
 -------- 三個都 push ----------
 
 6. merge_and_splitset.py：先個別切資料集再合併成完整的X, Y
+
+7. categorize_Y：將 Y 分成五個類別(0~4)
         

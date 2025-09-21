@@ -10,27 +10,20 @@ from nltk.corpus import stopwords
 import time
 import psutil
 import gc
+import re
 
 from pathlib import Path
 import sys
 parent_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(parent_dir))
-import config
+from config import JSON_DICT_NAME, COIN_SHORT_NAME
 
 '''可修改參數'''
-YEAR = "2025"
-
-MONTH = "07"
-
-FOLDER_PATH = "../data/tweets/matched_influencer_tweets"  # 選擇要對哪個資料夾執行
+FOLDER_PATH = f"../data/author_all/{COIN_SHORT_NAME}"  # 選擇要對哪個資料夾執行
 # "../Kmeans/data/clustered/"
-# f"../data/spammer/{YEAR}/{MONTH}"
-# 
+# "../project_vscode/data/spammer/04"
 
-OUTPUT_FOLDER_NAME = "influencer"  # 設定要儲存到的資料夾名稱   ex. "../LCS/analysis/{OUTPUT_FOLDER_NAME}/"
-# f"{YEAR}{MONTH}"
-
-JSON_DICT_NAME = config.JSON_DICT_NAME  # 設定推文所存的 json 檔中字典的名稱
+JSON_DICT_NAME = JSON_DICT_NAME  # 設定推文所存的 json 檔中字典的名稱
 
 DICE_COEFFICIENT = 70  # 設定 Dice 算出來的結果門檻值（也就是相似度）  60 => 60%
 
@@ -39,13 +32,23 @@ LENGTH_RATIO = 80  # 設定 Y(被比對的推文) 的長度相對於 X(當基準
 
 MAX_PAIRS_THRESHOLD = 1_000_000
 
+IS_RUN_SPAMMER = True
+
+SPAMMER_PATH = f"../data/spammer/{COIN_SHORT_NAME}/"
+
 IS_CLUSTERED = False  # 設定是否要用有分群的檔案來比對
 '''可修改參數'''
 
 # create folders if not existed
-os.makedirs("../data/dice/analysis", exist_ok=True)
-os.makedirs("../data/dice/robot_account", exist_ok=True)
-os.makedirs("../data/dice/robot_list", exist_ok=True)
+os.makedirs(f"../data/dice/{COIN_SHORT_NAME}/analysis", exist_ok=True)
+os.makedirs(f"../data/dice/{COIN_SHORT_NAME}/robot_account", exist_ok=True)
+os.makedirs(f"../data/dice/{COIN_SHORT_NAME}/robot_list", exist_ok=True)
+
+
+# def sanitize_filename(name):
+#     """將非法檔名字元替換掉"""
+#     return re.sub(r'[\\/*?:"<>|]', '_', name)
+
 
 # 取得英文停用詞集合
 stop_words = set(stopwords.words('english'))
@@ -178,26 +181,27 @@ def process_tweet_group(tweets_group, json_output, json_output_path, cluster_id=
 
     try:
         if write_json:
-            with open(temp_file_path, 'w', encoding='utf-8') as temp_file:
-                pair_count = 0
-                for batch in generate_pairs(tweets_group, batch_size=batch_size):
-                    batch_start = time.time()
-                    for res in pool.imap_unordered(compare_pair, batch, chunksize=max(1, batch_size // num_processes)):
-                        if res is not None:
-                            json.dump(res, temp_file, ensure_ascii=False)
-                            temp_file.write('\n')
-                            writed_compare += 1
+            if writed_compare > 0:
+                with open(temp_file_path, 'w', encoding='utf-8') as temp_file:
+                    pair_count = 0
+                    for batch in generate_pairs(tweets_group, batch_size=batch_size):
+                        batch_start = time.time()
+                        for res in pool.imap_unordered(compare_pair, batch, chunksize=max(1, batch_size // num_processes)):
+                            if res is not None:
+                                json.dump(res, temp_file, ensure_ascii=False)
+                                temp_file.write('\n')
+                                writed_compare += 1
 
-                            # Update repetitive_counts
-                            repetitive_counts[res["X"]["username"]] += 1
-                            repetitive_counts[res["Y"]["username"]] += 1
-                    pair_count += len(batch)
-                    print(f"Processed {pair_count}/{total_pairs} pairs, {writed_compare} results, "
-                            f"batch time: {time.time() - batch_start:.2f}s, "
-                            f"memory: {psutil.Process().memory_info().rss / 1024**2:.2f} MB")
-                    # Free memory used by the batch
-                    del batch
-                    gc.collect()
+                                # Update repetitive_counts
+                                repetitive_counts[res["X"]["username"]] += 1
+                                repetitive_counts[res["Y"]["username"]] += 1
+                        pair_count += len(batch)
+                        print(f"Processed {pair_count}/{total_pairs} pairs, {writed_compare} results, "
+                                f"batch time: {time.time() - batch_start:.2f}s, "
+                                f"memory: {psutil.Process().memory_info().rss / 1024**2:.2f} MB")
+                        # Free memory used by the batch
+                        del batch
+                        gc.collect()
         else:
             # Still process pairs but don't write to temp file
             pair_count = 0
@@ -243,11 +247,29 @@ def process_tweet_group(tweets_group, json_output, json_output_path, cluster_id=
 
 # 🧠 主程式入口：處理整個資料夾
 if __name__ == "__main__":
-    all_files = [f for f in os.listdir(FOLDER_PATH) if f.endswith(".json")]  # f.endswith("_spammer.json")
+    all_files = [f for f in os.listdir(FOLDER_PATH) if f.endswith(".json")]
     print(f"📂 總共找到 {len(all_files)} 個檔案要處理")
 
+    # 如果是要跑 spammer_list 的話
+    if IS_RUN_SPAMMER:
+        old_spammer_list_path = f"{SPAMMER_PATH}/old_DOGE_spammers.txt"
+        new_spammer_list_path = f"{SPAMMER_PATH}/DOGE_spammers.txt"
+
+        with open(old_spammer_list_path, "r", encoding="utf-8-sig") as f:
+            old_spammer_accounts = set(line.strip() for line in f if line.strip())
+        with open(new_spammer_list_path, "r", encoding="utf-8-sig") as f:
+            new_spammer_accounts = set(line.strip() for line in f if line.strip())
+
+        # 只保留 old 有，但 new 沒有的
+        spammer_accounts = old_spammer_accounts - new_spammer_accounts
+        print(f"📌 old 有 {len(old_spammer_accounts)} 個，new 有 {len(new_spammer_accounts)} 個")
+        print(f"👉 實際要跑 {len(spammer_accounts)} 個 (old 有但 new 沒有)")
+    else:
+        spammer_accounts = None
+
+        
     # 先清空 robottxt.txt
-    robottxt = f"../data/dice/robot_account/{OUTPUT_FOLDER_NAME}.txt"
+    robottxt = f"../data/dice/{COIN_SHORT_NAME}/{COIN_SHORT_NAME}_robot_account.txt"
     with open(robottxt, "w", encoding="utf-8-sig") as robotfile:
         robotfile.write("")
 
@@ -259,10 +281,10 @@ if __name__ == "__main__":
 
         # 設定 txtname, json_output_path 的名稱
         # txtname = f"../data/dice/analysis/{OUTPUT_FOLDER_NAME}/{analysis_name}.txt"
-        json_output_path = f"../data/dice/analysis/{OUTPUT_FOLDER_NAME}/{analysis_name}.json"
+        json_output_path = f"../data/dice/{COIN_SHORT_NAME}/analysis/{analysis_name}.json"
 
         # 確認是否有輸出時需使用的資料夾
-        output_folder_path = f"../data/dice/analysis/{OUTPUT_FOLDER_NAME}/"
+        output_folder_path = f"../data/dice/{COIN_SHORT_NAME}/analysis/"
         os.makedirs(output_folder_path, exist_ok=True)
 
         # 讀入 json 檔
@@ -270,9 +292,13 @@ if __name__ == "__main__":
             data_json = json.load(file)
 
         tweets = data_json[JSON_DICT_NAME]
-        # tweets = data_json
         print(f"\n📄 正在處理檔案：{filename}，共 {len(tweets)} 筆推文")
 
+        if IS_RUN_SPAMMER and spammer_accounts:
+            user = tweets[0].get("user_account") or tweets[0].get("username")
+            if user not in spammer_accounts:
+                print(f"{user} 不為 spammer_list 中的帳號")
+                continue
         # # 先把 txt 檔裡清空
         # with open(txtname, 'w', encoding="utf-8-sig") as filetxt:
         #     filetxt.write("")
@@ -307,6 +333,10 @@ if __name__ == "__main__":
         else:
             # 如果是沒有分類過的檔案 直接呼叫 process_tweet_group 來執行比對
             total_compare, repetitive_counts = process_tweet_group(tweets, json_output, json_output_path)
+        
+        if total_compare == 0 and os.path.exists(json_output_path):
+            os.remove(json_output_path)
+            print(f"⚠️ 沒有結果，刪掉空 JSON：{json_output_path}")
 
         print()
         print(f"✅ 已儲存 JSON 結果到 {json_output_path}")
@@ -332,7 +362,7 @@ if __name__ == "__main__":
         del json_output
         gc.collect()
 
-        robottxt = f"../data/dice/robot_account/{OUTPUT_FOLDER_NAME}.txt"
+        robottxt = f"../data/dice/{COIN_SHORT_NAME}/{COIN_SHORT_NAME}_robot_account_.txt"
         # 印出出現次數大於 10 的帳號，符合的話就輸出到 txt 檔中
         robotlist = [] # list of user that has ressemblence over threshold
         print()
@@ -356,7 +386,7 @@ if __name__ == "__main__":
                     robotfile.write(f"🤖 疑似洗版帳號：{user}，重複出現次數：{int(count / 2)}\n")
             robotfile.write("\n")
 
-        robotlisttxt = f"../data/dice/robot_list/{OUTPUT_FOLDER_NAME}_list.txt"
+        robotlisttxt = f"../data/dice/{COIN_SHORT_NAME}/{COIN_SHORT_NAME}_robot_list.txt"
         with open(robotlisttxt, 'a', encoding="utf-8-sig") as robotlistfile:
             for robot in robotlist:
                 robotlistfile.write(f"{robot}\n")

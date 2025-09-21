@@ -18,7 +18,7 @@ import os
 
 
 
-with open(f"../data/coin_price/PEPE_current_tweet_count.json", "r", encoding="utf-8") as f:
+with open(f"../data/ml/dataset/coin_price/DOGE_current_tweet_count.json", "r", encoding="utf-8") as f:
     tweet_count_dict = json.load(f)
 
 # 計算總和

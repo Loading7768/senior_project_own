@@ -28,22 +28,22 @@ import config_PEPE, config
 '''可修改參數'''
 MINIMUM_TWEETS = 1000000  # 設定最少要擷取的推文數
 
-COIN_NAME = config.COIN_NAME  # 目前要爬的 memecoin
+COIN_NAME = config_PEPE.COIN_NAME  # 目前要爬的 memecoin
 # 
 # '(officialtrump OR "official trump" OR "trump meme coin" OR "trump coin" OR trumpcoin OR $TRUMP OR "dollar trump")'
-COIN_SHORT_NAME = config.COIN_SHORT_NAME  # 要當成檔案名的 memecoin 名稱
+COIN_SHORT_NAME = config_PEPE.COIN_SHORT_NAME  # 要當成檔案名的 memecoin 名稱
 
-JSON_DICT_NAME = config.JSON_DICT_NAME  # 設定推文所存的 json 檔中字典的名稱
+JSON_DICT_NAME = config_PEPE.JSON_DICT_NAME  # 設定推文所存的 json 檔中字典的名稱
 
 SEARCH = 'Latest'  # 在 X 的哪個欄位內搜尋 (Top, Latest, People, Media, Lists)
 
-START_YEAR = 2025  # 開始的年份
+START_YEAR = 2024  # 開始的年份
 
-START_MONTH = 8  # 開始的月份
+START_MONTH = 2  # 開始的月份
 
-START_DAY = 23  # 開始的日期
+START_DAY = 6  # 開始的日期
 
-DAY_COUNT = 3  # 要連續找幾天
+DAY_COUNT = 1  # 要連續找幾天
 
 TRUN_ON_TIWCE_BREAK = False  # 看有沒有要當出現兩次 Rate limit reached 就馬上停止執行
 

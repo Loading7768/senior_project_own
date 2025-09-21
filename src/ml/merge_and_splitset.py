@@ -14,19 +14,12 @@ INPUT_PATH = "../data/ml/dataset"
 
 MIN_COUNT = 10  # 設定刪掉出現次數 <= MIN_COUNT 的關鍵詞 (column)
 
-COUNT_TOLERANCE = 1000  # 資料集中誤差推文數值 (1000 => +-1000)
+TOLERANCE = 100  # 資料集中誤差推文數值 (100 => +-100)
 
-LABEL_TOLERANCE = 0.02  # 資料集中誤差漲跌比例 (0.02 => +-2%)
-
-LABEL_COUNT = 5  # Y 中有幾組 labels
+# LABEL_COUNT = 5  # Y 中有幾組 labels
 
 random.seed(42)  # 42 可以換成你想要的數字
 '''可修改參數'''
-
-
-
-
-
 
 
 
@@ -61,7 +54,7 @@ def print_label_distribution(Y_train, Y_val, Y_test, COIN_SHORT_NAME, split_val=
 
 
 # --- 平衡先用日期切割的後的資料 ---
-def balance_sets_by_swap(train_df, val_df, test_df, Y_train_df, Y_val_df, Y_test_df, Y_name, target_ratios=(0.8,0.1,0.1), target_label_ratio = 0.5):
+def balance_sets_by_swap(train_df, val_df, test_df, target_ratios=(0.8,0.1,0.1)):
     # 計算理論值
     total_tweets = train_df['tweet_count'].sum() + val_df['tweet_count'].sum() + test_df['tweet_count'].sum()
     target_train = int(total_tweets * target_ratios[0])
@@ -69,49 +62,33 @@ def balance_sets_by_swap(train_df, val_df, test_df, Y_train_df, Y_val_df, Y_test
     target_test  = total_tweets - target_train - target_val
 
     # 建立 DataFrame 複製以便交換
-    train, val, test       = train_df.copy(), val_df.copy(), test_df.copy()
-    Y_train, Y_val, Y_test = Y_train_df.copy(), Y_val_df.copy(), Y_test_df.copy()
+    train = train_df.copy()
+    val   = val_df.copy()
+    test  = test_df.copy()
 
-    max_iter = 100000  # 避免無限迴圈
-    for _ in tqdm(range(max_iter), desc="平衡資料中..."):
+    max_iter = 10000  # 避免無限迴圈
+    for _ in range(max_iter):
         # 計算目前三個 set 的推文總數
         train_sum = train['tweet_count'].sum()
         val_sum   = val['tweet_count'].sum()
         test_sum  = test['tweet_count'].sum()
 
-        # 計算漲比例
-        def get_up_ratio(Y_df):
-            total_up = (Y_df[Y_name] > 0).sum()
-            total_all = len(Y_df)
-            return total_up / total_all
-        
-        train_up_ratio = get_up_ratio(Y_train)
-        val_up_ratio   = get_up_ratio(Y_val)
-        test_up_ratio  = get_up_ratio(Y_test)
-
         # 判斷是否所有 set 都在 tolerance 內
-        # 判斷是否都在 tolerance 內
-        number_ok = (abs(train_sum - target_train) <= COUNT_TOLERANCE and
-                     abs(val_sum - target_val) <= COUNT_TOLERANCE and
-                     abs(test_sum - target_test) <= COUNT_TOLERANCE)
-        ratio_ok = (abs(train_up_ratio - target_label_ratio) <= LABEL_TOLERANCE and
-                    abs(val_up_ratio   - target_label_ratio) <= LABEL_TOLERANCE and
-                    abs(test_up_ratio  - target_label_ratio) <= LABEL_TOLERANCE)
-        if number_ok and ratio_ok:
+        if (abs(train_sum - target_train) <= TOLERANCE and
+            abs(val_sum - target_val) <= TOLERANCE and
+            abs(test_sum - target_test) <= TOLERANCE):
             break
 
-        # 找一個超過理論值的 set 和小於理論值的 set    s[1] → DataFrame   s[3] → target count
-        sets = [('train', train, Y_train, target_train, train_up_ratio),
-                ('val',   val,   Y_val,   target_val,   val_up_ratio),
-                ('test',  test,  Y_test,  target_test,  test_up_ratio)]
-        over_sets  = [s for s in sets if s[1]['tweet_count'].sum() > s[3] or s[4] > target_label_ratio]
-        under_sets = [s for s in sets if s[1]['tweet_count'].sum() < s[3] or s[4] < target_label_ratio]
+        # 找一個超過理論值的 set 和小於理論值的 set    s[1] → DataFrame   s[2] → target count
+        sets = [('train', train, target_train), ('val', val, target_val), ('test', test, target_test)]
+        over_sets  = [s for s in sets if s[1]['tweet_count'].sum() > s[2]]
+        under_sets = [s for s in sets if s[1]['tweet_count'].sum() < s[2]]
 
         if not over_sets or not under_sets:
             break  # 無法交換時退出
 
-        over_name, over_df, over_Y, _, _ = random.choice(over_sets)
-        under_name, under_df, under_Y, _, _ = random.choice(under_sets)
+        over_name, over_df, over_target = random.choice(over_sets)
+        under_name, under_df, under_target = random.choice(under_sets)
 
         # 隨機選日期交換，但必須 over_row['tweet_count'] > under_row['tweet_count']
         attempt = 0
@@ -123,195 +100,29 @@ def balance_sets_by_swap(train_df, val_df, test_df, Y_train_df, Y_val_df, Y_test
             under_idx = random.choice(under_df.index)
 
             # 交換兩個 row
-            over_row, under_row = over_df.loc[over_idx], under_df.loc[under_idx]
-            over_y, under_y = over_Y.loc[over_idx], under_Y.loc[under_idx]
+            over_row = over_df.loc[over_idx]
+            under_row = under_df.loc[under_idx]
             
-            # 交換條件：tweet_count 差距 or 漲跌符號不同
-            if over_row['tweet_count'] > under_row['tweet_count'] or (over_y[Y_name] > 0) != (under_y[Y_name] > 0):
+            if over_row['tweet_count'] > under_row['tweet_count']:
                 break
             attempt += 1
         else:
             # 如果經過 max_attempt 次還找不到符合條件的，直接跳過這輪交換
             continue
 
-        # 交換 tweet_count DataFrame
-        over_df.loc[over_idx], under_df.loc[under_idx] = under_row, over_row
-        # 交換 Y DataFrame
-        over_Y.loc[over_idx], under_Y.loc[under_idx] = under_y, over_y
+        over_df.loc[over_idx] = under_row
+        under_df.loc[under_idx] = over_row
 
         # 更新集合
-        if over_name == 'train': train, Y_train = over_df, over_Y
-        elif over_name == 'val': val, Y_val = over_df, over_Y
-        else: test, Y_test = over_df, over_Y
+        if over_name == 'train': train = over_df
+        elif over_name == 'val': val = over_df
+        else: test = over_df
 
-        if under_name == 'train': train, Y_train = under_df, under_Y
-        elif under_name == 'val': val, Y_val = under_df, under_Y
-        else: test, Y_test = under_df, under_Y
+        if under_name == 'train': train = under_df
+        elif under_name == 'val': val = under_df
+        else: test = under_df
 
     return train, val, test
-
-
-# ---------------- ILP 平衡函式 ----------------
-# def balance_sets_by_ILP(df, df_Y_daily, Y_name, target_ratios=(0.8,0.1,0.1), target_label_ratio=0.5):
-#     """
-#     df_dates: 包含 'date' 與 'tweet_count'
-#     df_Y: 每個日期對應的 Y 值 (sum 過每日)
-#     Y_name: 欄位名稱，如 'Y_0'
-#     target_ratios: train/val/test 比例
-#     target_label_ratio: 漲推文比例目標
-#     """
-#     n = len(df)
-#     total_tweets = df['tweet_count'].sum()
-#     target_train = int(total_tweets * target_ratios[0])
-#     target_val   = int(total_tweets * target_ratios[1])
-#     target_test  = total_tweets - target_train - target_val
-
-#     # 計算每日正推文數
-#     df_Y_pos = df_Y_daily.copy()
-#     df_Y_pos['pos'] = df_Y_pos[Y_name].apply(lambda x: max(0, x))
-
-#     # --- 定義 ILP ---
-#     prob = LpProblem("Balance_Dataset", LpMinimize)
-
-#     # 每個日期分配到 train/val/test
-#     x_train = [LpVariable(f"x_train_{i}", cat=LpBinary) for i in range(n)]
-#     x_val   = [LpVariable(f"x_val_{i}",   cat=LpBinary) for i in range(n)]
-#     x_test  = [LpVariable(f"x_test_{i}",  cat=LpBinary) for i in range(n)]
-
-#     # 每個日期只能分配到一個集合
-#     for i in range(n):
-#         prob += x_train[i] + x_val[i] + x_test[i] == 1
-
-#     # 計算總推文數
-#     train_sum = lpSum([x_train[i]*df.loc[i,'tweet_count'] for i in range(n)])
-#     val_sum   = lpSum([x_val[i]*df.loc[i,'tweet_count']   for i in range(n)])
-#     test_sum  = lpSum([x_test[i]*df.loc[i,'tweet_count']  for i in range(n)])
-
-#     # 計算正推文數
-#     train_up = lpSum([x_train[i]*df_Y_pos.loc[i,'pos'] for i in range(n)])
-#     val_up   = lpSum([x_val[i]*df_Y_pos.loc[i,'pos']   for i in range(n)])
-#     test_up  = lpSum([x_test[i]*df_Y_pos.loc[i,'pos']  for i in range(n)])
-
-#     # --- 線性化絕對值 ---
-#     train_dev = LpVariable("train_dev", lowBound=0)
-#     val_dev   = LpVariable("val_dev", lowBound=0)
-#     test_dev  = LpVariable("test_dev", lowBound=0)
-
-#     prob += train_sum - target_train <= train_dev
-#     prob += target_train - train_sum <= train_dev
-
-#     prob += val_sum - target_val <= val_dev
-#     prob += target_val - val_sum <= val_dev
-
-#     prob += test_sum - target_test <= test_dev
-#     prob += target_test - test_sum <= test_dev
-
-#     # 漲比例偏差
-#     train_up_dev = LpVariable("train_up_dev", lowBound=0)
-#     val_up_dev   = LpVariable("val_up_dev", lowBound=0)
-#     test_up_dev  = LpVariable("test_up_dev", lowBound=0)
-
-#     prob += train_up - target_label_ratio*train_sum <= train_up_dev
-#     prob += target_label_ratio*train_sum - train_up <= train_up_dev
-
-#     prob += val_up - target_label_ratio*val_sum <= val_up_dev
-#     prob += target_label_ratio*val_sum - val_up <= val_up_dev
-
-#     prob += test_up - target_label_ratio*test_sum <= test_up_dev
-#     prob += target_label_ratio*test_sum - test_up <= test_up_dev
-
-#     # --- 目標函數：最小化偏差 ---
-#     prob += 1*(train_dev + val_dev + test_dev) + 10*(train_up_dev + val_up_dev + test_up_dev)
-
-#     # --- 求解 ---
-#     prob.solve(PULP_CBC_CMD(msg=0))
-
-#     # --- 分配結果 ---
-#     train_idx = [i for i in range(n) if x_train[i].varValue > 0.5]
-#     val_idx   = [i for i in range(n) if x_val[i].varValue > 0.5]
-#     test_idx  = [i for i in range(n) if x_test[i].varValue > 0.5]
-
-#     train_df = df.iloc[train_idx].reset_index(drop=True)
-#     val_df   = df.iloc[val_idx].reset_index(drop=True)
-#     test_df  = df.iloc[test_idx].reset_index(drop=True)
-
-#     return train_df, val_df, test_df
-
-
-# --- ILP 平衡分配器（同時控制總數、漲數、跌數） ---
-# def balance_sets_by_ILP(df_label, ratios=(0.8, 0.1, 0.1)):
-#     """
-#     df_label: DataFrame, columns = ["total", "up", "down"]
-#     ratios: (train, val, test)
-#     return: 字典 { "train": [idx...], "val": [...], "test": [...] }
-#     """
-#     n_dates = len(df_label)
-#     sets = ["train", "val", "test"]
-
-#     # --- 理論目標值 ---
-#     total_all = df_label["total"].sum()
-#     up_all    = df_label["up"].sum()
-#     down_all  = df_label["down"].sum()
-
-#     target = {
-#         "train": {
-#             "total": ratios[0] * total_all,
-#             "up":    ratios[0] * up_all,
-#             "down":  ratios[0] * down_all
-#         },
-#         "val": {
-#             "total": ratios[1] * total_all,
-#             "up":    ratios[1] * up_all,
-#             "down":  ratios[1] * down_all
-#         },
-#         "test": {
-#             "total": ratios[2] * total_all,
-#             "up":    ratios[2] * up_all,
-#             "down":  ratios[2] * down_all
-#         }
-#     }
-
-#     # --- ILP 問題 ---
-#     prob = LpProblem("BalanceSets", LpMinimize)
-
-#     # x[i,s] = 1 if date i is assigned to set s
-#     x = {(i, s): LpVariable(f"x_{i}_{s}", 0, 1, cat="Binary") 
-#          for i in range(n_dates) for s in sets}
-
-#     # --- 每個日期只能屬於一個集合 ---
-#     for i in range(n_dates):
-#         prob += lpSum(x[i, s] for s in sets) == 1
-
-#     # --- 誤差變數 (線性化絕對值) ---
-#     err = {}
-#     for s in sets:
-#         for k in ["total", "up", "down"]:
-#             err[(s, k, "pos")] = LpVariable(f"err_{s}_{k}_pos", 0)
-#             err[(s, k, "neg")] = LpVariable(f"err_{s}_{k}_neg", 0)
-
-#     # --- 加入誤差限制 ---
-#     for s in sets:
-#         total_expr = lpSum(df_label.iloc[i]["total"] * x[i, s] for i in range(n_dates))
-#         up_expr    = lpSum(df_label.iloc[i]["up"]    * x[i, s] for i in range(n_dates))
-#         down_expr  = lpSum(df_label.iloc[i]["down"]  * x[i, s] for i in range(n_dates))
-
-#         for k, expr in [("total", total_expr), ("up", up_expr), ("down", down_expr)]:
-#             prob += expr - target[s][k] == err[(s, k, "pos")] - err[(s, k, "neg")]
-
-#     # --- 目標函數：最小化總誤差 ---
-#     prob += lpSum(err.values())
-
-#     # --- 求解 ---
-#     prob.solve(PULP_CBC_CMD(msg=False, timeLimit=180))
-
-#     # --- 輸出結果 ---
-#     assignment = {s: [] for s in sets}
-#     for i in range(n_dates):
-#         for s in sets:
-#             if x[i, s].value() == 1:
-#                 assignment[s].append(i)
-
-#     return assignment
 
 
 
@@ -322,13 +133,19 @@ def splitset_dates(COIN_SHORT_NAME):
     with open(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_ids.pkl", "rb") as f:   # rb = read binary
         ids = pickle.load(f)  # array[('coin', 'date', 'no.'), (str, '%Y-%m-%d', int)]
     dates = np.array([row[1] for row in ids])  # 只把 'date' 取出來，並轉成 np.array
-    if isinstance(dates[0], bytes):  # 如果是 bytes，要轉成 str
+    
+    # 如果是 bytes，要轉成 str
+    if isinstance(dates[0], bytes):
         dates = dates.astype(str)
-    dates_dt = pd.to_datetime(dates, format="%Y-%m-%d")  # 轉成 datetime 方便排序
+
+    # 轉成 datetime 方便排序
+    dates_dt = pd.to_datetime(dates, format="%Y-%m-%d")
 
     # 統計每天出現次數
     unique_dates, counts = np.unique(dates_dt, return_counts=True)
-    date_count_dict = {pd.Timestamp(d).strftime("%Y/%m/%d"): int(c) for d, c in zip(unique_dates, counts)}  # 建成 dict，key 用 "YYYY/MM/DD" 格式
+
+    # 建成 dict，key 用 "YYYY/MM/DD" 格式
+    date_count_dict = {pd.Timestamp(d).strftime("%Y/%m/%d"): int(c) for d, c in zip(unique_dates, counts)}
 
     # 儲存 JSON
     json_output_path = f"{INPUT_PATH}/coin_price"
@@ -345,19 +162,8 @@ def splitset_dates(COIN_SHORT_NAME):
     df = pd.DataFrame(list(tweet_count_dict.items()), columns=['date', 'tweet_count'])
     df['date'] = pd.to_datetime(df['date'], format="%Y/%m/%d")
 
-    # --- 讀取 Y 以取得 label ---
-    Y_all = np.load(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_price_diff.npy")  # shape = (總推文數, 5) -> 有五組 Y
-    Y_all_labels = np.where(Y_all >= 0, 1, -1)  # 建立 target label：上漲與持平為 1，否則為 -1（二元分類） 
-
-    # --- 建立 Y 的 DataFrame ---
-    df_Y = pd.DataFrame(Y_all_labels, columns=[f"Y_{i}" for i in range(Y_all_labels.shape[1])])  # Y_all.shape = (總推文數, 5)
-    df_Y['date'] = dates_dt  # 加上日期欄位
-    df_Y_daily = df_Y.groupby('date', as_index=False).sum()    # --- 按日期聚合，相同日期的 row 相加 ---
-    print(df_Y_daily.head())  # 查看前幾列
-
     # --- 按日期排序或隨機打亂（這裡先打亂） ---
     df = df.sample(frac=1, random_state=42).reset_index(drop=True)
-    df_Y_daily = df_Y_daily.sample(frac=1, random_state=42).reset_index(drop=True)
 
     # --- 計算各資料集大小 ---
     n = len(df)
@@ -370,160 +176,31 @@ def splitset_dates(COIN_SHORT_NAME):
     val_df = df.iloc[train_size:train_size + val_size]
     test_df = df.iloc[train_size + val_size:]
 
+    # 隨機交換微調    tolerance: 誤差推文數值 (100 => +-100)
+    train_df, val_df, test_df = balance_sets_by_swap(train_df, val_df, test_df)
 
-    for i in range(Y_all.shape[1]):  # 重複跑 Y_all.shape[1] 種不同組 Y
-        df_i = df_Y_daily[['date', f'Y_{i}']].copy()  # 只保留 date 與該 Y
-        # 每一輪 df_i = [date, Y_0], df_i = [date, Y_1], ...
+    # 先按照 tweet_count 由大到小排序
+    train_df_sorted = train_df.sort_values(by='tweet_count', ascending=False)
+    val_df_sorted   = val_df.sort_values(by='tweet_count', ascending=False)
+    test_df_sorted  = test_df.sort_values(by='tweet_count', ascending=False)
 
-        Y_name = df_i.columns[1]  # 取 Y_0, Y_1, Y_2, ...
+    csv_output_path = f"{INPUT_PATH}/split_dates"
+    os.makedirs(csv_output_path, exist_ok=True)
+    train_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_train_dates.csv", index=False, encoding="utf-8-sig")
+    val_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_val_dates.csv", index=False, encoding="utf-8-sig")
+    test_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_test_dates.csv", index=False, encoding="utf-8-sig")
 
-        Y_train_df = df_i.iloc[:train_size]
-        Y_val_df = df_i.iloc[train_size:train_size + val_size]
-        Y_test_df = df_i.iloc[train_size + val_size:]
-        print(f"目前正在平衡 {Y_train_df.columns[1]}...")
+    # --- 展開成每條推文一個單位 ---
+    dates_train_expanded = expand_by_tweet(train_df)
+    dates_val_expanded = expand_by_tweet(val_df)
+    dates_test_expanded = expand_by_tweet(test_df)
 
-        # 隨機交換微調
-        train_df, val_df, test_df = balance_sets_by_swap(train_df, val_df, test_df, Y_train_df, Y_val_df, Y_test_df, Y_name)
-
-        # 先按照 tweet_count 由大到小排序
-        train_df_sorted = train_df.sort_values(by='tweet_count', ascending=False)
-        val_df_sorted   = val_df.sort_values(by='tweet_count', ascending=False)
-        test_df_sorted  = test_df.sort_values(by='tweet_count', ascending=False)
-
-        csv_output_path = f"{INPUT_PATH}/split_dates"
-        os.makedirs(csv_output_path, exist_ok=True)
-        train_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_train_dates{i}.csv", index=False, encoding="utf-8-sig")
-        val_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_val_dates{i}.csv", index=False, encoding="utf-8-sig")
-        test_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_test_dates{i}.csv", index=False, encoding="utf-8-sig")
-
-        # --- 展開成每條推文一個單位 ---
-        dates_train_expanded = expand_by_tweet(train_df)
-        dates_val_expanded = expand_by_tweet(val_df)
-        dates_test_expanded = expand_by_tweet(test_df)
-
-        print_split_number(dates_train_expanded, dates_val_expanded, dates_test_expanded, COIN_SHORT_NAME)
-
-
-
-# --- 修改版 splitset_dates ---
-# def splitset_dates(COIN_SHORT_NAME):
-#     """
-#     Y_all: shape (num_labels, num_samples)
-#     dates: 每個樣本的日期 (len = num_samples)
-#     coin_name: 幣種名稱
-#     """
-
-#     # --- 讀取每條推文的 ID .pkl ---
-#     with open(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_ids.pkl", "rb") as f:   # rb = read binary
-#         ids = pickle.load(f)  # array[('coin', 'date', 'no.'), (str, '%Y-%m-%d', int)]
-#     dates = np.array([row[1] for row in ids])  # 只把 'date' 取出來，並轉成 np.array
-#     if isinstance(dates[0], bytes):  # 如果是 bytes，要轉成 str
-#         dates = dates.astype(str)
-#     dates_dt = pd.to_datetime(dates, format="%Y-%m-%d")  # 轉成 datetime 方便排序
-
-#     # --- 讀取 Y 以取得 label ---
-#     Y_all = np.load(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_price_diff.npy")  # shape = (總推文數, 5) -> 有五組 Y
-
-#     results = {}
-
-#     for y_idx in range(Y_all.shape[1]):
-#         y = Y_all[:, y_idx]
-
-#         # --- 先計算每天的 up/down ---
-#         df = pd.DataFrame({"date": dates_dt, "y": y})
-#         df_label = df.groupby("date").agg(
-#             total=("y", "size"),
-#             up=("y", lambda x: (x >= 0).sum()),
-#             down=("y", lambda x: (x < 0).sum())
-#         ).reset_index()
-
-#         # --- 丟進 ILP 分配 ---
-#         assignment = balance_sets_by_ILP(df_label)
-
-#         # --- 紀錄結果 ---
-#         results[f"Y_{y_idx}"] = assignment
-
-#         # --- 檢查比例 ---
-#         print(f"\n=== {COIN_SHORT_NAME} Y_{y_idx} ===")
-#         for s in ["train", "val", "test"]:
-#             subset = df_label.iloc[assignment[s]]
-#             total, up, down = subset[["total", "up", "down"]].sum()
-#             print(f"{s.capitalize()}: 總數 {int(total)}, 漲 {int(up)} ({up/total:.2%}), 跌 {int(down)} ({down/total:.2%})")
-
-
-
-
-# ---------------- ILP 版本 splitset_dates ----------------
-# def splitset_dates(COIN_SHORT_NAME):
-#     # --- 讀取每條推文的 ID .pkl ---
-#     with open(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_ids.pkl", "rb") as f:
-#         ids = pickle.load(f)
-#     dates = np.array([row[1] for row in ids])
-#     if isinstance(dates[0], bytes):
-#         dates = dates.astype(str)
-#     dates_dt = pd.to_datetime(dates, format="%Y-%m-%d")
-
-#     # 統計每天推文數
-#     unique_dates, counts = np.unique(dates_dt, return_counts=True)
-#     date_count_dict = {pd.Timestamp(d).strftime("%Y/%m/%d"): int(c) for d, c in zip(unique_dates, counts)}
-#     json_output_path = f"{INPUT_PATH}/coin_price"
-#     os.makedirs(json_output_path, exist_ok=True)
-#     with open(f"{json_output_path}/{COIN_SHORT_NAME}_filtered_tweet_count.json", "w", encoding="utf-8") as f:
-#         json.dump(date_count_dict, f, ensure_ascii=False, indent=4)
-
-#     # 讀 JSON
-#     with open(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_filtered_tweet_count.json", "r", encoding="utf-8") as f:
-#         tweet_count_dict = json.load(f)
-
-#     # DataFrame
-#     df = pd.DataFrame(list(tweet_count_dict.items()), columns=['date', 'tweet_count'])
-#     df['date'] = pd.to_datetime(df['date'], format="%Y/%m/%d")
-
-#     # 讀取 Y
-#     Y_all = np.load(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_price_diff.npy")  # (總推文數, 5)
-#     Y_all_labels = np.where(Y_all>=0, 1, -1)
-#     df_Y = pd.DataFrame(Y_all_labels, columns=[f"Y_{i}" for i in range(Y_all_labels.shape[1])])
-#     df_Y['date'] = dates_dt
-#     df_Y_daily = df_Y.groupby('date', as_index=False).sum()  # 每日聚合
-#     print(df_Y_daily.head())
-
-#     # 先打亂日期順序
-#     df = df.sample(frac=1, random_state=42).reset_index(drop=True)
-#     df_Y_daily = df_Y_daily.sample(frac=1, random_state=42).reset_index(drop=True)
-
-#     # 對每個 Y 做平衡 ILP
-#     for i in range(Y_all.shape[1]):
-#         df_i = df_Y_daily[['date', f'Y_{i}']].copy()
-#         Y_name = f'Y_{i}'
-#         print(f"平衡 {Y_name}...")
-
-#         train_df, val_df, test_df = balance_sets_by_ILP(df, df_i, Y_name)
-
-#         # 排序 tweet_count
-#         train_df_sorted = train_df.sort_values(by='tweet_count', ascending=False)
-#         val_df_sorted   = val_df.sort_values(by='tweet_count', ascending=False)
-#         test_df_sorted  = test_df.sort_values(by='tweet_count', ascending=False)
-
-#         # 輸出 CSV
-#         csv_output_path = f"{INPUT_PATH}/split_dates"
-#         os.makedirs(csv_output_path, exist_ok=True)
-#         train_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_train_dates{i}.csv", index=False, encoding="utf-8-sig")
-#         val_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_val_dates{i}.csv", index=False, encoding="utf-8-sig")
-#         test_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_test_dates{i}.csv", index=False, encoding="utf-8-sig")
-
-#         print(f"完成 {Y_name}")
-
-#         # --- 展開成每條推文一個單位 ---
-#         dates_train_expanded = expand_by_tweet(train_df)
-#         dates_val_expanded = expand_by_tweet(val_df)
-#         dates_test_expanded = expand_by_tweet(test_df)
-
-#         print_split_number(dates_train_expanded, dates_val_expanded, dates_test_expanded, COIN_SHORT_NAME)
+    return dates_train_expanded, dates_val_expanded, dates_test_expanded
 
 
 
 # --- 用平衡好的結果來按日期切割 X, Y，並可選擇是否要再分出 val (預設 False) ---
-def splitset_XY(train_dates, val_dates, test_dates, Y, COIN_SHORT_NAME, count, split_val=False):
+def splitset_XY(COIN_SHORT_NAME, split_val=False):
 
     # 讀取稀疏矩陣
     X = sparse.load_npz(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_X_sparse.npz")  # 二維陣列：colunm(關鍵詞) row(某天某推文) (但這裡是稀疏矩陣的格式)
@@ -534,12 +211,20 @@ def splitset_XY(train_dates, val_dates, test_dates, Y, COIN_SHORT_NAME, count, s
     ids = np.array(ids)  # 把 ids 轉成 numpy array
     dates = np.array([row[1] for row in ids])  # 只把 'date' 取出來，並轉成 np.array
 
+    # 讀取三個集合的日期 (切割好的 CSV) 
+    train_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_train_dates.csv")['date']
+    val_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_val_dates.csv")['date']
+    test_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_test_dates.csv")['date']
+
+    # 讀取 price_diff.npy
+    Y_all = np.load(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_price_diff.npy")  # shape = (總推文數, 1)
+
 
     # 輸出長度 確保一致性
     print(f"{COIN_SHORT_NAME}：")
     print("X.shape[0] =", X.shape[0])
     print("ids.shape[0] =", len(ids))
-    print("Y.shape[0] =", Y.shape[0],"\n")
+    print("Y.shape[0] =", Y_all.shape[0],"\n")
 
 
 
@@ -562,9 +247,9 @@ def splitset_XY(train_dates, val_dates, test_dates, Y, COIN_SHORT_NAME, count, s
     X_test  = X[test_mask, :]
 
     # 切割 Y
-    Y_train = Y[train_mask]  # shape = (len(train_mask), 5)
-    Y_val   = Y[val_mask]
-    Y_test  = Y[test_mask]
+    Y_train = Y_all[train_mask]  # shape = (len(train_mask), 1)
+    Y_val   = Y_all[val_mask]
+    Y_test  = Y_all[test_mask]
 
     # 切割 ids
     ids_train = ids[train_mask]
@@ -583,9 +268,9 @@ def splitset_XY(train_dates, val_dates, test_dates, Y, COIN_SHORT_NAME, count, s
     # print(Y_test.shape)
     print(ids_train.shape)
     print(ids_test.shape)
-
+    # for i in range(LABEL_COUNT):
+    #     print(f"第 {i} 組 Ｙ")
     val_y = Y_val if Y_val is not None else None
-    print(f"第 {count} 組 Ｙ")
     print_label_distribution(Y_train, val_y, Y_test, COIN_SHORT_NAME)
 
     return X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val, ids_test
@@ -703,7 +388,8 @@ def filter_XY(X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val
         print(f"\t保留 column 數量: {new_cols}")
         print(f"\t刪掉 column 數量: {delete_only_test}\n")
 
-    print(f"總共刪除 {total_delete_rows} 個推文 (row), {total_delete_columns} 個關鍵詞 (column)\n")
+    print(f"總共刪除 {total_delete_rows} 個推文 (row), {total_delete_columns} 個關鍵詞 (column)")
+    print(f"Train 總共保留 {X_train.shape[0]} 個推文 (row), {X_train.shape[1]} 個關鍵詞 (column)\n")
     print(f"已輸出所有關鍵詞出現次數統計到 {stats_output_path}")
     print(f"已輸出所有被過濾的關鍵詞到 {INPUT_PATH}/keyword\n")
 
@@ -762,7 +448,7 @@ def merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_
           DOGE_ids_train, DOGE_ids_val, DOGE_ids_test,
           PEPE_ids_train, PEPE_ids_val, PEPE_ids_test,
           TRUMP_ids_train, TRUMP_ids_val, TRUMP_ids_test,
-          all_vocab, count):
+          all_vocab):
 
     # 合併 X（稀疏矩陣用 sparse.vstack）
     X_train_list = [DOGE_X_train, PEPE_X_train, TRUMP_X_train]
@@ -796,24 +482,24 @@ def merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_
         X_val, Y_val, ids_val = shuffle_XY(X_val, Y_val, ids_val)
 
     # 儲存
-    sparse.save_npz(f"{INPUT_PATH}/X_train{count}.npz", X_train)
-    sparse.save_npz(f"{INPUT_PATH}/X_test{count}.npz", X_test)
-    np.savez_compressed(f"{INPUT_PATH}/Y_train{count}.npz", Y=Y_train)
-    np.savez_compressed(f"{INPUT_PATH}/Y_test{count}.npz",  Y=Y_test)
+    sparse.save_npz(f"{INPUT_PATH}/X_train.npz", X_train)
+    sparse.save_npz(f"{INPUT_PATH}/X_test.npz", X_test)
+    np.savez_compressed(f"{INPUT_PATH}/Y_train.npz", Y=Y_train)
+    np.savez_compressed(f"{INPUT_PATH}/Y_test.npz",  Y=Y_test)
 
     if X_val is not None:
-        sparse.save_npz(f"{INPUT_PATH}/X_val{count}.npz", X_val)
-        np.savez_compressed(f"{INPUT_PATH}/Y_val{count}.npz", Y=Y_val)
+        sparse.save_npz(f"{INPUT_PATH}/X_val.npz", X_val)
+        np.savez_compressed(f"{INPUT_PATH}/Y_val.npz", Y=Y_val)
 
     if ids_train is not None:
         print(ids_train.shape)
         print(ids_test.shape)
-        with open(f"{INPUT_PATH}/ids_train{count}.pkl", 'wb') as file:
+        with open(f"{INPUT_PATH}/ids_train.pkl", 'wb') as file:
             pickle.dump(ids_train.tolist(), file)
-        with open(f"{INPUT_PATH}/ids_test{count}.pkl", 'wb') as file:
+        with open(f"{INPUT_PATH}/ids_test.pkl", 'wb') as file:
             pickle.dump(ids_test.tolist(), file)
         if ids_val is not None:
-            with open(f"{INPUT_PATH}/ids_val{count}.pkl", 'wb') as file:
+            with open(f"{INPUT_PATH}/ids_val.pkl", 'wb') as file:
                 pickle.dump(ids_val.tolist(), file)
 
     # 檢查資料集維度
@@ -827,8 +513,9 @@ def merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_
 
     # 列印 merge, filter 後 每個資料集的漲跌比例
     # print(Y_train.shape)
+    # for i in range(LABEL_COUNT):
+    #     print(f"第 {i} 組 Ｙ")
     val_y = Y_val if Y_val is not None else None
-    print(f"第 {count} 組 Ｙ")
     print_label_distribution(Y_train, val_y, Y_test, "ALL")
 
     # 計算每個資料集中每天的推文總數
@@ -852,57 +539,44 @@ def print_split_number(train_expanded, val_expanded, test_expanded, COIN_SHORT_N
 
 
 
-def split_XY_preprocess(COIN_SHORT_NAME, count):
-    # 讀取三個集合的日期 (切割好的 CSV) 
-    train_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_train_dates{count}.csv")['date']
-    val_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_val_dates{count}.csv")['date']
-    test_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_test_dates{count}.csv")['date']
-
-    # 讀取 price_diff.npy
-    Y_all = np.load(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_price_diff.npy")  # shape = (5, 總推文數) -> 有五組 Y
-    Y = Y_all[:, count]
-
-    X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val, ids_test = splitset_XY(train_dates, val_dates, test_dates, Y, COIN_SHORT_NAME, count)  # 若要分出 val => splitset_XY("DOGE", True)
-
-    return X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val, ids_test
-
 def main():
 
     # 分別切資料集
-    splitset_dates("DOGE")
-    # print_split_number(DOGE_dates_train_expanded, DOGE_dates_val_expanded, DOGE_dates_test_expanded, "DOGE")
-    splitset_dates("PEPE")
-    # print_split_number(PEPE_dates_train_expanded, PEPE_dates_val_expanded, PEPE_dates_test_expanded, "PEPE")
-    splitset_dates("TRUMP")
-    # print_split_number(TRUMP_dates_train_expanded, TRUMP_dates_val_expanded, TRUMP_dates_test_expanded, "TRUMP")
+    DOGE_dates_train_expanded, DOGE_dates_val_expanded, DOGE_dates_test_expanded = splitset_dates("DOGE")
+    print_split_number(DOGE_dates_train_expanded, DOGE_dates_val_expanded, DOGE_dates_test_expanded, "DOGE")
+    DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_Y_test, DOGE_ids_train, DOGE_ids_val, DOGE_ids_test = splitset_XY("DOGE")  # 若要分出 val => splitset_XY("DOGE", True)
+    
+    PEPE_dates_train_expanded, PEPE_dates_val_expanded, PEPE_dates_test_expanded = splitset_dates("PEPE")
+    print_split_number(PEPE_dates_train_expanded, PEPE_dates_val_expanded, PEPE_dates_test_expanded, "PEPE")
+    PEPE_X_train, PEPE_X_val, PEPE_X_test, PEPE_Y_train, PEPE_Y_val, PEPE_Y_test, PEPE_ids_train, PEPE_ids_val, PEPE_ids_test = splitset_XY("PEPE")
+    
+    TRUMP_dates_train_expanded, TRUMP_dates_val_expanded, TRUMP_dates_test_expanded = splitset_dates("TRUMP")
+    print_split_number(TRUMP_dates_train_expanded, TRUMP_dates_val_expanded, TRUMP_dates_test_expanded, "TRUMP")
+    TRUMP_X_train, TRUMP_X_val, TRUMP_X_test, TRUMP_Y_train, TRUMP_Y_val, TRUMP_Y_test, TRUMP_ids_train, TRUMP_ids_val, TRUMP_ids_test = splitset_XY("TRUMP")
+    
+    
+    # 讀取所有關鍵詞的名字
+    json_path = os.path.join("../data/keyword/machine_learning", "all_keywords.json")
+    with open(json_path, "r", encoding="utf-8") as f:
+        vocab = json.load(f)
 
-    for count in range(LABEL_COUNT):
-        
-        DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_Y_test, DOGE_ids_train, DOGE_ids_val, DOGE_ids_test = split_XY_preprocess("DOGE", count)  # 若要分出 val => splitset_XY("DOGE", True)
-        PEPE_X_train, PEPE_X_val, PEPE_X_test, PEPE_Y_train, PEPE_Y_val, PEPE_Y_test, PEPE_ids_train, PEPE_ids_val, PEPE_ids_test = split_XY_preprocess("PEPE", count)
-        TRUMP_X_train, TRUMP_X_val, TRUMP_X_test, TRUMP_Y_train, TRUMP_Y_val, TRUMP_Y_test, TRUMP_ids_train, TRUMP_ids_val, TRUMP_ids_test = split_XY_preprocess("TRUMP", count)
+    all_vocab = list(vocab)
 
-        # 讀取所有關鍵詞的名字
-        json_path = os.path.join("../data/keyword/machine_learning", "all_keywords.json")
-        with open(json_path, "r", encoding="utf-8") as f:
-            vocab = json.load(f)
-
-        all_vocab = list(vocab)
-
-        print(DOGE_ids_train.shape)
-        print(DOGE_ids_test.shape)
-        print(PEPE_ids_train.shape)
-        print(PEPE_ids_test.shape)
-        print(TRUMP_ids_train.shape)
-        print(TRUMP_ids_test.shape)
-        # 合併資料集
-        merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_Y_test,
-            PEPE_X_train, PEPE_X_val, PEPE_X_test, PEPE_Y_train, PEPE_Y_val, PEPE_Y_test,
-            TRUMP_X_train, TRUMP_X_val, TRUMP_X_test, TRUMP_Y_train, TRUMP_Y_val, TRUMP_Y_test,
-            DOGE_ids_train, DOGE_ids_val, DOGE_ids_test,
-            PEPE_ids_train, PEPE_ids_val, PEPE_ids_test,
-            TRUMP_ids_train, TRUMP_ids_val, TRUMP_ids_test,
-            all_vocab, count)
+    print(DOGE_ids_train.shape)
+    print(DOGE_ids_test.shape)
+    print(PEPE_ids_train.shape)
+    print(PEPE_ids_test.shape)
+    print(TRUMP_ids_train.shape)
+    print(TRUMP_ids_test.shape)
+    
+    # 合併資料集
+    merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_Y_test,
+        PEPE_X_train, PEPE_X_val, PEPE_X_test, PEPE_Y_train, PEPE_Y_val, PEPE_Y_test,
+        TRUMP_X_train, TRUMP_X_val, TRUMP_X_test, TRUMP_Y_train, TRUMP_Y_val, TRUMP_Y_test,
+        DOGE_ids_train, DOGE_ids_val, DOGE_ids_test,
+        PEPE_ids_train, PEPE_ids_val, PEPE_ids_test,
+        TRUMP_ids_train, TRUMP_ids_val, TRUMP_ids_test,
+        all_vocab)
     
 
 if __name__ == "__main__":

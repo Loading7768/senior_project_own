@@ -40,10 +40,11 @@ convergence after 7764 epochs took 5948 seconds
 '2024/10/30', '2024/11/04', '2024/11/27']
 
 
-Get-ChildItem -Path "D:\senior_project_own" -Recurse -File |
-Where-Object { $_.Length -ge 100MB } |
-Select-Object FullName, @{Name="SizeMB"; Expression={ "{0:N2}" -f ($_.Length / 1MB) }} |
-Export-Csv -Path "D:\senior_project_own\large_files.csv" -NoTypeInformation -Encoding UTF8
+# Get-ChildItem -Path "D:\senior_project_own" -Recurse -File |
+# Where-Object { $_.Length -ge 100MB } |
+# Select-Object FullName, @{Name="SizeMB"; Expression={ "{0:N2}" -f ($_.Length / 1MB) }} |
+# Export-Csv -Path "D:\senior_project_own\large_files.csv" -NoTypeInformation -Encoding UTF8
+
 
 =TEXT(EPOCHTODATE(A2, 2), "yyyy/mm/dd")
 
@@ -55,3 +56,96 @@ coingecko 沒有價錢的日期：
 coingecko 時間錯誤的日期：
 2018-01-30
 2018-02-08
+
+
+
+Random search 最佳參數: {'C': np.float64(0.11476832286762982)}
+Random search 最佳交叉驗證準確率: 0.5632280015845089
+[RUN 9] Train acc=0.6023, Test acc=0.5244, Best params={'C': np.float64(0.11476832286762982)}
+
+=== 所有 Run 的結果 ===
+   run  train_acc  test_acc                   best_params
+0    0   0.603264  0.525171   {'C': 0.002231010801867922}
+1    1   0.603374  0.523445  {'C': 0.0014930795478222975}
+2    2   0.601382  0.523172     {'C': 0.2847315938366524}
+3    3   0.602014  0.522157   {'C': 0.009548753654513251}
+4    4   0.602340  0.522157   {'C': 0.001807976120658858}
+5    5   0.602266  0.524274   {'C': 0.004796570491695455}
+6    6   0.602962  0.524353     {'C': 0.4842568729538462}
+7    7   0.602496  0.523975    {'C': 0.01830387393209392}
+8    8   0.603712  0.525257    {'C': 0.18360757138767084}
+9    9   0.602258  0.524403    {'C': 0.11476832286762982}
+
+=== 最佳模型 ===
+Run 8 | Train acc=0.6037, Test acc=0.5253
+最佳參數: {'C': np.float64(0.18360757138767084)}
+已儲存最佳 pipeline 到 ../data/ml/models/classification/logreg_best_pipeline.joblib
+
+分類報告 (Test set):
+              precision    recall  f1-score   support
+
+           0       0.55      0.50      0.52    362338
+           1       0.51      0.56      0.53    338110
+
+    accuracy                           0.53    700448
+   macro avg       0.53      0.53      0.53    700448
+weighted avg       0.53      0.53      0.53    700448
+
+關鍵詞係數已存成 JSON：../data/ml/classification/logistic_regression/logistic_regression_keyword_coefficients.json
+
+被排除的日期（沒有推文或無法計算價格變化）:
+['2014/02/16', '2014/04/20', '2014/04/24', '2015/11/03', '2015/11/05', '2015/12/03', '2021/03/07', '2021/03/08', '2021/03/14', '2022/03/12', '2024/02/13', '2024/04/15', '2024/05/21', '2024/05/23', '2024/06/02', '2024/06/17', '2024/06/22', '2024/08/11', '2024/08/13', '2024/08/15', '2024/08/30', '2024/09/11', '2024/09/15', '2024/09/17', '2024/09/24', '2024/10/18', '2024/10/21', '2024/10/30', '2024/11/04', '2024/11/27']
+
+
+
+
+Result - Stopped on time limit
+
+Objective value:                2.40000000
+Lower bound:                    0.000
+Gap:                            29632154064.92
+Enumerated nodes:               172461
+Total iterations:               606025
+Time (CPU seconds):             603.03
+Time (Wallclock seconds):       603.04
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       603.10   (Wallclock seconds):       603.11
+
+
+=== DOGE Y_0 ===
+Train: 總數 2164190, 漲 1041577 (48.13%), 跌 1122613 (51.87%)
+Val: 總數 270524, 漲 130197 (48.13%), 跌 140327 (51.87%)
+Test: 總數 270524, 漲 130197 (48.13%), 跌 140327 (51.87%)
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+
+DOGE：
+RMSE: 0.02583000527485015
+MAE: 0.014068894951267025
+R²: 0.918791957182784
+
+PEPE：
+RMSE: 4.167994616154881e-06
+MAE: 3.5849014028073198e-06
+R²: -2.7031898568013424
+
+TRUMP：
+RMSE: 0.9342886538279714
+MAE: 0.7608532928222778
+R²: -2.6076634063958366
+
+
+✅ 已儲存 price_diff_rate_tomorrow 矩陣到 ../data/ml/dataset/coin_price/DOGE_price_diff.npy，共: 2705238 筆
+✅ 已儲存 DOGE_price_diff_past5days.npy，形狀: (2173, 10)
+
+一個小時6篇推文以上的：2776
+
+
+Dream Chaser(11_Tsunami)
+$1400 Stimulus is Now Worth(1400stimulus)
+$1200 Stimulus is Now Worth
+DogecoinPrice(DogecoinP)
+dogecoinprice
