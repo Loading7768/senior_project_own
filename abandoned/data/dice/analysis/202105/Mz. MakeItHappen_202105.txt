@@ -1,0 +1,22 @@
+﻿X = [Good morning #DogecoinToTheMoon #DogecoinRise #doge #dogecoin]
+X_token = [good, morning, dogecointothemoon, dogecoinrise, doge, dogecoin]
+	X tweet_count = [8]
+	X username = [Mz. MakeItHappen]
+Y = [Good morning #doge #DogecoinRise #dogecoin https://t.co/s1XPtAZSgd]
+Y_token = [good, morning, doge, dogecoinrise, dogecoin, https]
+	Y tweet_count = [28]
+	Y username = [Mz. MakeItHappen]
+Total Length: X = 61, Y = 66 (Y / X = 108.20  X / Y = 92.42)
+Dice Coefficient: 83.33% 
+
+X = [#dogecoin #DogecoinToTheMoon #DogecoinRise let’s goooooooooo .50 https://t.co/3XRmykFxVB]
+X_token = [dogecoin, dogecointothemoon, dogecoinrise, let, goooooooooo, https]
+	X tweet_count = [15]
+	X username = [Mz. MakeItHappen]
+Y = [#DogecoinRise once again #doge #DogecoinToTheMoon #dogecoin https://t.co/1zAoFGO1Th]
+Y_token = [dogecoinrise, doge, dogecointothemoon, dogecoin, https]
+	Y tweet_count = [19]
+	Y username = [Mz. MakeItHappen]
+Total Length: X = 88, Y = 83 (Y / X = 94.32  X / Y = 106.02)
+Dice Coefficient: 72.73% 
+

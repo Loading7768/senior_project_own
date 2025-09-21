@@ -1,0 +1,77 @@
+﻿X = [I asked my roommate if I could pay her in #dogecoin she told me to kiss her #dogecoin guess that’s a yes?]
+X_token = [asked, roommate, could, pay, dogecoin, told, kiss, dogecoin, guess, yes]
+	X tweet_count = [11]
+	X username = [HeyCulture]
+Y = [I asked my roommate if I could pay her in #dogecoin she told her to kiss her #dogecoin guess that’s a yes?]
+Y_token = [asked, roommate, could, pay, dogecoin, told, kiss, dogecoin, guess, yes]
+	Y tweet_count = [12]
+	Y username = [HeyCulture]
+Total Length: X = 105, Y = 106 (Y / X = 100.95  X / Y = 99.06)
+Dice Coefficient: 100.00% 
+
+X = [Thanks for the sale #dogecoin #DogecoinToTheMoon https://t.co/Of71EgMw8f]
+X_token = [thanks, sale, dogecoin, dogecointothemoon, https]
+	X tweet_count = [28]
+	X username = [HeyCulture]
+Y = [When #dogecoin is on sale 💎💎💎💎💎💎💎💎💎💎💎 https://t.co/1HW9X3psgq]
+Y_token = [dogecoin, sale, https]
+	Y tweet_count = [102]
+	Y username = [HeyCulture]
+Total Length: X = 72, Y = 61 (Y / X = 84.72  X / Y = 118.03)
+Dice Coefficient: 75.00% 
+
+X = [Half price Tesla’s, Rockets, and more. Thank you @elonmusk #dogecoin TO THE MOON]
+X_token = [half, price, tesla, rockets, thank, elonmusk, dogecoin, moon]
+	X tweet_count = [33]
+	X username = [HeyCulture]
+Y = [@engineers_feed @elonmusk buy Dogecoin you will have half price TESLA]
+Y_token = [elonmusk, buy, dogecoin, half, price, tesla]
+	Y tweet_count = [63]
+	Y username = [HeyCulture]
+Total Length: X = 80, Y = 69 (Y / X = 86.25  X / Y = 115.94)
+Dice Coefficient: 71.43% 
+
+X = [@Publix I would purchased more groceries in your store. Unfortunately you do not accept #dogecoin yet.]
+X_token = [publix, would, purchased, groceries, store, unfortunately, accept, dogecoin, yet]
+	X tweet_count = [53]
+	X username = [HeyCulture]
+Y = [@Wawa I would have purchased more items in your store. Unfortunately you don't accept #dogecoin yet.]
+Y_token = [wawa, would, purchased, items, store, unfortunately, accept, dogecoin, yet]
+	Y tweet_count = [54]
+	Y username = [HeyCulture]
+Total Length: X = 102, Y = 100 (Y / X = 98.04  X / Y = 102.00)
+Dice Coefficient: 77.78% 
+
+X = [@elonmusk but what about @Tesla and #dogecoin]
+X_token = [elonmusk, tesla, dogecoin]
+	X tweet_count = [69]
+	X username = [HeyCulture]
+Y = [@elonmusk can I trade you 20k #Dogecoin for a @Tesla]
+Y_token = [elonmusk, trade, 20k, dogecoin, tesla]
+	Y tweet_count = [117]
+	Y username = [HeyCulture]
+Total Length: X = 45, Y = 52 (Y / X = 115.56  X / Y = 86.54)
+Dice Coefficient: 75.00% 
+
+X = [Ask not what your #dogecoin can do for you – ask what @Tesla  can do for your #dogecoin]
+X_token = [ask, dogecoin, ask, tesla, dogecoin]
+	X tweet_count = [74]
+	X username = [HeyCulture]
+Y = [Ask not what your #dogecoin can do for you – ask what you can do for your #dogecoin]
+Y_token = [ask, dogecoin, ask, dogecoin]
+	Y tweet_count = [76]
+	Y username = [HeyCulture]
+Total Length: X = 87, Y = 83 (Y / X = 95.40  X / Y = 104.82)
+Dice Coefficient: 80.00% 
+
+X = [Ask not what @elonmusk  can do for #dogecoin – ask what you can do for  #dogecoin]
+X_token = [ask, elonmusk, dogecoin, ask, dogecoin]
+	X tweet_count = [75]
+	X username = [HeyCulture]
+Y = [Ask not what your #dogecoin can do for you – ask what you can do for your #dogecoin]
+Y_token = [ask, dogecoin, ask, dogecoin]
+	Y tweet_count = [76]
+	Y username = [HeyCulture]
+Total Length: X = 81, Y = 83 (Y / X = 102.47  X / Y = 97.59)
+Dice Coefficient: 80.00% 
+

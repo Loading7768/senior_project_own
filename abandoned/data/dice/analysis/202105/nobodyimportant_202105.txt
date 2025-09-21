@@ -1,0 +1,11 @@
+﻿X = [@danheld @elonmusk Just buy $doge]
+X_token = [danheld, elonmusk, buy, doge]
+	X tweet_count = [49]
+	X username = [nobodyimportant]
+Y = [@elonmusk @cleantechnica Buy some $doge]
+Y_token = [elonmusk, cleantechnica, buy, doge]
+	Y tweet_count = [60]
+	Y username = [nobodyimportant]
+Total Length: X = 33, Y = 39 (Y / X = 118.18  X / Y = 84.62)
+Dice Coefficient: 75.00% 
+

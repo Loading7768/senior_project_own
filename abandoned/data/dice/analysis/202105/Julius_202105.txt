@@ -1,0 +1,22 @@
+﻿X = [#Dogecoin is the FUTURE\n\n#dogetothemoon #dogecoin #doge #dogearmy]
+X_token = [dogecoin, future, dogetothemoon, dogecoin, doge, dogearmy]
+	X tweet_count = [1]
+	X username = [Julius]
+Y = [Where’s my #dogefamily at? \n\n#dogecoin #doge #dogearmy #dogetothemoon]
+Y_token = [dogefamily, dogecoin, doge, dogearmy, dogetothemoon]
+	Y tweet_count = [60]
+	Y username = [Julius]
+Total Length: X = 65, Y = 69 (Y / X = 106.15  X / Y = 94.20)
+Dice Coefficient: 80.00% 
+
+X = [Who else is going to watch the SNL tonight? \n\n#elonmusk #dogecoin #bitcoin #doge #snl #SNLdoge]
+X_token = [else, going, watch, snl, tonight, elonmusk, dogecoin, bitcoin, doge, snl, snldoge]
+	X tweet_count = [21]
+	X username = [Julius]
+Y = [Is DogeCoin going to hit $1 tonight? \n\n#doge #dogecoin #bitcoin #SNLdoge #snl #elonmusk https://t.co/cGVrmaIxkQ]
+Y_token = [dogecoin, going, hit, 1, tonight, doge, dogecoin, bitcoin, snldoge, snl, elonmusk, https]
+	Y tweet_count = [22]
+	Y username = [Julius]
+Total Length: X = 94, Y = 111 (Y / X = 118.09  X / Y = 84.68)
+Dice Coefficient: 76.19% 
+

@@ -1,0 +1,913 @@
+﻿X = [@itsALLrisky please Add  #adddogecointocoinbase to your tweets. Article on NASDAQ website mentions the # campaign. #dogecoin]
+X_token = [itsallrisky, please, add, adddogecointocoinbase, tweets, article, nasdaq, website, mentions, campaign, dogecoin]
+	X tweet_count = [8]
+	X username = [Todd Tuller]
+Y = [Add  #adddogecointocoinbase to your tweets. Article on NASDAQ website mentions the # campaign. #dogecoin]
+Y_token = [add, adddogecointocoinbase, tweets, article, nasdaq, website, mentions, campaign, dogecoin]
+	Y tweet_count = [9]
+	Y username = [Todd Tuller]
+Total Length: X = 124, Y = 104 (Y / X = 83.87  X / Y = 119.23)
+Dice Coefficient: 90.00% 
+
+X = [@mcuban @dogecoin @dallasmavsshop Thank you @mcuban]
+X_token = [mcuban, dogecoin, dallasmavsshop, thank, mcuban]
+	X tweet_count = [12]
+	X username = [Todd Tuller]
+Y = [Thank you @mcuban !!! #dogecoin #dogearmy]
+Y_token = [thank, mcuban, dogecoin, dogearmy]
+	Y tweet_count = [171]
+	Y username = [Todd Tuller]
+Total Length: X = 51, Y = 41 (Y / X = 80.39  X / Y = 124.39)
+Dice Coefficient: 75.00% 
+
+X = [Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet #dogecoin]
+X_token = [diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet, dogecoin]
+	X tweet_count = [14]
+	X username = [Todd Tuller]
+Y = [@RoxaneL62096190 Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet]
+Y_token = [roxanel62096190, diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	Y tweet_count = [16]
+	Y username = [Todd Tuller]
+Total Length: X = 112, Y = 119 (Y / X = 106.25  X / Y = 94.12)
+Dice Coefficient: 96.30% 
+
+X = [Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet #dogecoin]
+X_token = [diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet, dogecoin]
+	X tweet_count = [14]
+	X username = [Todd Tuller]
+Y = [@elnightowl08 Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet]
+Y_token = [elnightowl08, diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	Y tweet_count = [17]
+	Y username = [Todd Tuller]
+Total Length: X = 112, Y = 116 (Y / X = 103.57  X / Y = 96.55)
+Dice Coefficient: 96.30% 
+
+X = [Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet #dogecoin]
+X_token = [diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet, dogecoin]
+	X tweet_count = [14]
+	X username = [Todd Tuller]
+Y = [Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers, and RobinHood wallet]
+Y_token = [diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	Y tweet_count = [19]
+	Y username = [Todd Tuller]
+Total Length: X = 112, Y = 103 (Y / X = 91.96  X / Y = 108.74)
+Dice Coefficient: 100.00% 
+
+X = [@RoxaneL62096190 Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet]
+X_token = [roxanel62096190, diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	X tweet_count = [16]
+	X username = [Todd Tuller]
+Y = [@elnightowl08 Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet]
+Y_token = [elnightowl08, diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	Y tweet_count = [17]
+	Y username = [Todd Tuller]
+Total Length: X = 119, Y = 116 (Y / X = 97.48  X / Y = 102.59)
+Dice Coefficient: 92.86% 
+
+X = [@RoxaneL62096190 Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet]
+X_token = [roxanel62096190, diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	X tweet_count = [16]
+	X username = [Todd Tuller]
+Y = [Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers, and RobinHood wallet]
+Y_token = [diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	Y tweet_count = [19]
+	Y username = [Todd Tuller]
+Total Length: X = 119, Y = 103 (Y / X = 86.55  X / Y = 115.53)
+Dice Coefficient: 96.30% 
+
+X = [@elnightowl08 Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers and RobinHood wallet]
+X_token = [elnightowl08, diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	X tweet_count = [17]
+	X username = [Todd Tuller]
+Y = [Diamond Paw’s always win #dogecoin hold till a dollar or at least coinbase offers, and RobinHood wallet]
+Y_token = [diamond, paw, always, win, dogecoin, hold, till, dollar, least, coinbase, offers, robinhood, wallet]
+	Y tweet_count = [19]
+	Y username = [Todd Tuller]
+Total Length: X = 116, Y = 103 (Y / X = 88.79  X / Y = 112.62)
+Dice Coefficient: 96.30% 
+
+X = [@TatsugoChannel Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [tatsugochannel, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [21]
+	X username = [Todd Tuller]
+Y = [@jordibovem Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+Y_token = [jordibovem, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [22]
+	Y username = [Todd Tuller]
+Total Length: X = 156, Y = 152 (Y / X = 97.44  X / Y = 102.63)
+Dice Coefficient: 94.74% 
+
+X = [@TatsugoChannel Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [tatsugochannel, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [21]
+	X username = [Todd Tuller]
+Y = [@Doge_Storm @brittanyland_ Still so many things to look forward to coinbase, Robin Hood wallet   diamond hands is going to win. Every day it gets more popular #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [24]
+	Y username = [Todd Tuller]
+Total Length: X = 156, Y = 168 (Y / X = 107.69  X / Y = 92.86)
+Dice Coefficient: 97.30% 
+
+X = [@TatsugoChannel Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [tatsugochannel, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [21]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, RobinHood wallet, diamond hands is going to win. Every day it gets more popular  #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robinhood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [25]
+	Y username = [Todd Tuller]
+Total Length: X = 156, Y = 140 (Y / X = 89.74  X / Y = 111.43)
+Dice Coefficient: 88.89% 
+
+X = [@TatsugoChannel Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [tatsugochannel, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [21]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin, dogecoin]
+	Y tweet_count = [27]
+	Y username = [Todd Tuller]
+Total Length: X = 156, Y = 150 (Y / X = 96.15  X / Y = 104.00)
+Dice Coefficient: 97.30% 
+
+X = [@TatsugoChannel Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [tatsugochannel, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [21]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [29]
+	Y username = [Todd Tuller]
+Total Length: X = 156, Y = 140 (Y / X = 89.74  X / Y = 111.43)
+Dice Coefficient: 97.30% 
+
+X = [@jordibovem Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [jordibovem, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [22]
+	X username = [Todd Tuller]
+Y = [@Doge_Storm @brittanyland_ Still so many things to look forward to coinbase, Robin Hood wallet   diamond hands is going to win. Every day it gets more popular #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [24]
+	Y username = [Todd Tuller]
+Total Length: X = 152, Y = 168 (Y / X = 110.53  X / Y = 90.48)
+Dice Coefficient: 97.30% 
+
+X = [@jordibovem Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [jordibovem, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [22]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, RobinHood wallet, diamond hands is going to win. Every day it gets more popular  #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robinhood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [25]
+	Y username = [Todd Tuller]
+Total Length: X = 152, Y = 140 (Y / X = 92.11  X / Y = 108.57)
+Dice Coefficient: 88.89% 
+
+X = [@jordibovem Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [jordibovem, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [22]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin, dogecoin]
+	Y tweet_count = [27]
+	Y username = [Todd Tuller]
+Total Length: X = 152, Y = 150 (Y / X = 98.68  X / Y = 101.33)
+Dice Coefficient: 97.30% 
+
+X = [@jordibovem Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [jordibovem, still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [22]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [29]
+	Y username = [Todd Tuller]
+Total Length: X = 152, Y = 140 (Y / X = 92.11  X / Y = 108.57)
+Dice Coefficient: 97.30% 
+
+X = [@Doge_Storm @brittanyland_ Still so many things to look forward to coinbase, Robin Hood wallet   diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [24]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, RobinHood wallet, diamond hands is going to win. Every day it gets more popular  #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robinhood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [25]
+	Y username = [Todd Tuller]
+Total Length: X = 168, Y = 140 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 91.43% 
+
+X = [@Doge_Storm @brittanyland_ Still so many things to look forward to coinbase, Robin Hood wallet   diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [24]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin, dogecoin]
+	Y tweet_count = [27]
+	Y username = [Todd Tuller]
+Total Length: X = 168, Y = 150 (Y / X = 89.29  X / Y = 112.00)
+Dice Coefficient: 100.00% 
+
+X = [@Doge_Storm @brittanyland_ Still so many things to look forward to coinbase, Robin Hood wallet   diamond hands is going to win. Every day it gets more popular #dogecoin]
+X_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [24]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [29]
+	Y username = [Todd Tuller]
+Total Length: X = 168, Y = 140 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 100.00% 
+
+X = [Still so many things to look forward to coinbase, RobinHood wallet, diamond hands is going to win. Every day it gets more popular  #dogecoin]
+X_token = [still, many, things, look, forward, coinbase, robinhood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [25]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin, dogecoin]
+	Y tweet_count = [27]
+	Y username = [Todd Tuller]
+Total Length: X = 140, Y = 150 (Y / X = 107.14  X / Y = 93.33)
+Dice Coefficient: 91.43% 
+
+X = [Still so many things to look forward to coinbase, RobinHood wallet, diamond hands is going to win. Every day it gets more popular  #dogecoin]
+X_token = [still, many, things, look, forward, coinbase, robinhood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	X tweet_count = [25]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [29]
+	Y username = [Todd Tuller]
+Total Length: X = 140, Y = 140 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 91.43% 
+
+X = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin #dogecoin]
+X_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin, dogecoin]
+	X tweet_count = [27]
+	X username = [Todd Tuller]
+Y = [Still so many things to look forward to coinbase, Robin Hood wallet, diamond hands is going to win. Every day it gets more popular #dogecoin]
+Y_token = [still, many, things, look, forward, coinbase, robin, hood, wallet, diamond, hands, going, win, every, day, gets, popular, dogecoin]
+	Y tweet_count = [29]
+	Y username = [Todd Tuller]
+Total Length: X = 150, Y = 140 (Y / X = 93.33  X / Y = 107.14)
+Dice Coefficient: 100.00% 
+
+X = [Good morning #DogeArmy let’s get #dogecoin trending again today. If these celebrities want to go to the moon with us, would be nice if they do some promoting. Would be good for all.]
+X_token = [good, morning, dogearmy, let, get, dogecoin, trending, today, celebrities, want, go, moon, us, would, nice, promoting, would, good]
+	X tweet_count = [37]
+	X username = [Todd Tuller]
+Y = [Good morning #DogeArmy let’s get #dogecoin trending again today. If these celebrities want to go to the moon with us, they need to do some promoting. Would be good for all.]
+Y_token = [good, morning, dogearmy, let, get, dogecoin, trending, today, celebrities, want, go, moon, us, need, promoting, would, good]
+	Y tweet_count = [41]
+	Y username = [Todd Tuller]
+Total Length: X = 181, Y = 172 (Y / X = 95.03  X / Y = 105.23)
+Dice Coefficient: 93.75% 
+
+X = [Dogecoin Market Cap Surpasses Ford And Kraft. Trip to the moon is back on. Everybody hold. It’s all good #dogecoin #dogecoin]
+X_token = [dogecoin, market, cap, surpasses, ford, kraft, trip, moon, back, everybody, hold, good, dogecoin, dogecoin]
+	X tweet_count = [61]
+	X username = [Todd Tuller]
+Y = [Dogecoin Market Cap Surpasses Ford And Kraft straight from Robinhood’s news page. Everybody hold. It’s all good #dogecoin #dogecoin]
+Y_token = [dogecoin, market, cap, surpasses, ford, kraft, straight, robinhood, news, page, everybody, hold, good, dogecoin, dogecoin]
+	Y tweet_count = [64]
+	Y username = [Todd Tuller]
+Total Length: X = 124, Y = 131 (Y / X = 105.65  X / Y = 94.66)
+Dice Coefficient: 72.00% 
+
+X = [Dogecoin Market Cap Surpasses Ford And Kraft. Trip to the moon is back on. Everybody hold. It’s all good #dogecoin #dogecoin]
+X_token = [dogecoin, market, cap, surpasses, ford, kraft, trip, moon, back, everybody, hold, good, dogecoin, dogecoin]
+	X tweet_count = [61]
+	X username = [Todd Tuller]
+Y = [Dogecoin Market Cap Surpasses Ford And Kraft straight from Robinhood’s news page. Everybody hold. It’s all good #dogecoin]
+Y_token = [dogecoin, market, cap, surpasses, ford, kraft, straight, robinhood, news, page, everybody, hold, good, dogecoin]
+	Y tweet_count = [65]
+	Y username = [Todd Tuller]
+Total Length: X = 124, Y = 121 (Y / X = 97.58  X / Y = 102.48)
+Dice Coefficient: 72.00% 
+
+X = [Dogecoin Market Cap Surpasses Ford And Kraft straight from Robinhood’s news page. Everybody hold. It’s all good #dogecoin #dogecoin]
+X_token = [dogecoin, market, cap, surpasses, ford, kraft, straight, robinhood, news, page, everybody, hold, good, dogecoin, dogecoin]
+	X tweet_count = [64]
+	X username = [Todd Tuller]
+Y = [Dogecoin Market Cap Surpasses Ford And Kraft straight from Robinhood’s news page. Everybody hold. It’s all good #dogecoin]
+Y_token = [dogecoin, market, cap, surpasses, ford, kraft, straight, robinhood, news, page, everybody, hold, good, dogecoin]
+	Y tweet_count = [65]
+	Y username = [Todd Tuller]
+Total Length: X = 131, Y = 121 (Y / X = 92.37  X / Y = 108.26)
+Dice Coefficient: 100.00% 
+
+X = [Everybody hold. Best is yet to come. We’ve been through the dips before. Looks like we established a new floor at $.30. only go up from there. #dogecoin #dogecoin]
+X_token = [everybody, hold, best, yet, come, dips, looks, like, established, new, floor, go, dogecoin, dogecoin]
+	X tweet_count = [67]
+	X username = [Todd Tuller]
+Y = [Everybody hold. Best is yet to come. We’ve been through the dips before. Looks like we established a new floor at $.30.  only go up from there. #dogecoin #dogecoin]
+Y_token = [everybody, hold, best, yet, come, dips, looks, like, established, new, floor, go, dogecoin, dogecoin]
+	Y tweet_count = [70]
+	Y username = [Todd Tuller]
+Total Length: X = 162, Y = 163 (Y / X = 100.62  X / Y = 99.39)
+Dice Coefficient: 100.00% 
+
+X = [Everybody hold. Best is yet to come. We’ve been through the dips before. Looks like we established a new floor at $.30. only go up from there. #dogecoin #dogecoin]
+X_token = [everybody, hold, best, yet, come, dips, looks, like, established, new, floor, go, dogecoin, dogecoin]
+	X tweet_count = [67]
+	X username = [Todd Tuller]
+Y = [Everybody hold. Best is yet to come. We’ve been through the dips before. Looks like we established a new floor at $.30.  only go up from there. #dogecoin]
+Y_token = [everybody, hold, best, yet, come, dips, looks, like, established, new, floor, go, dogecoin]
+	Y tweet_count = [72]
+	Y username = [Todd Tuller]
+Total Length: X = 162, Y = 153 (Y / X = 94.44  X / Y = 105.88)
+Dice Coefficient: 100.00% 
+
+X = [Everybody hold. Best is yet to come. We’ve been through the dips before. Looks like we established a new floor at $.30.  only go up from there. #dogecoin #dogecoin]
+X_token = [everybody, hold, best, yet, come, dips, looks, like, established, new, floor, go, dogecoin, dogecoin]
+	X tweet_count = [70]
+	X username = [Todd Tuller]
+Y = [Everybody hold. Best is yet to come. We’ve been through the dips before. Looks like we established a new floor at $.30.  only go up from there. #dogecoin]
+Y_token = [everybody, hold, best, yet, come, dips, looks, like, established, new, floor, go, dogecoin]
+	Y tweet_count = [72]
+	Y username = [Todd Tuller]
+Total Length: X = 163, Y = 153 (Y / X = 93.87  X / Y = 106.54)
+Dice Coefficient: 100.00% 
+
+X = [We took it from $.05 cents-$.40. This is normal. We will be on the Moon by The Weeknd #dogecoin. Diamond hands win. Everybody hold #dogecoin]
+X_token = [took, normal, moon, weeknd, dogecoin, diamond, hands, win, everybody, hold, dogecoin]
+	X tweet_count = [77]
+	X username = [Todd Tuller]
+Y = [Over the weekend we were down Monday right back up. This is normal. We will be on the Moon by The Weeknd #dogecoin. Diamond hands #win. Everybody hold #dogecoin]
+Y_token = [weekend, monday, right, back, normal, moon, weeknd, dogecoin, diamond, hands, win, everybody, hold, dogecoin]
+	Y tweet_count = [78]
+	Y username = [Todd Tuller]
+Total Length: X = 140, Y = 160 (Y / X = 114.29  X / Y = 87.50)
+Dice Coefficient: 78.26% 
+
+X = [We took it from $.05 cents-$.40. This is normal. We will be on the Moon by The Weeknd #dogecoin. Diamond hands win. Everybody hold #dogecoin]
+X_token = [took, normal, moon, weeknd, dogecoin, diamond, hands, win, everybody, hold, dogecoin]
+	X tweet_count = [77]
+	X username = [Todd Tuller]
+Y = [Over the weekend we were down Monday right back up. This is normal. We will be on the Moon by The Weeknd #dogecoin. Diamond hands win. Everybody hold]
+Y_token = [weekend, monday, right, back, normal, moon, weeknd, dogecoin, diamond, hands, win, everybody, hold]
+	Y tweet_count = [79]
+	Y username = [Todd Tuller]
+Total Length: X = 140, Y = 149 (Y / X = 106.43  X / Y = 93.96)
+Dice Coefficient: 78.26% 
+
+X = [Over the weekend we were down Monday right back up. This is normal. We will be on the Moon by The Weeknd #dogecoin. Diamond hands #win. Everybody hold #dogecoin]
+X_token = [weekend, monday, right, back, normal, moon, weeknd, dogecoin, diamond, hands, win, everybody, hold, dogecoin]
+	X tweet_count = [78]
+	X username = [Todd Tuller]
+Y = [Over the weekend we were down Monday right back up. This is normal. We will be on the Moon by The Weeknd #dogecoin. Diamond hands win. Everybody hold]
+Y_token = [weekend, monday, right, back, normal, moon, weeknd, dogecoin, diamond, hands, win, everybody, hold]
+	Y tweet_count = [79]
+	Y username = [Todd Tuller]
+Total Length: X = 160, Y = 149 (Y / X = 93.12  X / Y = 107.38)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin still undervalued #dogearmy think of all there’s to look too.]
+X_token = [dogecoin, still, undervalued, dogearmy, think, look]
+	X tweet_count = [111]
+	X username = [Todd Tuller]
+Y = [#dogecoin still undervalued #dogearmy think of all there’s to look too]
+Y_token = [dogecoin, still, undervalued, dogearmy, think, look]
+	Y tweet_count = [112]
+	Y username = [Todd Tuller]
+Total Length: X = 71, Y = 70 (Y / X = 98.59  X / Y = 101.43)
+Dice Coefficient: 100.00% 
+
+X = [New altcoin era? Dogecoin liquidations briefly surpass Bitcoin. Great article on @Robinhood news page. where you at @coinbase @CoinbasePro #dogecoin \n #dogearmy #dogearmy]
+X_token = [new, altcoin, era, dogecoin, liquidations, briefly, surpass, bitcoin, great, article, robinhood, news, page, coinbase, coinbasepro, dogecoin, dogearmy, dogearmy]
+	X tweet_count = [113]
+	X username = [Todd Tuller]
+Y = [New altcoin era? Dogecoin liquidations briefly surpass Bitcoin. Great article on @Robinhood news page. where you at @coinbase @CoinbasePro #dogecoin \n #dogearmy]
+Y_token = [new, altcoin, era, dogecoin, liquidations, briefly, surpass, bitcoin, great, article, robinhood, news, page, coinbase, coinbasepro, dogecoin, dogearmy]
+	Y tweet_count = [114]
+	Y username = [Todd Tuller]
+Total Length: X = 170, Y = 160 (Y / X = 94.12  X / Y = 106.25)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy#dogearmy]
+X_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy, dogearmy]
+	X tweet_count = [115]
+	X username = [Todd Tuller]
+Y = [It looks like we’re fixing to blast off.  #dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. #dogearmy]
+Y_token = [looks, like, fixing, blast, dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy]
+	Y tweet_count = [116]
+	Y username = [Todd Tuller]
+Total Length: X = 181, Y = 213 (Y / X = 117.68  X / Y = 84.98)
+Dice Coefficient: 88.24% 
+
+X = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy#dogearmy]
+X_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy, dogearmy]
+	X tweet_count = [115]
+	X username = [Todd Tuller]
+Y = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy #dogearmy]
+Y_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy, dogearmy]
+	Y tweet_count = [117]
+	Y username = [Todd Tuller]
+Total Length: X = 181, Y = 182 (Y / X = 100.55  X / Y = 99.45)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy#dogearmy]
+X_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy, dogearmy]
+	X tweet_count = [115]
+	X username = [Todd Tuller]
+Y = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy]
+Y_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy]
+	Y tweet_count = [118]
+	Y username = [Todd Tuller]
+Total Length: X = 181, Y = 172 (Y / X = 95.03  X / Y = 105.23)
+Dice Coefficient: 100.00% 
+
+X = [It looks like we’re fixing to blast off.  #dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. #dogearmy]
+X_token = [looks, like, fixing, blast, dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy]
+	X tweet_count = [116]
+	X username = [Todd Tuller]
+Y = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy #dogearmy]
+Y_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy, dogearmy]
+	Y tweet_count = [117]
+	Y username = [Todd Tuller]
+Total Length: X = 213, Y = 182 (Y / X = 85.45  X / Y = 117.03)
+Dice Coefficient: 88.24% 
+
+X = [It looks like we’re fixing to blast off.  #dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. #dogearmy]
+X_token = [looks, like, fixing, blast, dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy]
+	X tweet_count = [116]
+	X username = [Todd Tuller]
+Y = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy]
+Y_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy]
+	Y tweet_count = [118]
+	Y username = [Todd Tuller]
+Total Length: X = 213, Y = 172 (Y / X = 80.75  X / Y = 123.84)
+Dice Coefficient: 88.24% 
+
+X = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy #dogearmy]
+X_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy, dogearmy]
+	X tweet_count = [117]
+	X username = [Todd Tuller]
+Y = [#dogecoin still underestimate valued. Think of what’s all we have to look forward to. From @coinbase @CoinbasePro adding, to all the great company coming aboard. i#dogearmy]
+Y_token = [dogecoin, still, underestimate, valued, think, look, forward, coinbase, coinbasepro, adding, great, company, coming, aboard, dogearmy]
+	Y tweet_count = [118]
+	Y username = [Todd Tuller]
+Total Length: X = 182, Y = 172 (Y / X = 94.51  X / Y = 105.81)
+Dice Coefficient: 100.00% 
+
+X = [@coinbase @CoinbasePro could you please give us an update on #dogecoin. Lots of investors would like to purchase.  #dogearmy]
+X_token = [coinbase, coinbasepro, could, please, give, us, update, dogecoin, lots, investors, would, like, purchase, dogearmy]
+	X tweet_count = [123]
+	X username = [Todd Tuller]
+Y = [@coinbase @CoinbasePro could you please give us an update on #dogecoin. Lots of investors would like to purchase.]
+Y_token = [coinbase, coinbasepro, could, please, give, us, update, dogecoin, lots, investors, would, like, purchase]
+	Y tweet_count = [124]
+	Y username = [Todd Tuller]
+Total Length: X = 124, Y = 113 (Y / X = 91.13  X / Y = 109.73)
+Dice Coefficient: 96.30% 
+
+X = [Is trip to the Moon still on? I know we got rid of some deadweight and added some new crewmembers. #dogearmy #dogecoin  #dogearmy]
+X_token = [trip, moon, still, know, got, rid, deadweight, added, new, crewmembers, dogearmy, dogecoin, dogearmy]
+	X tweet_count = [132]
+	X username = [Todd Tuller]
+Y = [Is trip to the Moon still on? I know we got rid of some deadweight, and added new crewmembers. #dogearmy #dogecoin]
+Y_token = [trip, moon, still, know, got, rid, deadweight, added, new, crewmembers, dogearmy, dogecoin]
+	Y tweet_count = [133]
+	Y username = [Todd Tuller]
+Total Length: X = 129, Y = 114 (Y / X = 88.37  X / Y = 113.16)
+Dice Coefficient: 100.00% 
+
+X = [It’s 1:30 PM in China 3:30 PM in Australia, time for you all to do your part. Buy an hold. #dogearmy #dogecoin  #dogearmy]
+X_token = [pm, china, pm, australia, time, part, buy, hold, dogearmy, dogecoin, dogearmy]
+	X tweet_count = [140]
+	X username = [Todd Tuller]
+Y = [It’s 1:30 PM in China 3:30 PM in Australia, time for you all to do your part. Buy and hold. #dogearmy #dogecoin   big things coming!!]
+Y_token = [pm, china, pm, australia, time, part, buy, hold, dogearmy, dogecoin, big, things, coming]
+	Y tweet_count = [141]
+	Y username = [Todd Tuller]
+Total Length: X = 121, Y = 133 (Y / X = 109.92  X / Y = 90.98)
+Dice Coefficient: 85.71% 
+
+X = [It’s 1:30 PM in China 3:30 PM in Australia, time for you all to do your part. Buy an hold. #dogearmy #dogecoin  #dogearmy]
+X_token = [pm, china, pm, australia, time, part, buy, hold, dogearmy, dogecoin, dogearmy]
+	X tweet_count = [140]
+	X username = [Todd Tuller]
+Y = [It’s 1 PM in China 3 PM in Australia, time for you all to do your part. Buy an hold. #dogearmy #dogecoin @elonmusk will be on SNL May 8th #dogearmy]
+Y_token = [1, pm, china, 3, pm, australia, time, part, buy, hold, dogearmy, dogecoin, elonmusk, snl, may, 8th, dogearmy]
+	Y tweet_count = [142]
+	Y username = [Todd Tuller]
+Total Length: X = 121, Y = 147 (Y / X = 121.49  X / Y = 82.31)
+Dice Coefficient: 75.00% 
+
+X = [It’s 1:30 PM in China 3:30 PM in Australia, time for you all to do your part. Buy an hold. #dogearmy #dogecoin  #dogearmy]
+X_token = [pm, china, pm, australia, time, part, buy, hold, dogearmy, dogecoin, dogearmy]
+	X tweet_count = [140]
+	X username = [Todd Tuller]
+Y = [It’s 1 PM in China 3 PM in Australia, time for you all to do your part. Buy an hold. #dogearmy #dogecoin]
+Y_token = [1, pm, china, 3, pm, australia, time, part, buy, hold, dogearmy, dogecoin]
+	Y tweet_count = [143]
+	Y username = [Todd Tuller]
+Total Length: X = 121, Y = 104 (Y / X = 85.95  X / Y = 116.35)
+Dice Coefficient: 90.00% 
+
+X = [@CoinbasePro @coinbase can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+X_token = [coinbasepro, coinbase, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	X tweet_count = [148]
+	X username = [Todd Tuller]
+Y = [#dogearmy @amazon can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+Y_token = [dogearmy, amazon, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	Y tweet_count = [149]
+	Y username = [Todd Tuller]
+Total Length: X = 100, Y = 95 (Y / X = 95.00  X / Y = 105.26)
+Dice Coefficient: 84.21% 
+
+X = [@CoinbasePro @coinbase can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+X_token = [coinbasepro, coinbase, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	X tweet_count = [148]
+	X username = [Todd Tuller]
+Y = [@coinbase @CoinbasePro can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+Y_token = [coinbase, coinbasepro, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	Y tweet_count = [151]
+	Y username = [Todd Tuller]
+Total Length: X = 100, Y = 100 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@CoinbasePro @coinbase can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+X_token = [coinbasepro, coinbase, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	X tweet_count = [148]
+	X username = [Todd Tuller]
+Y = [@coinbase @CoinbasePro can we please get an update on #dogecoin. Thank you #dogearmy]
+Y_token = [coinbase, coinbasepro, please, get, update, dogecoin, thank, dogearmy]
+	Y tweet_count = [172]
+	Y username = [Todd Tuller]
+Total Length: X = 100, Y = 84 (Y / X = 84.00  X / Y = 119.05)
+Dice Coefficient: 77.78% 
+
+X = [#dogearmy @amazon can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+X_token = [dogearmy, amazon, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	X tweet_count = [149]
+	X username = [Todd Tuller]
+Y = [@coinbase @CoinbasePro can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+Y_token = [coinbase, coinbasepro, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	Y tweet_count = [151]
+	Y username = [Todd Tuller]
+Total Length: X = 95, Y = 100 (Y / X = 105.26  X / Y = 95.00)
+Dice Coefficient: 84.21% 
+
+X = [#dogearmy @amazon can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+X_token = [dogearmy, amazon, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	X tweet_count = [149]
+	X username = [Todd Tuller]
+Y = [@amazon can you please give us an update on accepting #dogecoin   Thank you.]
+Y_token = [amazon, please, give, us, update, accepting, dogecoin, thank]
+	Y tweet_count = [152]
+	Y username = [Todd Tuller]
+Total Length: X = 95, Y = 76 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 94.12% 
+
+X = [@coinbase @CoinbasePro can you please give us an update on accepting #dogecoin   Thank you #dogearmy]
+X_token = [coinbase, coinbasepro, please, give, us, update, accepting, dogecoin, thank, dogearmy]
+	X tweet_count = [151]
+	X username = [Todd Tuller]
+Y = [@coinbase @CoinbasePro can we please get an update on #dogecoin. Thank you #dogearmy]
+Y_token = [coinbase, coinbasepro, please, get, update, dogecoin, thank, dogearmy]
+	Y tweet_count = [172]
+	Y username = [Todd Tuller]
+Total Length: X = 100, Y = 84 (Y / X = 84.00  X / Y = 119.05)
+Dice Coefficient: 77.78% 
+
+X = [@Amazon It’s simple to do. There’s a service already set up. Ask him @mcuban  he would love for you to accept. He accepts #Dogecoin for the    @dallasmavs  #dogearmy]
+X_token = [amazon, simple, service, already, set, ask, mcuban, would, love, accept, accepts, dogecoin, dallasmavs, dogearmy]
+	X tweet_count = [153]
+	X username = [Todd Tuller]
+Y = [@MarkSteve007 @Amazon It’s simple to do. There’s a service already set up. Ask him @mcuban  he would love for you to accept. He accepts #Dogecoin for the    @dallasmavs]
+Y_token = [marksteve007, amazon, simple, service, already, set, ask, mcuban, would, love, accept, accepts, dogecoin, dallasmavs]
+	Y tweet_count = [154]
+	Y username = [Todd Tuller]
+Total Length: X = 165, Y = 168 (Y / X = 101.82  X / Y = 98.21)
+Dice Coefficient: 92.86% 
+
+X = [@CoinbasePro @coinbase any word on accepting #Dogecoin. May we please get an update.  As a stockholder, it seems were missing out on a huge opportunity. Thank you !]
+X_token = [coinbasepro, coinbase, word, accepting, dogecoin, may, please, get, update, stockholder, seems, missing, huge, opportunity, thank]
+	X tweet_count = [156]
+	X username = [Todd Tuller]
+Y = [@CoinbasePro @coinbase any word on accepting #Dogecoin. May we please get an update.  As a stockholder, it seems were missing out on a huge opportunity. Thank you]
+Y_token = [coinbasepro, coinbase, word, accepting, dogecoin, may, please, get, update, stockholder, seems, missing, huge, opportunity, thank]
+	Y tweet_count = [157]
+	Y username = [Todd Tuller]
+Total Length: X = 164, Y = 162 (Y / X = 98.78  X / Y = 101.23)
+Dice Coefficient: 100.00% 
+
+X = [@CoinbasePro @coinbase any word on accepting #Dogecoin. May we please get an update.  As a stockholder, it seems were missing out on a huge opportunity. Thank you !]
+X_token = [coinbasepro, coinbase, word, accepting, dogecoin, may, please, get, update, stockholder, seems, missing, huge, opportunity, thank]
+	X tweet_count = [156]
+	X username = [Todd Tuller]
+Y = [@coinbase any word on accepting #Dogecoin. May we please get an update.  As a stockholder, it seems were missing out on a huge opportunity. Thank you]
+Y_token = [coinbase, word, accepting, dogecoin, may, please, get, update, stockholder, seems, missing, huge, opportunity, thank]
+	Y tweet_count = [158]
+	Y username = [Todd Tuller]
+Total Length: X = 164, Y = 149 (Y / X = 90.85  X / Y = 110.07)
+Dice Coefficient: 96.55% 
+
+X = [@CoinbasePro @coinbase any word on accepting #Dogecoin. May we please get an update.  As a stockholder, it seems were missing out on a huge opportunity. Thank you]
+X_token = [coinbasepro, coinbase, word, accepting, dogecoin, may, please, get, update, stockholder, seems, missing, huge, opportunity, thank]
+	X tweet_count = [157]
+	X username = [Todd Tuller]
+Y = [@coinbase any word on accepting #Dogecoin. May we please get an update.  As a stockholder, it seems were missing out on a huge opportunity. Thank you]
+Y_token = [coinbase, word, accepting, dogecoin, may, please, get, update, stockholder, seems, missing, huge, opportunity, thank]
+	Y tweet_count = [158]
+	Y username = [Todd Tuller]
+Total Length: X = 162, Y = 149 (Y / X = 91.98  X / Y = 108.72)
+Dice Coefficient: 96.55% 
+
+X = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ? You are getting left behind.  #dogecoin]
+X_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	X tweet_count = [159]
+	X username = [Todd Tuller]
+Y = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind #dogecoin]
+Y_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	Y tweet_count = [160]
+	Y username = [Todd Tuller]
+Total Length: X = 216, Y = 215 (Y / X = 99.54  X / Y = 100.47)
+Dice Coefficient: 100.00% 
+
+X = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ? You are getting left behind.  #dogecoin]
+X_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	X tweet_count = [159]
+	X username = [Todd Tuller]
+Y = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind.   #dogecoin #dogecoin]
+Y_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin, dogecoin]
+	Y tweet_count = [162]
+	Y username = [Todd Tuller]
+Total Length: X = 216, Y = 228 (Y / X = 105.56  X / Y = 94.74)
+Dice Coefficient: 100.00% 
+
+X = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ? You are getting left behind.  #dogecoin]
+X_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	X tweet_count = [159]
+	X username = [Todd Tuller]
+Y = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind.   #dogecoin]
+Y_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	Y tweet_count = [163]
+	Y username = [Todd Tuller]
+Total Length: X = 216, Y = 218 (Y / X = 100.93  X / Y = 99.08)
+Dice Coefficient: 100.00% 
+
+X = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind #dogecoin]
+X_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	X tweet_count = [160]
+	X username = [Todd Tuller]
+Y = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind.   #dogecoin #dogecoin]
+Y_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin, dogecoin]
+	Y tweet_count = [162]
+	Y username = [Todd Tuller]
+Total Length: X = 215, Y = 228 (Y / X = 106.05  X / Y = 94.30)
+Dice Coefficient: 100.00% 
+
+X = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind #dogecoin]
+X_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	X tweet_count = [160]
+	X username = [Todd Tuller]
+Y = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind.   #dogecoin]
+Y_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	Y tweet_count = [163]
+	Y username = [Todd Tuller]
+Total Length: X = 215, Y = 218 (Y / X = 101.40  X / Y = 98.62)
+Dice Coefficient: 100.00% 
+
+X = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind.   #dogecoin #dogecoin]
+X_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin, dogecoin]
+	X tweet_count = [162]
+	X username = [Todd Tuller]
+Y = [#dogearmy loves the @TheEllenShow. Thank you @mcuban !! Please talk to @amazon and @JeffBezos. Not only can they accept, they can invest. Where are you @coinbase @CoinbasePro ?? You are getting left behind.   #dogecoin]
+Y_token = [dogearmy, loves, theellenshow, thank, mcuban, please, talk, amazon, jeffbezos, accept, invest, coinbase, coinbasepro, getting, left, behind, dogecoin]
+	Y tweet_count = [163]
+	Y username = [Todd Tuller]
+Total Length: X = 228, Y = 218 (Y / X = 95.61  X / Y = 104.59)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin and #dogearmy loves you @TheEllenShow thank you. Great interview with @mcuban  #dogearmy thank you Mr Cuban?!]
+X_token = [dogecoin, dogearmy, loves, theellenshow, thank, great, interview, mcuban, dogearmy, thank, mr, cuban]
+	X tweet_count = [168]
+	X username = [Todd Tuller]
+Y = [#dogecoin and #dogearmy loves you @TheEllenShow thank you. Great interview with @mcuban  #dogearmy]
+Y_token = [dogecoin, dogearmy, loves, theellenshow, thank, great, interview, mcuban, dogearmy]
+	Y tweet_count = [169]
+	Y username = [Todd Tuller]
+Total Length: X = 119, Y = 98 (Y / X = 82.35  X / Y = 121.43)
+Dice Coefficient: 88.89% 
+
+X = [#dogecoin and #dogearmy loves you @TheEllenShow thank you. Great interview with @mcuban  #dogearmy]
+X_token = [dogecoin, dogearmy, loves, theellenshow, thank, great, interview, mcuban, dogearmy]
+	X tweet_count = [169]
+	X username = [Todd Tuller]
+Y = [#dogecoin and #dogearmy loves you @TheEllenShow thank you. Great interview with @mcuban]
+Y_token = [dogecoin, dogearmy, loves, theellenshow, thank, great, interview, mcuban]
+	Y tweet_count = [170]
+	Y username = [Todd Tuller]
+Total Length: X = 98, Y = 87 (Y / X = 88.78  X / Y = 112.64)
+Dice Coefficient: 100.00% 
+
+X = [@coinbase @CoinbasePro can we please get an update on #dogecoin. Thank you #dogearmy]
+X_token = [coinbase, coinbasepro, please, get, update, dogecoin, thank, dogearmy]
+	X tweet_count = [172]
+	X username = [Todd Tuller]
+Y = [@CoinbasePro @coinbase do you have an update on when we can purchase #dogecoin. Thank you]
+Y_token = [coinbasepro, coinbase, update, purchase, dogecoin, thank]
+	Y tweet_count = [187]
+	Y username = [Todd Tuller]
+Total Length: X = 84, Y = 89 (Y / X = 105.95  X / Y = 94.38)
+Dice Coefficient: 71.43% 
+
+X = [Thank you Mr. Cuban. @mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. We are ready for take off. #dogearmy]
+X_token = [thank, cuban, mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, ready, take, dogearmy]
+	X tweet_count = [173]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off.  #dogearmy thank you Mr. Cuban!!]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy, thank, mr, cuban]
+	Y tweet_count = [174]
+	Y username = [Todd Tuller]
+Total Length: X = 162, Y = 167 (Y / X = 103.09  X / Y = 97.01)
+Dice Coefficient: 86.67% 
+
+X = [Thank you Mr. Cuban. @mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. We are ready for take off. #dogearmy]
+X_token = [thank, cuban, mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, ready, take, dogearmy]
+	X tweet_count = [173]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy]
+	Y tweet_count = [175]
+	Y username = [Todd Tuller]
+Total Length: X = 162, Y = 143 (Y / X = 88.27  X / Y = 113.29)
+Dice Coefficient: 81.48% 
+
+X = [Thank you Mr. Cuban. @mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. We are ready for take off. #dogearmy]
+X_token = [thank, cuban, mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, ready, take, dogearmy]
+	X tweet_count = [173]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off. #dogearmy #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy, dogearmy]
+	Y tweet_count = [176]
+	Y username = [Todd Tuller]
+Total Length: X = 162, Y = 154 (Y / X = 95.06  X / Y = 105.19)
+Dice Coefficient: 81.48% 
+
+X = [Thank you Mr. Cuban. @mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. We are ready for take off. #dogearmy]
+X_token = [thank, cuban, mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, ready, take, dogearmy]
+	X tweet_count = [173]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off. #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy]
+	Y tweet_count = [177]
+	Y username = [Todd Tuller]
+Total Length: X = 162, Y = 144 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 81.48% 
+
+X = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off.  #dogearmy thank you Mr. Cuban!!]
+X_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy, thank, mr, cuban]
+	X tweet_count = [174]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy]
+	Y tweet_count = [175]
+	Y username = [Todd Tuller]
+Total Length: X = 167, Y = 143 (Y / X = 85.63  X / Y = 116.78)
+Dice Coefficient: 89.66% 
+
+X = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off.  #dogearmy thank you Mr. Cuban!!]
+X_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy, thank, mr, cuban]
+	X tweet_count = [174]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off. #dogearmy #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy, dogearmy]
+	Y tweet_count = [176]
+	Y username = [Todd Tuller]
+Total Length: X = 167, Y = 154 (Y / X = 92.22  X / Y = 108.44)
+Dice Coefficient: 89.66% 
+
+X = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off.  #dogearmy thank you Mr. Cuban!!]
+X_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy, thank, mr, cuban]
+	X tweet_count = [174]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off. #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy]
+	Y tweet_count = [177]
+	Y username = [Todd Tuller]
+Total Length: X = 167, Y = 144 (Y / X = 86.23  X / Y = 115.97)
+Dice Coefficient: 89.66% 
+
+X = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off #dogearmy]
+X_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy]
+	X tweet_count = [175]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off. #dogearmy #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy, dogearmy]
+	Y tweet_count = [176]
+	Y username = [Todd Tuller]
+Total Length: X = 143, Y = 154 (Y / X = 107.69  X / Y = 92.86)
+Dice Coefficient: 100.00% 
+
+X = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off #dogearmy]
+X_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy]
+	X tweet_count = [175]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off. #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy]
+	Y tweet_count = [177]
+	Y username = [Todd Tuller]
+Total Length: X = 143, Y = 144 (Y / X = 100.70  X / Y = 99.31)
+Dice Coefficient: 100.00% 
+
+X = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off. #dogearmy #dogearmy]
+X_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy, dogearmy]
+	X tweet_count = [176]
+	X username = [Todd Tuller]
+Y = [@mcuban Will be talking about #dogecoin on the Ellen show today. Get some more #doge while it’s on sale. Fingers crossed for take off. #dogearmy]
+Y_token = [mcuban, talking, dogecoin, ellen, show, today, get, doge, sale, fingers, crossed, take, dogearmy]
+	Y tweet_count = [177]
+	Y username = [Todd Tuller]
+Total Length: X = 154, Y = 144 (Y / X = 93.51  X / Y = 106.94)
+Dice Coefficient: 100.00% 
+
+X = [@CoinbasePro @coinbase do you have an update on when we can purchase #dogecoin. Thank you]
+X_token = [coinbasepro, coinbase, update, purchase, dogecoin, thank]
+	X tweet_count = [187]
+	X username = [Todd Tuller]
+Y = [@coinbase update on #dogecoin please. Will you be adding for purchase? @CoinbasePro]
+Y_token = [coinbase, update, dogecoin, please, adding, purchase, coinbasepro]
+	Y tweet_count = [192]
+	Y username = [Todd Tuller]
+Total Length: X = 89, Y = 83 (Y / X = 93.26  X / Y = 107.23)
+Dice Coefficient: 76.92% 
+
+X = [#dogecoin i’m going to get @WebullGlobal to get some #doge. It’s a shame because @coinbase has all my information already. But, I can’t even get an update from @coinbase @CoinbasePro  #doge]
+X_token = [dogecoin, going, get, webullglobal, get, doge, shame, coinbase, information, already, even, get, update, coinbase, coinbasepro, doge]
+	X tweet_count = [189]
+	X username = [Todd Tuller]
+Y = [#dogecoin i’m going to get @WebullGlobal to get some #doge. It’s a shame because @coinbase has all my information already. But, I can’t even get an update from @coinbase @CoinbasePro  #dogecoin]
+Y_token = [dogecoin, going, get, webullglobal, get, doge, shame, coinbase, information, already, even, get, update, coinbase, coinbasepro, dogecoin]
+	Y tweet_count = [190]
+	Y username = [Todd Tuller]
+Total Length: X = 189, Y = 193 (Y / X = 102.12  X / Y = 97.93)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin i’m going to get @WebullGlobal to get some #doge. It’s a shame because @coinbase has all my information already. But, I can’t even get an update from @coinbase @CoinbasePro  #doge]
+X_token = [dogecoin, going, get, webullglobal, get, doge, shame, coinbase, information, already, even, get, update, coinbase, coinbasepro, doge]
+	X tweet_count = [189]
+	X username = [Todd Tuller]
+Y = [#dogecoin i’m going to get @WebullGlobal to get some #doge. It’s a shame because @coinbase has all my information already. But, I can’t even get an update from @coinbase @CoinbasePro]
+Y_token = [dogecoin, going, get, webullglobal, get, doge, shame, coinbase, information, already, even, get, update, coinbase, coinbasepro]
+	Y tweet_count = [191]
+	Y username = [Todd Tuller]
+Total Length: X = 189, Y = 182 (Y / X = 96.30  X / Y = 103.85)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin i’m going to get @WebullGlobal to get some #doge. It’s a shame because @coinbase has all my information already. But, I can’t even get an update from @coinbase @CoinbasePro  #dogecoin]
+X_token = [dogecoin, going, get, webullglobal, get, doge, shame, coinbase, information, already, even, get, update, coinbase, coinbasepro, dogecoin]
+	X tweet_count = [190]
+	X username = [Todd Tuller]
+Y = [#dogecoin i’m going to get @WebullGlobal to get some #doge. It’s a shame because @coinbase has all my information already. But, I can’t even get an update from @coinbase @CoinbasePro]
+Y_token = [dogecoin, going, get, webullglobal, get, doge, shame, coinbase, information, already, even, get, update, coinbase, coinbasepro]
+	Y tweet_count = [191]
+	Y username = [Todd Tuller]
+Total Length: X = 193, Y = 182 (Y / X = 94.30  X / Y = 106.04)
+Dice Coefficient: 100.00% 
+
+X = [Welcome @jasonderulo to #dogearmy. We want to buy your Murch and dice with #Dogecoin. @BitPay can I get you all squared away. Looks like that’s what most people use. Thank you, for your support. We want to support you back. Just let us know what we can do.]
+X_token = [welcome, jasonderulo, dogearmy, want, buy, murch, dice, dogecoin, bitpay, get, squared, away, looks, like, people, use, thank, support, want, support, back, let, us, know]
+	X tweet_count = [194]
+	X username = [Todd Tuller]
+Y = [Welcome @jasonderulo to #dogearmy. We want to buy your Merchandise with #Dogecoin. @BitPay can I get you all squared away. Looks like that’s what most people use. Thank you, for your support. We want to support you back. Just let us know what we can do. #dogearmy]
+Y_token = [welcome, jasonderulo, dogearmy, want, buy, merchandise, dogecoin, bitpay, get, squared, away, looks, like, people, use, thank, support, want, support, back, let, us, know, dogearmy]
+	Y tweet_count = [198]
+	Y username = [Todd Tuller]
+Total Length: X = 256, Y = 263 (Y / X = 102.73  X / Y = 97.34)
+Dice Coefficient: 93.02% 
+
+X = [Welcome @jasonderulo to #dogearmy. We want to buy your Murch and dice with #Dogecoin. @BitPay can I get you all squared away. Looks like that’s what most people use. Thank you, for your support. We want to support you back. Just let us know what we can do.]
+X_token = [welcome, jasonderulo, dogearmy, want, buy, murch, dice, dogecoin, bitpay, get, squared, away, looks, like, people, use, thank, support, want, support, back, let, us, know]
+	X tweet_count = [194]
+	X username = [Todd Tuller]
+Y = [Welcome @jasonderulo to #dogearmy. We want to buy your Murch and dice with #Dogecoin. @BitPay can I get you all squared away. Looks like that’s what most people use. Thank you, for your support. We want to support you back. Just let us know what we can do.]
+Y_token = [welcome, jasonderulo, dogearmy, want, buy, murch, dice, dogecoin, bitpay, get, squared, away, looks, like, people, use, thank, support, want, support, back, let, us, know]
+	Y tweet_count = [199]
+	Y username = [Todd Tuller]
+Total Length: X = 256, Y = 256 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Welcome @jasonderulo to #dogearmy. We want to buy your Merchandise with #Dogecoin. @BitPay can I get you all squared away. Looks like that’s what most people use. Thank you, for your support. We want to support you back. Just let us know what we can do. #dogearmy]
+X_token = [welcome, jasonderulo, dogearmy, want, buy, merchandise, dogecoin, bitpay, get, squared, away, looks, like, people, use, thank, support, want, support, back, let, us, know, dogearmy]
+	X tweet_count = [198]
+	X username = [Todd Tuller]
+Y = [Welcome @jasonderulo to #dogearmy. We want to buy your Murch and dice with #Dogecoin. @BitPay can I get you all squared away. Looks like that’s what most people use. Thank you, for your support. We want to support you back. Just let us know what we can do.]
+Y_token = [welcome, jasonderulo, dogearmy, want, buy, murch, dice, dogecoin, bitpay, get, squared, away, looks, like, people, use, thank, support, want, support, back, let, us, know]
+	Y tweet_count = [199]
+	Y username = [Todd Tuller]
+Total Length: X = 263, Y = 256 (Y / X = 97.34  X / Y = 102.73)
+Dice Coefficient: 93.02% 
+
+X = [Everybody hold your #dogecoin every week things are going to look better and better. Don’t sell, make the most of it. A few months we were all be happy we did #dogecoin]
+X_token = [everybody, hold, dogecoin, every, week, things, going, look, better, better, sell, make, months, happy, dogecoin]
+	X tweet_count = [201]
+	X username = [Todd Tuller]
+Y = [Everybody hold your #dogecoin Every week things are going to look better and better. Don’t sell, make the most of it. A few months we were all be happy we did]
+Y_token = [everybody, hold, dogecoin, every, week, things, going, look, better, better, sell, make, months, happy]
+	Y tweet_count = [203]
+	Y username = [Todd Tuller]
+Total Length: X = 168, Y = 158 (Y / X = 94.05  X / Y = 106.33)
+Dice Coefficient: 100.00% 
+

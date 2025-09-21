@@ -1,0 +1,66 @@
+﻿X = [$doge buy the dip]
+X_token = [doge, buy, dip]
+	X tweet_count = [5]
+	X username = [Blackburn]
+Y = [$buy the dip $doge]
+Y_token = [buy, dip, doge]
+	Y tweet_count = [6]
+	Y username = [Blackburn]
+Total Length: X = 17, Y = 18 (Y / X = 105.88  X / Y = 94.44)
+Dice Coefficient: 100.00% 
+
+X = [$doge buy the dip]
+X_token = [doge, buy, dip]
+	X tweet_count = [5]
+	X username = [Blackburn]
+Y = [Buy the dip $doge]
+Y_token = [buy, dip, doge]
+	Y tweet_count = [7]
+	Y username = [Blackburn]
+Total Length: X = 17, Y = 17 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [$doge buy the dip]
+X_token = [doge, buy, dip]
+	X tweet_count = [5]
+	X username = [Blackburn]
+Y = [Buy the dip $doge]
+Y_token = [buy, dip, doge]
+	Y tweet_count = [9]
+	Y username = [Blackburn]
+Total Length: X = 17, Y = 17 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [$buy the dip $doge]
+X_token = [buy, dip, doge]
+	X tweet_count = [6]
+	X username = [Blackburn]
+Y = [Buy the dip $doge]
+Y_token = [buy, dip, doge]
+	Y tweet_count = [7]
+	Y username = [Blackburn]
+Total Length: X = 18, Y = 17 (Y / X = 94.44  X / Y = 105.88)
+Dice Coefficient: 100.00% 
+
+X = [$buy the dip $doge]
+X_token = [buy, dip, doge]
+	X tweet_count = [6]
+	X username = [Blackburn]
+Y = [Buy the dip $doge]
+Y_token = [buy, dip, doge]
+	Y tweet_count = [9]
+	Y username = [Blackburn]
+Total Length: X = 18, Y = 17 (Y / X = 94.44  X / Y = 105.88)
+Dice Coefficient: 100.00% 
+
+X = [Buy the dip $doge]
+X_token = [buy, dip, doge]
+	X tweet_count = [7]
+	X username = [Blackburn]
+Y = [Buy the dip $doge]
+Y_token = [buy, dip, doge]
+	Y tweet_count = [9]
+	Y username = [Blackburn]
+Total Length: X = 17, Y = 17 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

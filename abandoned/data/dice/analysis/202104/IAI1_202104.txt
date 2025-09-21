@@ -1,0 +1,22 @@
+﻿X = [@elonmusk Like DogeCoin 😉☀️]
+X_token = [elonmusk, like, dogecoin]
+	X tweet_count = [2]
+	X username = [IAI1]
+Y = [@elonmusk Like DogeCoin 🎉]
+Y_token = [elonmusk, like, dogecoin]
+	Y tweet_count = [4]
+	Y username = [IAI1]
+Total Length: X = 27, Y = 25 (Y / X = 92.59  X / Y = 108.00)
+Dice Coefficient: 100.00% 
+
+X = [@Cointelegraph I need to buy DogeCoin now 🥳]
+X_token = [cointelegraph, need, buy, dogecoin]
+	X tweet_count = [5]
+	X username = [IAI1]
+Y = [@Bitcoin We need to buy DogeCoin now]
+Y_token = [bitcoin, need, buy, dogecoin]
+	Y tweet_count = [6]
+	Y username = [IAI1]
+Total Length: X = 43, Y = 36 (Y / X = 83.72  X / Y = 119.44)
+Dice Coefficient: 75.00% 
+

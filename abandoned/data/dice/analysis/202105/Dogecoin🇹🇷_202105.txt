@@ -1,0 +1,66 @@
+﻿X = [@elonmusk Doge doge doge]
+X_token = [elonmusk, doge, doge, doge]
+	X tweet_count = [2]
+	X username = [Dogecoin🇹🇷]
+Y = [@elonmusk Doge doge doge]
+Y_token = [elonmusk, doge, doge, doge]
+	Y tweet_count = [11]
+	Y username = [Dogecoin🇹🇷]
+Total Length: X = 24, Y = 24 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Doge doge doge]
+X_token = [elonmusk, doge, doge, doge]
+	X tweet_count = [2]
+	X username = [Dogecoin🇹🇷]
+Y = [@elonmusk @SenBillNelson Doge]
+Y_token = [elonmusk, senbillnelson, doge]
+	Y tweet_count = [13]
+	Y username = [Dogecoin🇹🇷]
+Total Length: X = 24, Y = 29 (Y / X = 120.83  X / Y = 82.76)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk you frustrated our trust]
+X_token = [elonmusk, frustrated, trust]
+	X tweet_count = [4]
+	X username = [Dogecoin🇹🇷]
+Y = [@elonmusk I will not trust you any more]
+Y_token = [elonmusk, trust]
+	Y tweet_count = [8]
+	Y username = [Dogecoin🇹🇷]
+Total Length: X = 34, Y = 39 (Y / X = 114.71  X / Y = 87.18)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk you screwed us up]
+X_token = [elonmusk, screwed, us]
+	X tweet_count = [5]
+	X username = [Dogecoin🇹🇷]
+Y = [@elonmusk you screwed us up]
+Y_token = [elonmusk, screwed, us]
+	Y tweet_count = [9]
+	Y username = [Dogecoin🇹🇷]
+Total Length: X = 27, Y = 27 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk we are losing our money because of you]
+X_token = [elonmusk, losing, money]
+	X tweet_count = [6]
+	X username = [Dogecoin🇹🇷]
+Y = [@elonmusk we are losing our money because of you]
+Y_token = [elonmusk, losing, money]
+	Y tweet_count = [7]
+	Y username = [Dogecoin🇹🇷]
+Total Length: X = 48, Y = 48 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Doge doge doge]
+X_token = [elonmusk, doge, doge, doge]
+	X tweet_count = [11]
+	X username = [Dogecoin🇹🇷]
+Y = [@elonmusk @SenBillNelson Doge]
+Y_token = [elonmusk, senbillnelson, doge]
+	Y tweet_count = [13]
+	Y username = [Dogecoin🇹🇷]
+Total Length: X = 24, Y = 29 (Y / X = 120.83  X / Y = 82.76)
+Dice Coefficient: 80.00% 
+

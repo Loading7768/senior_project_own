@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "To everyone who hasn’t given up on #dogecoin, retweet this. Let your TL know. 🚀",
+        "X_token": "everyone, given, dogecoin, retweet, let, tl, know",
+        "X_tweet_count": 40,
+        "X_username": "Kaya",
+        "Y_text": "To everyone who hasn’t given up on #dogecoin, retweet this. Let your TL know. 🚀",
+        "Y_token": "everyone, given, dogecoin, retweet, let, tl, know",
+        "Y_tweet_count": 45,
+        "Y_username": "Kaya",
+        "X_length": 79,
+        "Y_length": 79,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "When do you think #dogecoin will hit $1?",
+        "X_token": "think, dogecoin, hit, 1",
+        "X_tweet_count": 50,
+        "X_username": "Kaya",
+        "Y_text": "When do you think #dogecoin will hit $1? 🚀",
+        "Y_token": "think, dogecoin, hit, 1",
+        "Y_tweet_count": 53,
+        "Y_username": "Kaya",
+        "X_length": 40,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 105.0,
+        "X_length_percent_of_Y": 95.24,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Even if #dogecoin makes you $1,000,000... are you still HODLing? 🚀",
+        "X_token": "even, dogecoin, makes, still, hodling",
+        "X_tweet_count": 68,
+        "X_username": "Kaya",
+        "Y_text": "Even if #dogecoin makes you $1,000,000... are you still HODLing? 🚀",
+        "Y_token": "even, dogecoin, makes, still, hodling",
+        "Y_tweet_count": 79,
+        "Y_username": "Kaya",
+        "X_length": 66,
+        "Y_length": 66,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

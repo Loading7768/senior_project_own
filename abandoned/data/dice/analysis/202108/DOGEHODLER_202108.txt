@@ -1,0 +1,44 @@
+﻿X = [#dogecoin is now .28 Cents !]
+X_token = [dogecoin, cents]
+	X tweet_count = [16]
+	X username = [DOGEHODLER]
+Y = [#dogecoin just crushed .31. Cents 🚨]
+Y_token = [dogecoin, crushed, cents]
+	Y tweet_count = [28]
+	Y username = [DOGEHODLER]
+Total Length: X = 28, Y = 35 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin is on fire 🔥]
+X_token = [dogecoin, fire]
+	X tweet_count = [21]
+	X username = [DOGEHODLER]
+Y = [#dogecoin is on fire ! 🔥📈😎]
+Y_token = [dogecoin, fire]
+	Y tweet_count = [70]
+	Y username = [DOGEHODLER]
+Total Length: X = 22, Y = 26 (Y / X = 118.18  X / Y = 84.62)
+Dice Coefficient: 100.00% 
+
+X = [Real #dogecoin family only 💯🔥]
+X_token = [real, dogecoin, family]
+	X tweet_count = [56]
+	X username = [DOGEHODLER]
+Y = [How we doing #dogecoin family!? 👋]
+Y_token = [dogecoin, family]
+	Y tweet_count = [57]
+	Y username = [DOGEHODLER]
+Total Length: X = 29, Y = 33 (Y / X = 113.79  X / Y = 87.88)
+Dice Coefficient: 80.00% 
+
+X = [How we doing #dogecoin family!? 👋]
+X_token = [dogecoin, family]
+	X tweet_count = [57]
+	X username = [DOGEHODLER]
+Y = [Goodnight #dogecoin family 🐕📈]
+Y_token = [goodnight, dogecoin, family]
+	Y tweet_count = [68]
+	Y username = [DOGEHODLER]
+Total Length: X = 33, Y = 29 (Y / X = 87.88  X / Y = 113.79)
+Dice Coefficient: 80.00% 
+

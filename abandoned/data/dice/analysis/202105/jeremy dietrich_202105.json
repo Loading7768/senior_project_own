@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@Seahawks That we can buy tickets and merch with \n#Dogecoin",
+        "X_token": "seahawks, buy, tickets, merch, dogecoin",
+        "X_tweet_count": 84,
+        "X_username": "jeremy dietrich",
+        "Y_text": "@KING5Seattle But can I buy tickets and merch with #Dogecoin ??",
+        "Y_token": "king5seattle, buy, tickets, merch, dogecoin",
+        "Y_tweet_count": 178,
+        "Y_username": "jeremy dietrich",
+        "X_length": 59,
+        "Y_length": 63,
+        "Y_length_percent_of_X": 106.78,
+        "X_length_percent_of_Y": 93.65,
+        "dice_coefficient": 80.0
+    }
+]

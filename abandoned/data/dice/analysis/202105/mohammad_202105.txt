@@ -1,0 +1,66 @@
+﻿X = [@elonmusk The whales are starting to buy the dogecoin Watch out for the signs, folks]
+X_token = [elonmusk, whales, starting, buy, dogecoin, watch, signs, folks]
+	X tweet_count = [2]
+	X username = [mohammad]
+Y = [#dogecoin The whales are starting to buy the dogecoin Watch out for the signs]
+Y_token = [dogecoin, whales, starting, buy, dogecoin, watch, signs]
+	Y tweet_count = [3]
+	Y username = [mohammad]
+Total Length: X = 84, Y = 77 (Y / X = 91.67  X / Y = 109.09)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk Dogecoin is starting to rise now]
+X_token = [elonmusk, dogecoin, starting, rise]
+	X tweet_count = [4]
+	X username = [mohammad]
+Y = [@melliedtd Dogecoin is starting to rise now]
+Y_token = [melliedtd, dogecoin, starting, rise]
+	Y tweet_count = [5]
+	Y username = [mohammad]
+Total Length: X = 42, Y = 43 (Y / X = 102.38  X / Y = 97.67)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk Dogecoin is starting to rise now]
+X_token = [elonmusk, dogecoin, starting, rise]
+	X tweet_count = [4]
+	X username = [mohammad]
+Y = [@binance Dogecoin is starting to rise now]
+Y_token = [binance, dogecoin, starting, rise]
+	Y tweet_count = [7]
+	Y username = [mohammad]
+Total Length: X = 42, Y = 41 (Y / X = 97.62  X / Y = 102.44)
+Dice Coefficient: 75.00% 
+
+X = [@melliedtd Dogecoin is starting to rise now]
+X_token = [melliedtd, dogecoin, starting, rise]
+	X tweet_count = [5]
+	X username = [mohammad]
+Y = [@binance Dogecoin is starting to rise now]
+Y_token = [binance, dogecoin, starting, rise]
+	Y tweet_count = [7]
+	Y username = [mohammad]
+Total Length: X = 43, Y = 41 (Y / X = 95.35  X / Y = 104.88)
+Dice Coefficient: 75.00% 
+
+X = [@binance Dogecoin is starting to rise now]
+X_token = [binance, dogecoin, starting, rise]
+	X tweet_count = [7]
+	X username = [mohammad]
+Y = [#dogecoin is starting to rise now]
+Y_token = [dogecoin, starting, rise]
+	Y tweet_count = [8]
+	Y username = [mohammad]
+Total Length: X = 41, Y = 33 (Y / X = 80.49  X / Y = 124.24)
+Dice Coefficient: 85.71% 
+
+X = [@uglywilloww @dogeofficialceo @itsALLrisky @DogecoinRise @dogecoin_empire @ItsDogeCoin @DogecoinZack @davidgokhshtein @elonmusk @MattWallace888 It is a game for big traders to take advantage of opportunities and get the largest amount of Dogecoin at the cheapest price]
+X_token = [uglywilloww, dogeofficialceo, itsallrisky, dogecoinrise, itsdogecoin, dogecoinzack, davidgokhshtein, elonmusk, mattwallace888, game, big, traders, take, advantage, opportunities, get, largest, amount, dogecoin, cheapest, price]
+	X tweet_count = [10]
+	X username = [mohammad]
+Y = [@dogeofficialceo @itsALLrisky @DogecoinRise @dogecoin_empire @ItsDogeCoin @DogecoinZack @davidgokhshtein @elonmusk @MattWallace888 It is a game for big traders to take advantage of opportunities and get the largest amount of Dogecoin at the cheapest price]
+Y_token = [dogeofficialceo, itsallrisky, dogecoinrise, itsdogecoin, dogecoinzack, davidgokhshtein, elonmusk, mattwallace888, game, big, traders, take, advantage, opportunities, get, largest, amount, dogecoin, cheapest, price]
+	Y tweet_count = [11]
+	Y username = [mohammad]
+Total Length: X = 268, Y = 255 (Y / X = 95.15  X / Y = 105.10)
+Dice Coefficient: 97.56% 
+

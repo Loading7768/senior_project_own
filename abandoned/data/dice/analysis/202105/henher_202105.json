@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#jackinthebox plus #dogecoin much wow. To the moooooooooooon",
+        "X_token": "jackinthebox, plus, dogecoin, much, wow, moooooooooooon",
+        "X_tweet_count": 5,
+        "X_username": "henher",
+        "Y_text": "#eToro plus #dogecoin much wow!!!!!\nTo the moooooooooooon",
+        "Y_token": "etoro, plus, dogecoin, much, wow, moooooooooooon",
+        "Y_tweet_count": 10,
+        "Y_username": "henher",
+        "X_length": 60,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 95.0,
+        "X_length_percent_of_Y": 105.26,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "#jackinthebox plus #dogecoin much wow. To the moooooooooooon",
+        "X_token": "jackinthebox, plus, dogecoin, much, wow, moooooooooooon",
+        "X_tweet_count": 5,
+        "X_username": "henher",
+        "Y_text": "#Tmobile plus #dogecoin much wow!!!!!!! To the moooooooooooon",
+        "Y_token": "tmobile, plus, dogecoin, much, wow, moooooooooooon",
+        "Y_tweet_count": 12,
+        "Y_username": "henher",
+        "X_length": 60,
+        "Y_length": 61,
+        "Y_length_percent_of_X": 101.67,
+        "X_length_percent_of_Y": 98.36,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "#Coinbase plus #dogecoin  much wow???!!!!!!!!!!     To the moooooooooooon!!!!!!!!!!!!",
+        "X_token": "coinbase, plus, dogecoin, much, wow, moooooooooooon",
+        "X_tweet_count": 9,
+        "X_username": "henher",
+        "Y_text": "@SNICKERS @TrippIvey #SNICKERS plus #dogecoin to the moooooooooooon!!!!! MUCH WOW 🤩",
+        "Y_token": "snickers, trippivey, snickers, plus, dogecoin, moooooooooooon, much, wow",
+        "Y_tweet_count": 21,
+        "Y_username": "henher",
+        "X_length": 85,
+        "Y_length": 83,
+        "Y_length_percent_of_X": 97.65,
+        "X_length_percent_of_Y": 102.41,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "#eToro plus #dogecoin much wow!!!!!\nTo the moooooooooooon",
+        "X_token": "etoro, plus, dogecoin, much, wow, moooooooooooon",
+        "X_tweet_count": 10,
+        "X_username": "henher",
+        "Y_text": "#Tmobile plus #dogecoin much wow!!!!!!! To the moooooooooooon",
+        "Y_token": "tmobile, plus, dogecoin, much, wow, moooooooooooon",
+        "Y_tweet_count": 12,
+        "Y_username": "henher",
+        "X_length": 57,
+        "Y_length": 61,
+        "Y_length_percent_of_X": 107.02,
+        "X_length_percent_of_Y": 93.44,
+        "dice_coefficient": 83.33
+    }
+]

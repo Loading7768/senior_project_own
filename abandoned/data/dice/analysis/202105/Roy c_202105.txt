@@ -1,0 +1,572 @@
+﻿X = [People are waiting on Elon. It’s not about Elon it’s about us. Everyone needs to tell everyone about Dogecoin. Those of you in other countries need to tell everyone. Strength in numbers.]
+X_token = [people, waiting, elon, elon, us, everyone, needs, tell, everyone, dogecoin, countries, need, tell, everyone, strength, numbers]
+	X tweet_count = [16]
+	X username = [Roy c]
+Y = [@dogecoin_empire People are waiting on Elon. It’s not about Elon it’s about us. Everyone needs to tell everyone about Dogecoin. Those of you in other countries need to everyone. Strength in numbers.]
+Y_token = [people, waiting, elon, elon, us, everyone, needs, tell, everyone, dogecoin, countries, need, everyone, strength, numbers]
+	Y tweet_count = [17]
+	Y username = [Roy c]
+Total Length: X = 186, Y = 198 (Y / X = 106.45  X / Y = 93.94)
+Dice Coefficient: 100.00% 
+
+X = [People are waiting on Elon. It’s not about Elon it’s about us. Everyone needs to tell everyone about Dogecoin. Those of you in other countries need to tell everyone. Strength in numbers.]
+X_token = [people, waiting, elon, elon, us, everyone, needs, tell, everyone, dogecoin, countries, need, tell, everyone, strength, numbers]
+	X tweet_count = [16]
+	X username = [Roy c]
+Y = [People are waiting on Elon. It’s not about Elon it’s about us. Everyone needs to tell everyone about Dogecoin. Those of you in other countries need to everyone. Strength in numbers.]
+Y_token = [people, waiting, elon, elon, us, everyone, needs, tell, everyone, dogecoin, countries, need, everyone, strength, numbers]
+	Y tweet_count = [18]
+	Y username = [Roy c]
+Total Length: X = 186, Y = 181 (Y / X = 97.31  X / Y = 102.76)
+Dice Coefficient: 100.00% 
+
+X = [@dogecoin_empire People are waiting on Elon. It’s not about Elon it’s about us. Everyone needs to tell everyone about Dogecoin. Those of you in other countries need to everyone. Strength in numbers.]
+X_token = [people, waiting, elon, elon, us, everyone, needs, tell, everyone, dogecoin, countries, need, everyone, strength, numbers]
+	X tweet_count = [17]
+	X username = [Roy c]
+Y = [People are waiting on Elon. It’s not about Elon it’s about us. Everyone needs to tell everyone about Dogecoin. Those of you in other countries need to everyone. Strength in numbers.]
+Y_token = [people, waiting, elon, elon, us, everyone, needs, tell, everyone, dogecoin, countries, need, everyone, strength, numbers]
+	Y tweet_count = [18]
+	Y username = [Roy c]
+Total Length: X = 198, Y = 181 (Y / X = 91.41  X / Y = 109.39)
+Dice Coefficient: 100.00% 
+
+X = [@teslaownersSV SpaceX accepts dogecoin as payment to launch a lunar mission next year]
+X_token = [teslaownerssv, spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year]
+	X tweet_count = [25]
+	X username = [Roy c]
+Y = [@dogecoin_empire SpaceX accepts dogecoin as payment to launch a lunar mission next year]
+Y_token = [spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year]
+	Y tweet_count = [26]
+	Y username = [Roy c]
+Total Length: X = 85, Y = 87 (Y / X = 102.35  X / Y = 97.70)
+Dice Coefficient: 94.74% 
+
+X = [@teslaownersSV SpaceX accepts dogecoin as payment to launch a lunar mission next year]
+X_token = [teslaownerssv, spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year]
+	X tweet_count = [25]
+	X username = [Roy c]
+Y = [SpaceX accepts dogecoin as payment to launch a lunar mission next year . Dogecoin is here for ever]
+Y_token = [spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year, dogecoin, ever]
+	Y tweet_count = [27]
+	Y username = [Roy c]
+Total Length: X = 85, Y = 98 (Y / X = 115.29  X / Y = 86.73)
+Dice Coefficient: 90.00% 
+
+X = [@teslaownersSV SpaceX accepts dogecoin as payment to launch a lunar mission next year]
+X_token = [teslaownerssv, spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year]
+	X tweet_count = [25]
+	X username = [Roy c]
+Y = [SpaceX accepts dogecoin as payment to launch a lunar mission next year]
+Y_token = [spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year]
+	Y tweet_count = [28]
+	Y username = [Roy c]
+Total Length: X = 85, Y = 70 (Y / X = 82.35  X / Y = 121.43)
+Dice Coefficient: 94.74% 
+
+X = [@dogecoin_empire SpaceX accepts dogecoin as payment to launch a lunar mission next year]
+X_token = [spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year]
+	X tweet_count = [26]
+	X username = [Roy c]
+Y = [SpaceX accepts dogecoin as payment to launch a lunar mission next year . Dogecoin is here for ever]
+Y_token = [spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year, dogecoin, ever]
+	Y tweet_count = [27]
+	Y username = [Roy c]
+Total Length: X = 87, Y = 98 (Y / X = 112.64  X / Y = 88.78)
+Dice Coefficient: 94.74% 
+
+X = [@dogecoin_empire SpaceX accepts dogecoin as payment to launch a lunar mission next year]
+X_token = [spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year]
+	X tweet_count = [26]
+	X username = [Roy c]
+Y = [SpaceX accepts dogecoin as payment to launch a lunar mission next year]
+Y_token = [spacex, accepts, dogecoin, payment, launch, lunar, mission, next, year]
+	Y tweet_count = [28]
+	Y username = [Roy c]
+Total Length: X = 87, Y = 70 (Y / X = 80.46  X / Y = 124.29)
+Dice Coefficient: 100.00% 
+
+X = [@itsALLrisky Dogecoin Fan Mark Cuban Bets $1 Million on Crypto’s Long-Term Value\nA Twitter debate with a wealth management firm head sees Cuban agree to bet a big chunk of change in a smart contract—which he plans to yield farm, no less. Please retweet this.]
+X_token = [itsallrisky, dogecoin, fan, mark, cuban, bets, 1, million, crypto, value, twitter, debate, wealth, management, firm, head, sees, cuban, agree, bet, big, chunk, change, smart, plans, yield, farm, less, please, retweet]
+	X tweet_count = [29]
+	X username = [Roy c]
+Y = [@dogecoin_empire Dogecoin Fan Mark Cuban Bets $1 Million on Crypto’s Long-Term Value\nA Twitter debate with a wealth management firm head sees Cuban agree to bet a big chunk of change in a smart contract—which he plans to yield farm, no less.]
+Y_token = [dogecoin, fan, mark, cuban, bets, 1, million, crypto, value, twitter, debate, wealth, management, firm, head, sees, cuban, agree, bet, big, chunk, change, smart, plans, yield, farm, less]
+	Y tweet_count = [30]
+	Y username = [Roy c]
+Total Length: X = 258, Y = 241 (Y / X = 93.41  X / Y = 107.05)
+Dice Coefficient: 94.55% 
+
+X = [@itsALLrisky Dogecoin Fan Mark Cuban Bets $1 Million on Crypto’s Long-Term Value\nA Twitter debate with a wealth management firm head sees Cuban agree to bet a big chunk of change in a smart contract—which he plans to yield farm, no less. Please retweet this.]
+X_token = [itsallrisky, dogecoin, fan, mark, cuban, bets, 1, million, crypto, value, twitter, debate, wealth, management, firm, head, sees, cuban, agree, bet, big, chunk, change, smart, plans, yield, farm, less, please, retweet]
+	X tweet_count = [29]
+	X username = [Roy c]
+Y = [Dogecoin Fan Mark Cuban Bets $1 Million on Crypto’s Long-Term Value\nA Twitter debate with a wealth management firm head sees Cuban agree to bet a big chunk of change in a smart contract—which he plans to yield farm, no less.]
+Y_token = [dogecoin, fan, mark, cuban, bets, 1, million, crypto, value, twitter, debate, wealth, management, firm, head, sees, cuban, agree, bet, big, chunk, change, smart, plans, yield, farm, less]
+	Y tweet_count = [31]
+	Y username = [Roy c]
+Total Length: X = 258, Y = 224 (Y / X = 86.82  X / Y = 115.18)
+Dice Coefficient: 94.55% 
+
+X = [@dogecoin_empire Dogecoin Fan Mark Cuban Bets $1 Million on Crypto’s Long-Term Value\nA Twitter debate with a wealth management firm head sees Cuban agree to bet a big chunk of change in a smart contract—which he plans to yield farm, no less.]
+X_token = [dogecoin, fan, mark, cuban, bets, 1, million, crypto, value, twitter, debate, wealth, management, firm, head, sees, cuban, agree, bet, big, chunk, change, smart, plans, yield, farm, less]
+	X tweet_count = [30]
+	X username = [Roy c]
+Y = [Dogecoin Fan Mark Cuban Bets $1 Million on Crypto’s Long-Term Value\nA Twitter debate with a wealth management firm head sees Cuban agree to bet a big chunk of change in a smart contract—which he plans to yield farm, no less.]
+Y_token = [dogecoin, fan, mark, cuban, bets, 1, million, crypto, value, twitter, debate, wealth, management, firm, head, sees, cuban, agree, bet, big, chunk, change, smart, plans, yield, farm, less]
+	Y tweet_count = [31]
+	Y username = [Roy c]
+Total Length: X = 241, Y = 224 (Y / X = 92.95  X / Y = 107.59)
+Dice Coefficient: 100.00% 
+
+X = [@sadiaslayy Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.]
+X_token = [sadiaslayy, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise]
+	X tweet_count = [36]
+	X username = [Roy c]
+Y = [@WSBChairman Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [wsbchairman, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [37]
+	Y username = [Roy c]
+Total Length: X = 272, Y = 280 (Y / X = 102.94  X / Y = 97.14)
+Dice Coefficient: 95.65% 
+
+X = [@sadiaslayy Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.]
+X_token = [sadiaslayy, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise]
+	X tweet_count = [36]
+	X username = [Roy c]
+Y = [@Doge_France  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark]
+	Y tweet_count = [38]
+	Y username = [Roy c]
+Total Length: X = 272, Y = 279 (Y / X = 102.57  X / Y = 97.49)
+Dice Coefficient: 97.78% 
+
+X = [@sadiaslayy Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.]
+X_token = [sadiaslayy, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise]
+	X tweet_count = [36]
+	X username = [Roy c]
+Y = [@MattWallace888 Let me tell youwho has done the most for doge and gets no credit\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise Mark Cuban]
+Y_token = [mattwallace888, let, tell, youwho, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [39]
+	Y username = [Roy c]
+Total Length: X = 272, Y = 280 (Y / X = 102.94  X / Y = 97.14)
+Dice Coefficient: 93.62% 
+
+X = [@sadiaslayy Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.]
+X_token = [sadiaslayy, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise]
+	X tweet_count = [36]
+	X username = [Roy c]
+Y = [@mika_kaitlin Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then ElonEveryone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay.He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, eloneveryone, reach, bet, peter, million, dollars, dogecoin, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [40]
+	Y username = [Roy c]
+Total Length: X = 272, Y = 280 (Y / X = 102.94  X / Y = 97.14)
+Dice Coefficient: 88.37% 
+
+X = [@sadiaslayy Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.]
+X_token = [sadiaslayy, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise]
+	X tweet_count = [36]
+	X username = [Roy c]
+Y = [@Dogecoinxx  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban.He’s more involved and invested then Elon.Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise Mark Cuban]
+Y_token = [dogecoinxx, let, tell, done, doge, gets, credit, mark, involved, invested, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [41]
+	Y username = [Roy c]
+Total Length: X = 272, Y = 280 (Y / X = 102.94  X / Y = 97.14)
+Dice Coefficient: 90.91% 
+
+X = [@sadiaslayy Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.]
+X_token = [sadiaslayy, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise]
+	X tweet_count = [36]
+	X username = [Roy c]
+Y = [@pifinity Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.Mark Cuban]
+Y_token = [pifinity, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, cuban]
+	Y tweet_count = [42]
+	Y username = [Roy c]
+Total Length: X = 272, Y = 280 (Y / X = 102.94  X / Y = 97.14)
+Dice Coefficient: 93.33% 
+
+X = [@sadiaslayy Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.]
+X_token = [sadiaslayy, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise]
+	X tweet_count = [36]
+	X username = [Roy c]
+Y = [Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [43]
+	Y username = [Roy c]
+Total Length: X = 272, Y = 271 (Y / X = 99.63  X / Y = 100.37)
+Dice Coefficient: 97.78% 
+
+X = [@WSBChairman Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise. Mark Cuban]
+X_token = [wsbchairman, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [37]
+	X username = [Roy c]
+Y = [@Doge_France  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark]
+	Y tweet_count = [38]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 279 (Y / X = 99.64  X / Y = 100.36)
+Dice Coefficient: 97.78% 
+
+X = [@WSBChairman Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise. Mark Cuban]
+X_token = [wsbchairman, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [37]
+	X username = [Roy c]
+Y = [@MattWallace888 Let me tell youwho has done the most for doge and gets no credit\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise Mark Cuban]
+Y_token = [mattwallace888, let, tell, youwho, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [39]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 93.62% 
+
+X = [@WSBChairman Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise. Mark Cuban]
+X_token = [wsbchairman, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [37]
+	X username = [Roy c]
+Y = [@mika_kaitlin Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then ElonEveryone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay.He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, eloneveryone, reach, bet, peter, million, dollars, dogecoin, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [40]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 88.37% 
+
+X = [@WSBChairman Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise. Mark Cuban]
+X_token = [wsbchairman, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [37]
+	X username = [Roy c]
+Y = [@Dogecoinxx  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban.He’s more involved and invested then Elon.Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise Mark Cuban]
+Y_token = [dogecoinxx, let, tell, done, doge, gets, credit, mark, involved, invested, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [41]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 90.91% 
+
+X = [@WSBChairman Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise. Mark Cuban]
+X_token = [wsbchairman, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [37]
+	X username = [Roy c]
+Y = [@pifinity Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.Mark Cuban]
+Y_token = [pifinity, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, cuban]
+	Y tweet_count = [42]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 93.33% 
+
+X = [@WSBChairman Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise. Mark Cuban]
+X_token = [wsbchairman, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [37]
+	X username = [Roy c]
+Y = [Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [43]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 271 (Y / X = 96.79  X / Y = 103.32)
+Dice Coefficient: 97.78% 
+
+X = [@Doge_France  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark]
+X_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark]
+	X tweet_count = [38]
+	X username = [Roy c]
+Y = [@MattWallace888 Let me tell youwho has done the most for doge and gets no credit\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise Mark Cuban]
+Y_token = [mattwallace888, let, tell, youwho, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [39]
+	Y username = [Roy c]
+Total Length: X = 279, Y = 280 (Y / X = 100.36  X / Y = 99.64)
+Dice Coefficient: 95.65% 
+
+X = [@Doge_France  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark]
+X_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark]
+	X tweet_count = [38]
+	X username = [Roy c]
+Y = [@mika_kaitlin Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then ElonEveryone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay.He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, eloneveryone, reach, bet, peter, million, dollars, dogecoin, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [40]
+	Y username = [Roy c]
+Total Length: X = 279, Y = 280 (Y / X = 100.36  X / Y = 99.64)
+Dice Coefficient: 90.48% 
+
+X = [@Doge_France  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark]
+X_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark]
+	X tweet_count = [38]
+	X username = [Roy c]
+Y = [@Dogecoinxx  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban.He’s more involved and invested then Elon.Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise Mark Cuban]
+Y_token = [dogecoinxx, let, tell, done, doge, gets, credit, mark, involved, invested, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [41]
+	Y username = [Roy c]
+Total Length: X = 279, Y = 280 (Y / X = 100.36  X / Y = 99.64)
+Dice Coefficient: 93.02% 
+
+X = [@Doge_France  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark]
+X_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark]
+	X tweet_count = [38]
+	X username = [Roy c]
+Y = [@pifinity Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.Mark Cuban]
+Y_token = [pifinity, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, cuban]
+	Y tweet_count = [42]
+	Y username = [Roy c]
+Total Length: X = 279, Y = 280 (Y / X = 100.36  X / Y = 99.64)
+Dice Coefficient: 95.45% 
+
+X = [@Doge_France  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark]
+X_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark]
+	X tweet_count = [38]
+	X username = [Roy c]
+Y = [Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [43]
+	Y username = [Roy c]
+Total Length: X = 279, Y = 271 (Y / X = 97.13  X / Y = 102.95)
+Dice Coefficient: 100.00% 
+
+X = [@MattWallace888 Let me tell youwho has done the most for doge and gets no credit\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise Mark Cuban]
+X_token = [mattwallace888, let, tell, youwho, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [39]
+	X username = [Roy c]
+Y = [@mika_kaitlin Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then ElonEveryone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay.He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, eloneveryone, reach, bet, peter, million, dollars, dogecoin, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [40]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 86.36% 
+
+X = [@MattWallace888 Let me tell youwho has done the most for doge and gets no credit\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise Mark Cuban]
+X_token = [mattwallace888, let, tell, youwho, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [39]
+	X username = [Roy c]
+Y = [@Dogecoinxx  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban.He’s more involved and invested then Elon.Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise Mark Cuban]
+Y_token = [dogecoinxx, let, tell, done, doge, gets, credit, mark, involved, invested, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [41]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 88.89% 
+
+X = [@MattWallace888 Let me tell youwho has done the most for doge and gets no credit\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise Mark Cuban]
+X_token = [mattwallace888, let, tell, youwho, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [39]
+	X username = [Roy c]
+Y = [@pifinity Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.Mark Cuban]
+Y_token = [pifinity, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, cuban]
+	Y tweet_count = [42]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 91.30% 
+
+X = [@MattWallace888 Let me tell youwho has done the most for doge and gets no credit\nMark Cuban He’s more involved and invested then Elon Everyone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay He started the Mavericks Merchandise Mark Cuban]
+X_token = [mattwallace888, let, tell, youwho, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [39]
+	X username = [Roy c]
+Y = [Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [43]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 271 (Y / X = 96.79  X / Y = 103.32)
+Dice Coefficient: 95.65% 
+
+X = [@mika_kaitlin Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then ElonEveryone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay.He started the Mavericks Merchandise. Mark Cuban]
+X_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, eloneveryone, reach, bet, peter, million, dollars, dogecoin, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [40]
+	X username = [Roy c]
+Y = [@Dogecoinxx  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban.He’s more involved and invested then Elon.Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise Mark Cuban]
+Y_token = [dogecoinxx, let, tell, done, doge, gets, credit, mark, involved, invested, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [41]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 92.68% 
+
+X = [@mika_kaitlin Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then ElonEveryone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay.He started the Mavericks Merchandise. Mark Cuban]
+X_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, eloneveryone, reach, bet, peter, million, dollars, dogecoin, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [40]
+	X username = [Roy c]
+Y = [@pifinity Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.Mark Cuban]
+Y_token = [pifinity, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, cuban]
+	Y tweet_count = [42]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 85.71% 
+
+X = [@mika_kaitlin Let me tell you who has done the most for doge and gets no credit.\nMark Cuban He’s more involved and invested then ElonEveryone should reach out to him When he bet Peter a million dollars that Dogecoin is here to stay.He started the Mavericks Merchandise. Mark Cuban]
+X_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, eloneveryone, reach, bet, peter, million, dollars, dogecoin, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [40]
+	X username = [Roy c]
+Y = [Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [43]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 271 (Y / X = 96.79  X / Y = 103.32)
+Dice Coefficient: 90.48% 
+
+X = [@Dogecoinxx  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban.He’s more involved and invested then Elon.Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise Mark Cuban]
+X_token = [dogecoinxx, let, tell, done, doge, gets, credit, mark, involved, invested, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [41]
+	X username = [Roy c]
+Y = [@pifinity Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.Mark Cuban]
+Y_token = [pifinity, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, cuban]
+	Y tweet_count = [42]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 280 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 88.37% 
+
+X = [@Dogecoinxx  Let me tell you who has done the most for doge and gets no credit.\nMark Cuban.He’s more involved and invested then Elon.Everyone should reach out to him.When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise Mark Cuban]
+X_token = [dogecoinxx, let, tell, done, doge, gets, credit, mark, involved, invested, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	X tweet_count = [41]
+	X username = [Roy c]
+Y = [Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [43]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 271 (Y / X = 96.79  X / Y = 103.32)
+Dice Coefficient: 93.02% 
+
+X = [@pifinity Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise.Mark Cuban]
+X_token = [pifinity, let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, cuban]
+	X tweet_count = [42]
+	X username = [Roy c]
+Y = [Let me tell you who has done the most for doge and gets no credit.\nMark Cuban. He’s more involved and invested then Elon. Everyone should reach out to him. When he bet Peter a million dollars that Dogecoin is here to stay. He started the Mavericks Merchandise. Mark Cuban]
+Y_token = [let, tell, done, doge, gets, credit, mark, cuban, involved, invested, elon, everyone, reach, bet, peter, million, dollars, dogecoin, stay, started, mavericks, merchandise, mark, cuban]
+	Y tweet_count = [43]
+	Y username = [Roy c]
+Total Length: X = 280, Y = 271 (Y / X = 96.79  X / Y = 103.32)
+Dice Coefficient: 95.45% 
+
+X = [Dogecoin imitator Shiba Inu pumps 146% on Binance listing\nThe DOGE imitator gained nearly 1,000% in the past 48 hours as Binance announces it’s making room for SHIB despite Vitalik Buterin owing 50% of the supply.]
+X_token = [dogecoin, imitator, shiba, inu, pumps, 146, binance, listing, doge, imitator, gained, nearly, past, 48, hours, binance, announces, making, room, shib, despite, vitalik, buterin, owing, 50, supply]
+	X tweet_count = [45]
+	X username = [Roy c]
+Y = [@lukiiji941 Dogecoin imitator Shiba Inu pumps 146% on Binance listing\nThe DOGE imitator gained nearly 1,000% in the past 48 hours as Binance announces it’s making room for SHIB despite Vitalik Buterin owing 50% of the supply.]
+Y_token = [lukiiji941, dogecoin, imitator, shiba, inu, pumps, 146, binance, listing, doge, imitator, gained, nearly, past, 48, hours, binance, announces, making, room, shib, despite, vitalik, buterin, owing, 50, supply]
+	Y tweet_count = [50]
+	Y username = [Roy c]
+Total Length: X = 213, Y = 225 (Y / X = 105.63  X / Y = 94.67)
+Dice Coefficient: 97.96% 
+
+X = [Dogecoin imitator Shiba Inu pumps 146% on Binance listing\nThe DOGE imitator gained nearly 1,000% in the past 48 hours as Binance announces it’s making room for SHIB despite Vitalik Buterin owing 50% of the supply.]
+X_token = [dogecoin, imitator, shiba, inu, pumps, 146, binance, listing, doge, imitator, gained, nearly, past, 48, hours, binance, announces, making, room, shib, despite, vitalik, buterin, owing, 50, supply]
+	X tweet_count = [45]
+	X username = [Roy c]
+Y = [@dogecoin_empire @JustDogeIt1 @binance @cz_binance Dogecoin imitator Shiba Inu pumps 146% on Binance listing\nThe DOGE imitator gained nearly 1,000% in the past 48 hours as Binance announces it’s making room for SHIB despite Vitalik Buterin owing 50% of the supply.]
+Y_token = [justdogeit1, binance, dogecoin, imitator, shiba, inu, pumps, 146, binance, listing, doge, imitator, gained, nearly, past, 48, hours, binance, announces, making, room, shib, despite, vitalik, buterin, owing, 50, supply]
+	Y tweet_count = [51]
+	Y username = [Roy c]
+Total Length: X = 213, Y = 264 (Y / X = 123.94  X / Y = 80.68)
+Dice Coefficient: 97.96% 
+
+X = [@budweiserusa SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+X_token = [budweiserusa, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	X tweet_count = [46]
+	X username = [Roy c]
+Y = [@StonksReddit SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+Y_token = [stonksreddit, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	Y tweet_count = [47]
+	Y username = [Roy c]
+Total Length: X = 208, Y = 208 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 94.12% 
+
+X = [@budweiserusa SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+X_token = [budweiserusa, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	X tweet_count = [46]
+	X username = [Roy c]
+Y = [@suchHODL SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+Y_token = [suchhodl, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	Y tweet_count = [48]
+	Y username = [Roy c]
+Total Length: X = 208, Y = 204 (Y / X = 98.08  X / Y = 101.96)
+Dice Coefficient: 94.12% 
+
+X = [@budweiserusa SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+X_token = [budweiserusa, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	X tweet_count = [46]
+	X username = [Roy c]
+Y = [@ShibaMM10 SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+Y_token = [shibamm10, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	Y tweet_count = [49]
+	Y username = [Roy c]
+Total Length: X = 208, Y = 205 (Y / X = 98.56  X / Y = 101.46)
+Dice Coefficient: 94.12% 
+
+X = [@StonksReddit SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+X_token = [stonksreddit, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	X tweet_count = [47]
+	X username = [Roy c]
+Y = [@suchHODL SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+Y_token = [suchhodl, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	Y tweet_count = [48]
+	Y username = [Roy c]
+Total Length: X = 208, Y = 204 (Y / X = 98.08  X / Y = 101.96)
+Dice Coefficient: 94.12% 
+
+X = [@StonksReddit SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+X_token = [stonksreddit, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	X tweet_count = [47]
+	X username = [Roy c]
+Y = [@ShibaMM10 SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+Y_token = [shibamm10, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	Y tweet_count = [49]
+	Y username = [Roy c]
+Total Length: X = 208, Y = 205 (Y / X = 98.56  X / Y = 101.46)
+Dice Coefficient: 94.12% 
+
+X = [@suchHODL SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+X_token = [suchhodl, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	X tweet_count = [48]
+	X username = [Roy c]
+Y = [@ShibaMM10 SHIB claims it has been nicknamed “Dogecoin Killer.” In terms of weekly gains, it left behind Dogecoin (DOGE), which rose 46.92% in the period and was trading 15.4% lower at $0.56 at press time.]
+Y_token = [shibamm10, shib, claims, nicknamed, dogecoin, terms, weekly, gains, left, behind, dogecoin, doge, rose, period, trading, lower, press, time]
+	Y tweet_count = [49]
+	Y username = [Roy c]
+Total Length: X = 204, Y = 205 (Y / X = 100.49  X / Y = 99.51)
+Dice Coefficient: 94.12% 
+
+X = [@lukiiji941 Dogecoin imitator Shiba Inu pumps 146% on Binance listing\nThe DOGE imitator gained nearly 1,000% in the past 48 hours as Binance announces it’s making room for SHIB despite Vitalik Buterin owing 50% of the supply.]
+X_token = [lukiiji941, dogecoin, imitator, shiba, inu, pumps, 146, binance, listing, doge, imitator, gained, nearly, past, 48, hours, binance, announces, making, room, shib, despite, vitalik, buterin, owing, 50, supply]
+	X tweet_count = [50]
+	X username = [Roy c]
+Y = [@dogecoin_empire @JustDogeIt1 @binance @cz_binance Dogecoin imitator Shiba Inu pumps 146% on Binance listing\nThe DOGE imitator gained nearly 1,000% in the past 48 hours as Binance announces it’s making room for SHIB despite Vitalik Buterin owing 50% of the supply.]
+Y_token = [justdogeit1, binance, dogecoin, imitator, shiba, inu, pumps, 146, binance, listing, doge, imitator, gained, nearly, past, 48, hours, binance, announces, making, room, shib, despite, vitalik, buterin, owing, 50, supply]
+	Y tweet_count = [51]
+	Y username = [Roy c]
+Total Length: X = 225, Y = 264 (Y / X = 117.33  X / Y = 85.23)
+Dice Coefficient: 96.00% 
+
+X = [@divinegrackle @dogecoin_empire Nicknamed the DogeCoin Killer $SHIB has has increased over 1600% and hit $13B market cap in the last week! 🚀🌛]
+X_token = [divinegrackle, nicknamed, dogecoin, killer, shib, increased, 1600, hit, 13b, market, cap, last, week]
+	X tweet_count = [52]
+	X username = [Roy c]
+Y = [@dogecoin_empire @divinegrackle Nicknamed the DogeCoin Killer $SHIB has has increased over 1600% and hit $13B market cap in the last week! 🚀🌛]
+Y_token = [divinegrackle, nicknamed, dogecoin, killer, shib, increased, 1600, hit, 13b, market, cap, last, week]
+	Y tweet_count = [53]
+	Y username = [Roy c]
+Total Length: X = 141, Y = 141 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@shibaguru @TheShibLord Shiba Inu, also known as Shiba Token, is a decentralized cryptocurrency created in August 2020 by an anonymous person known as "Ryoshi". The token, dubbed the "DOGE killer", was modeled after Dogecoin and has a market capitalization of over $6 billion as of May 2021]
+X_token = [shibaguru, theshiblord, shiba, inu, also, known, shiba, token, decentralized, cryptocurrency, created, august, 2020, anonymous, person, known, ryoshi, token, dubbed, doge, killer, modeled, dogecoin, market, capitalization, 6, billion, may, 2021]
+	X tweet_count = [71]
+	X username = [Roy c]
+Y = [Shiba Inu, also known as Shiba Token, is a decentralized cryptocurrency created in August 2020 by an anonymous person known as "Ryoshi". The token, dubbed the "DOGE killer", was modeled after Dogecoin and has a market capitalization of over $6 billion as of May 2021]
+Y_token = [shiba, inu, also, known, shiba, token, decentralized, cryptocurrency, created, august, 2020, anonymous, person, known, ryoshi, token, dubbed, doge, killer, modeled, dogecoin, market, capitalization, 6, billion, may, 2021]
+	Y tweet_count = [72]
+	Y username = [Roy c]
+Total Length: X = 290, Y = 266 (Y / X = 91.72  X / Y = 109.02)
+Dice Coefficient: 96.00% 
+
+X = [Hailed as ‘DogeCoin killer’, the new cryto currency is making waves in Indian markets. It has reached a market capitalisation of more than $13 billion while Dogecoin’s valuation stands at over $61 billion.]
+X_token = [hailed, dogecoin, killer, new, cryto, currency, making, waves, indian, markets, reached, market, capitalisation, 13, billion, dogecoin, valuation, stands, 61, billion]
+	X tweet_count = [78]
+	X username = [Roy c]
+Y = [Hailed as ‘DogeCoin killer’, the new crypto currency is making waves in Indian markets. It has reached a market capitalisation of more than $13 billion while Dogecoin’s valuation stands at over $61 billion.]
+Y_token = [hailed, dogecoin, killer, new, crypto, currency, making, waves, indian, markets, reached, market, capitalisation, 13, billion, dogecoin, valuation, stands, 61, billion]
+	Y tweet_count = [80]
+	Y username = [Roy c]
+Total Length: X = 205, Y = 206 (Y / X = 100.49  X / Y = 99.51)
+Dice Coefficient: 94.44% 
+
+X = [@mike47763099 The cryptocurrency — which has been billed as a Dogecoin killer — has been rising higher than Bitcoin, Ethereum and other cryptocurrencies in recent days, says Benzinga, as it has become a focus for investors.]
+X_token = [mike47763099, cryptocurrency, billed, dogecoin, killer, rising, higher, bitcoin, ethereum, cryptocurrencies, recent, days, says, benzinga, become, focus, investors]
+	X tweet_count = [83]
+	X username = [Roy c]
+Y = [The cryptocurrency — which has been billed as a Dogecoin killer — has been rising higher than Bitcoin, Ethereum and other cryptocurrencies in recent days, says Benzinga, as it has become a focus for investors.]
+Y_token = [cryptocurrency, billed, dogecoin, killer, rising, higher, bitcoin, ethereum, cryptocurrencies, recent, days, says, benzinga, become, focus, investors]
+	Y tweet_count = [84]
+	Y username = [Roy c]
+Total Length: X = 223, Y = 209 (Y / X = 93.72  X / Y = 106.70)
+Dice Coefficient: 96.97% 
+

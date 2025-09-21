@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@binance Dogecoin",
+        "X_token": "binance, dogecoin",
+        "X_tweet_count": 1,
+        "X_username": "Abhishek thakur",
+        "Y_text": "@binance Dogecoin",
+        "Y_token": "binance, dogecoin",
+        "Y_tweet_count": 11,
+        "Y_username": "Abhishek thakur",
+        "X_length": 17,
+        "Y_length": 17,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@elonmusk Dogecoin on the moon",
+        "X_token": "elonmusk, dogecoin, moon",
+        "X_tweet_count": 4,
+        "X_username": "Abhishek thakur",
+        "Y_text": "@elonmusk Dogecoin is going to moon 🔝",
+        "Y_token": "elonmusk, dogecoin, going, moon",
+        "Y_tweet_count": 9,
+        "Y_username": "Abhishek thakur",
+        "X_length": 30,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 123.33,
+        "X_length_percent_of_Y": 81.08,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@elonmusk Dogecoin is going to moon 🔝",
+        "X_token": "elonmusk, dogecoin, going, moon",
+        "X_tweet_count": 9,
+        "X_username": "Abhishek thakur",
+        "Y_text": "@elonmusk Dogecoin going to 0.8$ \n🚀🚀🚀🚀🚀🚀🚀🚀",
+        "Y_token": "elonmusk, dogecoin, going",
+        "Y_tweet_count": 12,
+        "Y_username": "Abhishek thakur",
+        "X_length": 37,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 113.51,
+        "X_length_percent_of_Y": 88.1,
+        "dice_coefficient": 85.71
+    }
+]

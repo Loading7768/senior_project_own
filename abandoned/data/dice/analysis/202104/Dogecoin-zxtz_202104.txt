@@ -1,0 +1,44 @@
+﻿X = [#dogecoin Dogecoin will grow 10,000 times in 10 years]
+X_token = [dogecoin, dogecoin, grow, times, 10, years]
+	X tweet_count = [65]
+	X username = [Dogecoin-zxtz]
+Y = [@davidgokhshtein Dogecoin will grow 10,000 times in 10 years]
+Y_token = [davidgokhshtein, dogecoin, grow, times, 10, years]
+	Y tweet_count = [66]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 53, Y = 60 (Y / X = 113.21  X / Y = 88.33)
+Dice Coefficient: 90.91% 
+
+X = [#dogecoin 4-20 dogecoin https://t.co/AkOIcOwPND]
+X_token = [dogecoin, dogecoin, https]
+	X tweet_count = [88]
+	X username = [Dogecoin-zxtz]
+Y = [#dogecoin  love https://t.co/O0e9Bu2TWv]
+Y_token = [dogecoin, love, https]
+	Y tweet_count = [110]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 47, Y = 39 (Y / X = 82.98  X / Y = 120.51)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin 4-20 dogecoin https://t.co/AkOIcOwPND]
+X_token = [dogecoin, dogecoin, https]
+	X tweet_count = [88]
+	X username = [Dogecoin-zxtz]
+Y = [#dogecoin The general https://t.co/Y8b2hOT3Ik]
+Y_token = [dogecoin, general, https]
+	Y tweet_count = [114]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 47, Y = 45 (Y / X = 95.74  X / Y = 104.44)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin From a scientist's point of view, the universe exists because of observation. It's like playing a game. If you see it, the map opens. If you don't see it, it's black and uncreated. In a way, God is real because we created him]
+X_token = [dogecoin, scientist, point, view, universe, exists, observation, like, playing, game, see, map, opens, see, black, uncreated, way, god, real, created]
+	X tweet_count = [117]
+	X username = [Dogecoin-zxtz]
+Y = [@PPathole @elonmusk From a scientist's point of view, the universe exists because of observation. It's like playing a game. If you see it, the map opens. If you don't see it, it's black and uncreated. In a way, God is real because we created him.]
+Y_token = [ppathole, elonmusk, scientist, point, view, universe, exists, observation, like, playing, game, see, map, opens, see, black, uncreated, way, god, real, created]
+	Y tweet_count = [118]
+	Y username = [Dogecoin-zxtz]
+Total Length: X = 235, Y = 246 (Y / X = 104.68  X / Y = 95.53)
+Dice Coefficient: 92.31% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#dogecoin buy and hold! Hopefully people are taking advantage of this dip. https://t.co/j6ET2dWRle",
+        "X_token": "dogecoin, buy, hold, hopefully, people, taking, advantage, dip, https",
+        "X_tweet_count": 1,
+        "X_username": "Ben crypto outcast",
+        "Y_text": "#dogecoin buy and hold! Hopefully some people are taking advantage of a snl discount dip. Buy the dip.",
+        "Y_token": "dogecoin, buy, hold, hopefully, people, taking, advantage, snl, discount, dip, buy, dip",
+        "Y_tweet_count": 2,
+        "Y_username": "Ben crypto outcast",
+        "X_length": 98,
+        "Y_length": 102,
+        "Y_length_percent_of_X": 104.08,
+        "X_length_percent_of_Y": 96.08,
+        "dice_coefficient": 84.21
+    },
+    {
+        "X_text": "@Richard02088775 @dogeofficialceo @Mosh_AIi @Bradl3yKrypto @davidgokhshtein @elonmusk @cz_binance @ItsDogeCoin @dogecoin_empire @WSBChairman @DogecoinZack @DogecoinRise @BillyM2k @itsALLrisky Source please? Off of the Shiba white paper it says no such thing it reads- “We sent over 50% of the total supply to Vitalik. There is no greatness without vulnerable point and as long as VB doesn’t rug us, then SHIBA will grow and survive.”",
+        "X_token": "richard02088775, dogeofficialceo, bradl3ykrypto, davidgokhshtein, elonmusk, itsdogecoin, wsbchairman, dogecoinzack, dogecoinrise, billym2k, itsallrisky, source, please, shiba, white, paper, says, thing, sent, 50, total, supply, vitalik, greatness, without, vulnerable, point, long, vb, rug, us, shiba, grow, survive",
+        "X_tweet_count": 4,
+        "X_username": "Ben crypto outcast",
+        "Y_text": "@tylerjaytweets @Mosh_AIi @dogeofficialceo @Bradl3yKrypto @davidgokhshtein @elonmusk @cz_binance @ItsDogeCoin @dogecoin_empire @WSBChairman @DogecoinZack @DogecoinRise @BillyM2k @itsALLrisky Source? Everything else so far I’ve seen says otherwise. The white paper even reads “We sent over 50% of the TOTAL supply to Vitalik. There is no greatness without a vulnerable point and as long as VB doesn’t rug us, then SHIBA will grow and survive.”",
+        "Y_token": "tylerjaytweets, dogeofficialceo, bradl3ykrypto, davidgokhshtein, elonmusk, itsdogecoin, wsbchairman, dogecoinzack, dogecoinrise, billym2k, itsallrisky, source, everything, else, far, seen, says, otherwise, white, paper, even, reads, sent, 50, total, supply, vitalik, greatness, without, vulnerable, point, long, vb, rug, us, shiba, grow, survive",
+        "Y_tweet_count": 5,
+        "Y_username": "Ben crypto outcast",
+        "X_length": 433,
+        "Y_length": 442,
+        "Y_length_percent_of_X": 102.08,
+        "X_length_percent_of_Y": 97.96,
+        "dice_coefficient": 84.51
+    }
+]

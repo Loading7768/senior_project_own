@@ -1,0 +1,44 @@
+﻿X = [@Mericamemed The world is going nuts over "Big Ball Gate". It\'s hilarious! 😂]
+X_token = [mericamemed, world, going, nuts, big, ball, gate, hilarious]
+	X tweet_count = [19]
+	X username = [Sebastian, The Dogecoin Bull]
+Y = [@hodgetwins The world is going nuts over "Big Ball Gate". It\'s hilarious! 😂]
+Y_token = [hodgetwins, world, going, nuts, big, ball, gate, hilarious]
+	Y tweet_count = [23]
+	Y username = [Sebastian, The Dogecoin Bull]
+Total Length: X = 76, Y = 75 (Y / X = 98.68  X / Y = 101.33)
+Dice Coefficient: 87.50% 
+
+X = [@Mericamemed The world is going nuts over "Big Ball Gate". It\'s hilarious! 😂]
+X_token = [mericamemed, world, going, nuts, big, ball, gate, hilarious]
+	X tweet_count = [19]
+	X username = [Sebastian, The Dogecoin Bull]
+Y = [The world is going nuts over "Big Ball Gate". It\'s hilarious! 😂]
+Y_token = [world, going, nuts, big, ball, gate, hilarious]
+	Y tweet_count = [24]
+	Y username = [Sebastian, The Dogecoin Bull]
+Total Length: X = 76, Y = 63 (Y / X = 82.89  X / Y = 120.63)
+Dice Coefficient: 93.33% 
+
+X = [@hodgetwins The world is going nuts over "Big Ball Gate". It\'s hilarious! 😂]
+X_token = [hodgetwins, world, going, nuts, big, ball, gate, hilarious]
+	X tweet_count = [23]
+	X username = [Sebastian, The Dogecoin Bull]
+Y = [The world is going nuts over "Big Ball Gate". It\'s hilarious! 😂]
+Y_token = [world, going, nuts, big, ball, gate, hilarious]
+	Y tweet_count = [24]
+	Y username = [Sebastian, The Dogecoin Bull]
+Total Length: X = 75, Y = 63 (Y / X = 84.00  X / Y = 119.05)
+Dice Coefficient: 93.33% 
+
+X = [@UpdateNews724 Jezus is King, not this cunŧ]
+X_token = [updatenews724, jezus, king, cunŧ]
+	X tweet_count = [107]
+	X username = [Sebastian, The Dogecoin Bull]
+Y = [@UpdateNews724 Your King is a Cunŧ!]
+Y_token = [updatenews724, king, cunŧ]
+	Y tweet_count = [108]
+	Y username = [Sebastian, The Dogecoin Bull]
+Total Length: X = 43, Y = 35 (Y / X = 81.40  X / Y = 122.86)
+Dice Coefficient: 85.71% 
+

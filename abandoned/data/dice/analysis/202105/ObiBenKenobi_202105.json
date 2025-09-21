@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@TTGxJay @BigDoggge @WheresYoungy @davidgokhshtein @elonmusk @heydave7 @dogecoin_devs You made my cry 😭",
+        "X_token": "ttgxjay, bigdoggge, wheresyoungy, davidgokhshtein, elonmusk, heydave7, made, cry",
+        "X_tweet_count": 13,
+        "X_username": "ObiBenKenobi",
+        "Y_text": "@BigDoggge @WheresYoungy @davidgokhshtein @elonmusk @heydave7 @dogecoin_devs Most certainly 😘",
+        "Y_token": "bigdoggge, wheresyoungy, davidgokhshtein, elonmusk, heydave7, certainly",
+        "Y_tweet_count": 16,
+        "Y_username": "ObiBenKenobi",
+        "X_length": 103,
+        "Y_length": 93,
+        "Y_length_percent_of_X": 90.29,
+        "X_length_percent_of_Y": 110.75,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "@BigDoggge @WheresYoungy @davidgokhshtein @elonmusk @heydave7 @dogecoin_devs Most certainly 😘",
+        "X_token": "bigdoggge, wheresyoungy, davidgokhshtein, elonmusk, heydave7, certainly",
+        "X_tweet_count": 16,
+        "X_username": "ObiBenKenobi",
+        "Y_text": "@BigDoggge @WheresYoungy @davidgokhshtein @elonmusk @heydave7 @dogecoin_devs Idiots lol",
+        "Y_token": "bigdoggge, wheresyoungy, davidgokhshtein, elonmusk, heydave7, idiots, lol",
+        "Y_tweet_count": 17,
+        "Y_username": "ObiBenKenobi",
+        "X_length": 93,
+        "Y_length": 87,
+        "Y_length_percent_of_X": 93.55,
+        "X_length_percent_of_Y": 106.9,
+        "dice_coefficient": 76.92
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Let’s go without China ! #dogecoin 🚀",
+        "X_token": "let, go, without, china, dogecoin",
+        "X_tweet_count": 21,
+        "X_username": "Buy your Dogecoin",
+        "Y_text": "Let’s go without China 🚀 #dogecoin",
+        "Y_token": "let, go, without, china, dogecoin",
+        "Y_tweet_count": 24,
+        "Y_username": "Buy your Dogecoin",
+        "X_length": 36,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 94.44,
+        "X_length_percent_of_Y": 105.88,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "The #dogecoin community is strong #dogearmy",
+        "X_token": "dogecoin, community, strong, dogearmy",
+        "X_tweet_count": 23,
+        "X_username": "Buy your Dogecoin",
+        "Y_text": "@MattWallace888 The #dogecoin community is strong!",
+        "Y_token": "mattwallace888, dogecoin, community, strong",
+        "Y_tweet_count": 42,
+        "Y_username": "Buy your Dogecoin",
+        "X_length": 43,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 116.28,
+        "X_length_percent_of_Y": 86.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "We do not need China for #dogecoin HOLD your #dogecoin",
+        "X_token": "need, china, dogecoin, hold, dogecoin",
+        "X_tweet_count": 33,
+        "X_username": "Buy your Dogecoin",
+        "Y_text": "@DogeAmillion We do not need China for #dogecoin",
+        "Y_token": "dogeamillion, need, china, dogecoin",
+        "Y_tweet_count": 34,
+        "Y_username": "Buy your Dogecoin",
+        "X_length": 54,
+        "Y_length": 48,
+        "Y_length_percent_of_X": 88.89,
+        "X_length_percent_of_Y": 112.5,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Let’s go #dogecoin! The #dogecoin community ❤️ is ready for take off 🚀 #DogecoinToTheMoon #DogecoinRise  #dogearmy always HODL 💪🏼",
+        "X_token": "let, go, dogecoin, dogecoin, community, ready, take, dogecointothemoon, dogecoinrise, dogearmy, always, hodl",
+        "X_tweet_count": 65,
+        "X_username": "Buy your Dogecoin",
+        "Y_text": "Let’s go #dogecoin! The #dogecoin community ❤️ is always strong  🚀 #DogecoinToTheMoon #DogecoinRise  #dogearmy always HODL 💪🏼",
+        "Y_token": "let, go, dogecoin, dogecoin, community, always, strong, dogecointothemoon, dogecoinrise, dogearmy, always, hodl",
+        "Y_tweet_count": 69,
+        "Y_username": "Buy your Dogecoin",
+        "X_length": 129,
+        "Y_length": 125,
+        "Y_length_percent_of_X": 96.9,
+        "X_length_percent_of_Y": 103.2,
+        "dice_coefficient": 85.71
+    }
+]

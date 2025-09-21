@@ -1,0 +1,33 @@
+﻿X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [1]
+	X username = [Carlos]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [111]
+	Y username = [Carlos]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@cryptocom @dogecoin @Shibtoken Bonfire too]
+X_token = [cryptocom, dogecoin, shibtoken, bonfire]
+	X tweet_count = [37]
+	X username = [Carlos]
+Y = [@cryptocom @dogecoin @Shibtoken Safemoon]
+Y_token = [cryptocom, dogecoin, shibtoken, safemoon]
+	Y tweet_count = [38]
+	Y username = [Carlos]
+Total Length: X = 43, Y = 40 (Y / X = 93.02  X / Y = 107.50)
+Dice Coefficient: 75.00% 
+
+X = [@MattWallace888 🤔 Did y’all forget that Elon bought Dogecoin for his son at the beginning of the year. Maybe the toddler Hodler is manipulating it!!!]
+X_token = [mattwallace888, forget, elon, bought, dogecoin, son, beginning, year, maybe, toddler, hodler, manipulating]
+	X tweet_count = [91]
+	X username = [Carlos]
+Y = [@MattWallace888 🤔 Did y’all forget that Elon bought Dogecoin for his son at the beginning of the year. Maybe the toddler Hodler is manipulating it!!!]
+Y_token = [mattwallace888, forget, elon, bought, dogecoin, son, beginning, year, maybe, toddler, hodler, manipulating]
+	Y tweet_count = [92]
+	Y username = [Carlos]
+Total Length: X = 149, Y = 149 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

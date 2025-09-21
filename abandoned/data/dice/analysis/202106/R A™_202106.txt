@@ -1,0 +1,11 @@
+﻿X = [Im stop selling #Bitcoin and buying some $DOGE just some]
+X_token = [im, stop, selling, bitcoin, buying, doge]
+	X tweet_count = [11]
+	X username = [R A™]
+Y = [@michael_saylor Im selling some #Bitcoin for $DOGE]
+Y_token = [im, selling, bitcoin, doge]
+	Y tweet_count = [17]
+	Y username = [R A™]
+Total Length: X = 56, Y = 50 (Y / X = 89.29  X / Y = 112.00)
+Dice Coefficient: 80.00% 
+

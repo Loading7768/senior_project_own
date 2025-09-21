@@ -1,0 +1,11 @@
+﻿X = [@elonmusk buy some more #dogecoin]
+X_token = [elonmusk, buy, dogecoin]
+	X tweet_count = [5]
+	X username = [Serious]
+Y = [@elonmusk I'LL BUY A TESLA WITH #DOGECOIN]
+Y_token = [elonmusk, buy, tesla, dogecoin]
+	Y tweet_count = [6]
+	Y username = [Serious]
+Total Length: X = 33, Y = 41 (Y / X = 124.24  X / Y = 80.49)
+Dice Coefficient: 85.71% 
+

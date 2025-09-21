@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@danheld @elonmusk Just buy $doge",
+        "X_token": "danheld, elonmusk, buy, doge",
+        "X_tweet_count": 49,
+        "X_username": "nobodyimportant",
+        "Y_text": "@elonmusk @cleantechnica Buy some $doge",
+        "Y_token": "elonmusk, cleantechnica, buy, doge",
+        "Y_tweet_count": 60,
+        "Y_username": "nobodyimportant",
+        "X_length": 33,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 118.18,
+        "X_length_percent_of_Y": 84.62,
+        "dice_coefficient": 75.0
+    }
+]

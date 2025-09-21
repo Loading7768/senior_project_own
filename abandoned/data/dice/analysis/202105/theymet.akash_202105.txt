@@ -1,0 +1,66 @@
+﻿X = [must watch\n\nhttps://t.co/Uc73SmvHn7\n\n#dogecoin]
+X_token = [must, watch, https, dogecoin]
+	X tweet_count = [21]
+	X username = [theymet.akash]
+Y = [watch this https://t.co/Uc73SmvHn7\n.\n#dogecoin]
+Y_token = [watch, https, dogecoin]
+	Y tweet_count = [22]
+	Y username = [theymet.akash]
+Total Length: X = 46, Y = 46 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 85.71% 
+
+X = [to the moon\n#dogecoin]
+X_token = [moon, dogecoin]
+	X tweet_count = [25]
+	X username = [theymet.akash]
+Y = [to the moon\n #dogecoin]
+Y_token = [moon, dogecoin]
+	Y tweet_count = [51]
+	Y username = [theymet.akash]
+Total Length: X = 21, Y = 22 (Y / X = 104.76  X / Y = 95.45)
+Dice Coefficient: 100.00% 
+
+X = [here we go come on push it buy the dip... bu the dip\n#dogecoin to the moon]
+X_token = [go, come, push, buy, dip, bu, dip, dogecoin, moon]
+	X tweet_count = [30]
+	X username = [theymet.akash]
+Y = [here we go comeon push it... buy the dip.. buy the dip\n#dogecoin]
+Y_token = [go, comeon, push, buy, dip, buy, dip, dogecoin]
+	Y tweet_count = [33]
+	Y username = [theymet.akash]
+Total Length: X = 74, Y = 64 (Y / X = 86.49  X / Y = 115.62)
+Dice Coefficient: 71.43% 
+
+X = [here we go come on push it buy the dip... bu the dip\n#dogecoin to the moon]
+X_token = [go, come, push, buy, dip, bu, dip, dogecoin, moon]
+	X tweet_count = [30]
+	X username = [theymet.akash]
+Y = [lets go come on push it.. buy the dip buy the dip \n#dogecoin]
+Y_token = [lets, go, come, push, buy, dip, buy, dip, dogecoin]
+	Y tweet_count = [34]
+	Y username = [theymet.akash]
+Total Length: X = 74, Y = 60 (Y / X = 81.08  X / Y = 123.33)
+Dice Coefficient: 80.00% 
+
+X = [here we go comeon push it... buy the dip.. buy the dip\n#dogecoin]
+X_token = [go, comeon, push, buy, dip, buy, dip, dogecoin]
+	X tweet_count = [33]
+	X username = [theymet.akash]
+Y = [lets go come on push it.. buy the dip buy the dip \n#dogecoin]
+Y_token = [lets, go, come, push, buy, dip, buy, dip, dogecoin]
+	Y tweet_count = [34]
+	Y username = [theymet.akash]
+Total Length: X = 64, Y = 60 (Y / X = 93.75  X / Y = 106.67)
+Dice Coefficient: 76.92% 
+
+X = [Tesla support our community\n#dogecoin]
+X_token = [tesla, support, community, dogecoin]
+	X tweet_count = [39]
+	X username = [theymet.akash]
+Y = [elon support our community\n#dogecoin]
+Y_token = [elon, support, community, dogecoin]
+	Y tweet_count = [40]
+	Y username = [theymet.akash]
+Total Length: X = 37, Y = 36 (Y / X = 97.30  X / Y = 102.78)
+Dice Coefficient: 75.00% 
+

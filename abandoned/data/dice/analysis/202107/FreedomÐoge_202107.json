@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@elonmusk #dogecoin. On my way! https://t.co/buULc3DxLc",
+        "X_token": "elonmusk, dogecoin, way, https",
+        "X_tweet_count": 10,
+        "X_username": "FreedomÐoge",
+        "Y_text": "Its time !  @elonmusk #dogecoin https://t.co/d7K0tWhFxU",
+        "Y_token": "time, elonmusk, dogecoin, https",
+        "Y_tweet_count": 44,
+        "Y_username": "FreedomÐoge",
+        "X_length": 55,
+        "Y_length": 55,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Stop crying. Buy the dip.   #dogecoin #doge #dogearmy #DogeFather https://t.co/AAmwvf8onD",
+        "X_token": "stop, crying, buy, dip, dogecoin, doge, dogearmy, dogefather, https",
+        "X_tweet_count": 41,
+        "X_username": "FreedomÐoge",
+        "Y_text": "Buy the dip or let it dip?  #dogecoin #dogearmy #hold #doge https://t.co/vzUo81szwD",
+        "Y_token": "buy, dip, let, dip, dogecoin, dogearmy, hold, doge, https",
+        "Y_tweet_count": 52,
+        "Y_username": "FreedomÐoge",
+        "X_length": 89,
+        "Y_length": 83,
+        "Y_length_percent_of_X": 93.26,
+        "X_length_percent_of_Y": 107.23,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "Bitcoin vs Gold. Dogecoin vs Fiats.  Do you agree?  #dogearmy #dogecoin #DogecoinToTheMoon @elonmusk https://t.co/nnfm6ahMh7",
+        "X_token": "bitcoin, vs, gold, dogecoin, vs, fiats, agree, dogearmy, dogecoin, dogecointothemoon, elonmusk, https",
+        "X_tweet_count": 89,
+        "X_username": "FreedomÐoge",
+        "Y_text": "Dogecoin is a revolution between people vs fiats. dogearmy #dogecoin #DogecoinToTheMoon @elonmusk https://t.co/9JBLaVrBQg",
+        "Y_token": "dogecoin, revolution, people, vs, fiats, dogearmy, dogecoin, dogecointothemoon, elonmusk, https",
+        "Y_tweet_count": 90,
+        "Y_username": "FreedomÐoge",
+        "X_length": 124,
+        "Y_length": 121,
+        "Y_length_percent_of_X": 97.58,
+        "X_length_percent_of_Y": 102.48,
+        "dice_coefficient": 73.68
+    }
+]

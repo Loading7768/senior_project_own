@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Who let the #doge out  #dogecoin #Dogecoinarmy https://t.co/LicTKOar3t",
+        "X_token": "let, doge, dogecoin, dogecoinarmy, https",
+        "X_tweet_count": 96,
+        "X_username": "Buddy leblanc",
+        "Y_text": "#dogecoin \nWho let the #doge out https://t.co/g3eZqDiWuA",
+        "Y_token": "dogecoin, let, doge, https",
+        "Y_tweet_count": 97,
+        "Y_username": "Buddy leblanc",
+        "X_length": 70,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 88.89
+    }
+]

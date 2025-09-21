@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "We are live #doge #dogecoin #dogecoins  https://t.co/PDq6mPAVRl",
+        "X_token": "live, doge, dogecoin, dogecoins, https",
+        "X_tweet_count": 6,
+        "X_username": "InvestigatorAshley",
+        "Y_text": "Come join our live #doge #dogecoin https://t.co/yjdgvEiOfh",
+        "Y_token": "come, join, live, doge, dogecoin, https",
+        "Y_tweet_count": 15,
+        "Y_username": "InvestigatorAshley",
+        "X_length": 63,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 92.06,
+        "X_length_percent_of_Y": 108.62,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "Come join our live #doge #dogecoin #DogecoinRise https://t.co/yjdgvEiOfh",
+        "X_token": "come, join, live, doge, dogecoin, dogecoinrise, https",
+        "X_tweet_count": 14,
+        "X_username": "InvestigatorAshley",
+        "Y_text": "Come join our live #doge #dogecoin https://t.co/yjdgvEiOfh",
+        "Y_token": "come, join, live, doge, dogecoin, https",
+        "Y_tweet_count": 15,
+        "Y_username": "InvestigatorAshley",
+        "X_length": 72,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 80.56,
+        "X_length_percent_of_Y": 124.14,
+        "dice_coefficient": 92.31
+    }
+]

@@ -1,0 +1,110 @@
+﻿X = [You do what you think. If someone is dropping a doge coin, you have millions of fans waiting for your tweet. You do a good tweet about doge coin and say hold, then see how much doge.  Goes up and will be number one in a few days]
+X_token = [think, someone, dropping, doge, coin, millions, fans, waiting, tweet, good, tweet, doge, coin, say, hold, see, much, doge, goes, number, one, days]
+	X tweet_count = [249]
+	X username = [Jon]
+Y = [@elonmusk @loshan1212 @itsALLrisky You do what you think. If someone is dropping a doge coin, you have millions of fans waiting for your tweet. You do a good tweet about doge coin and say hold, then see how much doge.  Goes up and will be number one in a few days]
+Y_token = [elonmusk, loshan1212, itsallrisky, think, someone, dropping, doge, coin, millions, fans, waiting, tweet, good, tweet, doge, coin, say, hold, see, much, doge, goes, number, one, days]
+	Y tweet_count = [250]
+	Y username = [Jon]
+Total Length: X = 228, Y = 263 (Y / X = 115.35  X / Y = 86.69)
+Dice Coefficient: 92.31% 
+
+X = [$DOGE]
+X_token = [doge]
+	X tweet_count = [254]
+	X username = [Jon]
+Y = [$DOGE]
+Y_token = [doge]
+	Y tweet_count = [279]
+	Y username = [Jon]
+Total Length: X = 5, Y = 5 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@VeChainLuke New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+X_token = [vechainluke, new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	X tweet_count = [257]
+	X username = [Jon]
+Y = [@ShardiB2 New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+Y_token = [shardib2, new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	Y tweet_count = [258]
+	Y username = [Jon]
+Total Length: X = 187, Y = 184 (Y / X = 98.40  X / Y = 101.63)
+Dice Coefficient: 95.00% 
+
+X = [@VeChainLuke New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+X_token = [vechainluke, new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	X tweet_count = [257]
+	X username = [Jon]
+Y = [@CryptoCapo_ New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+Y_token = [new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	Y tweet_count = [259]
+	Y username = [Jon]
+Total Length: X = 187, Y = 187 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 97.44% 
+
+X = [@VeChainLuke New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+X_token = [vechainluke, new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	X tweet_count = [257]
+	X username = [Jon]
+Y = [New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+Y_token = [new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	Y tweet_count = [260]
+	Y username = [Jon]
+Total Length: X = 187, Y = 174 (Y / X = 93.05  X / Y = 107.47)
+Dice Coefficient: 97.44% 
+
+X = [@ShardiB2 New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+X_token = [shardib2, new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	X tweet_count = [258]
+	X username = [Jon]
+Y = [@CryptoCapo_ New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+Y_token = [new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	Y tweet_count = [259]
+	Y username = [Jon]
+Total Length: X = 184, Y = 187 (Y / X = 101.63  X / Y = 98.40)
+Dice Coefficient: 97.44% 
+
+X = [@ShardiB2 New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+X_token = [shardib2, new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	X tweet_count = [258]
+	X username = [Jon]
+Y = [New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+Y_token = [new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	Y tweet_count = [260]
+	Y username = [Jon]
+Total Length: X = 184, Y = 174 (Y / X = 94.57  X / Y = 105.75)
+Dice Coefficient: 97.44% 
+
+X = [@CryptoCapo_ New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+X_token = [new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	X tweet_count = [259]
+	X username = [Jon]
+Y = [New investors are treating $BTC #BTC #Bitcoin  like an alt coin now. Buy at 42k, sell at 45k. Rinse and repeat. Bitcoiners #cryptotrading #cryptocurrencies #dogecoin #altcoin]
+Y_token = [new, investors, treating, btc, btc, bitcoin, like, alt, coin, buy, 42k, sell, 45k, rinse, repeat, bitcoiners, cryptotrading, cryptocurrencies, dogecoin, altcoin]
+	Y tweet_count = [260]
+	Y username = [Jon]
+Total Length: X = 187, Y = 174 (Y / X = 93.05  X / Y = 107.47)
+Dice Coefficient: 100.00% 
+
+X = [@davidgokhshtein DOGECOIN!!!]
+X_token = [davidgokhshtein, dogecoin]
+	X tweet_count = [14]
+	X username = [Jon]
+Y = [@davidgokhshtein Dogecoin]
+Y_token = [davidgokhshtein, dogecoin]
+	Y tweet_count = [167]
+	Y username = [Jon]
+Total Length: X = 28, Y = 25 (Y / X = 89.29  X / Y = 112.00)
+Dice Coefficient: 100.00% 
+
+X = [#doge @dogecoin #Dogecoins \nDOGECOIN IS RISING!!!!!! https://t.co/8KHWQvIT3E]
+X_token = [doge, dogecoin, dogecoins, dogecoin, rising, https]
+	X tweet_count = [79]
+	X username = [Jon]
+Y = [#dogecoin #doge #DogeCoins \nHahhaha trueeee https://t.co/LwAdCuUCQt]
+Y_token = [dogecoin, doge, dogecoins, hahhaha, trueeee, https]
+	Y tweet_count = [169]
+	Y username = [Jon]
+Total Length: X = 76, Y = 67 (Y / X = 88.16  X / Y = 113.43)
+Dice Coefficient: 72.73% 
+

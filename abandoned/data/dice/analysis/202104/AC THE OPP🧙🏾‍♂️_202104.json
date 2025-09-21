@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Buy some Dogecoin today",
+        "X_token": "buy, dogecoin, today",
+        "X_tweet_count": 2,
+        "X_username": "AC THE OPP🧙🏾‍♂️",
+        "Y_text": "Buy Dogecoin now!!!",
+        "Y_token": "buy, dogecoin",
+        "Y_tweet_count": 21,
+        "Y_username": "AC THE OPP🧙🏾‍♂️",
+        "X_length": 23,
+        "Y_length": 19,
+        "Y_length_percent_of_X": 82.61,
+        "X_length_percent_of_Y": 121.05,
+        "dice_coefficient": 80.0
+    }
+]

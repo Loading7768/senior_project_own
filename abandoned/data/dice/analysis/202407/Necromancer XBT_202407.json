@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@ATSUKOSATO_eth $SATO MOTHER OF $DOGE $NEIRO $TSUJI $GINNAN",
+        "X_token": "sato, mother, doge, neiro, tsuji, ginnan",
+        "X_tweet_count": 12,
+        "X_username": "Necromancer XBT",
+        "Y_text": "@ATSUKOSATO_eth The mother of all dogs\n\n$DOGE $NEIRO\n=\n$SATO",
+        "Y_token": "mother, dogs, doge, neiro, sato",
+        "Y_tweet_count": 18,
+        "Y_username": "Necromancer XBT",
+        "X_length": 59,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 101.69,
+        "X_length_percent_of_Y": 98.33,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "Study $TSUJI - The $DOGE's sis , YOUR BETA PLAY\n\n0x2e6a60492fb5b58f5b5d08c7cafc75e740e6dc8e https://t.co/0RWlr4T79m",
+        "X_token": "study, tsuji, doge, sis, beta, play, 0x2e6a60492fb5b58f5b5d08c7cafc75e740e6dc8e, https",
+        "X_tweet_count": 14,
+        "X_username": "Necromancer XBT",
+        "Y_text": "@robw00ds $TSUJI is the beta $NEIRO play\n\nDont fade the community of $DOGE sis.\n\nStudy $TSUJI https://t.co/UHo4GBNvm8",
+        "Y_token": "robw00ds, tsuji, beta, neiro, play, dont, fade, community, doge, sis, study, tsuji, https",
+        "Y_tweet_count": 21,
+        "Y_username": "Necromancer XBT",
+        "X_length": 115,
+        "Y_length": 117,
+        "Y_length_percent_of_X": 101.74,
+        "X_length_percent_of_Y": 98.29,
+        "dice_coefficient": 70.0
+    },
+    {
+        "X_text": "@ATSUKOSATO_eth Study the dogemother - both $DOGE and $NEIRO owner",
+        "X_token": "study, dogemother, doge, neiro, owner",
+        "X_tweet_count": 15,
+        "X_username": "Necromancer XBT",
+        "Y_text": "STUDY $SATO - THE DOGEMOTHER ( $DOGE $NEIRO )\n\nhttps://t.co/noKs1mWVFE",
+        "Y_token": "study, sato, dogemother, doge, neiro, https",
+        "Y_tweet_count": 16,
+        "Y_username": "Necromancer XBT",
+        "X_length": 66,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 106.06,
+        "X_length_percent_of_Y": 94.29,
+        "dice_coefficient": 72.73
+    }
+]

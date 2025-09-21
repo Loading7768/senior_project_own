@@ -1,0 +1,12 @@
+pip install scikit-learn
+pip install sentence-transformers
+pip install tqdm
+pip install pandas
+pip install matplotlib
+
+套件名稱 | 用途
+scikit-learn | KMeans、Silhouette Score、Calinski、Davies指標
+sentence-transformers | BERT 向量轉換（句子嵌入）
+tqdm | 顯示迴圈進度條
+pandas | 數據表格處理，建立 DataFrame 分析
+matplotlib | 畫分群評分的折線圖

@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "There is no if $1 will come for $DOGE... IT IS WHEN!\n\nReTweet if you're going #ToTheMoon with #DOGE",
+        "X_token": "1, come, doge, retweet, going, tothemoon, doge",
+        "X_tweet_count": 8,
+        "X_username": "Dogecoin For Life",
+        "Y_text": "There is no if $1 will come for $DOGE... IT IS WHEN!\n\nReTweet if you're going #ToTheMoon with #DOGE\n\n#dogecoin 🚀🚀🚀🚀🚀🚀🚀🚀🚀",
+        "Y_token": "1, come, doge, retweet, going, tothemoon, doge, dogecoin",
+        "Y_tweet_count": 12,
+        "Y_username": "Dogecoin For Life",
+        "X_length": 99,
+        "Y_length": 120,
+        "Y_length_percent_of_X": 121.21,
+        "X_length_percent_of_Y": 82.5,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "Is this real life 🤑 #dogecoin #ToTheMoon https://t.co/gdtFaFopUU",
+        "X_token": "real, life, dogecoin, tothemoon, https",
+        "X_tweet_count": 15,
+        "X_username": "Dogecoin For Life",
+        "Y_text": "Is this real life 😳🤑🚀🚀\n\n#dogecoin #doge #dogearmy https://t.co/CBmdh83NHS",
+        "Y_token": "real, life, dogecoin, doge, dogearmy, https",
+        "Y_tweet_count": 21,
+        "Y_username": "Dogecoin For Life",
+        "X_length": 64,
+        "Y_length": 73,
+        "Y_length_percent_of_X": 114.06,
+        "X_length_percent_of_Y": 87.67,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@elonmusk @DogecoinRise @TeslaGong and the #DogecoinRise continues!",
+        "X_token": "elonmusk, dogecoinrise, teslagong, dogecoinrise, continues",
+        "X_tweet_count": 58,
+        "X_username": "Dogecoin For Life",
+        "Y_text": "@elonmusk @xSharknado @DogecoinRise @TeslaGong and the #DogecoinRise continues!",
+        "Y_token": "elonmusk, xsharknado, dogecoinrise, teslagong, dogecoinrise, continues",
+        "Y_tweet_count": 59,
+        "Y_username": "Dogecoin For Life",
+        "X_length": 67,
+        "Y_length": 79,
+        "Y_length_percent_of_X": 117.91,
+        "X_length_percent_of_Y": 84.81,
+        "dice_coefficient": 88.89
+    }
+]

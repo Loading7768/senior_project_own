@@ -1,0 +1,44 @@
+﻿X = [A large group of traders is manipulating the price of $doge on discord. I have seen them actively pumping #doge since yesterday. Checkout their last announcement about #dogecoin on Discord: https://t.co/sd93kxxvOj https://t.co/6a361nNy17]
+X_token = [large, group, traders, manipulating, price, doge, discord, seen, actively, pumping, doge, since, yesterday, checkout, last, announcement, dogecoin, discord, https, https]
+	X tweet_count = [12]
+	X username = [Ethan]
+Y = [A large group of traders is manipulating the price of $doge on discord. I have seen them actively pumping #doge since yesterday. Checkout their last announcement about #dogecoin on Discord: https://t.co/sd93kxxvOj https://t.co/cPOHyCfQYF]
+Y_token = [large, group, traders, manipulating, price, doge, discord, seen, actively, pumping, doge, since, yesterday, checkout, last, announcement, dogecoin, discord, https, https]
+	Y tweet_count = [14]
+	Y username = [Ethan]
+Total Length: X = 237, Y = 237 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [A large group of traders is manipulating the price of $doge on discord. I have seen them actively pumping #doge since yesterday. Checkout their last announcement about #dogecoin on Discord: https://t.co/sd93kxxvOj https://t.co/6a361nNy17]
+X_token = [large, group, traders, manipulating, price, doge, discord, seen, actively, pumping, doge, since, yesterday, checkout, last, announcement, dogecoin, discord, https, https]
+	X tweet_count = [12]
+	X username = [Ethan]
+Y = [the price of #dogecoin is being manipulated by a large group of traders on Discord. They are pumping $doge just before #DogeDay420. Check out their last announcement about #doge https://t.co/V5ZM5LBMXv https://t.co/kjYAufymV5]
+Y_token = [price, dogecoin, manipulated, large, group, traders, discord, pumping, doge, dogeday420, check, last, announcement, doge, https, https]
+	Y tweet_count = [19]
+	Y username = [Ethan]
+Total Length: X = 237, Y = 225 (Y / X = 94.94  X / Y = 105.33)
+Dice Coefficient: 70.97% 
+
+X = [The price of #safemoon is getting manipulated by a pump group with 240,000 members. They operate on Discord and also pumped #dogecoin. https://t.co/V5ZM5LBMXv https://t.co/1FDfCFgJEw]
+X_token = [price, safemoon, getting, manipulated, pump, group, members, operate, discord, also, pumped, dogecoin, https, https]
+	X tweet_count = [13]
+	X username = [Ethan]
+Y = [$btt is getting pumped by the same group that pumped #dogecoin. They operate on Discord and have 200,000 members https://t.co/V5ZM5LBMXv https://t.co/kJVxDv8DXD]
+Y_token = [btt, getting, pumped, group, pumped, dogecoin, operate, discord, members, https, https]
+	Y tweet_count = [18]
+	Y username = [Ethan]
+Total Length: X = 182, Y = 160 (Y / X = 87.91  X / Y = 113.75)
+Dice Coefficient: 72.73% 
+
+X = [A large group of traders is manipulating the price of $doge on discord. I have seen them actively pumping #doge since yesterday. Checkout their last announcement about #dogecoin on Discord: https://t.co/sd93kxxvOj https://t.co/cPOHyCfQYF]
+X_token = [large, group, traders, manipulating, price, doge, discord, seen, actively, pumping, doge, since, yesterday, checkout, last, announcement, dogecoin, discord, https, https]
+	X tweet_count = [14]
+	X username = [Ethan]
+Y = [the price of #dogecoin is being manipulated by a large group of traders on Discord. They are pumping $doge just before #DogeDay420. Check out their last announcement about #doge https://t.co/V5ZM5LBMXv https://t.co/kjYAufymV5]
+Y_token = [price, dogecoin, manipulated, large, group, traders, discord, pumping, doge, dogeday420, check, last, announcement, doge, https, https]
+	Y tweet_count = [19]
+	Y username = [Ethan]
+Total Length: X = 237, Y = 225 (Y / X = 94.94  X / Y = 105.33)
+Dice Coefficient: 70.97% 
+

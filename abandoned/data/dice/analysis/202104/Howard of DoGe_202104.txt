@@ -1,0 +1,22 @@
+﻿X = [@GuyFieri Food tastes better on the moon\n#dogecoin]
+X_token = [guyfieri, food, tastes, better, moon, dogecoin]
+	X tweet_count = [5]
+	X username = [Howard of DoGe]
+Y = [@GuyFieri Food tastes better on the moon\nDogecoin]
+Y_token = [guyfieri, food, tastes, better, moon, dogecoin]
+	Y tweet_count = [6]
+	Y username = [Howard of DoGe]
+Total Length: X = 50, Y = 49 (Y / X = 98.00  X / Y = 102.04)
+Dice Coefficient: 100.00% 
+
+X = [@pifinity @itsALLrisky Thinking about DoGeCoin\nTuesday afternoon 4/13\nFound this in the middle of the road\nHad to be there moment https://t.co/dzrZWR4oCX]
+X_token = [pifinity, itsallrisky, thinking, dogecoin, tuesday, afternoon, found, middle, road, moment, https]
+	X tweet_count = [10]
+	X username = [Howard of DoGe]
+Y = [#DoGeCoin\nThinking about DoGeCoin\nTuesday afternoon 4/13 \nFound this in the middle of the road\nHad to be there moment https://t.co/fqPfLO0389]
+Y_token = [dogecoin, thinking, dogecoin, tuesday, afternoon, found, middle, road, moment, https]
+	Y tweet_count = [11]
+	Y username = [Howard of DoGe]
+Total Length: X = 153, Y = 141 (Y / X = 92.16  X / Y = 108.51)
+Dice Coefficient: 90.00% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@Target Can I order online with #Dogecoins #doge #Dogecoin",
+        "X_token": "target, order, online, dogecoins, doge, dogecoin",
+        "X_tweet_count": 7,
+        "X_username": "#DogeLifer",
+        "Y_text": "@Walmart Can I order online with #Dogecoins #Doge #Dogecoin",
+        "Y_token": "walmart, order, online, dogecoins, doge, dogecoin",
+        "Y_tweet_count": 8,
+        "Y_username": "#DogeLifer",
+        "X_length": 58,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 101.72,
+        "X_length_percent_of_Y": 98.31,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@MattWallace888 our President of the people's #1CryptoDoge.Thank you for your #1streaming show #LastStand on @YouTube making us believe in the #Dogecoin.Welcoming us in you home and building a #Doge community with your love. You will always be my #Doge to the end.  #Happy420Ever1",
+        "X_token": "mattwallace888, president, people, 1streaming, show, laststand, youtube, making, us, believe, us, home, building, doge, community, love, always, doge, end, happy420ever1",
+        "X_tweet_count": 39,
+        "X_username": "#DogeLifer",
+        "Y_text": "@MattWallace888 @BigImpactHumans Our President of the people's #1CryptoDoge.We love you.Thank you for your #1streaming show #LastStand on @YouTube making us believe in the #Dogecoin.Welcoming us in you home and building a #Doge community with your love. You will always be my #Doge to the end.  #Happy420Ever1",
+        "Y_token": "mattwallace888, bigimpacthumans, president, people, love, 1streaming, show, laststand, youtube, making, us, believe, us, home, building, doge, community, love, always, doge, end, happy420ever1",
+        "Y_tweet_count": 40,
+        "Y_username": "#DogeLifer",
+        "X_length": 280,
+        "Y_length": 309,
+        "Y_length_percent_of_X": 110.36,
+        "X_length_percent_of_Y": 90.61,
+        "dice_coefficient": 97.3
+    }
+]

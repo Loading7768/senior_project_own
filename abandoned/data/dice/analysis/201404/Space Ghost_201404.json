@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@IzzyIlluminates @tipdoge tip 1000\n#dogecoin giveaway! hope you have a good day",
+        "X_token": "izzyilluminates, tipdoge, tip, 1000, dogecoin, giveaway, hope, good, day",
+        "X_tweet_count": 26,
+        "X_username": "Space Ghost",
+        "Y_text": "@andyypants @tipdoge tip 1000\nHave a good day with some #dogecoin",
+        "Y_token": "andyypants, tipdoge, tip, 1000, good, day, dogecoin",
+        "Y_tweet_count": 27,
+        "Y_username": "Space Ghost",
+        "X_length": 79,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 82.28,
+        "X_length_percent_of_Y": 121.54,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@9_abu10 @tipdoge tip 1000\nHello fellow awake #shibe. here is some #dogecoin to celebrate #dogecoin",
+        "X_token": "tipdoge, tip, 1000, hello, fellow, awake, shibe, dogecoin, celebrate, dogecoin",
+        "X_tweet_count": 29,
+        "X_username": "Space Ghost",
+        "Y_text": "@BohartS @tipdoge tip 1000\n\nHello! Here is some #dogecoin to celebrate the night.",
+        "Y_token": "boharts, tipdoge, tip, 1000, hello, dogecoin, celebrate, night",
+        "Y_tweet_count": 30,
+        "Y_username": "Space Ghost",
+        "X_length": 99,
+        "Y_length": 81,
+        "Y_length_percent_of_X": 81.82,
+        "X_length_percent_of_Y": 122.22,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "@lukesmoonfund @tipdoge tip 2000\nvery amaze. #Dogecoin",
+        "X_token": "lukesmoonfund, tipdoge, tip, 2000, amaze, dogecoin",
+        "X_tweet_count": 31,
+        "X_username": "Space Ghost",
+        "Y_text": "@bitTotem @tipdoge tip 2000 here's some more #Dogecoin",
+        "Y_token": "bittotem, tipdoge, tip, 2000, dogecoin",
+        "Y_tweet_count": 41,
+        "Y_username": "Space Ghost",
+        "X_length": 54,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 72.73
+    }
+]

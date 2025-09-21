@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@LJuasemai @Tether_to @dogecoin_LIVE @litecoin Okay thank you!",
+        "X_token": "ljuasemai, litecoin, okay, thank",
+        "X_tweet_count": 1,
+        "X_username": "Crypto God 101",
+        "Y_text": "@LJuasemai @Tether_to @dogecoin_LIVE @litecoin And thank you again",
+        "Y_token": "ljuasemai, litecoin, thank",
+        "Y_tweet_count": 3,
+        "Y_username": "Crypto God 101",
+        "X_length": 62,
+        "Y_length": 66,
+        "Y_length_percent_of_X": 106.45,
+        "X_length_percent_of_Y": 93.94,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@LJuasemai @Tether_to @dogecoin_LIVE @litecoin Nothing yet",
+        "X_token": "ljuasemai, litecoin, nothing, yet",
+        "X_tweet_count": 2,
+        "X_username": "Crypto God 101",
+        "Y_text": "@LJuasemai @Tether_to @dogecoin_LIVE @litecoin Nothing yet :/",
+        "Y_token": "ljuasemai, litecoin, nothing, yet",
+        "Y_tweet_count": 9,
+        "Y_username": "Crypto God 101",
+        "X_length": 58,
+        "Y_length": 61,
+        "Y_length_percent_of_X": 105.17,
+        "X_length_percent_of_Y": 95.08,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@LJuasemai @Tether_to @dogecoin_LIVE @litecoin Nothing yet",
+        "X_token": "ljuasemai, litecoin, nothing, yet",
+        "X_tweet_count": 2,
+        "X_username": "Crypto God 101",
+        "Y_text": "@LJuasemai @Tether_to @dogecoin_LIVE @litecoin Nothing yet...",
+        "Y_token": "ljuasemai, litecoin, nothing, yet",
+        "Y_tweet_count": 13,
+        "Y_username": "Crypto God 101",
+        "X_length": 58,
+        "Y_length": 61,
+        "Y_length_percent_of_X": 105.17,
+        "X_length_percent_of_Y": 95.08,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@LJuasemai @Tether_to @dogecoin_LIVE @litecoin Nothing yet :/",
+        "X_token": "ljuasemai, litecoin, nothing, yet",
+        "X_tweet_count": 9,
+        "X_username": "Crypto God 101",
+        "Y_text": "@LJuasemai @Tether_to @dogecoin_LIVE @litecoin Nothing yet...",
+        "Y_token": "ljuasemai, litecoin, nothing, yet",
+        "Y_tweet_count": 13,
+        "Y_username": "Crypto God 101",
+        "X_length": 61,
+        "Y_length": 61,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@doge_eth_gov @trader1sz I'm super bullish on $DOGE",
+        "X_token": "trader1sz, super, bullish, doge",
+        "X_tweet_count": 1,
+        "X_username": "Gabriel smooth",
+        "Y_text": "@JohhnnStadelman @AJ_cryptoo I'm super bullish on $DOGE",
+        "Y_token": "johhnnstadelman, super, bullish, doge",
+        "Y_tweet_count": 3,
+        "Y_username": "Gabriel smooth",
+        "X_length": 51,
+        "Y_length": 55,
+        "Y_length_percent_of_X": 107.84,
+        "X_length_percent_of_Y": 92.73,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@MariettaB0nnet @Poe_Ether $DOGE will pump massively soon LFGGG https://t.co/pFtYMa4aBh",
+        "X_token": "mariettab0nnet, doge, pump, massively, soon, lfggg, https",
+        "X_tweet_count": 8,
+        "X_username": "Gabriel smooth",
+        "Y_text": "@JohhnnStadelman @MartiniGuyYT $DOGE will pump massively soon LFGGG https://t.co/diWJhICw6c",
+        "Y_token": "johhnnstadelman, martiniguyyt, doge, pump, massively, soon, lfggg, https",
+        "Y_tweet_count": 16,
+        "Y_username": "Gabriel smooth",
+        "X_length": 87,
+        "Y_length": 91,
+        "Y_length_percent_of_X": 104.6,
+        "X_length_percent_of_Y": 95.6,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@crypto_muramasa @doge_eth_gov Hold on too #DOGEGOV with $DOGE 🐕 The Department of Government Efficiency (D.O.G.E.) https://t.co/HWBYqDL5Ly",
+        "X_token": "hold, dogegov, doge, department, government, efficiency, https",
+        "X_tweet_count": 19,
+        "X_username": "Gabriel smooth",
+        "Y_text": "@DominicC007 @iambroots Hold on too #DOGEGOV with $DOGE 🐕 The Department of Government Efficiency (D.O.G.E.) https://t.co/5i6y7W6LFP",
+        "Y_token": "dominicc007, iambroots, hold, dogegov, doge, department, government, efficiency, https",
+        "Y_tweet_count": 20,
+        "Y_username": "Gabriel smooth",
+        "X_length": 139,
+        "Y_length": 132,
+        "Y_length_percent_of_X": 94.96,
+        "X_length_percent_of_Y": 105.3,
+        "dice_coefficient": 87.5
+    },
+    {
+        "X_text": "@crypto_muramasa @doge_eth_gov Hold on too #DOGEGOV with $DOGE 🐕 The Department of Government Efficiency (D.O.G.E.) https://t.co/HWBYqDL5Ly",
+        "X_token": "hold, dogegov, doge, department, government, efficiency, https",
+        "X_tweet_count": 19,
+        "X_username": "Gabriel smooth",
+        "Y_text": "@PRONUTSOL @henokcrypto We are just getting started! #DOGEGOV with $DOGE 🐕 The Department of Government Efficiency (D.O.G.E. https://t.co/d0RowY6chQ",
+        "Y_token": "pronutsol, henokcrypto, getting, started, dogegov, doge, department, government, efficiency, https",
+        "Y_tweet_count": 21,
+        "Y_username": "Gabriel smooth",
+        "X_length": 139,
+        "Y_length": 148,
+        "Y_length_percent_of_X": 106.47,
+        "X_length_percent_of_Y": 93.92,
+        "dice_coefficient": 70.59
+    }
+]

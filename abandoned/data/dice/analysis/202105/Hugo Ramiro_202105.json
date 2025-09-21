@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@elonmusk Please Elon,HELP me! Make a #Dogecoin Tweet",
+        "X_token": "elonmusk, please, elon, help, make, dogecoin, tweet",
+        "X_tweet_count": 2,
+        "X_username": "Hugo Ramiro",
+        "Y_text": "@elonmusk HELP Elon!!! Need a #Dogecoin Tweet.",
+        "Y_token": "elonmusk, help, elon, need, dogecoin, tweet",
+        "Y_tweet_count": 3,
+        "Y_username": "Hugo Ramiro",
+        "X_length": 53,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 86.79,
+        "X_length_percent_of_Y": 115.22,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "@elonmusk Lets Tweet #Dogecoin",
+        "X_token": "elonmusk, lets, tweet, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Hugo Ramiro",
+        "Y_text": "@elonmusk Tweet the #Dogecoin",
+        "Y_token": "elonmusk, tweet, dogecoin",
+        "Y_tweet_count": 6,
+        "Y_username": "Hugo Ramiro",
+        "X_length": 30,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 96.67,
+        "X_length_percent_of_Y": 103.45,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@elonmusk Lets Tweet #Dogecoin",
+        "X_token": "elonmusk, lets, tweet, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Hugo Ramiro",
+        "Y_text": "@elonmusk Hey,tweet the #DogeCoin",
+        "Y_token": "elonmusk, hey, tweet, dogecoin",
+        "Y_tweet_count": 7,
+        "Y_username": "Hugo Ramiro",
+        "X_length": 30,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 110.0,
+        "X_length_percent_of_Y": 90.91,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@elonmusk Tweet the #Dogecoin",
+        "X_token": "elonmusk, tweet, dogecoin",
+        "X_tweet_count": 6,
+        "X_username": "Hugo Ramiro",
+        "Y_text": "@elonmusk Hey,tweet the #DogeCoin",
+        "Y_token": "elonmusk, hey, tweet, dogecoin",
+        "Y_tweet_count": 7,
+        "Y_username": "Hugo Ramiro",
+        "X_length": 29,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 113.79,
+        "X_length_percent_of_Y": 87.88,
+        "dice_coefficient": 85.71
+    }
+]

@@ -1,0 +1,22 @@
+﻿X = [We are live #doge #dogecoin #dogecoins  https://t.co/PDq6mPAVRl]
+X_token = [live, doge, dogecoin, dogecoins, https]
+	X tweet_count = [6]
+	X username = [InvestigatorAshley]
+Y = [Come join our live #doge #dogecoin https://t.co/yjdgvEiOfh]
+Y_token = [come, join, live, doge, dogecoin, https]
+	Y tweet_count = [15]
+	Y username = [InvestigatorAshley]
+Total Length: X = 63, Y = 58 (Y / X = 92.06  X / Y = 108.62)
+Dice Coefficient: 72.73% 
+
+X = [Come join our live #doge #dogecoin #DogecoinRise https://t.co/yjdgvEiOfh]
+X_token = [come, join, live, doge, dogecoin, dogecoinrise, https]
+	X tweet_count = [14]
+	X username = [InvestigatorAshley]
+Y = [Come join our live #doge #dogecoin https://t.co/yjdgvEiOfh]
+Y_token = [come, join, live, doge, dogecoin, https]
+	Y tweet_count = [15]
+	Y username = [InvestigatorAshley]
+Total Length: X = 72, Y = 58 (Y / X = 80.56  X / Y = 124.14)
+Dice Coefficient: 92.31% 
+

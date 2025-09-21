@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@kerneltrader $doge looking bullish to me",
+        "X_token": "kerneltrader, doge, looking, bullish",
+        "X_tweet_count": 15,
+        "X_username": "indigo",
+        "Y_text": "$doge is looking very bullish here",
+        "Y_token": "doge, looking, bullish",
+        "Y_tweet_count": 17,
+        "Y_username": "indigo",
+        "X_length": 41,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 82.93,
+        "X_length_percent_of_Y": 120.59,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@therealjuicyj Yeee $doge",
+        "X_token": "therealjuicyj, yeee, doge",
+        "X_tweet_count": 99,
+        "X_username": "indigo",
+        "Y_text": "@therealjuicyj $doge",
+        "Y_token": "therealjuicyj, doge",
+        "Y_tweet_count": 168,
+        "Y_username": "indigo",
+        "X_length": 25,
+        "Y_length": 20,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "$DOGE https://t.co/SUXO7TWyXI",
+        "X_token": "doge, https",
+        "X_tweet_count": 163,
+        "X_username": "indigo",
+        "Y_text": "$doge https://t.co/WIeTY8PYlI",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 192,
+        "Y_username": "indigo",
+        "X_length": 29,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

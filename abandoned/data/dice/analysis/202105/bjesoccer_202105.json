@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@WSBChairman #dogecoin baby.",
+        "X_token": "wsbchairman, dogecoin, baby",
+        "X_tweet_count": 14,
+        "X_username": "bjesoccer",
+        "Y_text": "@WSBChairman #dogecoin baby.",
+        "Y_token": "wsbchairman, dogecoin, baby",
+        "Y_tweet_count": 35,
+        "Y_username": "bjesoccer",
+        "X_length": 28,
+        "Y_length": 28,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@budweiserusa #dogecoin baby. Let's go.",
+        "X_token": "budweiserusa, dogecoin, baby, let, go",
+        "X_tweet_count": 17,
+        "X_username": "bjesoccer",
+        "Y_text": "@BigBoi #dogecoin baby. Let's go.",
+        "Y_token": "bigboi, dogecoin, baby, let, go",
+        "Y_tweet_count": 19,
+        "Y_username": "bjesoccer",
+        "X_length": 39,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 84.62,
+        "X_length_percent_of_Y": 118.18,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@PeterMcCormack @elonmusk Dogecoin!",
+        "X_token": "petermccormack, elonmusk, dogecoin",
+        "X_tweet_count": 33,
+        "X_username": "bjesoccer",
+        "Y_text": "@elonmusk @PeterMcCormack Dogecoin!",
+        "Y_token": "elonmusk, petermccormack, dogecoin",
+        "Y_tweet_count": 34,
+        "Y_username": "bjesoccer",
+        "X_length": 35,
+        "Y_length": 35,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

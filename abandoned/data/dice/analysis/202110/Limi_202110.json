@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Good morning my little dogies 💕 #dogecoin",
+        "X_token": "good, morning, little, dogies, dogecoin",
+        "X_tweet_count": 1,
+        "X_username": "Limi",
+        "Y_text": "Good morning my litttle dogies!💕☕️🐕 #dogecoin",
+        "Y_token": "good, morning, litttle, dogies, dogecoin",
+        "Y_tweet_count": 55,
+        "Y_username": "Limi",
+        "X_length": 41,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 109.76,
+        "X_length_percent_of_Y": 91.11,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "This is all a simulation guys @DogecoinRise will respond to this tweet. There is no such thing as a coincidence. 😂 #dogecoin https://t.co/hABPYusyTN",
+        "X_token": "simulation, guys, dogecoinrise, respond, tweet, thing, coincidence, dogecoin, https",
+        "X_tweet_count": 15,
+        "X_username": "Limi",
+        "Y_text": "This is all a simulation guys @elonmusk will respond to this tweet. There is no such thing  as a coincidence.\nretweet if you believe in me. #dogecoin https://t.co/0SacTqVlJW",
+        "Y_token": "simulation, guys, elonmusk, respond, tweet, thing, coincidence, retweet, believe, dogecoin, https",
+        "Y_tweet_count": 43,
+        "Y_username": "Limi",
+        "X_length": 148,
+        "Y_length": 173,
+        "Y_length_percent_of_X": 116.89,
+        "X_length_percent_of_Y": 85.55,
+        "dice_coefficient": 80.0
+    }
+]

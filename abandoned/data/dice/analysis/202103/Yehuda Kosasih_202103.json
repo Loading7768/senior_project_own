@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Buy buy buy buy $DOGE",
+        "X_token": "buy, buy, buy, buy, doge",
+        "X_tweet_count": 6,
+        "X_username": "Yehuda Kosasih",
+        "Y_text": "@binance BUY $DOGE NOW",
+        "Y_token": "binance, buy, doge",
+        "Y_tweet_count": 7,
+        "Y_username": "Yehuda Kosasih",
+        "X_length": 21,
+        "Y_length": 22,
+        "Y_length_percent_of_X": 104.76,
+        "X_length_percent_of_Y": 95.45,
+        "dice_coefficient": 80.0
+    }
+]

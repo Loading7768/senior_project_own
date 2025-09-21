@@ -1,0 +1,44 @@
+﻿X = [Good morning America hating on #dogecoin]
+X_token = [good, morning, america, hating, dogecoin]
+	X tweet_count = [39]
+	X username = [MeloDramatical𐚁💙🐝]
+Y = [Omg #dogecoin on good morning America]
+Y_token = [omg, dogecoin, good, morning, america]
+	Y tweet_count = [40]
+	Y username = [MeloDramatical𐚁💙🐝]
+Total Length: X = 40, Y = 37 (Y / X = 92.50  X / Y = 108.11)
+Dice Coefficient: 80.00% 
+
+X = [Good morning America hating on #dogecoin]
+X_token = [good, morning, america, hating, dogecoin]
+	X tweet_count = [39]
+	X username = [MeloDramatical𐚁💙🐝]
+Y = [Dogecoin on good morning America]
+Y_token = [dogecoin, good, morning, america]
+	Y tweet_count = [41]
+	Y username = [MeloDramatical𐚁💙🐝]
+Total Length: X = 40, Y = 32 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 88.89% 
+
+X = [Omg #dogecoin on good morning America]
+X_token = [omg, dogecoin, good, morning, america]
+	X tweet_count = [40]
+	X username = [MeloDramatical𐚁💙🐝]
+Y = [Dogecoin on good morning America]
+Y_token = [dogecoin, good, morning, america]
+	Y tweet_count = [41]
+	Y username = [MeloDramatical𐚁💙🐝]
+Total Length: X = 37, Y = 32 (Y / X = 86.49  X / Y = 115.62)
+Dice Coefficient: 88.89% 
+
+X = [I got ass but no $ass #fomo #dogecoin]
+X_token = [got, ass, ass, fomo, dogecoin]
+	X tweet_count = [124]
+	X username = [MeloDramatical𐚁💙🐝]
+Y = [He got #dogecoin and a big ass ❤]
+Y_token = [got, dogecoin, big, ass]
+	Y tweet_count = [172]
+	Y username = [MeloDramatical𐚁💙🐝]
+Total Length: X = 37, Y = 32 (Y / X = 86.49  X / Y = 115.62)
+Dice Coefficient: 75.00% 
+

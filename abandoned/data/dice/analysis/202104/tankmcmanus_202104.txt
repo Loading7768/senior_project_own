@@ -1,0 +1,22 @@
+﻿X = [@dogecoin_rise Buy more #dogecoin]
+X_token = [buy, dogecoin]
+	X tweet_count = [23]
+	X username = [tankmcmanus]
+Y = [@davidgokhshtein Buy more #dogecoin]
+Y_token = [davidgokhshtein, buy, dogecoin]
+	Y tweet_count = [40]
+	Y username = [tankmcmanus]
+Total Length: X = 33, Y = 35 (Y / X = 106.06  X / Y = 94.29)
+Dice Coefficient: 80.00% 
+
+X = [Can’t wait to buy stuff off @amazon  and pay for it with #dogecoin 😊 @JeffBezos #Doge4Amazon #dogearmy #BuyDogecoin #dogetothemoon #DOGE #HODL]
+X_token = [wait, buy, stuff, amazon, pay, dogecoin, jeffbezos, doge4amazon, dogearmy, buydogecoin, dogetothemoon, doge, hodl]
+	X tweet_count = [25]
+	X username = [tankmcmanus]
+Y = [Can’t wait is to be able to buy @SlimJim off of @amazon and pay with #dogecoin. @JeffBezos #Doge4Amazon #DOGE #dogearmy #dogetothemoon #dogecointoadollar https://t.co/FlJlvmxmSj]
+Y_token = [wait, able, buy, slimjim, amazon, pay, dogecoin, jeffbezos, doge4amazon, doge, dogearmy, dogetothemoon, dogecointoadollar, https]
+	Y tweet_count = [34]
+	Y username = [tankmcmanus]
+Total Length: X = 142, Y = 177 (Y / X = 124.65  X / Y = 80.23)
+Dice Coefficient: 74.07% 
+

@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Dogecoin to 29 cents by Monday afternoon. Bet! https://t.co/jTjeqfyNjR",
+        "X_token": "dogecoin, 29, cents, monday, afternoon, bet, https",
+        "X_tweet_count": 14,
+        "X_username": "Madam Doge",
+        "Y_text": "DOGECOIN TO 23 CENTS NOW! \n24 cents by Monday. Bet. https://t.co/taOBiCTcZ1",
+        "Y_token": "dogecoin, 23, cents, 24, cents, monday, bet, https",
+        "Y_tweet_count": 20,
+        "Y_username": "Madam Doge",
+        "X_length": 70,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 107.14,
+        "X_length_percent_of_Y": 93.33,
+        "dice_coefficient": 71.43
+    }
+]

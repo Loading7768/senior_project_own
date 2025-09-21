@@ -1,0 +1,33 @@
+﻿X = [#DOGE let’s go!!! We ready!! #dogecoin https://t.co/nahYnx9jJH]
+X_token = [doge, let, go, ready, dogecoin, https]
+	X tweet_count = [1]
+	X username = [Wil Lemus]
+Y = [#dogecoin #ToTheMoon let’s go!! https://t.co/Ffk3GfitAC]
+Y_token = [dogecoin, tothemoon, let, go, https]
+	Y tweet_count = [9]
+	Y username = [Wil Lemus]
+Total Length: X = 62, Y = 55 (Y / X = 88.71  X / Y = 112.73)
+Dice Coefficient: 72.73% 
+
+X = [I’m not fuckin sellin!!! Let’s go!!!💎🙌🏽 #dogecoin #ToTheMoon https://t.co/TqOlxgninO]
+X_token = [fuckin, sellin, let, go, dogecoin, tothemoon, https]
+	X tweet_count = [5]
+	X username = [Wil Lemus]
+Y = [Let’s go!! Run it up!! #dogecoin #ToTheMoon  retweet let’s go!! https://t.co/JyIZHIcs4a]
+Y_token = [let, go, run, dogecoin, tothemoon, retweet, let, go, https]
+	Y tweet_count = [11]
+	Y username = [Wil Lemus]
+Total Length: X = 84, Y = 87 (Y / X = 103.57  X / Y = 96.55)
+Dice Coefficient: 71.43% 
+
+X = [#dogecoin #ToTheMoon let’s go!! https://t.co/Ffk3GfitAC]
+X_token = [dogecoin, tothemoon, let, go, https]
+	X tweet_count = [9]
+	X username = [Wil Lemus]
+Y = [Let’s go!! #dogecoin https://t.co/EKsISxlyqe]
+Y_token = [let, go, dogecoin, https]
+	Y tweet_count = [13]
+	Y username = [Wil Lemus]
+Total Length: X = 55, Y = 44 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 88.89% 
+

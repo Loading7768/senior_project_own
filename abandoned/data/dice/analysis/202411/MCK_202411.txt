@@ -1,0 +1,88 @@
+﻿X = [$Doge 30 cents \n@dogecoin \n#DogecoinToTheMoon]
+X_token = [doge, 30, cents, dogecoin, dogecointothemoon]
+	X tweet_count = [18]
+	X username = [MCK]
+Y = [30 cents today… @dogecoin \n#Dogeoin \n#DogecoinToTheMoon]
+Y_token = [30, cents, dogecoin, dogeoin, dogecointothemoon]
+	Y tweet_count = [25]
+	Y username = [MCK]
+Total Length: X = 45, Y = 55 (Y / X = 122.22  X / Y = 81.82)
+Dice Coefficient: 80.00% 
+
+X = [40 cents in next 24 hours. \n\n@dogecoin \n#DOGECOINTOTHEMOON]
+X_token = [40, cents, next, 24, hours, dogecoin, dogecointothemoon]
+	X tweet_count = [58]
+	X username = [MCK]
+Y = [40 cents $Dogecoin #Dogecoin \n#DogecoinToTheMoon]
+Y_token = [40, cents, dogecoin, dogecoin, dogecointothemoon]
+	Y tweet_count = [92]
+	Y username = [MCK]
+Total Length: X = 58, Y = 48 (Y / X = 82.76  X / Y = 120.83)
+Dice Coefficient: 72.73% 
+
+X = [41 cents $Doge @dogecoin 🚀 \n#DogecoinRise \n#Dogecoin \n#DogecoinToTheMoon \n#DOGE]
+X_token = [41, cents, doge, dogecoin, dogecoinrise, dogecoin, dogecointothemoon, doge]
+	X tweet_count = [80]
+	X username = [MCK]
+Y = [$Dogecoin 40 Cents 🚀 \n@dogecoin \n#DogecoinRise \n#DogecoinToTheMoon]
+Y_token = [dogecoin, 40, cents, dogecoin, dogecoinrise, dogecointothemoon]
+	Y tweet_count = [129]
+	Y username = [MCK]
+Total Length: X = 79, Y = 66 (Y / X = 83.54  X / Y = 119.70)
+Dice Coefficient: 72.73% 
+
+X = [#Dogecoin $Dogecoin https://t.co/1i6Tp4AOIr]
+X_token = [dogecoin, dogecoin, https]
+	X tweet_count = [117]
+	X username = [MCK]
+Y = [$Dogecoin #DogecoinRise https://t.co/L4VzcYYI5h]
+Y_token = [dogecoin, dogecoinrise, https]
+	Y tweet_count = [120]
+	Y username = [MCK]
+Total Length: X = 43, Y = 47 (Y / X = 109.30  X / Y = 91.49)
+Dice Coefficient: 80.00% 
+
+X = [#Dogecoin $Dogecoin https://t.co/1i6Tp4AOIr]
+X_token = [dogecoin, dogecoin, https]
+	X tweet_count = [117]
+	X username = [MCK]
+Y = [1 💵 $Dogecoin #Dogecoin  https://t.co/LIvDrtFeco]
+Y_token = [1, dogecoin, dogecoin, https]
+	Y tweet_count = [146]
+	Y username = [MCK]
+Total Length: X = 43, Y = 48 (Y / X = 111.63  X / Y = 89.58)
+Dice Coefficient: 80.00% 
+
+X = [$Dogecoin #DogecoinRise #Dogecoin https://t.co/gBslVJCMa6]
+X_token = [dogecoin, dogecoinrise, dogecoin, https]
+	X tweet_count = [119]
+	X username = [MCK]
+Y = [$Dogecoin #DogecoinRise https://t.co/L4VzcYYI5h]
+Y_token = [dogecoin, dogecoinrise, https]
+	Y tweet_count = [120]
+	Y username = [MCK]
+Total Length: X = 57, Y = 47 (Y / X = 82.46  X / Y = 121.28)
+Dice Coefficient: 100.00% 
+
+X = [Here Are The Factors That Could Drive The Dogecoin Price To $1 This Bull Market #Dogecoin  https://t.co/RJsUb64Ues]
+X_token = [factors, could, drive, dogecoin, price, 1, bull, market, dogecoin, https]
+	X tweet_count = [136]
+	X username = [MCK]
+Y = [Here Are The Factors That Could Drive The Dogecoin Price To $1 This Bull Market\n#Dogecoin  https://t.co/RJsUb64Ues]
+Y_token = [factors, could, drive, dogecoin, price, 1, bull, market, dogecoin, https]
+	Y tweet_count = [145]
+	Y username = [MCK]
+Total Length: X = 114, Y = 114 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [How Low Can Dogecoin Go Before Rallying Again? Expert Forecast #Dogecoin  https://t.co/RJsUb64Ues]
+X_token = [low, dogecoin, go, rallying, expert, forecast, dogecoin, https]
+	X tweet_count = [137]
+	X username = [MCK]
+Y = [How Low Can Dogecoin Go Before Rallying Again? Expert Forecast #Dogecoin  https://t.co/RJsUb65s40]
+Y_token = [low, dogecoin, go, rallying, expert, forecast, dogecoin, https]
+	Y tweet_count = [138]
+	Y username = [MCK]
+Total Length: X = 97, Y = 97 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

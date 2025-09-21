@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "They are coming 🐂🐂🐂🐂\n#dogecoin",
+        "X_token": "coming, dogecoin",
+        "X_tweet_count": 2,
+        "X_username": "Gainzloop",
+        "Y_text": "🐂🐂🐂 They are coming #dogecoin",
+        "Y_token": "coming, dogecoin",
+        "Y_tweet_count": 6,
+        "Y_username": "Gainzloop",
+        "X_length": 30,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 96.67,
+        "X_length_percent_of_Y": 103.45,
+        "dice_coefficient": 100.0
+    }
+]

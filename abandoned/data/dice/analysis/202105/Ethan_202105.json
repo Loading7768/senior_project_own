@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?",
+        "X_token": "china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla",
+        "X_tweet_count": 34,
+        "X_username": "Ethan",
+        "Y_text": "@elonmusk I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?.",
+        "Y_token": "elonmusk, china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla",
+        "Y_tweet_count": 35,
+        "Y_username": "Ethan",
+        "X_length": 214,
+        "Y_length": 225,
+        "Y_length_percent_of_X": 105.14,
+        "X_length_percent_of_Y": 95.11,
+        "dice_coefficient": 97.3
+    },
+    {
+        "X_text": "I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?",
+        "X_token": "china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla",
+        "X_tweet_count": 34,
+        "X_username": "Ethan",
+        "Y_text": "@elonmusk I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?",
+        "Y_token": "elonmusk, china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla",
+        "Y_tweet_count": 36,
+        "Y_username": "Ethan",
+        "X_length": 214,
+        "Y_length": 224,
+        "Y_length_percent_of_X": 104.67,
+        "X_length_percent_of_Y": 95.54,
+        "dice_coefficient": 97.3
+    },
+    {
+        "X_text": "@elonmusk I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?.",
+        "X_token": "elonmusk, china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla",
+        "X_tweet_count": 35,
+        "X_username": "Ethan",
+        "Y_text": "@elonmusk I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?",
+        "Y_token": "elonmusk, china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla",
+        "Y_tweet_count": 36,
+        "Y_username": "Ethan",
+        "X_length": 225,
+        "Y_length": 224,
+        "Y_length_percent_of_X": 99.56,
+        "X_length_percent_of_Y": 100.45,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Good project, everybody must join,go to the moon\n@rEuIzAQcq3HTgeX\n@WulinYang1\n@bgPwIKXvEk9iygL\n#BETA #DEFI #BSC #Binance #PancakeSwap #Dogecoin",
+        "X_token": "good, project, everybody, must, join, go, moon, reuizaqcq3htgex, wulinyang1, bgpwikxvek9iygl, beta, defi, bsc, binance, pancakeswap, dogecoin",
+        "X_tweet_count": 44,
+        "X_username": "Ethan",
+        "Y_text": "@betafinancenet Good project, everybody must join,go to the moon\n\n@rEuIzAQcq3HTgeX\n@WulinYang1\n@bgPwIKXvEk9iygL\n#BETA #DEFI #BSC #Binance #PancakeSwap #Dogecoin",
+        "Y_token": "betafinancenet, good, project, everybody, must, join, go, moon, reuizaqcq3htgex, wulinyang1, bgpwikxvek9iygl, beta, defi, bsc, binance, pancakeswap, dogecoin",
+        "Y_tweet_count": 45,
+        "Y_username": "Ethan",
+        "X_length": 143,
+        "Y_length": 160,
+        "Y_length_percent_of_X": 111.89,
+        "X_length_percent_of_Y": 89.38,
+        "dice_coefficient": 96.97
+    }
+]

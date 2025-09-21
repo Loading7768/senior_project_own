@@ -1,0 +1,66 @@
+﻿X = [Doge life! #dogecoin]
+X_token = [doge, life, dogecoin]
+	X tweet_count = [3]
+	X username = [Doge-eGod]
+Y = [Doge life! #dogecoin]
+Y_token = [doge, life, dogecoin]
+	Y tweet_count = [11]
+	Y username = [Doge-eGod]
+Total Length: X = 20, Y = 20 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Doge, Doge, Doge, Doge, Doge!\n#dogecoin #Dogecoinarmy #dogearmy #dogefather https://t.co/0ChChxbpcS]
+X_token = [doge, doge, doge, doge, doge, dogecoin, dogecoinarmy, dogearmy, dogefather, https]
+	X tweet_count = [6]
+	X username = [Doge-eGod]
+Y = [Why Doge? Only because it’s the coolest! #doge #dogecoin #dogearmy https://t.co/cefyIeZlHr]
+Y_token = [doge, coolest, doge, dogecoin, dogearmy, https]
+	Y tweet_count = [26]
+	Y username = [Doge-eGod]
+Total Length: X = 99, Y = 90 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 72.73% 
+
+X = [Doge all day!! #dogecoin]
+X_token = [doge, day, dogecoin]
+	X tweet_count = [10]
+	X username = [Doge-eGod]
+Y = [Doge all day baby! #dogecoin]
+Y_token = [doge, day, baby, dogecoin]
+	Y tweet_count = [14]
+	Y username = [Doge-eGod]
+Total Length: X = 24, Y = 28 (Y / X = 116.67  X / Y = 85.71)
+Dice Coefficient: 85.71% 
+
+X = [Do only good everyday! #doge #dogecoin #DogefatherSNL #DoOnlyGoodEveryday https://t.co/qfdBh7SMMW]
+X_token = [good, everyday, doge, dogecoin, dogefathersnl, doonlygoodeveryday, https]
+	X tweet_count = [29]
+	X username = [Doge-eGod]
+Y = [Do only good everyday! #DogeCoinTo1Dollar #dogecoin #doge #dogetothemoon https://t.co/OBoDom8BVJ]
+Y_token = [good, everyday, dogecointo1dollar, dogecoin, doge, dogetothemoon, https]
+	Y tweet_count = [33]
+	Y username = [Doge-eGod]
+Total Length: X = 97, Y = 96 (Y / X = 98.97  X / Y = 101.04)
+Dice Coefficient: 71.43% 
+
+X = [Do only good everyday! #DogeCoinTo1Dollar #dogecoin #doge #dogetothemoon https://t.co/OBoDom8BVJ]
+X_token = [good, everyday, dogecointo1dollar, dogecoin, doge, dogetothemoon, https]
+	X tweet_count = [33]
+	X username = [Doge-eGod]
+Y = [Do only good everyday! #DoOnlyGoodEverday #dogecoin #DogeCoinTo1Dollar #DogeTesla https://t.co/IwrNycmZr8]
+Y_token = [good, everyday, doonlygoodeverday, dogecoin, dogecointo1dollar, dogetesla, https]
+	Y tweet_count = [38]
+	Y username = [Doge-eGod]
+Total Length: X = 96, Y = 105 (Y / X = 109.38  X / Y = 91.43)
+Dice Coefficient: 71.43% 
+
+X = [Doge to the moonnnnnnnn!!!!!!! #dogecoin #dogetothemoon #doge #Dogefather https://t.co/1yYw3B8OUl]
+X_token = [doge, moonnnnnnnn, dogecoin, dogetothemoon, doge, dogefather, https]
+	X tweet_count = [35]
+	X username = [Doge-eGod]
+Y = [Just Doge it! #dogetothemoon #doge #dogecoin #DogeSNL #Dogefather https://t.co/pddCYcAyYU]
+Y_token = [doge, dogetothemoon, doge, dogecoin, dogesnl, dogefather, https]
+	Y tweet_count = [36]
+	Y username = [Doge-eGod]
+Total Length: X = 97, Y = 89 (Y / X = 91.75  X / Y = 108.99)
+Dice Coefficient: 83.33% 
+

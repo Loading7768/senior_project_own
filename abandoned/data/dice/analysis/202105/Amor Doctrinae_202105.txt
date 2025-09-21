@@ -1,0 +1,33 @@
+﻿X = [@tyler #Doge is a brand and the #Dogecoin is utility technology for today and future. There are less than 8 billion people on Earth and less than 130 billion in circulation. Get your #Dogecoin.\n\nCompared to $1.2 trillion dollars of U.S. currency in circulation. 🧐]
+X_token = [tyler, doge, brand, dogecoin, utility, technology, today, future, less, 8, billion, people, earth, less, 130, billion, circulation, get, dogecoin, compared, trillion, dollars, currency, circulation]
+	X tweet_count = [6]
+	X username = [Amor Doctrinae]
+Y = [@davidgokhshtein @dale_hughes80 #Doge is a brand and the #Dogecoin is utility technology for today and future. There are less a 8 billion people on Earth and less than 130 billion in circulation. Get your #Dogecoin]
+Y_token = [davidgokhshtein, doge, brand, dogecoin, utility, technology, today, future, less, 8, billion, people, earth, less, 130, billion, circulation, get, dogecoin]
+	Y tweet_count = [8]
+	Y username = [Amor Doctrinae]
+Total Length: X = 263, Y = 214 (Y / X = 81.37  X / Y = 122.90)
+Dice Coefficient: 83.33% 
+
+X = [Coinbase preps #Dogecoin listing\n\n#Coinbase\nhttps://t.co/zadaa40Vxo]
+X_token = [coinbase, preps, dogecoin, listing, coinbase, https]
+	X tweet_count = [59]
+	X username = [Amor Doctrinae]
+Y = [#Dogecoin before the #Coinbase Listing\n\nJust a reminder.\n\nhttps://t.co/ycwg0JK47A]
+Y_token = [dogecoin, coinbase, listing, reminder, https]
+	Y tweet_count = [72]
+	Y username = [Amor Doctrinae]
+Total Length: X = 67, Y = 81 (Y / X = 120.90  X / Y = 82.72)
+Dice Coefficient: 80.00% 
+
+X = [@AdrianoCollalti @EricRing1 Did someone say #Dogecoin?]
+X_token = [adrianocollalti, ericring1, someone, say, dogecoin]
+	X tweet_count = [68]
+	X username = [Amor Doctrinae]
+Y = [@AdrianoCollalti @EricRing1 I did say #Dogecoin]
+Y_token = [adrianocollalti, ericring1, say, dogecoin]
+	Y tweet_count = [69]
+	Y username = [Amor Doctrinae]
+Total Length: X = 54, Y = 47 (Y / X = 87.04  X / Y = 114.89)
+Dice Coefficient: 88.89% 
+

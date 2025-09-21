@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@PupMetaX @coinbase @dogecoin @barkmediax Crypto daily digest 👏🔥",
+        "X_token": "pupmetax, coinbase, dogecoin, barkmediax, crypto, daily, digest",
+        "X_tweet_count": 1,
+        "X_username": "John",
+        "Y_text": "@PupMetaX @FTX_Official @dogecoin @monkeypoxsol daily crypto digest 👏🔥",
+        "Y_token": "pupmetax, dogecoin, monkeypoxsol, daily, crypto, digest",
+        "Y_tweet_count": 33,
+        "Y_username": "John",
+        "X_length": 64,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 109.38,
+        "X_length_percent_of_Y": 91.43,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "Bitcoin Shatters $87,000 All-Time High, Ethereum Up 5%, Dogecoin Blasts Through $0.30 For 20% Gain In Memorable Monday Trading Session\nhttps://t.co/puSfQxEfL8",
+        "X_token": "bitcoin, shatters, high, ethereum, 5, dogecoin, blasts, 20, gain, memorable, monday, trading, session, https",
+        "X_tweet_count": 28,
+        "X_username": "John",
+        "Y_text": "Bitcoin Shatters $87,000 All-Time High, Ethereum Up 5%, Dogecoin Blasts Through 30 Cents For 20% Gain In Memorable Monday Trading Session\nhttps://t.co/2NWnflWnDC",
+        "Y_token": "bitcoin, shatters, high, ethereum, 5, dogecoin, blasts, 30, cents, 20, gain, memorable, monday, trading, session, https",
+        "Y_tweet_count": 29,
+        "Y_username": "John",
+        "X_length": 158,
+        "Y_length": 161,
+        "Y_length_percent_of_X": 101.9,
+        "X_length_percent_of_Y": 98.14,
+        "dice_coefficient": 93.33
+    },
+    {
+        "X_text": "What In The World Is Going On With Dogecoin?\nhttps://t.co/ze3ULJ2Qbq",
+        "X_token": "world, going, dogecoin, https",
+        "X_tweet_count": 44,
+        "X_username": "John",
+        "Y_text": "Dogecoin Down 9%: What Is Going On?\nhttps://t.co/2fyXECrOp4",
+        "Y_token": "dogecoin, 9, going, https",
+        "Y_tweet_count": 83,
+        "Y_username": "John",
+        "X_length": 68,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 86.76,
+        "X_length_percent_of_Y": 115.25,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@kevmeta_x @dogecoin @doginaldogsx @monkeypoxsol @barkmediax good morning Kevin ☀️",
+        "X_token": "dogecoin, doginaldogsx, monkeypoxsol, barkmediax, good, morning, kevin",
+        "X_tweet_count": 58,
+        "X_username": "John",
+        "Y_text": "@kevmeta_x @dogecoin @doginaldogsx @monkeypoxsol @barkmediax good night Kevin 🌙",
+        "Y_token": "dogecoin, doginaldogsx, monkeypoxsol, barkmediax, good, night, kevin",
+        "Y_tweet_count": 62,
+        "Y_username": "John",
+        "X_length": 82,
+        "Y_length": 79,
+        "Y_length_percent_of_X": 96.34,
+        "X_length_percent_of_Y": 103.8,
+        "dice_coefficient": 85.71
+    }
+]

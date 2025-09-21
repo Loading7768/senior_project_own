@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Lmao pt2 $DOGE https://t.co/h9iX12L5US",
+        "X_token": "lmao, pt2, doge, https",
+        "X_tweet_count": 2,
+        "X_username": "JPT",
+        "Y_text": "Lmao $DOGE https://t.co/Q8VDrXaccL",
+        "Y_token": "lmao, doge, https",
+        "Y_tweet_count": 3,
+        "Y_username": "JPT",
+        "X_length": 38,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 89.47,
+        "X_length_percent_of_Y": 111.76,
+        "dice_coefficient": 85.71
+    }
+]

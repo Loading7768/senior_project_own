@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "WhaleTrades: 📉💶$618,593 $DOGE SHORTED @$0.530888 [09/05/21 07:14:25]\n🏪FTX | DOGE-PERP\n\n🗣️Target sir? - CryptoChrisG",
+        "X_token": "whaletrades, doge, shorted, sir, cryptochrisg",
+        "X_tweet_count": 2,
+        "X_username": "FTXMarket",
+        "Y_text": "WhaleTrades: 📉💶$503,424 $DOGE SHORTED @$0.354377 [26/05/21 08:12:08]\n🏪FTX | DOGE-PERP\n\n🗣️REKT",
+        "Y_token": "whaletrades, doge, shorted",
+        "Y_tweet_count": 27,
+        "Y_username": "FTXMarket",
+        "X_length": 115,
+        "Y_length": 93,
+        "Y_length_percent_of_X": 80.87,
+        "X_length_percent_of_Y": 123.66,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "WhaleTrades: 📉💶$603,247 $DOGE SHORTED @$0.5195 [09/05/21 07:07:16]\n🏪FTX | DOGE-PERP\n\n🗣️BTFD - sostickie",
+        "X_token": "whaletrades, doge, shorted, sostickie",
+        "X_tweet_count": 5,
+        "X_username": "FTXMarket",
+        "Y_text": "WhaleTrades: 📉💶$503,424 $DOGE SHORTED @$0.354377 [26/05/21 08:12:08]\n🏪FTX | DOGE-PERP\n\n🗣️REKT",
+        "Y_token": "whaletrades, doge, shorted",
+        "Y_tweet_count": 27,
+        "Y_username": "FTXMarket",
+        "X_length": 103,
+        "Y_length": 93,
+        "Y_length_percent_of_X": 90.29,
+        "X_length_percent_of_Y": 110.75,
+        "dice_coefficient": 85.71
+    }
+]

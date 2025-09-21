@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "r/dogecoin - We have lift off! (But why?) https://t.co/edWK3YSqCT",
+        "X_token": "lift, https",
+        "X_tweet_count": 19,
+        "X_username": "Deluxe Dog",
+        "Y_text": "We have lift off! (But why?) https://t.co/HKetdrilzw",
+        "Y_token": "lift, https",
+        "Y_tweet_count": 37,
+        "Y_username": "Deluxe Dog",
+        "X_length": 65,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "When you bought DOGECOIN dip. https://t.co/WtPu7zALKs",
+        "X_token": "bought, dogecoin, dip, https",
+        "X_tweet_count": 66,
+        "X_username": "Deluxe Dog",
+        "Y_text": "When you got in DOGECOIN at the dip. https://t.co/uGPexVLUpl",
+        "Y_token": "got, dogecoin, dip, https",
+        "Y_tweet_count": 67,
+        "Y_username": "Deluxe Dog",
+        "X_length": 53,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 113.21,
+        "X_length_percent_of_Y": 88.33,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "🐶 DogeFriends 🐕 | 💰 Dogecoin rewards 💰 | 🚀the new doge x100 🚀 | 👉NFT | Mobile APP 📱 | 📣Presale DXSale September 26, (4PM UTC)⌛️ | Airdrop✅ https://t.co/5g14dDGhUA",
+        "X_token": "dogefriends, dogecoin, rewards, new, doge, x100, mobile, app, dxsale, september, 26, 4pm, utc, https",
+        "X_tweet_count": 71,
+        "X_username": "Deluxe Dog",
+        "Y_text": "🐶 DogeFriends 🐕 | 💰 Dogecoin rewards 💰 | 🚀the new doge x100 🚀 | 👉NFT | Mobile APP 📱 | 📣Presale DXSale September 26, (4PM UTC)⌛️ | Airdrop✅ https://t.co/9pSIJy82BR",
+        "Y_token": "dogefriends, dogecoin, rewards, new, doge, x100, mobile, app, dxsale, september, 26, 4pm, utc, https",
+        "Y_tweet_count": 77,
+        "Y_username": "Deluxe Dog",
+        "X_length": 162,
+        "Y_length": 162,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

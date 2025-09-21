@@ -1,0 +1,22 @@
+﻿X = [Let’s go]
+X_token = [let, go]
+	X tweet_count = [14]
+	X username = [Dogecoin4Life]
+Y = [Let’s go]
+Y_token = [let, go]
+	Y tweet_count = [32]
+	Y username = [Dogecoin4Life]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [True]
+X_token = [true]
+	X tweet_count = [16]
+	X username = [Dogecoin4Life]
+Y = [True]
+Y_token = [true]
+	Y tweet_count = [31]
+	Y username = [Dogecoin4Life]
+Total Length: X = 4, Y = 4 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

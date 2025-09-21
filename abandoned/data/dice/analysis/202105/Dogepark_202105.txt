@@ -1,0 +1,33 @@
+﻿X = [@elonmusk We are making a platform where #dogearmy can come and put their $doge to work. \n\nEarn $park tokens by providing liquidity on \n@DogeParkToken\n platform.\n\n$park tokens gain value, because they are constantly burned. $park tokens also give you an edge in casino and giveaways.]
+X_token = [elonmusk, making, platform, dogearmy, come, put, doge, work, earn, park, tokens, providing, liquidity, dogeparktoken, platform, park, tokens, gain, value, constantly, burned, park, tokens, also, give, edge, casino, giveaways]
+	X tweet_count = [8]
+	X username = [Dogepark]
+Y = [We are making a platform where #dogearmy can come and put their $doge to work. \n\nEarn $park tokens by providing liquidity on @DogeParkToken platform.\n\n$park tokens gain value, because they are constantly burned. $park tokens also give you an edge in casino and giveaways.]
+Y_token = [making, platform, dogearmy, come, put, doge, work, earn, park, tokens, providing, liquidity, dogeparktoken, platform, park, tokens, gain, value, constantly, burned, park, tokens, also, give, edge, casino, giveaways]
+	Y tweet_count = [9]
+	Y username = [Dogepark]
+Total Length: X = 283, Y = 271 (Y / X = 95.76  X / Y = 104.43)
+Dice Coefficient: 97.78% 
+
+X = [@15cryptogeek Do you think @dogecoin will reach 1$ this summer?\n\n$doge $bnb #dogearmy #doge]
+X_token = [15cryptogeek, think, dogecoin, reach, 1, summer, doge, bnb, dogearmy, doge]
+	X tweet_count = [10]
+	X username = [Dogepark]
+Y = [Do you think @dogecoin will reach 1$ this summer?\n\n$doge $bnb #dogearmy #doge https://t.co/wkNo3hjGs8]
+Y_token = [think, dogecoin, reach, 1, summer, doge, bnb, dogearmy, doge, https]
+	Y tweet_count = [11]
+	Y username = [Dogepark]
+Total Length: X = 91, Y = 101 (Y / X = 110.99  X / Y = 90.10)
+Dice Coefficient: 88.89% 
+
+X = [@ProTheDoge Go and follow now! @dogeparktoken\n\n$doge $bnb]
+X_token = [prothedoge, go, follow, dogeparktoken, doge, bnb]
+	X tweet_count = [12]
+	X username = [Dogepark]
+Y = [Go and follow now! $dogeparktoken\n\n$doge $shib $kishu $btc $bnb]
+Y_token = [go, follow, dogeparktoken, doge, shib, kishu, btc, bnb]
+	Y tweet_count = [15]
+	Y username = [Dogepark]
+Total Length: X = 57, Y = 63 (Y / X = 110.53  X / Y = 90.48)
+Dice Coefficient: 71.43% 
+

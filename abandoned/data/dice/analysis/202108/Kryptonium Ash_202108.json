@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@ashwsbreal Yes it will 💪🏻\n\n#dogecoin #AshArmy ❤️",
+        "X_token": "ashwsbreal, yes, dogecoin, asharmy",
+        "X_tweet_count": 3,
+        "X_username": "Kryptonium Ash",
+        "Y_text": "@ashwsbreal Congrats!!\n\n#AshArmy #Dogecoin",
+        "Y_token": "ashwsbreal, congrats, asharmy, dogecoin",
+        "Y_tweet_count": 5,
+        "Y_username": "Kryptonium Ash",
+        "X_length": 49,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 85.71,
+        "X_length_percent_of_Y": 116.67,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@ashwsbreal Congrats!!\n\n#AshArmy #Dogecoin",
+        "X_token": "ashwsbreal, congrats, asharmy, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Kryptonium Ash",
+        "Y_text": "@ashwsbreal Congrats\n#dogecoin #AshArmy",
+        "Y_token": "ashwsbreal, congrats, dogecoin, asharmy",
+        "Y_tweet_count": 6,
+        "Y_username": "Kryptonium Ash",
+        "X_length": 42,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 92.86,
+        "X_length_percent_of_Y": 107.69,
+        "dice_coefficient": 100.0
+    }
+]

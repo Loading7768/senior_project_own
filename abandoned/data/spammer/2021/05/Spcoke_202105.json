@@ -1,0 +1,704 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogecoinLegacy #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 20:02:41 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@ccat10110 @CoinDesk #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 20:01:39 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@GimmicksPaul #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 20:00:49 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@JubaJeeves #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:59:56 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@TimFleenerII #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:59:11 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogeCoinBotEUR #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:58:33 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "#I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:57:49 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@GimmicksPaul @MikeDavisYT #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:57:02 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@Dogecoin137 #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:56:15 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@MadMellieE #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:55:30 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@RicosIntoCrytpo @Updog2M @BillyM2k @Myke81448368 @BigImpactHumans #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:53:15 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 12,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogeMoon11 #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:52:35 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@WithAllMarbles #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:47:36 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 14,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@ClankApp #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:46:43 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@UncleDoge3 @Apple #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:45:53 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 16,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@bernie00771148 @FINALLEVEL #l love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:45:04 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 17,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@neiman_matt #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:44:00 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 18,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@IpSeptem #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:43:23 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@illwill42087 #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:42:35 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 20,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@Dogecoinvalue #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:39:58 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@AllPeaks1 #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:39:19 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@JeffPoland2 @MattWallace888 #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:38:41 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@BTCTN #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:37:36 +0000 2021",
+            "retweet": 0,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 24,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@hiddin2urleft @DogeEducation @BillyM2k @DogecoinRise @elonmusk @ItsDogeCoin @MattWallace888 @Toddwade69420 @DogecoinZack @dogeofficialceo @itsALLrisky #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:35:52 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@itsALLrisky #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:34:58 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 26,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogeShibaRob #I love doge coin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:30:37 +0000 2021",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@omojoe2021 @SNICKERS #l love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:29:48 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 28,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogecoinLegacy #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:29:08 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 29,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@vekababer #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:28:26 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 30,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@vekababer #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:27:37 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 31,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@EddieMayorga1 @SNICKERS #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:26:57 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 32,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@Tony1DOGE #I love dogecoin #DogecoinToTheMoon",
+            "created_at": "Thu May 27 19:26:14 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 33,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@bernie00771148 @FINALLEVEL #I love dogecoin #dogecoin to the moon",
+            "created_at": "Thu May 27 19:25:23 +0000 2021",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@dogecoin4tesla #I love dogecoin #dogecoin to the moon",
+            "created_at": "Thu May 27 19:24:32 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 35,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@EddieMayorga1 @SNICKERS #I love dogrcoin #dogecoin to the moon",
+            "created_at": "Thu May 27 19:23:35 +0000 2021",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 36,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@50_doge Dogecoin to the moon",
+            "created_at": "Thu May 27 19:22:42 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 37,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogecoinLegacy Dogecoin to the moon",
+            "created_at": "Thu May 27 19:22:21 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 38,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@muhammedensar1 @CryptoFinally @cateclub Dogecoin to the moon",
+            "created_at": "Thu May 27 19:22:00 +0000 2021",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 39,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@CryptoPoopies Dogecoin to the moon",
+            "created_at": "Thu May 27 19:21:43 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 40,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@clint57994864 Dogecoin to the moon",
+            "created_at": "Thu May 27 19:21:25 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 41,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@lifexcellent Dogecoin to the moon",
+            "created_at": "Thu May 27 19:21:06 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 42,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@BassellJamie @buydogecoin_ Dogecoin to the moon",
+            "created_at": "Thu May 27 19:20:43 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@dogecoin4tesla Dogecoin to the moon",
+            "created_at": "Thu May 27 19:20:19 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 44,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogecoinLegacy Dogecoin to the moon",
+            "created_at": "Thu May 27 19:19:57 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 45,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@saud777Y Dogecoin to the moon",
+            "created_at": "Thu May 27 19:19:29 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@El_Barto8971 @dogecoin_rise Dogecoin to the moon",
+            "created_at": "Thu May 27 19:18:59 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 47,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@FSgura Dogecoin to the moon",
+            "created_at": "Thu May 27 19:18:28 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 48,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@StewartKyland Dogecoin to the moon",
+            "created_at": "Thu May 27 19:18:07 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 49,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@ProTheDoge Dogecoin to the moon",
+            "created_at": "Thu May 27 19:17:40 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 50,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@dogecoin4tesla Dogecoin to the moon",
+            "created_at": "Thu May 27 19:17:12 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 51,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@GimmicksPaul @elonmusk Dogecoin to the moon",
+            "created_at": "Thu May 27 19:16:39 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 52,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogecoinMemes Dogecoin to the moon",
+            "created_at": "Thu May 27 19:16:10 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 53,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@wecoachcom Dogecoin to the moon",
+            "created_at": "Thu May 27 19:15:46 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 54,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@ScroogeMcBux Dogecoin to the moon",
+            "created_at": "Thu May 27 19:15:23 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 55,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@tonysanchezq @elonmusk @mcuban @VitalikButerin @IamUpshod @StarlinkPage Dogecoin to the moon",
+            "created_at": "Thu May 27 19:15:00 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 56,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@Polkapolka10 @IamUpshod Dogecoin to the moon",
+            "created_at": "Thu May 27 19:14:39 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 57,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@MikeDavisYT Dogecoin to the moon",
+            "created_at": "Thu May 27 19:14:15 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 58,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogeCoinBotEUR Dogecoin to the moon",
+            "created_at": "Thu May 27 19:13:44 +0000 2021",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 59,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogecoinLegacy Dogecoin to the moon",
+            "created_at": "Thu May 27 19:13:19 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 60,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@DogeEinstein Dogecoin to the moon",
+            "created_at": "Thu May 27 19:12:57 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 61,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@Just_InTrades Dogecoin to the moon",
+            "created_at": "Thu May 27 19:12:30 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 62,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@RaisedR84352198 Dogecoin to the moon",
+            "created_at": "Thu May 27 19:12:05 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 63,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@BenitaXXI @coinbase Dogecoin to the moon",
+            "created_at": "Thu May 27 19:11:39 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 64,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@RicosIntoCrytpo Dogecoin to the moon",
+            "created_at": "Thu May 27 19:11:13 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 65,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@cracsky Dogecoin to the moon",
+            "created_at": "Thu May 27 19:10:50 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 66,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@BENnotBALLER Dogecoin to the moon",
+            "created_at": "Thu May 27 19:10:01 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 67,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@dogecoin_r Dogrcione to the moon",
+            "created_at": "Thu May 27 19:09:38 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 68,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@saint_18 ไม่ขาย dogecoin to the moon",
+            "created_at": "Thu May 27 19:07:13 +0000 2021",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 69,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "@vubvubvamvam Dogecoin to the moon",
+            "created_at": "Thu May 27 19:06:09 +0000 2021",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 70,
+            "username": "Spcoke",
+            "user_account": "Spcoke1",
+            "text": "#Dogecoin to the moon",
+            "created_at": "Thu May 27 18:56:32 +0000 2021",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

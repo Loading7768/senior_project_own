@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@Aetwets Who else is holding onto Dogecoin long-term? 💰",
+        "X_token": "aetwets, else, holding, onto, dogecoin",
+        "X_tweet_count": 4,
+        "X_username": "saicharan",
+        "Y_text": "@trendytweets__ Who else is holding onto Dogecoin long-term? 💰",
+        "Y_token": "else, holding, onto, dogecoin",
+        "Y_tweet_count": 5,
+        "Y_username": "saicharan",
+        "X_length": 55,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 112.73,
+        "X_length_percent_of_Y": 88.71,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@mlkaktive I worry that Dogecoin’s price is too reliant on social media trends.\"",
+        "X_token": "mlkaktive, worry, dogecoin, price, reliant, social, media, trends",
+        "X_tweet_count": 9,
+        "X_username": "saicharan",
+        "Y_text": "@1ChocolatyQueen I worry that Dogecoin’s price is too reliant on social media trends.\"",
+        "Y_token": "1chocolatyqueen, worry, dogecoin, price, reliant, social, media, trends",
+        "Y_tweet_count": 10,
+        "Y_username": "saicharan",
+        "X_length": 80,
+        "Y_length": 86,
+        "Y_length_percent_of_X": 107.5,
+        "X_length_percent_of_Y": 93.02,
+        "dice_coefficient": 87.5
+    },
+    {
+        "X_text": "@zarhakhan122 HODLing Dogecoin since the beginning. Best decision ever",
+        "X_token": "zarhakhan122, hodling, dogecoin, since, beginning, best, decision, ever",
+        "X_tweet_count": 12,
+        "X_username": "saicharan",
+        "Y_text": "@BangerBoiii HODLing Dogecoin since the beginning. Best decision ever",
+        "Y_token": "bangerboiii, hodling, dogecoin, since, beginning, best, decision, ever",
+        "Y_tweet_count": 18,
+        "Y_username": "saicharan",
+        "X_length": 70,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 98.57,
+        "X_length_percent_of_Y": 101.45,
+        "dice_coefficient": 87.5
+    },
+    {
+        "X_text": "@vishwatej006 Dogecoin proves that the crypto market loves a good story!",
+        "X_token": "vishwatej006, dogecoin, proves, crypto, market, loves, good, story",
+        "X_tweet_count": 15,
+        "X_username": "saicharan",
+        "Y_text": "@VDNaveen_ Dogecoin proves that the crypto market loves a good story!",
+        "Y_token": "dogecoin, proves, crypto, market, loves, good, story",
+        "Y_tweet_count": 16,
+        "Y_username": "saicharan",
+        "X_length": 72,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 95.83,
+        "X_length_percent_of_Y": 104.35,
+        "dice_coefficient": 93.33
+    }
+]

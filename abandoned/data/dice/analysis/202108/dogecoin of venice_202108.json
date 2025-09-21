@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "My autumn plans     the delta variant https://t.co/9mZ5iBIzMr",
+        "X_token": "autumn, plans, delta, variant, https",
+        "X_tweet_count": 67,
+        "X_username": "dogecoin of venice",
+        "Y_text": "My spring plans        the delta variant https://t.co/zD7OJynRC4",
+        "Y_token": "spring, plans, delta, variant, https",
+        "Y_tweet_count": 76,
+        "Y_username": "dogecoin of venice",
+        "X_length": 61,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 104.92,
+        "X_length_percent_of_Y": 95.31,
+        "dice_coefficient": 80.0
+    }
+]

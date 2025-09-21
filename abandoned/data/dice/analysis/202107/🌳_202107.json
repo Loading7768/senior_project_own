@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "\"We're going on a trip in our favorite rocket ship\nZooming through the sky, Little #Dogecoin hodlers\nClimb aboard, get ready to explore\nThere's so much to find, Little #Dogecoin Hodlers🚀🚀🚀🐕🌛",
+        "X_token": "going, trip, favorite, rocket, ship, zooming, sky, little, dogecoin, hodlers, climb, aboard, get, ready, explore, much, find, little, dogecoin",
+        "X_tweet_count": 31,
+        "X_username": "🌳",
+        "Y_text": "@RaisedR84352198 \"We're going on a trip in our favorite rocket ship\nZooming through the sky, Little #Dogecoin hodlers\nClimb aboard, get ready to explore\nThere's so much to find, Little #Dogecoin Hodlers",
+        "Y_token": "raisedr84352198, going, trip, favorite, rocket, ship, zooming, sky, little, dogecoin, hodlers, climb, aboard, get, ready, explore, much, find, little, dogecoin, hodlers",
+        "Y_tweet_count": 32,
+        "Y_username": "🌳",
+        "X_length": 190,
+        "Y_length": 202,
+        "Y_length_percent_of_X": 106.32,
+        "X_length_percent_of_Y": 94.06,
+        "dice_coefficient": 97.14
+    },
+    {
+        "X_text": "#Dogecoin is on the move!!!📈🚀💎✊\n$DOGE",
+        "X_token": "dogecoin, move, doge",
+        "X_tweet_count": 39,
+        "X_username": "🌳",
+        "Y_text": "$DOGE is up!! \nAre you?\n#Dogecoin",
+        "Y_token": "doge, dogecoin",
+        "Y_tweet_count": 45,
+        "Y_username": "🌳",
+        "X_length": 37,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 89.19,
+        "X_length_percent_of_Y": 112.12,
+        "dice_coefficient": 80.0
+    }
+]

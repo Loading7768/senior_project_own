@@ -1,0 +1,22 @@
+﻿X = [#dogecoin #doge   Come join in if you see this retweet \n\n https://t.co/PSbikUN9lU]
+X_token = [dogecoin, doge, come, join, see, retweet, https]
+	X tweet_count = [50]
+	X username = [true investors]
+Y = [Join in and retweet  talk crypto and #dogecoin #doge \n\n https://t.co/PSbikUN9lU]
+Y_token = [join, retweet, talk, crypto, dogecoin, doge, https]
+	Y tweet_count = [51]
+	Y username = [true investors]
+Total Length: X = 81, Y = 79 (Y / X = 97.53  X / Y = 102.53)
+Dice Coefficient: 71.43% 
+
+X = [https://t.co/ppgJ9hmTSb\n\nTune in  to the #podcast\n\n#dogecoin #doge]
+X_token = [https, tune, podcast, dogecoin, doge]
+	X tweet_count = [59]
+	X username = [true investors]
+Y = [Come tune in #dogecoin #doge\n\n https://t.co/ppgJ9hmTSb]
+Y_token = [come, tune, dogecoin, doge, https]
+	Y tweet_count = [60]
+	Y username = [true investors]
+Total Length: X = 66, Y = 54 (Y / X = 81.82  X / Y = 122.22)
+Dice Coefficient: 80.00% 
+

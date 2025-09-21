@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@SirWoofOfDoge True🚀",
+        "X_token": "sirwoofofdoge",
+        "X_tweet_count": 9,
+        "X_username": "Dogecoin",
+        "Y_text": "@SirWoofOfDoge Same",
+        "Y_token": "sirwoofofdoge",
+        "Y_tweet_count": 19,
+        "Y_username": "Dogecoin",
+        "X_length": 20,
+        "Y_length": 19,
+        "Y_length_percent_of_X": 95.0,
+        "X_length_percent_of_Y": 105.26,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "$HOOD #HODL https://t.co/WBgMwplBcP",
+        "X_token": "hood, hodl, https",
+        "X_tweet_count": 13,
+        "X_username": "Dogecoin",
+        "Y_text": "$HOOD https://t.co/Y34xF5Ltku",
+        "Y_token": "hood, https",
+        "Y_tweet_count": 16,
+        "Y_username": "Dogecoin",
+        "X_length": 35,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 82.86,
+        "X_length_percent_of_Y": 120.69,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@dogeofficialceo I like this so much",
+        "X_token": "dogeofficialceo, like, much",
+        "X_tweet_count": 22,
+        "X_username": "Dogecoin",
+        "Y_text": "@dogeofficialceo I like the memes🤣",
+        "Y_token": "dogeofficialceo, like",
+        "Y_tweet_count": 66,
+        "Y_username": "Dogecoin",
+        "X_length": 36,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 94.44,
+        "X_length_percent_of_Y": 105.88,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@sedat_peker Dogecoin alin",
+        "X_token": "dogecoin, alin",
+        "X_tweet_count": 34,
+        "X_username": "Dogecoin",
+        "Y_text": "@sedat_peker #Dogecoin alin",
+        "Y_token": "dogecoin, alin",
+        "Y_tweet_count": 35,
+        "Y_username": "Dogecoin",
+        "X_length": 26,
+        "Y_length": 27,
+        "Y_length_percent_of_X": 103.85,
+        "X_length_percent_of_Y": 96.3,
+        "dice_coefficient": 100.0
+    }
+]

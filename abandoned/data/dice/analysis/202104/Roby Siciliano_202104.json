@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@KingKyle324 @dogecoin_rise Don’t work in new york",
+        "X_token": "kingkyle324, work, new, york",
+        "X_tweet_count": 3,
+        "X_username": "Roby Siciliano",
+        "Y_text": "@Halfamil17 @dogecoin_rise Don’t work in new york",
+        "Y_token": "halfamil17, work, new, york",
+        "Y_tweet_count": 4,
+        "Y_username": "Roby Siciliano",
+        "X_length": 50,
+        "Y_length": 49,
+        "Y_length_percent_of_X": 98.0,
+        "X_length_percent_of_Y": 102.04,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@KingKyle324 @dogecoin_rise Don’t work in new york",
+        "X_token": "kingkyle324, work, new, york",
+        "X_tweet_count": 3,
+        "X_username": "Roby Siciliano",
+        "Y_text": "@goatcop1 @dogecoin_rise Don’t work in New York 🤷🏽‍♂️",
+        "Y_token": "goatcop1, work, new, york",
+        "Y_tweet_count": 11,
+        "Y_username": "Roby Siciliano",
+        "X_length": 50,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 106.0,
+        "X_length_percent_of_Y": 94.34,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@Halfamil17 @dogecoin_rise Don’t work in new york",
+        "X_token": "halfamil17, work, new, york",
+        "X_tweet_count": 4,
+        "X_username": "Roby Siciliano",
+        "Y_text": "@goatcop1 @dogecoin_rise Don’t work in New York 🤷🏽‍♂️",
+        "Y_token": "goatcop1, work, new, york",
+        "Y_tweet_count": 11,
+        "Y_username": "Roby Siciliano",
+        "X_length": 49,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 108.16,
+        "X_length_percent_of_Y": 92.45,
+        "dice_coefficient": 75.0
+    }
+]

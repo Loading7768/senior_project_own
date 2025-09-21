@@ -1,0 +1,22 @@
+﻿X = [I like Dogecoin to $10]
+X_token = [like, dogecoin, 10]
+	X tweet_count = [1]
+	X username = [Akevin STRK]
+Y = [I like Dogecoin $4.2]
+Y_token = [like, dogecoin]
+	Y tweet_count = [8]
+	Y username = [Akevin STRK]
+Total Length: X = 22, Y = 20 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 80.00% 
+
+X = [I like Dogecoin =$10 in 2025]
+X_token = [like, dogecoin, 10, 2025]
+	X tweet_count = [4]
+	X username = [Akevin STRK]
+Y = [Dogecoin to $10 in 2025]
+Y_token = [dogecoin, 10, 2025]
+	Y tweet_count = [7]
+	Y username = [Akevin STRK]
+Total Length: X = 28, Y = 23 (Y / X = 82.14  X / Y = 121.74)
+Dice Coefficient: 85.71% 
+

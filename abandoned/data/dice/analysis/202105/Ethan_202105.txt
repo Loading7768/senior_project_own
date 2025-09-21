@@ -1,0 +1,44 @@
+﻿X = [I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?]
+X_token = [china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla]
+	X tweet_count = [34]
+	X username = [Ethan]
+Y = [@elonmusk I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?.]
+Y_token = [elonmusk, china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla]
+	Y tweet_count = [35]
+	Y username = [Ethan]
+Total Length: X = 214, Y = 225 (Y / X = 105.14  X / Y = 95.11)
+Dice Coefficient: 97.30% 
+
+X = [I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?]
+X_token = [china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla]
+	X tweet_count = [34]
+	X username = [Ethan]
+Y = [@elonmusk I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?]
+Y_token = [elonmusk, china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla]
+	Y tweet_count = [36]
+	Y username = [Ethan]
+Total Length: X = 214, Y = 224 (Y / X = 104.67  X / Y = 95.54)
+Dice Coefficient: 97.30% 
+
+X = [@elonmusk I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?.]
+X_token = [elonmusk, china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla]
+	X tweet_count = [35]
+	X username = [Ethan]
+Y = [@elonmusk I'm from China, and I take you as a role model. I bought Dogecoin. I firmly believe that it is the future currency. The circulating price is about $1. I want to ask you a question. In China, can Dogecoin buy Tesla?]
+Y_token = [elonmusk, china, take, role, model, bought, dogecoin, firmly, believe, future, currency, circulating, price, 1, want, ask, question, china, dogecoin, buy, tesla]
+	Y tweet_count = [36]
+	Y username = [Ethan]
+Total Length: X = 225, Y = 224 (Y / X = 99.56  X / Y = 100.45)
+Dice Coefficient: 100.00% 
+
+X = [Good project, everybody must join,go to the moon\n@rEuIzAQcq3HTgeX\n@WulinYang1\n@bgPwIKXvEk9iygL\n#BETA #DEFI #BSC #Binance #PancakeSwap #Dogecoin]
+X_token = [good, project, everybody, must, join, go, moon, reuizaqcq3htgex, wulinyang1, bgpwikxvek9iygl, beta, defi, bsc, binance, pancakeswap, dogecoin]
+	X tweet_count = [44]
+	X username = [Ethan]
+Y = [@betafinancenet Good project, everybody must join,go to the moon\n\n@rEuIzAQcq3HTgeX\n@WulinYang1\n@bgPwIKXvEk9iygL\n#BETA #DEFI #BSC #Binance #PancakeSwap #Dogecoin]
+Y_token = [betafinancenet, good, project, everybody, must, join, go, moon, reuizaqcq3htgex, wulinyang1, bgpwikxvek9iygl, beta, defi, bsc, binance, pancakeswap, dogecoin]
+	Y tweet_count = [45]
+	Y username = [Ethan]
+Total Length: X = 143, Y = 160 (Y / X = 111.89  X / Y = 89.38)
+Dice Coefficient: 96.97% 
+

@@ -1,0 +1,22 @@
+﻿X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [13]
+	X username = [Regular Billionaire Shib]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [22]
+	Y username = [Regular Billionaire Shib]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin # dogecoin]
+X_token = [dogecoin, dogecoin]
+	X tweet_count = [16]
+	X username = [Regular Billionaire Shib]
+Y = [Dogecoin #dogecoin]
+Y_token = [dogecoin, dogecoin]
+	Y tweet_count = [20]
+	Y username = [Regular Billionaire Shib]
+Total Length: X = 19, Y = 18 (Y / X = 94.74  X / Y = 105.56)
+Dice Coefficient: 100.00% 
+

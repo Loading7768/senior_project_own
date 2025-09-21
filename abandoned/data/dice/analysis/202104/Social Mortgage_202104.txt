@@ -1,0 +1,44 @@
+﻿X = [elon musk will do the moon walk  #DOGECOIN]
+X_token = [elon, musk, moon, walk, dogecoin]
+	X tweet_count = [3]
+	X username = [Social Mortgage]
+Y = [Elon musk doing the moon walk #DOGECOIN]
+Y_token = [elon, musk, moon, walk, dogecoin]
+	Y tweet_count = [5]
+	Y username = [Social Mortgage]
+Total Length: X = 42, Y = 39 (Y / X = 92.86  X / Y = 107.69)
+Dice Coefficient: 100.00% 
+
+X = [elon musk will do the moon walk  #DOGECOIN]
+X_token = [elon, musk, moon, walk, dogecoin]
+	X tweet_count = [3]
+	X username = [Social Mortgage]
+Y = [Elon musk will do the Moon Walk #DOGECOIN]
+Y_token = [elon, musk, moon, walk, dogecoin]
+	Y tweet_count = [12]
+	Y username = [Social Mortgage]
+Total Length: X = 42, Y = 41 (Y / X = 97.62  X / Y = 102.44)
+Dice Coefficient: 100.00% 
+
+X = [Elon musk doing the moon walk #DOGECOIN]
+X_token = [elon, musk, moon, walk, dogecoin]
+	X tweet_count = [5]
+	X username = [Social Mortgage]
+Y = [Elon musk will do the Moon Walk #DOGECOIN]
+Y_token = [elon, musk, moon, walk, dogecoin]
+	Y tweet_count = [12]
+	Y username = [Social Mortgage]
+Total Length: X = 39, Y = 41 (Y / X = 105.13  X / Y = 95.12)
+Dice Coefficient: 100.00% 
+
+X = [https://t.co/LXsFDNgadp #DOGECOIN yummy yum yum]
+X_token = [https, dogecoin, yummy, yum, yum]
+	X tweet_count = [20]
+	X username = [Social Mortgage]
+Y = [https://t.co/LXsFDNgadp #DOGECOIN yum yum]
+Y_token = [https, dogecoin, yum, yum]
+	Y tweet_count = [22]
+	Y username = [Social Mortgage]
+Total Length: X = 47, Y = 41 (Y / X = 87.23  X / Y = 114.63)
+Dice Coefficient: 85.71% 
+

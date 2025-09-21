@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@BillyM2k Dogecoin dominance confirmed",
+        "X_token": "billym2k, dogecoin, dominance, confirmed",
+        "X_tweet_count": 11,
+        "X_username": "Doge Propaganda",
+        "Y_text": "@WatcherGuru Dogecoin dominance confirmed",
+        "Y_token": "watcherguru, dogecoin, dominance, confirmed",
+        "Y_tweet_count": 13,
+        "Y_username": "Doge Propaganda",
+        "X_length": 38,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 107.89,
+        "X_length_percent_of_Y": 92.68,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@DOGECOINFamilyD The people’s crypto is Dogecoin",
+        "X_token": "dogecoinfamilyd, people, crypto, dogecoin",
+        "X_tweet_count": 15,
+        "X_username": "Doge Propaganda",
+        "Y_text": "@LukaDzin Dogecoin is the people’s crypto",
+        "Y_token": "lukadzin, dogecoin, people, crypto",
+        "Y_tweet_count": 25,
+        "Y_username": "Doge Propaganda",
+        "X_length": 48,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 85.42,
+        "X_length_percent_of_Y": 117.07,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@LukaDzin Dogecoin is the people’s crypto",
+        "X_token": "lukadzin, dogecoin, people, crypto",
+        "X_tweet_count": 25,
+        "X_username": "Doge Propaganda",
+        "Y_text": "@LukaDzin Dogecoin is the people’s money",
+        "Y_token": "lukadzin, dogecoin, people, money",
+        "Y_tweet_count": 26,
+        "Y_username": "Doge Propaganda",
+        "X_length": 41,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 97.56,
+        "X_length_percent_of_Y": 102.5,
+        "dice_coefficient": 75.0
+    }
+]

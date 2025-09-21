@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@AltcoinDailyio Where is dogecoin?????",
+        "X_token": "altcoindailyio, dogecoin",
+        "X_tweet_count": 2,
+        "X_username": "salman786harowala",
+        "Y_text": "@AltcoinDailyio Whare is dogecoin",
+        "Y_token": "altcoindailyio, whare, dogecoin",
+        "Y_tweet_count": 3,
+        "Y_username": "salman786harowala",
+        "X_length": 38,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 86.84,
+        "X_length_percent_of_Y": 115.15,
+        "dice_coefficient": 80.0
+    }
+]

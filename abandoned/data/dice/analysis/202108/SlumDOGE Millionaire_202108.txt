@@ -1,0 +1,44 @@
+﻿X = [#DOGECOIN JUST HIT 25 CENTS!!!]
+X_token = [dogecoin, hit, 25, cents]
+	X tweet_count = [12]
+	X username = [SlumDOGE Millionaire]
+Y = [#DOGECOIN is about to hit 35 cents!!!]
+Y_token = [dogecoin, hit, 35, cents]
+	Y tweet_count = [45]
+	Y username = [SlumDOGE Millionaire]
+Total Length: X = 30, Y = 37 (Y / X = 123.33  X / Y = 81.08)
+Dice Coefficient: 75.00% 
+
+X = [#DOGECOIN JUST HIT 25 CENTS!!!]
+X_token = [dogecoin, hit, 25, cents]
+	X tweet_count = [12]
+	X username = [SlumDOGE Millionaire]
+Y = [#DOGECOIN is about to hit 34 cents]
+Y_token = [dogecoin, hit, 34, cents]
+	Y tweet_count = [46]
+	Y username = [SlumDOGE Millionaire]
+Total Length: X = 30, Y = 34 (Y / X = 113.33  X / Y = 88.24)
+Dice Coefficient: 75.00% 
+
+X = [NEW YOUTUBE VIDEO!!!! Will AMC Accept #Dogecoin??? My thoughts! Click here to watch 👉🏼 https://t.co/CF12NrTsUe https://t.co/GIyJglLtcg]
+X_token = [new, youtube, video, amc, accept, dogecoin, thoughts, click, watch, https, https]
+	X tweet_count = [41]
+	X username = [SlumDOGE Millionaire]
+Y = [New YOUTUBE video! Does #Dogecoin have an official soccer team???? Click here to watch 👉🏼 https://t.co/pZXypZsktG https://t.co/9WRXCPnUeM]
+Y_token = [new, youtube, video, dogecoin, official, soccer, team, click, watch, https, https]
+	Y tweet_count = [54]
+	Y username = [SlumDOGE Millionaire]
+Total Length: X = 134, Y = 137 (Y / X = 102.24  X / Y = 97.81)
+Dice Coefficient: 70.00% 
+
+X = [#DOGECOIN is about to hit 35 cents!!!]
+X_token = [dogecoin, hit, 35, cents]
+	X tweet_count = [45]
+	X username = [SlumDOGE Millionaire]
+Y = [#DOGECOIN is about to hit 34 cents]
+Y_token = [dogecoin, hit, 34, cents]
+	Y tweet_count = [46]
+	Y username = [SlumDOGE Millionaire]
+Total Length: X = 37, Y = 34 (Y / X = 91.89  X / Y = 108.82)
+Dice Coefficient: 75.00% 
+

@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@realDogePrez Hodling strong Dogecoin 😉🌎🚀🌜",
+        "X_token": "realdogeprez, hodling, strong, dogecoin",
+        "X_tweet_count": 1,
+        "X_username": "Padraic",
+        "Y_text": "@IsDogeADollar @dogecoin Hodling strong Dogecoin 😉",
+        "Y_token": "isdogeadollar, dogecoin, hodling, strong, dogecoin",
+        "Y_tweet_count": 21,
+        "Y_username": "Padraic",
+        "X_length": 42,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 119.05,
+        "X_length_percent_of_Y": 84.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@old_soon Dogecoin is the people's currency all the people 😉",
+        "X_token": "dogecoin, people, currency, people",
+        "X_tweet_count": 6,
+        "X_username": "Padraic",
+        "Y_text": "@MyDoge Dogecoin is the people's currency all the people 😉",
+        "Y_token": "mydoge, dogecoin, people, currency, people",
+        "Y_tweet_count": 7,
+        "Y_username": "Padraic",
+        "X_length": 60,
+        "Y_length": 58,
+        "Y_length_percent_of_X": 96.67,
+        "X_length_percent_of_Y": 103.45,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@old_soon Dogecoin is the people's currency all the people 😉",
+        "X_token": "dogecoin, people, currency, people",
+        "X_tweet_count": 6,
+        "X_username": "Padraic",
+        "Y_text": "@old_soon Dogecoin 😉 the people's currency all the people 🙂",
+        "Y_token": "dogecoin, people, currency, people",
+        "Y_tweet_count": 8,
+        "Y_username": "Padraic",
+        "X_length": 60,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 98.33,
+        "X_length_percent_of_Y": 101.69,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@MyDoge Dogecoin is the people's currency all the people 😉",
+        "X_token": "mydoge, dogecoin, people, currency, people",
+        "X_tweet_count": 7,
+        "X_username": "Padraic",
+        "Y_text": "@old_soon Dogecoin 😉 the people's currency all the people 🙂",
+        "Y_token": "dogecoin, people, currency, people",
+        "Y_tweet_count": 8,
+        "Y_username": "Padraic",
+        "X_length": 58,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 101.72,
+        "X_length_percent_of_Y": 98.31,
+        "dice_coefficient": 85.71
+    }
+]

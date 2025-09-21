@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Facts! #doge #dogecoin #elonmusk #dogefather #dogearmy",
+        "X_token": "facts, doge, dogecoin, elonmusk, dogefather, dogearmy",
+        "X_tweet_count": 26,
+        "X_username": "Mel Gal",
+        "Y_text": "Facts! #facts #dogecoin #DogecoinToTheMoon #Dogefather #dogearmy",
+        "Y_token": "facts, facts, dogecoin, dogecointothemoon, dogefather, dogearmy",
+        "Y_tweet_count": 36,
+        "Y_username": "Mel Gal",
+        "X_length": 54,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 118.52,
+        "X_length_percent_of_Y": 84.38,
+        "dice_coefficient": 72.73
+    }
+]

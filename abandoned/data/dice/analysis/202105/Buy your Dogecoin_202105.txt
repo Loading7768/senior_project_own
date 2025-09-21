@@ -1,0 +1,44 @@
+﻿X = [Let’s go without China ! #dogecoin 🚀]
+X_token = [let, go, without, china, dogecoin]
+	X tweet_count = [21]
+	X username = [Buy your Dogecoin]
+Y = [Let’s go without China 🚀 #dogecoin]
+Y_token = [let, go, without, china, dogecoin]
+	Y tweet_count = [24]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 36, Y = 34 (Y / X = 94.44  X / Y = 105.88)
+Dice Coefficient: 100.00% 
+
+X = [The #dogecoin community is strong #dogearmy]
+X_token = [dogecoin, community, strong, dogearmy]
+	X tweet_count = [23]
+	X username = [Buy your Dogecoin]
+Y = [@MattWallace888 The #dogecoin community is strong!]
+Y_token = [mattwallace888, dogecoin, community, strong]
+	Y tweet_count = [42]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 43, Y = 50 (Y / X = 116.28  X / Y = 86.00)
+Dice Coefficient: 75.00% 
+
+X = [We do not need China for #dogecoin HOLD your #dogecoin]
+X_token = [need, china, dogecoin, hold, dogecoin]
+	X tweet_count = [33]
+	X username = [Buy your Dogecoin]
+Y = [@DogeAmillion We do not need China for #dogecoin]
+Y_token = [dogeamillion, need, china, dogecoin]
+	Y tweet_count = [34]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 54, Y = 48 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 75.00% 
+
+X = [Let’s go #dogecoin! The #dogecoin community ❤️ is ready for take off 🚀 #DogecoinToTheMoon #DogecoinRise  #dogearmy always HODL 💪🏼]
+X_token = [let, go, dogecoin, dogecoin, community, ready, take, dogecointothemoon, dogecoinrise, dogearmy, always, hodl]
+	X tweet_count = [65]
+	X username = [Buy your Dogecoin]
+Y = [Let’s go #dogecoin! The #dogecoin community ❤️ is always strong  🚀 #DogecoinToTheMoon #DogecoinRise  #dogearmy always HODL 💪🏼]
+Y_token = [let, go, dogecoin, dogecoin, community, always, strong, dogecointothemoon, dogecoinrise, dogearmy, always, hodl]
+	Y tweet_count = [69]
+	Y username = [Buy your Dogecoin]
+Total Length: X = 129, Y = 125 (Y / X = 96.90  X / Y = 103.20)
+Dice Coefficient: 85.71% 
+

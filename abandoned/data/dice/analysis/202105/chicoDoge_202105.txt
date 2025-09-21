@@ -1,0 +1,22 @@
+﻿X = [#dogecoin to moon! 🐐]
+X_token = [dogecoin, moon]
+	X tweet_count = [6]
+	X username = [chicoDoge]
+Y = [#dogecoin to the moon 🙌🥶🚀]
+Y_token = [dogecoin, moon]
+	Y tweet_count = [20]
+	Y username = [chicoDoge]
+Total Length: X = 20, Y = 25 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk @PeterMcCormack #dogecoin to mooooooooooon 🥶]
+X_token = [elonmusk, petermccormack, dogecoin, mooooooooooon]
+	X tweet_count = [28]
+	X username = [chicoDoge]
+Y = [@elonmusk @PeterMcCormack #dogecoin to the moon 🙌🙌🙌🙌🙌🥶]
+Y_token = [elonmusk, petermccormack, dogecoin, moon]
+	Y tweet_count = [29]
+	Y username = [chicoDoge]
+Total Length: X = 54, Y = 54 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#dogecoin about to be $0.00007 again looks like 🤯",
+        "X_token": "dogecoin, looks, like",
+        "X_tweet_count": 3,
+        "X_username": "Nihad Vatreš ⚜️",
+        "Y_text": "looks like @elonmusk forgot about #dogecoin 😕",
+        "Y_token": "looks, like, elonmusk, forgot, dogecoin",
+        "Y_tweet_count": 7,
+        "Y_username": "Nihad Vatreš ⚜️",
+        "X_length": 49,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 91.84,
+        "X_length_percent_of_Y": 108.89,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "what is happening with #dogecoin ?",
+        "X_token": "happening, dogecoin",
+        "X_tweet_count": 12,
+        "X_username": "Nihad Vatreš ⚜️",
+        "Y_text": "#Dogecoin rise is happening!",
+        "Y_token": "dogecoin, rise, happening",
+        "Y_tweet_count": 14,
+        "Y_username": "Nihad Vatreš ⚜️",
+        "X_length": 34,
+        "Y_length": 28,
+        "Y_length_percent_of_X": 82.35,
+        "X_length_percent_of_Y": 121.43,
+        "dice_coefficient": 80.0
+    }
+]

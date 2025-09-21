@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@YajuMunikarr Drawing @ 9pm central time! You entered! Good Luck!",
+        "X_token": "yajumunikarr, drawing, 9pm, central, time, entered, good, luck",
+        "X_tweet_count": 27,
+        "X_username": "Chief Of Dogecoin - COD",
+        "Y_text": "@TiffanyFleisc14 Drawing @ 9pm central time! You entered! Good Luck!",
+        "Y_token": "tiffanyfleisc14, drawing, 9pm, central, time, entered, good, luck",
+        "Y_tweet_count": 29,
+        "Y_username": "Chief Of Dogecoin - COD",
+        "X_length": 65,
+        "Y_length": 68,
+        "Y_length_percent_of_X": 104.62,
+        "X_length_percent_of_Y": 95.59,
+        "dice_coefficient": 87.5
+    },
+    {
+        "X_text": "This tweet is for sale on: https://t.co/Nw8V1oWk46 @cent",
+        "X_token": "tweet, sale, https, cent",
+        "X_tweet_count": 83,
+        "X_username": "Chief Of Dogecoin - COD",
+        "Y_text": "This tweet is for sale on: https://t.co/Nw8V1oWk46 @cent",
+        "Y_token": "tweet, sale, https, cent",
+        "Y_tweet_count": 84,
+        "Y_username": "Chief Of Dogecoin - COD",
+        "X_length": 56,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

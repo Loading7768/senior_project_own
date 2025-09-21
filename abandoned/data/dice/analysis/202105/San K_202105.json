@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@elonmusk @elonmusk Which is you favorite #dogecoin meme ?",
+        "X_token": "elonmusk, elonmusk, favorite, dogecoin, meme",
+        "X_tweet_count": 1,
+        "X_username": "San K",
+        "Y_text": "@BillyM2k @BillyM2k which is your favorite #dogecoin meme ?",
+        "Y_token": "billym2k, billym2k, favorite, dogecoin, meme",
+        "Y_tweet_count": 5,
+        "Y_username": "San K",
+        "X_length": 58,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 101.72,
+        "X_length_percent_of_Y": 98.31,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "#Eloninthechat There are 10500+ people in this live stream right now 😀 #dogecoin #dogearmy #DogeCoinTo1Dollar #doge4amazon #Dogefather https://t.co/MSc7rpjk84",
+        "X_token": "eloninthechat, people, live, stream, right, dogecoin, dogearmy, dogecointo1dollar, doge4amazon, dogefather, https",
+        "X_tweet_count": 43,
+        "X_username": "San K",
+        "Y_text": "#ElonintheChat how long is this live stream ? #dogecoin #dogearmy #DogeCoinTo1Dollar #DogecoinToTheMoon #DogeChat #Dogefather https://t.co/MSc7rpjk84",
+        "Y_token": "eloninthechat, long, live, stream, dogecoin, dogearmy, dogecointo1dollar, dogecointothemoon, dogechat, dogefather, https",
+        "Y_tweet_count": 48,
+        "Y_username": "San K",
+        "X_length": 158,
+        "Y_length": 149,
+        "Y_length_percent_of_X": 94.3,
+        "X_length_percent_of_Y": 106.04,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "#Eloninthechat this is a great community ! #dogecoin #dogearmy #DogeCoinTo1Dollar #DogecoinToTheMoon #Dogefather https://t.co/MSc7rpjk84",
+        "X_token": "eloninthechat, great, community, dogecoin, dogearmy, dogecointo1dollar, dogecointothemoon, dogefather, https",
+        "X_tweet_count": 44,
+        "X_username": "San K",
+        "Y_text": "#ElonintheChat how long is this live stream ? #dogecoin #dogearmy #DogeCoinTo1Dollar #DogecoinToTheMoon #DogeChat #Dogefather https://t.co/MSc7rpjk84",
+        "Y_token": "eloninthechat, long, live, stream, dogecoin, dogearmy, dogecointo1dollar, dogecointothemoon, dogechat, dogefather, https",
+        "Y_tweet_count": 48,
+        "Y_username": "San K",
+        "X_length": 136,
+        "Y_length": 149,
+        "Y_length_percent_of_X": 109.56,
+        "X_length_percent_of_Y": 91.28,
+        "dice_coefficient": 70.0
+    }
+]

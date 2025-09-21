@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@elonmusk @SpaceX  was suppose to launch dogecoin to literal moon what happened @elonmusk",
+        "X_token": "elonmusk, spacex, suppose, launch, dogecoin, literal, moon, happened, elonmusk",
+        "X_tweet_count": 9,
+        "X_username": "LEO",
+        "Y_text": "@SpaceX @elonmusk @elonmusk when are you putting literal dogecoin on moon",
+        "Y_token": "spacex, elonmusk, elonmusk, putting, literal, dogecoin, moon",
+        "Y_tweet_count": 17,
+        "Y_username": "LEO",
+        "X_length": 89,
+        "Y_length": 73,
+        "Y_length_percent_of_X": 82.02,
+        "X_length_percent_of_Y": 121.92,
+        "dice_coefficient": 71.43
+    }
+]

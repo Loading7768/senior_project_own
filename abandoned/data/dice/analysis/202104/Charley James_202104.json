@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Let's Go Dogecoin !! https://t.co/SbUOPgOKJk",
+        "X_token": "let, go, dogecoin, https",
+        "X_tweet_count": 12,
+        "X_username": "Charley James",
+        "Y_text": "Let's go #dogecoin https://t.co/cjOeErsMTo",
+        "Y_token": "let, go, dogecoin, https",
+        "Y_tweet_count": 25,
+        "Y_username": "Charley James",
+        "X_length": 44,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 95.45,
+        "X_length_percent_of_Y": 104.76,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "He must have sold his #Dogecoin https://t.co/CF1qMJkwYs",
+        "X_token": "must, sold, dogecoin, https",
+        "X_tweet_count": 17,
+        "X_username": "Charley James",
+        "Y_text": "To the people that sold #Dogecoin https://t.co/unpYVoRQp8",
+        "Y_token": "people, sold, dogecoin, https",
+        "Y_tweet_count": 19,
+        "Y_username": "Charley James",
+        "X_length": 55,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 103.64,
+        "X_length_percent_of_Y": 96.49,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Told ya to hold ! #dogecoin https://t.co/TtHsxo9kID",
+        "X_token": "told, ya, hold, dogecoin, https",
+        "X_tweet_count": 24,
+        "X_username": "Charley James",
+        "Y_text": "Hold your #dogecoin  !!! https://t.co/PuEETVJmJc",
+        "Y_token": "hold, dogecoin, https",
+        "Y_tweet_count": 50,
+        "Y_username": "Charley James",
+        "X_length": 51,
+        "Y_length": 48,
+        "Y_length_percent_of_X": 94.12,
+        "X_length_percent_of_Y": 106.25,
+        "dice_coefficient": 75.0
+    }
+]

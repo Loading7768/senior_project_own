@@ -1,0 +1,22 @@
+﻿X = [.40 cents today ? #dogecoin 🌙🚀]
+X_token = [cents, today, dogecoin]
+	X tweet_count = [5]
+	X username = [DOGEHODLER]
+Y = [.40 cents !!!! #dogecoin]
+Y_token = [cents, dogecoin]
+	Y tweet_count = [24]
+	Y username = [DOGEHODLER]
+Total Length: X = 30, Y = 24 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 80.00% 
+
+X = [My favorite line from @MattWallace888 \n“#Dogecoin is the future #cryptocurrency of Earth! \nAnd also a very very good boi 😂\n\n#DogecoinRise 🚀\n#doge 🌙]
+X_token = [favorite, line, mattwallace888, dogecoin, future, cryptocurrency, earth, also, good, boi, dogecoinrise, doge]
+	X tweet_count = [58]
+	X username = [DOGEHODLER]
+Y = [#dogecoin is the future #cryptocurrency of EARTH! \nAnd also a very very good boi \n(@MattWallace888) voice. \nThat’s my favorite line of all time 😂]
+Y_token = [dogecoin, future, cryptocurrency, earth, also, good, boi, mattwallace888, voice, favorite, line, time]
+	Y tweet_count = [122]
+	Y username = [DOGEHODLER]
+Total Length: X = 147, Y = 145 (Y / X = 98.64  X / Y = 101.38)
+Dice Coefficient: 83.33% 
+

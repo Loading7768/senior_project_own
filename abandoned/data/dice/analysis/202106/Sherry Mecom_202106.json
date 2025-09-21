@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "#Dogecoin to the moon!",
+        "X_token": "dogecoin, moon",
+        "X_tweet_count": 17,
+        "X_username": "Sherry Mecom",
+        "Y_text": "FUD..#DOGECOIN TO THE MOON!",
+        "Y_token": "fud, dogecoin, moon",
+        "Y_tweet_count": 45,
+        "Y_username": "Sherry Mecom",
+        "X_length": 22,
+        "Y_length": 27,
+        "Y_length_percent_of_X": 122.73,
+        "X_length_percent_of_Y": 81.48,
+        "dice_coefficient": 80.0
+    }
+]

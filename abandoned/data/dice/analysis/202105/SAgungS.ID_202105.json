@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@ashwsbreal @elonmusk Go go go...... #dogecoin #AshArmy ✊🚀🚀to the moon",
+        "X_token": "ashwsbreal, elonmusk, go, go, go, dogecoin, asharmy, moon",
+        "X_tweet_count": 3,
+        "X_username": "SAgungS.ID",
+        "Y_text": "@ashwsbreal @elonmusk Yes please, go #dogecoin #AshArmy ✊",
+        "Y_token": "ashwsbreal, elonmusk, yes, please, go, dogecoin, asharmy",
+        "Y_tweet_count": 7,
+        "Y_username": "SAgungS.ID",
+        "X_length": 70,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 81.43,
+        "X_length_percent_of_Y": 122.81,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "@ashwsbreal @elonmusk Go go go...... #dogecoin #AshArmy ✊🚀🚀to the moon",
+        "X_token": "ashwsbreal, elonmusk, go, go, go, dogecoin, asharmy, moon",
+        "X_tweet_count": 3,
+        "X_username": "SAgungS.ID",
+        "Y_text": "@ashwsbreal Cool go #dogecoin #AshArmy  @elonmusk @ashwsbreal",
+        "Y_token": "ashwsbreal, cool, go, dogecoin, asharmy, elonmusk, ashwsbreal",
+        "Y_tweet_count": 8,
+        "Y_username": "SAgungS.ID",
+        "X_length": 70,
+        "Y_length": 61,
+        "Y_length_percent_of_X": 87.14,
+        "X_length_percent_of_Y": 114.75,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@ashwsbreal @elonmusk Yes please, go #dogecoin #AshArmy ✊",
+        "X_token": "ashwsbreal, elonmusk, yes, please, go, dogecoin, asharmy",
+        "X_tweet_count": 7,
+        "X_username": "SAgungS.ID",
+        "Y_text": "@ashwsbreal Cool go #dogecoin #AshArmy  @elonmusk @ashwsbreal",
+        "Y_token": "ashwsbreal, cool, go, dogecoin, asharmy, elonmusk, ashwsbreal",
+        "Y_tweet_count": 8,
+        "Y_username": "SAgungS.ID",
+        "X_length": 57,
+        "Y_length": 61,
+        "Y_length_percent_of_X": 107.02,
+        "X_length_percent_of_Y": 93.44,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "@ashwsbreal Hope i get doge from u... #dogecoin #AshArmy",
+        "X_token": "ashwsbreal, hope, get, doge, u, dogecoin, asharmy",
+        "X_tweet_count": 9,
+        "X_username": "SAgungS.ID",
+        "Y_text": "@ashwsbreal Hope i get it😁😁😁✊✊✊ #AshArmy #dogecoin",
+        "Y_token": "ashwsbreal, hope, get, asharmy, dogecoin",
+        "Y_tweet_count": 15,
+        "Y_username": "SAgungS.ID",
+        "X_length": 56,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 89.29,
+        "X_length_percent_of_Y": 112.0,
+        "dice_coefficient": 83.33
+    }
+]

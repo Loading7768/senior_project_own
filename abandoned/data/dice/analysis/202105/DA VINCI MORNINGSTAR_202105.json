@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@elonmusk Mine dogecoin now\nhttps://t.co/7vMhvKrB7e",
+        "X_token": "elonmusk, mine, dogecoin, https",
+        "X_tweet_count": 1,
+        "X_username": "DA VINCI MORNINGSTAR",
+        "Y_text": "@elonmusk Mine dogecoin now\nhttps://t.co/7vMhvKrB7e",
+        "Y_token": "elonmusk, mine, dogecoin, https",
+        "Y_tweet_count": 2,
+        "Y_username": "DA VINCI MORNINGSTAR",
+        "X_length": 51,
+        "Y_length": 51,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@elonmusk Mine dogecoin now\nhttps://t.co/7vMhvKrB7e",
+        "X_token": "elonmusk, mine, dogecoin, https",
+        "X_tweet_count": 1,
+        "X_username": "DA VINCI MORNINGSTAR",
+        "Y_text": "@preshdeyforyou Mine dogecoin now\nhttps://t.co/7vMhvKrB7e",
+        "Y_token": "preshdeyforyou, mine, dogecoin, https",
+        "Y_tweet_count": 9,
+        "Y_username": "DA VINCI MORNINGSTAR",
+        "X_length": 51,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 111.76,
+        "X_length_percent_of_Y": 89.47,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@elonmusk Mine dogecoin now\nhttps://t.co/7vMhvKrB7e",
+        "X_token": "elonmusk, mine, dogecoin, https",
+        "X_tweet_count": 2,
+        "X_username": "DA VINCI MORNINGSTAR",
+        "Y_text": "@preshdeyforyou Mine dogecoin now\nhttps://t.co/7vMhvKrB7e",
+        "Y_token": "preshdeyforyou, mine, dogecoin, https",
+        "Y_tweet_count": 9,
+        "Y_username": "DA VINCI MORNINGSTAR",
+        "X_length": 51,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 111.76,
+        "X_length_percent_of_Y": 89.47,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@ThisBeMbo Mine dogecoin for following up quick\nhttps://t.co/7vMhvKrB7e",
+        "X_token": "thisbembo, mine, dogecoin, following, quick, https",
+        "X_tweet_count": 5,
+        "X_username": "DA VINCI MORNINGSTAR",
+        "Y_text": "@Prinzjude @ThisBeMbo Mine dogecoin\nhttps://t.co/7vMhvKrB7e",
+        "Y_token": "prinzjude, thisbembo, mine, dogecoin, https",
+        "Y_tweet_count": 8,
+        "Y_username": "DA VINCI MORNINGSTAR",
+        "X_length": 71,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 83.1,
+        "X_length_percent_of_Y": 120.34,
+        "dice_coefficient": 72.73
+    }
+]

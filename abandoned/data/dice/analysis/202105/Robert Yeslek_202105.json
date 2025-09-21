@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@BENBALLER Time to dance 💃 to the Dogecoin song 🎶!!! 🚀🚀🚀😁😁😁 https://t.co/S2UwtU9FjQ",
+        "X_token": "benballer, time, dance, dogecoin, song, https",
+        "X_tweet_count": 1,
+        "X_username": "Robert Yeslek",
+        "Y_text": "@Investments_CEO Let’s all dance to the Dogecoin song! 😁😁😁🚀🚀🚀 https://t.co/S2UwtU9FjQ",
+        "Y_token": "let, dance, dogecoin, song, https",
+        "Y_tweet_count": 4,
+        "Y_username": "Robert Yeslek",
+        "X_length": 83,
+        "Y_length": 85,
+        "Y_length_percent_of_X": 102.41,
+        "X_length_percent_of_Y": 97.65,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@MattWallace888 Let’s all dance to the Dogecoin song 🎶! 🚀🚀🚀😁😁😁 https://t.co/S2UwtU9FjQ",
+        "X_token": "mattwallace888, let, dance, dogecoin, song, https",
+        "X_tweet_count": 3,
+        "X_username": "Robert Yeslek",
+        "Y_text": "@Investments_CEO Let’s all dance to the Dogecoin song! 😁😁😁🚀🚀🚀 https://t.co/S2UwtU9FjQ",
+        "Y_token": "let, dance, dogecoin, song, https",
+        "Y_tweet_count": 4,
+        "Y_username": "Robert Yeslek",
+        "X_length": 86,
+        "Y_length": 85,
+        "Y_length_percent_of_X": 98.84,
+        "X_length_percent_of_Y": 101.18,
+        "dice_coefficient": 90.91
+    },
+    {
+        "X_text": "@RickandMorty You should make an episode of Rick and Morty where it’s revealed that the Galactic Federation’s major currency is DOGECOIN! Or at least have an episode where it’s revealed Rick and Morty use Dogecoin when out in space adventures.",
+        "X_token": "rickandmorty, make, episode, rick, morty, revealed, galactic, federation, major, currency, dogecoin, least, episode, revealed, rick, morty, use, dogecoin, space, adventures",
+        "X_tweet_count": 29,
+        "X_username": "Robert Yeslek",
+        "Y_text": "@JustinRoiland @niftygateway Speaking of which, you should make an episode of Rick and Morty where it’s revealed that the Galactic Federation’s major currency is DOGECOIN! Or at least have an episode where it’s revealed Rick and Morty use Dogecoin when out in space adventures.",
+        "Y_token": "justinroiland, niftygateway, speaking, make, episode, rick, morty, revealed, galactic, federation, major, currency, dogecoin, least, episode, revealed, rick, morty, use, dogecoin, space, adventures",
+        "Y_tweet_count": 30,
+        "Y_username": "Robert Yeslek",
+        "X_length": 243,
+        "Y_length": 277,
+        "Y_length_percent_of_X": 113.99,
+        "X_length_percent_of_Y": 87.73,
+        "dice_coefficient": 87.5
+    }
+]

@@ -1,0 +1,33 @@
+﻿X = [$doge I am buying every dip]
+X_token = [doge, buying, every, dip]
+	X tweet_count = [4]
+	X username = [RiduFly]
+Y = [Who is buying the $doge dip?]
+Y_token = [buying, doge, dip]
+	Y tweet_count = [7]
+	Y username = [RiduFly]
+Total Length: X = 27, Y = 28 (Y / X = 103.70  X / Y = 96.43)
+Dice Coefficient: 85.71% 
+
+X = [$doge I am buying every dip]
+X_token = [doge, buying, every, dip]
+	X tweet_count = [4]
+	X username = [RiduFly]
+Y = [Every dip is an opportunity $doge]
+Y_token = [every, dip, opportunity, doge]
+	Y tweet_count = [39]
+	Y username = [RiduFly]
+Total Length: X = 27, Y = 33 (Y / X = 122.22  X / Y = 81.82)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk $doge then]
+X_token = [elonmusk, doge]
+	X tweet_count = [20]
+	X username = [RiduFly]
+Y = [@elonmusk 🚀 $doge]
+Y_token = [elonmusk, doge]
+	Y tweet_count = [32]
+	Y username = [RiduFly]
+Total Length: X = 20, Y = 17 (Y / X = 85.00  X / Y = 117.65)
+Dice Coefficient: 100.00% 
+

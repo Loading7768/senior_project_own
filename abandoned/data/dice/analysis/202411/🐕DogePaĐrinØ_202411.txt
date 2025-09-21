@@ -1,0 +1,55 @@
+﻿X = [dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [8]
+	X username = [🐕DogePaĐrinØ]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [55]
+	Y username = [🐕DogePaĐrinØ]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin right now https://t.co/VB9Do2yqOY]
+X_token = [dogecoin, right, https]
+	X tweet_count = [25]
+	X username = [🐕DogePaĐrinØ]
+Y = [@dogecoin where you at https://t.co/FSh1iDVFDH]
+Y_token = [dogecoin, https]
+	Y tweet_count = [52]
+	Y username = [🐕DogePaĐrinØ]
+Total Length: X = 42, Y = 46 (Y / X = 109.52  X / Y = 91.30)
+Dice Coefficient: 80.00% 
+
+X = [@UTD_B_fernandes I’m still looking for um $doge #doge #dogecoin #DOGE https://t.co/tdlNYcxb9j]
+X_token = [still, looking, um, doge, doge, dogecoin, doge, https]
+	X tweet_count = [36]
+	X username = [🐕DogePaĐrinØ]
+Y = [Have you seen um \nNow you have \n$doge #doge #Dogecoin https://t.co/FhadxlXopy]
+Y_token = [seen, um, doge, doge, dogecoin, https]
+	Y tweet_count = [44]
+	Y username = [🐕DogePaĐrinØ]
+Total Length: X = 93, Y = 77 (Y / X = 82.80  X / Y = 120.78)
+Dice Coefficient: 72.73% 
+
+X = [I choose dogecoin and you ? https://t.co/FQ8pju6yXp]
+X_token = [choose, dogecoin, https]
+	X tweet_count = [41]
+	X username = [🐕DogePaĐrinØ]
+Y = [@dogecoin where you at https://t.co/FSh1iDVFDH]
+Y_token = [dogecoin, https]
+	Y tweet_count = [52]
+	Y username = [🐕DogePaĐrinØ]
+Total Length: X = 51, Y = 46 (Y / X = 90.20  X / Y = 110.87)
+Dice Coefficient: 80.00% 
+
+X = [@dogecoin Doge don’t skip https://t.co/j5sqD2Na53]
+X_token = [dogecoin, doge, skip, https]
+	X tweet_count = [42]
+	X username = [🐕DogePaĐrinØ]
+Y = [$doge #doge #dogecoin in the matrix https://t.co/Yqc8jAgFUp]
+Y_token = [doge, doge, dogecoin, matrix, https]
+	Y tweet_count = [65]
+	Y username = [🐕DogePaĐrinØ]
+Total Length: X = 49, Y = 59 (Y / X = 120.41  X / Y = 83.05)
+Dice Coefficient: 75.00% 
+

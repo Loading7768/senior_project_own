@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@dogecoin_rise KOALA  coin is best coin meme coin \nhttps://t.co/iquv1ScTpT",
+        "X_token": "koala, coin, best, coin, meme, coin, https",
+        "X_tweet_count": 5,
+        "X_username": "Lolia",
+        "Y_text": "@Doge_Coin_1 KOALA  is the new useful meme coin. \nhttps://t.co/fydCeRvgjF",
+        "Y_token": "koala, new, useful, meme, coin, https",
+        "Y_tweet_count": 10,
+        "Y_username": "Lolia",
+        "X_length": 74,
+        "Y_length": 73,
+        "Y_length_percent_of_X": 98.65,
+        "X_length_percent_of_Y": 101.37,
+        "dice_coefficient": 72.73
+    }
+]

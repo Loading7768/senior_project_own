@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@gshenanigans1 @elonmusk @dogecoin @Dogefatherbsc_ #dogefatherbsc _ @Dogefatherbsc_  to the 🤩",
+        "X_token": "gshenanigans1, elonmusk, dogecoin, dogefatherbsc",
+        "X_tweet_count": 1,
+        "X_username": "RG (CRYPTO GIRL)",
+        "Y_text": "@gshenanigans1 @elonmusk @dogecoin @Dogefatherbsc_ #Dogefatherarmy #dogefatherbsc @Dogefatherbsc_  next 💎",
+        "Y_token": "gshenanigans1, elonmusk, dogecoin, dogefatherarmy, dogefatherbsc, next",
+        "Y_tweet_count": 6,
+        "Y_username": "RG (CRYPTO GIRL)",
+        "X_length": 93,
+        "Y_length": 105,
+        "Y_length_percent_of_X": 112.9,
+        "X_length_percent_of_Y": 88.57,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@gshenanigans1 @elonmusk @dogecoin @Dogefatherbsc_ #Dogefatherarmy #dogefatherbsc @Dogefatherbsc_  next 💎",
+        "X_token": "gshenanigans1, elonmusk, dogecoin, dogefatherarmy, dogefatherbsc, next",
+        "X_tweet_count": 6,
+        "X_username": "RG (CRYPTO GIRL)",
+        "Y_text": "@gshenanigans1 @elonmusk @dogecoin @Dogefatherbsc_ #dogefatherbsc #Dogefatherarmy @Dogefatherbsc_  let’s go guys",
+        "Y_token": "gshenanigans1, elonmusk, dogecoin, dogefatherbsc, dogefatherarmy, let, go, guys",
+        "Y_tweet_count": 7,
+        "Y_username": "RG (CRYPTO GIRL)",
+        "X_length": 105,
+        "Y_length": 112,
+        "Y_length_percent_of_X": 106.67,
+        "X_length_percent_of_Y": 93.75,
+        "dice_coefficient": 71.43
+    }
+]

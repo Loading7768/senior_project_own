@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#dogecoin under a dollar is still EARLY to buy in.",
+        "X_token": "dogecoin, dollar, still, early, buy",
+        "X_tweet_count": 32,
+        "X_username": "🌈Gina likes rainbows",
+        "Y_text": "Buy #dogecoin while it's under a dollar.",
+        "Y_token": "buy, dogecoin, dollar",
+        "Y_tweet_count": 72,
+        "Y_username": "🌈Gina likes rainbows",
+        "X_length": 50,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Get your #dogecoin while you can",
+        "X_token": "get, dogecoin",
+        "X_tweet_count": 58,
+        "X_username": "🌈Gina likes rainbows",
+        "Y_text": "Yaaaaaaaaas #dogecoin\nGet it.",
+        "Y_token": "yaaaaaaaaas, dogecoin, get",
+        "Y_tweet_count": 61,
+        "Y_username": "🌈Gina likes rainbows",
+        "X_length": 32,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 90.62,
+        "X_length_percent_of_Y": 110.34,
+        "dice_coefficient": 80.0
+    }
+]

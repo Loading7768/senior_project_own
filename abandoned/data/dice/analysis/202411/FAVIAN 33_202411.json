@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "We are Doge #DOGE #Dogecoin https://t.co/2UfnUBd5vE",
+        "X_token": "doge, doge, dogecoin, https",
+        "X_tweet_count": 6,
+        "X_username": "FAVIAN 33",
+        "Y_text": "#DOGE #Dogecoin  is money … #neo https://t.co/H73fKrqnDT",
+        "Y_token": "doge, dogecoin, money, neo, https",
+        "Y_tweet_count": 10,
+        "Y_username": "FAVIAN 33",
+        "X_length": 51,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 109.8,
+        "X_length_percent_of_Y": 91.07,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "We are Doge #DOGE #Dogecoin https://t.co/2UfnUBd5vE",
+        "X_token": "doge, doge, dogecoin, https",
+        "X_tweet_count": 6,
+        "X_username": "FAVIAN 33",
+        "Y_text": "@teslaran_doge $0.50  and I’ll by more #DOGE #Dogecoin",
+        "Y_token": "doge, dogecoin",
+        "Y_tweet_count": 15,
+        "Y_username": "FAVIAN 33",
+        "X_length": 51,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 105.88,
+        "X_length_percent_of_Y": 94.44,
+        "dice_coefficient": 80.0
+    }
+]

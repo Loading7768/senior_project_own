@@ -1,0 +1,539 @@
+﻿X = [You must be rich enough not to worry about bills from supporting heavy tariffs.]
+X_token = [must, rich, enough, worry, bills, supporting, heavy, tariffs]
+	X tweet_count = [30]
+	X username = [FreedomÐoge]
+Y = [@TheReal_BenU @RepMTG You must be rich enough not to worry about bills.]
+Y_token = [repmtg, must, rich, enough, worry, bills]
+	Y tweet_count = [32]
+	Y username = [FreedomÐoge]
+Total Length: X = 79, Y = 71 (Y / X = 89.87  X / Y = 111.27)
+Dice Coefficient: 71.43% 
+
+X = [@RepMTG You must be rich enough not to worry about bills.]
+X_token = [repmtg, must, rich, enough, worry, bills]
+	X tweet_count = [31]
+	X username = [FreedomÐoge]
+Y = [@TheReal_BenU @RepMTG You must be rich enough not to worry about bills.]
+Y_token = [repmtg, must, rich, enough, worry, bills]
+	Y tweet_count = [32]
+	Y username = [FreedomÐoge]
+Total Length: X = 57, Y = 71 (Y / X = 124.56  X / Y = 80.28)
+Dice Coefficient: 100.00% 
+
+X = [@RepMTG How trade war has not killed US national debt.  OMG.]
+X_token = [repmtg, trade, war, killed, us, national, debt, omg]
+	X tweet_count = [34]
+	X username = [FreedomÐoge]
+Y = [How trade war has not killed US national debt.  OMG.  @realDonaldTrump]
+Y_token = [trade, war, killed, us, national, debt, omg, realdonaldtrump]
+	Y tweet_count = [36]
+	Y username = [FreedomÐoge]
+Total Length: X = 60, Y = 70 (Y / X = 116.67  X / Y = 85.71)
+Dice Coefficient: 87.50% 
+
+X = [@RepMTG How trade war has not killed US national debt.  OMG.]
+X_token = [repmtg, trade, war, killed, us, national, debt, omg]
+	X tweet_count = [34]
+	X username = [FreedomÐoge]
+Y = [@realDogecoinOG How trade war has not killed US national debt.  OMG.]
+Y_token = [realdogecoinog, trade, war, killed, us, national, debt, omg]
+	Y tweet_count = [37]
+	Y username = [FreedomÐoge]
+Total Length: X = 60, Y = 68 (Y / X = 113.33  X / Y = 88.24)
+Dice Coefficient: 87.50% 
+
+X = [How trade war has not killed US national debt.  OMG.  @realDonaldTrump]
+X_token = [trade, war, killed, us, national, debt, omg, realdonaldtrump]
+	X tweet_count = [36]
+	X username = [FreedomÐoge]
+Y = [@realDogecoinOG How trade war has not killed US national debt.  OMG.]
+Y_token = [realdogecoinog, trade, war, killed, us, national, debt, omg]
+	Y tweet_count = [37]
+	Y username = [FreedomÐoge]
+Total Length: X = 70, Y = 68 (Y / X = 97.14  X / Y = 102.94)
+Dice Coefficient: 87.50% 
+
+X = [@TaraBull808 Not true.  It is like you owning a gun and play with it for fun.]
+X_token = [tarabull808, true, like, owning, gun, play, fun]
+	X tweet_count = [44]
+	X username = [FreedomÐoge]
+Y = [@endlibtyranny @TaraBull808 Not true.  It is like you owning a gun and play with it for fun.]
+Y_token = [endlibtyranny, tarabull808, true, like, owning, gun, play, fun]
+	Y tweet_count = [45]
+	Y username = [FreedomÐoge]
+Total Length: X = 77, Y = 92 (Y / X = 119.48  X / Y = 83.70)
+Dice Coefficient: 93.33% 
+
+X = [How can we help?  I do know either. Maybe stop paying taxes?@DOGE @elonmusk]
+X_token = [help, know, either, maybe, stop, paying, taxes, doge, elonmusk]
+	X tweet_count = [73]
+	X username = [FreedomÐoge]
+Y = [@cb_doge How can we help?  I do know either. Maybe stop paying taxes?]
+Y_token = [help, know, either, maybe, stop, paying, taxes]
+	Y tweet_count = [74]
+	Y username = [FreedomÐoge]
+Total Length: X = 75, Y = 69 (Y / X = 92.00  X / Y = 108.70)
+Dice Coefficient: 87.50% 
+
+X = [DOGE has no authority to arrest anyone. But they can show evidences to the president and have him decide.]
+X_token = [doge, authority, arrest, anyone, show, evidences, president, decide]
+	X tweet_count = [90]
+	X username = [FreedomÐoge]
+Y = [@MyDogeVN @elonmusk DOGE has no authority to arrest anyone. But they can show evidences to the president and have him decide.]
+Y_token = [mydogevn, elonmusk, doge, authority, arrest, anyone, show, evidences, president, decide]
+	Y tweet_count = [91]
+	Y username = [FreedomÐoge]
+Total Length: X = 105, Y = 125 (Y / X = 119.05  X / Y = 84.00)
+Dice Coefficient: 88.89% 
+
+X = [Dogecoin!]
+X_token = [dogecoin]
+	X tweet_count = [98]
+	X username = [FreedomÐoge]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [122]
+	Y username = [FreedomÐoge]
+Total Length: X = 9, Y = 8 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge Doge.]
+X_token = [doge]
+	X tweet_count = [159]
+	X username = [FreedomÐoge]
+Y = [@cb_doge DOGE]
+Y_token = [doge]
+	Y tweet_count = [379]
+	Y username = [FreedomÐoge]
+Total Length: X = 14, Y = 13 (Y / X = 92.86  X / Y = 107.69)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge @realDonaldTrump and @DOGE are saving the country and the tax money.]
+X_token = [realdonaldtrump, doge, saving, country, tax, money]
+	X tweet_count = [168]
+	X username = [FreedomÐoge]
+Y = [@cb_doge @realDonaldTrump and @DOGE are saving the country and the tax money.]
+Y_token = [realdonaldtrump, doge, saving, country, tax, money]
+	Y tweet_count = [170]
+	Y username = [FreedomÐoge]
+Total Length: X = 77, Y = 77 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge @realDonaldTrump and @DOGE are saving the country and the tax money.]
+X_token = [realdonaldtrump, doge, saving, country, tax, money]
+	X tweet_count = [168]
+	X username = [FreedomÐoge]
+Y = [@DOGE @realDonaldTrump and @DOGE are saving the country and tax money.]
+Y_token = [doge, realdonaldtrump, doge, saving, country, tax, money]
+	Y tweet_count = [171]
+	Y username = [FreedomÐoge]
+Total Length: X = 77, Y = 70 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge @realDonaldTrump and @DOGE are saving the country and the tax money.]
+X_token = [realdonaldtrump, doge, saving, country, tax, money]
+	X tweet_count = [168]
+	X username = [FreedomÐoge]
+Y = [@realDonaldTrump and @DOGE are saving the country and the tax money. So please stop complaining.]
+Y_token = [realdonaldtrump, doge, saving, country, tax, money, please, stop, complaining]
+	Y tweet_count = [172]
+	Y username = [FreedomÐoge]
+Total Length: X = 77, Y = 96 (Y / X = 124.68  X / Y = 80.21)
+Dice Coefficient: 80.00% 
+
+X = [@cb_doge @realDonaldTrump and @DOGE are saving the country and the tax money.]
+X_token = [realdonaldtrump, doge, saving, country, tax, money]
+	X tweet_count = [170]
+	X username = [FreedomÐoge]
+Y = [@DOGE @realDonaldTrump and @DOGE are saving the country and tax money.]
+Y_token = [doge, realdonaldtrump, doge, saving, country, tax, money]
+	Y tweet_count = [171]
+	Y username = [FreedomÐoge]
+Total Length: X = 77, Y = 70 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge @realDonaldTrump and @DOGE are saving the country and the tax money.]
+X_token = [realdonaldtrump, doge, saving, country, tax, money]
+	X tweet_count = [170]
+	X username = [FreedomÐoge]
+Y = [@realDonaldTrump and @DOGE are saving the country and the tax money. So please stop complaining.]
+Y_token = [realdonaldtrump, doge, saving, country, tax, money, please, stop, complaining]
+	Y tweet_count = [172]
+	Y username = [FreedomÐoge]
+Total Length: X = 77, Y = 96 (Y / X = 124.68  X / Y = 80.21)
+Dice Coefficient: 80.00% 
+
+X = [Bitcoin fuked us good. Thx]
+X_token = [bitcoin, fuked, us, good, thx]
+	X tweet_count = [173]
+	X username = [FreedomÐoge]
+Y = [Thx Bitcoin. You fuked me.]
+Y_token = [thx, bitcoin, fuked]
+	Y tweet_count = [174]
+	Y username = [FreedomÐoge]
+Total Length: X = 26, Y = 26 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk DOGE has Big Balls.]
+X_token = [elonmusk, doge, big, balls]
+	X tweet_count = [178]
+	X username = [FreedomÐoge]
+Y = [DOGE has Big Balls.  $Doge]
+Y_token = [doge, big, balls, doge]
+	Y tweet_count = [179]
+	Y username = [FreedomÐoge]
+Total Length: X = 29, Y = 26 (Y / X = 89.66  X / Y = 111.54)
+Dice Coefficient: 85.71% 
+
+X = [@Mick_O_Keeffe @elonmusk Doge]
+X_token = [elonmusk, doge]
+	X tweet_count = [192]
+	X username = [FreedomÐoge]
+Y = [@elonmusk @cb_doge @DOGE Doge]
+Y_token = [elonmusk, doge, doge]
+	Y tweet_count = [310]
+	Y username = [FreedomÐoge]
+Total Length: X = 29, Y = 29 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Reduce Medicare expenses! Increases military pays and VA benefits. @DOGE @DeptVetAffairs @elonmusk @realDonaldTrump   What do you think?]
+X_token = [elonmusk, reduce, medicare, expenses, increases, military, pays, va, benefits, doge, deptvetaffairs, elonmusk, realdonaldtrump, think]
+	X tweet_count = [205]
+	X username = [FreedomÐoge]
+Y = [Reduce Medicare expenses! Increases military pays and VA benefits. @DOGE @DeptVetAffairs @elonmusk @realDonaldTrump   What do you think?]
+Y_token = [reduce, medicare, expenses, increases, military, pays, va, benefits, doge, deptvetaffairs, elonmusk, realdonaldtrump, think]
+	Y tweet_count = [206]
+	Y username = [FreedomÐoge]
+Total Length: X = 146, Y = 136 (Y / X = 93.15  X / Y = 107.35)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [212]
+	X username = [FreedomÐoge]
+Y = [@cb_doge Please protect Elon Musk at all costs.Stay alert 24/7]
+Y_token = [please, protect, elon, musk, alert]
+	Y tweet_count = [213]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 62 (Y / X = 105.08  X / Y = 95.16)
+Dice Coefficient: 76.92% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [212]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [214]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 59 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [212]
+	X username = [FreedomÐoge]
+Y = [Protect Elon Musk at all cost. Please stay alert.  Dogecoin Bitcoin Tesla]
+Y_token = [protect, elon, musk, cost, please, stay, alert, dogecoin, bitcoin, tesla]
+	Y tweet_count = [215]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 73 (Y / X = 123.73  X / Y = 80.82)
+Dice Coefficient: 77.78% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [212]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [216]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 59 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [212]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [219]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 59 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge Please protect Elon Musk at all costs.Stay alert 24/7]
+X_token = [please, protect, elon, musk, alert]
+	X tweet_count = [213]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [214]
+	Y username = [FreedomÐoge]
+Total Length: X = 62, Y = 59 (Y / X = 95.16  X / Y = 105.08)
+Dice Coefficient: 76.92% 
+
+X = [@cb_doge Please protect Elon Musk at all costs.Stay alert 24/7]
+X_token = [please, protect, elon, musk, alert]
+	X tweet_count = [213]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [216]
+	Y username = [FreedomÐoge]
+Total Length: X = 62, Y = 59 (Y / X = 95.16  X / Y = 105.08)
+Dice Coefficient: 76.92% 
+
+X = [@cb_doge Please protect Elon Musk at all costs.Stay alert 24/7]
+X_token = [please, protect, elon, musk, alert]
+	X tweet_count = [213]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [219]
+	Y username = [FreedomÐoge]
+Total Length: X = 62, Y = 59 (Y / X = 95.16  X / Y = 105.08)
+Dice Coefficient: 76.92% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [214]
+	X username = [FreedomÐoge]
+Y = [Protect Elon Musk at all cost. Please stay alert.  Dogecoin Bitcoin Tesla]
+Y_token = [protect, elon, musk, cost, please, stay, alert, dogecoin, bitcoin, tesla]
+	Y tweet_count = [215]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 73 (Y / X = 123.73  X / Y = 80.82)
+Dice Coefficient: 77.78% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [214]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [216]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 59 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [214]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [219]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 59 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Protect Elon Musk at all cost. Please stay alert.  Dogecoin Bitcoin Tesla]
+X_token = [protect, elon, musk, cost, please, stay, alert, dogecoin, bitcoin, tesla]
+	X tweet_count = [215]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [216]
+	Y username = [FreedomÐoge]
+Total Length: X = 73, Y = 59 (Y / X = 80.82  X / Y = 123.73)
+Dice Coefficient: 77.78% 
+
+X = [Protect Elon Musk at all cost. Please stay alert.  Dogecoin Bitcoin Tesla]
+X_token = [protect, elon, musk, cost, please, stay, alert, dogecoin, bitcoin, tesla]
+	X tweet_count = [215]
+	X username = [FreedomÐoge]
+Y = [Protect Elon Musk at all cost. Please stay alert.   @elonmusk @Tesla @SpaceX]
+Y_token = [protect, elon, musk, cost, please, stay, alert, elonmusk, tesla, spacex]
+	Y tweet_count = [218]
+	Y username = [FreedomÐoge]
+Total Length: X = 73, Y = 76 (Y / X = 104.11  X / Y = 96.05)
+Dice Coefficient: 80.00% 
+
+X = [Protect Elon Musk at all cost. Please stay alert.  Dogecoin Bitcoin Tesla]
+X_token = [protect, elon, musk, cost, please, stay, alert, dogecoin, bitcoin, tesla]
+	X tweet_count = [215]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [219]
+	Y username = [FreedomÐoge]
+Total Length: X = 73, Y = 59 (Y / X = 80.82  X / Y = 123.73)
+Dice Coefficient: 77.78% 
+
+X = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+X_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	X tweet_count = [216]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Protect Elon Musk at all cost. Please stay alert.]
+Y_token = [elonmusk, protect, elon, musk, cost, please, stay, alert]
+	Y tweet_count = [219]
+	Y username = [FreedomÐoge]
+Total Length: X = 59, Y = 59 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [I didn’t get to sleep when Dogecoin pumps nor when it dumps.  Not gonna sleep tonight. Watch it tanks.]
+X_token = [get, sleep, dogecoin, pumps, dumps, gon, na, sleep, tonight, watch, tanks]
+	X tweet_count = [491]
+	X username = [FreedomÐoge]
+Y = [@_CryptoSurf I didn’t get to sleep when Dogecoin pumps nor when it dumps.  Not gonna sleep tonight. Watch it tanks.]
+Y_token = [get, sleep, dogecoin, pumps, dumps, gon, na, sleep, tonight, watch, tanks]
+	Y tweet_count = [492]
+	Y username = [FreedomÐoge]
+Total Length: X = 102, Y = 115 (Y / X = 112.75  X / Y = 88.70)
+Dice Coefficient: 100.00% 
+
+X = [@SamRothste18381 @Thevivekspot @EndWokeness @JDVance @elonmusk Wearing all whites to someone’s funeral and find out.]
+X_token = [samrothste18381, thevivekspot, endwokeness, jdvance, elonmusk, wearing, whites, someone, funeral, find]
+	X tweet_count = [522]
+	X username = [FreedomÐoge]
+Y = [@MCMLXXXfive @Thevivekspot @EndWokeness @JDVance @elonmusk Exactly. He was like wearing whites when attending someone’s funeral]
+Y_token = [mcmlxxxfive, thevivekspot, endwokeness, jdvance, elonmusk, exactly, like, wearing, whites, attending, someone, funeral]
+	Y tweet_count = [525]
+	Y username = [FreedomÐoge]
+Total Length: X = 116, Y = 127 (Y / X = 109.48  X / Y = 91.34)
+Dice Coefficient: 72.73% 
+
+X = [@hellohimeinv @Thevivekspot @EndWokeness @JDVance @elonmusk He wears blazer.]
+X_token = [hellohimeinv, thevivekspot, endwokeness, jdvance, elonmusk, wears, blazer]
+	X tweet_count = [526]
+	X username = [FreedomÐoge]
+Y = [@ca82873 @Thevivekspot @EndWokeness @JDVance @elonmusk He has a blazer!]
+Y_token = [ca82873, thevivekspot, endwokeness, jdvance, elonmusk, blazer]
+	Y tweet_count = [529]
+	Y username = [FreedomÐoge]
+Total Length: X = 76, Y = 71 (Y / X = 93.42  X / Y = 107.04)
+Dice Coefficient: 76.92% 
+
+X = [Many are same as me. Broke as hell. Dip? What dip?   Barely have $10 spend on the dip.  Just let it go and see how bad it can goes down. HODL and die with it.]
+X_token = [many, broke, hell, dip, dip, barely, 10, spend, dip, let, go, see, bad, goes, hodl, die]
+	X tweet_count = [445]
+	X username = [FreedomÐoge]
+Y = [@WatcherGuru Many are same as me. Broke as hell. Dip? What dip?   Barely have $10 spend on the dip.  Just let it go and see how bad it can goes down. HODL and die with it.]
+Y_token = [watcherguru, many, broke, hell, dip, dip, barely, 10, spend, dip, let, go, see, bad, goes, hodl, die]
+	Y tweet_count = [446]
+	Y username = [FreedomÐoge]
+Total Length: X = 158, Y = 171 (Y / X = 108.23  X / Y = 92.40)
+Dice Coefficient: 96.55% 
+
+X = [If DOGE didn’t have exist, the US will files bankruptcy and will sell all its assets to pay the debt within ten years.]
+X_token = [doge, exist, us, files, bankruptcy, sell, assets, pay, debt, within, ten, years]
+	X tweet_count = [237]
+	X username = [FreedomÐoge]
+Y = [@cb_doge If DOGE didn’t have exist, the US will files bankruptcy and will sell all its assets to pay the debt within ten years.]
+Y_token = [doge, exist, us, files, bankruptcy, sell, assets, pay, debt, within, ten, years]
+	Y tweet_count = [238]
+	Y username = [FreedomÐoge]
+Total Length: X = 118, Y = 127 (Y / X = 107.63  X / Y = 92.91)
+Dice Coefficient: 100.00% 
+
+X = [Bitcoin and Dogecoin will unite Western and Eastern world.]
+X_token = [bitcoin, dogecoin, unite, western, eastern, world]
+	X tweet_count = [241]
+	X username = [FreedomÐoge]
+Y = [@cb_doge Bitcoin and Dogecoin will unite Western and Eastern world.]
+Y_token = [bitcoin, dogecoin, unite, western, eastern, world]
+	Y tweet_count = [242]
+	Y username = [FreedomÐoge]
+Total Length: X = 58, Y = 67 (Y / X = 115.52  X / Y = 86.57)
+Dice Coefficient: 100.00% 
+
+X = [I have fun watching my stocks or Dogecoin prices falls cuz I know they will get higher.]
+X_token = [fun, watching, stocks, dogecoin, prices, falls, cuz, know, get, higher]
+	X tweet_count = [249]
+	X username = [FreedomÐoge]
+Y = [@Felipppppppppp @WholeMarsBlog I have fun watching my stocks falls cuz I know they will gets higher.]
+Y_token = [felipppppppppp, wholemarsblog, fun, watching, stocks, falls, cuz, know, gets, higher]
+	Y tweet_count = [250]
+	Y username = [FreedomÐoge]
+Total Length: X = 87, Y = 100 (Y / X = 114.94  X / Y = 87.00)
+Dice Coefficient: 70.00% 
+
+X = [@cb_doge Deep States hates Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+X_token = [deep, states, hates, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	X tweet_count = [257]
+	X username = [FreedomÐoge]
+Y = [Deep States hates Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+Y_token = [deep, states, hates, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	Y tweet_count = [258]
+	Y username = [FreedomÐoge]
+Total Length: X = 130, Y = 121 (Y / X = 93.08  X / Y = 107.44)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge Deep States hates Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+X_token = [deep, states, hates, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	X tweet_count = [257]
+	X username = [FreedomÐoge]
+Y = [@DOGE @epaleezeldin @EPA Deep States hates Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+Y_token = [doge, epaleezeldin, epa, deep, states, hates, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	Y tweet_count = [259]
+	Y username = [FreedomÐoge]
+Total Length: X = 130, Y = 146 (Y / X = 112.31  X / Y = 89.04)
+Dice Coefficient: 93.33% 
+
+X = [@cb_doge Deep States hates Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+X_token = [deep, states, hates, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	X tweet_count = [257]
+	X username = [FreedomÐoge]
+Y = [They hate Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+Y_token = [hate, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	Y tweet_count = [260]
+	Y username = [FreedomÐoge]
+Total Length: X = 130, Y = 113 (Y / X = 86.92  X / Y = 115.04)
+Dice Coefficient: 84.62% 
+
+X = [Deep States hates Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+X_token = [deep, states, hates, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	X tweet_count = [258]
+	X username = [FreedomÐoge]
+Y = [@DOGE @epaleezeldin @EPA Deep States hates Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+Y_token = [doge, epaleezeldin, epa, deep, states, hates, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	Y tweet_count = [259]
+	Y username = [FreedomÐoge]
+Total Length: X = 121, Y = 146 (Y / X = 120.66  X / Y = 82.88)
+Dice Coefficient: 93.33% 
+
+X = [Deep States hates Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+X_token = [deep, states, hates, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	X tweet_count = [258]
+	X username = [FreedomÐoge]
+Y = [They hate Doge and we don’t care! Support Elon Musk at all costs. Thats including Tesla stock, Dogecoin and DOGE.]
+Y_token = [hate, doge, care, support, elon, musk, costs, thats, including, tesla, stock, dogecoin, doge]
+	Y tweet_count = [260]
+	Y username = [FreedomÐoge]
+Total Length: X = 121, Y = 113 (Y / X = 93.39  X / Y = 107.08)
+Dice Coefficient: 84.62% 
+
+X = [@ShawnRyan762 Eggs are way too expensive.]
+X_token = [shawnryan762, eggs, way, expensive]
+	X tweet_count = [278]
+	X username = [FreedomÐoge]
+Y = [Eggs are too expensive. Way too expensive.]
+Y_token = [eggs, expensive, way, expensive]
+	Y tweet_count = [307]
+	Y username = [FreedomÐoge]
+Total Length: X = 41, Y = 42 (Y / X = 102.44  X / Y = 97.62)
+Dice Coefficient: 85.71% 
+
+X = [@TaraBull808 These are the people who got fired from doing nothing on their jobs.]
+X_token = [tarabull808, people, got, fired, nothing, jobs]
+	X tweet_count = [279]
+	X username = [FreedomÐoge]
+Y = [@rawsalerts Those are people who got fired from their jobs from not doing their jobs.]
+Y_token = [rawsalerts, people, got, fired, jobs, jobs]
+	Y tweet_count = [359]
+	Y username = [FreedomÐoge]
+Total Length: X = 81, Y = 85 (Y / X = 104.94  X / Y = 95.29)
+Dice Coefficient: 72.73% 
+
+X = [@TaraBull808 Buy Tesla.]
+X_token = [tarabull808, buy, tesla]
+	X tweet_count = [280]
+	X username = [FreedomÐoge]
+Y = [@TaraBull808 Buy Tesla!]
+Y_token = [tarabull808, buy, tesla]
+	Y tweet_count = [281]
+	Y username = [FreedomÐoge]
+Total Length: X = 23, Y = 23 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

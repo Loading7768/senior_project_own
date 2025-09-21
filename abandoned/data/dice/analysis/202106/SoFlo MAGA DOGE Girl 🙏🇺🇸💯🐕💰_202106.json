@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Don't be hatin' on $DOGE! https://t.co/5lnwaSLVG2",
+        "X_token": "hatin, doge, https",
+        "X_tweet_count": 4,
+        "X_username": "SoFlo MAGA DOGE Girl 🙏🇺🇸💯🐕💰",
+        "Y_text": "What’s up with $DOGE? 📈⬆️🚀🌕🙏 https://t.co/githLJua0f",
+        "Y_token": "doge, https",
+        "Y_tweet_count": 54,
+        "Y_username": "SoFlo MAGA DOGE Girl 🙏🇺🇸💯🐕💰",
+        "X_length": 49,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 106.12,
+        "X_length_percent_of_Y": 94.23,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Can we take $DOGE to 0.50 today?? Let's go!! #ToTheMoon ⬆️📈🚀🌕🙏",
+        "X_token": "take, doge, today, let, go, tothemoon",
+        "X_tweet_count": 16,
+        "X_username": "SoFlo MAGA DOGE Girl 🙏🇺🇸💯🐕💰",
+        "Y_text": "Let’s go $DOGE!! #ToTheMoon!! ⬆️📈🚀🌕🙏💎👐🐕🐾 https://t.co/17glo0DV9B",
+        "Y_token": "let, go, doge, tothemoon, https",
+        "Y_tweet_count": 22,
+        "Y_username": "SoFlo MAGA DOGE Girl 🙏🇺🇸💯🐕💰",
+        "X_length": 62,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 103.23,
+        "X_length_percent_of_Y": 96.88,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "Can we take $DOGE to 0.50 today?? Let's go!! #ToTheMoon ⬆️📈🚀🌕🙏",
+        "X_token": "take, doge, today, let, go, tothemoon",
+        "X_tweet_count": 16,
+        "X_username": "SoFlo MAGA DOGE Girl 🙏🇺🇸💯🐕💰",
+        "Y_text": "$DOGE is at 0.27! Let’s go! #ToTheMoon! 👀📈⬆️🚀🌕🙏💎👐🐕🐾💰 https://t.co/e5lN6D9fQS",
+        "Y_token": "doge, let, go, tothemoon, https",
+        "Y_tweet_count": 57,
+        "Y_username": "SoFlo MAGA DOGE Girl 🙏🇺🇸💯🐕💰",
+        "X_length": 62,
+        "Y_length": 76,
+        "Y_length_percent_of_X": 122.58,
+        "X_length_percent_of_Y": 81.58,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "Let’s go $DOGE!! #ToTheMoon!! ⬆️📈🚀🌕🙏💎👐🐕🐾 https://t.co/17glo0DV9B",
+        "X_token": "let, go, doge, tothemoon, https",
+        "X_tweet_count": 22,
+        "X_username": "SoFlo MAGA DOGE Girl 🙏🇺🇸💯🐕💰",
+        "Y_text": "$DOGE is at 0.27! Let’s go! #ToTheMoon! 👀📈⬆️🚀🌕🙏💎👐🐕🐾💰 https://t.co/e5lN6D9fQS",
+        "Y_token": "doge, let, go, tothemoon, https",
+        "Y_tweet_count": 57,
+        "Y_username": "SoFlo MAGA DOGE Girl 🙏🇺🇸💯🐕💰",
+        "X_length": 64,
+        "Y_length": 76,
+        "Y_length_percent_of_X": 118.75,
+        "X_length_percent_of_Y": 84.21,
+        "dice_coefficient": 100.0
+    }
+]

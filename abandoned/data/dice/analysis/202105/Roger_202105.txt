@@ -1,0 +1,77 @@
+﻿X = [@JeffBezos When will you start accepting Dogecoin?]
+X_token = [jeffbezos, start, accepting, dogecoin]
+	X tweet_count = [16]
+	X username = [Roger]
+Y = [@tim_cook When will you start accepting Dogecoin?]
+Y_token = [start, accepting, dogecoin]
+	Y tweet_count = [17]
+	Y username = [Roger]
+Total Length: X = 50, Y = 49 (Y / X = 98.00  X / Y = 102.04)
+Dice Coefficient: 85.71% 
+
+X = [@JeffBezos When will you start accepting Dogecoin?]
+X_token = [jeffbezos, start, accepting, dogecoin]
+	X tweet_count = [16]
+	X username = [Roger]
+Y = [@Apple When will you start accepting Dogecoin?]
+Y_token = [apple, start, accepting, dogecoin]
+	Y tweet_count = [19]
+	Y username = [Roger]
+Total Length: X = 50, Y = 46 (Y / X = 92.00  X / Y = 108.70)
+Dice Coefficient: 75.00% 
+
+X = [@JeffBezos When will you start accepting Dogecoin?]
+X_token = [jeffbezos, start, accepting, dogecoin]
+	X tweet_count = [16]
+	X username = [Roger]
+Y = [@amazon When will you start accepting Dogecoin?]
+Y_token = [amazon, start, accepting, dogecoin]
+	Y tweet_count = [22]
+	Y username = [Roger]
+Total Length: X = 50, Y = 47 (Y / X = 94.00  X / Y = 106.38)
+Dice Coefficient: 75.00% 
+
+X = [@tim_cook When will you start accepting Dogecoin?]
+X_token = [start, accepting, dogecoin]
+	X tweet_count = [17]
+	X username = [Roger]
+Y = [@BillGates When will Microsoft start accepting Dogecoin?]
+Y_token = [billgates, microsoft, start, accepting, dogecoin]
+	Y tweet_count = [18]
+	Y username = [Roger]
+Total Length: X = 49, Y = 56 (Y / X = 114.29  X / Y = 87.50)
+Dice Coefficient: 75.00% 
+
+X = [@tim_cook When will you start accepting Dogecoin?]
+X_token = [start, accepting, dogecoin]
+	X tweet_count = [17]
+	X username = [Roger]
+Y = [@Apple When will you start accepting Dogecoin?]
+Y_token = [apple, start, accepting, dogecoin]
+	Y tweet_count = [19]
+	Y username = [Roger]
+Total Length: X = 49, Y = 46 (Y / X = 93.88  X / Y = 106.52)
+Dice Coefficient: 85.71% 
+
+X = [@tim_cook When will you start accepting Dogecoin?]
+X_token = [start, accepting, dogecoin]
+	X tweet_count = [17]
+	X username = [Roger]
+Y = [@amazon When will you start accepting Dogecoin?]
+Y_token = [amazon, start, accepting, dogecoin]
+	Y tweet_count = [22]
+	Y username = [Roger]
+Total Length: X = 49, Y = 47 (Y / X = 95.92  X / Y = 104.26)
+Dice Coefficient: 85.71% 
+
+X = [@Apple When will you start accepting Dogecoin?]
+X_token = [apple, start, accepting, dogecoin]
+	X tweet_count = [19]
+	X username = [Roger]
+Y = [@amazon When will you start accepting Dogecoin?]
+Y_token = [amazon, start, accepting, dogecoin]
+	Y tweet_count = [22]
+	Y username = [Roger]
+Total Length: X = 46, Y = 47 (Y / X = 102.17  X / Y = 97.87)
+Dice Coefficient: 75.00% 
+

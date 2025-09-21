@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Me watching y’all buying the dip. #dogecoin #doge #dogetothemoon \n\n#dogetothemoon https://t.co/LksFNriRe4",
+        "X_token": "watching, buying, dip, dogecoin, doge, dogetothemoon, dogetothemoon, https",
+        "X_tweet_count": 21,
+        "X_username": "FxEnabler",
+        "Y_text": "Me watching people panic seeing Doge dip #dogetothemoon #dogecoin \n\n#dogetothemoon https://t.co/SQ9izl27U7",
+        "Y_token": "watching, people, panic, seeing, doge, dip, dogetothemoon, dogecoin, dogetothemoon, https",
+        "Y_tweet_count": 25,
+        "Y_username": "FxEnabler",
+        "X_length": 105,
+        "Y_length": 106,
+        "Y_length_percent_of_X": 100.95,
+        "X_length_percent_of_Y": 99.06,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "when you buy the dip but it keeps on dipping... \n#Cryptocurrency #Bitcoin #Dogecoin \n\n#cryptocurrency https://t.co/hIjmTgmqfs",
+        "X_token": "buy, dip, keeps, dipping, cryptocurrency, bitcoin, dogecoin, cryptocurrency, https",
+        "X_tweet_count": 36,
+        "X_username": "FxEnabler",
+        "Y_text": "when you buy the dip but it keeps on dipping... \n#Cryptocurrency #Bitcoin #Dogecoin \n\n#Bitcoin https://t.co/nLd3qMfCa6",
+        "Y_token": "buy, dip, keeps, dipping, cryptocurrency, bitcoin, dogecoin, bitcoin, https",
+        "Y_tweet_count": 38,
+        "Y_username": "FxEnabler",
+        "X_length": 125,
+        "Y_length": 118,
+        "Y_length_percent_of_X": 94.4,
+        "X_length_percent_of_Y": 105.93,
+        "dice_coefficient": 100.0
+    }
+]

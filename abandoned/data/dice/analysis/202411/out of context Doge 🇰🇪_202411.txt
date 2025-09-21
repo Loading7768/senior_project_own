@@ -1,0 +1,22 @@
+﻿X = [New Department of Government Efficiency account @DOGE https://t.co/V9UIGYr1yl]
+X_token = [new, department, government, efficiency, account, doge, https]
+	X tweet_count = [30]
+	X username = [out of context Doge 🇰🇪]
+Y = [Department of Government Efficiency ( $Doge) https://t.co/IJJIg66TlN]
+Y_token = [department, government, efficiency, doge, https]
+	Y tweet_count = [59]
+	Y username = [out of context Doge 🇰🇪]
+Total Length: X = 77, Y = 68 (Y / X = 88.31  X / Y = 113.24)
+Dice Coefficient: 83.33% 
+
+X = [There you have it folks. https://t.co/4OEbk8tGhD]
+X_token = [folks, https]
+	X tweet_count = [36]
+	X username = [out of context Doge 🇰🇪]
+Y = [There you have it folks. ⚡🚀 https://t.co/e7i8ZbpLtm]
+Y_token = [folks, https]
+	Y tweet_count = [75]
+	Y username = [out of context Doge 🇰🇪]
+Total Length: X = 48, Y = 51 (Y / X = 106.25  X / Y = 94.12)
+Dice Coefficient: 100.00% 
+

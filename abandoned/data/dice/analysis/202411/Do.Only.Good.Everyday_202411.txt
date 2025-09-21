@@ -1,0 +1,44 @@
+﻿X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [2]
+	X username = [Do.Only.Good.Everyday]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [7]
+	Y username = [Do.Only.Good.Everyday]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [2]
+	X username = [Do.Only.Good.Everyday]
+Y = [Dogecoin!]
+Y_token = [dogecoin]
+	Y tweet_count = [9]
+	Y username = [Do.Only.Good.Everyday]
+Total Length: X = 8, Y = 9 (Y / X = 112.50  X / Y = 88.89)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [7]
+	X username = [Do.Only.Good.Everyday]
+Y = [Dogecoin!]
+Y_token = [dogecoin]
+	Y tweet_count = [9]
+	Y username = [Do.Only.Good.Everyday]
+Total Length: X = 8, Y = 9 (Y / X = 112.50  X / Y = 88.89)
+Dice Coefficient: 100.00% 
+
+X = [@MCDoge_1 Dogecoin to the moon indeed]
+X_token = [dogecoin, moon, indeed]
+	X tweet_count = [11]
+	X username = [Do.Only.Good.Everyday]
+Y = [@Dogecoin_Mexico Dogecoin to the moon!]
+Y_token = [dogecoin, moon]
+	Y tweet_count = [12]
+	Y username = [Do.Only.Good.Everyday]
+Total Length: X = 37, Y = 38 (Y / X = 102.70  X / Y = 97.37)
+Dice Coefficient: 80.00% 
+

@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please  need my money back please help me",
+        "X_token": "elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, need, money, back, please, help",
+        "X_tweet_count": 4,
+        "X_username": "quentinhall133",
+        "Y_text": "@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please help me please I lost my job @elonmusk",
+        "Y_token": "elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, help, please, lost, job, elonmusk",
+        "Y_tweet_count": 5,
+        "Y_username": "quentinhall133",
+        "X_length": 284,
+        "Y_length": 288,
+        "Y_length_percent_of_X": 101.41,
+        "X_length_percent_of_Y": 98.61,
+        "dice_coefficient": 90.57
+    },
+    {
+        "X_text": "@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please  need my money back please help me",
+        "X_token": "elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, need, money, back, please, help",
+        "X_tweet_count": 4,
+        "X_username": "quentinhall133",
+        "Y_text": "@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please help me  my life savings #ElonMusk",
+        "Y_token": "elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, help, life, savings, elonmusk",
+        "Y_tweet_count": 6,
+        "Y_username": "quentinhall133",
+        "X_length": 284,
+        "Y_length": 284,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 90.57
+    },
+    {
+        "X_text": "@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please help me please I lost my job @elonmusk",
+        "X_token": "elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, help, please, lost, job, elonmusk",
+        "X_tweet_count": 5,
+        "X_username": "quentinhall133",
+        "Y_text": "@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please help me  my life savings #ElonMusk",
+        "Y_token": "elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, help, life, savings, elonmusk",
+        "Y_tweet_count": 6,
+        "Y_username": "quentinhall133",
+        "X_length": 288,
+        "Y_length": 284,
+        "Y_length_percent_of_X": 98.61,
+        "X_length_percent_of_Y": 101.41,
+        "dice_coefficient": 92.31
+    }
+]

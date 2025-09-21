@@ -1,0 +1,22 @@
+﻿X = [#BinanceCoin #dogecoin is coming for you. https://t.co/oVNJTy7gAZ]
+X_token = [binancecoin, dogecoin, coming, https]
+	X tweet_count = [7]
+	X username = [Mubin Pathan]
+Y = [#BinanceCoin You're next!!!\n\n#dogecoin https://t.co/RqFtCr4HHK]
+Y_token = [binancecoin, next, dogecoin, https]
+	Y tweet_count = [10]
+	Y username = [Mubin Pathan]
+Total Length: X = 65, Y = 62 (Y / X = 95.38  X / Y = 104.84)
+Dice Coefficient: 75.00% 
+
+X = [Lets go!!!! (ToTheMoon) #dogecoin]
+X_token = [lets, go, tothemoon, dogecoin]
+	X tweet_count = [8]
+	X username = [Mubin Pathan]
+Y = [#dogecoin Lets go to the moon!!!]
+Y_token = [dogecoin, lets, go, moon]
+	Y tweet_count = [16]
+	Y username = [Mubin Pathan]
+Total Length: X = 33, Y = 32 (Y / X = 96.97  X / Y = 103.12)
+Dice Coefficient: 75.00% 
+

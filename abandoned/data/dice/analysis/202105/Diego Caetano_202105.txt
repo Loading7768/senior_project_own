@@ -1,0 +1,88 @@
+﻿X = [You need love, but you can get Dogecoin too!\n\n#dogecoin #elonmusk]
+X_token = [need, love, get, dogecoin, dogecoin, elonmusk]
+	X tweet_count = [60]
+	X username = [Diego Caetano]
+Y = [We Love DOGECOIN! We are Dogecoin!\n\n#elonmusk\n#dogecoin]
+Y_token = [love, dogecoin, dogecoin, elonmusk, dogecoin]
+	Y tweet_count = [61]
+	Y username = [Diego Caetano]
+Total Length: X = 65, Y = 55 (Y / X = 84.62  X / Y = 118.18)
+Dice Coefficient: 75.00% 
+
+X = [We Love DOGECOIN! We are Dogecoin!\n\n#elonmusk\n#dogecoin]
+X_token = [love, dogecoin, dogecoin, elonmusk, dogecoin]
+	X tweet_count = [61]
+	X username = [Diego Caetano]
+Y = [We love DOGECOIN because DOGECOIN LOVE US!\n\n#dogecoin #elonmusk]
+Y_token = [love, dogecoin, dogecoin, love, us, dogecoin, elonmusk]
+	Y tweet_count = [63]
+	Y username = [Diego Caetano]
+Total Length: X = 55, Y = 63 (Y / X = 114.55  X / Y = 87.30)
+Dice Coefficient: 85.71% 
+
+X = [We love DOGECOIN because DOGECOIN LOVE US!\n\n#dogecoin #elonmusk]
+X_token = [love, dogecoin, dogecoin, love, us, dogecoin, elonmusk]
+	X tweet_count = [63]
+	X username = [Diego Caetano]
+Y = [We love Dogecoin because Dogecoin loved us first!\n\n#dogecoin #elonmusk]
+Y_token = [love, dogecoin, dogecoin, loved, us, first, dogecoin, elonmusk]
+	Y tweet_count = [109]
+	Y username = [Diego Caetano]
+Total Length: X = 63, Y = 70 (Y / X = 111.11  X / Y = 90.00)
+Dice Coefficient: 80.00% 
+
+X = [We can buy DOGECOIN! \nAre you waiting for?\n\n#dogecoin #elonmusk]
+X_token = [buy, dogecoin, waiting, dogecoin, elonmusk]
+	X tweet_count = [67]
+	X username = [Diego Caetano]
+Y = [If you can buy dogecoin, so, buy dogecoin my friends!\n\n#elonmusk #dogecoin]
+Y_token = [buy, dogecoin, buy, dogecoin, friends, elonmusk, dogecoin]
+	Y tweet_count = [105]
+	Y username = [Diego Caetano]
+Total Length: X = 63, Y = 74 (Y / X = 117.46  X / Y = 85.14)
+Dice Coefficient: 75.00% 
+
+X = [We can buy DOGECOIN! \nAre you waiting for?\n\n#dogecoin #elonmusk]
+X_token = [buy, dogecoin, waiting, dogecoin, elonmusk]
+	X tweet_count = [67]
+	X username = [Diego Caetano]
+Y = [BUY DOGECOIN, NOW! \nYES, YOU CAN!\n\n#dogecoin #elonmusk]
+Y_token = [buy, dogecoin, yes, dogecoin, elonmusk]
+	Y tweet_count = [125]
+	Y username = [Diego Caetano]
+Total Length: X = 63, Y = 54 (Y / X = 85.71  X / Y = 116.67)
+Dice Coefficient: 75.00% 
+
+X = [We can buy DOGECOIN! \nAre you waiting for?\n\n#dogecoin #elonmusk]
+X_token = [buy, dogecoin, waiting, dogecoin, elonmusk]
+	X tweet_count = [67]
+	X username = [Diego Caetano]
+Y = [We are being better!\n\nBuy dogecoin!\n\n#dogecoin #elonmusk]
+Y_token = [better, buy, dogecoin, dogecoin, elonmusk]
+	Y tweet_count = [126]
+	Y username = [Diego Caetano]
+Total Length: X = 63, Y = 56 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 75.00% 
+
+X = [If you can buy dogecoin, so, buy dogecoin my friends!\n\n#elonmusk #dogecoin]
+X_token = [buy, dogecoin, buy, dogecoin, friends, elonmusk, dogecoin]
+	X tweet_count = [105]
+	X username = [Diego Caetano]
+Y = [Don't let them say that you can't be friends!\nBuy Dogecoin's!\n\n#elonmusk #dogecoin]
+Y_token = [let, say, ca, friends, buy, dogecoin, elonmusk, dogecoin]
+	Y tweet_count = [134]
+	Y username = [Diego Caetano]
+Total Length: X = 74, Y = 82 (Y / X = 110.81  X / Y = 90.24)
+Dice Coefficient: 72.73% 
+
+X = [BUY DOGECOIN, NOW! \nYES, YOU CAN!\n\n#dogecoin #elonmusk]
+X_token = [buy, dogecoin, yes, dogecoin, elonmusk]
+	X tweet_count = [125]
+	X username = [Diego Caetano]
+Y = [We are being better!\n\nBuy dogecoin!\n\n#dogecoin #elonmusk]
+Y_token = [better, buy, dogecoin, dogecoin, elonmusk]
+	Y tweet_count = [126]
+	Y username = [Diego Caetano]
+Total Length: X = 54, Y = 56 (Y / X = 103.70  X / Y = 96.43)
+Dice Coefficient: 75.00% 
+

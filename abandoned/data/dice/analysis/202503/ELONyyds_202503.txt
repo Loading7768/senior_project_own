@@ -1,0 +1,77 @@
+﻿X = [@elonmusk After entering politics, you never paid attention to Dogecoin again, which is really disappointing.]
+X_token = [elonmusk, entering, politics, never, paid, attention, dogecoin, really, disappointing]
+	X tweet_count = [1]
+	X username = [ELONyyds]
+Y = [@elonmusk @DOGE After entering politics, I never paid attention to Dogecoin again, which really disappointed me.]
+Y_token = [elonmusk, doge, entering, politics, never, paid, attention, dogecoin, really, disappointed]
+	Y tweet_count = [2]
+	Y username = [ELONyyds]
+Total Length: X = 109, Y = 112 (Y / X = 102.75  X / Y = 97.32)
+Dice Coefficient: 84.21% 
+
+X = [@elonmusk @DOGE I would like to ask how long it has been since you last followed your Dogecoin？]
+X_token = [elonmusk, doge, would, like, ask, long, since, last, followed]
+	X tweet_count = [3]
+	X username = [ELONyyds]
+Y = [@elonmusk I would like to ask how long it has been since you last followed your Dogecoin！]
+Y_token = [elonmusk, would, like, ask, long, since, last, followed]
+	Y tweet_count = [4]
+	Y username = [ELONyyds]
+Total Length: X = 95, Y = 89 (Y / X = 93.68  X / Y = 106.74)
+Dice Coefficient: 94.12% 
+
+X = [@elonmusk @DOGE I would like to ask how long it has been since you last followed your Dogecoin？]
+X_token = [elonmusk, doge, would, like, ask, long, since, last, followed]
+	X tweet_count = [3]
+	X username = [ELONyyds]
+Y = [@RepThomasMassie @elonmusk I would like to ask how long it has been since you last followed your Dogecoin]
+Y_token = [repthomasmassie, elonmusk, would, like, ask, long, since, last, followed, dogecoin]
+	Y tweet_count = [5]
+	Y username = [ELONyyds]
+Total Length: X = 95, Y = 105 (Y / X = 110.53  X / Y = 90.48)
+Dice Coefficient: 84.21% 
+
+X = [@elonmusk @DOGE I would like to ask how long it has been since you last followed your Dogecoin？]
+X_token = [elonmusk, doge, would, like, ask, long, since, last, followed]
+	X tweet_count = [3]
+	X username = [ELONyyds]
+Y = [@elonmusk I would like to ask how long it has been since you last followed your Dogecoin]
+Y_token = [elonmusk, would, like, ask, long, since, last, followed, dogecoin]
+	Y tweet_count = [6]
+	Y username = [ELONyyds]
+Total Length: X = 95, Y = 88 (Y / X = 92.63  X / Y = 107.95)
+Dice Coefficient: 88.89% 
+
+X = [@elonmusk I would like to ask how long it has been since you last followed your Dogecoin！]
+X_token = [elonmusk, would, like, ask, long, since, last, followed]
+	X tweet_count = [4]
+	X username = [ELONyyds]
+Y = [@RepThomasMassie @elonmusk I would like to ask how long it has been since you last followed your Dogecoin]
+Y_token = [repthomasmassie, elonmusk, would, like, ask, long, since, last, followed, dogecoin]
+	Y tweet_count = [5]
+	Y username = [ELONyyds]
+Total Length: X = 89, Y = 105 (Y / X = 117.98  X / Y = 84.76)
+Dice Coefficient: 88.89% 
+
+X = [@elonmusk I would like to ask how long it has been since you last followed your Dogecoin！]
+X_token = [elonmusk, would, like, ask, long, since, last, followed]
+	X tweet_count = [4]
+	X username = [ELONyyds]
+Y = [@elonmusk I would like to ask how long it has been since you last followed your Dogecoin]
+Y_token = [elonmusk, would, like, ask, long, since, last, followed, dogecoin]
+	Y tweet_count = [6]
+	Y username = [ELONyyds]
+Total Length: X = 89, Y = 88 (Y / X = 98.88  X / Y = 101.14)
+Dice Coefficient: 94.12% 
+
+X = [@RepThomasMassie @elonmusk I would like to ask how long it has been since you last followed your Dogecoin]
+X_token = [repthomasmassie, elonmusk, would, like, ask, long, since, last, followed, dogecoin]
+	X tweet_count = [5]
+	X username = [ELONyyds]
+Y = [@elonmusk I would like to ask how long it has been since you last followed your Dogecoin]
+Y_token = [elonmusk, would, like, ask, long, since, last, followed, dogecoin]
+	Y tweet_count = [6]
+	Y username = [ELONyyds]
+Total Length: X = 105, Y = 88 (Y / X = 83.81  X / Y = 119.32)
+Dice Coefficient: 94.74% 
+

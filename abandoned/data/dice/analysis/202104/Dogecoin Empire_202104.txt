@@ -1,0 +1,22 @@
+﻿X = [#dogecoin community\nBest people ever!\n#Doge to the moon.\nFollow! Retweet! Like!\n🚀🌖🚀🌖🚀🌖🚀🌖]
+X_token = [dogecoin, community, best, people, ever, doge, moon, follow, retweet, like]
+	X tweet_count = [28]
+	X username = [Dogecoin Empire]
+Y = [Be part of the #dogecoin community!\nFollow! Retweet! Like! Comment!\n#Doge to the moon]
+Y_token = [part, dogecoin, community, follow, retweet, like, comment, doge, moon]
+	Y tweet_count = [29]
+	Y username = [Dogecoin Empire]
+Total Length: X = 88, Y = 85 (Y / X = 96.59  X / Y = 103.53)
+Dice Coefficient: 73.68% 
+
+X = [#doge #dogefamily #elonmusk #crypto\nOnly invest what you are ready to lose. Do not panic sales. Be patient. Best example: Dogecoin was at 5cent few weeks ago. Has risen to 40cent then below about 20cent and is now holding at 30cent.\n#Dogecoin\n🚀🌖🚀🌖🚀🌖🚀🌖]
+X_token = [doge, dogefamily, elonmusk, crypto, invest, ready, lose, panic, sales, patient, best, example, dogecoin, 5cent, weeks, ago, risen, 40cent, 20cent, holding, 30cent, dogecoin]
+	X tweet_count = [42]
+	X username = [Dogecoin Empire]
+Y = [Only invest what you are ready to lose. Do not panic sales. Be patient. Best example: Dogecoin was at 5cent few weeks ago. Has risen to 40cent then below about 20cent and is now holding at 30cent.\n#Dogecoin\n🚀🌖🚀🌖🚀🌖🚀🌖]
+Y_token = [invest, ready, lose, panic, sales, patient, best, example, dogecoin, 5cent, weeks, ago, risen, 40cent, 20cent, holding, 30cent, dogecoin]
+	Y tweet_count = [43]
+	Y username = [Dogecoin Empire]
+Total Length: X = 251, Y = 215 (Y / X = 85.66  X / Y = 116.74)
+Dice Coefficient: 89.47% 
+

@@ -1,0 +1,88 @@
+﻿X = [#dogecoin is our future]
+X_token = [dogecoin, future]
+	X tweet_count = [1]
+	X username = [Sweet Laura]
+Y = [#dogecoin is our future]
+Y_token = [dogecoin, future]
+	Y tweet_count = [23]
+	Y username = [Sweet Laura]
+Total Length: X = 23, Y = 23 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin to the moon]
+X_token = [dogecoin, moon]
+	X tweet_count = [7]
+	X username = [Sweet Laura]
+Y = [#dogecoin to the moon]
+Y_token = [dogecoin, moon]
+	Y tweet_count = [45]
+	Y username = [Sweet Laura]
+Total Length: X = 21, Y = 21 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [love you #dogecoin]
+X_token = [love, dogecoin]
+	X tweet_count = [26]
+	X username = [Sweet Laura]
+Y = [we love #dogecoin]
+Y_token = [love, dogecoin]
+	Y tweet_count = [37]
+	Y username = [Sweet Laura]
+Total Length: X = 18, Y = 17 (Y / X = 94.44  X / Y = 105.88)
+Dice Coefficient: 100.00% 
+
+X = [Lets get #dogecoin trending.]
+X_token = [lets, get, dogecoin, trending]
+	X tweet_count = [49]
+	X username = [Sweet Laura]
+Y = [Lets get #dogecoin back to  .75]
+Y_token = [lets, get, dogecoin, back]
+	Y tweet_count = [50]
+	Y username = [Sweet Laura]
+Total Length: X = 28, Y = 31 (Y / X = 110.71  X / Y = 90.32)
+Dice Coefficient: 75.00% 
+
+X = [Lets get #dogecoin trending.]
+X_token = [lets, get, dogecoin, trending]
+	X tweet_count = [49]
+	X username = [Sweet Laura]
+Y = [lets get #dogecoin trending again]
+Y_token = [lets, get, dogecoin, trending]
+	Y tweet_count = [60]
+	Y username = [Sweet Laura]
+Total Length: X = 28, Y = 33 (Y / X = 117.86  X / Y = 84.85)
+Dice Coefficient: 100.00% 
+
+X = [Lets get #dogecoin back to  .75]
+X_token = [lets, get, dogecoin, back]
+	X tweet_count = [50]
+	X username = [Sweet Laura]
+Y = [lets get #dogecoin trending again]
+Y_token = [lets, get, dogecoin, trending]
+	Y tweet_count = [60]
+	Y username = [Sweet Laura]
+Total Length: X = 31, Y = 33 (Y / X = 106.45  X / Y = 93.94)
+Dice Coefficient: 75.00% 
+
+X = [we need #dogecoin to explode]
+X_token = [need, dogecoin, explode]
+	X tweet_count = [71]
+	X username = [Sweet Laura]
+Y = [#dogecoin is about to explode]
+Y_token = [dogecoin, explode]
+	Y tweet_count = [93]
+	Y username = [Sweet Laura]
+Total Length: X = 28, Y = 29 (Y / X = 103.57  X / Y = 96.55)
+Dice Coefficient: 80.00% 
+
+X = [Good morning #dogecoin]
+X_token = [good, morning, dogecoin]
+	X tweet_count = [81]
+	X username = [Sweet Laura]
+Y = [good morning #dogecoin]
+Y_token = [good, morning, dogecoin]
+	Y tweet_count = [97]
+	Y username = [Sweet Laura]
+Total Length: X = 22, Y = 22 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

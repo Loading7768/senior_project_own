@@ -1,0 +1,44 @@
+﻿X = [I love #dogecoin ❤🐶🚀\nAlso #SAFEMOON]
+X_token = [love, dogecoin, also, safemoon]
+	X tweet_count = [1]
+	X username = [Luis Angel Lopez]
+Y = [LOVE #dogecoin and #SAFEMOON]
+Y_token = [love, dogecoin, safemoon]
+	Y tweet_count = [43]
+	Y username = [Luis Angel Lopez]
+Total Length: X = 35, Y = 28 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 85.71% 
+
+X = [I love #dogecoin ❤🐶🚀\nAlso #SAFEMOON]
+X_token = [love, dogecoin, also, safemoon]
+	X tweet_count = [1]
+	X username = [Luis Angel Lopez]
+Y = [I love, #dogecoin and #SafeMoon]
+Y_token = [love, dogecoin, safemoon]
+	Y tweet_count = [46]
+	Y username = [Luis Angel Lopez]
+Total Length: X = 35, Y = 31 (Y / X = 88.57  X / Y = 112.90)
+Dice Coefficient: 85.71% 
+
+X = [#dogecoin baby]
+X_token = [dogecoin, baby]
+	X tweet_count = [7]
+	X username = [Luis Angel Lopez]
+Y = [#dogecoin baby]
+Y_token = [dogecoin, baby]
+	Y tweet_count = [15]
+	Y username = [Luis Angel Lopez]
+Total Length: X = 14, Y = 14 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [LOVE #dogecoin and #SAFEMOON]
+X_token = [love, dogecoin, safemoon]
+	X tweet_count = [43]
+	X username = [Luis Angel Lopez]
+Y = [I love, #dogecoin and #SafeMoon]
+Y_token = [love, dogecoin, safemoon]
+	Y tweet_count = [46]
+	Y username = [Luis Angel Lopez]
+Total Length: X = 28, Y = 31 (Y / X = 110.71  X / Y = 90.32)
+Dice Coefficient: 100.00% 
+

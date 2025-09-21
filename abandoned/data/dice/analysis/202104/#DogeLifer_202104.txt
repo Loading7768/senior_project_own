@@ -1,0 +1,22 @@
+﻿X = [@Target Can I order online with #Dogecoins #doge #Dogecoin]
+X_token = [target, order, online, dogecoins, doge, dogecoin]
+	X tweet_count = [7]
+	X username = [#DogeLifer]
+Y = [@Walmart Can I order online with #Dogecoins #Doge #Dogecoin]
+Y_token = [walmart, order, online, dogecoins, doge, dogecoin]
+	Y tweet_count = [8]
+	Y username = [#DogeLifer]
+Total Length: X = 58, Y = 59 (Y / X = 101.72  X / Y = 98.31)
+Dice Coefficient: 83.33% 
+
+X = [@MattWallace888 our President of the people's #1CryptoDoge.Thank you for your #1streaming show #LastStand on @YouTube making us believe in the #Dogecoin.Welcoming us in you home and building a #Doge community with your love. You will always be my #Doge to the end.  #Happy420Ever1]
+X_token = [mattwallace888, president, people, 1streaming, show, laststand, youtube, making, us, believe, us, home, building, doge, community, love, always, doge, end, happy420ever1]
+	X tweet_count = [39]
+	X username = [#DogeLifer]
+Y = [@MattWallace888 @BigImpactHumans Our President of the people's #1CryptoDoge.We love you.Thank you for your #1streaming show #LastStand on @YouTube making us believe in the #Dogecoin.Welcoming us in you home and building a #Doge community with your love. You will always be my #Doge to the end.  #Happy420Ever1]
+Y_token = [mattwallace888, bigimpacthumans, president, people, love, 1streaming, show, laststand, youtube, making, us, believe, us, home, building, doge, community, love, always, doge, end, happy420ever1]
+	Y tweet_count = [40]
+	Y username = [#DogeLifer]
+Total Length: X = 280, Y = 309 (Y / X = 110.36  X / Y = 90.61)
+Dice Coefficient: 97.30% 
+

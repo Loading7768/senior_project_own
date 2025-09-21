@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@SlimJim @GloryDoge @MrBeast Rythmatic, systematic world control!\nMagnetic, genetic, to match your soul! (x4)\n#DOGECOIN",
+        "X_token": "slimjim, glorydoge, mrbeast, rythmatic, systematic, world, control, magnetic, genetic, match, soul, x4, dogecoin",
+        "X_tweet_count": 42,
+        "X_username": "FIVETHOUSAND",
+        "Y_text": "@BeefSupreme1776 @GloryDoge Rythmatic, systematic world control!\nMagnetic, genetic, to match your soul! (x4) #DOGECOIN MARS NEEDS WOMEN",
+        "Y_token": "beefsupreme1776, glorydoge, rythmatic, systematic, world, control, magnetic, genetic, match, soul, x4, dogecoin, mars, needs, women",
+        "Y_tweet_count": 43,
+        "Y_username": "FIVETHOUSAND",
+        "X_length": 119,
+        "Y_length": 135,
+        "Y_length_percent_of_X": 113.45,
+        "X_length_percent_of_Y": 88.15,
+        "dice_coefficient": 78.57
+    },
+    {
+        "X_text": "@SlimJim @GloryDoge @MrBeast Rythmatic, systematic world control!\nMagnetic, genetic, to match your soul! (x4)\n#DOGECOIN",
+        "X_token": "slimjim, glorydoge, mrbeast, rythmatic, systematic, world, control, magnetic, genetic, match, soul, x4, dogecoin",
+        "X_tweet_count": 42,
+        "X_username": "FIVETHOUSAND",
+        "Y_text": "Rythmatic, systematic world control!\nMagnetic, genetic, to match your soul! (x4) #DOGECOIN #VCOIN",
+        "Y_token": "rythmatic, systematic, world, control, magnetic, genetic, match, soul, x4, dogecoin, vcoin",
+        "Y_tweet_count": 44,
+        "Y_username": "FIVETHOUSAND",
+        "X_length": 119,
+        "Y_length": 97,
+        "Y_length_percent_of_X": 81.51,
+        "X_length_percent_of_Y": 122.68,
+        "dice_coefficient": 83.33
+    }
+]

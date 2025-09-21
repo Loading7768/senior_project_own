@@ -1,0 +1,33 @@
+﻿X = [Doge going up at 4:20pm #dogecoin]
+X_token = [doge, going, dogecoin]
+	X tweet_count = [8]
+	X username = [Amber Harrison]
+Y = [Doge going up on a Monday #dogecoin]
+Y_token = [doge, going, monday, dogecoin]
+	Y tweet_count = [42]
+	Y username = [Amber Harrison]
+Total Length: X = 33, Y = 35 (Y / X = 106.06  X / Y = 94.29)
+Dice Coefficient: 85.71% 
+
+X = [Buy that dip!  #dogecoin]
+X_token = [buy, dip, dogecoin]
+	X tweet_count = [11]
+	X username = [Amber Harrison]
+Y = [Buy the dip!! #dogecoin]
+Y_token = [buy, dip, dogecoin]
+	Y tweet_count = [15]
+	Y username = [Amber Harrison]
+Total Length: X = 24, Y = 23 (Y / X = 95.83  X / Y = 104.35)
+Dice Coefficient: 100.00% 
+
+X = [@amazon y’all take Doge yet  #dogecoin]
+X_token = [amazon, take, doge, yet, dogecoin]
+	X tweet_count = [22]
+	X username = [Amber Harrison]
+Y = [@hulu @hbomax y’all take Doge yet?!  #dogecoin]
+Y_token = [hulu, hbomax, take, doge, yet, dogecoin]
+	Y tweet_count = [28]
+	Y username = [Amber Harrison]
+Total Length: X = 38, Y = 46 (Y / X = 121.05  X / Y = 82.61)
+Dice Coefficient: 72.73% 
+

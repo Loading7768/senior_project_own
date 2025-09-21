@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@moooncalls To the moon \n\n@dogecoin 🚀🚀🚀",
+        "X_token": "moooncalls, moon, dogecoin",
+        "X_tweet_count": 22,
+        "X_username": "Derian",
+        "Y_text": "@moooncalls @dogecoin to the moon",
+        "Y_token": "moooncalls, dogecoin, moon",
+        "Y_tweet_count": 26,
+        "Y_username": "Derian",
+        "X_length": 39,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 84.62,
+        "X_length_percent_of_Y": 118.18,
+        "dice_coefficient": 100.0
+    }
+]

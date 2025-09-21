@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@davidgokhshtein What you think about this??? https://t.co/4X0cR6ZPVM",
+        "X_token": "davidgokhshtein, think, https",
+        "X_tweet_count": 40,
+        "X_username": "Dogecoin Belgique🐕 🇧🇪",
+        "Y_text": "@davidgokhshtein Hı David, what you think about this???? https://t.co/bwdLFKE2YA",
+        "Y_token": "davidgokhshtein, hı, david, think, https",
+        "Y_tweet_count": 42,
+        "Y_username": "Dogecoin Belgique🐕 🇧🇪",
+        "X_length": 69,
+        "Y_length": 80,
+        "Y_length_percent_of_X": 115.94,
+        "X_length_percent_of_Y": 86.25,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@davidgokhshtein Yess we love Shiba dogs https://t.co/UrOzRW1oCC",
+        "X_token": "davidgokhshtein, yess, love, shiba, dogs, https",
+        "X_tweet_count": 44,
+        "X_username": "Dogecoin Belgique🐕 🇧🇪",
+        "Y_text": "@davidgokhshtein Yes we love a lot Shiba dogs. https://t.co/ZTJiJ4kkJc",
+        "Y_token": "davidgokhshtein, yes, love, lot, shiba, dogs, https",
+        "Y_tweet_count": 45,
+        "Y_username": "Dogecoin Belgique🐕 🇧🇪",
+        "X_length": 64,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 109.38,
+        "X_length_percent_of_Y": 91.43,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "@Shibtoken Scammers https://t.co/JA4oGl0Cxk",
+        "X_token": "shibtoken, scammers, https",
+        "X_tweet_count": 55,
+        "X_username": "Dogecoin Belgique🐕 🇧🇪",
+        "Y_text": "@latokens @Shibtoken Scammers https://t.co/Yc4JUA8UQg",
+        "Y_token": "latokens, shibtoken, scammers, https",
+        "Y_tweet_count": 59,
+        "Y_username": "Dogecoin Belgique🐕 🇧🇪",
+        "X_length": 43,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 123.26,
+        "X_length_percent_of_Y": 81.13,
+        "dice_coefficient": 85.71
+    }
+]

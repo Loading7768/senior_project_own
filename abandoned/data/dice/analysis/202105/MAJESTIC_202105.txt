@@ -1,0 +1,11 @@
+﻿X = [after $doge it’s $shib]
+X_token = [doge, shib]
+	X tweet_count = [15]
+	X username = [MAJESTIC]
+Y = [if $doge flies, $shib flies]
+Y_token = [doge, flies, shib, flies]
+	Y tweet_count = [18]
+	Y username = [MAJESTIC]
+Total Length: X = 22, Y = 27 (Y / X = 122.73  X / Y = 81.48)
+Dice Coefficient: 80.00% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#BinanceCoin #dogecoin is coming for you. https://t.co/oVNJTy7gAZ",
+        "X_token": "binancecoin, dogecoin, coming, https",
+        "X_tweet_count": 7,
+        "X_username": "Mubin Pathan",
+        "Y_text": "#BinanceCoin You're next!!!\n\n#dogecoin https://t.co/RqFtCr4HHK",
+        "Y_token": "binancecoin, next, dogecoin, https",
+        "Y_tweet_count": 10,
+        "Y_username": "Mubin Pathan",
+        "X_length": 65,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 95.38,
+        "X_length_percent_of_Y": 104.84,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Lets go!!!! (ToTheMoon) #dogecoin",
+        "X_token": "lets, go, tothemoon, dogecoin",
+        "X_tweet_count": 8,
+        "X_username": "Mubin Pathan",
+        "Y_text": "#dogecoin Lets go to the moon!!!",
+        "Y_token": "dogecoin, lets, go, moon",
+        "Y_tweet_count": 16,
+        "Y_username": "Mubin Pathan",
+        "X_length": 33,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 96.97,
+        "X_length_percent_of_Y": 103.12,
+        "dice_coefficient": 75.0
+    }
+]

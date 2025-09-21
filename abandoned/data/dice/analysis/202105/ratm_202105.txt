@@ -1,0 +1,88 @@
+﻿X = [@PetSmart Any plans on taking #dogecoin as online payment?]
+X_token = [petsmart, plans, taking, dogecoin, online, payment]
+	X tweet_count = [1]
+	X username = [ratm]
+Y = [@Petco Any plans on taking #dogecoin as payment?]
+Y_token = [petco, plans, taking, dogecoin, payment]
+	Y tweet_count = [2]
+	Y username = [ratm]
+Total Length: X = 58, Y = 48 (Y / X = 82.76  X / Y = 120.83)
+Dice Coefficient: 72.73% 
+
+X = [@PetSmart Any plans on taking #dogecoin as online payment?]
+X_token = [petsmart, plans, taking, dogecoin, online, payment]
+	X tweet_count = [1]
+	X username = [ratm]
+Y = [#dogecoin @Chewy Any plans on taking #dogecoin as payment?]
+Y_token = [dogecoin, chewy, plans, taking, dogecoin, payment]
+	Y tweet_count = [3]
+	Y username = [ratm]
+Total Length: X = 58, Y = 58 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 72.73% 
+
+X = [@Petco Any plans on taking #dogecoin as payment?]
+X_token = [petco, plans, taking, dogecoin, payment]
+	X tweet_count = [2]
+	X username = [ratm]
+Y = [#dogecoin @Chewy Any plans on taking #dogecoin as payment?]
+Y_token = [dogecoin, chewy, plans, taking, dogecoin, payment]
+	Y tweet_count = [3]
+	Y username = [ratm]
+Total Length: X = 48, Y = 58 (Y / X = 120.83  X / Y = 82.76)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin @Chewy Any plans on taking #dogecoin as payment?]
+X_token = [dogecoin, chewy, plans, taking, dogecoin, payment]
+	X tweet_count = [3]
+	X username = [ratm]
+Y = [@CaesarsPalace Any plans for possibly taking #dogecoin as payment?]
+Y_token = [caesarspalace, plans, possibly, taking, dogecoin, payment]
+	Y tweet_count = [11]
+	Y username = [ratm]
+Total Length: X = 58, Y = 66 (Y / X = 113.79  X / Y = 87.88)
+Dice Coefficient: 72.73% 
+
+X = [@MandalayBay Any plans for allowing #dogecoin as payment?]
+X_token = [mandalaybay, plans, allowing, dogecoin, payment]
+	X tweet_count = [5]
+	X username = [ratm]
+Y = [@WynnLasVegas Any plans for allowing #dogecoin as payment.]
+Y_token = [wynnlasvegas, plans, allowing, dogecoin, payment]
+	Y tweet_count = [6]
+	Y username = [ratm]
+Total Length: X = 57, Y = 58 (Y / X = 101.75  X / Y = 98.28)
+Dice Coefficient: 80.00% 
+
+X = [@MandalayBay Any plans for allowing #dogecoin as payment?]
+X_token = [mandalaybay, plans, allowing, dogecoin, payment]
+	X tweet_count = [5]
+	X username = [ratm]
+Y = [@Bellagio Any plans for allowing #dogecoin as payment.]
+Y_token = [bellagio, plans, allowing, dogecoin, payment]
+	Y tweet_count = [7]
+	Y username = [ratm]
+Total Length: X = 57, Y = 54 (Y / X = 94.74  X / Y = 105.56)
+Dice Coefficient: 80.00% 
+
+X = [@WynnLasVegas Any plans for allowing #dogecoin as payment.]
+X_token = [wynnlasvegas, plans, allowing, dogecoin, payment]
+	X tweet_count = [6]
+	X username = [ratm]
+Y = [@Bellagio Any plans for allowing #dogecoin as payment.]
+Y_token = [bellagio, plans, allowing, dogecoin, payment]
+	Y tweet_count = [7]
+	Y username = [ratm]
+Total Length: X = 58, Y = 54 (Y / X = 93.10  X / Y = 107.41)
+Dice Coefficient: 80.00% 
+
+X = [@LAClippers Any idea if the #ClipperNation will start taking #dogecoin for merchandise?]
+X_token = [laclippers, idea, clippernation, start, taking, dogecoin, merchandise]
+	X tweet_count = [14]
+	X username = [ratm]
+Y = [@Dodgers Any idea if the #Dodgers will start taking #dogecoin for tickets or merchandise?]
+Y_token = [dodgers, idea, dodgers, start, taking, dogecoin, tickets, merchandise]
+	Y tweet_count = [16]
+	Y username = [ratm]
+Total Length: X = 87, Y = 89 (Y / X = 102.30  X / Y = 97.75)
+Dice Coefficient: 71.43% 
+

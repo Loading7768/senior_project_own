@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@iAnonPatriot Happy black history month",
+        "X_token": "ianonpatriot, happy, black, history, month",
+        "X_tweet_count": 92,
+        "X_username": "🃏DogecoinFool🃏",
+        "Y_text": "@EndWokeness Happy black History month! 🎉",
+        "Y_token": "endwokeness, happy, black, history, month",
+        "Y_tweet_count": 113,
+        "Y_username": "🃏DogecoinFool🃏",
+        "X_length": 39,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 105.13,
+        "X_length_percent_of_Y": 95.12,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@catturd2 Democrats steal $60 million and get fired...\nYou steal $60 and go to prison.\n\nSee the difference?",
+        "X_token": "catturd2, democrats, steal, 60, million, get, fired, steal, 60, go, prison, see, difference",
+        "X_tweet_count": 376,
+        "X_username": "🃏DogecoinFool🃏",
+        "Y_text": "@EndWokeness democrats steal $60 million and get fired. You steal $60 dollars and go to prison.\n\nSee the difference?",
+        "Y_token": "endwokeness, democrats, steal, 60, million, get, fired, steal, 60, dollars, go, prison, see, difference",
+        "Y_tweet_count": 379,
+        "Y_username": "🃏DogecoinFool🃏",
+        "X_length": 107,
+        "Y_length": 116,
+        "Y_length_percent_of_X": 108.41,
+        "X_length_percent_of_Y": 92.24,
+        "dice_coefficient": 86.96
+    }
+]

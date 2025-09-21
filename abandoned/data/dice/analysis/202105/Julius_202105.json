@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#Dogecoin is the FUTURE\n\n#dogetothemoon #dogecoin #doge #dogearmy",
+        "X_token": "dogecoin, future, dogetothemoon, dogecoin, doge, dogearmy",
+        "X_tweet_count": 1,
+        "X_username": "Julius",
+        "Y_text": "Where’s my #dogefamily at? \n\n#dogecoin #doge #dogearmy #dogetothemoon",
+        "Y_token": "dogefamily, dogecoin, doge, dogearmy, dogetothemoon",
+        "Y_tweet_count": 60,
+        "Y_username": "Julius",
+        "X_length": 65,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 106.15,
+        "X_length_percent_of_Y": 94.2,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Who else is going to watch the SNL tonight? \n\n#elonmusk #dogecoin #bitcoin #doge #snl #SNLdoge",
+        "X_token": "else, going, watch, snl, tonight, elonmusk, dogecoin, bitcoin, doge, snl, snldoge",
+        "X_tweet_count": 21,
+        "X_username": "Julius",
+        "Y_text": "Is DogeCoin going to hit $1 tonight? \n\n#doge #dogecoin #bitcoin #SNLdoge #snl #elonmusk https://t.co/cGVrmaIxkQ",
+        "Y_token": "dogecoin, going, hit, 1, tonight, doge, dogecoin, bitcoin, snldoge, snl, elonmusk, https",
+        "Y_tweet_count": 22,
+        "Y_username": "Julius",
+        "X_length": 94,
+        "Y_length": 111,
+        "Y_length_percent_of_X": 118.09,
+        "X_length_percent_of_Y": 84.68,
+        "dice_coefficient": 76.19
+    }
+]

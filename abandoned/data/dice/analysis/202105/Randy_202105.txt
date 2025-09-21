@@ -1,0 +1,77 @@
+﻿X = [@elonmusk The dogefather plays poker with dogecoin and defeats bitcoin bet.]
+X_token = [elonmusk, dogefather, plays, poker, dogecoin, defeats, bitcoin, bet]
+	X tweet_count = [3]
+	X username = [Randy]
+Y = [@elonmusk The dogefather plays poker with dogecoin and wins against 1 bitcoin]
+Y_token = [elonmusk, dogefather, plays, poker, dogecoin, wins, 1, bitcoin]
+	Y tweet_count = [4]
+	Y username = [Randy]
+Total Length: X = 75, Y = 77 (Y / X = 102.67  X / Y = 97.40)
+Dice Coefficient: 75.00% 
+
+X = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀#markcuban]
+X_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon, markcuban]
+	X tweet_count = [27]
+	X username = [Randy]
+Y = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀 https://t.co/Ev5gDgNFgR]
+Y_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon, https]
+	Y tweet_count = [28]
+	Y username = [Randy]
+Total Length: X = 188, Y = 202 (Y / X = 107.45  X / Y = 93.07)
+Dice Coefficient: 94.12% 
+
+X = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀#markcuban]
+X_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon, markcuban]
+	X tweet_count = [27]
+	X username = [Randy]
+Y = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀]
+Y_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon]
+	Y tweet_count = [29]
+	Y username = [Randy]
+Total Length: X = 188, Y = 178 (Y / X = 94.68  X / Y = 105.62)
+Dice Coefficient: 96.97% 
+
+X = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀#markcuban]
+X_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon, markcuban]
+	X tweet_count = [27]
+	X username = [Randy]
+Y = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀]
+Y_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon]
+	Y tweet_count = [30]
+	Y username = [Randy]
+Total Length: X = 188, Y = 178 (Y / X = 94.68  X / Y = 105.62)
+Dice Coefficient: 96.97% 
+
+X = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀 https://t.co/Ev5gDgNFgR]
+X_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon, https]
+	X tweet_count = [28]
+	X username = [Randy]
+Y = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀]
+Y_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon]
+	Y tweet_count = [29]
+	Y username = [Randy]
+Total Length: X = 202, Y = 178 (Y / X = 88.12  X / Y = 113.48)
+Dice Coefficient: 96.97% 
+
+X = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀 https://t.co/Ev5gDgNFgR]
+X_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon, https]
+	X tweet_count = [28]
+	X username = [Randy]
+Y = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀]
+Y_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon]
+	Y tweet_count = [30]
+	Y username = [Randy]
+Total Length: X = 202, Y = 178 (Y / X = 88.12  X / Y = 113.48)
+Dice Coefficient: 96.97% 
+
+X = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀]
+X_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon]
+	X tweet_count = [29]
+	X username = [Randy]
+Y = [Let’s go am buying a #tesla with my #dogecoin  if is the last thing I do we love #ElonMusk #SpaceX #dogetothemoon #China #usa #DogeCoinTo1Dollar #DogeArmyStrong #Amazon is next🐕🚀]
+Y_token = [let, go, buying, tesla, dogecoin, last, thing, love, elonmusk, spacex, dogetothemoon, china, usa, dogecointo1dollar, dogearmystrong, amazon]
+	Y tweet_count = [30]
+	Y username = [Randy]
+Total Length: X = 178, Y = 178 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

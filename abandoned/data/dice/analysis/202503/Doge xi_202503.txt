@@ -1,0 +1,44 @@
+﻿X = [@cb_doge Dogecoin is an expression of democracy.]
+X_token = [dogecoin, expression, democracy]
+	X tweet_count = [6]
+	X username = [Doge xi]
+Y = [Dogecoin is an expression of democracy.]
+Y_token = [dogecoin, expression, democracy]
+	Y tweet_count = [8]
+	Y username = [Doge xi]
+Total Length: X = 48, Y = 39 (Y / X = 81.25  X / Y = 123.08)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge Dogecoin is an expression of democracy.]
+X_token = [dogecoin, expression, democracy]
+	X tweet_count = [6]
+	X username = [Doge xi]
+Y = [@elonmusk Dogecoin is an expression of democracy.]
+Y_token = [elonmusk, dogecoin, expression, democracy]
+	Y tweet_count = [9]
+	Y username = [Doge xi]
+Total Length: X = 48, Y = 49 (Y / X = 102.08  X / Y = 97.96)
+Dice Coefficient: 85.71% 
+
+X = [@TOPDOGE007 Dogecoin is not a strategic reserve, Dogecoin is the people's currency.]
+X_token = [topdoge007, dogecoin, strategic, reserve, dogecoin, people, currency]
+	X tweet_count = [13]
+	X username = [Doge xi]
+Y = [Dogecoin is not a strategic reserve, Dogecoin is the people's currency.]
+Y_token = [dogecoin, strategic, reserve, dogecoin, people, currency]
+	Y tweet_count = [14]
+	Y username = [Doge xi]
+Total Length: X = 83, Y = 71 (Y / X = 85.54  X / Y = 116.90)
+Dice Coefficient: 90.91% 
+
+X = [Will you be paid in Dogecoin?]
+X_token = [paid, dogecoin]
+	X tweet_count = [21]
+	X username = [Doge xi]
+Y = [@cb_doge Paid with Dogecoin?]
+Y_token = [paid, dogecoin]
+	Y tweet_count = [24]
+	Y username = [Doge xi]
+Total Length: X = 29, Y = 28 (Y / X = 96.55  X / Y = 103.57)
+Dice Coefficient: 100.00% 
+

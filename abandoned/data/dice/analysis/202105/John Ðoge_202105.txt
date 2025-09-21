@@ -1,0 +1,22 @@
+﻿X = [Houston rockets , Dallas Mavericks , Oakland A’s all accept Ðoge that’s crazy! #doge #dogecoins #elonmusk]
+X_token = [houston, rockets, dallas, mavericks, oakland, accept, ðoge, crazy, doge, dogecoins, elonmusk]
+	X tweet_count = [45]
+	X username = [John Ðoge]
+Y = [Houston rockets , Dallas Mavericks , Oakland A’s all accept Ðoge that’s crazy! #DogecoinToTheMoon #DogecoinRise #dogearmy #doge]
+Y_token = [houston, rockets, dallas, mavericks, oakland, accept, ðoge, crazy, dogecointothemoon, dogecoinrise, dogearmy, doge]
+	Y tweet_count = [46]
+	Y username = [John Ðoge]
+Total Length: X = 105, Y = 127 (Y / X = 120.95  X / Y = 82.68)
+Dice Coefficient: 78.26% 
+
+X = [📍Atlantic City 🥳 October, 2019 right before Covid 😷 #liveyourbestlife #travel @ Atlantic City Beach and Boardwalk https://t.co/sp67axYQn6]
+X_token = [city, october, 2019, right, covid, liveyourbestlife, travel, atlantic, city, beach, boardwalk, https]
+	X tweet_count = [170]
+	X username = [John Ðoge]
+Y = [📍Atlantic City 🥳 October, 2019 right before Covid 😷 #liveyourbestlife #travel @ Atlantic City Beach and Boardwalk https://t.co/A4yrgEznrv]
+Y_token = [city, october, 2019, right, covid, liveyourbestlife, travel, atlantic, city, beach, boardwalk, https]
+	Y tweet_count = [171]
+	Y username = [John Ðoge]
+Total Length: X = 137, Y = 137 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,22 @@
+﻿X = [@DailyCaller Time to buy #dogecoin!!  Get in now and hold! Two years from now you will be happy happy!]
+X_token = [dailycaller, time, buy, dogecoin, get, hold, two, years, happy, happy]
+	X tweet_count = [8]
+	X username = [al bodden]
+Y = [@DonaldJTrumpJr #dogecoin is not!  Time to buy and HOLD!  Two years from now you wil be happy happy]
+Y_token = [donaldjtrumpjr, dogecoin, time, buy, hold, two, years, wil, happy, happy]
+	Y tweet_count = [11]
+	Y username = [al bodden]
+Total Length: X = 102, Y = 99 (Y / X = 97.06  X / Y = 103.03)
+Dice Coefficient: 77.78% 
+
+X = [@dogecoin_rise Hold!]
+X_token = [hold]
+	X tweet_count = [20]
+	X username = [al bodden]
+Y = [@dogecoin_rise Hold it!]
+Y_token = [hold]
+	Y tweet_count = [28]
+	Y username = [al bodden]
+Total Length: X = 20, Y = 23 (Y / X = 115.00  X / Y = 86.96)
+Dice Coefficient: 100.00% 
+

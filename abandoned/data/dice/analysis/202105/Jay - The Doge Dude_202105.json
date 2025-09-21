@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "I love my #dogecoin family. That is all. #dogearmy",
+        "X_token": "love, dogecoin, family, dogearmy",
+        "X_tweet_count": 1,
+        "X_username": "Jay - The Doge Dude",
+        "Y_text": "I love my #DOGEFAMILY! That is all! #dogecoin #dogearmy",
+        "Y_token": "love, dogefamily, dogecoin, dogearmy",
+        "Y_tweet_count": 41,
+        "Y_username": "Jay - The Doge Dude",
+        "X_length": 50,
+        "Y_length": 55,
+        "Y_length_percent_of_X": 110.0,
+        "X_length_percent_of_Y": 90.91,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "We about to hit 40 cents, get ready! #dogecoin #DogecoinRise #dogearmy",
+        "X_token": "hit, 40, cents, get, ready, dogecoin, dogecoinrise, dogearmy",
+        "X_tweet_count": 2,
+        "X_username": "Jay - The Doge Dude",
+        "Y_text": "Get ready! 40 cents in coming! #dogecoin #dogearmy https://t.co/1kcFlUCd2U",
+        "Y_token": "get, ready, 40, cents, coming, dogecoin, dogearmy, https",
+        "Y_tweet_count": 3,
+        "Y_username": "Jay - The Doge Dude",
+        "X_length": 70,
+        "Y_length": 74,
+        "Y_length_percent_of_X": 105.71,
+        "X_length_percent_of_Y": 94.59,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Alright #dogearmy who is ready for our nightly rally? #dogecoin #DogecoinRise",
+        "X_token": "alright, dogearmy, ready, nightly, rally, dogecoin, dogecoinrise",
+        "X_tweet_count": 23,
+        "X_username": "Jay - The Doge Dude",
+        "Y_text": "And now for the nightly #dogecoin rally! 🚀🤑🚀🤑 #dogearmy #DogecoinRise",
+        "Y_token": "nightly, dogecoin, rally, dogearmy, dogecoinrise",
+        "Y_tweet_count": 30,
+        "Y_username": "Jay - The Doge Dude",
+        "X_length": 77,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 89.61,
+        "X_length_percent_of_Y": 111.59,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "It's Friday, can we get a Rally? #dogecoin #dogearmy https://t.co/KtMASLSfxm",
+        "X_token": "friday, get, rally, dogecoin, dogearmy, https",
+        "X_tweet_count": 98,
+        "X_username": "Jay - The Doge Dude",
+        "Y_text": "Can we get a #dogecoin rally this weekend please! #dogearmy #dogefam https://t.co/eqDlDQkYa2",
+        "Y_token": "get, dogecoin, rally, weekend, please, dogearmy, dogefam, https",
+        "Y_tweet_count": 102,
+        "Y_username": "Jay - The Doge Dude",
+        "X_length": 76,
+        "Y_length": 92,
+        "Y_length_percent_of_X": 121.05,
+        "X_length_percent_of_Y": 82.61,
+        "dice_coefficient": 71.43
+    }
+]

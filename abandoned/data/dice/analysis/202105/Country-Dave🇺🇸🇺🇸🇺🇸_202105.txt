@@ -1,0 +1,22 @@
+﻿X = [To The Moon #dogecoin https://t.co/OvYFf1P9jX]
+X_token = [moon, dogecoin, https]
+	X tweet_count = [4]
+	X username = [Country-Dave🇺🇸🇺🇸🇺🇸]
+Y = [#dogecoin To the moon!!! https://t.co/LyMtM9KAQQ]
+Y_token = [dogecoin, moon, https]
+	Y tweet_count = [9]
+	Y username = [Country-Dave🇺🇸🇺🇸🇺🇸]
+Total Length: X = 45, Y = 48 (Y / X = 106.67  X / Y = 93.75)
+Dice Coefficient: 100.00% 
+
+X = [To The Moon #dogecoin #ToTheMoon #DogeCoinTo1Dollar https://t.co/p0ALwYqT5D]
+X_token = [moon, dogecoin, tothemoon, dogecointo1dollar, https]
+	X tweet_count = [6]
+	X username = [Country-Dave🇺🇸🇺🇸🇺🇸]
+Y = [To the moon #dogecoin #dogearmy #DogeCoinTo1Dollar https://t.co/fyCZjMgh7q]
+Y_token = [moon, dogecoin, dogearmy, dogecointo1dollar, https]
+	Y tweet_count = [7]
+	Y username = [Country-Dave🇺🇸🇺🇸🇺🇸]
+Total Length: X = 75, Y = 74 (Y / X = 98.67  X / Y = 101.35)
+Dice Coefficient: 80.00% 
+

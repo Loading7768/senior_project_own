@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@DailyDogeUpdate how can one in Nigeria get dogecoin",
+        "X_token": "dailydogeupdate, one, nigeria, get, dogecoin",
+        "X_tweet_count": 1,
+        "X_username": "JoKadir",
+        "Y_text": "@OGBISHCOIN how can one in Nigeria get dogecoin",
+        "Y_token": "ogbishcoin, one, nigeria, get, dogecoin",
+        "Y_tweet_count": 2,
+        "Y_username": "JoKadir",
+        "X_length": 52,
+        "Y_length": 47,
+        "Y_length_percent_of_X": 90.38,
+        "X_length_percent_of_Y": 110.64,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@DailyDogeUpdate how can one in Nigeria get dogecoin",
+        "X_token": "dailydogeupdate, one, nigeria, get, dogecoin",
+        "X_tweet_count": 1,
+        "X_username": "JoKadir",
+        "Y_text": "@TheCryptoRise how can one in Nigeria get dogecoin",
+        "Y_token": "thecryptorise, one, nigeria, get, dogecoin",
+        "Y_tweet_count": 3,
+        "Y_username": "JoKadir",
+        "X_length": 52,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 96.15,
+        "X_length_percent_of_Y": 104.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@OGBISHCOIN how can one in Nigeria get dogecoin",
+        "X_token": "ogbishcoin, one, nigeria, get, dogecoin",
+        "X_tweet_count": 2,
+        "X_username": "JoKadir",
+        "Y_text": "@TheCryptoRise how can one in Nigeria get dogecoin",
+        "Y_token": "thecryptorise, one, nigeria, get, dogecoin",
+        "Y_tweet_count": 3,
+        "Y_username": "JoKadir",
+        "X_length": 47,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 106.38,
+        "X_length_percent_of_Y": 94.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@AlexTum18 @DogecoinRise how does one mine or buy dogecoin",
+        "X_token": "alextum18, dogecoinrise, one, mine, buy, dogecoin",
+        "X_tweet_count": 4,
+        "X_username": "JoKadir",
+        "Y_text": "@Hateful_N8 @DogecoinRise how can one buy dogecoin in Nigeria",
+        "Y_token": "dogecoinrise, one, buy, dogecoin, nigeria",
+        "Y_tweet_count": 5,
+        "Y_username": "JoKadir",
+        "X_length": 58,
+        "Y_length": 61,
+        "Y_length_percent_of_X": 105.17,
+        "X_length_percent_of_Y": 95.08,
+        "dice_coefficient": 72.73
+    }
+]

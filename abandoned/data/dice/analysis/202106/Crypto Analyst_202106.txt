@@ -1,0 +1,33 @@
+﻿X = [$doge exactly as predicted]
+X_token = [doge, exactly, predicted]
+	X tweet_count = [23]
+	X username = [Crypto Analyst]
+Y = [$doge did exactly as I predicted]
+Y_token = [doge, exactly, predicted]
+	Y tweet_count = [59]
+	Y username = [Crypto Analyst]
+Total Length: X = 26, Y = 32 (Y / X = 123.08  X / Y = 81.25)
+Dice Coefficient: 100.00% 
+
+X = [Alert: $doge is breaking out.... https://t.co/sPcH0pwkBT]
+X_token = [alert, doge, breaking, https]
+	X tweet_count = [27]
+	X username = [Crypto Analyst]
+Y = [$doge breaking out ... https://t.co/c4I82UZsDf]
+Y_token = [doge, breaking, https]
+	Y tweet_count = [41]
+	Y username = [Crypto Analyst]
+Total Length: X = 56, Y = 46 (Y / X = 82.14  X / Y = 121.74)
+Dice Coefficient: 85.71% 
+
+X = [$doge pump coming ... https://t.co/NN4FwY9IrC]
+X_token = [doge, pump, coming, https]
+	X tweet_count = [35]
+	X username = [Crypto Analyst]
+Y = [$doge $.55 coming soon https://t.co/1tOCe1UKNT]
+Y_token = [doge, coming, soon, https]
+	Y tweet_count = [48]
+	Y username = [Crypto Analyst]
+Total Length: X = 45, Y = 46 (Y / X = 102.22  X / Y = 97.83)
+Dice Coefficient: 75.00% 
+

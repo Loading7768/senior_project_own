@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#dogecoin COULD … IT … BE ??? https://t.co/mi7ad7oBQ8",
+        "X_token": "dogecoin, could, https",
+        "X_tweet_count": 1,
+        "X_username": "The Coach 𝕏Đ",
+        "Y_text": "Bullish… 😮😮😮 #dogecoin https://t.co/1Y8Z2Ujs1n",
+        "Y_token": "dogecoin, https",
+        "Y_tweet_count": 3,
+        "Y_username": "The Coach 𝕏Đ",
+        "X_length": 53,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 86.79,
+        "X_length_percent_of_Y": 115.22,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Bullish… 😮😮😮 #dogecoin https://t.co/1Y8Z2Ujs1n",
+        "X_token": "dogecoin, https",
+        "X_tweet_count": 3,
+        "X_username": "The Coach 𝕏Đ",
+        "Y_text": "#dogecoin we are in business... https://t.co/j6tYEnZxOn",
+        "Y_token": "dogecoin, business, https",
+        "Y_tweet_count": 22,
+        "Y_username": "The Coach 𝕏Đ",
+        "X_length": 46,
+        "Y_length": 55,
+        "Y_length_percent_of_X": 119.57,
+        "X_length_percent_of_Y": 83.64,
+        "dice_coefficient": 80.0
+    }
+]

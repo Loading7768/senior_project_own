@@ -1,0 +1,33 @@
+﻿X = [dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [25]
+	X username = [Jordan]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [59]
+	Y username = [Jordan]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@Alex_Hotbit @InuKishu 💎💎Doge Coin Brother💎💎\nKishu 🚀🚀🚀🚀🚀🚀\n#kishu #Dogecoinbrother #ElonMusk #SoftBank https://t.co/Ui9pgtynVb]
+X_token = [inukishu, coin, kishu, kishu, dogecoinbrother, elonmusk, softbank, https]
+	X tweet_count = [66]
+	X username = [Jordan]
+Y = [@BTCTN 💎💎Doge Coin Brother💎💎\nKishu 🚀🚀🚀🚀🚀🚀\n#kishu #Dogecoinbrother #ElonMusk #SoftBank https://t.co/mEzjrnZkeK]
+Y_token = [btctn, coin, kishu, kishu, dogecoinbrother, elonmusk, softbank, https]
+	Y tweet_count = [67]
+	Y username = [Jordan]
+Total Length: X = 125, Y = 109 (Y / X = 87.20  X / Y = 114.68)
+Dice Coefficient: 85.71% 
+
+X = [@BTCTN 💎💎Doge Coin Brother💎💎\nKishu 🚀🚀🚀🚀🚀🚀\n#kishu #Dogecoinbrother #ElonMusk #SoftBank https://t.co/mEzjrnZkeK]
+X_token = [btctn, coin, kishu, kishu, dogecoinbrother, elonmusk, softbank, https]
+	X tweet_count = [67]
+	X username = [Jordan]
+Y = [@latokens 💎💎Doge Coin Brother💎💎\nKishu 🚀🚀🚀🚀🚀🚀\n#kishu #Dogecoinbrother #ElonMusk #SoftBank]
+Y_token = [latokens, coin, kishu, kishu, dogecoinbrother, elonmusk, softbank]
+	Y tweet_count = [68]
+	Y username = [Jordan]
+Total Length: X = 109, Y = 88 (Y / X = 80.73  X / Y = 123.86)
+Dice Coefficient: 76.92% 
+

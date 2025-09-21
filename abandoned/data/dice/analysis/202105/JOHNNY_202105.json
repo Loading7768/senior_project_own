@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@imnice0 @sikobamty @w_dogecoin I meant i bought with my wallet, hope its not a problem.",
+        "X_token": "imnice0, sikobamty, meant, bought, wallet, hope, problem",
+        "X_tweet_count": 6,
+        "X_username": "JOHNNY",
+        "Y_text": "@imnice0 @sikobamty @w_dogecoin But i bought with my wallet, hope its not a problem?",
+        "Y_token": "imnice0, sikobamty, bought, wallet, hope, problem",
+        "Y_tweet_count": 7,
+        "Y_username": "JOHNNY",
+        "X_length": 88,
+        "Y_length": 84,
+        "Y_length_percent_of_X": 95.45,
+        "X_length_percent_of_Y": 104.76,
+        "dice_coefficient": 92.31
+    }
+]

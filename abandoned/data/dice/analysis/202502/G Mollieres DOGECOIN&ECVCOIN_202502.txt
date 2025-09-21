@@ -1,0 +1,22 @@
+﻿X = [@ElonMuskAOC Yes I will]
+X_token = [elonmuskaoc, yes]
+	X tweet_count = [13]
+	X username = [G Mollieres DOGECOIN&ECVCOIN]
+Y = [@ElonMuskAOC Xmail Yes]
+Y_token = [elonmuskaoc, xmail, yes]
+	Y tweet_count = [33]
+	Y username = [G Mollieres DOGECOIN&ECVCOIN]
+Total Length: X = 23, Y = 22 (Y / X = 95.65  X / Y = 104.55)
+Dice Coefficient: 80.00% 
+
+X = [@elonmuskADO C: $5 MILLION CASH]
+X_token = [elonmuskado, c, 5, million, cash]
+	X tweet_count = [23]
+	X username = [G Mollieres DOGECOIN&ECVCOIN]
+Y = [@elonmuskADO C 5 000 000 cash]
+Y_token = [elonmuskado, c, 5, 000, 000, cash]
+	Y tweet_count = [24]
+	Y username = [G Mollieres DOGECOIN&ECVCOIN]
+Total Length: X = 31, Y = 29 (Y / X = 93.55  X / Y = 106.90)
+Dice Coefficient: 80.00% 
+

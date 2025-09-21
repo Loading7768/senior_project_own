@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@elonmusk To the moon 🌕🚀🚀🚀 doge coin the future \nhttps://t.co/IUFMdQHw3x",
+        "X_token": "elonmusk, moon, doge, coin, future, https",
+        "X_tweet_count": 4,
+        "X_username": "lee",
+        "Y_text": "@elonmusk 🚀🚀🚀 doge coin #Dogefather https://t.co/biBGbeHF2S",
+        "Y_token": "elonmusk, doge, coin, dogefather, https",
+        "Y_tweet_count": 8,
+        "Y_username": "lee",
+        "X_length": 72,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 81.94,
+        "X_length_percent_of_Y": 122.03,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "Woow @snickers @elonmusk doge coin to the moon 🚀🚀",
+        "X_token": "woow, snickers, elonmusk, doge, coin, moon",
+        "X_tweet_count": 17,
+        "X_username": "lee",
+        "Y_text": "@elonmusk @dogecoin Doge coin to the moon 🚀🚀🚀",
+        "Y_token": "elonmusk, dogecoin, doge, coin, moon",
+        "Y_tweet_count": 52,
+        "Y_username": "lee",
+        "X_length": 49,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 91.84,
+        "X_length_percent_of_Y": 108.89,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@elonmusk Doge coin is 5,900% better than bitcoin",
+        "X_token": "elonmusk, doge, coin, better, bitcoin",
+        "X_tweet_count": 41,
+        "X_username": "lee",
+        "Y_text": "@elonmusk Doge coin is 5,900 % better than bitcoin",
+        "Y_token": "elonmusk, doge, coin, better, bitcoin",
+        "Y_tweet_count": 42,
+        "Y_username": "lee",
+        "X_length": 49,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 102.04,
+        "X_length_percent_of_Y": 98.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@PeterMcCormack doge coin to the moon 🌕",
+        "X_token": "petermccormack, doge, coin, moon",
+        "X_tweet_count": 48,
+        "X_username": "lee",
+        "Y_text": "@elonmusk Doge coin to the moon 🚀",
+        "Y_token": "elonmusk, doge, coin, moon",
+        "Y_tweet_count": 56,
+        "Y_username": "lee",
+        "X_length": 39,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 84.62,
+        "X_length_percent_of_Y": 118.18,
+        "dice_coefficient": 75.0
+    }
+]

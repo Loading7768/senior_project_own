@@ -1,0 +1,77 @@
+﻿X = [@Grayscale Still no dogecoin. Can't take you guys seriously...]
+X_token = [grayscale, still, dogecoin, ca, take, guys, seriously]
+	X tweet_count = [1]
+	X username = [Trashaccount123]
+Y = [@Grayscale I can't take you seriously... Where's dogecoin?]
+Y_token = [grayscale, ca, take, seriously, dogecoin]
+	Y tweet_count = [2]
+	Y username = [Trashaccount123]
+Total Length: X = 62, Y = 58 (Y / X = 93.55  X / Y = 106.90)
+Dice Coefficient: 83.33% 
+
+X = [@toxic_bitcoin #dogecoin fixes this]
+X_token = [dogecoin, fixes]
+	X tweet_count = [13]
+	X username = [Trashaccount123]
+Y = [@SusanLiTV #dogecoin fixes this]
+Y_token = [susanlitv, dogecoin, fixes]
+	Y tweet_count = [15]
+	Y username = [Trashaccount123]
+Total Length: X = 35, Y = 31 (Y / X = 88.57  X / Y = 112.90)
+Dice Coefficient: 80.00% 
+
+X = [@toxic_bitcoin #dogecoin fixes this]
+X_token = [dogecoin, fixes]
+	X tweet_count = [13]
+	X username = [Trashaccount123]
+Y = [@jchervinsky #dogecoin fixes this]
+Y_token = [jchervinsky, dogecoin, fixes]
+	Y tweet_count = [19]
+	Y username = [Trashaccount123]
+Total Length: X = 35, Y = 33 (Y / X = 94.29  X / Y = 106.06)
+Dice Coefficient: 80.00% 
+
+X = [@toxic_bitcoin #dogecoin fixes this]
+X_token = [dogecoin, fixes]
+	X tweet_count = [13]
+	X username = [Trashaccount123]
+Y = [@vincent13031925 #dogecoin fixes this]
+Y_token = [vincent13031925, dogecoin, fixes]
+	Y tweet_count = [20]
+	Y username = [Trashaccount123]
+Total Length: X = 35, Y = 37 (Y / X = 105.71  X / Y = 94.59)
+Dice Coefficient: 80.00% 
+
+X = [@toxic_bitcoin #dogecoin fixes this]
+X_token = [dogecoin, fixes]
+	X tweet_count = [13]
+	X username = [Trashaccount123]
+Y = [@NeerajKA #Dogecoin fixes this.]
+Y_token = [neerajka, dogecoin, fixes]
+	Y tweet_count = [21]
+	Y username = [Trashaccount123]
+Total Length: X = 35, Y = 31 (Y / X = 88.57  X / Y = 112.90)
+Dice Coefficient: 80.00% 
+
+X = [@toxic_bitcoin #dogecoin fixes this]
+X_token = [dogecoin, fixes]
+	X tweet_count = [13]
+	X username = [Trashaccount123]
+Y = [@LynAldenContact #dogecoin fixes this]
+Y_token = [lynaldencontact, dogecoin, fixes]
+	Y tweet_count = [24]
+	Y username = [Trashaccount123]
+Total Length: X = 35, Y = 37 (Y / X = 105.71  X / Y = 94.59)
+Dice Coefficient: 80.00% 
+
+X = [@toxic_bitcoin #dogecoin fixes this]
+X_token = [dogecoin, fixes]
+	X tweet_count = [13]
+	X username = [Trashaccount123]
+Y = [@JasonPLowery #dogecoin fixes this]
+Y_token = [jasonplowery, dogecoin, fixes]
+	Y tweet_count = [31]
+	Y username = [Trashaccount123]
+Total Length: X = 35, Y = 34 (Y / X = 97.14  X / Y = 102.94)
+Dice Coefficient: 80.00% 
+

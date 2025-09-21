@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "EVERYBODY STAY CALM!!!!!\n\nITS HAPPENING AGAIN!!! \n\nSTAY CALM!!!!!! 🤯😬🚀\n\n#dogecoin #dogearmy",
+        "X_token": "everybody, stay, calm, happening, stay, calm, dogecoin, dogearmy",
+        "X_tweet_count": 15,
+        "X_username": "J U B A",
+        "Y_text": "EVERYBODY STAY FKIN CALM!!!!! 🤔🤔🤔🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀😬😬😬🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 #Dogecoin",
+        "Y_token": "everybody, stay, fkin, calm, dogecoin",
+        "Y_tweet_count": 46,
+        "Y_username": "J U B A",
+        "X_length": 91,
+        "Y_length": 84,
+        "Y_length_percent_of_X": 92.31,
+        "X_length_percent_of_Y": 108.33,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@mcuban @nbatopshot #dogecoin just broke 15 cents @mcuban",
+        "X_token": "mcuban, nbatopshot, dogecoin, broke, 15, cents, mcuban",
+        "X_tweet_count": 48,
+        "X_username": "J U B A",
+        "Y_text": "@cryptoslamio @mcuban #dogecoin just broke 15 cents @mcuban",
+        "Y_token": "cryptoslamio, mcuban, dogecoin, broke, 15, cents, mcuban",
+        "Y_tweet_count": 49,
+        "Y_username": "J U B A",
+        "X_length": 57,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 103.51,
+        "X_length_percent_of_Y": 96.61,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "Update: #Dogecoin 5 PM cst\n\nStill on course! 🌚🚀👏\n\n#DogeDay420 💨💨💨💨 https://t.co/xuN8nKuLVc",
+        "X_token": "update, dogecoin, 5, pm, cst, still, course, dogeday420, https",
+        "X_tweet_count": 67,
+        "X_username": "J U B A",
+        "Y_text": "Update: #Dogecoin 11 a.m cst \n\nWe are still on course. 🙏🚀 https://t.co/tXKjs2V7oQ",
+        "Y_token": "update, dogecoin, 11, cst, still, course, https",
+        "Y_tweet_count": 91,
+        "Y_username": "J U B A",
+        "X_length": 90,
+        "Y_length": 81,
+        "Y_length_percent_of_X": 90.0,
+        "X_length_percent_of_Y": 111.11,
+        "dice_coefficient": 75.0
+    }
+]

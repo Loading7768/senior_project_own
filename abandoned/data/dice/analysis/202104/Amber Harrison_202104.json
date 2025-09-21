@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Doge going up at 4:20pm #dogecoin",
+        "X_token": "doge, going, dogecoin",
+        "X_tweet_count": 8,
+        "X_username": "Amber Harrison",
+        "Y_text": "Doge going up on a Monday #dogecoin",
+        "Y_token": "doge, going, monday, dogecoin",
+        "Y_tweet_count": 42,
+        "Y_username": "Amber Harrison",
+        "X_length": 33,
+        "Y_length": 35,
+        "Y_length_percent_of_X": 106.06,
+        "X_length_percent_of_Y": 94.29,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "Buy that dip!  #dogecoin",
+        "X_token": "buy, dip, dogecoin",
+        "X_tweet_count": 11,
+        "X_username": "Amber Harrison",
+        "Y_text": "Buy the dip!! #dogecoin",
+        "Y_token": "buy, dip, dogecoin",
+        "Y_tweet_count": 15,
+        "Y_username": "Amber Harrison",
+        "X_length": 24,
+        "Y_length": 23,
+        "Y_length_percent_of_X": 95.83,
+        "X_length_percent_of_Y": 104.35,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@amazon y’all take Doge yet  #dogecoin",
+        "X_token": "amazon, take, doge, yet, dogecoin",
+        "X_tweet_count": 22,
+        "X_username": "Amber Harrison",
+        "Y_text": "@hulu @hbomax y’all take Doge yet?!  #dogecoin",
+        "Y_token": "hulu, hbomax, take, doge, yet, dogecoin",
+        "Y_tweet_count": 28,
+        "Y_username": "Amber Harrison",
+        "X_length": 38,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 121.05,
+        "X_length_percent_of_Y": 82.61,
+        "dice_coefficient": 72.73
+    }
+]

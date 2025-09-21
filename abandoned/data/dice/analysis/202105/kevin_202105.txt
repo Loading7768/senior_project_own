@@ -1,0 +1,33 @@
+﻿X = [Moon 🚀🚀 #dogecoin]
+X_token = [moon, dogecoin]
+	X tweet_count = [5]
+	X username = [Kevin]
+Y = [Moon 🚀🚀 #dogecoin]
+Y_token = [moon, dogecoin]
+	Y tweet_count = [12]
+	Y username = [Kevin]
+Total Length: X = 17, Y = 17 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Talk about dogecoin]
+X_token = [elonmusk, talk, dogecoin]
+	X tweet_count = [33]
+	X username = [Kevin]
+Y = [@elonmusk How about Dogecoin ?]
+Y_token = [elonmusk, dogecoin]
+	Y tweet_count = [151]
+	Y username = [Kevin]
+Total Length: X = 29, Y = 30 (Y / X = 103.45  X / Y = 96.67)
+Dice Coefficient: 80.00% 
+
+X = [dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [133]
+	X username = [Kevin]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [135]
+	Y username = [Kevin]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

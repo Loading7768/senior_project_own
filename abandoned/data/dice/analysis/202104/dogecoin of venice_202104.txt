@@ -1,0 +1,11 @@
+﻿X = [*whispers* abolish the senate]
+X_token = [whispers, abolish, senate]
+	X tweet_count = [123]
+	X username = [dogecoin of venice]
+Y = [Once again \nAbolish the senate]
+Y_token = [abolish, senate]
+	Y tweet_count = [182]
+	Y username = [dogecoin of venice]
+Total Length: X = 29, Y = 30 (Y / X = 103.45  X / Y = 96.67)
+Dice Coefficient: 80.00% 
+

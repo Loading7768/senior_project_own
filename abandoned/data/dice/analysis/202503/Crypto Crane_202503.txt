@@ -1,0 +1,44 @@
+﻿X = [@AmericaPapaBear Found one @IfindRetards]
+X_token = [americapapabear, found, one, ifindretards]
+	X tweet_count = [77]
+	X username = [Crypto Crane]
+Y = [@charliekirk11 Found one @IfindRetards]
+Y_token = [charliekirk11, found, one, ifindretards]
+	Y tweet_count = [86]
+	Y username = [Crypto Crane]
+Total Length: X = 40, Y = 38 (Y / X = 95.00  X / Y = 105.26)
+Dice Coefficient: 75.00% 
+
+X = [@AmericaPapaBear Found one @IfindRetards]
+X_token = [americapapabear, found, one, ifindretards]
+	X tweet_count = [77]
+	X username = [Crypto Crane]
+Y = [@AmericaPapaBear Found one @IfindRetards]
+Y_token = [americapapabear, found, one, ifindretards]
+	Y tweet_count = [87]
+	Y username = [Crypto Crane]
+Total Length: X = 40, Y = 40 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@charliekirk11 Found one @IfindRetards]
+X_token = [charliekirk11, found, one, ifindretards]
+	X tweet_count = [86]
+	X username = [Crypto Crane]
+Y = [@AmericaPapaBear Found one @IfindRetards]
+Y_token = [americapapabear, found, one, ifindretards]
+	Y tweet_count = [87]
+	Y username = [Crypto Crane]
+Total Length: X = 38, Y = 40 (Y / X = 105.26  X / Y = 95.00)
+Dice Coefficient: 75.00% 
+
+X = [@cb_doge Good morning #dogefam #dogecoin]
+X_token = [good, morning, dogefam, dogecoin]
+	X tweet_count = [106]
+	X username = [Crypto Crane]
+Y = [@LukaDzin @X Good morning #dogefam #dogecoin]
+Y_token = [lukadzin, x, good, morning, dogefam, dogecoin]
+	Y tweet_count = [107]
+	Y username = [Crypto Crane]
+Total Length: X = 40, Y = 44 (Y / X = 110.00  X / Y = 90.91)
+Dice Coefficient: 80.00% 
+

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Awesome!!!!!   #dogecoin #doge #DogeDay420",
+        "X_token": "awesome, dogecoin, doge, dogeday420",
+        "X_tweet_count": 34,
+        "X_username": "Jcoop720",
+        "Y_text": "@codetrader93 I did #DogeDay420 #dogecoin #doge",
+        "Y_token": "codetrader93, dogeday420, dogecoin, doge",
+        "Y_tweet_count": 65,
+        "Y_username": "Jcoop720",
+        "X_length": 42,
+        "Y_length": 47,
+        "Y_length_percent_of_X": 111.9,
+        "X_length_percent_of_Y": 89.36,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "The best 🖕 \n#dogecoin #doge #Crypto #DogeDay420",
+        "X_token": "best, dogecoin, doge, crypto, dogeday420",
+        "X_tweet_count": 44,
+        "X_username": "Jcoop720",
+        "Y_text": "Growing!!!!! \n#DogeDay420 #dogecoin #doge #BTC #Crypto",
+        "Y_token": "growing, dogeday420, dogecoin, doge, btc, crypto",
+        "Y_tweet_count": 48,
+        "Y_username": "Jcoop720",
+        "X_length": 47,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 114.89,
+        "X_length_percent_of_Y": 87.04,
+        "dice_coefficient": 72.73
+    }
+]

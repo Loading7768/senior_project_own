@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "We’re above 50c! #dogecoin 🚀",
+        "X_token": "50c, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Steakoshi Nakamoto",
+        "Y_text": "Back above 50c! #dogecoin",
+        "Y_token": "back, 50c, dogecoin",
+        "Y_tweet_count": 22,
+        "Y_username": "Steakoshi Nakamoto",
+        "X_length": 28,
+        "Y_length": 25,
+        "Y_length_percent_of_X": 89.29,
+        "X_length_percent_of_Y": 112.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": ".75 let’s go #dogecoin",
+        "X_token": "let, go, dogecoin",
+        "X_tweet_count": 13,
+        "X_username": "Steakoshi Nakamoto",
+        "Y_text": "Let’s go 🚀 #dogecoin",
+        "Y_token": "let, go, dogecoin",
+        "Y_tweet_count": 49,
+        "Y_username": "Steakoshi Nakamoto",
+        "X_length": 22,
+        "Y_length": 20,
+        "Y_length_percent_of_X": 90.91,
+        "X_length_percent_of_Y": 110.0,
+        "dice_coefficient": 100.0
+    }
+]

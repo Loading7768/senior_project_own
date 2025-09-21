@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "$1 #DogeCoin\n$100K #bitcoinprice \n$2K #Eth #Ethereum\n.\nHow investors are looking at the cryptocurrency space in 2021 https://t.co/Y0LhGrJXWU via @Yahoo",
+        "X_token": "1, dogecoin, 100k, bitcoinprice, 2k, eth, ethereum, investors, looking, cryptocurrency, space, 2021, https, via, yahoo",
+        "X_tweet_count": 4,
+        "X_username": "BitCoin",
+        "Y_text": "$1 #DogeCoin\n$100K #bitcoinprice \n$2K #Eth #Ethereum\n.\n\nBitfinex launches cryptocurrency payment gateway for merchants https://t.co/KkcoDFWn7K via @Yahoo",
+        "Y_token": "1, dogecoin, 100k, bitcoinprice, 2k, eth, ethereum, bitfinex, launches, cryptocurrency, payment, gateway, merchants, https, via, yahoo",
+        "Y_tweet_count": 7,
+        "Y_username": "BitCoin",
+        "X_length": 151,
+        "Y_length": 153,
+        "Y_length_percent_of_X": 101.32,
+        "X_length_percent_of_Y": 98.69,
+        "dice_coefficient": 70.97
+    },
+    {
+        "X_text": "$1 #DogeCoin\n$100K #bitcoinprice \n$2K #Eth #Ethereum\n.\n\nSuze Orman: 'I love bitcoin' https://t.co/g7gs8vXquN via @Yahoo",
+        "X_token": "1, dogecoin, 100k, bitcoinprice, 2k, eth, ethereum, suze, orman, love, bitcoin, https, via, yahoo",
+        "X_tweet_count": 5,
+        "X_username": "BitCoin",
+        "Y_text": "$1 #DogeCoin\n$100K #BitCoin\n.\nWhy Suze Orman says she 'loves Bitcoin' https://t.co/fi4eDXJtx1 via @Yahoo",
+        "Y_token": "1, dogecoin, 100k, bitcoin, suze, orman, says, bitcoin, https, via, yahoo",
+        "Y_tweet_count": 13,
+        "Y_username": "BitCoin",
+        "X_length": 119,
+        "Y_length": 104,
+        "Y_length_percent_of_X": 87.39,
+        "X_length_percent_of_Y": 114.42,
+        "dice_coefficient": 75.0
+    }
+]

@@ -1,0 +1,33 @@
+﻿X = [#Dogecoin (DOGE) Price Prediction: What Lies Above $0.10?  https://t.co/02zsAQOlsJ]
+X_token = [dogecoin, doge, price, prediction, lies, https]
+	X tweet_count = [4]
+	X username = [Cryptolid.io]
+Y = [#Dogecoin (DOGE) Price Prediction: What Lies Above $0.10? https://t.co/02zsAQOlsJ]
+Y_token = [dogecoin, doge, price, prediction, lies, https]
+	Y tweet_count = [10]
+	Y username = [Cryptolid.io]
+Total Length: X = 82, Y = 81 (Y / X = 98.78  X / Y = 101.23)
+Dice Coefficient: 100.00% 
+
+X = [The #DOGE are out Again. #Dogecoin is up by More Than 18% as Others Follows https://t.co/FXgh3l8T0X]
+X_token = [doge, dogecoin, 18, others, follows, https]
+	X tweet_count = [5]
+	X username = [Cryptolid.io]
+Y = [The DOGE are out Again. #Dogecoin is up by More Than 18% as Others Follows https://t.co/FXgh3l8T0X]
+Y_token = [doge, dogecoin, 18, others, follows, https]
+	Y tweet_count = [11]
+	Y username = [Cryptolid.io]
+Total Length: X = 99, Y = 98 (Y / X = 98.99  X / Y = 101.02)
+Dice Coefficient: 100.00% 
+
+X = [#Dogecoin (DOGE) Scores New Listing on Major Japanese Crypto Exchange https://t.co/kuVz70h7Le]
+X_token = [dogecoin, doge, scores, new, listing, major, japanese, crypto, exchange, https]
+	X tweet_count = [7]
+	X username = [Cryptolid.io]
+Y = [#Dogecoin (DOGE) Rockets 14% Higher After Major Japanese Exchange Listing https://t.co/I0xKwtnNy8]
+Y_token = [dogecoin, doge, rockets, 14, higher, major, japanese, exchange, listing, https]
+	Y tweet_count = [9]
+	Y username = [Cryptolid.io]
+Total Length: X = 93, Y = 97 (Y / X = 104.30  X / Y = 95.88)
+Dice Coefficient: 70.00% 
+

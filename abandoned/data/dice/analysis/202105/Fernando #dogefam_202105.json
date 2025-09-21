@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@abc7newsbayarea Dogecoin will be one of many future currencies",
+        "X_token": "abc7newsbayarea, dogecoin, one, many, future, currencies",
+        "X_tweet_count": 19,
+        "X_username": "Fernando #dogefam",
+        "Y_text": "#dogecoin one of many crypto currencies of our future #AcceptDOGE",
+        "Y_token": "dogecoin, one, many, crypto, currencies, future, acceptdoge",
+        "Y_tweet_count": 40,
+        "Y_username": "Fernando #dogefam",
+        "X_length": 63,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 103.17,
+        "X_length_percent_of_Y": 96.92,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "@BENBALLER #dogecoin  is one of many crypto currencies of our future not worried at all",
+        "X_token": "benballer, dogecoin, one, many, crypto, currencies, future, worried",
+        "X_tweet_count": 33,
+        "X_username": "Fernando #dogefam",
+        "Y_text": "@canadian_rayan @WSBChairman @elonmusk Guy, dogecoin will be one of many crypto currencies of our future",
+        "Y_token": "wsbchairman, elonmusk, guy, dogecoin, one, many, crypto, currencies, future",
+        "Y_tweet_count": 38,
+        "Y_username": "Fernando #dogefam",
+        "X_length": 87,
+        "Y_length": 104,
+        "Y_length_percent_of_X": 119.54,
+        "X_length_percent_of_Y": 83.65,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "@BENBALLER #dogecoin  is one of many crypto currencies of our future not worried at all",
+        "X_token": "benballer, dogecoin, one, many, crypto, currencies, future, worried",
+        "X_tweet_count": 33,
+        "X_username": "Fernando #dogefam",
+        "Y_text": "@elonmusk @dogecoin_devs Elon Dogecoin will be one of many crypto currencies of our future",
+        "Y_token": "elonmusk, elon, dogecoin, one, many, crypto, currencies, future",
+        "Y_tweet_count": 41,
+        "Y_username": "Fernando #dogefam",
+        "X_length": 87,
+        "Y_length": 90,
+        "Y_length_percent_of_X": 103.45,
+        "X_length_percent_of_Y": 96.67,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@canadian_rayan @WSBChairman @elonmusk Guy, dogecoin will be one of many crypto currencies of our future",
+        "X_token": "wsbchairman, elonmusk, guy, dogecoin, one, many, crypto, currencies, future",
+        "X_tweet_count": 38,
+        "X_username": "Fernando #dogefam",
+        "Y_text": "@elonmusk @dogecoin_devs Elon Dogecoin will be one of many crypto currencies of our future",
+        "Y_token": "elonmusk, elon, dogecoin, one, many, crypto, currencies, future",
+        "Y_tweet_count": 41,
+        "Y_username": "Fernando #dogefam",
+        "X_length": 104,
+        "Y_length": 90,
+        "Y_length_percent_of_X": 86.54,
+        "X_length_percent_of_Y": 115.56,
+        "dice_coefficient": 82.35
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Ayo what app do y'all use to buy dogecoin? #dogecoin",
+        "X_token": "ayo, app, use, buy, dogecoin, dogecoin",
+        "X_tweet_count": 12,
+        "X_username": "Z",
+        "Y_text": "@TheSNEAKO ayo what app do y'all use to buy dogecoin?",
+        "Y_token": "thesneako, ayo, app, use, buy, dogecoin",
+        "Y_tweet_count": 13,
+        "Y_username": "Z",
+        "X_length": 52,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 101.92,
+        "X_length_percent_of_Y": 98.11,
+        "dice_coefficient": 90.91
+    },
+    {
+        "X_text": "The #Dogefather has spoken =)\n\n#dogecoin \n#dogearmy \n#DogecoinRise \n#DogecoinToTheMoon",
+        "X_token": "dogefather, spoken, dogecoin, dogearmy, dogecoinrise, dogecointothemoon",
+        "X_tweet_count": 46,
+        "X_username": "Z",
+        "Y_text": "The #Dogefather has spoken again =)\n#dogecoin \n#DogeCoinTo1Dollar \n#DogecoinToTheMoon",
+        "Y_token": "dogefather, spoken, dogecoin, dogecointo1dollar, dogecointothemoon",
+        "Y_tweet_count": 51,
+        "Y_username": "Z",
+        "X_length": 86,
+        "Y_length": 85,
+        "Y_length_percent_of_X": 98.84,
+        "X_length_percent_of_Y": 101.18,
+        "dice_coefficient": 72.73
+    }
+]

@@ -1,0 +1,44 @@
+﻿X = [For your information, $doge is getting pumped by a large trading group. They started pumping #doge last week. On their Discord, they just announced they are going to start dumping #dogecoin in a few days: https://t.co/sa0Bf8jhOA https://t.co/SUvisYhgTh]
+X_token = [information, doge, getting, pumped, large, trading, group, started, pumping, doge, last, week, discord, announced, going, start, dumping, dogecoin, days, https, https]
+	X tweet_count = [1]
+	X username = [mary🍀]
+Y = [For your information, $doge is getting pumped by a large trading group. They started pumping #doge last week. On their Discord, they just announced they are going to start dumping #dogecoin in a few days: https://t.co/sa0Bf8jhOA\n#bitcoin https://t.co/uKBGtHh8K5]
+Y_token = [information, doge, getting, pumped, large, trading, group, started, pumping, doge, last, week, discord, announced, going, start, dumping, dogecoin, days, https, bitcoin, https]
+	Y tweet_count = [4]
+	Y username = [mary🍀]
+Total Length: X = 252, Y = 261 (Y / X = 103.57  X / Y = 96.55)
+Dice Coefficient: 97.44% 
+
+X = [Finally! My portfolio hit 1M today. #SAFEMOON and #dogecoin both mooning because a pump group with 240,000 members are pumping the price. They operate on Discord: https://t.co/sa0Bf8jhOA https://t.co/vq3Dg0yG90]
+X_token = [finally, portfolio, hit, 1m, today, safemoon, dogecoin, mooning, pump, group, members, pumping, price, operate, discord, https, https]
+	X tweet_count = [3]
+	X username = [mary🍀]
+Y = [Woo! Hit 1M today. #SAFEMOON and #dogecoin both mooning because 240,000 people are pumping the price. They operate on Discord: https://t.co/sa0Bf8jhOA https://t.co/DbdFa3MMkO]
+Y_token = [woo, hit, 1m, today, safemoon, dogecoin, mooning, people, pumping, price, operate, discord, https, https]
+	Y tweet_count = [6]
+	Y username = [mary🍀]
+Total Length: X = 210, Y = 174 (Y / X = 82.86  X / Y = 120.69)
+Dice Coefficient: 75.86% 
+
+X = [Just bought #dogecoin because a large trading group just announced they will be pumping $doge soon. Check their announcement on discord: https://t.co/sa0Bf8jhOA https://t.co/uRehCNMccH]
+X_token = [bought, dogecoin, large, trading, group, announced, pumping, doge, soon, check, announcement, discord, https, https]
+	X tweet_count = [7]
+	X username = [mary🍀]
+Y = [Just bought another $500 of $doge on #dogeday because a large trading group just announced they will be pumping #dogecoin on Discord: https://t.co/sa0Bf8jhOA https://t.co/xp5ZFyIORr]
+Y_token = [bought, another, 500, doge, dogeday, large, trading, group, announced, pumping, dogecoin, discord, https, https]
+	Y tweet_count = [9]
+	Y username = [mary🍀]
+Total Length: X = 184, Y = 181 (Y / X = 98.37  X / Y = 101.66)
+Dice Coefficient: 76.92% 
+
+X = [I invested $16k a couple of weeks ago when a large trading group announced they were going to pump $doge. Now during #DogeDay420 #DogeDay #doge420 they announced they will pump they price of #dogecoin again: https://t.co/sa0Bf8jhOA https://t.co/doOuQ0I9zC]
+X_token = [invested, 16k, couple, weeks, ago, large, trading, group, announced, going, pump, doge, dogeday420, dogeday, doge420, announced, pump, price, dogecoin, https, https]
+	X tweet_count = [10]
+	X username = [mary🍀]
+Y = [I invested $16k a couple of weeks ago when a large trading group announced they were going to pump $doge. Now during #DogeDay420 #DogeDay #doge420 they announced they will pump they price of #dogecoin again: https://t.co/sa0Bf8jhOA https://t.co/FSzeJnXUM8]
+Y_token = [invested, 16k, couple, weeks, ago, large, trading, group, announced, going, pump, doge, dogeday420, dogeday, doge420, announced, pump, price, dogecoin, https, https]
+	Y tweet_count = [14]
+	Y username = [mary🍀]
+Total Length: X = 255, Y = 255 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

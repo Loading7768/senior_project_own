@@ -1,0 +1,55 @@
+﻿X = [Global\n\nSky News: Breaking updates from multiple news sources, but no specific details given here.\n\nDogecoin Mention: A cryptic post referencing Elon Musk and Dogecoin's involvement in an unidentified issue.]
+X_token = [global, sky, news, breaking, updates, multiple, news, sources, specific, details, given, dogecoin, mention, cryptic, post, referencing, elon, musk, dogecoin, involvement, unidentified, issue]
+	X tweet_count = [9]
+	X username = [@GlobalGlimpse]
+Y = [Global\n\nSky News: Breaking updates from multiple news sources, but no specific details given here.\n\nDogecoin Mention: A cryptic post referencing Elon Musk and Dogecoin's involvement in an unidentified issue.]
+Y_token = [global, sky, news, breaking, updates, multiple, news, sources, specific, details, given, dogecoin, mention, cryptic, post, referencing, elon, musk, dogecoin, involvement, unidentified, issue]
+	Y tweet_count = [10]
+	Y username = [@GlobalGlimpse]
+Total Length: X = 207, Y = 207 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Technology &amp; Business\n\nElon Musk faces threats and criticism over his investments, including Dogecoin.\n\nA new AI-based payment service is gaining traction for online transactions.]
+X_token = [technology, amp, business, elon, musk, faces, threats, criticism, investments, including, dogecoin, new, payment, service, gaining, traction, online, transactions]
+	X tweet_count = [32]
+	X username = [@GlobalGlimpse]
+Y = [Technology &amp; Business\n\nElon Musk faces threats and criticism over his investments, including Dogecoin.\n\nA new AI-based payment service is gaining traction for online transactions.]
+Y_token = [technology, amp, business, elon, musk, faces, threats, criticism, investments, including, dogecoin, new, payment, service, gaining, traction, online, transactions]
+	Y tweet_count = [35]
+	Y username = [@GlobalGlimpse]
+Total Length: X = 183, Y = 183 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [United States\n\nThe US Treasury is pushing for an audit of Dogecoin (DOGE), denying rumors of a Fort Knox gold heist.\n\nAmerican banks are under scrutiny, with concerns over financial stability.\n\nHomeland Security is investigating potential cyber threats and security risks.]
+X_token = [united, states, us, treasury, pushing, audit, dogecoin, doge, denying, rumors, fort, knox, gold, heist, american, banks, scrutiny, concerns, financial, stability, homeland, security, investigating, potential, cyber, threats, security, risks]
+	X tweet_count = [34]
+	X username = [@GlobalGlimpse]
+Y = [United States\n\nThe US Treasury is pushing for an audit of Dogecoin (DOGE), denying rumors of a Fort Knox gold heist.\n\nAmerican banks are under scrutiny, with concerns over financial stability.\n\nHomeland Security is investigating potential cyber threats and security risks.]
+Y_token = [united, states, us, treasury, pushing, audit, dogecoin, doge, denying, rumors, fort, knox, gold, heist, american, banks, scrutiny, concerns, financial, stability, homeland, security, investigating, potential, cyber, threats, security, risks]
+	Y tweet_count = [44]
+	Y username = [@GlobalGlimpse]
+Total Length: X = 272, Y = 272 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Global Trends\n\nCryptocurrency market continues to be a hot topic, with discussions on the risks and potential of digital assets like Dogecoin and Bitcoin gaining attention from global investors.]
+X_token = [global, trends, cryptocurrency, market, continues, hot, topic, discussions, risks, potential, digital, assets, like, dogecoin, bitcoin, gaining, attention, global, investors]
+	X tweet_count = [39]
+	X username = [@GlobalGlimpse]
+Y = [Global Trends\n\nCryptocurrency market continues to be a hot topic, with discussions on the risks and potential of digital assets like Dogecoin and Bitcoin gaining attention from global investors.]
+Y_token = [global, trends, cryptocurrency, market, continues, hot, topic, discussions, risks, potential, digital, assets, like, dogecoin, bitcoin, gaining, attention, global, investors]
+	Y tweet_count = [41]
+	Y username = [@GlobalGlimpse]
+Total Length: X = 194, Y = 194 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [United States\n\nElon Musk’s ventures continue to face scrutiny, with the influence of cryptocurrencies like Dogecoin raising concerns over financial regulations.\n\nWar with Iran may be imminent, as some US lawmakers advocate for military action.]
+X_token = [united, states, elon, musk, ventures, continue, face, scrutiny, influence, cryptocurrencies, like, dogecoin, raising, concerns, financial, regulations, war, iran, may, imminent, us, lawmakers, advocate, military, action]
+	X tweet_count = [40]
+	X username = [@GlobalGlimpse]
+Y = [United States\n\nElon Musk’s ventures continue to face scrutiny, as the influence of cryptocurrencies like Dogecoin raises concerns over financial regulations.\n\nWar with Iran may be imminent, as some US lawmakers advocate for military action.]
+Y_token = [united, states, elon, musk, ventures, continue, face, scrutiny, influence, cryptocurrencies, like, dogecoin, raises, concerns, financial, regulations, war, iran, may, imminent, us, lawmakers, advocate, military, action]
+	Y tweet_count = [42]
+	Y username = [@GlobalGlimpse]
+Total Length: X = 243, Y = 240 (Y / X = 98.77  X / Y = 101.25)
+Dice Coefficient: 96.00% 
+

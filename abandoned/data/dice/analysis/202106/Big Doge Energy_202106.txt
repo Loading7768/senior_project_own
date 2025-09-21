@@ -1,0 +1,99 @@
+﻿X = [#dogecoin  \nOur doge be like https://t.co/P9vpTDifsK]
+X_token = [dogecoin, doge, like, https]
+	X tweet_count = [22]
+	X username = [Big Doge Energy]
+Y = [$doge #dogecoin  be like https://t.co/tu065G5iUD]
+Y_token = [doge, dogecoin, like, https]
+	Y tweet_count = [65]
+	Y username = [Big Doge Energy]
+Total Length: X = 52, Y = 48 (Y / X = 92.31  X / Y = 108.33)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin  \nOur doge be like https://t.co/P9vpTDifsK]
+X_token = [dogecoin, doge, like, https]
+	X tweet_count = [22]
+	X username = [Big Doge Energy]
+Y = [$doge\n#dogecoin #dogearmy https://t.co/vTFcFRXoJl]
+Y_token = [doge, dogecoin, dogearmy, https]
+	Y tweet_count = [93]
+	Y username = [Big Doge Energy]
+Total Length: X = 52, Y = 49 (Y / X = 94.23  X / Y = 106.12)
+Dice Coefficient: 75.00% 
+
+X = [#dogecoin when you buy the dip!! https://t.co/LdQmdD6dH9]
+X_token = [dogecoin, buy, dip, https]
+	X tweet_count = [28]
+	X username = [Big Doge Energy]
+Y = [#dogecoin  when you buy the dip https://t.co/XFsmPbSqPA]
+Y_token = [dogecoin, buy, dip, https]
+	Y tweet_count = [113]
+	Y username = [Big Doge Energy]
+Total Length: X = 56, Y = 55 (Y / X = 98.21  X / Y = 101.82)
+Dice Coefficient: 100.00% 
+
+X = [Just how I'm feeling today #dogecoin https://t.co/GS1dv16Dmp]
+X_token = [feeling, today, dogecoin, https]
+	X tweet_count = [34]
+	X username = [Big Doge Energy]
+Y = [Hitting that #dogecoin  today. https://t.co/WADlSap38u]
+Y_token = [hitting, dogecoin, today, https]
+	Y tweet_count = [162]
+	Y username = [Big Doge Energy]
+Total Length: X = 60, Y = 54 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [$doge #dogecoin  be like https://t.co/tu065G5iUD]
+X_token = [doge, dogecoin, like, https]
+	X tweet_count = [65]
+	X username = [Big Doge Energy]
+Y = [#dogecoin be like https://t.co/0PCKLHUveB]
+Y_token = [dogecoin, like, https]
+	Y tweet_count = [69]
+	Y username = [Big Doge Energy]
+Total Length: X = 48, Y = 41 (Y / X = 85.42  X / Y = 117.07)
+Dice Coefficient: 85.71% 
+
+X = [$doge #dogecoin  be like https://t.co/tu065G5iUD]
+X_token = [doge, dogecoin, like, https]
+	X tweet_count = [65]
+	X username = [Big Doge Energy]
+Y = [$doge\n#dogecoin #dogearmy https://t.co/vTFcFRXoJl]
+Y_token = [doge, dogecoin, dogearmy, https]
+	Y tweet_count = [93]
+	Y username = [Big Doge Energy]
+Total Length: X = 48, Y = 49 (Y / X = 102.08  X / Y = 97.96)
+Dice Coefficient: 75.00% 
+
+X = [Good morning #dogearmy #DogeFam #dogecoin]
+X_token = [good, morning, dogearmy, dogefam, dogecoin]
+	X tweet_count = [70]
+	X username = [Big Doge Energy]
+Y = [Good morning #dogearmy #doge #dogecoin]
+Y_token = [good, morning, dogearmy, doge, dogecoin]
+	Y tweet_count = [185]
+	Y username = [Big Doge Energy]
+Total Length: X = 41, Y = 38 (Y / X = 92.68  X / Y = 107.89)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin  so close to .33 https://t.co/nfl2UNRH0B]
+X_token = [dogecoin, close, https]
+	X tweet_count = [95]
+	X username = [Big Doge Energy]
+Y = [#dogecoin  what are you doing https://t.co/eFMzAQSJUw]
+Y_token = [dogecoin, https]
+	Y tweet_count = [118]
+	Y username = [Big Doge Energy]
+Total Length: X = 50, Y = 53 (Y / X = 106.00  X / Y = 94.34)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin  what are you doing https://t.co/eFMzAQSJUw]
+X_token = [dogecoin, https]
+	X tweet_count = [118]
+	X username = [Big Doge Energy]
+Y = [#dogecoin  who's up for some parcheesi? https://t.co/g14cy0coOO]
+Y_token = [dogecoin, parcheesi, https]
+	Y tweet_count = [147]
+	Y username = [Big Doge Energy]
+Total Length: X = 53, Y = 63 (Y / X = 118.87  X / Y = 84.13)
+Dice Coefficient: 80.00% 
+

@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@AmericaPapaBear Found one @IfindRetards",
+        "X_token": "americapapabear, found, one, ifindretards",
+        "X_tweet_count": 77,
+        "X_username": "Crypto Crane",
+        "Y_text": "@charliekirk11 Found one @IfindRetards",
+        "Y_token": "charliekirk11, found, one, ifindretards",
+        "Y_tweet_count": 86,
+        "Y_username": "Crypto Crane",
+        "X_length": 40,
+        "Y_length": 38,
+        "Y_length_percent_of_X": 95.0,
+        "X_length_percent_of_Y": 105.26,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@AmericaPapaBear Found one @IfindRetards",
+        "X_token": "americapapabear, found, one, ifindretards",
+        "X_tweet_count": 77,
+        "X_username": "Crypto Crane",
+        "Y_text": "@AmericaPapaBear Found one @IfindRetards",
+        "Y_token": "americapapabear, found, one, ifindretards",
+        "Y_tweet_count": 87,
+        "Y_username": "Crypto Crane",
+        "X_length": 40,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@charliekirk11 Found one @IfindRetards",
+        "X_token": "charliekirk11, found, one, ifindretards",
+        "X_tweet_count": 86,
+        "X_username": "Crypto Crane",
+        "Y_text": "@AmericaPapaBear Found one @IfindRetards",
+        "Y_token": "americapapabear, found, one, ifindretards",
+        "Y_tweet_count": 87,
+        "Y_username": "Crypto Crane",
+        "X_length": 38,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 105.26,
+        "X_length_percent_of_Y": 95.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@cb_doge Good morning #dogefam #dogecoin",
+        "X_token": "good, morning, dogefam, dogecoin",
+        "X_tweet_count": 106,
+        "X_username": "Crypto Crane",
+        "Y_text": "@LukaDzin @X Good morning #dogefam #dogecoin",
+        "Y_token": "lukadzin, x, good, morning, dogefam, dogecoin",
+        "Y_tweet_count": 107,
+        "Y_username": "Crypto Crane",
+        "X_length": 40,
+        "Y_length": 44,
+        "Y_length_percent_of_X": 110.0,
+        "X_length_percent_of_Y": 90.91,
+        "dice_coefficient": 80.0
+    }
+]

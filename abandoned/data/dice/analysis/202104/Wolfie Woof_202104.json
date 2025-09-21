@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "#doge #dogecoin #Dogecoins #DogecoinToTheMoon $DOGE",
+        "X_token": "doge, dogecoin, dogecoins, dogecointothemoon, doge",
+        "X_tweet_count": 2,
+        "X_username": "Wolfie Woof",
+        "Y_text": "#DOGE $DOGE #Dogecoin #Dogecoins \nTO THE ANDROMEDA!!! 💙🚀🚀🚀💙",
+        "Y_token": "doge, doge, dogecoin, dogecoins, andromeda",
+        "Y_tweet_count": 5,
+        "Y_username": "Wolfie Woof",
+        "X_length": 51,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 115.69,
+        "X_length_percent_of_Y": 86.44,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "#DOGE $DOGE #Dogecoin #Dogecoins \nTO THE ANDROMEDA!!! 💙🚀🚀🚀💙",
+        "X_token": "doge, doge, dogecoin, dogecoins, andromeda",
+        "X_tweet_count": 5,
+        "X_username": "Wolfie Woof",
+        "Y_text": "#DOGE #Dogecoin #Dogecoins \nTo the Moon and Andromeda after that!",
+        "Y_token": "doge, dogecoin, dogecoins, moon, andromeda",
+        "Y_tweet_count": 6,
+        "Y_username": "Wolfie Woof",
+        "X_length": 59,
+        "Y_length": 65,
+        "Y_length_percent_of_X": 110.17,
+        "X_length_percent_of_Y": 90.77,
+        "dice_coefficient": 88.89
+    }
+]

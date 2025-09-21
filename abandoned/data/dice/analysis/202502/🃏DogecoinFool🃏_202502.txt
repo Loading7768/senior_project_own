@@ -1,0 +1,22 @@
+﻿X = [@iAnonPatriot Happy black history month]
+X_token = [ianonpatriot, happy, black, history, month]
+	X tweet_count = [92]
+	X username = [🃏DogecoinFool🃏]
+Y = [@EndWokeness Happy black History month! 🎉]
+Y_token = [endwokeness, happy, black, history, month]
+	Y tweet_count = [113]
+	Y username = [🃏DogecoinFool🃏]
+Total Length: X = 39, Y = 41 (Y / X = 105.13  X / Y = 95.12)
+Dice Coefficient: 80.00% 
+
+X = [@catturd2 Democrats steal $60 million and get fired...\nYou steal $60 and go to prison.\n\nSee the difference?]
+X_token = [catturd2, democrats, steal, 60, million, get, fired, steal, 60, go, prison, see, difference]
+	X tweet_count = [376]
+	X username = [🃏DogecoinFool🃏]
+Y = [@EndWokeness democrats steal $60 million and get fired. You steal $60 dollars and go to prison.\n\nSee the difference?]
+Y_token = [endwokeness, democrats, steal, 60, million, get, fired, steal, 60, dollars, go, prison, see, difference]
+	Y tweet_count = [379]
+	Y username = [🃏DogecoinFool🃏]
+Total Length: X = 107, Y = 116 (Y / X = 108.41  X / Y = 92.24)
+Dice Coefficient: 86.96% 
+

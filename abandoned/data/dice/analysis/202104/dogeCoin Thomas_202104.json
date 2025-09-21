@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "#dogecoin\n#Doge4Amazon \nmy @amazon cart right now! https://t.co/WzyWYAywgo",
+        "X_token": "dogecoin, doge4amazon, amazon, cart, right, https",
+        "X_tweet_count": 53,
+        "X_username": "dogeCoin Thomas",
+        "Y_text": "#dogecoin\n#Doge4Amazon \nfixed it!\nmy @amazon cart https://t.co/0wFxoZPEXe",
+        "Y_token": "dogecoin, doge4amazon, fixed, amazon, cart, https",
+        "Y_tweet_count": 54,
+        "Y_username": "dogeCoin Thomas",
+        "X_length": 74,
+        "Y_length": 73,
+        "Y_length_percent_of_X": 98.65,
+        "X_length_percent_of_Y": 101.37,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "#dogecoin\n#Doge4Amazon \nmy @amazon cart right now! https://t.co/WzyWYAywgo",
+        "X_token": "dogecoin, doge4amazon, amazon, cart, right, https",
+        "X_tweet_count": 53,
+        "X_username": "dogeCoin Thomas",
+        "Y_text": "#Doge4Amazon \n #dogecoin \nmy @amazon cart next week https://t.co/7CSWWL6NGt",
+        "Y_token": "doge4amazon, dogecoin, amazon, cart, next, week, https",
+        "Y_tweet_count": 55,
+        "Y_username": "dogeCoin Thomas",
+        "X_length": 74,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 101.35,
+        "X_length_percent_of_Y": 98.67,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "#dogecoin\n#Doge4Amazon \nfixed it!\nmy @amazon cart https://t.co/0wFxoZPEXe",
+        "X_token": "dogecoin, doge4amazon, fixed, amazon, cart, https",
+        "X_tweet_count": 54,
+        "X_username": "dogeCoin Thomas",
+        "Y_text": "#Doge4Amazon \n #dogecoin \nmy @amazon cart next week https://t.co/7CSWWL6NGt",
+        "Y_token": "doge4amazon, dogecoin, amazon, cart, next, week, https",
+        "Y_tweet_count": 55,
+        "Y_username": "dogeCoin Thomas",
+        "X_length": 73,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 102.74,
+        "X_length_percent_of_Y": 97.33,
+        "dice_coefficient": 76.92
+    }
+]

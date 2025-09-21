@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Looks like #dogecoin is mentioning @TheEllenShow in #dogeshow :) Not the other way around @DogecoinRise @dogecoin",
+        "X_token": "looks, like, dogecoin, mentioning, theellenshow, dogeshow, way, around, dogecoinrise, dogecoin",
+        "X_tweet_count": 27,
+        "X_username": "Niroj Shanker Shrestha",
+        "Y_text": "Looks like #dogecoin is Hodling @BenPhillipsUK :) not the other way around @dogecoin @DogecoinRise",
+        "Y_token": "looks, like, dogecoin, hodling, benphillipsuk, way, around, dogecoin, dogecoinrise",
+        "Y_tweet_count": 28,
+        "Y_username": "Niroj Shanker Shrestha",
+        "X_length": 113,
+        "Y_length": 98,
+        "Y_length_percent_of_X": 86.73,
+        "X_length_percent_of_Y": 115.31,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "Looks like #dogecoin is Hodling @BenPhillipsUK :) not the other way around @dogecoin @DogecoinRise",
+        "X_token": "looks, like, dogecoin, hodling, benphillipsuk, way, around, dogecoin, dogecoinrise",
+        "X_tweet_count": 28,
+        "X_username": "Niroj Shanker Shrestha",
+        "Y_text": "Looks like #dogecoin is promoting @MattWallace888 :) Not the other way around. @dogecoin @DogecoinRise @elonmusk",
+        "Y_token": "looks, like, dogecoin, promoting, mattwallace888, way, around, dogecoin, dogecoinrise, elonmusk",
+        "Y_tweet_count": 31,
+        "Y_username": "Niroj Shanker Shrestha",
+        "X_length": 98,
+        "Y_length": 112,
+        "Y_length_percent_of_X": 114.29,
+        "X_length_percent_of_Y": 87.5,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "Looks like #dogecoin is discussing @davidgokhshtein @WSBChairman @elonmusk @NathanRyan in @Twitter space :) Not the other way around @DogecoinRise @dogecoin",
+        "X_token": "looks, like, dogecoin, discussing, davidgokhshtein, wsbchairman, elonmusk, nathanryan, twitter, space, way, around, dogecoinrise, dogecoin",
+        "X_tweet_count": 29,
+        "X_username": "Niroj Shanker Shrestha",
+        "Y_text": "Looks like @twitter is begging to provide #dogecoin emoji to @dogecoin. Not the other way around :) @WSBChairman @elonmusk @DogecoinRise",
+        "Y_token": "looks, like, twitter, begging, provide, dogecoin, emoji, dogecoin, way, around, wsbchairman, elonmusk, dogecoinrise",
+        "Y_tweet_count": 34,
+        "Y_username": "Niroj Shanker Shrestha",
+        "X_length": 156,
+        "Y_length": 136,
+        "Y_length_percent_of_X": 87.18,
+        "X_length_percent_of_Y": 114.71,
+        "dice_coefficient": 72.0
+    },
+    {
+        "X_text": "Looks like #dogecoin is promoting @MattWallace888 :) Not the other way around. @dogecoin @DogecoinRise @elonmusk",
+        "X_token": "looks, like, dogecoin, promoting, mattwallace888, way, around, dogecoin, dogecoinrise, elonmusk",
+        "X_tweet_count": 31,
+        "X_username": "Niroj Shanker Shrestha",
+        "Y_text": "Looks like #dogecoin is taking @SpaceX to the moon :) Not the other way around @elonmusk @DogecoinRise @dogecoin",
+        "Y_token": "looks, like, dogecoin, taking, spacex, moon, way, around, elonmusk, dogecoinrise, dogecoin",
+        "Y_tweet_count": 32,
+        "Y_username": "Niroj Shanker Shrestha",
+        "X_length": 112,
+        "Y_length": 112,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 73.68
+    }
+]

@@ -1,0 +1,11 @@
+﻿X = [@moooncalls To the moon \n\n@dogecoin 🚀🚀🚀]
+X_token = [moooncalls, moon, dogecoin]
+	X tweet_count = [22]
+	X username = [Derian]
+Y = [@moooncalls @dogecoin to the moon]
+Y_token = [moooncalls, dogecoin, moon]
+	Y tweet_count = [26]
+	Y username = [Derian]
+Total Length: X = 39, Y = 33 (Y / X = 84.62  X / Y = 118.18)
+Dice Coefficient: 100.00% 
+

@@ -1,0 +1,22 @@
+﻿X = [Buy the dip! #dogecoin]
+X_token = [buy, dip, dogecoin]
+	X tweet_count = [1]
+	X username = [Evert Estrada]
+Y = [Buy the Dip! #dogecoin]
+Y_token = [buy, dip, dogecoin]
+	Y tweet_count = [7]
+	Y username = [Evert Estrada]
+Total Length: X = 22, Y = 22 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Buy the dip sell the tip! #dogecoin]
+X_token = [buy, dip, sell, tip, dogecoin]
+	X tweet_count = [5]
+	X username = [Evert Estrada]
+Y = [Buy the dip sell the tip!  #dogecoin]
+Y_token = [buy, dip, sell, tip, dogecoin]
+	Y tweet_count = [16]
+	Y username = [Evert Estrada]
+Total Length: X = 35, Y = 36 (Y / X = 102.86  X / Y = 97.22)
+Dice Coefficient: 100.00% 
+

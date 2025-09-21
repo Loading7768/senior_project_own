@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "TO THE MOOOOON!!!! 🚀🚀🚀🚀🚀\n\n #dogecoin https://t.co/qZGcwswIaX",
+        "X_token": "mooooon, dogecoin, https",
+        "X_tweet_count": 3,
+        "X_username": "Ginger Bustamante",
+        "Y_text": "DOGE TO THE MOOOOON! 🚀🚀🚀\n\n#dogecoin https://t.co/FTHQZ01j56",
+        "Y_token": "doge, mooooon, dogecoin, https",
+        "Y_tweet_count": 15,
+        "Y_username": "Ginger Bustamante",
+        "X_length": 60,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 98.33,
+        "X_length_percent_of_Y": 101.69,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "DOGE TO THE MOOOOON! 🚀🚀🚀\n\n#dogecoin https://t.co/FTHQZ01j56",
+        "X_token": "doge, mooooon, dogecoin, https",
+        "X_tweet_count": 15,
+        "X_username": "Ginger Bustamante",
+        "Y_text": "#dogecoin $doge up up and away! https://t.co/JaTUwx0M73",
+        "Y_token": "dogecoin, doge, away, https",
+        "Y_tweet_count": 18,
+        "Y_username": "Ginger Bustamante",
+        "X_length": 59,
+        "Y_length": 55,
+        "Y_length_percent_of_X": 93.22,
+        "X_length_percent_of_Y": 107.27,
+        "dice_coefficient": 75.0
+    }
+]

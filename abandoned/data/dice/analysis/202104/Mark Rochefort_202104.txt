@@ -1,0 +1,22 @@
+﻿X = [MAKE #DOGE ON TRENDING AGAINRocket\n\nPUSH RETWEET BOTTON\n#420doge #DogeDay420 #dogecoin #DogecoinToTheMoon #DogecoinRise https://t.co/jScWDziMdP]
+X_token = [make, doge, trending, againrocket, push, retweet, botton, 420doge, dogeday420, dogecoin, dogecointothemoon, dogecoinrise, https]
+	X tweet_count = [18]
+	X username = [Mark Rochefort]
+Y = [MAKE #DOGE ON TRENDING AGAINRocket\n\nPUSH RETWEET BOTTON\n#420doge #DogeDay420 #dogecoin #DogecoinToTheMoon #DogecoinRise]
+Y_token = [make, doge, trending, againrocket, push, retweet, botton, 420doge, dogeday420, dogecoin, dogecointothemoon, dogecoinrise]
+	Y tweet_count = [19]
+	Y username = [Mark Rochefort]
+Total Length: X = 143, Y = 119 (Y / X = 83.22  X / Y = 120.17)
+Dice Coefficient: 96.00% 
+
+X = [#DOGEDAY #DogeDay420 \n\nIt is going to be EXTREMELY exciting to see what happens as millions of eyes all across the world are on Dogecoin! https://t.co/3YVXKAukas]
+X_token = [dogeday, dogeday420, going, extremely, exciting, see, happens, millions, eyes, across, world, dogecoin, https]
+	X tweet_count = [22]
+	X username = [Mark Rochefort]
+Y = [#DOGEDAY #DogeDay420 \n\nIt is going to be EXTREMELY exciting to see what happens as millions of eyes all across the world are on Dogecoin! https://t.co/YoRLuIBovp]
+Y_token = [dogeday, dogeday420, going, extremely, exciting, see, happens, millions, eyes, across, world, dogecoin, https]
+	Y tweet_count = [23]
+	Y username = [Mark Rochefort]
+Total Length: X = 161, Y = 161 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

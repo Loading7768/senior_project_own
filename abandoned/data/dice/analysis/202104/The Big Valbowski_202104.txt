@@ -1,0 +1,22 @@
+﻿X = [@chevrolet\n ALLOW US TO BUY CARS WITH #dogecoin JOIN THE #DogeDay420  WAVE]
+X_token = [chevrolet, allow, us, buy, cars, dogecoin, join, dogeday420, wave]
+	X tweet_count = [17]
+	X username = [The Big Valbowski]
+Y = [@chevrolet ALLOW US TO BUY CARS WITH #dogecoin #DogecoinToTheMoon]
+Y_token = [chevrolet, allow, us, buy, cars, dogecoin, dogecointothemoon]
+	Y tweet_count = [18]
+	Y username = [The Big Valbowski]
+Total Length: X = 74, Y = 65 (Y / X = 87.84  X / Y = 113.85)
+Dice Coefficient: 75.00% 
+
+X = [And buy more #dogecoin]
+X_token = [buy, dogecoin]
+	X tweet_count = [26]
+	X username = [The Big Valbowski]
+Y = [BUY #Dogecoin instead !!!]
+Y_token = [buy, dogecoin, instead]
+	Y tweet_count = [28]
+	Y username = [The Big Valbowski]
+Total Length: X = 22, Y = 25 (Y / X = 113.64  X / Y = 88.00)
+Dice Coefficient: 80.00% 
+

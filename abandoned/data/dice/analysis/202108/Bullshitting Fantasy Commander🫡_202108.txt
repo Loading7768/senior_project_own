@@ -1,0 +1,22 @@
+﻿X = [Let's goooo #dogecoin 🚀🚀🚀]
+X_token = [let, goooo, dogecoin]
+	X tweet_count = [5]
+	X username = [Bullshitting Fantasy Commander🫡]
+Y = [LET'S GOOOO #DOGECOIN]
+Y_token = [let, goooo, dogecoin]
+	Y tweet_count = [39]
+	Y username = [Bullshitting Fantasy Commander🫡]
+Total Length: X = 25, Y = 21 (Y / X = 84.00  X / Y = 119.05)
+Dice Coefficient: 100.00% 
+
+X = [#Dogecoin flyinggg !!! $0.34 \n\n#DogecoinRise #DogeArmy https://t.co/3UUsSDPvRx]
+X_token = [dogecoin, flyinggg, dogecoinrise, dogearmy, https]
+	X tweet_count = [16]
+	X username = [Bullshitting Fantasy Commander🫡]
+Y = [Let's goo #DogeArmy #DogecoinRise #Dogecoin https://t.co/DYgeN3kKY6]
+Y_token = [let, goo, dogearmy, dogecoinrise, dogecoin, https]
+	Y tweet_count = [32]
+	Y username = [Bullshitting Fantasy Commander🫡]
+Total Length: X = 78, Y = 67 (Y / X = 85.90  X / Y = 116.42)
+Dice Coefficient: 72.73% 
+

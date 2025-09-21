@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Never sell the #dogecoin https://t.co/g1JBq1bxgp",
+        "X_token": "never, sell, dogecoin, https",
+        "X_tweet_count": 5,
+        "X_username": "Giovanni Santana",
+        "Y_text": "Don't sell your #dogecoin https://t.co/hwCWrqgV5s",
+        "Y_token": "sell, dogecoin, https",
+        "Y_tweet_count": 10,
+        "Y_username": "Giovanni Santana",
+        "X_length": 48,
+        "Y_length": 49,
+        "Y_length_percent_of_X": 102.08,
+        "X_length_percent_of_Y": 97.96,
+        "dice_coefficient": 85.71
+    }
+]

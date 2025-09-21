@@ -1,0 +1,11 @@
+﻿X = [@McDonalds McDonald’s should accept Dogecoin 👍]
+X_token = [mcdonalds, mcdonald, accept, dogecoin]
+	X tweet_count = [3]
+	X username = [STEVIEBOY]
+Y = [McDonald’s Should Accept Dogecoin that will be great 👍]
+Y_token = [mcdonald, accept, dogecoin, great]
+	Y tweet_count = [5]
+	Y username = [STEVIEBOY]
+Total Length: X = 46, Y = 54 (Y / X = 117.39  X / Y = 85.19)
+Dice Coefficient: 75.00% 
+

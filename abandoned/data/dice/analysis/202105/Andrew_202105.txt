@@ -1,0 +1,77 @@
+﻿X = [dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [298]
+	X username = [Andrew]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [299]
+	Y username = [Andrew]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@Chewy Do you accept #dogecoin? https://t.co/fiX4ymhQ7N]
+X_token = [chewy, accept, dogecoin, https]
+	X tweet_count = [4]
+	X username = [Andrew]
+Y = [@Nike accept #dogecoin https://t.co/AgdJgSqAj8]
+Y_token = [nike, accept, dogecoin, https]
+	Y tweet_count = [273]
+	Y username = [Andrew]
+Total Length: X = 55, Y = 46 (Y / X = 83.64  X / Y = 119.57)
+Dice Coefficient: 75.00% 
+
+X = [Let's go dogecoin!!!!]
+X_token = [let, go, dogecoin]
+	X tweet_count = [10]
+	X username = [Andrew]
+Y = [Go off #dogecoin 💰💰]
+Y_token = [go, dogecoin]
+	Y tweet_count = [14]
+	Y username = [Andrew]
+Total Length: X = 21, Y = 19 (Y / X = 90.48  X / Y = 110.53)
+Dice Coefficient: 80.00% 
+
+X = [@iwantthestonk Panic selling lol \nI'm into panic buying \n#DogecoinRise #doge #dogecoin #adddogecointocoinbase https://t.co/sBzxFJ16b7]
+X_token = [iwantthestonk, panic, selling, lol, panic, buying, dogecoinrise, doge, dogecoin, adddogecointocoinbase, https]
+	X tweet_count = [44]
+	X username = [Andrew]
+Y = [Panic selling #dogecoin 🤬\nPanic buying #dogecoin 🧡\n#HODL the #doge #DogecoinRise #dogearmy #DogecoinPledge https://t.co/SbHUSYIt6c]
+Y_token = [panic, selling, dogecoin, panic, buying, dogecoin, hodl, doge, dogecoinrise, dogearmy, dogecoinpledge, https]
+	Y tweet_count = [45]
+	Y username = [Andrew]
+Total Length: X = 133, Y = 130 (Y / X = 97.74  X / Y = 102.31)
+Dice Coefficient: 70.00% 
+
+X = [A #dogecoin whale! 🤣😂\n#ToTheFOODBOWL #doge #dogearmy #DogecoinRise #Dogefather #PlanetDoge https://t.co/mkvYSl4Pca]
+X_token = [dogecoin, whale, tothefoodbowl, doge, dogearmy, dogecoinrise, dogefather, planetdoge, https]
+	X tweet_count = [66]
+	X username = [Andrew]
+Y = [@KSarnmanee @elonmusk @dogecoin To The Mooooon🐕🌜\n#DogecoinRise #dogearmy #Dogefather #PlanetDoge https://t.co/t8yqjLAiMx]
+Y_token = [ksarnmanee, elonmusk, dogecoin, dogecoinrise, dogearmy, dogefather, planetdoge, https]
+	Y tweet_count = [213]
+	Y username = [Andrew]
+Total Length: X = 114, Y = 120 (Y / X = 105.26  X / Y = 95.00)
+Dice Coefficient: 70.59% 
+
+X = [@elonmusk @long_elon @itsALLrisky DOGECOIN TO THE MOON https://t.co/DIRP4Fo9Pc]
+X_token = [elonmusk, itsallrisky, dogecoin, moon, https]
+	X tweet_count = [195]
+	X username = [Andrew]
+Y = [@elonmusk @itsALLrisky This is why we #HODL our #doge  #dogecoin https://t.co/oEn3UXyOXO]
+Y_token = [elonmusk, itsallrisky, hodl, doge, dogecoin, https]
+	Y tweet_count = [197]
+	Y username = [Andrew]
+Total Length: X = 78, Y = 88 (Y / X = 112.82  X / Y = 88.64)
+Dice Coefficient: 72.73% 
+
+X = [@Nike when can we use our #dogecoin to make purchases?? #AcceptDOGE #acceptDogecoin #doge #dogearmy #DogecoinRise https://t.co/CYA0g6ALlY]
+X_token = [nike, use, dogecoin, make, purchases, acceptdoge, acceptdogecoin, doge, dogearmy, dogecoinrise, https]
+	X tweet_count = [211]
+	X username = [Andrew]
+Y = [@amazon when can we use our #dogecoin to make purchases?? #dogearmy #DogecoinRise #DogeFam #AcceptDOGE #acceptDogecoin https://t.co/ofo7iwrM9p]
+Y_token = [amazon, use, dogecoin, make, purchases, dogearmy, dogecoinrise, dogefam, acceptdoge, acceptdogecoin, https]
+	Y tweet_count = [212]
+	Y username = [Andrew]
+Total Length: X = 137, Y = 142 (Y / X = 103.65  X / Y = 96.48)
+Dice Coefficient: 81.82% 
+

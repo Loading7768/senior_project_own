@@ -1,0 +1,66 @@
+﻿X = [@elonmusk Dogecoin....just do Dogecoin]
+X_token = [elonmusk, dogecoin, dogecoin]
+	X tweet_count = [1]
+	X username = [Anthony]
+Y = [@elonmusk @dogecoin_devs Dogecoin to the moon]
+Y_token = [elonmusk, dogecoin, moon]
+	Y tweet_count = [199]
+	Y username = [Anthony]
+Total Length: X = 38, Y = 45 (Y / X = 118.42  X / Y = 84.44)
+Dice Coefficient: 80.00% 
+
+X = [#Dogecoin, that you?]
+X_token = [dogecoin]
+	X tweet_count = [6]
+	X username = [Anthony]
+Y = [$DOGECOIN!!!!!!!]
+Y_token = [dogecoin]
+	Y tweet_count = [47]
+	Y username = [Anthony]
+Total Length: X = 20, Y = 16 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 100.00% 
+
+X = [@BillyM2k you can tell who missed the boat on #dogecoin .]
+X_token = [billym2k, tell, missed, boat, dogecoin]
+	X tweet_count = [15]
+	X username = [Anthony]
+Y = [@mcuban You can tell who missed the boat on #dogecoin]
+Y_token = [mcuban, tell, missed, boat, dogecoin]
+	Y tweet_count = [16]
+	Y username = [Anthony]
+Total Length: X = 57, Y = 53 (Y / X = 92.98  X / Y = 107.55)
+Dice Coefficient: 80.00% 
+
+X = [@MileyCyrus @nbcsnl Dogecoin to the moon 🚀 🌙]
+X_token = [mileycyrus, nbcsnl, dogecoin, moon]
+	X tweet_count = [58]
+	X username = [Anthony]
+Y = [@dogecoin_rise @nbcsnl Dogecoin to the moon]
+Y_token = [nbcsnl, dogecoin, moon]
+	Y tweet_count = [60]
+	Y username = [Anthony]
+Total Length: X = 44, Y = 43 (Y / X = 97.73  X / Y = 102.33)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk Dogecoin to the moon]
+X_token = [elonmusk, dogecoin, moon]
+	X tweet_count = [98]
+	X username = [Anthony]
+Y = [@elonmusk Dogecoin to the moon]
+Y_token = [elonmusk, dogecoin, moon]
+	Y tweet_count = [187]
+	Y username = [Anthony]
+Total Length: X = 30, Y = 30 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [200]
+	X username = [Anthony]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [201]
+	Y username = [Anthony]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

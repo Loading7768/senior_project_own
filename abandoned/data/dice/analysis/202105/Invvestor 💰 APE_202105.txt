@@ -1,0 +1,22 @@
+﻿X = [May 14: \nNYTimes talked with a Doge millionaire who\'s not selling;\nCNBC shined a light on Elon\'s tweet;\nFox Business focused on Coinbase listing $DOGE; \nReuters "Musk tweets, dogecoin leaps";\nForbes said Elon is working with @dogecoin_devs.]
+X_token = [may, 14, nytimes, talked, doge, millionaire, selling, cnbc, shined, light, elon, tweet, fox, business, focused, coinbase, listing, doge, reuters, musk, tweets, dogecoin, leaps, forbes, said, elon, working]
+	X tweet_count = [2]
+	X username = [Invvestor 💰 APE]
+Y = [{May 14} \nNYTimes: Meet the Doge millionaire who\'s not selling;\nCNBC shined a light on Elon\'s tweet;\nFox Business: Coinbase listing $DOGE; \nReuters: "Musk tweets, dogecoin leaps";\nForbes: Elon is working with @dogecoin_devs \nMentions: Cnet, Yahoo, WSJ, Fortune]
+Y_token = [may, 14, nytimes, meet, doge, millionaire, selling, cnbc, shined, light, elon, tweet, fox, business, coinbase, listing, doge, reuters, musk, tweets, dogecoin, leaps, forbes, elon, working, mentions, cnet, yahoo, wsj, fortune]
+	Y tweet_count = [6]
+	Y username = [Invvestor 💰 APE]
+Total Length: X = 240, Y = 260 (Y / X = 108.33  X / Y = 92.31)
+Dice Coefficient: 83.02% 
+
+X = [{May 15}\nNYT: "The Assorted Teachings of Dogecoin";\nBenzinga: "meet the Doge Millionaire who\'s holding";\nYahoo: A man who sold land for DOGE;\nForbes: Coinbase listing;\nMentions: Business Insider, The Independent, Cnet, Fox Business, Hypebeast, NME]
+X_token = [may, 15, nyt, assorted, teachings, dogecoin, benzinga, meet, doge, millionaire, holding, yahoo, man, sold, land, doge, forbes, coinbase, listing, mentions, business, insider, independent, cnet, fox, business, hypebeast, nme]
+	X tweet_count = [5]
+	X username = [Invvestor 💰 APE]
+Y = [May 15:\nNYT on "The Assorted Teachings of Dogecoin";\nBenzinga "meet the Doge Millionaire who\'s holding";\nYahoo told a story of a man who sold land for DOGE;\nForbes covered @coinbase listing;\nMentions: Business Insider, The Independent, Cnet, Fox Business, Hypebeast, NME #Dogearmy]
+Y_token = [may, 15, nyt, assorted, teachings, dogecoin, benzinga, meet, doge, millionaire, holding, yahoo, told, story, man, sold, land, doge, forbes, covered, coinbase, listing, mentions, business, insider, independent, cnet, fox, business, hypebeast, nme, dogearmy]
+	Y tweet_count = [14]
+	Y username = [Invvestor 💰 APE]
+Total Length: X = 247, Y = 280 (Y / X = 113.36  X / Y = 88.21)
+Dice Coefficient: 92.86% 
+

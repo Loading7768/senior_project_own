@@ -1,0 +1,33 @@
+﻿X = [@elonmusk @BTC_Archive My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin]
+X_token = [elonmusk, favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin]
+	X tweet_count = [23]
+	X username = [ahmad]
+Y = [@GreenMtnPower @Tesla My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin]
+Y_token = [greenmtnpower, tesla, favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin]
+	Y tweet_count = [24]
+	Y username = [ahmad]
+Total Length: X = 129, Y = 128 (Y / X = 99.22  X / Y = 100.78)
+Dice Coefficient: 88.89% 
+
+X = [@elonmusk @BTC_Archive My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin]
+X_token = [elonmusk, favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin]
+	X tweet_count = [23]
+	X username = [ahmad]
+Y = [@dogecoin_rise My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin]
+Y_token = [favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin]
+	Y tweet_count = [25]
+	Y username = [ahmad]
+Total Length: X = 129, Y = 121 (Y / X = 93.80  X / Y = 106.61)
+Dice Coefficient: 94.12% 
+
+X = [@GreenMtnPower @Tesla My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin]
+X_token = [greenmtnpower, tesla, favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin]
+	X tweet_count = [24]
+	X username = [ahmad]
+Y = [@dogecoin_rise My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin]
+Y_token = [favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin]
+	Y tweet_count = [25]
+	Y username = [ahmad]
+Total Length: X = 128, Y = 121 (Y / X = 94.53  X / Y = 105.79)
+Dice Coefficient: 94.12% 
+

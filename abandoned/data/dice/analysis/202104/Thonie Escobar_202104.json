@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@OPayNigeria Mine Dogecoin for free with this app\n\nhttps://t.co/gfpxNDyFif",
+        "X_token": "opaynigeria, mine, dogecoin, free, app, https",
+        "X_tweet_count": 2,
+        "X_username": "Thonie Escobar",
+        "Y_text": "@people Mine Dogecoin for free with this app\n\nhttps://t.co/gfpxNDyFif",
+        "Y_token": "people, mine, dogecoin, free, app, https",
+        "Y_tweet_count": 3,
+        "Y_username": "Thonie Escobar",
+        "X_length": 74,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 93.24,
+        "X_length_percent_of_Y": 107.25,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@OPayNigeria Mine Dogecoin for free with this app\n\nhttps://t.co/gfpxNDyFif",
+        "X_token": "opaynigeria, mine, dogecoin, free, app, https",
+        "X_tweet_count": 2,
+        "X_username": "Thonie Escobar",
+        "Y_text": "@RoosterTeeth https://t.co/gfpxNDyFif\n\nMine Dogecoin for free with this app",
+        "Y_token": "roosterteeth, https, mine, dogecoin, free, app",
+        "Y_tweet_count": 4,
+        "Y_username": "Thonie Escobar",
+        "X_length": 74,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 101.35,
+        "X_length_percent_of_Y": 98.67,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@people Mine Dogecoin for free with this app\n\nhttps://t.co/gfpxNDyFif",
+        "X_token": "people, mine, dogecoin, free, app, https",
+        "X_tweet_count": 3,
+        "X_username": "Thonie Escobar",
+        "Y_text": "@RoosterTeeth https://t.co/gfpxNDyFif\n\nMine Dogecoin for free with this app",
+        "Y_token": "roosterteeth, https, mine, dogecoin, free, app",
+        "Y_tweet_count": 4,
+        "Y_username": "Thonie Escobar",
+        "X_length": 69,
+        "Y_length": 75,
+        "Y_length_percent_of_X": 108.7,
+        "X_length_percent_of_Y": 92.0,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@people Mine Dogecoin for free with this app\n\nhttps://t.co/gfpxNDyFif",
+        "X_token": "people, mine, dogecoin, free, app, https",
+        "X_tweet_count": 3,
+        "X_username": "Thonie Escobar",
+        "Y_text": "@elonmusk https://t.co/JJou5TCZfF\nLet's mine Dogecoin for free people",
+        "Y_token": "elonmusk, https, let, mine, dogecoin, free, people",
+        "Y_tweet_count": 9,
+        "Y_username": "Thonie Escobar",
+        "X_length": 69,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 76.92
+    }
+]

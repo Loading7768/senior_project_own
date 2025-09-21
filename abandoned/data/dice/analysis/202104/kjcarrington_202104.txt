@@ -1,0 +1,22 @@
+﻿X = [Buy 420 #dogecoin on #420DogeDay !!\n\nRetweet!  Pass it on!! 🚀🚀]
+X_token = [buy, 420, dogecoin, 420dogeday, retweet, pass]
+	X tweet_count = [6]
+	X username = [kjcarrington]
+Y = [Let’s all buy 420 #dogecoin on 4/20!!\n#420DogeDay \nPlease retweet!!!!! 🚀🚀🚀]
+Y_token = [let, buy, 420, dogecoin, 420dogeday, please, retweet]
+	Y tweet_count = [9]
+	Y username = [kjcarrington]
+Total Length: X = 62, Y = 74 (Y / X = 119.35  X / Y = 83.78)
+Dice Coefficient: 76.92% 
+
+X = [#dogearmy !!  Let’s all buy 420 #dogecoin on #420DogeDay !!\n\nPlease retweet!!!! 🚀🚀🚀]
+X_token = [dogearmy, let, buy, 420, dogecoin, 420dogeday, please, retweet]
+	X tweet_count = [8]
+	X username = [kjcarrington]
+Y = [Let’s all buy 420 #dogecoin on 4/20!!\n#420DogeDay \nPlease retweet!!!!! 🚀🚀🚀]
+Y_token = [let, buy, 420, dogecoin, 420dogeday, please, retweet]
+	Y tweet_count = [9]
+	Y username = [kjcarrington]
+Total Length: X = 83, Y = 74 (Y / X = 89.16  X / Y = 112.16)
+Dice Coefficient: 93.33% 
+

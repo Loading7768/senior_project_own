@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "#DigiByte #bitcoin #dogecoin , buy dip bro!!! This is the real money https://t.co/eHo2nSP9E6",
+        "X_token": "digibyte, bitcoin, dogecoin, buy, dip, bro, real, money, https",
+        "X_tweet_count": 2,
+        "X_username": "fcr",
+        "Y_text": "#Bitcoin #dogecoin #Ripple #digibyte #xlm \nBuy dip now https://t.co/XTKgRBQVxi",
+        "Y_token": "bitcoin, dogecoin, ripple, digibyte, xlm, buy, dip, https",
+        "Y_tweet_count": 7,
+        "Y_username": "fcr",
+        "X_length": 92,
+        "Y_length": 78,
+        "Y_length_percent_of_X": 84.78,
+        "X_length_percent_of_Y": 117.95,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "#DigiByte #bitcoin #dogecoin , buy dip bro!!! This is the real money https://t.co/eHo2nSP9E6",
+        "X_token": "digibyte, bitcoin, dogecoin, buy, dip, bro, real, money, https",
+        "X_tweet_count": 2,
+        "X_username": "fcr",
+        "Y_text": "#Bitcoin #dogecoin #digibyte buy #TRX dip and don't regret https://t.co/nHafvQGeNn",
+        "Y_token": "bitcoin, dogecoin, digibyte, buy, trx, dip, regret, https",
+        "Y_tweet_count": 10,
+        "Y_username": "fcr",
+        "X_length": 92,
+        "Y_length": 82,
+        "Y_length_percent_of_X": 89.13,
+        "X_length_percent_of_Y": 112.2,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "#Bitcoin #dogecoin #Ripple #digibyte #xlm \nBuy dip now https://t.co/XTKgRBQVxi",
+        "X_token": "bitcoin, dogecoin, ripple, digibyte, xlm, buy, dip, https",
+        "X_tweet_count": 7,
+        "X_username": "fcr",
+        "Y_text": "#Bitcoin #dogecoin #digibyte buy #TRX dip and don't regret https://t.co/nHafvQGeNn",
+        "Y_token": "bitcoin, dogecoin, digibyte, buy, trx, dip, regret, https",
+        "Y_tweet_count": 10,
+        "Y_username": "fcr",
+        "X_length": 78,
+        "Y_length": 82,
+        "Y_length_percent_of_X": 105.13,
+        "X_length_percent_of_Y": 95.12,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "#Bitcoin #ADA #dogecoin #DigiByte #Ethereum #ETN #TRX #cryptocurrency #RIPPLE #Syscoin . \nAnyone, this is ticket to the moon https://t.co/I74tuUmIu3",
+        "X_token": "bitcoin, ada, dogecoin, digibyte, ethereum, etn, trx, cryptocurrency, ripple, syscoin, anyone, ticket, moon, https",
+        "X_tweet_count": 11,
+        "X_username": "fcr",
+        "Y_text": "#bitcoin #DigiByte #TRX #dogecoin #cryptocurrency #ETN #Ripple #ADA #Syscoin\nBig announcement in 1 day https://t.co/KZSvjMC2wT",
+        "Y_token": "bitcoin, digibyte, trx, dogecoin, cryptocurrency, etn, ripple, ada, syscoin, big, announcement, 1, day, https",
+        "Y_tweet_count": 18,
+        "Y_username": "fcr",
+        "X_length": 148,
+        "Y_length": 126,
+        "Y_length_percent_of_X": 85.14,
+        "X_length_percent_of_Y": 117.46,
+        "dice_coefficient": 71.43
+    }
+]

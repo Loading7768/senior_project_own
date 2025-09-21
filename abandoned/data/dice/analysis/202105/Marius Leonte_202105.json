@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@JeffBezos When Dogecoin as payment for Amazon ?",
+        "X_token": "jeffbezos, dogecoin, payment, amazon",
+        "X_tweet_count": 3,
+        "X_username": "Marius Leonte",
+        "Y_text": "@JeffBezos @lizzo Dogecoin as payment for Amazon .",
+        "Y_token": "jeffbezos, lizzo, dogecoin, payment, amazon",
+        "Y_tweet_count": 5,
+        "Y_username": "Marius Leonte",
+        "X_length": 48,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 104.17,
+        "X_length_percent_of_Y": 96.0,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@JeffBezos When Dogecoin as payment for Amazon ?",
+        "X_token": "jeffbezos, dogecoin, payment, amazon",
+        "X_tweet_count": 3,
+        "X_username": "Marius Leonte",
+        "Y_text": "@JeffBezos @EmmanuelMacron Dogecoin as payment for Amazon ?",
+        "Y_token": "jeffbezos, emmanuelmacron, dogecoin, payment, amazon",
+        "Y_tweet_count": 6,
+        "Y_username": "Marius Leonte",
+        "X_length": 48,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 122.92,
+        "X_length_percent_of_Y": 81.36,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@JeffBezos @TheEllenShow @portiaderossi Dogecoin as payment for Amazon?",
+        "X_token": "jeffbezos, theellenshow, portiaderossi, dogecoin, payment, amazon",
+        "X_tweet_count": 4,
+        "X_username": "Marius Leonte",
+        "Y_text": "@JeffBezos @EmmanuelMacron Dogecoin as payment for Amazon ?",
+        "Y_token": "jeffbezos, emmanuelmacron, dogecoin, payment, amazon",
+        "Y_tweet_count": 6,
+        "Y_username": "Marius Leonte",
+        "X_length": 71,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 83.1,
+        "X_length_percent_of_Y": 120.34,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@JeffBezos @lizzo Dogecoin as payment for Amazon .",
+        "X_token": "jeffbezos, lizzo, dogecoin, payment, amazon",
+        "X_tweet_count": 5,
+        "X_username": "Marius Leonte",
+        "Y_text": "@JeffBezos @EmmanuelMacron Dogecoin as payment for Amazon ?",
+        "Y_token": "jeffbezos, emmanuelmacron, dogecoin, payment, amazon",
+        "Y_tweet_count": 6,
+        "Y_username": "Marius Leonte",
+        "X_length": 50,
+        "Y_length": 59,
+        "Y_length_percent_of_X": 118.0,
+        "X_length_percent_of_Y": 84.75,
+        "dice_coefficient": 80.0
+    }
+]

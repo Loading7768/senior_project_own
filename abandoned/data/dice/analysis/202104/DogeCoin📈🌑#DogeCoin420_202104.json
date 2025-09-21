@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@elonmusk Doge Coin To The Moon!",
+        "X_token": "elonmusk, doge, coin, moon",
+        "X_tweet_count": 15,
+        "X_username": "DogeCoin📈🌑#DogeCoin420",
+        "Y_text": "@elonmusk Doge to the moon also!",
+        "Y_token": "elonmusk, doge, moon, also",
+        "Y_tweet_count": 22,
+        "Y_username": "DogeCoin📈🌑#DogeCoin420",
+        "X_length": 32,
+        "Y_length": 32,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@elonmusk I need all #dogearmy to follow me!",
+        "X_token": "elonmusk, need, dogearmy, follow",
+        "X_tweet_count": 17,
+        "X_username": "DogeCoin📈🌑#DogeCoin420",
+        "Y_text": "@elonmusk All #dogearmy follow me to the moon",
+        "Y_token": "elonmusk, dogearmy, follow, moon",
+        "Y_tweet_count": 18,
+        "Y_username": "DogeCoin📈🌑#DogeCoin420",
+        "X_length": 44,
+        "Y_length": 45,
+        "Y_length_percent_of_X": 102.27,
+        "X_length_percent_of_Y": 97.78,
+        "dice_coefficient": 75.0
+    }
+]

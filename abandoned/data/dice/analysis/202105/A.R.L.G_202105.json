@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Next week. #Dogefather #DogecoinToTheMoon #SNLDoge #SNLmay8 #ElonMusk #dogecoin @50cent https://t.co/LGNRnN82Jg",
+        "X_token": "next, week, dogefather, dogecointothemoon, snldoge, snlmay8, elonmusk, dogecoin, 50cent, https",
+        "X_tweet_count": 6,
+        "X_username": "A.R.L.G",
+        "Y_text": "Don’t forget. #ElonMusk #Dogefather #DogecoinToTheMoon #SNLDoge #dogecoin https://t.co/7liRrdSHJp",
+        "Y_token": "forget, elonmusk, dogefather, dogecointothemoon, snldoge, dogecoin, https",
+        "Y_tweet_count": 7,
+        "Y_username": "A.R.L.G",
+        "X_length": 111,
+        "Y_length": 97,
+        "Y_length_percent_of_X": 87.39,
+        "X_length_percent_of_Y": 114.43,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "@mcuban @mcuban Will you PLEASE tell us, #dogearmy and the World, if you have spoken to other @NBA Governor’s and/or Adam Silver about accepting #dogecoin?",
+        "X_token": "mcuban, mcuban, please, tell, us, dogearmy, world, spoken, nba, governor, adam, silver, accepting, dogecoin",
+        "X_tweet_count": 44,
+        "X_username": "A.R.L.G",
+        "Y_text": "@mcuban @mcuban Can you tell us, #dogearmy and the World, if you have spoken to other @NBA Governor’s and/or Adam  Silver about accepting #dogecoin?",
+        "Y_token": "mcuban, mcuban, tell, us, dogearmy, world, spoken, nba, governor, adam, silver, accepting, dogecoin",
+        "Y_tweet_count": 46,
+        "Y_username": "A.R.L.G",
+        "X_length": 155,
+        "Y_length": 148,
+        "Y_length_percent_of_X": 95.48,
+        "X_length_percent_of_Y": 104.73,
+        "dice_coefficient": 96.0
+    }
+]

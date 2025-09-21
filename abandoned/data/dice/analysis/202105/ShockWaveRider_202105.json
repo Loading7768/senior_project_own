@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Did I just see .55 #dogecoin? https://t.co/5dNOEsukAT",
+        "X_token": "see, dogecoin, https",
+        "X_tweet_count": 3,
+        "X_username": "ShockWaveRider",
+        "Y_text": "I see you  #Dogecoin the jigs up #patterns https://t.co/KY926ytXZL",
+        "Y_token": "see, dogecoin, jigs, patterns, https",
+        "Y_tweet_count": 14,
+        "Y_username": "ShockWaveRider",
+        "X_length": 53,
+        "Y_length": 66,
+        "Y_length_percent_of_X": 124.53,
+        "X_length_percent_of_Y": 80.3,
+        "dice_coefficient": 75.0
+    }
+]

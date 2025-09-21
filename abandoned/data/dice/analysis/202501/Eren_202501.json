@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@NikolaBench Azuki will always be the best!\n\n$PEPE $BTC #Moodeng $GOAT $Michi $SOL $DOGE #memecoin",
+        "X_token": "nikolabench, azuki, always, best, pepe, btc, moodeng, goat, michi, sol, doge, memecoin",
+        "X_tweet_count": 3,
+        "X_username": "Eren",
+        "Y_text": "@Noahhweb3 Azuki is always active and ready to make your day!\n\n$PEPE $BTC #Moodeng $GOAT $Michi $SOL $DOGE #memecoin",
+        "Y_token": "noahhweb3, azuki, always, active, ready, make, day, pepe, btc, moodeng, goat, michi, sol, doge, memecoin",
+        "Y_tweet_count": 10,
+        "Y_username": "Eren",
+        "X_length": 98,
+        "Y_length": 116,
+        "Y_length_percent_of_X": 118.37,
+        "X_length_percent_of_Y": 84.48,
+        "dice_coefficient": 74.07
+    },
+    {
+        "X_text": "@NikolaBench Azuki will always be the best!\n\n$PEPE $BTC #Moodeng $GOAT $Michi $SOL $DOGE #memecoin",
+        "X_token": "nikolabench, azuki, always, best, pepe, btc, moodeng, goat, michi, sol, doge, memecoin",
+        "X_tweet_count": 3,
+        "X_username": "Eren",
+        "Y_text": "@greg16676935420 Azuki’s workspace will fit right through their!\n\n$PEPE $BTC #Moodeng $GOAT $Michi $SOL $DOGE #memecoin",
+        "Y_token": "greg16676935420, azuki, workspace, fit, right, pepe, btc, moodeng, goat, michi, sol, doge, memecoin",
+        "Y_tweet_count": 11,
+        "Y_username": "Eren",
+        "X_length": 98,
+        "Y_length": 119,
+        "Y_length_percent_of_X": 121.43,
+        "X_length_percent_of_Y": 82.35,
+        "dice_coefficient": 72.0
+    },
+    {
+        "X_text": "@tekee Do you think Azuki works for SOL or SOL works for Azuki?🤔\n\n$PEPE $BTC #Moodeng $GOAT $Michi $SOL $DOGE #memecoins",
+        "X_token": "tekee, think, azuki, works, sol, sol, works, azuki, pepe, btc, moodeng, goat, michi, sol, doge, memecoins",
+        "X_tweet_count": 5,
+        "X_username": "Eren",
+        "Y_text": "@moonshot That will be Azuki!\n\nShe’s always working herself up to be at the top \n\n$PEPE $BTC #Moodeng $GOAT $Michi $SOL $DOGE #memecoins",
+        "Y_token": "moonshot, azuki, always, working, top, pepe, btc, moodeng, goat, michi, sol, doge, memecoins",
+        "Y_tweet_count": 9,
+        "Y_username": "Eren",
+        "X_length": 120,
+        "Y_length": 136,
+        "Y_length_percent_of_X": 113.33,
+        "X_length_percent_of_Y": 88.24,
+        "dice_coefficient": 72.0
+    },
+    {
+        "X_text": "@greg16676935420 Azuki’s workspace will fit right through their!\n\n$PEPE $BTC #Moodeng $GOAT $Michi $SOL $DOGE #memecoin",
+        "X_token": "greg16676935420, azuki, workspace, fit, right, pepe, btc, moodeng, goat, michi, sol, doge, memecoin",
+        "X_tweet_count": 11,
+        "X_username": "Eren",
+        "Y_text": "@greg16676935420 Greg was also right about Azuki taking over the memecoin space\n\n$PEPE $BTC #Moodeng $GOAT $Michi $SOL $DOGE #memecoin",
+        "Y_token": "greg16676935420, greg, also, right, azuki, taking, memecoin, space, pepe, btc, moodeng, goat, michi, sol, doge, memecoin",
+        "Y_tweet_count": 12,
+        "Y_username": "Eren",
+        "X_length": 119,
+        "Y_length": 134,
+        "Y_length_percent_of_X": 112.61,
+        "X_length_percent_of_Y": 88.81,
+        "dice_coefficient": 78.57
+    }
+]

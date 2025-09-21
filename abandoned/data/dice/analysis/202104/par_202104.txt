@@ -1,0 +1,473 @@
+﻿X = [Let’s go .10 #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [1]
+	X username = [par]
+Y = [Let’s go guys  #dogecoin]
+Y_token = [let, go, guys, dogecoin]
+	Y tweet_count = [8]
+	Y username = [par]
+Total Length: X = 22, Y = 24 (Y / X = 109.09  X / Y = 91.67)
+Dice Coefficient: 85.71% 
+
+X = [Let’s go .10 #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [1]
+	X username = [par]
+Y = [Let’s go  #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [20]
+	Y username = [par]
+Total Length: X = 22, Y = 19 (Y / X = 86.36  X / Y = 115.79)
+Dice Coefficient: 100.00% 
+
+X = [Let’s go .10 #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [1]
+	X username = [par]
+Y = [Let’s go .15 #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [49]
+	Y username = [par]
+Total Length: X = 22, Y = 22 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Let’s go .10 #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [1]
+	X username = [par]
+Y = [Let’s go 15 #dogecoin]
+Y_token = [let, go, 15, dogecoin]
+	Y tweet_count = [56]
+	Y username = [par]
+Total Length: X = 22, Y = 21 (Y / X = 95.45  X / Y = 104.76)
+Dice Coefficient: 85.71% 
+
+X = [Let’s go .10 #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [1]
+	X username = [par]
+Y = [Let’s go #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [66]
+	Y username = [par]
+Total Length: X = 22, Y = 18 (Y / X = 81.82  X / Y = 122.22)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk ru awake ? We need ya 💪💪💰💰 #dogecoin]
+X_token = [elonmusk, ru, awake, need, ya, dogecoin]
+	X tweet_count = [4]
+	X username = [par]
+Y = [We all need ya @elonmusk 💪💪 #dogecoin]
+Y_token = [need, ya, elonmusk, dogecoin]
+	Y tweet_count = [13]
+	Y username = [par]
+Total Length: X = 46, Y = 37 (Y / X = 80.43  X / Y = 124.32)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk ru awake ? We need ya 💪💪💰💰 #dogecoin]
+X_token = [elonmusk, ru, awake, need, ya, dogecoin]
+	X tweet_count = [4]
+	X username = [par]
+Y = [Where is @elonmusk wake up we need ya 💪🥵🥵 #dogecoin]
+Y_token = [elonmusk, wake, need, ya, dogecoin]
+	Y tweet_count = [14]
+	Y username = [par]
+Total Length: X = 46, Y = 51 (Y / X = 110.87  X / Y = 90.20)
+Dice Coefficient: 72.73% 
+
+X = [Go  go go go baby  #dogecoin]
+X_token = [go, go, go, go, baby, dogecoin]
+	X tweet_count = [6]
+	X username = [par]
+Y = [Gooooo baby go  #dogecoin]
+Y_token = [gooooo, baby, go, dogecoin]
+	Y tweet_count = [9]
+	Y username = [par]
+Total Length: X = 28, Y = 25 (Y / X = 89.29  X / Y = 112.00)
+Dice Coefficient: 85.71% 
+
+X = [Go  go go go baby  #dogecoin]
+X_token = [go, go, go, go, baby, dogecoin]
+	X tweet_count = [6]
+	X username = [par]
+Y = [Yesssets go baby  #dogecoin]
+Y_token = [yesssets, go, baby, dogecoin]
+	Y tweet_count = [16]
+	Y username = [par]
+Total Length: X = 28, Y = 27 (Y / X = 96.43  X / Y = 103.70)
+Dice Coefficient: 85.71% 
+
+X = [Go  go go go baby  #dogecoin]
+X_token = [go, go, go, go, baby, dogecoin]
+	X tweet_count = [6]
+	X username = [par]
+Y = [Let’s gooo ... go baby  #dogecoin]
+Y_token = [let, gooo, go, baby, dogecoin]
+	Y tweet_count = [26]
+	Y username = [par]
+Total Length: X = 28, Y = 33 (Y / X = 117.86  X / Y = 84.85)
+Dice Coefficient: 75.00% 
+
+X = [Let’s goooo baby  #dogecoin]
+X_token = [let, goooo, baby, dogecoin]
+	X tweet_count = [7]
+	X username = [par]
+Y = [Gooooooo #dogecoin goooo baby]
+Y_token = [gooooooo, dogecoin, goooo, baby]
+	Y tweet_count = [17]
+	Y username = [par]
+Total Length: X = 27, Y = 29 (Y / X = 107.41  X / Y = 93.10)
+Dice Coefficient: 75.00% 
+
+X = [Let’s goooo baby  #dogecoin]
+X_token = [let, goooo, baby, dogecoin]
+	X tweet_count = [7]
+	X username = [par]
+Y = [Let’s gooo baby #dogecoin]
+Y_token = [let, gooo, baby, dogecoin]
+	Y tweet_count = [53]
+	Y username = [par]
+Total Length: X = 27, Y = 25 (Y / X = 92.59  X / Y = 108.00)
+Dice Coefficient: 75.00% 
+
+X = [Let’s goooo baby  #dogecoin]
+X_token = [let, goooo, baby, dogecoin]
+	X tweet_count = [7]
+	X username = [par]
+Y = [Let’s goooo baby #dogecoin]
+Y_token = [let, goooo, baby, dogecoin]
+	Y tweet_count = [58]
+	Y username = [par]
+Total Length: X = 27, Y = 26 (Y / X = 96.30  X / Y = 103.85)
+Dice Coefficient: 100.00% 
+
+X = [Let’s goooo baby  #dogecoin]
+X_token = [let, goooo, baby, dogecoin]
+	X tweet_count = [7]
+	X username = [par]
+Y = [Let’s goooo 15 #dogecoin]
+Y_token = [let, goooo, 15, dogecoin]
+	Y tweet_count = [59]
+	Y username = [par]
+Total Length: X = 27, Y = 24 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 75.00% 
+
+X = [Let’s go guys  #dogecoin]
+X_token = [let, go, guys, dogecoin]
+	X tweet_count = [8]
+	X username = [par]
+Y = [Let’s go .15 #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [49]
+	Y username = [par]
+Total Length: X = 24, Y = 22 (Y / X = 91.67  X / Y = 109.09)
+Dice Coefficient: 85.71% 
+
+X = [Let’s go guys  #dogecoin]
+X_token = [let, go, guys, dogecoin]
+	X tweet_count = [8]
+	X username = [par]
+Y = [Let’s go 15 #dogecoin]
+Y_token = [let, go, 15, dogecoin]
+	Y tweet_count = [56]
+	Y username = [par]
+Total Length: X = 24, Y = 21 (Y / X = 87.50  X / Y = 114.29)
+Dice Coefficient: 75.00% 
+
+X = [Gooooo baby go  #dogecoin]
+X_token = [gooooo, baby, go, dogecoin]
+	X tweet_count = [9]
+	X username = [par]
+Y = [Yesssets go baby  #dogecoin]
+Y_token = [yesssets, go, baby, dogecoin]
+	Y tweet_count = [16]
+	Y username = [par]
+Total Length: X = 25, Y = 27 (Y / X = 108.00  X / Y = 92.59)
+Dice Coefficient: 75.00% 
+
+X = [Go doge go doge  #dogecoin]
+X_token = [go, doge, go, doge, dogecoin]
+	X tweet_count = [10]
+	X username = [par]
+Y = [Let’s go doge fammmmm  #dogecoin]
+Y_token = [let, go, doge, fammmmm, dogecoin]
+	Y tweet_count = [27]
+	Y username = [par]
+Total Length: X = 26, Y = 32 (Y / X = 123.08  X / Y = 81.25)
+Dice Coefficient: 75.00% 
+
+X = [We all need ya @elonmusk 💪💪 #dogecoin]
+X_token = [need, ya, elonmusk, dogecoin]
+	X tweet_count = [13]
+	X username = [par]
+Y = [@elonmusk need ya man  #dogecoin]
+Y_token = [elonmusk, need, ya, man, dogecoin]
+	Y tweet_count = [64]
+	Y username = [par]
+Total Length: X = 37, Y = 32 (Y / X = 86.49  X / Y = 115.62)
+Dice Coefficient: 88.89% 
+
+X = [Gooooooo #dogecoin goooo baby]
+X_token = [gooooooo, dogecoin, goooo, baby]
+	X tweet_count = [17]
+	X username = [par]
+Y = [Let’s goooo baby #dogecoin]
+Y_token = [let, goooo, baby, dogecoin]
+	Y tweet_count = [58]
+	Y username = [par]
+Total Length: X = 29, Y = 26 (Y / X = 89.66  X / Y = 111.54)
+Dice Coefficient: 75.00% 
+
+X = [Let’s trend doge fam #dogecoin]
+X_token = [let, trend, doge, fam, dogecoin]
+	X tweet_count = [19]
+	X username = [par]
+Y = [Let’s gooo doge fam  #dogecoin]
+Y_token = [let, gooo, doge, fam, dogecoin]
+	Y tweet_count = [25]
+	Y username = [par]
+Total Length: X = 30, Y = 30 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 80.00% 
+
+X = [Let’s trend doge fam #dogecoin]
+X_token = [let, trend, doge, fam, dogecoin]
+	X tweet_count = [19]
+	X username = [par]
+Y = [#dogecoin where is doge fam]
+Y_token = [dogecoin, doge, fam]
+	Y tweet_count = [30]
+	Y username = [par]
+Total Length: X = 30, Y = 27 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [Let’s trend doge fam #dogecoin]
+X_token = [let, trend, doge, fam, dogecoin]
+	X tweet_count = [19]
+	X username = [par]
+Y = [Where is doge fam #dogecoin]
+Y_token = [doge, fam, dogecoin]
+	Y tweet_count = [32]
+	Y username = [par]
+Total Length: X = 30, Y = 27 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [Let’s go  #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [20]
+	X username = [par]
+Y = [Let’s go .15 #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [49]
+	Y username = [par]
+Total Length: X = 19, Y = 22 (Y / X = 115.79  X / Y = 86.36)
+Dice Coefficient: 100.00% 
+
+X = [Let’s go  #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [20]
+	X username = [par]
+Y = [Let’s go 15 #dogecoin]
+Y_token = [let, go, 15, dogecoin]
+	Y tweet_count = [56]
+	Y username = [par]
+Total Length: X = 19, Y = 21 (Y / X = 110.53  X / Y = 90.48)
+Dice Coefficient: 85.71% 
+
+X = [Let’s go  #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [20]
+	X username = [par]
+Y = [Let’s go #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [66]
+	Y username = [par]
+Total Length: X = 19, Y = 18 (Y / X = 94.74  X / Y = 105.56)
+Dice Coefficient: 100.00% 
+
+X = [Let’s gooo doge fam  #dogecoin]
+X_token = [let, gooo, doge, fam, dogecoin]
+	X tweet_count = [25]
+	X username = [par]
+Y = [#dogecoin where is doge fam]
+Y_token = [dogecoin, doge, fam]
+	Y tweet_count = [30]
+	Y username = [par]
+Total Length: X = 30, Y = 27 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [Let’s gooo doge fam  #dogecoin]
+X_token = [let, gooo, doge, fam, dogecoin]
+	X tweet_count = [25]
+	X username = [par]
+Y = [Where is doge fam #dogecoin]
+Y_token = [doge, fam, dogecoin]
+	Y tweet_count = [32]
+	Y username = [par]
+Total Length: X = 30, Y = 27 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [Let’s gooo doge fam  #dogecoin]
+X_token = [let, gooo, doge, fam, dogecoin]
+	X tweet_count = [25]
+	X username = [par]
+Y = [Let’s gooo fam  #dogecoin]
+Y_token = [let, gooo, fam, dogecoin]
+	Y tweet_count = [54]
+	Y username = [par]
+Total Length: X = 30, Y = 25 (Y / X = 83.33  X / Y = 120.00)
+Dice Coefficient: 88.89% 
+
+X = [Let’s goooo #dogecoin]
+X_token = [let, goooo, dogecoin]
+	X tweet_count = [29]
+	X username = [par]
+Y = [Let’s goooo baby #dogecoin]
+Y_token = [let, goooo, baby, dogecoin]
+	Y tweet_count = [58]
+	Y username = [par]
+Total Length: X = 21, Y = 26 (Y / X = 123.81  X / Y = 80.77)
+Dice Coefficient: 85.71% 
+
+X = [Let’s goooo #dogecoin]
+X_token = [let, goooo, dogecoin]
+	X tweet_count = [29]
+	X username = [par]
+Y = [Let’s goooo 15 #dogecoin]
+Y_token = [let, goooo, 15, dogecoin]
+	Y tweet_count = [59]
+	Y username = [par]
+Total Length: X = 21, Y = 24 (Y / X = 114.29  X / Y = 87.50)
+Dice Coefficient: 85.71% 
+
+X = [#dogecoin where is doge fam]
+X_token = [dogecoin, doge, fam]
+	X tweet_count = [30]
+	X username = [par]
+Y = [Where is doge fam #dogecoin]
+Y_token = [doge, fam, dogecoin]
+	Y tweet_count = [32]
+	Y username = [par]
+Total Length: X = 27, Y = 27 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin where is doge fam]
+X_token = [dogecoin, doge, fam]
+	X tweet_count = [30]
+	X username = [par]
+Y = [Wake up doge fam #dogecoin]
+Y_token = [wake, doge, fam, dogecoin]
+	Y tweet_count = [50]
+	Y username = [par]
+Total Length: X = 27, Y = 26 (Y / X = 96.30  X / Y = 103.85)
+Dice Coefficient: 85.71% 
+
+X = [Where is doge fam #dogecoin]
+X_token = [doge, fam, dogecoin]
+	X tweet_count = [32]
+	X username = [par]
+Y = [Wake up doge fam #dogecoin]
+Y_token = [wake, doge, fam, dogecoin]
+	Y tweet_count = [50]
+	Y username = [par]
+Total Length: X = 27, Y = 26 (Y / X = 96.30  X / Y = 103.85)
+Dice Coefficient: 85.71% 
+
+X = [Let’s go .15 #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [49]
+	X username = [par]
+Y = [Let’s go 15 #dogecoin]
+Y_token = [let, go, 15, dogecoin]
+	Y tweet_count = [56]
+	Y username = [par]
+Total Length: X = 22, Y = 21 (Y / X = 95.45  X / Y = 104.76)
+Dice Coefficient: 85.71% 
+
+X = [Let’s go .15 #dogecoin]
+X_token = [let, go, dogecoin]
+	X tweet_count = [49]
+	X username = [par]
+Y = [Let’s go #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [66]
+	Y username = [par]
+Total Length: X = 22, Y = 18 (Y / X = 81.82  X / Y = 122.22)
+Dice Coefficient: 100.00% 
+
+X = [Let’s gooo #dogecoin]
+X_token = [let, gooo, dogecoin]
+	X tweet_count = [52]
+	X username = [par]
+Y = [Let’s gooo baby #dogecoin]
+Y_token = [let, gooo, baby, dogecoin]
+	Y tweet_count = [53]
+	Y username = [par]
+Total Length: X = 20, Y = 25 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 85.71% 
+
+X = [Let’s gooo #dogecoin]
+X_token = [let, gooo, dogecoin]
+	X tweet_count = [52]
+	X username = [par]
+Y = [Let’s gooo fam  #dogecoin]
+Y_token = [let, gooo, fam, dogecoin]
+	Y tweet_count = [54]
+	Y username = [par]
+Total Length: X = 20, Y = 25 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 85.71% 
+
+X = [Let’s gooo baby #dogecoin]
+X_token = [let, gooo, baby, dogecoin]
+	X tweet_count = [53]
+	X username = [par]
+Y = [Let’s gooo fam  #dogecoin]
+Y_token = [let, gooo, fam, dogecoin]
+	Y tweet_count = [54]
+	Y username = [par]
+Total Length: X = 25, Y = 25 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [Let’s gooo baby #dogecoin]
+X_token = [let, gooo, baby, dogecoin]
+	X tweet_count = [53]
+	X username = [par]
+Y = [Let’s goooo baby #dogecoin]
+Y_token = [let, goooo, baby, dogecoin]
+	Y tweet_count = [58]
+	Y username = [par]
+Total Length: X = 25, Y = 26 (Y / X = 104.00  X / Y = 96.15)
+Dice Coefficient: 75.00% 
+
+X = [Let’s go 15 #dogecoin]
+X_token = [let, go, 15, dogecoin]
+	X tweet_count = [56]
+	X username = [par]
+Y = [Let’s goooo 15 #dogecoin]
+Y_token = [let, goooo, 15, dogecoin]
+	Y tweet_count = [59]
+	Y username = [par]
+Total Length: X = 21, Y = 24 (Y / X = 114.29  X / Y = 87.50)
+Dice Coefficient: 75.00% 
+
+X = [Let’s go 15 #dogecoin]
+X_token = [let, go, 15, dogecoin]
+	X tweet_count = [56]
+	X username = [par]
+Y = [Let’s go #dogecoin]
+Y_token = [let, go, dogecoin]
+	Y tweet_count = [66]
+	Y username = [par]
+Total Length: X = 21, Y = 18 (Y / X = 85.71  X / Y = 116.67)
+Dice Coefficient: 85.71% 
+
+X = [Let’s goooo baby #dogecoin]
+X_token = [let, goooo, baby, dogecoin]
+	X tweet_count = [58]
+	X username = [par]
+Y = [Let’s goooo 15 #dogecoin]
+Y_token = [let, goooo, 15, dogecoin]
+	Y tweet_count = [59]
+	Y username = [par]
+Total Length: X = 26, Y = 24 (Y / X = 92.31  X / Y = 108.33)
+Dice Coefficient: 75.00% 
+

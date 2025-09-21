@@ -1,0 +1,11 @@
+﻿X = [Here's the poll for the original ticker options. $BTC $DOGE $TSLA $TSLAQ\n\nhttps://t.co/dSo8S5TJdM]
+X_token = [poll, original, ticker, options, btc, doge, tsla, tslaq, https]
+	X tweet_count = [10]
+	X username = [John Engle]
+Y = [Here's the poll for the original ticker options. $BTC $DOGE $TSLA $TSLAQ\n\nhttps://t.co/dSo8S5TJdM]
+Y_token = [poll, original, ticker, options, btc, doge, tsla, tslaq, https]
+	Y tweet_count = [11]
+	Y username = [John Engle]
+Total Length: X = 97, Y = 97 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

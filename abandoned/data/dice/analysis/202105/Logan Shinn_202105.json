@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Fiat currency is so 2020 @Danology4 @mcuban @elonmusk @itsALLrisky @TheEllenShow @thedogeguru @MattWallace888 dogecoin future https://t.co/TbUjyeAsxe",
+        "X_token": "fiat, currency, 2020, danology4, mcuban, elonmusk, itsallrisky, theellenshow, thedogeguru, mattwallace888, dogecoin, future, https",
+        "X_tweet_count": 17,
+        "X_username": "Logan Shinn",
+        "Y_text": "Only One Dogecoin #dogecoin #doge #dogearmy @thedogeguru @MattWallace888 @TheEllenShow @Danology4 @elonmusk @mcuban @itsALLrisky https://t.co/GTYBKJJWH1",
+        "Y_token": "one, dogecoin, dogecoin, doge, dogearmy, thedogeguru, mattwallace888, theellenshow, danology4, elonmusk, mcuban, itsallrisky, https",
+        "Y_tweet_count": 22,
+        "Y_username": "Logan Shinn",
+        "X_length": 149,
+        "Y_length": 152,
+        "Y_length_percent_of_X": 102.01,
+        "X_length_percent_of_Y": 98.03,
+        "dice_coefficient": 72.0
+    },
+    {
+        "X_text": "In our lifetime there will only be one Elon Musk @MattWallace888 @itsALLrisky @Danology4 @elonmusk @TheEllenShow @mcuban #doge #dogecoin https://t.co/ou5dcUmedS",
+        "X_token": "lifetime, one, elon, musk, mattwallace888, itsallrisky, danology4, elonmusk, theellenshow, mcuban, doge, dogecoin, https",
+        "X_tweet_count": 20,
+        "X_username": "Logan Shinn",
+        "Y_text": "Only One Dogecoin #dogecoin #doge #dogearmy @thedogeguru @MattWallace888 @TheEllenShow @Danology4 @elonmusk @mcuban @itsALLrisky https://t.co/GTYBKJJWH1",
+        "Y_token": "one, dogecoin, dogecoin, doge, dogearmy, thedogeguru, mattwallace888, theellenshow, danology4, elonmusk, mcuban, itsallrisky, https",
+        "Y_tweet_count": 22,
+        "Y_username": "Logan Shinn",
+        "X_length": 160,
+        "Y_length": 152,
+        "Y_length_percent_of_X": 95.0,
+        "X_length_percent_of_Y": 105.26,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@elonmusk Say it’s #dogecoin",
+        "X_token": "elonmusk, say, dogecoin",
+        "X_tweet_count": 26,
+        "X_username": "Logan Shinn",
+        "Y_text": "@elonmusk Say my #dogecoin name",
+        "Y_token": "elonmusk, say, dogecoin, name",
+        "Y_tweet_count": 27,
+        "Y_username": "Logan Shinn",
+        "X_length": 28,
+        "Y_length": 31,
+        "Y_length_percent_of_X": 110.71,
+        "X_length_percent_of_Y": 90.32,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@ChurchOfPumps @BTC is Gold and @dogecoin is Currency",
+        "X_token": "churchofpumps, btc, gold, dogecoin, currency",
+        "X_tweet_count": 48,
+        "X_username": "Logan Shinn",
+        "Y_text": "@JustinMellott1 @BTC is Gold and @dogecoin is Currency",
+        "Y_token": "justinmellott1, btc, gold, dogecoin, currency",
+        "Y_tweet_count": 50,
+        "Y_username": "Logan Shinn",
+        "X_length": 53,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 101.89,
+        "X_length_percent_of_Y": 98.15,
+        "dice_coefficient": 80.0
+    }
+]

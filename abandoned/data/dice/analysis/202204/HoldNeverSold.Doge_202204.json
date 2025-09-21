@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@BillyM2k I bought 420 #Dogecoin because today is 420 too https://t.co/SVb0n1ywWx",
+        "X_token": "billym2k, bought, 420, dogecoin, today, 420, https",
+        "X_tweet_count": 43,
+        "X_username": "HoldNeverSold.Doge",
+        "Y_text": "I just bought another 420 #Dogecoin because today is 4/20 too https://t.co/gzFqI4pyrP",
+        "Y_token": "bought, another, 420, dogecoin, today, https",
+        "Y_tweet_count": 48,
+        "Y_username": "HoldNeverSold.Doge",
+        "X_length": 81,
+        "Y_length": 85,
+        "Y_length_percent_of_X": 104.94,
+        "X_length_percent_of_Y": 95.29,
+        "dice_coefficient": 83.33
+    }
+]

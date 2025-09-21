@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@ElonMuskAOC Yes I will",
+        "X_token": "elonmuskaoc, yes",
+        "X_tweet_count": 13,
+        "X_username": "G Mollieres DOGECOIN&ECVCOIN",
+        "Y_text": "@ElonMuskAOC Xmail Yes",
+        "Y_token": "elonmuskaoc, xmail, yes",
+        "Y_tweet_count": 33,
+        "Y_username": "G Mollieres DOGECOIN&ECVCOIN",
+        "X_length": 23,
+        "Y_length": 22,
+        "Y_length_percent_of_X": 95.65,
+        "X_length_percent_of_Y": 104.55,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@elonmuskADO C: $5 MILLION CASH",
+        "X_token": "elonmuskado, c, 5, million, cash",
+        "X_tweet_count": 23,
+        "X_username": "G Mollieres DOGECOIN&ECVCOIN",
+        "Y_text": "@elonmuskADO C 5 000 000 cash",
+        "Y_token": "elonmuskado, c, 5, 000, 000, cash",
+        "Y_tweet_count": 24,
+        "Y_username": "G Mollieres DOGECOIN&ECVCOIN",
+        "X_length": 31,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 93.55,
+        "X_length_percent_of_Y": 106.9,
+        "dice_coefficient": 80.0
+    }
+]

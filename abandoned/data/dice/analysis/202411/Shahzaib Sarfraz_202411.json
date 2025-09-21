@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Dogecoin is Breaking Out While Shiba Inu Price Con https://t.co/kIncJ2kod1",
+        "X_token": "dogecoin, breaking, shiba, inu, price, con, https",
+        "X_tweet_count": 2,
+        "X_username": "Shahzaib Sarfraz",
+        "Y_text": "Dogecoin is Breaking Out While Shiba Inu Price https://t.co/3W42eVcsIJ",
+        "Y_token": "dogecoin, breaking, shiba, inu, price, https",
+        "Y_tweet_count": 7,
+        "Y_username": "Shahzaib Sarfraz",
+        "X_length": 74,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 94.59,
+        "X_length_percent_of_Y": 105.71,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "Dogecoin is Breaking Out While Shiba Inu Price Con https://t.co/kIncJ2kod1",
+        "X_token": "dogecoin, breaking, shiba, inu, price, con, https",
+        "X_tweet_count": 2,
+        "X_username": "Shahzaib Sarfraz",
+        "Y_text": "Dogecoin is Breaking Out While Shiba Inu Price https://t.co/3W42eVd0yh",
+        "Y_token": "dogecoin, breaking, shiba, inu, price, https",
+        "Y_tweet_count": 9,
+        "Y_username": "Shahzaib Sarfraz",
+        "X_length": 74,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 94.59,
+        "X_length_percent_of_Y": 105.71,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "Analyst Says Dogecoin Next Target is an 82% Uptick https://t.co/mwxydL3UN8",
+        "X_token": "analyst, says, dogecoin, next, target, 82, uptick, https",
+        "X_tweet_count": 4,
+        "X_username": "Shahzaib Sarfraz",
+        "Y_text": "Analyst Says Dogecoin Next Target is an 82% Uptick https://t.co/mwxydL4sCG",
+        "Y_token": "analyst, says, dogecoin, next, target, 82, uptick, https",
+        "Y_tweet_count": 8,
+        "Y_username": "Shahzaib Sarfraz",
+        "X_length": 74,
+        "Y_length": 74,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Dogecoin is Breaking Out While Shiba Inu Price https://t.co/3W42eVcsIJ",
+        "X_token": "dogecoin, breaking, shiba, inu, price, https",
+        "X_tweet_count": 7,
+        "X_username": "Shahzaib Sarfraz",
+        "Y_text": "Dogecoin is Breaking Out While Shiba Inu Price https://t.co/3W42eVd0yh",
+        "Y_token": "dogecoin, breaking, shiba, inu, price, https",
+        "Y_tweet_count": 9,
+        "Y_username": "Shahzaib Sarfraz",
+        "X_length": 70,
+        "Y_length": 70,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

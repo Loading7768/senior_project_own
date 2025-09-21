@@ -1,0 +1,33 @@
+﻿X = [@elonmusk Elon dogecoin 👀 🙏🏼]
+X_token = [elonmusk, elon, dogecoin]
+	X tweet_count = [8]
+	X username = [Gianluca Ronconi]
+Y = [@elonmusk Elon please save dogecoin]
+Y_token = [elonmusk, elon, please, save, dogecoin]
+	Y tweet_count = [9]
+	Y username = [Gianluca Ronconi]
+Total Length: X = 28, Y = 35 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk Elon please save dogecoin]
+X_token = [elonmusk, elon, please, save, dogecoin]
+	X tweet_count = [9]
+	X username = [Gianluca Ronconi]
+Y = [@elonmusk Elon save dogecoin please 🙏🏼]
+Y_token = [elonmusk, elon, save, dogecoin, please]
+	Y tweet_count = [10]
+	Y username = [Gianluca Ronconi]
+Total Length: X = 35, Y = 38 (Y / X = 108.57  X / Y = 92.11)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Elon don’t forget dogecoin]
+X_token = [elonmusk, elon, forget, dogecoin]
+	X tweet_count = [11]
+	X username = [Gianluca Ronconi]
+Y = [@elonmusk Elon don’t forget dogecoin]
+Y_token = [elonmusk, elon, forget, dogecoin]
+	Y tweet_count = [13]
+	Y username = [Gianluca Ronconi]
+Total Length: X = 36, Y = 36 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

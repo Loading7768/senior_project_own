@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "I liked a @YouTube video https://t.co/NYLihmUa3o Dogecoin Price Prediction April 2018 Must Watch!!",
+        "X_token": "liked, youtube, video, https, dogecoin, price, prediction, april, 2018, must, watch",
+        "X_tweet_count": 5,
+        "X_username": "William Moore",
+        "Y_text": "I liked a @YouTube video https://t.co/SPLGFTbQUC DOGECOIN/ROBINHOOD Price Prediction",
+        "Y_token": "liked, youtube, video, https, price, prediction",
+        "Y_tweet_count": 6,
+        "Y_username": "William Moore",
+        "X_length": 98,
+        "Y_length": 84,
+        "Y_length_percent_of_X": 85.71,
+        "X_length_percent_of_Y": 116.67,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "I liked a @YouTube video https://t.co/NYLihmUa3o Dogecoin Price Prediction April 2018 Must Watch!!",
+        "X_token": "liked, youtube, video, https, dogecoin, price, prediction, april, 2018, must, watch",
+        "X_tweet_count": 5,
+        "X_username": "William Moore",
+        "Y_text": "I liked a @YouTube video https://t.co/nhI6FzZwzu Dogecoin Price Prediction 2018",
+        "Y_token": "liked, youtube, video, https, dogecoin, price, prediction, 2018",
+        "Y_tweet_count": 8,
+        "Y_username": "William Moore",
+        "X_length": 98,
+        "Y_length": 79,
+        "Y_length_percent_of_X": 80.61,
+        "X_length_percent_of_Y": 124.05,
+        "dice_coefficient": 84.21
+    },
+    {
+        "X_text": "I liked a @YouTube video https://t.co/SPLGFTbQUC DOGECOIN/ROBINHOOD Price Prediction",
+        "X_token": "liked, youtube, video, https, price, prediction",
+        "X_tweet_count": 6,
+        "X_username": "William Moore",
+        "Y_text": "I liked a @YouTube video https://t.co/nhI6FzZwzu Dogecoin Price Prediction 2018",
+        "Y_token": "liked, youtube, video, https, dogecoin, price, prediction, 2018",
+        "Y_tweet_count": 8,
+        "Y_username": "William Moore",
+        "X_length": 84,
+        "Y_length": 79,
+        "Y_length_percent_of_X": 94.05,
+        "X_length_percent_of_Y": 106.33,
+        "dice_coefficient": 85.71
+    }
+]

@@ -1,0 +1,33 @@
+﻿X = [To everyone who hasn’t given up on #dogecoin, retweet this. Let your TL know. 🚀]
+X_token = [everyone, given, dogecoin, retweet, let, tl, know]
+	X tweet_count = [40]
+	X username = [Kaya]
+Y = [To everyone who hasn’t given up on #dogecoin, retweet this. Let your TL know. 🚀]
+Y_token = [everyone, given, dogecoin, retweet, let, tl, know]
+	Y tweet_count = [45]
+	Y username = [Kaya]
+Total Length: X = 79, Y = 79 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [When do you think #dogecoin will hit $1?]
+X_token = [think, dogecoin, hit, 1]
+	X tweet_count = [50]
+	X username = [Kaya]
+Y = [When do you think #dogecoin will hit $1? 🚀]
+Y_token = [think, dogecoin, hit, 1]
+	Y tweet_count = [53]
+	Y username = [Kaya]
+Total Length: X = 40, Y = 42 (Y / X = 105.00  X / Y = 95.24)
+Dice Coefficient: 100.00% 
+
+X = [Even if #dogecoin makes you $1,000,000... are you still HODLing? 🚀]
+X_token = [even, dogecoin, makes, still, hodling]
+	X tweet_count = [68]
+	X username = [Kaya]
+Y = [Even if #dogecoin makes you $1,000,000... are you still HODLing? 🚀]
+Y_token = [even, dogecoin, makes, still, hodling]
+	Y tweet_count = [79]
+	Y username = [Kaya]
+Total Length: X = 66, Y = 66 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

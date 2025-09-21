@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@Crypto_Sisters @DJCrypto_ #shiba =doge coin",
+        "X_token": "shiba, coin",
+        "X_tweet_count": 12,
+        "X_username": "Iman",
+        "Y_text": "@Crypto_Sisters @shibainuevang #shiba =doge coin",
+        "Y_token": "shibainuevang, shiba, coin",
+        "Y_tweet_count": 13,
+        "Y_username": "Iman",
+        "X_length": 44,
+        "Y_length": 48,
+        "Y_length_percent_of_X": 109.09,
+        "X_length_percent_of_Y": 91.67,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@Crypto_Sisters @DJCrypto_ #shiba =doge coin",
+        "X_token": "shiba, coin",
+        "X_tweet_count": 12,
+        "X_username": "Iman",
+        "Y_text": "@elonmusk Shiba coin =doge coin 🤑🤑💪💪",
+        "Y_token": "elonmusk, shiba, coin, coin",
+        "Y_tweet_count": 18,
+        "Y_username": "Iman",
+        "X_length": 44,
+        "Y_length": 36,
+        "Y_length_percent_of_X": 81.82,
+        "X_length_percent_of_Y": 122.22,
+        "dice_coefficient": 80.0
+    }
+]

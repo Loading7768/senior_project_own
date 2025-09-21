@@ -1,0 +1,66 @@
+﻿X = [#dogecoin #doge @elonmusk this is Not good at all https://t.co/XXRMnmm2My]
+X_token = [dogecoin, doge, elonmusk, good, https]
+	X tweet_count = [61]
+	X username = [Mr. Doge]
+Y = [https://t.co/fnggmroMfv  this JUST in!!!! #dogecoin #doge @elonmusk #dogearmy]
+Y_token = [https, dogecoin, doge, elonmusk, dogearmy]
+	Y tweet_count = [66]
+	Y username = [Mr. Doge]
+Total Length: X = 73, Y = 77 (Y / X = 105.48  X / Y = 94.81)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin #doge @elonmusk this is Not good at all https://t.co/XXRMnmm2My]
+X_token = [dogecoin, doge, elonmusk, good, https]
+	X tweet_count = [61]
+	X username = [Mr. Doge]
+Y = [We are here #dogearmy #doge #dogecoin @elonmusk https://t.co/8gOCCMidls]
+Y_token = [dogearmy, doge, dogecoin, elonmusk, https]
+	Y tweet_count = [73]
+	Y username = [Mr. Doge]
+Total Length: X = 73, Y = 71 (Y / X = 97.26  X / Y = 102.82)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin #doge @elonmusk this is Not good at all https://t.co/XXRMnmm2My]
+X_token = [dogecoin, doge, elonmusk, good, https]
+	X tweet_count = [61]
+	X username = [Mr. Doge]
+Y = [Sorry NOT sorry!!!! #dogecoin #doge #dogearmy @elonmusk https://t.co/kgzSGaNd4v]
+Y_token = [sorry, sorry, dogecoin, doge, dogearmy, elonmusk, https]
+	Y tweet_count = [74]
+	Y username = [Mr. Doge]
+Total Length: X = 73, Y = 79 (Y / X = 108.22  X / Y = 92.41)
+Dice Coefficient: 72.73% 
+
+X = [https://t.co/fnggmroMfv  this JUST in!!!! #dogecoin #doge @elonmusk #dogearmy]
+X_token = [https, dogecoin, doge, elonmusk, dogearmy]
+	X tweet_count = [66]
+	X username = [Mr. Doge]
+Y = [We are here #dogearmy #doge #dogecoin @elonmusk https://t.co/8gOCCMidls]
+Y_token = [dogearmy, doge, dogecoin, elonmusk, https]
+	Y tweet_count = [73]
+	Y username = [Mr. Doge]
+Total Length: X = 77, Y = 71 (Y / X = 92.21  X / Y = 108.45)
+Dice Coefficient: 100.00% 
+
+X = [https://t.co/fnggmroMfv  this JUST in!!!! #dogecoin #doge @elonmusk #dogearmy]
+X_token = [https, dogecoin, doge, elonmusk, dogearmy]
+	X tweet_count = [66]
+	X username = [Mr. Doge]
+Y = [Sorry NOT sorry!!!! #dogecoin #doge #dogearmy @elonmusk https://t.co/kgzSGaNd4v]
+Y_token = [sorry, sorry, dogecoin, doge, dogearmy, elonmusk, https]
+	Y tweet_count = [74]
+	Y username = [Mr. Doge]
+Total Length: X = 77, Y = 79 (Y / X = 102.60  X / Y = 97.47)
+Dice Coefficient: 90.91% 
+
+X = [We are here #dogearmy #doge #dogecoin @elonmusk https://t.co/8gOCCMidls]
+X_token = [dogearmy, doge, dogecoin, elonmusk, https]
+	X tweet_count = [73]
+	X username = [Mr. Doge]
+Y = [Sorry NOT sorry!!!! #dogecoin #doge #dogearmy @elonmusk https://t.co/kgzSGaNd4v]
+Y_token = [sorry, sorry, dogecoin, doge, dogearmy, elonmusk, https]
+	Y tweet_count = [74]
+	Y username = [Mr. Doge]
+Total Length: X = 71, Y = 79 (Y / X = 111.27  X / Y = 89.87)
+Dice Coefficient: 90.91% 
+

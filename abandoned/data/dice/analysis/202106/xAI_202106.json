@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@davidgokhshtein #dogecoin is inevitable.",
+        "X_token": "davidgokhshtein, dogecoin, inevitable",
+        "X_tweet_count": 76,
+        "X_username": "xAI",
+        "Y_text": "@davidgokhshtein #dogecoin is inevitable",
+        "Y_token": "davidgokhshtein, dogecoin, inevitable",
+        "Y_tweet_count": 78,
+        "Y_username": "xAI",
+        "X_length": 41,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 97.56,
+        "X_length_percent_of_Y": 102.5,
+        "dice_coefficient": 100.0
+    }
+]

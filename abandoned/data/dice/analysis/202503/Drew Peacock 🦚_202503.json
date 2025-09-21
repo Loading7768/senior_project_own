@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "dogecoin 🎯 https://t.co/YSmXpXYI1h",
+        "X_token": "dogecoin, https",
+        "X_tweet_count": 76,
+        "X_username": "Drew Peacock 🦚",
+        "Y_text": "Quack. Dogecoin 🦆 https://t.co/ZlVnwyos2e",
+        "Y_token": "quack, dogecoin, https",
+        "Y_tweet_count": 98,
+        "Y_username": "Drew Peacock 🦚",
+        "X_length": 34,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 120.59,
+        "X_length_percent_of_Y": 82.93,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "dogecoin 🎯 https://t.co/YSmXpXYI1h",
+        "X_token": "dogecoin, https",
+        "X_tweet_count": 76,
+        "X_username": "Drew Peacock 🦚",
+        "Y_text": "Dogecoin 🦚 https://t.co/2eoCKUMD2h",
+        "Y_token": "dogecoin, https",
+        "Y_tweet_count": 103,
+        "Y_username": "Drew Peacock 🦚",
+        "X_length": 34,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Quack. Dogecoin 🦆 https://t.co/ZlVnwyos2e",
+        "X_token": "quack, dogecoin, https",
+        "X_tweet_count": 98,
+        "X_username": "Drew Peacock 🦚",
+        "Y_text": "Dogecoin 🦚 https://t.co/2eoCKUMD2h",
+        "Y_token": "dogecoin, https",
+        "Y_tweet_count": 103,
+        "Y_username": "Drew Peacock 🦚",
+        "X_length": 41,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 82.93,
+        "X_length_percent_of_Y": 120.59,
+        "dice_coefficient": 80.0
+    }
+]

@@ -1,0 +1,33 @@
+﻿X = [dogecoin 🎯 https://t.co/YSmXpXYI1h]
+X_token = [dogecoin, https]
+	X tweet_count = [76]
+	X username = [Drew Peacock 🦚]
+Y = [Quack. Dogecoin 🦆 https://t.co/ZlVnwyos2e]
+Y_token = [quack, dogecoin, https]
+	Y tweet_count = [98]
+	Y username = [Drew Peacock 🦚]
+Total Length: X = 34, Y = 41 (Y / X = 120.59  X / Y = 82.93)
+Dice Coefficient: 80.00% 
+
+X = [dogecoin 🎯 https://t.co/YSmXpXYI1h]
+X_token = [dogecoin, https]
+	X tweet_count = [76]
+	X username = [Drew Peacock 🦚]
+Y = [Dogecoin 🦚 https://t.co/2eoCKUMD2h]
+Y_token = [dogecoin, https]
+	Y tweet_count = [103]
+	Y username = [Drew Peacock 🦚]
+Total Length: X = 34, Y = 34 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Quack. Dogecoin 🦆 https://t.co/ZlVnwyos2e]
+X_token = [quack, dogecoin, https]
+	X tweet_count = [98]
+	X username = [Drew Peacock 🦚]
+Y = [Dogecoin 🦚 https://t.co/2eoCKUMD2h]
+Y_token = [dogecoin, https]
+	Y tweet_count = [103]
+	Y username = [Drew Peacock 🦚]
+Total Length: X = 41, Y = 34 (Y / X = 82.93  X / Y = 120.59)
+Dice Coefficient: 80.00% 
+

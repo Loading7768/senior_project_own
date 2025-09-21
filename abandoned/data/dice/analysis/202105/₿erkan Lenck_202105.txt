@@ -1,0 +1,11 @@
+﻿X = [What is your #Dogecoin price prediction after SNL? 👀]
+X_token = [dogecoin, price, prediction, snl]
+	X tweet_count = [13]
+	X username = [₿erkan Lenck]
+Y = [What is your #Dogecoin price prediction after SNL? 👀]
+Y_token = [dogecoin, price, prediction, snl]
+	Y tweet_count = [20]
+	Y username = [₿erkan Lenck]
+Total Length: X = 52, Y = 52 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

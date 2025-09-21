@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "#dogecoin is dippin right now! Let’s grab it up! #dogetothemoon #holdthedoge #buy",
+        "X_token": "dogecoin, dippin, right, let, grab, dogetothemoon, holdthedoge, buy",
+        "X_tweet_count": 14,
+        "X_username": "Thesadbear",
+        "Y_text": "#dogecoin still dippin some, let’s buy that right back up! #dogetothemoon #DogeToAdollar",
+        "Y_token": "dogecoin, still, dippin, let, buy, right, back, dogetothemoon, dogetoadollar",
+        "Y_tweet_count": 40,
+        "Y_username": "Thesadbear",
+        "X_length": 81,
+        "Y_length": 88,
+        "Y_length_percent_of_X": 108.64,
+        "X_length_percent_of_Y": 92.05,
+        "dice_coefficient": 70.59
+    }
+]

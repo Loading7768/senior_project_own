@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@dogepusher @DogecoinRise Dogecoin: A little spark can start a prairie Fire.",
+        "X_token": "dogepusher, dogecoinrise, dogecoin, little, spark, start, prairie, fire",
+        "X_tweet_count": 43,
+        "X_username": "Will",
+        "Y_text": "@DogecoinRise Dogecoin: A little spark can start a prairie Fire.",
+        "Y_token": "dogecoinrise, dogecoin, little, spark, start, prairie, fire",
+        "Y_tweet_count": 44,
+        "Y_username": "Will",
+        "X_length": 76,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 84.21,
+        "X_length_percent_of_Y": 118.75,
+        "dice_coefficient": 93.33
+    },
+    {
+        "X_text": "@dogepusher @DogecoinRise Dogecoin: A little spark can start a prairie Fire.",
+        "X_token": "dogepusher, dogecoinrise, dogecoin, little, spark, start, prairie, fire",
+        "X_tweet_count": 43,
+        "X_username": "Will",
+        "Y_text": "@mayemusk @nbcsnl @elonmusk dogecoin: a little spark can start a prairie Fire.",
+        "Y_token": "mayemusk, nbcsnl, elonmusk, dogecoin, little, spark, start, prairie, fire",
+        "Y_tweet_count": 45,
+        "Y_username": "Will",
+        "X_length": 76,
+        "Y_length": 78,
+        "Y_length_percent_of_X": 102.63,
+        "X_length_percent_of_Y": 97.44,
+        "dice_coefficient": 70.59
+    },
+    {
+        "X_text": "@DogecoinRise Dogecoin: A little spark can start a prairie Fire.",
+        "X_token": "dogecoinrise, dogecoin, little, spark, start, prairie, fire",
+        "X_tweet_count": 44,
+        "X_username": "Will",
+        "Y_text": "@mayemusk @nbcsnl @elonmusk dogecoin: a little spark can start a prairie Fire.",
+        "Y_token": "mayemusk, nbcsnl, elonmusk, dogecoin, little, spark, start, prairie, fire",
+        "Y_tweet_count": 45,
+        "Y_username": "Will",
+        "X_length": 64,
+        "Y_length": 78,
+        "Y_length_percent_of_X": 121.88,
+        "X_length_percent_of_Y": 82.05,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "Dogecoin.",
+        "X_token": "dogecoin",
+        "X_tweet_count": 109,
+        "X_username": "Will",
+        "Y_text": "Dogecoin",
+        "Y_token": "dogecoin",
+        "Y_tweet_count": 113,
+        "Y_username": "Will",
+        "X_length": 9,
+        "Y_length": 8,
+        "Y_length_percent_of_X": 88.89,
+        "X_length_percent_of_Y": 112.5,
+        "dice_coefficient": 100.0
+    }
+]

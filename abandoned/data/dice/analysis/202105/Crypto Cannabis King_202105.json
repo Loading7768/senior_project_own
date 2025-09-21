@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@KeralianTweets @dogecoin @Doge That’s awesome",
+        "X_token": "keraliantweets, dogecoin, doge, awesome",
+        "X_tweet_count": 16,
+        "X_username": "Crypto Cannabis King",
+        "Y_text": "@KeralianTweets @dogecoin @Doge I bought in at .16",
+        "Y_token": "keraliantweets, dogecoin, doge, bought",
+        "Y_tweet_count": 19,
+        "Y_username": "Crypto Cannabis King",
+        "X_length": 46,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 108.7,
+        "X_length_percent_of_Y": 92.0,
+        "dice_coefficient": 75.0
+    }
+]

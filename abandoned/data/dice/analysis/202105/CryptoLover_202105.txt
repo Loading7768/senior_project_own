@@ -1,0 +1,11 @@
+﻿X = [@dogecoin_empire I have some dogecoins already. Do you think I should buy more at today’s price or shall I wait for the dip?]
+X_token = [dogecoins, already, think, buy, today, price, shall, wait, dip]
+	X tweet_count = [4]
+	X username = [CryptoLover]
+Y = [@Dogecoinrich I have some dogecoin. Do you think I should buy more at today’s price or shall i wait for the dip?]
+Y_token = [dogecoinrich, dogecoin, think, buy, today, price, shall, wait, dip]
+	Y tweet_count = [5]
+	Y username = [CryptoLover]
+Total Length: X = 124, Y = 112 (Y / X = 90.32  X / Y = 110.71)
+Dice Coefficient: 77.78% 
+

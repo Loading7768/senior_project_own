@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@MattWallace888 @elonmusk #dogecoin is the people",
+        "X_token": "mattwallace888, elonmusk, dogecoin, people",
+        "X_tweet_count": 1,
+        "X_username": "Bernie",
+        "Y_text": "@GimmicksPaul @elonmusk we're #dogecoin we are the people",
+        "Y_token": "gimmickspaul, elonmusk, dogecoin, people",
+        "Y_tweet_count": 28,
+        "Y_username": "Bernie",
+        "X_length": 49,
+        "Y_length": 57,
+        "Y_length_percent_of_X": 116.33,
+        "X_length_percent_of_Y": 85.96,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@MattWallace888 love &amp; #dogecoin",
+        "X_token": "mattwallace888, love, amp, dogecoin",
+        "X_tweet_count": 4,
+        "X_username": "Bernie",
+        "Y_text": "@MattWallace888 just love the #dogecoin",
+        "Y_token": "mattwallace888, love, dogecoin",
+        "Y_tweet_count": 10,
+        "Y_username": "Bernie",
+        "X_length": 36,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 108.33,
+        "X_length_percent_of_Y": 92.31,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@dogetothe_moon @Courtneyxsum hodl the #dogecoin",
+        "X_token": "courtneyxsum, hodl, dogecoin",
+        "X_tweet_count": 7,
+        "X_username": "Bernie",
+        "Y_text": "@multibagger777 @Courtneyxsum never! just hodl the #dogecoin",
+        "Y_token": "multibagger777, courtneyxsum, never, hodl, dogecoin",
+        "Y_tweet_count": 8,
+        "Y_username": "Bernie",
+        "X_length": 48,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 125.0,
+        "X_length_percent_of_Y": 80.0,
+        "dice_coefficient": 75.0
+    }
+]

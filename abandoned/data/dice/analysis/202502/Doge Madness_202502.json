@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "@elonmusk Dogecoin to the moon",
+        "X_token": "elonmusk, dogecoin, moon",
+        "X_tweet_count": 20,
+        "X_username": "Doge Madness",
+        "Y_text": "@cb_doge Dogecoin to the moon.",
+        "Y_token": "dogecoin, moon",
+        "Y_tweet_count": 62,
+        "Y_username": "Doge Madness",
+        "X_length": 30,
+        "Y_length": 30,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@ali_charts If you support and love dogecoin, please repost this for the good of Dogecoin.\n\nPlease Dogefam, you need to get your  dogecoin out from Binance or other crypto exchanges now!!!!!\nhttps://t.co/7RO0jX44ha",
+        "X_token": "support, love, dogecoin, please, repost, good, dogecoin, please, dogefam, need, get, dogecoin, binance, crypto, exchanges, https",
+        "X_tweet_count": 74,
+        "X_username": "Doge Madness",
+        "Y_text": "@MyDogeCTO If you support and love dogecoin, please repost this for the good of Dogecoin.\n\nPlease Dogefam, you need to get your dogecoin out from crypto exchanges!!!!\nhttps://t.co/7RO0jX44ha",
+        "Y_token": "mydogecto, support, love, dogecoin, please, repost, good, dogecoin, please, dogefam, need, get, dogecoin, crypto, exchanges, https",
+        "Y_tweet_count": 77,
+        "Y_username": "Doge Madness",
+        "X_length": 214,
+        "Y_length": 190,
+        "Y_length_percent_of_X": 88.79,
+        "X_length_percent_of_Y": 112.63,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "@ali_charts If you support and love dogecoin, please repost this for the good of Dogecoin.\n\nPlease Dogefam, you need to get your  dogecoin out from Binance or other crypto exchanges now!!!!!\nhttps://t.co/7RO0jX44ha",
+        "X_token": "support, love, dogecoin, please, repost, good, dogecoin, please, dogefam, need, get, dogecoin, binance, crypto, exchanges, https",
+        "X_tweet_count": 74,
+        "X_username": "Doge Madness",
+        "Y_text": "@TeslaModelDoge @_CryptoSurf https://t.co/7RO0jX44ha\n\nIf you support and love dogecoin, please repost this for the good of Dogecoin.\n\nPlease Dogefam, you need to get your dogecoin out from crypto exchanges!!!!",
+        "Y_token": "teslamodeldoge, https, support, love, dogecoin, please, repost, good, dogecoin, please, dogefam, need, get, dogecoin, crypto, exchanges",
+        "Y_tweet_count": 78,
+        "Y_username": "Doge Madness",
+        "X_length": 214,
+        "Y_length": 209,
+        "Y_length_percent_of_X": 97.66,
+        "X_length_percent_of_Y": 102.39,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "@MyDogeCTO If you support and love dogecoin, please repost this for the good of Dogecoin.\n\nPlease Dogefam, you need to get your dogecoin out from crypto exchanges!!!!\nhttps://t.co/7RO0jX44ha",
+        "X_token": "mydogecto, support, love, dogecoin, please, repost, good, dogecoin, please, dogefam, need, get, dogecoin, crypto, exchanges, https",
+        "X_tweet_count": 77,
+        "X_username": "Doge Madness",
+        "Y_text": "@TeslaModelDoge @_CryptoSurf https://t.co/7RO0jX44ha\n\nIf you support and love dogecoin, please repost this for the good of Dogecoin.\n\nPlease Dogefam, you need to get your dogecoin out from crypto exchanges!!!!",
+        "Y_token": "teslamodeldoge, https, support, love, dogecoin, please, repost, good, dogecoin, please, dogefam, need, get, dogecoin, crypto, exchanges",
+        "Y_tweet_count": 78,
+        "Y_username": "Doge Madness",
+        "X_length": 190,
+        "Y_length": 209,
+        "Y_length_percent_of_X": 110.0,
+        "X_length_percent_of_Y": 90.91,
+        "dice_coefficient": 92.31
+    }
+]

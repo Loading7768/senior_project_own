@@ -1,0 +1,22 @@
+﻿X = [#dogecoin under a dollar is still EARLY to buy in.]
+X_token = [dogecoin, dollar, still, early, buy]
+	X tweet_count = [32]
+	X username = [🌈Gina likes rainbows]
+Y = [Buy #dogecoin while it's under a dollar.]
+Y_token = [buy, dogecoin, dollar]
+	Y tweet_count = [72]
+	Y username = [🌈Gina likes rainbows]
+Total Length: X = 50, Y = 40 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 75.00% 
+
+X = [Get your #dogecoin while you can]
+X_token = [get, dogecoin]
+	X tweet_count = [58]
+	X username = [🌈Gina likes rainbows]
+Y = [Yaaaaaaaaas #dogecoin\nGet it.]
+Y_token = [yaaaaaaaaas, dogecoin, get]
+	Y tweet_count = [61]
+	Y username = [🌈Gina likes rainbows]
+Total Length: X = 32, Y = 29 (Y / X = 90.62  X / Y = 110.34)
+Dice Coefficient: 80.00% 
+

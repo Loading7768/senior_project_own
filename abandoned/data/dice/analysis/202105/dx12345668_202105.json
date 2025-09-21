@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@cryptomanran I’m short $doge",
+        "X_token": "cryptomanran, short, doge",
+        "X_tweet_count": 3,
+        "X_username": "dx12345668",
+        "Y_text": "@cryptomanran Short $doge",
+        "Y_token": "cryptomanran, short, doge",
+        "Y_tweet_count": 8,
+        "Y_username": "dx12345668",
+        "X_length": 29,
+        "Y_length": 25,
+        "Y_length_percent_of_X": 86.21,
+        "X_length_percent_of_Y": 116.0,
+        "dice_coefficient": 100.0
+    }
+]

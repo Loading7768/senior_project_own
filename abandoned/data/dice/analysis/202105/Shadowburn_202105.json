@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@FlexaHQ Does your heart ever just go:\n\n         ♡   ♡        ♡   ♡\n      ♡            ♡             ♡ \n       ♡   #DogeCoin   ♡\n           ♡                  ♡        \n                ♡        ♡ \n                      ♡",
+        "X_token": "flexahq, heart, ever, go, dogecoin",
+        "X_tweet_count": 49,
+        "X_username": "Shadowburn",
+        "Y_text": "Does your heart ever just go:\n\n         ♡   ♡        ♡   ♡\n      ♡            ♡             ♡ \n       ♡   #DogeCoin   ♡\n           ♡                  ♡        \n                ♡        ♡ \n                      ♡ https://t.co/OAlHzcyVHv",
+        "Y_token": "heart, ever, go, dogecoin, https",
+        "Y_tweet_count": 72,
+        "Y_username": "Shadowburn",
+        "X_length": 220,
+        "Y_length": 235,
+        "Y_length_percent_of_X": 106.82,
+        "X_length_percent_of_Y": 93.62,
+        "dice_coefficient": 80.0
+    }
+]

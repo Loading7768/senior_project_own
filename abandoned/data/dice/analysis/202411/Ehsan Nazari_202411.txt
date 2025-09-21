@@ -1,0 +1,44 @@
+﻿X = [Buy buy buy dogecoin is pumping]
+X_token = [buy, buy, buy, dogecoin, pumping]
+	X tweet_count = [4]
+	X username = [Ehsan Nazari]
+Y = [#Buy #Dogecoin 1000X pumping]
+Y_token = [buy, dogecoin, 1000x, pumping]
+	Y tweet_count = [14]
+	Y username = [Ehsan Nazari]
+Total Length: X = 31, Y = 28 (Y / X = 90.32  X / Y = 110.71)
+Dice Coefficient: 85.71% 
+
+X = [#Dogecoin Father @elonmusk]
+X_token = [dogecoin, father, elonmusk]
+	X tweet_count = [6]
+	X username = [Ehsan Nazari]
+Y = [Dogecoin father @elonmusk]
+Y_token = [dogecoin, father, elonmusk]
+	Y tweet_count = [7]
+	Y username = [Ehsan Nazari]
+Total Length: X = 26, Y = 25 (Y / X = 96.15  X / Y = 104.00)
+Dice Coefficient: 100.00% 
+
+X = [#Dogecoin is Pumping]
+X_token = [dogecoin, pumping]
+	X tweet_count = [12]
+	X username = [Ehsan Nazari]
+Y = [#Dogecoin is pumping]
+Y_token = [dogecoin, pumping]
+	Y tweet_count = [17]
+	Y username = [Ehsan Nazari]
+Total Length: X = 20, Y = 20 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Buy Buy Dogecoin is pumping 1000X is coming @elonmusk @cb_doge]
+X_token = [buy, buy, dogecoin, pumping, 1000x, coming, elonmusk]
+	X tweet_count = [15]
+	X username = [Ehsan Nazari]
+Y = [Buy buy dogecoin is pumping 1000X @elonmusk @cb_doge]
+Y_token = [buy, buy, dogecoin, pumping, 1000x, elonmusk]
+	Y tweet_count = [16]
+	Y username = [Ehsan Nazari]
+Total Length: X = 62, Y = 52 (Y / X = 83.87  X / Y = 119.23)
+Dice Coefficient: 90.91% 
+

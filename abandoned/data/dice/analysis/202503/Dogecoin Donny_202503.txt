@@ -1,0 +1,44 @@
+﻿X = [If you hate a America get the fuck outta America]
+X_token = [hate, america, get, fuck, outta, america]
+	X tweet_count = [1]
+	X username = [Dogecoin Donny]
+Y = [If you hate America you need to get the fuck out lol]
+Y_token = [hate, america, need, get, fuck, lol]
+	Y tweet_count = [76]
+	Y username = [Dogecoin Donny]
+Total Length: X = 48, Y = 52 (Y / X = 108.33  X / Y = 92.31)
+Dice Coefficient: 72.73% 
+
+X = [Literally]
+X_token = [literally]
+	X tweet_count = [104]
+	X username = [Dogecoin Donny]
+Y = [Literally]
+Y_token = [literally]
+	Y tweet_count = [114]
+	Y username = [Dogecoin Donny]
+Total Length: X = 9, Y = 9 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Retarded]
+X_token = [retarded]
+	X tweet_count = [154]
+	X username = [Dogecoin Donny]
+Y = [Retarded]
+Y_token = [retarded]
+	Y tweet_count = [275]
+	Y username = [Dogecoin Donny]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Nigga what https://t.co/AZameyG1mL]
+X_token = [nigga, https]
+	X tweet_count = [382]
+	X username = [Dogecoin Donny]
+Y = [Nigga.. https://t.co/7H9smpg2CI]
+Y_token = [nigga, https]
+	Y tweet_count = [518]
+	Y username = [Dogecoin Donny]
+Total Length: X = 34, Y = 31 (Y / X = 91.18  X / Y = 109.68)
+Dice Coefficient: 100.00% 
+

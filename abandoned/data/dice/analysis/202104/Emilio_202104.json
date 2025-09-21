@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@dogecoin_empire Good morning 🌄 @dogecoin_empire 🤗🥰",
+        "X_token": "good, morning",
+        "X_tweet_count": 54,
+        "X_username": "Emilio",
+        "Y_text": "@dogecoin_empire Good morning 🌄 #DogecoinQueen 🤩😉🤗",
+        "Y_token": "good, morning, dogecoinqueen",
+        "Y_tweet_count": 65,
+        "Y_username": "Emilio",
+        "X_length": 51,
+        "Y_length": 50,
+        "Y_length_percent_of_X": 98.04,
+        "X_length_percent_of_Y": 102.0,
+        "dice_coefficient": 80.0
+    }
+]

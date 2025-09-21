@@ -1,0 +1,187 @@
+﻿X = [Zelensky is a war criminal. He wants the war to be continued.  Ukrainian people should start kick Zelensky out from their country.]
+X_token = [zelensky, war, criminal, wants, war, continued, ukrainian, people, start, kick, zelensky, country]
+	X tweet_count = [12]
+	X username = [FreedomÐoge]
+Y = [@BRICSinfo Zelensky is a war criminal. He wants the war to be continued.  Ukrainian people should start kick Zelensky out from their country.]
+Y_token = [bricsinfo, zelensky, war, criminal, wants, war, continued, ukrainian, people, start, kick, zelensky, country]
+	Y tweet_count = [13]
+	Y username = [FreedomÐoge]
+Total Length: X = 130, Y = 141 (Y / X = 108.46  X / Y = 92.20)
+Dice Coefficient: 95.24% 
+
+X = [@WeeVolunteer @BRICSinfo No way it will works for Russia and US. He doesn’t want the war to be stopped. He is a war criminal!]
+X_token = [weevolunteer, bricsinfo, way, works, russia, us, want, war, stopped, war, criminal]
+	X tweet_count = [14]
+	X username = [FreedomÐoge]
+Y = [@HugoVale_ @BRICSinfo No way it will works for Russia and US. He doesn’t want the war to be stopped. He is a war criminal!]
+Y_token = [bricsinfo, way, works, russia, us, want, war, stopped, war, criminal]
+	Y tweet_count = [16]
+	Y username = [FreedomÐoge]
+Total Length: X = 125, Y = 122 (Y / X = 97.60  X / Y = 102.46)
+Dice Coefficient: 94.74% 
+
+X = [@WeeVolunteer @BRICSinfo No way it will works for Russia and US. He doesn’t want the war to be stopped. He is a war criminal!]
+X_token = [weevolunteer, bricsinfo, way, works, russia, us, want, war, stopped, war, criminal]
+	X tweet_count = [14]
+	X username = [FreedomÐoge]
+Y = [@BRICSinfo No way it will works for Russia and US. He doesn’t want the war to be stopped. He is a war criminal!]
+Y_token = [bricsinfo, way, works, russia, us, want, war, stopped, war, criminal]
+	Y tweet_count = [17]
+	Y username = [FreedomÐoge]
+Total Length: X = 125, Y = 111 (Y / X = 88.80  X / Y = 112.61)
+Dice Coefficient: 94.74% 
+
+X = [@HugoVale_ @BRICSinfo No way it will works for Russia and US. He doesn’t want the war to be stopped. He is a war criminal!]
+X_token = [bricsinfo, way, works, russia, us, want, war, stopped, war, criminal]
+	X tweet_count = [16]
+	X username = [FreedomÐoge]
+Y = [@BRICSinfo No way it will works for Russia and US. He doesn’t want the war to be stopped. He is a war criminal!]
+Y_token = [bricsinfo, way, works, russia, us, want, war, stopped, war, criminal]
+	Y tweet_count = [17]
+	Y username = [FreedomÐoge]
+Total Length: X = 122, Y = 111 (Y / X = 90.98  X / Y = 109.91)
+Dice Coefficient: 100.00% 
+
+X = [Good]
+X_token = [good]
+	X tweet_count = [42]
+	X username = [FreedomÐoge]
+Y = [Good]
+Y_token = [good]
+	Y tweet_count = [233]
+	Y username = [FreedomÐoge]
+Total Length: X = 4, Y = 4 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@cb_doge Zelensky is a clown.]
+X_token = [zelensky, clown]
+	X tweet_count = [52]
+	X username = [FreedomÐoge]
+Y = [@LeadingReport Zelensky is a clown.]
+Y_token = [leadingreport, zelensky, clown]
+	Y tweet_count = [54]
+	Y username = [FreedomÐoge]
+Total Length: X = 29, Y = 35 (Y / X = 120.69  X / Y = 82.86)
+Dice Coefficient: 80.00% 
+
+X = [@MrBigWhaleREAL Dogecoin]
+X_token = [mrbigwhalereal, dogecoin]
+	X tweet_count = [67]
+	X username = [FreedomÐoge]
+Y = [@MrBigWhaleREAL Dogecoin]
+Y_token = [mrbigwhalereal, dogecoin]
+	Y tweet_count = [69]
+	Y username = [FreedomÐoge]
+Total Length: X = 24, Y = 24 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [68]
+	X username = [FreedomÐoge]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [217]
+	Y username = [FreedomÐoge]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Wow.shame on democrats. Wow.  I want the names of all the people who didn’t claps from last night presidential speech.  You are disgraceful to our American people. @nycgov who are you? What are you? I live here in NYC.]
+X_token = [elonmusk, democrats, wow, want, names, people, claps, last, night, presidential, speech, disgraceful, american, people, nycgov, live, nyc]
+	X tweet_count = [77]
+	X username = [FreedomÐoge]
+Y = [Wow.shame on democrats. Wow.  I want the names of all the people who didn’t claps from last night presidential speech.  You are disgraceful to our American people. @nycgov who are you? What are you? I live here in NYC.]
+Y_token = [democrats, wow, want, names, people, claps, last, night, presidential, speech, disgraceful, american, people, nycgov, live, nyc]
+	Y tweet_count = [78]
+	Y username = [FreedomÐoge]
+Total Length: X = 228, Y = 218 (Y / X = 95.61  X / Y = 104.59)
+Dice Coefficient: 96.77% 
+
+X = [DOGE]
+X_token = [doge]
+	X tweet_count = [80]
+	X username = [FreedomÐoge]
+Y = [Doge]
+Y_token = [doge]
+	Y tweet_count = [218]
+	Y username = [FreedomÐoge]
+Total Length: X = 4, Y = 4 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@dogeofficialceo The dump just killed the inside traders.  Good.]
+X_token = [dogeofficialceo, dump, killed, inside, traders, good]
+	X tweet_count = [106]
+	X username = [FreedomÐoge]
+Y = [@WatcherGuru The dump just killed inside traders. Good! Bitcoin Dogecoin]
+Y_token = [watcherguru, dump, killed, inside, traders, good, bitcoin, dogecoin]
+	Y tweet_count = [109]
+	Y username = [FreedomÐoge]
+Total Length: X = 64, Y = 72 (Y / X = 112.50  X / Y = 88.89)
+Dice Coefficient: 71.43% 
+
+X = [@TomHoman_ Good!]
+X_token = [good]
+	X tweet_count = [116]
+	X username = [FreedomÐoge]
+Y = [@cb_doge Good]
+Y_token = [good]
+	Y tweet_count = [248]
+	Y username = [FreedomÐoge]
+Total Length: X = 16, Y = 13 (Y / X = 81.25  X / Y = 123.08)
+Dice Coefficient: 100.00% 
+
+X = [@GloryDoge Buy the dips.]
+X_token = [glorydoge, buy, dips]
+	X tweet_count = [144]
+	X username = [FreedomÐoge]
+Y = [@GloryDoge Buy the dips.]
+Y_token = [glorydoge, buy, dips]
+	Y tweet_count = [177]
+	Y username = [FreedomÐoge]
+Total Length: X = 24, Y = 24 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Dogecoin]
+X_token = [elonmusk, dogecoin]
+	X tweet_count = [165]
+	X username = [FreedomÐoge]
+Y = [@elonmusk Dogecoin]
+Y_token = [elonmusk, dogecoin]
+	Y tweet_count = [216]
+	Y username = [FreedomÐoge]
+Total Length: X = 18, Y = 18 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@WatcherGuru Buy the dips. Save the market. Defeat Shorts. Defend your position. Protect Elon Musk and Donald Trump at all cost.  $Tesla $Doge $Bitcoin.]
+X_token = [watcherguru, buy, dips, save, market, defeat, shorts, defend, position, protect, elon, musk, donald, trump, cost, tesla, doge, bitcoin]
+	X tweet_count = [171]
+	X username = [FreedomÐoge]
+Y = [Buy the dips. Save the market. Defeat Shorts. Defend your position. Protect Elon Musk and Donald Trump at all cost.  $Tesla $Doge $Bitcoin.]
+Y_token = [buy, dips, save, market, defeat, shorts, defend, position, protect, elon, musk, donald, trump, cost, tesla, doge, bitcoin]
+	Y tweet_count = [172]
+	Y username = [FreedomÐoge]
+Total Length: X = 152, Y = 139 (Y / X = 91.45  X / Y = 109.35)
+Dice Coefficient: 97.14% 
+
+X = [@PlanetOfMemes Common sense, quit if you think the pay is too low.]
+X_token = [planetofmemes, common, sense, quit, think, pay, low]
+	X tweet_count = [207]
+	X username = [FreedomÐoge]
+Y = [@PlanetOfMemes She can quit the job if she think the pay is too low.]
+Y_token = [planetofmemes, quit, job, think, pay, low]
+	Y tweet_count = [208]
+	Y username = [FreedomÐoge]
+Total Length: X = 66, Y = 68 (Y / X = 103.03  X / Y = 97.06)
+Dice Coefficient: 76.92% 
+
+X = [@cb_doge Hire the right people on federal levels. Laying off is a good start.]
+X_token = [hire, right, people, federal, levels, laying, good, start]
+	X tweet_count = [253]
+	X username = [FreedomÐoge]
+Y = [@WatcherGuru We want to hire the right people on federal level so laying off is a good start.]
+Y_token = [watcherguru, want, hire, right, people, federal, level, laying, good, start]
+	Y tweet_count = [254]
+	Y username = [FreedomÐoge]
+Total Length: X = 77, Y = 93 (Y / X = 120.78  X / Y = 82.80)
+Dice Coefficient: 77.78% 
+

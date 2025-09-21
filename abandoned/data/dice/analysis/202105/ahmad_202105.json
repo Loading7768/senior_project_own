@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@elonmusk @BTC_Archive My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin",
+        "X_token": "elonmusk, favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin",
+        "X_tweet_count": 23,
+        "X_username": "ahmad",
+        "Y_text": "@GreenMtnPower @Tesla My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin",
+        "Y_token": "greenmtnpower, tesla, favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin",
+        "Y_tweet_count": 24,
+        "Y_username": "ahmad",
+        "X_length": 129,
+        "Y_length": 128,
+        "Y_length_percent_of_X": 99.22,
+        "X_length_percent_of_Y": 100.78,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@elonmusk @BTC_Archive My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin",
+        "X_token": "elonmusk, favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin",
+        "X_tweet_count": 23,
+        "X_username": "ahmad",
+        "Y_text": "@dogecoin_rise My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin",
+        "Y_token": "favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin",
+        "Y_tweet_count": 25,
+        "Y_username": "ahmad",
+        "X_length": 129,
+        "Y_length": 121,
+        "Y_length_percent_of_X": 93.8,
+        "X_length_percent_of_Y": 106.61,
+        "dice_coefficient": 94.12
+    },
+    {
+        "X_text": "@GreenMtnPower @Tesla My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin",
+        "X_token": "greenmtnpower, tesla, favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin",
+        "X_tweet_count": 24,
+        "X_username": "ahmad",
+        "Y_text": "@dogecoin_rise My favorat car.\nI love you elon\nI love you dogecoin\nI love you tesla\n💞💞💞💞\nThis time  accept tesla dogecoin",
+        "Y_token": "favorat, car, love, elon, love, dogecoin, love, tesla, time, accept, tesla, dogecoin",
+        "Y_tweet_count": 25,
+        "Y_username": "ahmad",
+        "X_length": 128,
+        "Y_length": 121,
+        "Y_length_percent_of_X": 94.53,
+        "X_length_percent_of_Y": 105.79,
+        "dice_coefficient": 94.12
+    }
+]

@@ -1,0 +1,66 @@
+﻿X = [1000% BUY/ADD/HOLD $DOGE #DOGECOIN #Dogefather]
+X_token = [1000, doge, dogecoin, dogefather]
+	X tweet_count = [1]
+	X username = [TONY SNOW]
+Y = [1000% ADD/HOLD $DOGE #dogecoin @elonmusk]
+Y_token = [1000, doge, dogecoin, elonmusk]
+	Y tweet_count = [9]
+	Y username = [TONY SNOW]
+Total Length: X = 46, Y = 40 (Y / X = 86.96  X / Y = 115.00)
+Dice Coefficient: 75.00% 
+
+X = [1000% ADD/HOLD $DOGE #dogecoin @elonmusk]
+X_token = [1000, doge, dogecoin, elonmusk]
+	X tweet_count = [9]
+	X username = [TONY SNOW]
+Y = [@elonmusk $DOGE #dogecoin NEEDS YOU!]
+Y_token = [elonmusk, doge, dogecoin, needs]
+	Y tweet_count = [99]
+	Y username = [TONY SNOW]
+Total Length: X = 40, Y = 36 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 75.00% 
+
+X = [$doge #dogecoin @elonmusk 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥]
+X_token = [doge, dogecoin, elonmusk]
+	X tweet_count = [10]
+	X username = [TONY SNOW]
+Y = [BUY $DOGE #dogecoin @elonmusk @Tesla 🚀🚀🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥]
+Y_token = [buy, doge, dogecoin, elonmusk, tesla]
+	Y tweet_count = [64]
+	Y username = [TONY SNOW]
+Total Length: X = 56, Y = 60 (Y / X = 107.14  X / Y = 93.33)
+Dice Coefficient: 75.00% 
+
+X = [$doge #dogecoin @elonmusk 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥]
+X_token = [doge, dogecoin, elonmusk]
+	X tweet_count = [10]
+	X username = [TONY SNOW]
+Y = [I M BUYING TESLAS $DOGE #dogecoin @elonmusk 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀]
+Y_token = [buying, teslas, doge, dogecoin, elonmusk]
+	Y tweet_count = [66]
+	Y username = [TONY SNOW]
+Total Length: X = 56, Y = 66 (Y / X = 117.86  X / Y = 84.85)
+Dice Coefficient: 75.00% 
+
+X = [$DOGE #dogecoin\n#dogetothemoon\n#doge\n@elonmusk\n🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀\nhttps://t.co/GpRwkIibvb]
+X_token = [doge, dogecoin, dogetothemoon, doge, elonmusk, https]
+	X tweet_count = [45]
+	X username = [TONY SNOW]
+Y = [BUY/ADD/HOLD YOU #dogecoin #doge 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 https://t.co/8247Qn94LO]
+Y_token = [dogecoin, doge, https]
+	Y tweet_count = [63]
+	Y username = [TONY SNOW]
+Total Length: X = 91, Y = 91 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [BUY/ADD/HOLD DO NOT SELL $DOGE #dogetothemoon #dogecoin 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀]
+X_token = [sell, doge, dogetothemoon, dogecoin]
+	X tweet_count = [47]
+	X username = [TONY SNOW]
+Y = [ADD/HOLD YOUR $DOGE #dogetothemoon #dogecoin 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀]
+Y_token = [doge, dogetothemoon, dogecoin]
+	Y tweet_count = [48]
+	Y username = [TONY SNOW]
+Total Length: X = 66, Y = 65 (Y / X = 98.48  X / Y = 101.54)
+Dice Coefficient: 85.71% 
+

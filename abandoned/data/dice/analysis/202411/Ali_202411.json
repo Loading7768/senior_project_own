@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@dogecoin #ION @ice_block chain is good project",
+        "X_token": "dogecoin, ion, chain, good, project",
+        "X_tweet_count": 8,
+        "X_username": "Ali",
+        "Y_text": "@dogecoin @Bitcoin Good project. #ION @ice_blockchain",
+        "Y_token": "dogecoin, bitcoin, good, project, ion",
+        "Y_tweet_count": 9,
+        "Y_username": "Ali",
+        "X_length": 47,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 112.77,
+        "X_length_percent_of_Y": 88.68,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@dogecoin #ION @ice_block chain is good project",
+        "X_token": "dogecoin, ion, chain, good, project",
+        "X_tweet_count": 8,
+        "X_username": "Ali",
+        "Y_text": "@dogecoin #ION @block_chain is good project",
+        "Y_token": "dogecoin, ion, good, project",
+        "Y_tweet_count": 11,
+        "Y_username": "Ali",
+        "X_length": 47,
+        "Y_length": 43,
+        "Y_length_percent_of_X": 91.49,
+        "X_length_percent_of_Y": 109.3,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "@dogecoin @Bitcoin Good project. #ION @ice_blockchain",
+        "X_token": "dogecoin, bitcoin, good, project, ion",
+        "X_tweet_count": 9,
+        "X_username": "Ali",
+        "Y_text": "@dogecoin #ION @block_chain is good project",
+        "Y_token": "dogecoin, ion, good, project",
+        "Y_tweet_count": 11,
+        "Y_username": "Ali",
+        "X_length": 53,
+        "Y_length": 43,
+        "Y_length_percent_of_X": 81.13,
+        "X_length_percent_of_Y": 123.26,
+        "dice_coefficient": 88.89
+    }
+]

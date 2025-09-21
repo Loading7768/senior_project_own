@@ -1,0 +1,22 @@
+﻿X = [Ok, @elonmusk  will gradually replace the current structure of Dogecoin with an identical new part of the meme coin. So, Dogecoin can remain #ElonMusk’s favorite crypto. See, I have just decoded the latest cryptic tweet from Elon.]
+X_token = [ok, elonmusk, gradually, replace, current, structure, dogecoin, identical, new, part, meme, coin, dogecoin, remain, elonmusk, favorite, crypto, see, decoded, latest, cryptic, tweet, elon]
+	X tweet_count = [39]
+	X username = [Institutional Trading Dogecoin; Not Advice]
+Y = [@elonmusk  will gradually replace the current structure of Dogecoin with an identical new part. So, Dogecoin can remain @elonmusk favorite crypto. See, I have just decoded the latest cryptic tweet of from @elonmusk. There you have it. Drastic changes in the Dogecoin code coming]
+Y_token = [elonmusk, gradually, replace, current, structure, dogecoin, identical, new, part, dogecoin, remain, elonmusk, favorite, crypto, see, decoded, latest, cryptic, tweet, elonmusk, drastic, changes, dogecoin, code, coming]
+	Y tweet_count = [40]
+	Y username = [Institutional Trading Dogecoin; Not Advice]
+Total Length: X = 230, Y = 278 (Y / X = 120.87  X / Y = 82.73)
+Dice Coefficient: 80.95% 
+
+X = [Crypto Market Cycle and Hedge Fund Manipulation https://t.co/eBDnWDQuL8 via @mrstardom]
+X_token = [crypto, market, cycle, hedge, fund, manipulation, https, via, mrstardom]
+	X tweet_count = [63]
+	X username = [Institutional Trading Dogecoin; Not Advice]
+Y = [Crypto Market Cycle and Hedge Fund\xa0Manipulation https://t.co/eBDnWDQuL8]
+Y_token = [crypto, market, cycle, hedge, fund, manipulation, https]
+	Y tweet_count = [64]
+	Y username = [Institutional Trading Dogecoin; Not Advice]
+Total Length: X = 86, Y = 71 (Y / X = 82.56  X / Y = 121.13)
+Dice Coefficient: 87.50% 
+

@@ -1,0 +1,66 @@
+﻿X = [NEW DOGE COIN ALL TIME HIGH!!!$0.09 🚀]
+X_token = [new, doge, coin, time, high]
+	X tweet_count = [14]
+	X username = [DOGECOIN / CRYPTO UPDATES]
+Y = [ALL\n\nTIME\n\nHIGH! \n\n$.14 !!!!! #DOGE]
+Y_token = [time, high, doge]
+	Y tweet_count = [51]
+	Y username = [DOGECOIN / CRYPTO UPDATES]
+Total Length: X = 37, Y = 35 (Y / X = 94.59  X / Y = 105.71)
+Dice Coefficient: 75.00% 
+
+X = [NEW DOGE COIN ALL TIME HIGH!!!$0.09 🚀]
+X_token = [new, doge, coin, time, high]
+	X tweet_count = [14]
+	X username = [DOGECOIN / CRYPTO UPDATES]
+Y = [ALL\n\nTIME\n\nHIGH! \n\n$.13!! #DOGE]
+Y_token = [time, high, doge]
+	Y tweet_count = [52]
+	Y username = [DOGECOIN / CRYPTO UPDATES]
+Total Length: X = 37, Y = 31 (Y / X = 83.78  X / Y = 119.35)
+Dice Coefficient: 75.00% 
+
+X = [ALL\n\nTIME\n\nHIGH! \n\n$.14 !!!!! #DOGE]
+X_token = [time, high, doge]
+	X tweet_count = [51]
+	X username = [DOGECOIN / CRYPTO UPDATES]
+Y = [ALL\n\nTIME\n\nHIGH! \n\n$.13!! #DOGE]
+Y_token = [time, high, doge]
+	Y tweet_count = [52]
+	Y username = [DOGECOIN / CRYPTO UPDATES]
+Total Length: X = 35, Y = 31 (Y / X = 88.57  X / Y = 112.90)
+Dice Coefficient: 100.00% 
+
+X = [ALERT! \n\nNEW \nDOGECOIN ALL TIME HIGH.\n\n$.18 🚀\n\n#dogecoin #doge]
+X_token = [alert, new, dogecoin, time, high, dogecoin, doge]
+	X tweet_count = [66]
+	X username = [DOGECOIN / CRYPTO UPDATES]
+Y = [ALERT!\n\nDOGECOIN NEW ALL TIME HIGH! \n\n$.15 🚀 #DoOnlyGoodEveryday]
+Y_token = [alert, dogecoin, new, time, high, doonlygoodeveryday]
+	Y tweet_count = [73]
+	Y username = [DOGECOIN / CRYPTO UPDATES]
+Total Length: X = 62, Y = 64 (Y / X = 103.23  X / Y = 96.88)
+Dice Coefficient: 83.33% 
+
+X = [Patience.]
+X_token = [patience]
+	X tweet_count = [221]
+	X username = [DOGECOIN / CRYPTO UPDATES]
+Y = [Patience]
+Y_token = [patience]
+	Y tweet_count = [260]
+	Y username = [DOGECOIN / CRYPTO UPDATES]
+Total Length: X = 9, Y = 8 (Y / X = 88.89  X / Y = 112.50)
+Dice Coefficient: 100.00% 
+
+X = [RT IF YOU OWN 100,000 #DOGECOIN]
+X_token = [rt, dogecoin]
+	X tweet_count = [242]
+	X username = [DOGECOIN / CRYPTO UPDATES]
+Y = [RT IF YOU OWN 10,000+ #DOGECOIN]
+Y_token = [rt, dogecoin]
+	Y tweet_count = [243]
+	Y username = [DOGECOIN / CRYPTO UPDATES]
+Total Length: X = 31, Y = 31 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

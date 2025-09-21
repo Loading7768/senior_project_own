@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "$DOGE #doge #Dogecoin\nquick dump to $0.185 first due to delusional longs on doge careful!",
+        "X_token": "doge, doge, dogecoin, quick, dump, first, due, delusional, longs, doge, careful",
+        "X_tweet_count": 4,
+        "X_username": "도지 숏 익절 완료",
+        "Y_text": "$DOGE #doge #Dogecoin\nquick dump to $0.185 first due to delusional longs on doge",
+        "Y_token": "doge, doge, dogecoin, quick, dump, first, due, delusional, longs, doge",
+        "Y_tweet_count": 5,
+        "Y_username": "도지 숏 익절 완료",
+        "X_length": 89,
+        "Y_length": 80,
+        "Y_length_percent_of_X": 89.89,
+        "X_length_percent_of_Y": 111.25,
+        "dice_coefficient": 94.12
+    },
+    {
+        "X_text": "$DOGE #doge #Dogecoin\nsell now dumping 😂",
+        "X_token": "doge, doge, dogecoin, sell, dumping",
+        "X_tweet_count": 7,
+        "X_username": "도지 숏 익절 완료",
+        "Y_text": "$DOGE #doge #Dogecoin \nsell now dumping 😂😂",
+        "Y_token": "doge, doge, dogecoin, sell, dumping",
+        "Y_tweet_count": 8,
+        "Y_username": "도지 숏 익절 완료",
+        "X_length": 40,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 105.0,
+        "X_length_percent_of_Y": 95.24,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "$DOGE #doge #Dogecoin\nsell now dumping 😂",
+        "X_token": "doge, doge, dogecoin, sell, dumping",
+        "X_tweet_count": 7,
+        "X_username": "도지 숏 익절 완료",
+        "Y_text": "$DOGE #doge #Dogecoin \ndumping now get out",
+        "Y_token": "doge, doge, dogecoin, dumping, get",
+        "Y_tweet_count": 10,
+        "Y_username": "도지 숏 익절 완료",
+        "X_length": 40,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 105.0,
+        "X_length_percent_of_Y": 95.24,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "$DOGE #doge #Dogecoin \nsell now dumping 😂😂",
+        "X_token": "doge, doge, dogecoin, sell, dumping",
+        "X_tweet_count": 8,
+        "X_username": "도지 숏 익절 완료",
+        "Y_text": "$DOGE #doge #Dogecoin \ndumping now get out",
+        "Y_token": "doge, doge, dogecoin, dumping, get",
+        "Y_tweet_count": 10,
+        "Y_username": "도지 숏 익절 완료",
+        "X_length": 42,
+        "Y_length": 42,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 75.0
+    }
+]

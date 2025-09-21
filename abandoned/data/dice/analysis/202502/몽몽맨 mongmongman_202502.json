@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@DogeAccept @John_Inubook @inevitable360 @Karimsf4 @DogecoinFdn Are you a Dogecoin developer?",
+        "X_token": "dogeaccept, inevitable360, karimsf4, dogecoinfdn, dogecoin, developer",
+        "X_tweet_count": 16,
+        "X_username": "몽몽맨 mongmongman",
+        "Y_text": "@DogeAccept @inevitable360 @John_Inubook @Karimsf4 @DogecoinFdn What do you think contributes to Dogecoin?",
+        "Y_token": "dogeaccept, inevitable360, karimsf4, dogecoinfdn, think, contributes, dogecoin",
+        "Y_tweet_count": 17,
+        "Y_username": "몽몽맨 mongmongman",
+        "X_length": 93,
+        "Y_length": 106,
+        "Y_length_percent_of_X": 113.98,
+        "X_length_percent_of_Y": 87.74,
+        "dice_coefficient": 76.92
+    },
+    {
+        "X_text": "@DogeAccept @John_Inubook @inevitable360 @Karimsf4 @DogecoinFdn Are you a Dogecoin developer?",
+        "X_token": "dogeaccept, inevitable360, karimsf4, dogecoinfdn, dogecoin, developer",
+        "X_tweet_count": 16,
+        "X_username": "몽몽맨 mongmongman",
+        "Y_text": "@DogeAccept @inevitable360 @John_Inubook @Karimsf4 @DogecoinFdn We're in the same dogecoin community",
+        "Y_token": "dogeaccept, inevitable360, karimsf4, dogecoinfdn, dogecoin, community",
+        "Y_tweet_count": 18,
+        "Y_username": "몽몽맨 mongmongman",
+        "X_length": 93,
+        "Y_length": 100,
+        "Y_length_percent_of_X": 107.53,
+        "X_length_percent_of_Y": 93.0,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@DogeAccept @inevitable360 @John_Inubook @Karimsf4 @DogecoinFdn What do you think contributes to Dogecoin?",
+        "X_token": "dogeaccept, inevitable360, karimsf4, dogecoinfdn, think, contributes, dogecoin",
+        "X_tweet_count": 17,
+        "X_username": "몽몽맨 mongmongman",
+        "Y_text": "@DogeAccept @inevitable360 @John_Inubook @Karimsf4 @DogecoinFdn We're in the same dogecoin community",
+        "Y_token": "dogeaccept, inevitable360, karimsf4, dogecoinfdn, dogecoin, community",
+        "Y_tweet_count": 18,
+        "Y_username": "몽몽맨 mongmongman",
+        "X_length": 106,
+        "Y_length": 100,
+        "Y_length_percent_of_X": 94.34,
+        "X_length_percent_of_Y": 106.0,
+        "dice_coefficient": 76.92
+    }
+]

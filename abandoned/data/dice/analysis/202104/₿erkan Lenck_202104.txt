@@ -1,0 +1,55 @@
+﻿X = [#Dogecoin astronauts you ready? 🚀🌕]
+X_token = [dogecoin, astronauts, ready]
+	X tweet_count = [55]
+	X username = [₿erkan Lenck]
+Y = [Astronauts you ready? #dogecoin 🚀🌕]
+Y_token = [astronauts, ready, dogecoin]
+	Y tweet_count = [87]
+	Y username = [₿erkan Lenck]
+Total Length: X = 34, Y = 34 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Follow @KoehrmannSophie #Dogecoin gives power to the people. You have to understand this if you want to understand what's happening right now]
+X_token = [follow, koehrmannsophie, dogecoin, gives, power, people, understand, want, understand, happening, right]
+	X tweet_count = [65]
+	X username = [₿erkan Lenck]
+Y = [#Dogecoin gives power to the people. You have to understand this if you want to understand what's happening right now]
+Y_token = [dogecoin, gives, power, people, understand, want, understand, happening, right]
+	Y tweet_count = [66]
+	Y username = [₿erkan Lenck]
+Total Length: X = 141, Y = 117 (Y / X = 82.98  X / Y = 120.51)
+Dice Coefficient: 88.89% 
+
+X = [#dogecoin If you own #Dogecoin then I'm so excited for you\n\nThe best is yet to come 🚀 #DogecoinToTheMoon #DogeDay420 @KoehrmannSophie]
+X_token = [dogecoin, dogecoin, excited, best, yet, come, dogecointothemoon, dogeday420, koehrmannsophie]
+	X tweet_count = [75]
+	X username = [₿erkan Lenck]
+Y = [Welcome to #Twitter @KoehrmannSophie \n\nIf you own #Dogecoin then I'm so excited for you\n\nThe best is yet to come 🚀 #DogecoinToTheMoon #DogeDay420]
+Y_token = [welcome, twitter, koehrmannsophie, dogecoin, excited, best, yet, come, dogecointothemoon, dogeday420]
+	Y tweet_count = [81]
+	Y username = [₿erkan Lenck]
+Total Length: X = 133, Y = 145 (Y / X = 109.02  X / Y = 91.72)
+Dice Coefficient: 88.89% 
+
+X = [I’m here to tell you, if you invested in #Dogecoin at $.47, you’re still going to end up making plenty of $ @KoehrmannSophie]
+X_token = [tell, invested, dogecoin, still, going, end, making, plenty, koehrmannsophie]
+	X tweet_count = [76]
+	X username = [₿erkan Lenck]
+Y = [I’m here to tell you, if you invested in #Dogecoin at $.47, you’re still going to end up making plenty of $\n@KoehrmannSophie]
+Y_token = [tell, invested, dogecoin, still, going, end, making, plenty, koehrmannsophie]
+	Y tweet_count = [86]
+	Y username = [₿erkan Lenck]
+Total Length: X = 124, Y = 124 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [To everyone who hasn’t given up on #dogecoin, retweet this. Let your TL know. 🚀]
+X_token = [everyone, given, dogecoin, retweet, let, tl, know]
+	X tweet_count = [139]
+	X username = [₿erkan Lenck]
+Y = [To everyone who hasn’t given up on #dogecoin, retweet this. Let your TL know. 🚀]
+Y_token = [everyone, given, dogecoin, retweet, let, tl, know]
+	Y tweet_count = [148]
+	Y username = [₿erkan Lenck]
+Total Length: X = 79, Y = 79 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

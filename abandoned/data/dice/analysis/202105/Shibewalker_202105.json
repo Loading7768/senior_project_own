@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "Let’s goooo #dogetothemoon #DogeSNL #dogecoin",
+        "X_token": "let, goooo, dogetothemoon, dogesnl, dogecoin",
+        "X_tweet_count": 78,
+        "X_username": "Shibewalker",
+        "Y_text": "Let’s goooo #dogecoin #doge #dogetothemoon #DogecoinRise",
+        "Y_token": "let, goooo, dogecoin, doge, dogetothemoon, dogecoinrise",
+        "Y_tweet_count": 129,
+        "Y_username": "Shibewalker",
+        "X_length": 45,
+        "Y_length": 56,
+        "Y_length_percent_of_X": 124.44,
+        "X_length_percent_of_Y": 80.36,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "#cryptotwitter right now 🤣 #bitcoin #dogecoin #ethereum https://t.co/ec2VGCPjlM",
+        "X_token": "cryptotwitter, right, bitcoin, dogecoin, ethereum, https",
+        "X_tweet_count": 120,
+        "X_username": "Shibewalker",
+        "Y_text": "Everyone on #cryptotwitter right now #bitcoin #dogecoin #ethereum #crypto https://t.co/KfmkpSicc5",
+        "Y_token": "everyone, cryptotwitter, right, bitcoin, dogecoin, ethereum, crypto, https",
+        "Y_tweet_count": 123,
+        "Y_username": "Shibewalker",
+        "X_length": 79,
+        "Y_length": 97,
+        "Y_length_percent_of_X": 122.78,
+        "X_length_percent_of_Y": 81.44,
+        "dice_coefficient": 85.71
+    }
+]

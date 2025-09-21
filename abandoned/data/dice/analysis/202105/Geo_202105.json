@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@SenBillNelson Is that a #dogecoin sticker I see!!!!",
+        "X_token": "senbillnelson, dogecoin, sticker, see",
+        "X_tweet_count": 97,
+        "X_username": "Geo",
+        "Y_text": "@elonmusk @SenBillNelson Is that a #dogecoin sticker I see!!!!!!",
+        "Y_token": "elonmusk, senbillnelson, dogecoin, sticker, see",
+        "Y_tweet_count": 98,
+        "Y_username": "Geo",
+        "X_length": 52,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 123.08,
+        "X_length_percent_of_Y": 81.25,
+        "dice_coefficient": 88.89
+    }
+]

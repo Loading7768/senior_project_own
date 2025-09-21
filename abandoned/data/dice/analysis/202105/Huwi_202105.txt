@@ -1,0 +1,22 @@
+﻿X = [Out of $Doge &amp; hopped into $Froge]
+X_token = [doge, amp, hopped, froge]
+	X tweet_count = [3]
+	X username = [Huwi]
+Y = [Sold $DOGE Hopped into $FROGE 🤣🥴🥴🥴]
+Y_token = [sold, doge, hopped, froge]
+	Y tweet_count = [6]
+	Y username = [Huwi]
+Total Length: X = 37, Y = 34 (Y / X = 91.89  X / Y = 108.82)
+Dice Coefficient: 75.00% 
+
+X = [Out of $DOGE into $FROGE!! 💎😋💎🛴]
+X_token = [doge, froge]
+	X tweet_count = [7]
+	X username = [Huwi]
+Y = [Out of $DOGE Into $FROGE 💎🤲🏽🎩🎩🎩]
+Y_token = [doge, froge]
+	Y tweet_count = [8]
+	Y username = [Huwi]
+Total Length: X = 31, Y = 31 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

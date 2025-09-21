@@ -1,0 +1,88 @@
+﻿X = [Buy .... Buy .... Buy ... #DOGECOIN]
+X_token = [buy, buy, buy, dogecoin]
+	X tweet_count = [8]
+	X username = [sajal]
+Y = [Dip ... Buy more \n\n #DOGECOIN]
+Y_token = [dip, buy, dogecoin]
+	Y tweet_count = [17]
+	Y username = [sajal]
+Total Length: X = 35, Y = 29 (Y / X = 82.86  X / Y = 120.69)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk  Please save   #dogecoin]
+X_token = [elonmusk, please, save, dogecoin]
+	X tweet_count = [22]
+	X username = [sajal]
+Y = [@elonmusk @elonmusk Please save #dogecoin]
+Y_token = [elonmusk, elonmusk, please, save, dogecoin]
+	Y tweet_count = [24]
+	Y username = [sajal]
+Total Length: X = 34, Y = 41 (Y / X = 120.59  X / Y = 82.93)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk  Please save   #dogecoin]
+X_token = [elonmusk, please, save, dogecoin]
+	X tweet_count = [22]
+	X username = [sajal]
+Y = [@elonmusk Please save  #dogecoin]
+Y_token = [elonmusk, please, save, dogecoin]
+	Y tweet_count = [25]
+	Y username = [sajal]
+Total Length: X = 34, Y = 32 (Y / X = 94.12  X / Y = 106.25)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk  Please save   #dogecoin]
+X_token = [elonmusk, please, save, dogecoin]
+	X tweet_count = [22]
+	X username = [sajal]
+Y = [@elonmusk Please save #dogecoin]
+Y_token = [elonmusk, please, save, dogecoin]
+	Y tweet_count = [26]
+	Y username = [sajal]
+Total Length: X = 34, Y = 31 (Y / X = 91.18  X / Y = 109.68)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk  Please save   #dogecoin]
+X_token = [elonmusk, please, save, dogecoin]
+	X tweet_count = [22]
+	X username = [sajal]
+Y = [@elonmusk  Please save #dogecoin]
+Y_token = [elonmusk, please, save, dogecoin]
+	Y tweet_count = [27]
+	Y username = [sajal]
+Total Length: X = 34, Y = 32 (Y / X = 94.12  X / Y = 106.25)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Please save  #dogecoin]
+X_token = [elonmusk, please, save, dogecoin]
+	X tweet_count = [25]
+	X username = [sajal]
+Y = [@elonmusk Please save #dogecoin]
+Y_token = [elonmusk, please, save, dogecoin]
+	Y tweet_count = [26]
+	Y username = [sajal]
+Total Length: X = 32, Y = 31 (Y / X = 96.88  X / Y = 103.23)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Please save  #dogecoin]
+X_token = [elonmusk, please, save, dogecoin]
+	X tweet_count = [25]
+	X username = [sajal]
+Y = [@elonmusk  Please save #dogecoin]
+Y_token = [elonmusk, please, save, dogecoin]
+	Y tweet_count = [27]
+	Y username = [sajal]
+Total Length: X = 32, Y = 32 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk Please save #dogecoin]
+X_token = [elonmusk, please, save, dogecoin]
+	X tweet_count = [26]
+	X username = [sajal]
+Y = [@elonmusk  Please save #dogecoin]
+Y_token = [elonmusk, please, save, dogecoin]
+	Y tweet_count = [27]
+	Y username = [sajal]
+Total Length: X = 31, Y = 32 (Y / X = 103.23  X / Y = 96.88)
+Dice Coefficient: 100.00% 
+

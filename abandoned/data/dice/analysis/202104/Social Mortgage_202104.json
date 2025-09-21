@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "elon musk will do the moon walk  #DOGECOIN",
+        "X_token": "elon, musk, moon, walk, dogecoin",
+        "X_tweet_count": 3,
+        "X_username": "Social Mortgage",
+        "Y_text": "Elon musk doing the moon walk #DOGECOIN",
+        "Y_token": "elon, musk, moon, walk, dogecoin",
+        "Y_tweet_count": 5,
+        "Y_username": "Social Mortgage",
+        "X_length": 42,
+        "Y_length": 39,
+        "Y_length_percent_of_X": 92.86,
+        "X_length_percent_of_Y": 107.69,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "elon musk will do the moon walk  #DOGECOIN",
+        "X_token": "elon, musk, moon, walk, dogecoin",
+        "X_tweet_count": 3,
+        "X_username": "Social Mortgage",
+        "Y_text": "Elon musk will do the Moon Walk #DOGECOIN",
+        "Y_token": "elon, musk, moon, walk, dogecoin",
+        "Y_tweet_count": 12,
+        "Y_username": "Social Mortgage",
+        "X_length": 42,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 97.62,
+        "X_length_percent_of_Y": 102.44,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Elon musk doing the moon walk #DOGECOIN",
+        "X_token": "elon, musk, moon, walk, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "Social Mortgage",
+        "Y_text": "Elon musk will do the Moon Walk #DOGECOIN",
+        "Y_token": "elon, musk, moon, walk, dogecoin",
+        "Y_tweet_count": 12,
+        "Y_username": "Social Mortgage",
+        "X_length": 39,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 105.13,
+        "X_length_percent_of_Y": 95.12,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "https://t.co/LXsFDNgadp #DOGECOIN yummy yum yum",
+        "X_token": "https, dogecoin, yummy, yum, yum",
+        "X_tweet_count": 20,
+        "X_username": "Social Mortgage",
+        "Y_text": "https://t.co/LXsFDNgadp #DOGECOIN yum yum",
+        "Y_token": "https, dogecoin, yum, yum",
+        "Y_tweet_count": 22,
+        "Y_username": "Social Mortgage",
+        "X_length": 47,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 87.23,
+        "X_length_percent_of_Y": 114.63,
+        "dice_coefficient": 85.71
+    }
+]

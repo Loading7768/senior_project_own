@@ -1,0 +1,11 @@
+﻿X = [0x1eca6f227e42f12883350f8841463cc073f4c4a6:\nToken Name: dogecoin\nBlockchain: Ethereum\nPurpose: This token is designed to be a deflationary version of Dogecoin, leveraging the Ethereum blockchain's smart contract capabilities, it effectively created a strategic dogecoin reserve https://t.co/vZ3wfpvPIT]
+X_token = [0x1eca6f227e42f12883350f8841463cc073f4c4a6, token, name, dogecoin, blockchain, ethereum, purpose, token, designed, deflationary, version, dogecoin, leveraging, ethereum, blockchain, smart, contract, capabilities, effectively, created, strategic, dogecoin, reserve, https]
+	X tweet_count = [30]
+	X username = [Deflationary Dogecoin]
+Y = [0x1eca6f227e42f12883350f8841463cc073f4c4a6:\n@elonmusk\nToken Name: Dogecoin\nBlockchain: Ethereum\nPurpose: This token is designed to be a deflationary version of Dogecoin, leveraging the Ethereum blockchain's smart contract capabilities, it effectively created a strategic dogecoin https://t.co/1ydT7dIYp8]
+Y_token = [0x1eca6f227e42f12883350f8841463cc073f4c4a6, elonmusk, token, name, dogecoin, blockchain, ethereum, purpose, token, designed, deflationary, version, dogecoin, leveraging, ethereum, blockchain, smart, contract, capabilities, effectively, created, strategic, dogecoin, https]
+	Y tweet_count = [37]
+	Y username = [Deflationary Dogecoin]
+Total Length: X = 301, Y = 303 (Y / X = 100.66  X / Y = 99.34)
+Dice Coefficient: 94.74% 
+

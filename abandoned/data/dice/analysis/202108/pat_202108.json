@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Trust in the dogecoin #doge #DogecoinToTheMoon #dogearmy",
+        "X_token": "trust, dogecoin, doge, dogecointothemoon, dogearmy",
+        "X_tweet_count": 18,
+        "X_username": "pat",
+        "Y_text": "I like the dogecoin #doge #dogearmy #DogecoinToTheMoon",
+        "Y_token": "like, dogecoin, doge, dogearmy, dogecointothemoon",
+        "Y_tweet_count": 19,
+        "Y_username": "pat",
+        "X_length": 56,
+        "Y_length": 54,
+        "Y_length_percent_of_X": 96.43,
+        "X_length_percent_of_Y": 103.7,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "Trust in the dogecoin #doge #DogecoinToTheMoon #dogearmy",
+        "X_token": "trust, dogecoin, doge, dogecointothemoon, dogearmy",
+        "X_tweet_count": 18,
+        "X_username": "pat",
+        "Y_text": "much wow for doge #DogecoinToTheMoon #dogearmy #dogecoin #doge",
+        "Y_token": "much, wow, doge, dogecointothemoon, dogearmy, dogecoin, doge",
+        "Y_tweet_count": 20,
+        "Y_username": "pat",
+        "X_length": 56,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 110.71,
+        "X_length_percent_of_Y": 90.32,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "I like the dogecoin #doge #dogearmy #DogecoinToTheMoon",
+        "X_token": "like, dogecoin, doge, dogearmy, dogecointothemoon",
+        "X_tweet_count": 19,
+        "X_username": "pat",
+        "Y_text": "much wow for doge #DogecoinToTheMoon #dogearmy #dogecoin #doge",
+        "Y_token": "much, wow, doge, dogecointothemoon, dogearmy, dogecoin, doge",
+        "Y_tweet_count": 20,
+        "Y_username": "pat",
+        "X_length": 54,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 114.81,
+        "X_length_percent_of_Y": 87.1,
+        "dice_coefficient": 72.73
+    }
+]

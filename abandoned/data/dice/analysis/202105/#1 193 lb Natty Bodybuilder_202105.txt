@@ -1,0 +1,11 @@
+﻿X = [@Omojuwa Have you heard of $Doge]
+X_token = [omojuwa, heard, doge]
+	X tweet_count = [5]
+	X username = [#1 193 lb Natty Bodybuilder]
+Y = [Have y’all heard about $Doge]
+Y_token = [heard, doge]
+	Y tweet_count = [14]
+	Y username = [#1 193 lb Natty Bodybuilder]
+Total Length: X = 32, Y = 28 (Y / X = 87.50  X / Y = 114.29)
+Dice Coefficient: 80.00% 
+

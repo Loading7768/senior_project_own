@@ -1,0 +1,11 @@
+﻿X = [#doge #dogecoin $doge https://t.co/wNpufo532V]
+X_token = [doge, dogecoin, doge, https]
+	X tweet_count = [5]
+	X username = [LilHumansBigImpact]
+Y = [$Doge #Dogecoin https://t.co/bwfgAh9reY]
+Y_token = [doge, dogecoin, https]
+	Y tweet_count = [7]
+	Y username = [LilHumansBigImpact]
+Total Length: X = 45, Y = 39 (Y / X = 86.67  X / Y = 115.38)
+Dice Coefficient: 100.00% 
+

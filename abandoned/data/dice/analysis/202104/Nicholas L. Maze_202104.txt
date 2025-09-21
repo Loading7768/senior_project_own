@@ -1,0 +1,44 @@
+﻿X = [24/7 \n$DOGE Standard #dogecoin]
+X_token = [doge, standard, dogecoin]
+	X tweet_count = [9]
+	X username = [Nicholas L. Maze]
+Y = [@dogecoin_rise $DOGE Standard]
+Y_token = [doge, standard]
+	Y tweet_count = [20]
+	Y username = [Nicholas L. Maze]
+Total Length: X = 30, Y = 29 (Y / X = 96.67  X / Y = 103.45)
+Dice Coefficient: 80.00% 
+
+X = [24/7 \n$DOGE Standard #dogecoin]
+X_token = [doge, standard, dogecoin]
+	X tweet_count = [9]
+	X username = [Nicholas L. Maze]
+Y = [$DOGE Standard #dogecoin]
+Y_token = [doge, standard, dogecoin]
+	Y tweet_count = [28]
+	Y username = [Nicholas L. Maze]
+Total Length: X = 30, Y = 24 (Y / X = 80.00  X / Y = 125.00)
+Dice Coefficient: 100.00% 
+
+X = [@dogecoin_rise $DOGE Standard]
+X_token = [doge, standard]
+	X tweet_count = [20]
+	X username = [Nicholas L. Maze]
+Y = [$DOGE Standard #dogecoin]
+Y_token = [doge, standard, dogecoin]
+	Y tweet_count = [28]
+	Y username = [Nicholas L. Maze]
+Total Length: X = 29, Y = 24 (Y / X = 82.76  X / Y = 120.83)
+Dice Coefficient: 80.00% 
+
+X = [@iliamrod #doge stay at the top #dogeday420 #dogecoin]
+X_token = [iliamrod, doge, stay, top, dogeday420, dogecoin]
+	X tweet_count = [88]
+	X username = [Nicholas L. Maze]
+Y = [@itsALLrisky #dogecoin is here to stay #doge #DogeDay420]
+Y_token = [itsallrisky, dogecoin, stay, doge, dogeday420]
+	Y tweet_count = [91]
+	Y username = [Nicholas L. Maze]
+Total Length: X = 53, Y = 56 (Y / X = 105.66  X / Y = 94.64)
+Dice Coefficient: 72.73% 
+

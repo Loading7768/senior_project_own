@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@TheCryptoLark Proudly display your business accepts #dogecoin 2 styles available!  Check out what I just listed on Mercari. https://t.co/WVfSsiscjH",
+        "X_token": "thecryptolark, proudly, display, business, accepts, dogecoin, 2, styles, available, check, listed, mercari, https",
+        "X_tweet_count": 3,
+        "X_username": "KurtusCobain",
+        "Y_text": "@Investments_CEO @Starbucks Proudly display your business accepts #dogecoin 2 styles available!  Check out what I just listed on Mercari. https://t.co/WVfSsiscjH",
+        "Y_token": "starbucks, proudly, display, business, accepts, dogecoin, 2, styles, available, check, listed, mercari, https",
+        "Y_tweet_count": 4,
+        "Y_username": "KurtusCobain",
+        "X_length": 148,
+        "Y_length": 161,
+        "Y_length_percent_of_X": 108.78,
+        "X_length_percent_of_Y": 91.93,
+        "dice_coefficient": 92.31
+    },
+    {
+        "X_text": "@TheCryptoLark Proudly display your business accepts #dogecoin 2 styles available!  Check out what I just listed on Mercari. https://t.co/WVfSsiscjH",
+        "X_token": "thecryptolark, proudly, display, business, accepts, dogecoin, 2, styles, available, check, listed, mercari, https",
+        "X_tweet_count": 3,
+        "X_username": "KurtusCobain",
+        "Y_text": "@dogecoin_rise Proudly display your business accepts #dogecoin 2 styles available!  Check out what I just listed on Mercari. https://t.co/WVfSsiscjH",
+        "Y_token": "proudly, display, business, accepts, dogecoin, 2, styles, available, check, listed, mercari, https",
+        "Y_tweet_count": 5,
+        "Y_username": "KurtusCobain",
+        "X_length": 148,
+        "Y_length": 148,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 96.0
+    },
+    {
+        "X_text": "@Investments_CEO @Starbucks Proudly display your business accepts #dogecoin 2 styles available!  Check out what I just listed on Mercari. https://t.co/WVfSsiscjH",
+        "X_token": "starbucks, proudly, display, business, accepts, dogecoin, 2, styles, available, check, listed, mercari, https",
+        "X_tweet_count": 4,
+        "X_username": "KurtusCobain",
+        "Y_text": "@dogecoin_rise Proudly display your business accepts #dogecoin 2 styles available!  Check out what I just listed on Mercari. https://t.co/WVfSsiscjH",
+        "Y_token": "proudly, display, business, accepts, dogecoin, 2, styles, available, check, listed, mercari, https",
+        "Y_tweet_count": 5,
+        "Y_username": "KurtusCobain",
+        "X_length": 161,
+        "Y_length": 148,
+        "Y_length_percent_of_X": 91.93,
+        "X_length_percent_of_Y": 108.78,
+        "dice_coefficient": 96.0
+    }
+]

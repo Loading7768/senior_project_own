@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@heywhydean @_lonew0lffx @dogecoin We BULL",
+        "X_token": "heywhydean, dogecoin, bull",
+        "X_tweet_count": 7,
+        "X_username": "Theresa Lynn",
+        "Y_text": "@_lonew0lffx @dogecoin We bull now",
+        "Y_token": "dogecoin, bull",
+        "Y_tweet_count": 8,
+        "Y_username": "Theresa Lynn",
+        "X_length": 42,
+        "Y_length": 34,
+        "Y_length_percent_of_X": 80.95,
+        "X_length_percent_of_Y": 123.53,
+        "dice_coefficient": 80.0
+    }
+]

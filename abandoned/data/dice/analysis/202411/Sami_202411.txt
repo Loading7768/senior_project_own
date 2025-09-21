@@ -1,0 +1,22 @@
+﻿X = [hello .. i have cant open dogecoin wallet info]
+X_token = [hello, cant, open, dogecoin, wallet, info]
+	X tweet_count = [1]
+	X username = [Sami]
+Y = [@DogecoinFdn  hello i cant open wallet dogecoin info]
+Y_token = [dogecoinfdn, hello, cant, open, wallet, dogecoin, info]
+	Y tweet_count = [2]
+	Y username = [Sami]
+Total Length: X = 46, Y = 52 (Y / X = 113.04  X / Y = 88.46)
+Dice Coefficient: 92.31% 
+
+X = [@BillyM2k hello  i have problem with dogecoin info wallet]
+X_token = [billym2k, hello, problem, dogecoin, info, wallet]
+	X tweet_count = [6]
+	X username = [Sami]
+Y = [@dogecoin  hello i have problem with my wallet]
+Y_token = [dogecoin, hello, problem, wallet]
+	Y tweet_count = [8]
+	Y username = [Sami]
+Total Length: X = 57, Y = 46 (Y / X = 80.70  X / Y = 123.91)
+Dice Coefficient: 80.00% 
+

@@ -1,0 +1,11 @@
+﻿X = [My autumn plans     the delta variant https://t.co/9mZ5iBIzMr]
+X_token = [autumn, plans, delta, variant, https]
+	X tweet_count = [67]
+	X username = [dogecoin of venice]
+Y = [My spring plans        the delta variant https://t.co/zD7OJynRC4]
+Y_token = [spring, plans, delta, variant, https]
+	Y tweet_count = [76]
+	Y username = [dogecoin of venice]
+Total Length: X = 61, Y = 64 (Y / X = 104.92  X / Y = 95.31)
+Dice Coefficient: 80.00% 
+

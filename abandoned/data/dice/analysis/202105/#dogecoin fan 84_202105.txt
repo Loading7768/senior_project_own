@@ -1,0 +1,297 @@
+﻿X = [@jimmyfallon hey how about investing in #dogecoin]
+X_token = [jimmyfallon, hey, investing, dogecoin]
+	X tweet_count = [2]
+	X username = [#dogecoin fan 84]
+Y = [@StephenAtHome hey how about investing in #dogecoin]
+Y_token = [stephenathome, hey, investing, dogecoin]
+	Y tweet_count = [3]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 49, Y = 51 (Y / X = 104.08  X / Y = 96.08)
+Dice Coefficient: 75.00% 
+
+X = [@jimmyfallon hey how about investing in #dogecoin]
+X_token = [jimmyfallon, hey, investing, dogecoin]
+	X tweet_count = [2]
+	X username = [#dogecoin fan 84]
+Y = [@jimmykimmel hey how about investing in #dogecoin]
+Y_token = [jimmykimmel, hey, investing, dogecoin]
+	Y tweet_count = [4]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 49, Y = 49 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+
+X = [@StephenAtHome hey how about investing in #dogecoin]
+X_token = [stephenathome, hey, investing, dogecoin]
+	X tweet_count = [3]
+	X username = [#dogecoin fan 84]
+Y = [@jimmykimmel hey how about investing in #dogecoin]
+Y_token = [jimmykimmel, hey, investing, dogecoin]
+	Y tweet_count = [4]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 51, Y = 49 (Y / X = 96.08  X / Y = 104.08)
+Dice Coefficient: 75.00% 
+
+X = [@LloydOstertagg \n@elonmusk No gas in the USA it's ok #tesla has your back. All #tesla models have no need for gas they run on battery power.\nPlus they are S.E.X.Y\n\nSoon you can buy with #dogecoin \nhttps://t.co/ygAPnyLhGp]
+X_token = [lloydostertagg, elonmusk, gas, usa, ok, tesla, back, tesla, models, need, gas, run, battery, power, plus, soon, buy, dogecoin, https]
+	X tweet_count = [6]
+	X username = [#dogecoin fan 84]
+Y = [@elonmusk @Tesmanian_com @elonmusk No gas in the USA it's ok #tesla has your back. All #tesla models have no need for gas they run on battery power.\nPlus they are S.E.X.Y\n\nSoon you can buy with #dogecoin \nhttps://t.co/ygAPnyLhGp]
+Y_token = [elonmusk, elonmusk, gas, usa, ok, tesla, back, tesla, models, need, gas, run, battery, power, plus, soon, buy, dogecoin, https]
+	Y tweet_count = [7]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 220, Y = 228 (Y / X = 103.64  X / Y = 96.49)
+Dice Coefficient: 96.97% 
+
+X = [@LloydOstertagg \n@elonmusk No gas in the USA it's ok #tesla has your back. All #tesla models have no need for gas they run on battery power.\nPlus they are S.E.X.Y\n\nSoon you can buy with #dogecoin \nhttps://t.co/ygAPnyLhGp]
+X_token = [lloydostertagg, elonmusk, gas, usa, ok, tesla, back, tesla, models, need, gas, run, battery, power, plus, soon, buy, dogecoin, https]
+	X tweet_count = [6]
+	X username = [#dogecoin fan 84]
+Y = [@elonmusk No gas in the USA it's ok #tesla has your back. All #tesla models have no need for gas they run on battery power.\nPlus they are S.E.X.Y\n\nSoon you can buy with #dogecoin \nhttps://t.co/ygAPnyLhGp]
+Y_token = [elonmusk, gas, usa, ok, tesla, back, tesla, models, need, gas, run, battery, power, plus, soon, buy, dogecoin, https]
+	Y tweet_count = [8]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 220, Y = 203 (Y / X = 92.27  X / Y = 108.37)
+Dice Coefficient: 96.97% 
+
+X = [@elonmusk @Tesmanian_com @elonmusk No gas in the USA it's ok #tesla has your back. All #tesla models have no need for gas they run on battery power.\nPlus they are S.E.X.Y\n\nSoon you can buy with #dogecoin \nhttps://t.co/ygAPnyLhGp]
+X_token = [elonmusk, elonmusk, gas, usa, ok, tesla, back, tesla, models, need, gas, run, battery, power, plus, soon, buy, dogecoin, https]
+	X tweet_count = [7]
+	X username = [#dogecoin fan 84]
+Y = [@elonmusk No gas in the USA it's ok #tesla has your back. All #tesla models have no need for gas they run on battery power.\nPlus they are S.E.X.Y\n\nSoon you can buy with #dogecoin \nhttps://t.co/ygAPnyLhGp]
+Y_token = [elonmusk, gas, usa, ok, tesla, back, tesla, models, need, gas, run, battery, power, plus, soon, buy, dogecoin, https]
+	Y tweet_count = [8]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 228, Y = 203 (Y / X = 89.04  X / Y = 112.32)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+X_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	X tweet_count = [9]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+Y_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	Y tweet_count = [15]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 107, Y = 107 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+X_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	X tweet_count = [9]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+Y_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	Y tweet_count = [20]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 107, Y = 107 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+X_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	X tweet_count = [9]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+Y_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	Y tweet_count = [23]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 107, Y = 107 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [10]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [14]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 183 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [10]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin #tshirts \nNow taking #dogecoin as payment.\nUse code (Doge) to save on your order.\nShipping USA only.\n\nP.S. Like and Retweet.\n\nhttps://t.co/tzo8eoiwED]
+Y_token = [dogecoin, tshirts, taking, dogecoin, payment, use, code, doge, save, order, shipping, usa, like, retweet, https]
+	Y tweet_count = [16]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 159 (Y / X = 86.89  X / Y = 115.09)
+Dice Coefficient: 80.00% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [10]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [19]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 183 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [10]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin #shirt to the Moon!\nNow taking #dogecoin as payment with #crytopayments\nUse code (Doge) and save!\n\nShipping USA only.\nhttps://t.co/yIG8uQ1Gxp]
+Y_token = [dogecoin, shirt, moon, taking, dogecoin, payment, crytopayments, use, code, doge, save, shipping, usa, https]
+	Y tweet_count = [22]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 151 (Y / X = 82.51  X / Y = 121.19)
+Dice Coefficient: 83.33% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [10]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [24]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 183 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [14]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin #tshirts \nNow taking #dogecoin as payment.\nUse code (Doge) to save on your order.\nShipping USA only.\n\nP.S. Like and Retweet.\n\nhttps://t.co/tzo8eoiwED]
+Y_token = [dogecoin, tshirts, taking, dogecoin, payment, use, code, doge, save, order, shipping, usa, like, retweet, https]
+	Y tweet_count = [16]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 159 (Y / X = 86.89  X / Y = 115.09)
+Dice Coefficient: 80.00% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [14]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [19]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 183 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [14]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin #shirt to the Moon!\nNow taking #dogecoin as payment with #crytopayments\nUse code (Doge) and save!\n\nShipping USA only.\nhttps://t.co/yIG8uQ1Gxp]
+Y_token = [dogecoin, shirt, moon, taking, dogecoin, payment, crytopayments, use, code, doge, save, shipping, usa, https]
+	Y tweet_count = [22]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 151 (Y / X = 82.51  X / Y = 121.19)
+Dice Coefficient: 83.33% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [14]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [24]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 183 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+X_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	X tweet_count = [15]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+Y_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	Y tweet_count = [20]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 107, Y = 107 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+X_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	X tweet_count = [15]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+Y_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	Y tweet_count = [23]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 107, Y = 107 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin #tshirts \nNow taking #dogecoin as payment.\nUse code (Doge) to save on your order.\nShipping USA only.\n\nP.S. Like and Retweet.\n\nhttps://t.co/tzo8eoiwED]
+X_token = [dogecoin, tshirts, taking, dogecoin, payment, use, code, doge, save, order, shipping, usa, like, retweet, https]
+	X tweet_count = [16]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [19]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 159, Y = 183 (Y / X = 115.09  X / Y = 86.89)
+Dice Coefficient: 80.00% 
+
+X = [#dogecoin #tshirts \nNow taking #dogecoin as payment.\nUse code (Doge) to save on your order.\nShipping USA only.\n\nP.S. Like and Retweet.\n\nhttps://t.co/tzo8eoiwED]
+X_token = [dogecoin, tshirts, taking, dogecoin, payment, use, code, doge, save, order, shipping, usa, like, retweet, https]
+	X tweet_count = [16]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin #shirt to the Moon!\nNow taking #dogecoin as payment with #crytopayments\nUse code (Doge) and save!\n\nShipping USA only.\nhttps://t.co/yIG8uQ1Gxp]
+Y_token = [dogecoin, shirt, moon, taking, dogecoin, payment, crytopayments, use, code, doge, save, shipping, usa, https]
+	Y tweet_count = [22]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 159, Y = 151 (Y / X = 94.97  X / Y = 105.30)
+Dice Coefficient: 74.07% 
+
+X = [#dogecoin #tshirts \nNow taking #dogecoin as payment.\nUse code (Doge) to save on your order.\nShipping USA only.\n\nP.S. Like and Retweet.\n\nhttps://t.co/tzo8eoiwED]
+X_token = [dogecoin, tshirts, taking, dogecoin, payment, use, code, doge, save, order, shipping, usa, like, retweet, https]
+	X tweet_count = [16]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [24]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 159, Y = 183 (Y / X = 115.09  X / Y = 86.89)
+Dice Coefficient: 80.00% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [19]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin #shirt to the Moon!\nNow taking #dogecoin as payment with #crytopayments\nUse code (Doge) and save!\n\nShipping USA only.\nhttps://t.co/yIG8uQ1Gxp]
+Y_token = [dogecoin, shirt, moon, taking, dogecoin, payment, crytopayments, use, code, doge, save, shipping, usa, https]
+	Y tweet_count = [22]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 151 (Y / X = 82.51  X / Y = 121.19)
+Dice Coefficient: 83.33% 
+
+X = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+X_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	X tweet_count = [19]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [24]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 183, Y = 183 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+X_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	X tweet_count = [20]
+	X username = [#dogecoin fan 84]
+Y = [#dogecoin \nTaking payment in crypto #dogecoin\nDiscount code Doge \nUsA shipping only\nhttps://t.co/ui3kl9pG0T]
+Y_token = [dogecoin, taking, payment, crypto, dogecoin, discount, code, doge, usa, shipping, https]
+	Y tweet_count = [23]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 107, Y = 107 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [#dogecoin #shirt to the Moon!\nNow taking #dogecoin as payment with #crytopayments\nUse code (Doge) and save!\n\nShipping USA only.\nhttps://t.co/yIG8uQ1Gxp]
+X_token = [dogecoin, shirt, moon, taking, dogecoin, payment, crytopayments, use, code, doge, save, shipping, usa, https]
+	X tweet_count = [22]
+	X username = [#dogecoin fan 84]
+Y = [Taking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nTaking #dogecoin as payment.\nUse discount code Doge to save\n\nShipping USA only\n\nhttps://t.co/Rggga6CWOk]
+Y_token = [taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, taking, dogecoin, payment, use, discount, code, doge, save, shipping, usa, https]
+	Y tweet_count = [24]
+	Y username = [#dogecoin fan 84]
+Total Length: X = 151, Y = 183 (Y / X = 121.19  X / Y = 82.51)
+Dice Coefficient: 83.33% 
+

@@ -1,0 +1,209 @@
+﻿X = [@IsDogeADollar @dogecoin Doge is the way.]
+X_token = [isdogeadollar, dogecoin, doge, way]
+	X tweet_count = [1]
+	X username = [Padraic]
+Y = [@IsDogeADollar @dogecoin Dogecoin is the way...]
+Y_token = [isdogeadollar, dogecoin, dogecoin, way]
+	Y tweet_count = [28]
+	Y username = [Padraic]
+Total Length: X = 41, Y = 47 (Y / X = 114.63  X / Y = 87.23)
+Dice Coefficient: 85.71% 
+
+X = [@DogecoinXPost I like it 🙂 \nDogecoin is money 🤑 \nDoOnlyGoodEveryday is the way]
+X_token = [dogecoinxpost, like, dogecoin, money, doonlygoodeveryday, way]
+	X tweet_count = [2]
+	X username = [Padraic]
+Y = [@ProTheDoge Dogecoin is money 🤑💰 \nDoOnlyGoodEveryday is the way]
+Y_token = [prothedoge, dogecoin, money, doonlygoodeveryday, way]
+	Y tweet_count = [9]
+	Y username = [Padraic]
+Total Length: X = 78, Y = 63 (Y / X = 80.77  X / Y = 123.81)
+Dice Coefficient: 72.73% 
+
+X = [@DogecoinXPost I like it 🙂 \nDogecoin is money 🤑 \nDoOnlyGoodEveryday is the way]
+X_token = [dogecoinxpost, like, dogecoin, money, doonlygoodeveryday, way]
+	X tweet_count = [2]
+	X username = [Padraic]
+Y = [@IsDogeADollar @dogecoin I like it 🙂 \nDogecoin is the way...\nDoOnlyGoodEveryday 😉]
+Y_token = [isdogeadollar, dogecoin, like, dogecoin, way, doonlygoodeveryday]
+	Y tweet_count = [36]
+	Y username = [Padraic]
+Total Length: X = 78, Y = 81 (Y / X = 103.85  X / Y = 96.30)
+Dice Coefficient: 72.73% 
+
+X = [@DogecoinXPost I like it 🙂 \nDogecoin is money 🤑 \nDoOnlyGoodEveryday is the way]
+X_token = [dogecoinxpost, like, dogecoin, money, doonlygoodeveryday, way]
+	X tweet_count = [2]
+	X username = [Padraic]
+Y = [I like 2.4 Dogecoin is the way \nDoOnlyGoodEveryday 🙂 https://t.co/n8ZrlBhwyE]
+Y_token = [like, dogecoin, way, doonlygoodeveryday, https]
+	Y tweet_count = [41]
+	Y username = [Padraic]
+Total Length: X = 78, Y = 76 (Y / X = 97.44  X / Y = 102.63)
+Dice Coefficient: 72.73% 
+
+X = [@grego_oreo @Knights5280 @dogecoin @DogecoinRise @MCDoge_1 @Sad_Pho @Nakdnick @topherAlba26 @GloryDoge @TeslaModelDoge @iMmr_D Doge is the way]
+X_token = [knights5280, dogecoin, dogecoinrise, nakdnick, topheralba26, glorydoge, teslamodeldoge, doge, way]
+	X tweet_count = [3]
+	X username = [Padraic]
+Y = [@grego_oreo @Knights5280 @dogecoin @DogecoinRise @MCDoge_1 @Sad_Pho @Nakdnick @topherAlba26 @GloryDoge @TeslaModelDoge @iMmr_D Doge]
+Y_token = [knights5280, dogecoin, dogecoinrise, nakdnick, topheralba26, glorydoge, teslamodeldoge, doge]
+	Y tweet_count = [4]
+	Y username = [Padraic]
+Total Length: X = 142, Y = 131 (Y / X = 92.25  X / Y = 108.40)
+Dice Coefficient: 94.12% 
+
+X = [@IsDogeADollar @dogecoin It won't be long now 😜\nDoOnlyGoodEveryday is the way \nDogecoin 😉]
+X_token = [isdogeadollar, dogecoin, wo, long, doonlygoodeveryday, way, dogecoin]
+	X tweet_count = [6]
+	X username = [Padraic]
+Y = [@IsDogeADollar @dogecoin It won't be long now 🚀🙂\nDoOnlyGoodEveryday \nDogecoin 😉]
+Y_token = [isdogeadollar, dogecoin, wo, long, doonlygoodeveryday, dogecoin]
+	Y tweet_count = [18]
+	Y username = [Padraic]
+Total Length: X = 89, Y = 79 (Y / X = 88.76  X / Y = 112.66)
+Dice Coefficient: 90.91% 
+
+X = [@IsDogeADollar @dogecoin It won't be long now 😜\nDoOnlyGoodEveryday is the way \nDogecoin 😉]
+X_token = [isdogeadollar, dogecoin, wo, long, doonlygoodeveryday, way, dogecoin]
+	X tweet_count = [6]
+	X username = [Padraic]
+Y = [@IsDogeADollar @dogecoin I like it 🙂 \nDogecoin is the way...\nDoOnlyGoodEveryday 😉]
+Y_token = [isdogeadollar, dogecoin, like, dogecoin, way, doonlygoodeveryday]
+	Y tweet_count = [36]
+	Y username = [Padraic]
+Total Length: X = 89, Y = 81 (Y / X = 91.01  X / Y = 109.88)
+Dice Coefficient: 72.73% 
+
+X = [@IsDogeADollar @dogecoin It won't be long now 😜\nDoOnlyGoodEveryday is the way \nDogecoin 😉]
+X_token = [isdogeadollar, dogecoin, wo, long, doonlygoodeveryday, way, dogecoin]
+	X tweet_count = [6]
+	X username = [Padraic]
+Y = [@IsDogeADollar @dogecoin It won't be long....\nDoOnlyGoodEveryday is the way]
+Y_token = [isdogeadollar, dogecoin, wo, long, doonlygoodeveryday, way]
+	Y tweet_count = [46]
+	Y username = [Padraic]
+Total Length: X = 89, Y = 75 (Y / X = 84.27  X / Y = 118.67)
+Dice Coefficient: 100.00% 
+
+X = [@JoeyDoge42069 Dogecoin 😉]
+X_token = [joeydoge42069, dogecoin]
+	X tweet_count = [12]
+	X username = [Padraic]
+Y = [@JoeyDoge42069 Dogecoin]
+Y_token = [joeydoge42069, dogecoin]
+	Y tweet_count = [25]
+	Y username = [Padraic]
+Total Length: X = 25, Y = 23 (Y / X = 92.00  X / Y = 108.70)
+Dice Coefficient: 100.00% 
+
+X = [@doge_albania Dogecoin 😉]
+X_token = [dogecoin]
+	X tweet_count = [14]
+	X username = [Padraic]
+Y = [@doge_albania Dogecoin 😉]
+Y_token = [dogecoin]
+	Y tweet_count = [16]
+	Y username = [Padraic]
+Total Length: X = 24, Y = 24 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@doge_albania Dogecoin 😉]
+X_token = [dogecoin]
+	X tweet_count = [14]
+	X username = [Padraic]
+Y = [@doge_mom Dogecoin 🌎🚀🌜]
+Y_token = [dogecoin]
+	Y tweet_count = [29]
+	Y username = [Padraic]
+Total Length: X = 24, Y = 22 (Y / X = 91.67  X / Y = 109.09)
+Dice Coefficient: 100.00% 
+
+X = [@doge_albania Dogecoin 😉]
+X_token = [dogecoin]
+	X tweet_count = [14]
+	X username = [Padraic]
+Y = [@Coochie_Fiend_ Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [40]
+	Y username = [Padraic]
+Total Length: X = 24, Y = 24 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@doge_albania Dogecoin 😉]
+X_token = [dogecoin]
+	X tweet_count = [16]
+	X username = [Padraic]
+Y = [@doge_mom Dogecoin 🌎🚀🌜]
+Y_token = [dogecoin]
+	Y tweet_count = [29]
+	Y username = [Padraic]
+Total Length: X = 24, Y = 22 (Y / X = 91.67  X / Y = 109.09)
+Dice Coefficient: 100.00% 
+
+X = [@doge_albania Dogecoin 😉]
+X_token = [dogecoin]
+	X tweet_count = [16]
+	X username = [Padraic]
+Y = [@Coochie_Fiend_ Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [40]
+	Y username = [Padraic]
+Total Length: X = 24, Y = 24 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@IsDogeADollar @dogecoin It won't be long now 🚀🙂\nDoOnlyGoodEveryday \nDogecoin 😉]
+X_token = [isdogeadollar, dogecoin, wo, long, doonlygoodeveryday, dogecoin]
+	X tweet_count = [18]
+	X username = [Padraic]
+Y = [@IsDogeADollar @dogecoin It won't be long....\nDoOnlyGoodEveryday is the way]
+Y_token = [isdogeadollar, dogecoin, wo, long, doonlygoodeveryday, way]
+	Y tweet_count = [46]
+	Y username = [Padraic]
+Total Length: X = 79, Y = 75 (Y / X = 94.94  X / Y = 105.33)
+Dice Coefficient: 90.91% 
+
+X = [@doge_mom Dogecoin 🌎🚀🌜]
+X_token = [dogecoin]
+	X tweet_count = [29]
+	X username = [Padraic]
+Y = [@Coochie_Fiend_ Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [40]
+	Y username = [Padraic]
+Total Length: X = 22, Y = 24 (Y / X = 109.09  X / Y = 91.67)
+Dice Coefficient: 100.00% 
+
+X = [Much 😲 WOW Dogecoin is the way. DoOnlyGoodEveryday https://t.co/y0Pr9nH7QI]
+X_token = [much, wow, dogecoin, way, doonlygoodeveryday, https]
+	X tweet_count = [32]
+	X username = [Padraic]
+Y = [I like 2.4 Dogecoin is the way \nDoOnlyGoodEveryday 🙂 https://t.co/n8ZrlBhwyE]
+Y_token = [like, dogecoin, way, doonlygoodeveryday, https]
+	Y tweet_count = [41]
+	Y username = [Padraic]
+Total Length: X = 74, Y = 76 (Y / X = 102.70  X / Y = 97.37)
+Dice Coefficient: 72.73% 
+
+X = [@IsDogeADollar @dogecoin I like it 🙂 \nDogecoin is the way...\nDoOnlyGoodEveryday 😉]
+X_token = [isdogeadollar, dogecoin, like, dogecoin, way, doonlygoodeveryday]
+	X tweet_count = [36]
+	X username = [Padraic]
+Y = [I like 2.4 Dogecoin is the way \nDoOnlyGoodEveryday 🙂 https://t.co/n8ZrlBhwyE]
+Y_token = [like, dogecoin, way, doonlygoodeveryday, https]
+	Y tweet_count = [41]
+	Y username = [Padraic]
+Total Length: X = 81, Y = 76 (Y / X = 93.83  X / Y = 106.58)
+Dice Coefficient: 80.00% 
+
+X = [@IsDogeADollar @dogecoin I like it 🙂 \nDogecoin is the way...\nDoOnlyGoodEveryday 😉]
+X_token = [isdogeadollar, dogecoin, like, dogecoin, way, doonlygoodeveryday]
+	X tweet_count = [36]
+	X username = [Padraic]
+Y = [@IsDogeADollar @dogecoin It won't be long....\nDoOnlyGoodEveryday is the way]
+Y_token = [isdogeadollar, dogecoin, wo, long, doonlygoodeveryday, way]
+	Y tweet_count = [46]
+	Y username = [Padraic]
+Total Length: X = 81, Y = 75 (Y / X = 92.59  X / Y = 108.00)
+Dice Coefficient: 72.73% 
+

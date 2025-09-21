@@ -1,0 +1,55 @@
+﻿X = [Update:\n\nHow it started, how it's going.\n\n#Dogecoin https://t.co/wFuC9kla5Z]
+X_token = [update, started, going, dogecoin, https]
+	X tweet_count = [86]
+	X username = [GoodShibe]
+Y = [How it started.\n\nHow it's going. :D)\n\n#Dogecoin https://t.co/NrV5xJrDau]
+Y_token = [started, going, dogecoin, https]
+	Y tweet_count = [100]
+	Y username = [GoodShibe]
+Total Length: X = 75, Y = 71 (Y / X = 94.67  X / Y = 105.63)
+Dice Coefficient: 88.89% 
+
+X = [Update:\n\nHow it started, how it's going.\n\n#Dogecoin https://t.co/wFuC9kla5Z]
+X_token = [update, started, going, dogecoin, https]
+	X tweet_count = [86]
+	X username = [GoodShibe]
+Y = [How it started.\n\nHow it's going.\n\n#Dogecoin #DOGE $DOGE https://t.co/96CQbyHSve]
+Y_token = [started, going, dogecoin, doge, doge, https]
+	Y tweet_count = [285]
+	Y username = [GoodShibe]
+Total Length: X = 75, Y = 79 (Y / X = 105.33  X / Y = 94.94)
+Dice Coefficient: 80.00% 
+
+X = [How it started.\n\nHow it's going. :D)\n\n#Dogecoin https://t.co/NrV5xJrDau]
+X_token = [started, going, dogecoin, https]
+	X tweet_count = [100]
+	X username = [GoodShibe]
+Y = [How it started.\n\nHow it's going.\n\n#Dogecoin #DOGE $DOGE https://t.co/96CQbyHSve]
+Y_token = [started, going, dogecoin, doge, doge, https]
+	Y tweet_count = [285]
+	Y username = [GoodShibe]
+Total Length: X = 71, Y = 79 (Y / X = 111.27  X / Y = 89.87)
+Dice Coefficient: 88.89% 
+
+X = [SOON.\n\n#Dogecoin #DogecoinRise #Dogearmy https://t.co/MwNVh4GFbV]
+X_token = [soon, dogecoin, dogecoinrise, dogearmy, https]
+	X tweet_count = [161]
+	X username = [GoodShibe]
+Y = [SO. CLOSE!!\n\n#Dogecoin #DogecoinRise #Dogearmy https://t.co/VvvT0SPdqD]
+Y_token = [close, dogecoin, dogecoinrise, dogearmy, https]
+	Y tweet_count = [221]
+	Y username = [GoodShibe]
+Total Length: X = 64, Y = 70 (Y / X = 109.38  X / Y = 91.43)
+Dice Coefficient: 80.00% 
+
+X = [@RichDevX @Halio1984 @dogecoin_devs @freebsdfndation @elonmusk *GASP*\n\nYou just hush now, you! ;D)]
+X_token = [richdevx, halio1984, freebsdfndation, elonmusk, gasp, hush]
+	X tweet_count = [324]
+	X username = [GoodShibe]
+Y = [@Halio1984 @RichDevX @dogecoin_devs @freebsdfndation @elonmusk Hear, hear to that!]
+Y_token = [halio1984, richdevx, freebsdfndation, elonmusk, hear, hear]
+	Y tweet_count = [331]
+	Y username = [GoodShibe]
+Total Length: X = 98, Y = 82 (Y / X = 83.67  X / Y = 119.51)
+Dice Coefficient: 72.73% 
+

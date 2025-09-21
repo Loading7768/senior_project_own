@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@ProgressiveGuy_ Don't give up! We could still win this thing! California could take weeks to count! 😂",
+        "X_token": "give, could, still, win, thing, california, could, take, weeks, count",
+        "X_tweet_count": 3,
+        "X_username": "🃏DogecoinFool🃏",
+        "Y_text": "@KUAILOUIS It's true. California said it could take weeks to count all the votes. We could still win this thing! 👊 😁",
+        "Y_token": "kuailouis, true, california, said, could, take, weeks, count, votes, could, still, win, thing",
+        "Y_tweet_count": 5,
+        "Y_username": "🃏DogecoinFool🃏",
+        "X_length": 102,
+        "Y_length": 116,
+        "Y_length_percent_of_X": 113.73,
+        "X_length_percent_of_Y": 87.93,
+        "dice_coefficient": 76.19
+    },
+    {
+        "X_text": "@ImMeme0 Nose ring ✅ \n\nUniform checks out",
+        "X_token": "immeme0, nose, ring, uniform, checks",
+        "X_tweet_count": 50,
+        "X_username": "🃏DogecoinFool🃏",
+        "Y_text": "@libsoftiktok Nice nose ring..Uniform checks out.",
+        "Y_token": "libsoftiktok, nice, nose, ring, uniform, checks",
+        "Y_tweet_count": 53,
+        "Y_username": "🃏DogecoinFool🃏",
+        "X_length": 41,
+        "Y_length": 49,
+        "Y_length_percent_of_X": 119.51,
+        "X_length_percent_of_Y": 83.67,
+        "dice_coefficient": 72.73
+    },
+    {
+        "X_text": "@ClownWorld_ C'mon y'all see it too, right? https://t.co/EzBj75IO5G",
+        "X_token": "see, right, https",
+        "X_tweet_count": 253,
+        "X_username": "🃏DogecoinFool🃏",
+        "Y_text": "@Jesse_Morgan_ We'll see about that... https://t.co/Uz42dssh9f",
+        "Y_token": "see, https",
+        "Y_tweet_count": 274,
+        "Y_username": "🃏DogecoinFool🃏",
+        "X_length": 67,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 92.54,
+        "X_length_percent_of_Y": 108.06,
+        "dice_coefficient": 80.0
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@MorganRalston #dogecoin #doge $doge",
+        "X_token": "morganralston, dogecoin, doge, doge",
+        "X_tweet_count": 18,
+        "X_username": "Uncle Chad",
+        "Y_text": "@bluff_nuts #dogecoin #doge $doge",
+        "Y_token": "dogecoin, doge, doge",
+        "Y_tweet_count": 20,
+        "Y_username": "Uncle Chad",
+        "X_length": 36,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 91.67,
+        "X_length_percent_of_Y": 109.09,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@bluff_nuts #dogecoin #doge $doge",
+        "X_token": "dogecoin, doge, doge",
+        "X_tweet_count": 20,
+        "X_username": "Uncle Chad",
+        "Y_text": "@nl_dogecoin CHEERS #dogecoin #doge $doge",
+        "Y_token": "cheers, dogecoin, doge, doge",
+        "Y_tweet_count": 23,
+        "Y_username": "Uncle Chad",
+        "X_length": 33,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 124.24,
+        "X_length_percent_of_Y": 80.49,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@RealGamerDoge CHEERS. #dogecoin #doge $doge",
+        "X_token": "realgamerdoge, cheers, dogecoin, doge, doge",
+        "X_tweet_count": 22,
+        "X_username": "Uncle Chad",
+        "Y_text": "@nl_dogecoin CHEERS #dogecoin #doge $doge",
+        "Y_token": "cheers, dogecoin, doge, doge",
+        "Y_tweet_count": 23,
+        "Y_username": "Uncle Chad",
+        "X_length": 44,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 93.18,
+        "X_length_percent_of_Y": 107.32,
+        "dice_coefficient": 85.71
+    }
+]

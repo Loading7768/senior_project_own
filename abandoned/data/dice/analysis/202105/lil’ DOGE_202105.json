@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "#hold and #HODL the #dogecoin",
+        "X_token": "hold, hodl, dogecoin",
+        "X_tweet_count": 18,
+        "X_username": "lil’ DOGE",
+        "Y_text": "#hold and #HODL  your #dogecoin",
+        "Y_token": "hold, hodl, dogecoin",
+        "Y_tweet_count": 39,
+        "Y_username": "lil’ DOGE",
+        "X_length": 29,
+        "Y_length": 31,
+        "Y_length_percent_of_X": 106.9,
+        "X_length_percent_of_Y": 93.55,
+        "dice_coefficient": 100.0
+    }
+]

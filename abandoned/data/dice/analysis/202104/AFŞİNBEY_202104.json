@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "The whole world wants Dogecoin out of your mouth :)) greetings from Turkey @elonmusk @turkey #dogecoin  #turkey #paribu #binance",
+        "X_token": "whole, world, wants, dogecoin, mouth, greetings, turkey, elonmusk, turkey, dogecoin, turkey, paribu, binance",
+        "X_tweet_count": 1,
+        "X_username": "AFŞİNBEY",
+        "Y_text": "@Commercial_Crew @elonmusk @NASA @SpaceX @Space_Station The whole world wants Dogecoin out of your mouth :)) greetings from Turkey @elonmusk",
+        "Y_token": "elonmusk, nasa, spacex, whole, world, wants, dogecoin, mouth, greetings, turkey, elonmusk",
+        "Y_tweet_count": 3,
+        "Y_username": "AFŞİNBEY",
+        "X_length": 128,
+        "Y_length": 140,
+        "Y_length_percent_of_X": 109.38,
+        "X_length_percent_of_Y": 91.43,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@SpaceX @elonmusk The whole world wants Dogecoin out of your mouth :)) greetings from Turkey @elonmusk",
+        "X_token": "spacex, elonmusk, whole, world, wants, dogecoin, mouth, greetings, turkey, elonmusk",
+        "X_tweet_count": 4,
+        "X_username": "AFŞİNBEY",
+        "Y_text": "@SpaceX @elonmusk The whole world wants Dogecoin out of your mouth :)) greetings from Turkey",
+        "Y_token": "spacex, elonmusk, whole, world, wants, dogecoin, mouth, greetings, turkey",
+        "Y_tweet_count": 5,
+        "Y_username": "AFŞİNBEY",
+        "X_length": 102,
+        "Y_length": 92,
+        "Y_length_percent_of_X": 90.2,
+        "X_length_percent_of_Y": 110.87,
+        "dice_coefficient": 100.0
+    }
+]

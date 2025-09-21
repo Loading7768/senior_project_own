@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "Predict #superbowl and win #dogecoin and #NFL swag! Pick #Broncos or #Seahawks, the score and mention #predictedio http://t.co/IJ2D9iMXhf",
+        "X_token": "predict, superbowl, win, dogecoin, nfl, swag, pick, broncos, seahawks, score, mention, predictedio, http",
+        "X_tweet_count": 1,
+        "X_username": "Predicted.io",
+        "Y_text": "#Superbowl 250K #dogecoin prize pool and #NFL swag! Predict #Broncos or #Seahawks and score must mention #Predictedio http://t.co/2rI0y3Qyii",
+        "Y_token": "superbowl, 250k, dogecoin, prize, pool, nfl, swag, predict, broncos, seahawks, score, must, mention, predictedio, http",
+        "Y_tweet_count": 7,
+        "Y_username": "Predicted.io",
+        "X_length": 137,
+        "Y_length": 140,
+        "Y_length_percent_of_X": 102.19,
+        "X_length_percent_of_Y": 97.86,
+        "dice_coefficient": 78.57
+    }
+]

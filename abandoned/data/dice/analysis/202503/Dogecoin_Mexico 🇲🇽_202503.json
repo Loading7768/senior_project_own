@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@dogecoin DOGECOIN MORNING ROUTINE ✨️ https://t.co/TmEusDm4c4",
+        "X_token": "dogecoin, dogecoin, morning, routine, https",
+        "X_tweet_count": 5,
+        "X_username": "Dogecoin_Mexico 🇲🇽",
+        "Y_text": "Dogecoin Morning routine ✨️ 😁\n\n#Dogecoin https://t.co/fWeWZwjjBk",
+        "Y_token": "dogecoin, morning, routine, dogecoin, https",
+        "Y_tweet_count": 6,
+        "Y_username": "Dogecoin_Mexico 🇲🇽",
+        "X_length": 61,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 104.92,
+        "X_length_percent_of_Y": 95.31,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@dogecoin DOGECOIN MORNING ROUTINE ✨️ https://t.co/TmEusDm4c4",
+        "X_token": "dogecoin, dogecoin, morning, routine, https",
+        "X_tweet_count": 5,
+        "X_username": "Dogecoin_Mexico 🇲🇽",
+        "Y_text": "Dogecoin Morning routine ✨️ 😁 https://t.co/70deYpayQa",
+        "Y_token": "dogecoin, morning, routine, https",
+        "Y_tweet_count": 7,
+        "Y_username": "Dogecoin_Mexico 🇲🇽",
+        "X_length": 61,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 86.89,
+        "X_length_percent_of_Y": 115.09,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "Dogecoin Morning routine ✨️ 😁\n\n#Dogecoin https://t.co/fWeWZwjjBk",
+        "X_token": "dogecoin, morning, routine, dogecoin, https",
+        "X_tweet_count": 6,
+        "X_username": "Dogecoin_Mexico 🇲🇽",
+        "Y_text": "Dogecoin Morning routine ✨️ 😁 https://t.co/70deYpayQa",
+        "Y_token": "dogecoin, morning, routine, https",
+        "Y_tweet_count": 7,
+        "Y_username": "Dogecoin_Mexico 🇲🇽",
+        "X_length": 64,
+        "Y_length": 53,
+        "Y_length_percent_of_X": 82.81,
+        "X_length_percent_of_Y": 120.75,
+        "dice_coefficient": 100.0
+    }
+]

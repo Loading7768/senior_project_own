@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "#Dogecoin \n\nTransferred 350,000,000 #$DOGE (109,962,192 USD) from unknown wallet to unknown wallet.",
+        "X_token": "dogecoin, transferred, doge, usd, unknown, wallet, unknown, wallet",
+        "X_tweet_count": 2,
+        "X_username": "Dogetoshi Nakamoto",
+        "Y_text": "#Dogecoin \n\nTransferred $466,890,148 #$DOGE (149,137,073 USD) from unknown wallet to unknown wallet.",
+        "Y_token": "dogecoin, transferred, doge, usd, unknown, wallet, unknown, wallet",
+        "Y_tweet_count": 3,
+        "Y_username": "Dogetoshi Nakamoto",
+        "X_length": 99,
+        "Y_length": 100,
+        "Y_length_percent_of_X": 101.01,
+        "X_length_percent_of_Y": 99.0,
+        "dice_coefficient": 100.0
+    }
+]

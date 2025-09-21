@@ -1,0 +1,33 @@
+﻿X = [@MattWallace888 @elonmusk #dogecoin is the people]
+X_token = [mattwallace888, elonmusk, dogecoin, people]
+	X tweet_count = [1]
+	X username = [Bernie]
+Y = [@GimmicksPaul @elonmusk we're #dogecoin we are the people]
+Y_token = [gimmickspaul, elonmusk, dogecoin, people]
+	Y tweet_count = [28]
+	Y username = [Bernie]
+Total Length: X = 49, Y = 57 (Y / X = 116.33  X / Y = 85.96)
+Dice Coefficient: 75.00% 
+
+X = [@MattWallace888 love &amp; #dogecoin]
+X_token = [mattwallace888, love, amp, dogecoin]
+	X tweet_count = [4]
+	X username = [Bernie]
+Y = [@MattWallace888 just love the #dogecoin]
+Y_token = [mattwallace888, love, dogecoin]
+	Y tweet_count = [10]
+	Y username = [Bernie]
+Total Length: X = 36, Y = 39 (Y / X = 108.33  X / Y = 92.31)
+Dice Coefficient: 85.71% 
+
+X = [@dogetothe_moon @Courtneyxsum hodl the #dogecoin]
+X_token = [courtneyxsum, hodl, dogecoin]
+	X tweet_count = [7]
+	X username = [Bernie]
+Y = [@multibagger777 @Courtneyxsum never! just hodl the #dogecoin]
+Y_token = [multibagger777, courtneyxsum, never, hodl, dogecoin]
+	Y tweet_count = [8]
+	Y username = [Bernie]
+Total Length: X = 48, Y = 60 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 75.00% 
+

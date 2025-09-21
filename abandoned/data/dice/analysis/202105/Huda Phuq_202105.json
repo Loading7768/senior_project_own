@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "$shib $ass $pube $doge https://t.co/Sr3Km2io7U get in while you can before its too late https://t.co/7TDmiJtUGX",
+        "X_token": "shib, ass, pube, doge, https, get, late, https",
+        "X_tweet_count": 1,
+        "X_username": "Huda Phuq",
+        "Y_text": "$shib $ass $pube $doge https://t.co/Sr3Km2io7U get in while you can before its too late https://t.co/7TDmiJtUGX",
+        "Y_token": "shib, ass, pube, doge, https, get, late, https",
+        "Y_tweet_count": 14,
+        "Y_username": "Huda Phuq",
+        "X_length": 111,
+        "Y_length": 111,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "https://t.co/Sr3Km2io7U $doge $shib $ass community come on over :)",
+        "X_token": "https, doge, shib, ass, community, come",
+        "X_tweet_count": 2,
+        "X_username": "Huda Phuq",
+        "Y_text": "https://t.co/Sr3Km2io7U $ass $shib $doge https://t.co/koXRSh9RNJ",
+        "Y_token": "https, ass, shib, doge, https",
+        "Y_tweet_count": 3,
+        "Y_username": "Huda Phuq",
+        "X_length": 66,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 96.97,
+        "X_length_percent_of_Y": 103.12,
+        "dice_coefficient": 80.0
+    }
+]

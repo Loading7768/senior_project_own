@@ -1,0 +1,11 @@
+﻿X = [@Investments_CEO There's a rumor that the ETFs for XRP and Dogecoin ($DOGE) will be approved by March 21st. Rumors can sway short - term market sentiment.]
+X_token = [rumor, etfs, xrp, dogecoin, doge, approved, march, 21st, rumors, sway, short, term, market, sentiment]
+	X tweet_count = [7]
+	X username = [Maxwell-Sterling]
+Y = [@Investments_CEO There's a rumor that the ETFs for Dogecoin ($DOGE) and XRP will be approved on Monday. Such rumors can impact market sentiment.]
+Y_token = [rumor, etfs, dogecoin, doge, xrp, approved, monday, rumors, impact, market, sentiment]
+	Y tweet_count = [9]
+	Y username = [Maxwell-Sterling]
+Total Length: X = 154, Y = 144 (Y / X = 93.51  X / Y = 106.94)
+Dice Coefficient: 72.00% 
+

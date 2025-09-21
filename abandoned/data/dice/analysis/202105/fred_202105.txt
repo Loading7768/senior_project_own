@@ -1,0 +1,11 @@
+﻿X = [May we hit $1.00 dollar. #dogearmy $DOGE #dogecoin #dogecoinarmy]
+X_token = [may, hit, dollar, dogearmy, doge, dogecoin, dogecoinarmy]
+	X tweet_count = [1]
+	X username = [fred]
+Y = [May the Doge be with you. #dogearmy $DOGE #dogecoin #dogecoinarmy]
+Y_token = [may, doge, dogearmy, doge, dogecoin, dogecoinarmy]
+	Y tweet_count = [5]
+	Y username = [fred]
+Total Length: X = 64, Y = 65 (Y / X = 101.56  X / Y = 98.46)
+Dice Coefficient: 83.33% 
+

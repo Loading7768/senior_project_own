@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Join Robinhood with my link and we'll both get a free stock https://t.co/l1e9nBzLG8 \n@dogecoin #dogecoin #ToTheMoon @elonmusk",
+        "X_token": "join, robinhood, link, get, free, stock, https, dogecoin, dogecoin, tothemoon, elonmusk",
+        "X_tweet_count": 2,
+        "X_username": "AlienAmerican",
+        "Y_text": "Join Robinhood with my link and we'll both get a free stock https://t.co/l1e9nBzLG8 \nGet your #Dogecoin here.",
+        "Y_token": "join, robinhood, link, get, free, stock, https, get, dogecoin",
+        "Y_tweet_count": 20,
+        "Y_username": "AlienAmerican",
+        "X_length": 125,
+        "Y_length": 109,
+        "Y_length_percent_of_X": 87.2,
+        "X_length_percent_of_Y": 114.68,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "#dogecoin\n\nJoin Robinhood with my link and we'll both get free stock 🤝 https://t.co/l1e9nBzLG8",
+        "X_token": "dogecoin, join, robinhood, link, get, free, stock, https",
+        "X_tweet_count": 3,
+        "X_username": "AlienAmerican",
+        "Y_text": "Join Robinhood with my link and we'll both get a free stock https://t.co/l1e9nBzLG8 \nGet your #Dogecoin here.",
+        "Y_token": "join, robinhood, link, get, free, stock, https, get, dogecoin",
+        "Y_tweet_count": 20,
+        "Y_username": "AlienAmerican",
+        "X_length": 94,
+        "Y_length": 109,
+        "Y_length_percent_of_X": 115.96,
+        "X_length_percent_of_Y": 86.24,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@Jeep Any plans to accept #dogecoin ?",
+        "X_token": "jeep, plans, accept, dogecoin",
+        "X_tweet_count": 9,
+        "X_username": "AlienAmerican",
+        "Y_text": "@Xfinity Any plans to accept #dogecoin ?",
+        "Y_token": "xfinity, plans, accept, dogecoin",
+        "Y_tweet_count": 11,
+        "Y_username": "AlienAmerican",
+        "X_length": 37,
+        "Y_length": 40,
+        "Y_length_percent_of_X": 108.11,
+        "X_length_percent_of_Y": 92.5,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "@Emam_moathen Allah loves #dogecoin #ToTheMoon",
+        "X_token": "allah, loves, dogecoin, tothemoon",
+        "X_tweet_count": 16,
+        "X_username": "AlienAmerican",
+        "Y_text": "@Emam_moathen Allah loves #dogecoin #ToTheMoon",
+        "Y_token": "allah, loves, dogecoin, tothemoon",
+        "Y_tweet_count": 18,
+        "Y_username": "AlienAmerican",
+        "X_length": 46,
+        "Y_length": 46,
+        "Y_length_percent_of_X": 100.0,
+        "X_length_percent_of_Y": 100.0,
+        "dice_coefficient": 100.0
+    }
+]

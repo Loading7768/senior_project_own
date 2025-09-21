@@ -1,0 +1,88 @@
+﻿X = [if u see this, comment #Dogecoin and retweet\n\nor else..... :)]
+X_token = [u, see, comment, dogecoin, retweet, else]
+	X tweet_count = [4]
+	X username = [smateh]
+Y = [if u see this, comment #Dogecoin and retweet\n\nor else.......]
+Y_token = [u, see, comment, dogecoin, retweet, else]
+	Y tweet_count = [5]
+	Y username = [smateh]
+Total Length: X = 61, Y = 60 (Y / X = 98.36  X / Y = 101.67)
+Dice Coefficient: 100.00% 
+
+X = [if u see this, comment #Dogecoin and retweet\n\nor else..... :)]
+X_token = [u, see, comment, dogecoin, retweet, else]
+	X tweet_count = [4]
+	X username = [smateh]
+Y = [if u see this, comment #Dogecoin and retweet\n\nor else....]
+Y_token = [u, see, comment, dogecoin, retweet, else]
+	Y tweet_count = [6]
+	Y username = [smateh]
+Total Length: X = 61, Y = 57 (Y / X = 93.44  X / Y = 107.02)
+Dice Coefficient: 100.00% 
+
+X = [if u see this, comment #Dogecoin and retweet\n\nor else..... :)]
+X_token = [u, see, comment, dogecoin, retweet, else]
+	X tweet_count = [4]
+	X username = [smateh]
+Y = [if u see this, comment #Dogecoin and retweet\n\nor else..]
+Y_token = [u, see, comment, dogecoin, retweet, else]
+	Y tweet_count = [8]
+	Y username = [smateh]
+Total Length: X = 61, Y = 55 (Y / X = 90.16  X / Y = 110.91)
+Dice Coefficient: 100.00% 
+
+X = [if u see this, comment #Dogecoin and retweet\n\nor else.......]
+X_token = [u, see, comment, dogecoin, retweet, else]
+	X tweet_count = [5]
+	X username = [smateh]
+Y = [if u see this, comment #Dogecoin and retweet\n\nor else....]
+Y_token = [u, see, comment, dogecoin, retweet, else]
+	Y tweet_count = [6]
+	Y username = [smateh]
+Total Length: X = 60, Y = 57 (Y / X = 95.00  X / Y = 105.26)
+Dice Coefficient: 100.00% 
+
+X = [if u see this, comment #Dogecoin and retweet\n\nor else.......]
+X_token = [u, see, comment, dogecoin, retweet, else]
+	X tweet_count = [5]
+	X username = [smateh]
+Y = [if u see this, comment #Dogecoin and retweet\n\nor else..]
+Y_token = [u, see, comment, dogecoin, retweet, else]
+	Y tweet_count = [8]
+	Y username = [smateh]
+Total Length: X = 60, Y = 55 (Y / X = 91.67  X / Y = 109.09)
+Dice Coefficient: 100.00% 
+
+X = [if u see this, comment #Dogecoin and retweet\n\nor else....]
+X_token = [u, see, comment, dogecoin, retweet, else]
+	X tweet_count = [6]
+	X username = [smateh]
+Y = [if u see this, comment #Dogecoin and retweet\n\nor else..]
+Y_token = [u, see, comment, dogecoin, retweet, else]
+	Y tweet_count = [8]
+	Y username = [smateh]
+Total Length: X = 57, Y = 55 (Y / X = 96.49  X / Y = 103.64)
+Dice Coefficient: 100.00% 
+
+X = [if u see this, comment #Dogecoin and retweet]
+X_token = [u, see, comment, dogecoin, retweet]
+	X tweet_count = [7]
+	X username = [smateh]
+Y = [if u see this, comment #Dogecoin and retweet\n\nor else..]
+Y_token = [u, see, comment, dogecoin, retweet, else]
+	Y tweet_count = [8]
+	Y username = [smateh]
+Total Length: X = 44, Y = 55 (Y / X = 125.00  X / Y = 80.00)
+Dice Coefficient: 90.91% 
+
+X = [send this to a friend \nhttps://t.co/tU0iERehSn\n#doge #dogecoin]
+X_token = [send, friend, https, doge, dogecoin]
+	X tweet_count = [10]
+	X username = [smateh]
+Y = [send this to a friend\nhttps://t.co/xpfwMdVL4U\n#doge #dogecoin]
+Y_token = [send, friend, https, doge, dogecoin]
+	Y tweet_count = [11]
+	Y username = [smateh]
+Total Length: X = 62, Y = 61 (Y / X = 98.39  X / Y = 101.64)
+Dice Coefficient: 100.00% 
+

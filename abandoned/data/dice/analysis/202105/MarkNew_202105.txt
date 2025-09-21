@@ -1,0 +1,33 @@
+﻿X = [@michael_saylor @elonmusk #Bitcoin Mining Council \nCreated by #Elon #MichaelSaylor \nTo promote \nrenewable energy 4 #Crypto \n\nIs this the shot in the arm \nor the shot in the paw for #dogecoin \nthe world's most famous #altcoin \n\nGo #Elon\nTo the stars!\n🚀✨✨✨]
+X_token = [elonmusk, bitcoin, mining, council, created, elon, michaelsaylor, promote, renewable, energy, 4, crypto, shot, arm, shot, paw, dogecoin, world, famous, altcoin, go, elon, stars]
+	X tweet_count = [1]
+	X username = [MarkNew]
+Y = [#Bitcoin Mining Council \nCreated by #Elon #MichaelSaylor \nTo promote \nrenewable energy 4 #Crypto \n\nIs this the shot in the arm \nor the shot in the paw for #dogecoin \nthe world's most famous #altcoin \n\nGo #Elon\nTo the stars!\n🚀✨✨✨]
+Y_token = [bitcoin, mining, council, created, elon, michaelsaylor, promote, renewable, energy, 4, crypto, shot, arm, shot, paw, dogecoin, world, famous, altcoin, go, elon, stars]
+	Y tweet_count = [2]
+	Y username = [MarkNew]
+Total Length: X = 254, Y = 228 (Y / X = 89.76  X / Y = 111.40)
+Dice Coefficient: 97.56% 
+
+X = [@elonmusk #Elon pledged to \nbring renewable energy to #Bitcoin \nto reignite #dogecoin \n\nTo the stars #Elon \nTo the stars 🚀✨✨]
+X_token = [elonmusk, elon, pledged, bring, renewable, energy, bitcoin, reignite, dogecoin, stars, elon, stars]
+	X tweet_count = [3]
+	X username = [MarkNew]
+Y = [#Elon pledged to \nbring renewable energy to #Bitcoin \nto reignite #dogecoin \n\nTo the stars #Elon \nTo the stars 🚀✨✨]
+Y_token = [elon, pledged, bring, renewable, energy, bitcoin, reignite, dogecoin, stars, elon, stars]
+	Y tweet_count = [4]
+	Y username = [MarkNew]
+Total Length: X = 124, Y = 114 (Y / X = 91.94  X / Y = 108.77)
+Dice Coefficient: 94.74% 
+
+X = [@elonmusk #dogecoin trending \n#Elon wants to link it to the Moon \nIs the sky the limit for \nthe world's most famous #altcoins]
+X_token = [elonmusk, dogecoin, trending, elon, wants, link, moon, sky, limit, world, famous, altcoins]
+	X tweet_count = [5]
+	X username = [MarkNew]
+Y = [#dogecoin trending \n#Elon wants to link it to the Moon \nIs the sky the limit for \nthe world's most famous #altcoins]
+Y_token = [dogecoin, trending, elon, wants, link, moon, sky, limit, world, famous, altcoins]
+	Y tweet_count = [6]
+	Y username = [MarkNew]
+Total Length: X = 125, Y = 115 (Y / X = 92.00  X / Y = 108.70)
+Dice Coefficient: 95.65% 
+

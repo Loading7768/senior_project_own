@@ -1,0 +1,44 @@
+﻿X = [We are going ↗️.\n#dogecoin the unstoppable force.\n#dogecointo1000]
+X_token = [going, dogecoin, unstoppable, force, dogecointo1000]
+	X tweet_count = [13]
+	X username = [Jimmy Santos]
+Y = [@MattWallace888 We are going ↗️.\n #dogecoin the unstoppable force.]
+Y_token = [mattwallace888, going, dogecoin, unstoppable, force]
+	Y tweet_count = [14]
+	Y username = [Jimmy Santos]
+Total Length: X = 65, Y = 66 (Y / X = 101.54  X / Y = 98.48)
+Dice Coefficient: 80.00% 
+
+X = [@MattWallace888 We are going ↗️.\n #dogecoin the unstoppable force.]
+X_token = [mattwallace888, going, dogecoin, unstoppable, force]
+	X tweet_count = [14]
+	X username = [Jimmy Santos]
+Y = [@MattWallace888 This is it, #dogecoin the unstoppable force!]
+Y_token = [mattwallace888, dogecoin, unstoppable, force]
+	Y tweet_count = [21]
+	Y username = [Jimmy Santos]
+Total Length: X = 66, Y = 60 (Y / X = 90.91  X / Y = 110.00)
+Dice Coefficient: 88.89% 
+
+X = [New members, jump in!!! #dogecoin #dogefam #DogeDay420\n#DogeDay #dogearmy\n\nJoin Robinhood with my link and we'll both get free stock 🤝 https://t.co/t8cHMZAc4e]
+X_token = [new, members, jump, dogecoin, dogefam, dogeday420, dogeday, dogearmy, join, robinhood, link, get, free, stock, https]
+	X tweet_count = [36]
+	X username = [Jimmy Santos]
+Y = [New members, jump in!!! #dogecoin #dogefam #DogeDay420\n#DogeDay #dogearmy\n\nJoin Robinhood with my link and we'll both get free stock 🤝 https://t.co/t8cHMZAc4e]
+Y_token = [new, members, jump, dogecoin, dogefam, dogeday420, dogeday, dogearmy, join, robinhood, link, get, free, stock, https]
+	Y tweet_count = [37]
+	Y username = [Jimmy Santos]
+Total Length: X = 158, Y = 158 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@MattWallace888 @dogecoin_rise buying, holding, buying, holding, buying  holding.....all day. #dogecoin #DogecoinRise #DogecoinToTheMoon #dogefam #dogearmy #DOGE #DogeDay]
+X_token = [mattwallace888, buying, holding, buying, holding, buying, holding, day, dogecoin, dogecoinrise, dogecointothemoon, dogefam, dogearmy, doge, dogeday]
+	X tweet_count = [57]
+	X username = [Jimmy Santos]
+Y = [@dogecoin_rise buying, holding, buying, holding, buying  holding.....all day. #dogecoin #DogecoinRise #DogecoinToTheMoon #dogefam #dogearmy #DOGE #DogeDay]
+Y_token = [buying, holding, buying, holding, buying, holding, day, dogecoin, dogecoinrise, dogecointothemoon, dogefam, dogearmy, doge, dogeday]
+	Y tweet_count = [58]
+	Y username = [Jimmy Santos]
+Total Length: X = 170, Y = 154 (Y / X = 90.59  X / Y = 110.39)
+Dice Coefficient: 95.24% 
+

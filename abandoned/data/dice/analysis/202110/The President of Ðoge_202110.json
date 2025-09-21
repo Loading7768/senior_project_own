@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "Nothing memes like #dogecoin.",
+        "X_token": "nothing, memes, like, dogecoin",
+        "X_tweet_count": 15,
+        "X_username": "The President of Ðoge",
+        "Y_text": "Nothing trends like #dogecoin.",
+        "Y_token": "nothing, trends, like, dogecoin",
+        "Y_tweet_count": 16,
+        "Y_username": "The President of Ðoge",
+        "X_length": 29,
+        "Y_length": 30,
+        "Y_length_percent_of_X": 103.45,
+        "X_length_percent_of_Y": 96.67,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "$DOGE on the rise! $1 by Christmas. RETWEET IF YOU BELIEVE. #Dogecoin",
+        "X_token": "doge, rise, 1, christmas, retweet, believe, dogecoin",
+        "X_tweet_count": 65,
+        "X_username": "The President of Ðoge",
+        "Y_text": "Retweet if you think #Dogecoin will hit $1 by Christmas. $DOGE",
+        "Y_token": "retweet, think, dogecoin, hit, 1, christmas, doge",
+        "Y_tweet_count": 75,
+        "Y_username": "The President of Ðoge",
+        "X_length": 69,
+        "Y_length": 62,
+        "Y_length_percent_of_X": 89.86,
+        "X_length_percent_of_Y": 111.29,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "$DOGE to $1 in 2021. It's happening. #dogecoin",
+        "X_token": "doge, 1, happening, dogecoin",
+        "X_tweet_count": 76,
+        "X_username": "The President of Ðoge",
+        "Y_text": "$1 is only the beginning. #dogecoin $DOGE",
+        "Y_token": "1, beginning, dogecoin, doge",
+        "Y_tweet_count": 80,
+        "Y_username": "The President of Ðoge",
+        "X_length": 46,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 89.13,
+        "X_length_percent_of_Y": 112.2,
+        "dice_coefficient": 75.0
+    }
+]

@@ -1,0 +1,22 @@
+﻿X = [@elonmusk @grok When @dogecoin ?]
+X_token = [elonmusk, grok, dogecoin]
+	X tweet_count = [22]
+	X username = [Denis Reich]
+Y = [@elonmusk What about @dogecoin ?]
+Y_token = [elonmusk, dogecoin]
+	Y tweet_count = [37]
+	Y username = [Denis Reich]
+Total Length: X = 32, Y = 32 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 80.00% 
+
+X = [@TeslaModelDoge And @elonmusk just abandoned @dogecoin]
+X_token = [teslamodeldoge, elonmusk, abandoned, dogecoin]
+	X tweet_count = [26]
+	X username = [Denis Reich]
+Y = [@dogeofficialceo Because @elonmusk abandoned @dogecoin]
+Y_token = [dogeofficialceo, elonmusk, abandoned, dogecoin]
+	Y tweet_count = [30]
+	Y username = [Denis Reich]
+Total Length: X = 54, Y = 54 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 75.00% 
+

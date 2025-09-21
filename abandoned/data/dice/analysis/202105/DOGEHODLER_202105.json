@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": ".40 cents today ? #dogecoin 🌙🚀",
+        "X_token": "cents, today, dogecoin",
+        "X_tweet_count": 5,
+        "X_username": "DOGEHODLER",
+        "Y_text": ".40 cents !!!! #dogecoin",
+        "Y_token": "cents, dogecoin",
+        "Y_tweet_count": 24,
+        "Y_username": "DOGEHODLER",
+        "X_length": 30,
+        "Y_length": 24,
+        "Y_length_percent_of_X": 80.0,
+        "X_length_percent_of_Y": 125.0,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "My favorite line from @MattWallace888 \n“#Dogecoin is the future #cryptocurrency of Earth! \nAnd also a very very good boi 😂\n\n#DogecoinRise 🚀\n#doge 🌙",
+        "X_token": "favorite, line, mattwallace888, dogecoin, future, cryptocurrency, earth, also, good, boi, dogecoinrise, doge",
+        "X_tweet_count": 58,
+        "X_username": "DOGEHODLER",
+        "Y_text": "#dogecoin is the future #cryptocurrency of EARTH! \nAnd also a very very good boi \n(@MattWallace888) voice. \nThat’s my favorite line of all time 😂",
+        "Y_token": "dogecoin, future, cryptocurrency, earth, also, good, boi, mattwallace888, voice, favorite, line, time",
+        "Y_tweet_count": 122,
+        "Y_username": "DOGEHODLER",
+        "X_length": 147,
+        "Y_length": 145,
+        "Y_length_percent_of_X": 98.64,
+        "X_length_percent_of_Y": 101.38,
+        "dice_coefficient": 83.33
+    }
+]

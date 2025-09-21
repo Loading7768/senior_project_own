@@ -1,0 +1,11 @@
+﻿X = [Mentions Scoreboard:\n#dogecoin 17\n#Bitcoin 1\n\nWe are a cultural phenomenon like no other Crypto before... https://t.co/6z70lq7bjX]
+X_token = [mentions, scoreboard, dogecoin, 17, bitcoin, 1, cultural, phenomenon, like, crypto, https]
+	X tweet_count = [34]
+	X username = [The Real Jay Bogart]
+Y = [Mentions Scoreboard:\n#dogecoin 2\n#Bitcoin 0\n\nWe are a cultural phenomenon like no other Crypto before. https://t.co/7Z4hD3o2WL]
+Y_token = [mentions, scoreboard, dogecoin, 2, bitcoin, 0, cultural, phenomenon, like, crypto, https]
+	Y tweet_count = [35]
+	Y username = [The Real Jay Bogart]
+Total Length: X = 129, Y = 126 (Y / X = 97.67  X / Y = 102.38)
+Dice Coefficient: 81.82% 
+

@@ -1,0 +1,33 @@
+﻿X = [Woof woof! #dogecoin]
+X_token = [woof, woof, dogecoin]
+	X tweet_count = [1]
+	X username = [Optimouse]
+Y = [We woof you! #dogecoin]
+Y_token = [woof, dogecoin]
+	Y tweet_count = [51]
+	Y username = [Optimouse]
+Total Length: X = 20, Y = 22 (Y / X = 110.00  X / Y = 90.91)
+Dice Coefficient: 100.00% 
+
+X = [@brian_armstrong  Just add Dogecoin bro, don’t be baldy no fun McPants #dogecoin]
+X_token = [add, dogecoin, bro, baldy, fun, mcpants, dogecoin]
+	X tweet_count = [10]
+	X username = [Optimouse]
+Y = [@brian_armstrong Just add Dogecoin bro, don’t be no fun pants #dogecoin]
+Y_token = [add, dogecoin, bro, fun, pants, dogecoin]
+	Y tweet_count = [11]
+	Y username = [Optimouse]
+Total Length: X = 80, Y = 71 (Y / X = 88.75  X / Y = 112.68)
+Dice Coefficient: 72.73% 
+
+X = [You did the right thing, neighbor. We woof you. 🧡 #dogecoin #dogearmy https://t.co/70dO9KJwUW]
+X_token = [right, thing, neighbor, woof, dogecoin, dogearmy, https]
+	X tweet_count = [41]
+	X username = [Optimouse]
+Y = [@Coinsquare You did the right thing, neighbor. We woof you 🧡 #dogecoin #dogearmy https://t.co/Qc2JItpViO]
+Y_token = [coinsquare, right, thing, neighbor, woof, dogecoin, dogearmy, https]
+	Y tweet_count = [42]
+	Y username = [Optimouse]
+Total Length: X = 93, Y = 104 (Y / X = 111.83  X / Y = 89.42)
+Dice Coefficient: 93.33% 
+

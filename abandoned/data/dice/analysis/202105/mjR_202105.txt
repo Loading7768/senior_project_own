@@ -1,0 +1,33 @@
+﻿X = [@christinebarnum Buy the dip #dogecoin 🚀]
+X_token = [christinebarnum, buy, dip, dogecoin]
+	X tweet_count = [15]
+	X username = [mjR]
+Y = [@davidgokhshtein Buy the dip #dogecoin]
+Y_token = [davidgokhshtein, buy, dip, dogecoin]
+	Y tweet_count = [42]
+	Y username = [mjR]
+Total Length: X = 40, Y = 38 (Y / X = 95.00  X / Y = 105.26)
+Dice Coefficient: 75.00% 
+
+X = [@og_dogecoin Buy the dip]
+X_token = [buy, dip]
+	X tweet_count = [17]
+	X username = [mjR]
+Y = [@og_dogecoin Buy the dip]
+Y_token = [buy, dip]
+	Y tweet_count = [18]
+	Y username = [mjR]
+Total Length: X = 24, Y = 24 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@Dogecoinvalue @BotOfDogecoin Buy the dip #dogecoin $1 tonight]
+X_token = [dogecoinvalue, botofdogecoin, buy, dip, dogecoin, 1, tonight]
+	X tweet_count = [27]
+	X username = [mjR]
+Y = [@MarcusTod83 @BotOfDogecoin Buy the dip #dogecoin $1]
+Y_token = [marcustod83, botofdogecoin, buy, dip, dogecoin, 1]
+	Y tweet_count = [40]
+	Y username = [mjR]
+Total Length: X = 62, Y = 52 (Y / X = 83.87  X / Y = 119.23)
+Dice Coefficient: 76.92% 
+

@@ -1,0 +1,66 @@
+﻿X = [Dogecoin 🤑🚀]
+X_token = [dogecoin]
+	X tweet_count = [19]
+	X username = [M]
+Y = [$Dogecoin 🚀]
+Y_token = [dogecoin]
+	Y tweet_count = [46]
+	Y username = [M]
+Total Length: X = 11, Y = 11 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk DOGECOIN TO THE MOON 🚀🚀🚀]
+X_token = [elonmusk, dogecoin, moon]
+	X tweet_count = [29]
+	X username = [M]
+Y = [To the moon!!!!!!!!! #dogecoin]
+Y_token = [moon, dogecoin]
+	Y tweet_count = [80]
+	Y username = [M]
+Total Length: X = 34, Y = 30 (Y / X = 88.24  X / Y = 113.33)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk @nbcsnl emergency elon!!!!!please  say dogecoin.....please.....]
+X_token = [elonmusk, nbcsnl, emergency, elon, please, say, dogecoin, please]
+	X tweet_count = [106]
+	X username = [M]
+Y = [@elonmusk @nbcsnl emergency!!!please say dogecoin.....please.....]
+Y_token = [elonmusk, nbcsnl, emergency, please, say, dogecoin, please]
+	Y tweet_count = [107]
+	Y username = [M]
+Total Length: X = 73, Y = 65 (Y / X = 89.04  X / Y = 112.31)
+Dice Coefficient: 92.31% 
+
+X = [@elonmusk @nbcsnl emergency elon!!!!!please  say dogecoin.....please.....]
+X_token = [elonmusk, nbcsnl, emergency, elon, please, say, dogecoin, please]
+	X tweet_count = [106]
+	X username = [M]
+Y = [@elonmusk @nbcsnl please say dogecoin now very emergency...]
+Y_token = [elonmusk, nbcsnl, please, say, dogecoin, emergency]
+	Y tweet_count = [108]
+	Y username = [M]
+Total Length: X = 73, Y = 59 (Y / X = 80.82  X / Y = 123.73)
+Dice Coefficient: 92.31% 
+
+X = [@elonmusk @nbcsnl emergency!!!please say dogecoin.....please.....]
+X_token = [elonmusk, nbcsnl, emergency, please, say, dogecoin, please]
+	X tweet_count = [107]
+	X username = [M]
+Y = [@elonmusk @nbcsnl please say dogecoin now very emergency...]
+Y_token = [elonmusk, nbcsnl, please, say, dogecoin, emergency]
+	Y tweet_count = [108]
+	Y username = [M]
+Total Length: X = 65, Y = 59 (Y / X = 90.77  X / Y = 110.17)
+Dice Coefficient: 100.00% 
+
+X = [@elonmusk @nbcsnl please say dogecoin now very emergency...]
+X_token = [elonmusk, nbcsnl, please, say, dogecoin, emergency]
+	X tweet_count = [108]
+	X username = [M]
+Y = [@elonmusk @nbcsnl elon...please say dogecoin....]
+Y_token = [elonmusk, nbcsnl, elon, please, say, dogecoin]
+	Y tweet_count = [110]
+	Y username = [M]
+Total Length: X = 59, Y = 48 (Y / X = 81.36  X / Y = 122.92)
+Dice Coefficient: 83.33% 
+

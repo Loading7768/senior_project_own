@@ -1,0 +1,62 @@
+[
+    {
+        "X_text": "Uber eats on Mars ? 🙂🐶🖐💎✌️🚀🚀🚀🚀🚀🚀 #DOGECOIN",
+        "X_token": "uber, eats, mars, dogecoin",
+        "X_tweet_count": 65,
+        "X_username": "DOGE BODYGUARD",
+        "Y_text": "@elonmusk Uber eats on Mars ?🙂🐶🖐💎✌️🚀🚀🚀🚀🚀🚀 #DOGECOIN",
+        "Y_token": "elonmusk, uber, eats, mars, dogecoin",
+        "Y_tweet_count": 66,
+        "Y_username": "DOGE BODYGUARD",
+        "X_length": 42,
+        "Y_length": 51,
+        "Y_length_percent_of_X": 121.43,
+        "X_length_percent_of_Y": 82.35,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "Uber eats on Mars ? 🙂🐶🖐💎✌️🚀🚀🚀🚀🚀🚀 #DOGECOIN",
+        "X_token": "uber, eats, mars, dogecoin",
+        "X_tweet_count": 65,
+        "X_username": "DOGE BODYGUARD",
+        "Y_text": "Uber eats in MARS ? 🐶🖐💎✌️🚀🚀🚀🚀🚀🚀 #DOGECOIN",
+        "Y_token": "uber, eats, mars, dogecoin",
+        "Y_tweet_count": 67,
+        "Y_username": "DOGE BODYGUARD",
+        "X_length": 42,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 97.62,
+        "X_length_percent_of_Y": 102.44,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@elonmusk Uber eats on Mars ?🙂🐶🖐💎✌️🚀🚀🚀🚀🚀🚀 #DOGECOIN",
+        "X_token": "elonmusk, uber, eats, mars, dogecoin",
+        "X_tweet_count": 66,
+        "X_username": "DOGE BODYGUARD",
+        "Y_text": "Uber eats in MARS ? 🐶🖐💎✌️🚀🚀🚀🚀🚀🚀 #DOGECOIN",
+        "Y_token": "uber, eats, mars, dogecoin",
+        "Y_tweet_count": 67,
+        "Y_username": "DOGE BODYGUARD",
+        "X_length": 51,
+        "Y_length": 41,
+        "Y_length_percent_of_X": 80.39,
+        "X_length_percent_of_Y": 124.39,
+        "dice_coefficient": 88.89
+    },
+    {
+        "X_text": "Elon Musk will not let anyone make him look silly.FULL https://t.co/v0uis6ZyFH in my opinion he will have the LAST LAUGH,we just don’t know when that will be ✌️🐶 #DOGECOIN",
+        "X_token": "elon, musk, let, anyone, make, look, https, opinion, last, laugh, know, dogecoin",
+        "X_tweet_count": 97,
+        "X_username": "DOGE BODYGUARD",
+        "Y_text": "Elon Musk will not let anyone make him look silly.FULL https://t.co/v0uis6ZyFH in my opinion he WILL have the LAST LAUGH,we just don’t know when that will happen 🐶✌️ #DOGECOIN",
+        "Y_token": "elon, musk, let, anyone, make, look, https, opinion, last, laugh, know, happen, dogecoin",
+        "Y_tweet_count": 98,
+        "Y_username": "DOGE BODYGUARD",
+        "X_length": 171,
+        "Y_length": 175,
+        "Y_length_percent_of_X": 102.34,
+        "X_length_percent_of_Y": 97.71,
+        "dice_coefficient": 96.0
+    }
+]

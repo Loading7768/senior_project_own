@@ -1,0 +1,33 @@
+﻿X = [Retweet if you love the doge community #dogecoin]
+X_token = [retweet, love, doge, community, dogecoin]
+	X tweet_count = [108]
+	X username = [Erica✨🌸]
+Y = [If you love doge retweet this and I’ll follow you #dogecoin]
+Y_token = [love, doge, retweet, follow, dogecoin]
+	Y tweet_count = [116]
+	Y username = [Erica✨🌸]
+Total Length: X = 48, Y = 59 (Y / X = 122.92  X / Y = 81.36)
+Dice Coefficient: 80.00% 
+
+X = [Hey y’all please follow my friend @WhenMoonEnergy his energy drink will be taking us to the moon 🚀🚀🚀 #dogecoin #dogearmy]
+X_token = [hey, please, follow, friend, whenmoonenergy, energy, drink, taking, us, moon, dogecoin, dogearmy]
+	X tweet_count = [109]
+	X username = [Erica✨🌸]
+Y = [Hey y’all please follow my friend @WhenMoonEnergy his energy drink is going with us to the moon 🚀🚀🚀 #dogecoin #AMC500k #dogearmy]
+Y_token = [hey, please, follow, friend, whenmoonenergy, energy, drink, going, us, moon, dogecoin, amc500k, dogearmy]
+	Y tweet_count = [134]
+	Y username = [Erica✨🌸]
+Total Length: X = 120, Y = 128 (Y / X = 106.67  X / Y = 93.75)
+Dice Coefficient: 88.00% 
+
+X = [Dogecoin]
+X_token = [dogecoin]
+	X tweet_count = [110]
+	X username = [Erica✨🌸]
+Y = [Dogecoin]
+Y_token = [dogecoin]
+	Y tweet_count = [115]
+	Y username = [Erica✨🌸]
+Total Length: X = 8, Y = 8 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+

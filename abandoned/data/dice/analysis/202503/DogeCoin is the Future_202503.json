@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@Tesla Can I buy with DogeCoin?",
+        "X_token": "tesla, buy, dogecoin",
+        "X_tweet_count": 20,
+        "X_username": "DogeCoin is the Future",
+        "Y_text": "@Tesla Why can’t I buy with DogeCoin?",
+        "Y_token": "tesla, buy, dogecoin",
+        "Y_tweet_count": 73,
+        "Y_username": "DogeCoin is the Future",
+        "X_length": 31,
+        "Y_length": 37,
+        "Y_length_percent_of_X": 119.35,
+        "X_length_percent_of_Y": 83.78,
+        "dice_coefficient": 100.0
+    },
+    {
+        "X_text": "@elonmusk @DOGE We support DogeCoin",
+        "X_token": "elonmusk, doge, support, dogecoin",
+        "X_tweet_count": 46,
+        "X_username": "DogeCoin is the Future",
+        "Y_text": "@elonmusk Is it DogeCoin or DOGE?",
+        "Y_token": "elonmusk, dogecoin, doge",
+        "Y_tweet_count": 135,
+        "Y_username": "DogeCoin is the Future",
+        "X_length": 35,
+        "Y_length": 33,
+        "Y_length_percent_of_X": 94.29,
+        "X_length_percent_of_Y": 106.06,
+        "dice_coefficient": 85.71
+    },
+    {
+        "X_text": "@coinbureau Elon musk betrayed the DogeCoin community.",
+        "X_token": "coinbureau, elon, musk, betrayed, dogecoin, community",
+        "X_tweet_count": 139,
+        "X_username": "DogeCoin is the Future",
+        "Y_text": "@cb_doge Elon betrayed the DogeCoin community.  Simple as that !",
+        "Y_token": "elon, betrayed, dogecoin, community, simple",
+        "Y_tweet_count": 142,
+        "Y_username": "DogeCoin is the Future",
+        "X_length": 54,
+        "Y_length": 64,
+        "Y_length_percent_of_X": 118.52,
+        "X_length_percent_of_Y": 84.38,
+        "dice_coefficient": 72.73
+    }
+]

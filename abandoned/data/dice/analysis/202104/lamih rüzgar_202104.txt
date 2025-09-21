@@ -1,0 +1,11 @@
+﻿X = [the rebellion of the doge oppressed like la case de papel film #dogecoin]
+X_token = [rebellion, doge, oppressed, like, la, case, de, papel, film, dogecoin]
+	X tweet_count = [4]
+	X username = [lamih rüzgar]
+Y = [the rebellion of the doge oppressed like la case de papel film #dogecoin #elon musk]
+Y_token = [rebellion, doge, oppressed, like, la, case, de, papel, film, dogecoin, elon, musk]
+	Y tweet_count = [5]
+	Y username = [lamih rüzgar]
+Total Length: X = 72, Y = 83 (Y / X = 115.28  X / Y = 86.75)
+Dice Coefficient: 90.91% 
+

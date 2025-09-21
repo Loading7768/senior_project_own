@@ -1,0 +1,33 @@
+﻿X = [Let's Go Dogecoin !! https://t.co/SbUOPgOKJk]
+X_token = [let, go, dogecoin, https]
+	X tweet_count = [12]
+	X username = [Charley James]
+Y = [Let's go #dogecoin https://t.co/cjOeErsMTo]
+Y_token = [let, go, dogecoin, https]
+	Y tweet_count = [25]
+	Y username = [Charley James]
+Total Length: X = 44, Y = 42 (Y / X = 95.45  X / Y = 104.76)
+Dice Coefficient: 100.00% 
+
+X = [He must have sold his #Dogecoin https://t.co/CF1qMJkwYs]
+X_token = [must, sold, dogecoin, https]
+	X tweet_count = [17]
+	X username = [Charley James]
+Y = [To the people that sold #Dogecoin https://t.co/unpYVoRQp8]
+Y_token = [people, sold, dogecoin, https]
+	Y tweet_count = [19]
+	Y username = [Charley James]
+Total Length: X = 55, Y = 57 (Y / X = 103.64  X / Y = 96.49)
+Dice Coefficient: 75.00% 
+
+X = [Told ya to hold ! #dogecoin https://t.co/TtHsxo9kID]
+X_token = [told, ya, hold, dogecoin, https]
+	X tweet_count = [24]
+	X username = [Charley James]
+Y = [Hold your #dogecoin  !!! https://t.co/PuEETVJmJc]
+Y_token = [hold, dogecoin, https]
+	Y tweet_count = [50]
+	Y username = [Charley James]
+Total Length: X = 51, Y = 48 (Y / X = 94.12  X / Y = 106.25)
+Dice Coefficient: 75.00% 
+

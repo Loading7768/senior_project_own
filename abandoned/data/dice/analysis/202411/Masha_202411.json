@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@CincyDan11 @RepThomasMassie @elonmusk Yes, Musk just took the gamble of his life, and the fact that he won, how high do you think Dogecoin will go?",
+        "X_token": "cincydan11, repthomasmassie, elonmusk, yes, musk, took, gamble, life, fact, high, think, dogecoin, go",
+        "X_tweet_count": 3,
+        "X_username": "Masha",
+        "Y_text": "@kardiackiddo @elonmusk Yes, we do! Musk just took the biggest gamble of his life and the facts tell us he won, how high do you think Dogecoin will go?",
+        "Y_token": "kardiackiddo, elonmusk, yes, musk, took, biggest, gamble, life, facts, tell, us, high, think, dogecoin, go",
+        "Y_tweet_count": 12,
+        "Y_username": "Masha",
+        "X_length": 148,
+        "Y_length": 151,
+        "Y_length_percent_of_X": 102.03,
+        "X_length_percent_of_Y": 98.01,
+        "dice_coefficient": 71.43
+    },
+    {
+        "X_text": "@KingFitAngler @saylor How high do you think Dogecoin will go?",
+        "X_token": "kingfitangler, saylor, high, think, dogecoin, go",
+        "X_tweet_count": 5,
+        "X_username": "Masha",
+        "Y_text": "@t_inthe_603 @realTrumpNewsX How high do you think dogecoin will go? 0.34?",
+        "Y_token": "realtrumpnewsx, high, think, dogecoin, go",
+        "Y_tweet_count": 8,
+        "Y_username": "Masha",
+        "X_length": 62,
+        "Y_length": 74,
+        "Y_length_percent_of_X": 119.35,
+        "X_length_percent_of_Y": 83.78,
+        "dice_coefficient": 72.73
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "X_text": "@elonmusk Elon when we can pay for X payments with #Dogecoin ????",
+        "X_token": "elonmusk, elon, pay, x, payments, dogecoin",
+        "X_tweet_count": 23,
+        "X_username": "Deepak Singh",
+        "Y_text": "@elonmusk @DOGE So Elon when we can pay with #Dogecoin on #X",
+        "Y_token": "elonmusk, doge, elon, pay, dogecoin, x",
+        "Y_tweet_count": 39,
+        "Y_username": "Deepak Singh",
+        "X_length": 65,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 92.31,
+        "X_length_percent_of_Y": 108.33,
+        "dice_coefficient": 83.33
+    },
+    {
+        "X_text": "@elonmusk Thats why Elon when u will accept #Dogecoin for #X payment System DOGE.\n#DogecoinToThemoon",
+        "X_token": "elonmusk, thats, elon, u, accept, dogecoin, x, payment, system, doge, dogecointothemoon",
+        "X_tweet_count": 38,
+        "X_username": "Deepak Singh",
+        "Y_text": "@elonmusk @VivekGRamaswamy Then Elon when #Dogecoin will use on #X for payment ?????? \n#Doge\n#DogecoinToTheMoon 🚀🚀🚀🚀",
+        "Y_token": "elonmusk, vivekgramaswamy, elon, dogecoin, use, x, payment, doge, dogecointothemoon",
+        "Y_tweet_count": 45,
+        "Y_username": "Deepak Singh",
+        "X_length": 100,
+        "Y_length": 116,
+        "Y_length_percent_of_X": 116.0,
+        "X_length_percent_of_Y": 86.21,
+        "dice_coefficient": 70.0
+    },
+    {
+        "X_text": "@elonmusk @DOGE So Elon when we can pay with #Dogecoin on #X",
+        "X_token": "elonmusk, doge, elon, pay, dogecoin, x",
+        "X_tweet_count": 39,
+        "X_username": "Deepak Singh",
+        "Y_text": "@elonmusk @DOGE \nStill waiting for #Dogecoin as a payment on #X ?\nElon 🚀",
+        "Y_token": "elonmusk, doge, still, waiting, dogecoin, payment, x, elon",
+        "Y_tweet_count": 44,
+        "Y_username": "Deepak Singh",
+        "X_length": 60,
+        "Y_length": 72,
+        "Y_length_percent_of_X": 120.0,
+        "X_length_percent_of_Y": 83.33,
+        "dice_coefficient": 71.43
+    }
+]

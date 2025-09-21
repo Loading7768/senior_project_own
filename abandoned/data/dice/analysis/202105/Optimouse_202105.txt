@@ -1,0 +1,462 @@
+﻿X = [I woof you 🧡 #dogecoin]
+X_token = [woof, dogecoin]
+	X tweet_count = [18]
+	X username = [Optimouse]
+Y = [We woof you! 🧡 #dogecoin]
+Y_token = [woof, dogecoin]
+	Y tweet_count = [30]
+	Y username = [Optimouse]
+Total Length: X = 22, Y = 24 (Y / X = 109.09  X / Y = 91.67)
+Dice Coefficient: 100.00% 
+
+X = [I woof you 🧡 #dogecoin]
+X_token = [woof, dogecoin]
+	X tweet_count = [18]
+	X username = [Optimouse]
+Y = [We woof you! #dogecoin]
+Y_token = [woof, dogecoin]
+	Y tweet_count = [37]
+	Y username = [Optimouse]
+Total Length: X = 22, Y = 22 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 100.00% 
+
+X = [I’m a fan! #dogecoin]
+X_token = [fan, dogecoin]
+	X tweet_count = [19]
+	X username = [Optimouse]
+Y = [Became a fan. #dogecoin]
+Y_token = [became, fan, dogecoin]
+	Y tweet_count = [20]
+	Y username = [Optimouse]
+Total Length: X = 20, Y = 23 (Y / X = 115.00  X / Y = 86.96)
+Dice Coefficient: 80.00% 
+
+X = [We woof you! 🧡 #dogecoin]
+X_token = [woof, dogecoin]
+	X tweet_count = [30]
+	X username = [Optimouse]
+Y = [We woof you! #dogecoin]
+Y_token = [woof, dogecoin]
+	Y tweet_count = [37]
+	Y username = [Optimouse]
+Total Length: X = 24, Y = 22 (Y / X = 91.67  X / Y = 109.09)
+Dice Coefficient: 100.00% 
+
+X = [@Tesla @elonmusk If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin woof woof]
+X_token = [tesla, elonmusk, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, woof, woof]
+	X tweet_count = [99]
+	X username = [Optimouse]
+Y = [@elonmusk @Caspar_Stanley @Erdayastronaut @SpaceX @SuperHeavyBN3 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin think about it]
+Y_token = [elonmusk, erdayastronaut, spacex, superheavybn3, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, think]
+	Y tweet_count = [100]
+	Y username = [Optimouse]
+Total Length: X = 215, Y = 268 (Y / X = 124.65  X / Y = 80.22)
+Dice Coefficient: 85.71% 
+
+X = [@Tesla @elonmusk If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin woof woof]
+X_token = [tesla, elonmusk, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, woof, woof]
+	X tweet_count = [99]
+	X username = [Optimouse]
+Y = [@elonmusk @Astro_Elliott @Teslarati @ResidentSponge If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+Y_token = [elonmusk, teslarati, residentsponge, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	Y tweet_count = [103]
+	Y username = [Optimouse]
+Total Length: X = 215, Y = 240 (Y / X = 111.63  X / Y = 89.58)
+Dice Coefficient: 90.00% 
+
+X = [@Tesla @elonmusk If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin woof woof]
+X_token = [tesla, elonmusk, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, woof, woof]
+	X tweet_count = [99]
+	X username = [Optimouse]
+Y = [@elonmusk @itsALLrisky @Teslarati @13ericralph31 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win]
+Y_token = [elonmusk, itsallrisky, teslarati, 13ericralph31, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win]
+	Y tweet_count = [104]
+	Y username = [Optimouse]
+Total Length: X = 215, Y = 245 (Y / X = 113.95  X / Y = 87.76)
+Dice Coefficient: 85.71% 
+
+X = [@Tesla @elonmusk If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin woof woof]
+X_token = [tesla, elonmusk, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, woof, woof]
+	X tweet_count = [99]
+	X username = [Optimouse]
+Y = [@itsALLrisky If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+Y_token = [itsallrisky, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	Y tweet_count = [107]
+	Y username = [Optimouse]
+Total Length: X = 215, Y = 214 (Y / X = 99.53  X / Y = 100.47)
+Dice Coefficient: 85.00% 
+
+X = [@Tesla @elonmusk If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin woof woof]
+X_token = [tesla, elonmusk, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, woof, woof]
+	X tweet_count = [99]
+	X username = [Optimouse]
+Y = [@elonmusk @boringcompany Yo Elon Listen up, If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win https://t.co/O2Tt3p4ElC]
+Y_token = [elonmusk, boringcompany, yo, elon, listen, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win, https]
+	Y tweet_count = [115]
+	Y username = [Optimouse]
+Total Length: X = 215, Y = 264 (Y / X = 122.79  X / Y = 81.44)
+Dice Coefficient: 83.72% 
+
+X = [@elonmusk @Caspar_Stanley @Erdayastronaut @SpaceX @SuperHeavyBN3 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin think about it]
+X_token = [elonmusk, erdayastronaut, spacex, superheavybn3, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, think]
+	X tweet_count = [100]
+	X username = [Optimouse]
+Y = [@elonmusk @Astro_Elliott @Teslarati @ResidentSponge If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+Y_token = [elonmusk, teslarati, residentsponge, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	Y tweet_count = [103]
+	Y username = [Optimouse]
+Total Length: X = 268, Y = 240 (Y / X = 89.55  X / Y = 111.67)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk @Caspar_Stanley @Erdayastronaut @SpaceX @SuperHeavyBN3 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin think about it]
+X_token = [elonmusk, erdayastronaut, spacex, superheavybn3, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, think]
+	X tweet_count = [100]
+	X username = [Optimouse]
+Y = [@elonmusk @itsALLrisky @Teslarati @13ericralph31 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win]
+Y_token = [elonmusk, itsallrisky, teslarati, 13ericralph31, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win]
+	Y tweet_count = [104]
+	Y username = [Optimouse]
+Total Length: X = 268, Y = 245 (Y / X = 91.42  X / Y = 109.39)
+Dice Coefficient: 81.82% 
+
+X = [@elonmusk @Caspar_Stanley @Erdayastronaut @SpaceX @SuperHeavyBN3 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin think about it]
+X_token = [elonmusk, erdayastronaut, spacex, superheavybn3, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, think]
+	X tweet_count = [100]
+	X username = [Optimouse]
+Y = [@elonmusk @itsALLrisky @Model3Owners Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/oSLEzyqrog]
+Y_token = [elonmusk, itsallrisky, model3owners, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	Y tweet_count = [105]
+	Y username = [Optimouse]
+Total Length: X = 268, Y = 329 (Y / X = 122.76  X / Y = 81.46)
+Dice Coefficient: 70.59% 
+
+X = [@elonmusk @Caspar_Stanley @Erdayastronaut @SpaceX @SuperHeavyBN3 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin think about it]
+X_token = [elonmusk, erdayastronaut, spacex, superheavybn3, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, think]
+	X tweet_count = [100]
+	X username = [Optimouse]
+Y = [@elonmusk @GimmicksPaul @waitbutwhy @poweredbyart Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck]
+Y_token = [elonmusk, gimmickspaul, waitbutwhy, poweredbyart, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck]
+	Y tweet_count = [106]
+	Y username = [Optimouse]
+Total Length: X = 268, Y = 318 (Y / X = 118.66  X / Y = 84.28)
+Dice Coefficient: 70.59% 
+
+X = [@elonmusk @Caspar_Stanley @Erdayastronaut @SpaceX @SuperHeavyBN3 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin think about it]
+X_token = [elonmusk, erdayastronaut, spacex, superheavybn3, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, think]
+	X tweet_count = [100]
+	X username = [Optimouse]
+Y = [@elonmusk @RationalEtienne @SciGuySpace Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/FVvvUfYFml]
+Y_token = [elonmusk, rationaletienne, sciguyspace, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	Y tweet_count = [109]
+	Y username = [Optimouse]
+Total Length: X = 268, Y = 332 (Y / X = 123.88  X / Y = 80.72)
+Dice Coefficient: 70.59% 
+
+X = [@elonmusk @Caspar_Stanley @Erdayastronaut @SpaceX @SuperHeavyBN3 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin think about it]
+X_token = [elonmusk, erdayastronaut, spacex, superheavybn3, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, think]
+	X tweet_count = [100]
+	X username = [Optimouse]
+Y = [@elonmusk @TDogewhisperer @spair @itsALLrisky @mcuban When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla.]
+Y_token = [elonmusk, tdogewhisperer, spair, itsallrisky, mcuban, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla]
+	Y tweet_count = [112]
+	Y username = [Optimouse]
+Total Length: X = 268, Y = 284 (Y / X = 105.97  X / Y = 94.37)
+Dice Coefficient: 73.47% 
+
+X = [@elonmusk @Caspar_Stanley @Erdayastronaut @SpaceX @SuperHeavyBN3 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin think about it]
+X_token = [elonmusk, erdayastronaut, spacex, superheavybn3, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, think]
+	X tweet_count = [100]
+	X username = [Optimouse]
+Y = [@elonmusk @boringcompany Yo Elon Listen up, If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win https://t.co/O2Tt3p4ElC]
+Y_token = [elonmusk, boringcompany, yo, elon, listen, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win, https]
+	Y tweet_count = [115]
+	Y username = [Optimouse]
+Total Length: X = 268, Y = 264 (Y / X = 98.51  X / Y = 101.52)
+Dice Coefficient: 80.00% 
+
+X = [@elonmusk @Astro_Elliott @Teslarati @ResidentSponge If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+X_token = [elonmusk, teslarati, residentsponge, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	X tweet_count = [103]
+	X username = [Optimouse]
+Y = [@elonmusk @itsALLrisky @Teslarati @13ericralph31 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win]
+Y_token = [elonmusk, itsallrisky, teslarati, 13ericralph31, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win]
+	Y tweet_count = [104]
+	Y username = [Optimouse]
+Total Length: X = 240, Y = 245 (Y / X = 102.08  X / Y = 97.96)
+Dice Coefficient: 90.48% 
+
+X = [@elonmusk @Astro_Elliott @Teslarati @ResidentSponge If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+X_token = [elonmusk, teslarati, residentsponge, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	X tweet_count = [103]
+	X username = [Optimouse]
+Y = [@itsALLrisky If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+Y_token = [itsallrisky, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	Y tweet_count = [107]
+	Y username = [Optimouse]
+Total Length: X = 240, Y = 214 (Y / X = 89.17  X / Y = 112.15)
+Dice Coefficient: 85.00% 
+
+X = [@elonmusk @Astro_Elliott @Teslarati @ResidentSponge If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+X_token = [elonmusk, teslarati, residentsponge, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	X tweet_count = [103]
+	X username = [Optimouse]
+Y = [@elonmusk @TDogewhisperer @spair @itsALLrisky @mcuban When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla.]
+Y_token = [elonmusk, tdogewhisperer, spair, itsallrisky, mcuban, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla]
+	Y tweet_count = [112]
+	Y username = [Optimouse]
+Total Length: X = 240, Y = 284 (Y / X = 118.33  X / Y = 84.51)
+Dice Coefficient: 76.60% 
+
+X = [@elonmusk @Astro_Elliott @Teslarati @ResidentSponge If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+X_token = [elonmusk, teslarati, residentsponge, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	X tweet_count = [103]
+	X username = [Optimouse]
+Y = [@elonmusk @boringcompany Yo Elon Listen up, If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win https://t.co/O2Tt3p4ElC]
+Y_token = [elonmusk, boringcompany, yo, elon, listen, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win, https]
+	Y tweet_count = [115]
+	Y username = [Optimouse]
+Total Length: X = 240, Y = 264 (Y / X = 110.00  X / Y = 90.91)
+Dice Coefficient: 83.72% 
+
+X = [@elonmusk @itsALLrisky @Teslarati @13ericralph31 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win]
+X_token = [elonmusk, itsallrisky, teslarati, 13ericralph31, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win]
+	X tweet_count = [104]
+	X username = [Optimouse]
+Y = [@itsALLrisky If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+Y_token = [itsallrisky, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	Y tweet_count = [107]
+	Y username = [Optimouse]
+Total Length: X = 245, Y = 214 (Y / X = 87.35  X / Y = 114.49)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk @itsALLrisky @Teslarati @13ericralph31 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win]
+X_token = [elonmusk, itsallrisky, teslarati, 13ericralph31, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win]
+	X tweet_count = [104]
+	X username = [Optimouse]
+Y = [@elonmusk @TDogewhisperer @spair @itsALLrisky @mcuban When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla.]
+Y_token = [elonmusk, tdogewhisperer, spair, itsallrisky, mcuban, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla]
+	Y tweet_count = [112]
+	Y username = [Optimouse]
+Total Length: X = 245, Y = 284 (Y / X = 115.92  X / Y = 86.27)
+Dice Coefficient: 77.55% 
+
+X = [@elonmusk @itsALLrisky @Teslarati @13ericralph31 If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win]
+X_token = [elonmusk, itsallrisky, teslarati, 13ericralph31, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win]
+	X tweet_count = [104]
+	X username = [Optimouse]
+Y = [@elonmusk @boringcompany Yo Elon Listen up, If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win https://t.co/O2Tt3p4ElC]
+Y_token = [elonmusk, boringcompany, yo, elon, listen, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win, https]
+	Y tweet_count = [115]
+	Y username = [Optimouse]
+Total Length: X = 245, Y = 264 (Y / X = 107.76  X / Y = 92.80)
+Dice Coefficient: 84.44% 
+
+X = [@elonmusk @itsALLrisky @Model3Owners Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/oSLEzyqrog]
+X_token = [elonmusk, itsallrisky, model3owners, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	X tweet_count = [105]
+	X username = [Optimouse]
+Y = [@elonmusk @GimmicksPaul @waitbutwhy @poweredbyart Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck]
+Y_token = [elonmusk, gimmickspaul, waitbutwhy, poweredbyart, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck]
+	Y tweet_count = [106]
+	Y username = [Optimouse]
+Total Length: X = 329, Y = 318 (Y / X = 96.66  X / Y = 103.46)
+Dice Coefficient: 89.66% 
+
+X = [@elonmusk @itsALLrisky @Model3Owners Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/oSLEzyqrog]
+X_token = [elonmusk, itsallrisky, model3owners, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	X tweet_count = [105]
+	X username = [Optimouse]
+Y = [@elonmusk @RationalEtienne @SciGuySpace Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/FVvvUfYFml]
+Y_token = [elonmusk, rationaletienne, sciguyspace, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	Y tweet_count = [109]
+	Y username = [Optimouse]
+Total Length: X = 329, Y = 332 (Y / X = 100.91  X / Y = 99.10)
+Dice Coefficient: 93.10% 
+
+X = [@elonmusk @itsALLrisky @Model3Owners Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/oSLEzyqrog]
+X_token = [elonmusk, itsallrisky, model3owners, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	X tweet_count = [105]
+	X username = [Optimouse]
+Y = [@elonmusk @blueorigin Brooo When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! #dogecoin and guess what it’ll come back to Tesla as well we all be drivin Cybertruck]
+Y_token = [elonmusk, blueorigin, brooo, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, dogecoin, guess, come, back, tesla, well, drivin, cybertruck]
+	Y tweet_count = [110]
+	Y username = [Optimouse]
+Total Length: X = 329, Y = 294 (Y / X = 89.36  X / Y = 111.90)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk @itsALLrisky @Model3Owners Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/oSLEzyqrog]
+X_token = [elonmusk, itsallrisky, model3owners, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	X tweet_count = [105]
+	X username = [Optimouse]
+Y = [@elonmusk @TDogewhisperer @spair @itsALLrisky @mcuban When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla.]
+Y_token = [elonmusk, tdogewhisperer, spair, itsallrisky, mcuban, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla]
+	Y tweet_count = [112]
+	Y username = [Optimouse]
+Total Length: X = 329, Y = 284 (Y / X = 86.32  X / Y = 115.85)
+Dice Coefficient: 85.71% 
+
+X = [@elonmusk @itsALLrisky @Model3Owners Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/oSLEzyqrog]
+X_token = [elonmusk, itsallrisky, model3owners, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	X tweet_count = [105]
+	X username = [Optimouse]
+Y = [@elonmusk @boringcompany Yo Elon Listen up, If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win https://t.co/O2Tt3p4ElC]
+Y_token = [elonmusk, boringcompany, yo, elon, listen, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win, https]
+	Y tweet_count = [115]
+	Y username = [Optimouse]
+Total Length: X = 329, Y = 264 (Y / X = 80.24  X / Y = 124.62)
+Dice Coefficient: 73.08% 
+
+X = [@elonmusk @GimmicksPaul @waitbutwhy @poweredbyart Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck]
+X_token = [elonmusk, gimmickspaul, waitbutwhy, poweredbyart, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck]
+	X tweet_count = [106]
+	X username = [Optimouse]
+Y = [@elonmusk @RationalEtienne @SciGuySpace Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/FVvvUfYFml]
+Y_token = [elonmusk, rationaletienne, sciguyspace, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	Y tweet_count = [109]
+	Y username = [Optimouse]
+Total Length: X = 318, Y = 332 (Y / X = 104.40  X / Y = 95.78)
+Dice Coefficient: 89.66% 
+
+X = [@elonmusk @GimmicksPaul @waitbutwhy @poweredbyart Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck]
+X_token = [elonmusk, gimmickspaul, waitbutwhy, poweredbyart, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck]
+	X tweet_count = [106]
+	X username = [Optimouse]
+Y = [@elonmusk @blueorigin Brooo When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! #dogecoin and guess what it’ll come back to Tesla as well we all be drivin Cybertruck]
+Y_token = [elonmusk, blueorigin, brooo, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, dogecoin, guess, come, back, tesla, well, drivin, cybertruck]
+	Y tweet_count = [110]
+	Y username = [Optimouse]
+Total Length: X = 318, Y = 294 (Y / X = 92.45  X / Y = 108.16)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk @GimmicksPaul @waitbutwhy @poweredbyart Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck]
+X_token = [elonmusk, gimmickspaul, waitbutwhy, poweredbyart, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck]
+	X tweet_count = [106]
+	X username = [Optimouse]
+Y = [@elonmusk @TDogewhisperer @spair @itsALLrisky @mcuban When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla.]
+Y_token = [elonmusk, tdogewhisperer, spair, itsallrisky, mcuban, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla]
+	Y tweet_count = [112]
+	Y username = [Optimouse]
+Total Length: X = 318, Y = 284 (Y / X = 89.31  X / Y = 111.97)
+Dice Coefficient: 82.14% 
+
+X = [@itsALLrisky If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin]
+X_token = [itsallrisky, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin]
+	X tweet_count = [107]
+	X username = [Optimouse]
+Y = [@elonmusk @boringcompany Yo Elon Listen up, If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win https://t.co/O2Tt3p4ElC]
+Y_token = [elonmusk, boringcompany, yo, elon, listen, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win, https]
+	Y tweet_count = [115]
+	Y username = [Optimouse]
+Total Length: X = 214, Y = 264 (Y / X = 123.36  X / Y = 81.06)
+Dice Coefficient: 79.07% 
+
+X = [@elonmusk @RationalEtienne @SciGuySpace Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/FVvvUfYFml]
+X_token = [elonmusk, rationaletienne, sciguyspace, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	X tweet_count = [109]
+	X username = [Optimouse]
+Y = [@elonmusk @blueorigin Brooo When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! #dogecoin and guess what it’ll come back to Tesla as well we all be drivin Cybertruck]
+Y_token = [elonmusk, blueorigin, brooo, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, dogecoin, guess, come, back, tesla, well, drivin, cybertruck]
+	Y tweet_count = [110]
+	Y username = [Optimouse]
+Total Length: X = 332, Y = 294 (Y / X = 88.55  X / Y = 112.93)
+Dice Coefficient: 75.00% 
+
+X = [@elonmusk @RationalEtienne @SciGuySpace Just imagine If Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla. We’d be driving Cybertruck https://t.co/FVvvUfYFml]
+X_token = [elonmusk, rationaletienne, sciguyspace, imagine, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla, driving, cybertruck, https]
+	X tweet_count = [109]
+	X username = [Optimouse]
+Y = [@elonmusk @TDogewhisperer @spair @itsALLrisky @mcuban When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla.]
+Y_token = [elonmusk, tdogewhisperer, spair, itsallrisky, mcuban, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla]
+	Y tweet_count = [112]
+	Y username = [Optimouse]
+Total Length: X = 332, Y = 284 (Y / X = 85.54  X / Y = 116.90)
+Dice Coefficient: 82.14% 
+
+X = [@elonmusk @blueorigin Brooo When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! #dogecoin and guess what it’ll come back to Tesla as well we all be drivin Cybertruck]
+X_token = [elonmusk, blueorigin, brooo, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, dogecoin, guess, come, back, tesla, well, drivin, cybertruck]
+	X tweet_count = [110]
+	X username = [Optimouse]
+Y = [@elonmusk @TDogewhisperer @spair @itsALLrisky @mcuban When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla.]
+Y_token = [elonmusk, tdogewhisperer, spair, itsallrisky, mcuban, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla]
+	Y tweet_count = [112]
+	Y username = [Optimouse]
+Total Length: X = 294, Y = 284 (Y / X = 96.60  X / Y = 103.52)
+Dice Coefficient: 74.07% 
+
+X = [@elonmusk @TDogewhisperer @spair @itsALLrisky @mcuban When Elon allows employees to get paid in Dogecoin or US dollar then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin and bring back into Tesla.]
+X_token = [elonmusk, tdogewhisperer, spair, itsallrisky, mcuban, elon, allows, employees, get, paid, dogecoin, us, dollar, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, bring, back, tesla]
+	X tweet_count = [112]
+	X username = [Optimouse]
+Y = [@elonmusk @boringcompany Yo Elon Listen up, If Elon allows employees to get paid in Dogecoin then those coins can be recirculated as means of payment for products and services which would make Dogecoin viable! Let’s gooo!! #dogecoin win win https://t.co/O2Tt3p4ElC]
+Y_token = [elonmusk, boringcompany, yo, elon, listen, elon, allows, employees, get, paid, dogecoin, coins, recirculated, means, payment, products, services, would, make, dogecoin, viable, let, gooo, dogecoin, win, win, https]
+	Y tweet_count = [115]
+	Y username = [Optimouse]
+Total Length: X = 284, Y = 264 (Y / X = 92.96  X / Y = 107.58)
+Dice Coefficient: 72.00% 
+
+X = [@WSBChairman @itsALLrisky what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin]
+X_token = [wsbchairman, itsallrisky, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin]
+	X tweet_count = [113]
+	X username = [Optimouse]
+Y = [@elonmusk @blockfolio Elon my dude, what do you think about giving your employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin https://t.co/KRzMajMa8s]
+Y_token = [elonmusk, blockfolio, elon, dude, think, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin, https]
+	Y tweet_count = [114]
+	Y username = [Optimouse]
+Total Length: X = 294, Y = 324 (Y / X = 110.20  X / Y = 90.74)
+Dice Coefficient: 86.96% 
+
+X = [@WSBChairman @itsALLrisky what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin]
+X_token = [wsbchairman, itsallrisky, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin]
+	X tweet_count = [113]
+	X username = [Optimouse]
+Y = [@elonmusk @itsALLrisky @RationalEtienne @kimbal what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin https://t.co/pFpprEjVsz]
+Y_token = [elonmusk, itsallrisky, rationaletienne, kimbal, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin, https]
+	Y tweet_count = [117]
+	Y username = [Optimouse]
+Total Length: X = 294, Y = 340 (Y / X = 115.65  X / Y = 86.47)
+Dice Coefficient: 89.36% 
+
+X = [@WSBChairman @itsALLrisky what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin]
+X_token = [wsbchairman, itsallrisky, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin]
+	X tweet_count = [113]
+	X username = [Optimouse]
+Y = [@elonmusk @UniverCurious @TechInsider what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin]
+Y_token = [elonmusk, univercurious, techinsider, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin]
+	Y tweet_count = [118]
+	Y username = [Optimouse]
+Total Length: X = 294, Y = 306 (Y / X = 104.08  X / Y = 96.08)
+Dice Coefficient: 88.89% 
+
+X = [@elonmusk @blockfolio Elon my dude, what do you think about giving your employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin https://t.co/KRzMajMa8s]
+X_token = [elonmusk, blockfolio, elon, dude, think, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin, https]
+	X tweet_count = [114]
+	X username = [Optimouse]
+Y = [@elonmusk @itsALLrisky @RationalEtienne @kimbal what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin https://t.co/pFpprEjVsz]
+Y_token = [elonmusk, itsallrisky, rationaletienne, kimbal, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin, https]
+	Y tweet_count = [117]
+	Y username = [Optimouse]
+Total Length: X = 324, Y = 340 (Y / X = 104.94  X / Y = 95.29)
+Dice Coefficient: 89.80% 
+
+X = [@elonmusk @blockfolio Elon my dude, what do you think about giving your employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin https://t.co/KRzMajMa8s]
+X_token = [elonmusk, blockfolio, elon, dude, think, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin, https]
+	X tweet_count = [114]
+	X username = [Optimouse]
+Y = [@elonmusk @UniverCurious @TechInsider what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin]
+Y_token = [elonmusk, univercurious, techinsider, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin]
+	Y tweet_count = [118]
+	Y username = [Optimouse]
+Total Length: X = 324, Y = 306 (Y / X = 94.44  X / Y = 105.88)
+Dice Coefficient: 89.36% 
+
+X = [@elonmusk @itsALLrisky @RationalEtienne @kimbal what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin https://t.co/pFpprEjVsz]
+X_token = [elonmusk, itsallrisky, rationaletienne, kimbal, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin, https]
+	X tweet_count = [117]
+	X username = [Optimouse]
+Y = [@elonmusk @UniverCurious @TechInsider what do you think about Elon giving his employees an option of being paid in Dogecoin or US dollar. Then the coin can be recirculated for other products and services within @Tesla  and other companies. This would make doge more viable and more Tesla’s w/doge #dogecoin]
+Y_token = [elonmusk, univercurious, techinsider, think, elon, giving, employees, option, paid, dogecoin, us, dollar, coin, recirculated, products, services, within, tesla, companies, would, make, doge, viable, tesla, dogecoin]
+	Y tweet_count = [118]
+	Y username = [Optimouse]
+Total Length: X = 340, Y = 306 (Y / X = 90.00  X / Y = 111.11)
+Dice Coefficient: 87.50% 
+

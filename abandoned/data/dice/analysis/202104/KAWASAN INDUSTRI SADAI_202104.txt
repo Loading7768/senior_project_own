@@ -1,0 +1,22 @@
+﻿X = [#KriptoIndonesian 26. In January 2021, #DogeCoin had jumped 687.68%. It doesn't stop there in February and March 2021 #DogeCoin continues to rally 30.83% and 11.71%. End]
+X_token = [kriptoindonesian, january, 2021, dogecoin, jumped, stop, february, march, 2021, dogecoin, continues, rally, end]
+	X tweet_count = [1]
+	X username = [KAWASAN INDUSTRI SADAI]
+Y = [#KriptoIndonesian 14. In January 2021, the #DogeCoin had jumped 687.68%. It doesn't stop there in February and March 2021 #DogeCoin continues to rally 30.83% and 11.71%.]
+Y_token = [kriptoindonesian, january, 2021, dogecoin, jumped, stop, february, march, 2021, dogecoin, continues, rally]
+	Y tweet_count = [3]
+	Y username = [KAWASAN INDUSTRI SADAI]
+Total Length: X = 169, Y = 169 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 95.24% 
+
+X = [#KriptoIndonesian 25. Finally, the #cryptocurrency that was viral because of the tweets of the world's billionaire and founder of #Tesla and #SpaceX, @elonmusk , #DogeCoin, shot even crazier.]
+X_token = [kriptoindonesian, finally, cryptocurrency, viral, tweets, world, billionaire, founder, tesla, spacex, elonmusk, dogecoin, shot, even, crazier]
+	X tweet_count = [2]
+	X username = [KAWASAN INDUSTRI SADAI]
+Y = [#KriptoIndonesian 13. Recently, the #cryptocurrency that was viral because of the tweets of the world's billionaire and founder of #Tesla and #SpaceX, Elon Musk, #DogeCoin, shot even crazier.]
+Y_token = [kriptoindonesian, recently, cryptocurrency, viral, tweets, world, billionaire, founder, tesla, spacex, elon, musk, dogecoin, shot, even, crazier]
+	Y tweet_count = [4]
+	Y username = [KAWASAN INDUSTRI SADAI]
+Total Length: X = 191, Y = 191 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 83.87% 
+

@@ -1,0 +1,22 @@
+﻿X = [@dogecoin How i buy Dogecoin in india?]
+X_token = [dogecoin, buy, dogecoin, india]
+	X tweet_count = [11]
+	X username = [Chirag Bhatia (O-)]
+Y = [BUY MORE BUY MORE BUY MORE\n\n#dogecoin]
+Y_token = [buy, buy, buy, dogecoin]
+	Y tweet_count = [17]
+	Y username = [Chirag Bhatia (O-)]
+Total Length: X = 38, Y = 37 (Y / X = 97.37  X / Y = 102.70)
+Dice Coefficient: 80.00% 
+
+X = [BUY MORE BUY MORE BUY MORE\n\n#dogecoin]
+X_token = [buy, buy, buy, dogecoin]
+	X tweet_count = [17]
+	X username = [Chirag Bhatia (O-)]
+Y = [Buy Dogecoin Buy Dogecoin\n\n#dogearmy]
+Y_token = [buy, dogecoin, buy, dogecoin, dogearmy]
+	Y tweet_count = [20]
+	Y username = [Chirag Bhatia (O-)]
+Total Length: X = 37, Y = 36 (Y / X = 97.30  X / Y = 102.78)
+Dice Coefficient: 80.00% 
+

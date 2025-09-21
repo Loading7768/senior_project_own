@@ -1,0 +1,11 @@
+﻿X = [Elon Musk: Should Tesla accept Dogecoin? - Fox News https://t.co/cAyMvfyOKV]
+X_token = [elon, musk, tesla, accept, dogecoin, fox, news, https]
+	X tweet_count = [25]
+	X username = [Nahid Alaei]
+Y = [Elon Musk asks if Tesla should accept Dogecoin - The Hill https://t.co/Xi1ZJZwSzW]
+Y_token = [elon, musk, asks, tesla, accept, dogecoin, hill, https]
+	Y tweet_count = [28]
+	Y username = [Nahid Alaei]
+Total Length: X = 75, Y = 81 (Y / X = 108.00  X / Y = 92.59)
+Dice Coefficient: 75.00% 
+

@@ -1,0 +1,33 @@
+﻿X = [#Dogecoin🐶 #MarkCuban #ElonMusk #SNL @mcuban @elonmusk \n\nJust noticed Dogecoin hit \n.40cents per share. Wonder if Dogecoin spikes ⬆️ when Elon Musk appears on Saturday Night Live. https://t.co/lpBZKJAuAI]
+X_token = [markcuban, elonmusk, snl, mcuban, elonmusk, noticed, dogecoin, hit, per, share, wonder, dogecoin, spikes, elon, musk, appears, saturday, night, live, https]
+	X tweet_count = [6]
+	X username = [William]
+Y = [#Dogecoin🐶 #MarkCuban #ElonMusk #SNL @mcuban @elonmusk \n\nJust noticed Dogecoin back at \n.39cents per share. Wonder if Dogecoin spikes ⬆️ when Elon Musk appears on Saturday Night Live. https://t.co/bkrEwMWpaE]
+Y_token = [markcuban, elonmusk, snl, mcuban, elonmusk, noticed, dogecoin, back, per, share, wonder, dogecoin, spikes, elon, musk, appears, saturday, night, live, https]
+	Y tweet_count = [7]
+	Y username = [William]
+Total Length: X = 203, Y = 207 (Y / X = 101.97  X / Y = 98.07)
+Dice Coefficient: 94.44% 
+
+X = [#Dogecoin🐶 has surged to \n.52cents... https://t.co/tzkspR13mm]
+X_token = [surged, https]
+	X tweet_count = [13]
+	X username = [William]
+Y = [Dogecoin🐶 has surged ⬆️\n to.73cents... #Dogecoin https://t.co/QOgzOjLWN8]
+Y_token = [surged, dogecoin, https]
+	Y tweet_count = [32]
+	Y username = [William]
+Total Length: X = 61, Y = 72 (Y / X = 118.03  X / Y = 84.72)
+Dice Coefficient: 80.00% 
+
+X = [#Dogecoin🐶 .73cents per share.\n@elonmusk #ElonMusk\nLook forward to watching on #SNL @nbcsnl tonight 👀🖥 \n\nhttps://t.co/gzZ5Pxy0U9]
+X_token = [per, share, elonmusk, elonmusk, look, forward, watching, snl, nbcsnl, tonight, https]
+	X tweet_count = [27]
+	X username = [William]
+Y = [#Dogecoin🐶 .73cents per share.\n@elonmusk #ElonMusk\nLook forward to watching on #SNL @nbcsnl tonight 👀🖥 \nDogecoin ⬆️ $1? https://t.co/ytwabd1BDc]
+Y_token = [per, share, elonmusk, elonmusk, look, forward, watching, snl, nbcsnl, tonight, dogecoin, 1, https]
+	Y tweet_count = [29]
+	Y username = [William]
+Total Length: X = 128, Y = 143 (Y / X = 111.72  X / Y = 89.51)
+Dice Coefficient: 90.91% 
+

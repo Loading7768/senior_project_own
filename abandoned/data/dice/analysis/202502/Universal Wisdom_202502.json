@@ -1,0 +1,17 @@
+[
+    {
+        "X_text": "@dogeofficialceo Miss Biden Crypto",
+        "X_token": "dogeofficialceo, miss, biden, crypto",
+        "X_tweet_count": 8,
+        "X_username": "Universal Wisdom",
+        "Y_text": "Who miss Biden Crypto policy?",
+        "Y_token": "miss, biden, crypto, policy",
+        "Y_tweet_count": 22,
+        "Y_username": "Universal Wisdom",
+        "X_length": 34,
+        "Y_length": 29,
+        "Y_length_percent_of_X": 85.29,
+        "X_length_percent_of_Y": 117.24,
+        "dice_coefficient": 75.0
+    }
+]

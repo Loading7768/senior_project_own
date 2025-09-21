@@ -1,0 +1,33 @@
+﻿X = [@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please  need my money back please help me]
+X_token = [elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, need, money, back, please, help]
+	X tweet_count = [4]
+	X username = [quentinhall133]
+Y = [@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please help me please I lost my job @elonmusk]
+Y_token = [elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, help, please, lost, job, elonmusk]
+	Y tweet_count = [5]
+	Y username = [quentinhall133]
+Total Length: X = 284, Y = 288 (Y / X = 101.41  X / Y = 98.61)
+Dice Coefficient: 90.57% 
+
+X = [@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please  need my money back please help me]
+X_token = [elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, need, money, back, please, help]
+	X tweet_count = [4]
+	X username = [quentinhall133]
+Y = [@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please help me  my life savings #ElonMusk]
+Y_token = [elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, help, life, savings, elonmusk]
+	Y tweet_count = [6]
+	Y username = [quentinhall133]
+Total Length: X = 284, Y = 284 (Y / X = 100.00  X / Y = 100.00)
+Dice Coefficient: 90.57% 
+
+X = [@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please help me please I lost my job @elonmusk]
+X_token = [elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, help, please, lost, job, elonmusk]
+	X tweet_count = [5]
+	X username = [quentinhall133]
+Y = [@elonmusk Donald J. Trump can you ask elon to pump 20 billion each in microstrategy coinbase and dogecoin I'm on a margin call on robinhood and I'm down 8000 dollars and I promise to never use margin again I will turn margin feature off today please help me  my life savings #ElonMusk]
+Y_token = [elonmusk, donald, trump, ask, elon, pump, 20, billion, microstrategy, coinbase, dogecoin, margin, call, robinhood, 8000, dollars, promise, never, use, margin, turn, margin, feature, today, please, help, life, savings, elonmusk]
+	Y tweet_count = [6]
+	Y username = [quentinhall133]
+Total Length: X = 288, Y = 284 (Y / X = 98.61  X / Y = 101.41)
+Dice Coefficient: 92.31% 
+

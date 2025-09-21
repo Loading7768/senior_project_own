@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "what's that #dogecoin doing tho... https://t.co/cru2PiFdOl",
+        "X_token": "dogecoin, tho, https",
+        "X_tweet_count": 19,
+        "X_username": "mistaT4doge",
+        "Y_text": "it's a little musky in here🤣🤣\n\n#dogecoin tho. https://t.co/nunprtvFko",
+        "Y_token": "little, musky, dogecoin, tho, https",
+        "Y_tweet_count": 47,
+        "Y_username": "mistaT4doge",
+        "X_length": 58,
+        "Y_length": 69,
+        "Y_length_percent_of_X": 118.97,
+        "X_length_percent_of_Y": 84.06,
+        "dice_coefficient": 75.0
+    },
+    {
+        "X_text": "𝕏 Wallet...you know for #dogecoin",
+        "X_token": "𝕏, wallet, know, dogecoin",
+        "X_tweet_count": 55,
+        "X_username": "mistaT4doge",
+        "Y_text": "𝕏 Wallet for my #dogecoin tho??",
+        "Y_token": "𝕏, wallet, dogecoin, tho",
+        "Y_tweet_count": 56,
+        "Y_username": "mistaT4doge",
+        "X_length": 33,
+        "Y_length": 31,
+        "Y_length_percent_of_X": 93.94,
+        "X_length_percent_of_Y": 106.45,
+        "dice_coefficient": 75.0
+    }
+]

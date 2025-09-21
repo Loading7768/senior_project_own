@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@jmac1030 @3_Green_Candles @elonmusk Keep the utility simple\n#Dogecoin",
+        "X_token": "jmac1030, elonmusk, keep, utility, simple, dogecoin",
+        "X_tweet_count": 23,
+        "X_username": "🚀CHARLIE_BROWN🚀",
+        "Y_text": "@3_Green_Candles @elonmusk Keep the utility simple #Dogecoin",
+        "Y_token": "elonmusk, keep, utility, simple, dogecoin",
+        "Y_tweet_count": 24,
+        "Y_username": "🚀CHARLIE_BROWN🚀",
+        "X_length": 70,
+        "Y_length": 60,
+        "Y_length_percent_of_X": 85.71,
+        "X_length_percent_of_Y": 116.67,
+        "dice_coefficient": 90.91
+    },
+    {
+        "X_text": "@jmac1030 @3_Green_Candles @elonmusk Keep the utility simple\n#Dogecoin",
+        "X_token": "jmac1030, elonmusk, keep, utility, simple, dogecoin",
+        "X_tweet_count": 23,
+        "X_username": "🚀CHARLIE_BROWN🚀",
+        "Y_text": "@BillyM2k @elonmusk It's an easy algorithm..  keep the utility simple #Dogecoin",
+        "Y_token": "billym2k, elonmusk, easy, algorithm, keep, utility, simple, dogecoin",
+        "Y_tweet_count": 25,
+        "Y_username": "🚀CHARLIE_BROWN🚀",
+        "X_length": 70,
+        "Y_length": 79,
+        "Y_length_percent_of_X": 112.86,
+        "X_length_percent_of_Y": 88.61,
+        "dice_coefficient": 71.43
+    }
+]

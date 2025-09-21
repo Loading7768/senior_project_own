@@ -1,0 +1,11 @@
+﻿X = [@Seahawks That we can buy tickets and merch with \n#Dogecoin]
+X_token = [seahawks, buy, tickets, merch, dogecoin]
+	X tweet_count = [84]
+	X username = [jeremy dietrich]
+Y = [@KING5Seattle But can I buy tickets and merch with #Dogecoin ??]
+Y_token = [king5seattle, buy, tickets, merch, dogecoin]
+	Y tweet_count = [178]
+	Y username = [jeremy dietrich]
+Total Length: X = 59, Y = 63 (Y / X = 106.78  X / Y = 93.65)
+Dice Coefficient: 80.00% 
+

@@ -1,0 +1,11 @@
+﻿X = [@elonmusk Tweet about Dogecoin you literally called your self the doge father]
+X_token = [elonmusk, tweet, dogecoin, literally, called, self, doge, father]
+	X tweet_count = [14]
+	X username = [Brady the dogecoin master]
+Y = [@elonmusk Start tweeting about doge you literally called your self the doge father]
+Y_token = [elonmusk, start, tweeting, doge, literally, called, self, doge, father]
+	Y tweet_count = [17]
+	Y username = [Brady the dogecoin master]
+Total Length: X = 77, Y = 82 (Y / X = 106.49  X / Y = 93.90)
+Dice Coefficient: 75.00% 
+

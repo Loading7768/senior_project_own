@@ -1,0 +1,33 @@
+﻿X = [Trust in the dogecoin #doge #DogecoinToTheMoon #dogearmy]
+X_token = [trust, dogecoin, doge, dogecointothemoon, dogearmy]
+	X tweet_count = [18]
+	X username = [pat]
+Y = [I like the dogecoin #doge #dogearmy #DogecoinToTheMoon]
+Y_token = [like, dogecoin, doge, dogearmy, dogecointothemoon]
+	Y tweet_count = [19]
+	Y username = [pat]
+Total Length: X = 56, Y = 54 (Y / X = 96.43  X / Y = 103.70)
+Dice Coefficient: 80.00% 
+
+X = [Trust in the dogecoin #doge #DogecoinToTheMoon #dogearmy]
+X_token = [trust, dogecoin, doge, dogecointothemoon, dogearmy]
+	X tweet_count = [18]
+	X username = [pat]
+Y = [much wow for doge #DogecoinToTheMoon #dogearmy #dogecoin #doge]
+Y_token = [much, wow, doge, dogecointothemoon, dogearmy, dogecoin, doge]
+	Y tweet_count = [20]
+	Y username = [pat]
+Total Length: X = 56, Y = 62 (Y / X = 110.71  X / Y = 90.32)
+Dice Coefficient: 72.73% 
+
+X = [I like the dogecoin #doge #dogearmy #DogecoinToTheMoon]
+X_token = [like, dogecoin, doge, dogearmy, dogecointothemoon]
+	X tweet_count = [19]
+	X username = [pat]
+Y = [much wow for doge #DogecoinToTheMoon #dogearmy #dogecoin #doge]
+Y_token = [much, wow, doge, dogecointothemoon, dogearmy, dogecoin, doge]
+	Y tweet_count = [20]
+	Y username = [pat]
+Total Length: X = 54, Y = 62 (Y / X = 114.81  X / Y = 87.10)
+Dice Coefficient: 72.73% 
+

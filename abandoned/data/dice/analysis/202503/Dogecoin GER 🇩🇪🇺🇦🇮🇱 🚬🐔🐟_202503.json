@@ -1,0 +1,32 @@
+[
+    {
+        "X_text": "@bradsferguson Me too! https://t.co/NcvzBRUmVS",
+        "X_token": "bradsferguson, https",
+        "X_tweet_count": 60,
+        "X_username": "Dogecoin GER 🇩🇪🇺🇦🇮🇱 🚬🐔🐟",
+        "Y_text": "@bradsferguson I‘m ready! 💪🏼 https://t.co/qGT0TQAsJD",
+        "Y_token": "bradsferguson, ready, https",
+        "Y_tweet_count": 62,
+        "Y_username": "Dogecoin GER 🇩🇪🇺🇦🇮🇱 🚬🐔🐟",
+        "X_length": 46,
+        "Y_length": 52,
+        "Y_length_percent_of_X": 113.04,
+        "X_length_percent_of_Y": 88.46,
+        "dice_coefficient": 80.0
+    },
+    {
+        "X_text": "@BMT094 Me too! 🤢 https://t.co/UrIvxeALMB",
+        "X_token": "bmt094, https",
+        "X_tweet_count": 78,
+        "X_username": "Dogecoin GER 🇩🇪🇺🇦🇮🇱 🚬🐔🐟",
+        "Y_text": "@BMT094 @Tesla Me too ☠️ https://t.co/1mxlpjU49g",
+        "Y_token": "bmt094, tesla, https",
+        "Y_tweet_count": 83,
+        "Y_username": "Dogecoin GER 🇩🇪🇺🇦🇮🇱 🚬🐔🐟",
+        "X_length": 41,
+        "Y_length": 48,
+        "Y_length_percent_of_X": 117.07,
+        "X_length_percent_of_Y": 85.42,
+        "dice_coefficient": 80.0
+    }
+]
