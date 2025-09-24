@@ -176,21 +176,31 @@ for coin_short_name, n in zip(COIN_SHORT_NAME, N):
     print(f"{coin_short_name} 特徵 shape = {X_all.shape}")
     print(f"{coin_short_name} 日期 shape = {dates.shape}")
 
-    np.save(os.path.join(OUTPUT_PATH, f"{coin_short_name}_XGBoost_features.npy"), X_all)  # 存所有日期的 "EMA_12", "EMA_26", "MACD", "Signal", "RSI"
-    np.save(os.path.join(OUTPUT_PATH, f"{coin_short_name}_XGBoost_dates.npy"), dates)  # 存所有對應的日期
+    # ===== 存成 npy / txt =====
+    np.save(os.path.join(OUTPUT_PATH, f"{coin_short_name}_XGBoost_features.npy"), X_all)
+    np.savetxt(f"{OUTPUT_PATH}/{coin_short_name}_XGBoost_dates.txt", dates, fmt="%s")
 
+    # ===== 存成 CSV (合併日期+特徵) =====
+    df_features = pd.DataFrame(
+        np.hstack([dates, X_all]),
+        columns=["Date"] + features
+    )
+    df_features.to_csv(f"{OUTPUT_PATH}/{coin_short_name}_XGBoost_features.csv", index=False)
+
+    print(f"✅ {coin_short_name} 已輸出 CSV：{OUTPUT_PATH}/{coin_short_name}_XGBoost_features.csv")
+    
     # =============================
     # 7. 畫圖比較
     # =============================
-    plt.figure(figsize=(12, 6))
-    plt.plot(y_test.index, y_test, label="True Price")
-    plt.plot(y_test.index, y_pred, label="Predicted Price")
-    plt.legend()
-    plt.xlabel("Date")
-    plt.ylabel("Price (USD)")
-    plt.title(f"{COIN_SHORT_NAME} Price Prediction with EMA, MACD, RSI")
-    plt.xticks(rotation=45)
-    plt.show()
+    # plt.figure(figsize=(12, 6))
+    # plt.plot(y_test.index, y_test, label="True Price")
+    # plt.plot(y_test.index, y_pred, label="Predicted Price")
+    # plt.legend()
+    # plt.xlabel("Date")
+    # plt.ylabel("Price (USD)")
+    # plt.title(f"{COIN_SHORT_NAME} Price Prediction with EMA, MACD, RSI")
+    # plt.xticks(rotation=45)
+    # plt.show()
 
 print("\n✅ 全部幣種特徵已存成 .npy 檔")
 

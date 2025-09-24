@@ -1,3 +1,4 @@
+from datetime import datetime
 import os
 import json
 import numpy as np
@@ -27,9 +28,13 @@ from sklearn.model_selection import train_test_split
 '''可修改變數'''
 N_SAMPLES = 250_000  # random sampling 取的數量
 
-NUM_LABELS = 5  # 標籤數量
+NUM_CATEGORIES = 5  # 類別數量
 
 EPOCHS = 5
+
+START_DATE = {"DOGE": "2013/12/15", "PEPE": "2024/02/01", "TRUMP": "2025/01/18"}
+
+END_DATE   = {"DOGE": "2025/07/31", "PEPE": "2025/07/31", "TRUMP": "2025/07/31"}
 
 SAVE_PATH = "../data/ml/classification/BERT"
 
@@ -37,6 +42,10 @@ ISTRAIN = False
 '''可修改變數'''
 
 os.makedirs(SAVE_PATH, exist_ok=True)
+
+# 轉成 datetime 方便比較
+START_DATE_DT = {k: pd.to_datetime(v, format="%Y/%m/%d") for k, v in START_DATE.items()}
+END_DATE_DT   = {k: pd.to_datetime(v, format="%Y/%m/%d") for k, v in END_DATE.items()}
 
 
 
@@ -47,25 +56,50 @@ def load_tweets(data_dir, coin_short_name, json_dict_name):
     for f in tqdm(files, desc=f"Loading tweets for {coin_short_name}"):
         with open(f, "r", encoding="utf-8-sig") as fp:
             data = json.load(fp)
-            for tw in data[json_dict_name]:
-                texts.append(tw["text"])
+
+        tweets = data[json_dict_name]
+        if not tweets:
+            print("當天沒有推文：", f)
+            continue
+
+        # 取得日期
+        date_str = datetime.strptime(
+            tweets[0]['created_at'], "%a %b %d %H:%M:%S %z %Y"
+        ).strftime("%Y/%m/%d")
+        date_dt = pd.to_datetime(date_str)
+
+        # 🔹 過濾掉不在範圍內的推文
+        if not (START_DATE_DT[coin_short_name] <= date_dt <= END_DATE_DT[coin_short_name]):
+            print("當天不在指定時間範圍內：", f)
+            continue
+
+        for tw in tweets:
+            texts.append(tw["text"])
+
     return texts
 
 
 
 def load_price_diff(price_path, coin_short_name):
-    """讀取某幣種的價差 (N, 5)"""
+    """讀取某幣種的價差 (N, )"""
     return np.load(os.path.join(price_path, f"{coin_short_name}_price_diff.npy"))
 
 
 
-def categorize_array_multi(Y, t1=0.1, t2=0.00125):
-    # Y shape = (N, 5)
+# --- 五元分類 ---
+def categorize_array_multi(Y, t1=0.0590, t2=0.0102, t3=0.0060, t4=0.0657):
+    # 五元分類
     labels = np.full_like(Y, 2, dtype=int)  # 預設持平
-    labels[Y >= t1] = 4
-    labels[(Y >= t2) & (Y < t1)] = 3
-    labels[(Y > -t1) & (Y <= -t2)] = 1
-    labels[Y <= -t1] = 0
+    labels[Y <= -t1] = 0  # 大跌
+    labels[(Y > -t1) & (Y <= -t2)] = 1  # 跌
+    labels[(Y >= t3) & (Y < t4)] = 3  # 漲
+    labels[Y >= t4] = 4  # 大漲
+
+    if np.any(Y == 0):  # 檢查是否有任何元素等於 0
+        count = np.sum(Y == 0)
+        print(f"共有 {count} 個 Y == 0")
+        labels[Y == 0] = 4  # 為了校正 TRUMP 前兩天的價格相同 第一天設為大漲
+
     return labels
 
 
@@ -117,7 +151,7 @@ def compute_metrics(eval_pred):
 
 
 
-def balanced_sampling(texts, labels, n_samples, num_labels=5, random_state=42):
+def balanced_sampling(texts, labels, n_samples, num_categories, random_state=42):
     """
     Balanced sampling, with a target total sample count n_samples.
     Attempts to have roughly equal number of samples per class.
@@ -125,21 +159,62 @@ def balanced_sampling(texts, labels, n_samples, num_labels=5, random_state=42):
     texts: list of text samples
     labels: np.array of shape (N,)
     n_samples: total number of samples to draw
-    num_labels: number of classes
+    num_categories: number of classes
     """
+
+    # np.random.seed(random_state)
+    # labels = np.array(labels)
+    # sampled_texts = []
+    # sampled_labels = []
+
+    # # 計算每類目標樣本數
+    # target_per_class = n_samples // num_categories
+    # all_indices = set(range(len(labels)))
+    # sampled_indices_set = set()
+
+    # # 每類抽樣
+    # for cls in range(num_categories):
+    #     cls_indices = np.where(labels == cls)[0]
+    #     n_cls_sample = min(len(cls_indices), target_per_class)
+    #     selected = np.random.choice(cls_indices, size=n_cls_sample, replace=False)
+    #     sampled_indices_set.update(selected)
+
+    # # 剩餘數量
+    # remaining = n_samples - len(sampled_indices_set)
+    # if remaining > 0:
+    #     available_indices = np.array(list(all_indices - sampled_indices_set))
+    #     extra_selected = np.random.choice(available_indices, size=min(len(available_indices), remaining), replace=False)
+    #     sampled_indices_set.update(extra_selected)
+
+    # # 最終抽樣
+    # sampled_indices = np.array(list(sampled_indices_set))
+    # sampled_texts = [texts[i] for i in sampled_indices]
+    # sampled_labels = labels[sampled_indices]
+
+    # # 類別統計
+    # counter_sampled = Counter(sampled_labels)
+    # total = len(sampled_labels)
+    # print("Balanced sampled class distribution (approx):")
+    # for k in range(num_categories):
+    #     print(f"  Class {k}: {counter_sampled[k]} samples, {counter_sampled[k]/total*100:.2f}%")
+    # print(f"  Total sampled: {total} samples\n")
+
+    # return sampled_texts, sampled_labels
+
+
     np.random.seed(random_state)
     labels = np.array(labels)
     sampled_texts = []
     sampled_labels = []
 
     # 計算每類目標樣本數
-    target_per_class = n_samples // num_labels
+    target_per_class = n_samples // num_categories
 
     # 用索引操作，避免重複
     all_indices = np.arange(len(labels))
     used_indices = set()
 
-    for cls in range(num_labels):
+    for cls in range(num_categories):
         cls_indices = np.where(labels == cls)[0]
         if len(cls_indices) == 0:
             continue
@@ -168,7 +243,7 @@ def balanced_sampling(texts, labels, n_samples, num_labels=5, random_state=42):
     counter = Counter(sampled_labels)
     print("Balanced sampled class distribution (approx):")
     total = len(sampled_labels)
-    for cls in range(num_labels):
+    for cls in range(num_categories):
         print(f"  Class {cls}: {counter[cls]} samples, {counter[cls]/total*100:.2f}%")
     print(f"  Total sampled: {total} samples")
 
@@ -177,7 +252,7 @@ def balanced_sampling(texts, labels, n_samples, num_labels=5, random_state=42):
 
 
 
-def train_single_model(texts, labels, num_labels=5, model_dir=None,
+def train_single_model(texts, labels, num_categories, model_dir=None,
                        epochs=3, n_samples=None, balanced=True):
     """
     texts: 訓練用的推文
@@ -192,43 +267,53 @@ def train_single_model(texts, labels, num_labels=5, model_dir=None,
         n_samples = len(texts)
 
     if balanced:
-        # 計算每類目標樣本數
-        target_per_class = n_samples // num_labels
-        all_indices = set(range(len(labels)))
-        sampled_indices_set = set()
-
-        # 每類抽樣
-        for cls in range(num_labels):
-            cls_indices = np.where(labels == cls)[0]
-            n_cls_sample = min(len(cls_indices), target_per_class)
-            selected = np.random.choice(cls_indices, size=n_cls_sample, replace=False)
-            sampled_indices_set.update(selected)
-
-        # 剩餘數量
-        remaining = n_samples - len(sampled_indices_set)
-        if remaining > 0:
-            available_indices = np.array(list(all_indices - sampled_indices_set))
-            extra_selected = np.random.choice(available_indices, size=min(len(available_indices), remaining), replace=False)
-            sampled_indices_set.update(extra_selected)
-
-        # 最終抽樣
-        sampled_indices = np.array(list(sampled_indices_set))
-        sampled_texts = [texts[i] for i in sampled_indices]
-        sampled_labels = labels[sampled_indices]
-
-        # 類別統計
-        counter_sampled = Counter(sampled_labels)
-        total = len(sampled_labels)
-        print("Balanced sampled class distribution (approx):")
-        for k in range(num_labels):
-            print(f"  Class {k}: {counter_sampled[k]} samples, {counter_sampled[k]/total*100:.2f}%")
-        print(f"  Total sampled: {total} samples\n")
+        sampled_texts, sampled_labels = balanced_sampling(
+            texts, labels, n_samples, num_categories
+        )
     else:
-        # 普通隨機抽樣
         n = len(texts)
         sampled_indices = np.random.choice(range(n), size=min(n_samples, n), replace=False)
         sampled_texts = [texts[i] for i in sampled_indices]
         sampled_labels = labels[sampled_indices]
+
+    # if balanced:
+    #     # 計算每類目標樣本數
+    #     target_per_class = n_samples // num_categories
+    #     all_indices = set(range(len(labels)))
+    #     sampled_indices_set = set()
+
+    #     # 每類抽樣
+    #     for cls in range(num_categories):
+    #         cls_indices = np.where(labels == cls)[0]
+    #         n_cls_sample = min(len(cls_indices), target_per_class)
+    #         selected = np.random.choice(cls_indices, size=n_cls_sample, replace=False)
+    #         sampled_indices_set.update(selected)
+
+    #     # 剩餘數量
+    #     remaining = n_samples - len(sampled_indices_set)
+    #     if remaining > 0:
+    #         available_indices = np.array(list(all_indices - sampled_indices_set))
+    #         extra_selected = np.random.choice(available_indices, size=min(len(available_indices), remaining), replace=False)
+    #         sampled_indices_set.update(extra_selected)
+
+    #     # 最終抽樣
+    #     sampled_indices = np.array(list(sampled_indices_set))
+    #     sampled_texts = [texts[i] for i in sampled_indices]
+    #     sampled_labels = labels[sampled_indices]
+
+    #     # 類別統計
+    #     counter_sampled = Counter(sampled_labels)
+    #     total = len(sampled_labels)
+    #     print("Balanced sampled class distribution (approx):")
+    #     for k in range(num_categories):
+    #         print(f"  Class {k}: {counter_sampled[k]} samples, {counter_sampled[k]/total*100:.2f}%")
+    #     print(f"  Total sampled: {total} samples\n")
+    # else:
+    #     # 普通隨機抽樣
+    #     n = len(texts)
+    #     sampled_indices = np.random.choice(range(n), size=min(n_samples, n), replace=False)
+    #     sampled_texts = [texts[i] for i in sampled_indices]
+    #     sampled_labels = labels[sampled_indices]
 
     # Tokenizer + Dataset
     tokenizer = BertTokenizerFast.from_pretrained("bert-base-uncased")
@@ -239,7 +324,7 @@ def train_single_model(texts, labels, num_labels=5, model_dir=None,
     train_dataset, val_dataset = torch.utils.data.random_split(dataset, [split, len(dataset)-split])
 
     # 模型
-    model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=num_labels)
+    model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=num_categories)
 
     training_args = TrainingArguments(
         output_dir=model_dir,
@@ -322,59 +407,57 @@ def fast_predict_all_models(all_texts, all_Y, tokenized_path=None,
     print("Using device:", device)
 
     # 載入 pre-tokenized
-    tokenizer = BertTokenizerFast.from_pretrained(f"{save_path}/allcoins_y0")  # 用 model0 的 tokenizer
+    tokenizer = BertTokenizerFast.from_pretrained(f"{save_path}/allcoins_y")  # 用 model0 的 tokenizer
     encodings = tokenize_and_save(all_texts, tokenizer, max_len=64, save_path=tokenized_path)
     input_ids = torch.stack([e["input_ids"] for e in encodings]).to(device)
     attention_mask = torch.stack([e["attention_mask"] for e in encodings]).to(device)
     n_samples = input_ids.size(0)
-    n_labels = all_Y.shape[1]
 
     os.makedirs(save_path, exist_ok=True)
 
-    for i in range(n_labels):
-        model_dir = f"{save_path}/allcoins_y{i}"
-        print(f"=== Predicting Y[:, {i}] with model {model_dir} ===")
+    model_dir = f"{save_path}/allcoins_y"
+    print(f"=== Predicting Y with model {model_dir} ===")
 
-        model = BertForSequenceClassification.from_pretrained(model_dir).to(device)
-        model.eval()
+    model = BertForSequenceClassification.from_pretrained(model_dir).to(device)
+    model.eval()
 
-        preds_i = []
+    preds = []
 
-        with torch.no_grad():
-            for start in range(0, n_samples, batch_size):
-                end = min(start + batch_size, n_samples)
-                batch_input_ids = input_ids[start:end]
-                batch_attention_mask = attention_mask[start:end]
+    with torch.no_grad():
+        for start in range(0, n_samples, batch_size):
+            end = min(start + batch_size, n_samples)
+            batch_input_ids = input_ids[start:end]
+            batch_attention_mask = attention_mask[start:end]
 
-                outputs = model(input_ids=batch_input_ids, attention_mask=batch_attention_mask)
-                logits = outputs.logits
-                batch_pred = torch.argmax(logits, dim=-1).cpu().numpy()
-                preds_i.append(batch_pred)
+            outputs = model(input_ids=batch_input_ids, attention_mask=batch_attention_mask)
+            logits = outputs.logits
+            batch_pred = torch.argmax(logits, dim=-1).cpu().numpy()
+            preds.append(batch_pred)
 
-                if (start // batch_size) % 50 == 0:
-                    print(f"  Processed {end}/{n_samples} samples")
+            if (start // batch_size) % 50 == 0:
+                print(f"  Processed {end}/{n_samples} samples")
 
-        preds_i = np.concatenate(preds_i)
+    preds = np.concatenate(preds)
 
-        # 建立 DataFrame，只包含當前 label
-        df = pd.DataFrame({
-            "text": all_texts,
-            f"true_y{i}": all_Y[:, i],
-            f"pred_y{i}": preds_i,
-        })
-        df[f"correct_y{i}"] = df[f"true_y{i}"] == df[f"pred_y{i}"]
+    # 建立 DataFrame，只包含當前 label
+    df = pd.DataFrame({
+        "text": all_texts,
+        f"true_y": all_Y,
+        f"pred_y": preds,
+    })
+    df[f"correct_y"] = df[f"true_y"] == df[f"pred_y"]
 
-        # 存檔（每個 label 獨立檔案）
-        csv_path = os.path.join(save_path, f"predictions_y{i}.csv")
-        json_path = os.path.join(save_path, f"predictions_y{i}.json")
-        df.to_csv(csv_path, index=False, encoding="utf-8-sig")
-        df.to_json(json_path, orient="records", force_ascii=False, indent=4)
+    # 存檔（每個 label 獨立檔案）
+    csv_path = os.path.join(save_path, f"predictions_y.csv")
+    json_path = os.path.join(save_path, f"predictions_y.json")
+    df.to_csv(csv_path, index=False, encoding="utf-8-sig")
+    df.to_json(json_path, orient="records", force_ascii=False, indent=4)
 
-        print(f"Saved predictions for label {i} to {csv_path} and {json_path}")
+    print(f"Saved predictions for label to {csv_path} and {json_path}")
 
-        # 清理記憶體
-        del model
-        torch.cuda.empty_cache()
+    # # 清理記憶體
+    # del model
+    # torch.cuda.empty_cache()
 
     print("✅ 全部 label 預測完成！")
 
@@ -385,7 +468,7 @@ def fast_predict_all_models(all_texts, all_Y, tokenized_path=None,
 
 
 def main():
-    data_dir = "../data/filtered_tweets"
+    data_dir = "../data/filtered_tweets/normal_tweets"
     price_dir = "../data/ml/dataset/coin_price"
 
     COIN_SHORT_NAME = ["DOGE", "PEPE", "TRUMP"]
@@ -398,31 +481,33 @@ def main():
     for coin_short_name, json_dict_name in zip(COIN_SHORT_NAME, JSON_DICT_NAME):
         print(f"=== Loading data for {coin_short_name} ===")
         texts = load_tweets(data_dir, coin_short_name, json_dict_name)
-        Y = load_price_diff(price_dir, coin_short_name)  # (N_coin, 5)
+        Y = load_price_diff(price_dir, coin_short_name)  # (N_coin, )
+
+        # print(len(texts))
+        # print(Y.shape[0])
 
         assert len(texts) == Y.shape[0], f"{coin_short_name} texts and Y length mismatch!"
 
         all_texts.extend(texts)
         all_Y.append(Y)
 
-    all_Y = np.vstack(all_Y)  # shape = (N_total, 5)
+    all_Y = np.concatenate(all_Y)  # shape = (N_total, )
 
     if ISTRAIN:
-        for i in range(5):
-            print(f"=== Processing Y[:, {i}] (all coins combined) ===")
-            labels_i = categorize_array_multi(all_Y)[:, i]
-            model_dir = f"{SAVE_PATH}/allcoins_y{i}"
+        print(f"=== Processing Y (all coins combined) ===")
+        labels = categorize_array_multi(all_Y)
+        model_dir = f"{SAVE_PATH}/allcoins_y"
 
-            # 訓練 + 預測全部推文
-            trainer = train_single_model(
-                all_texts,
-                labels_i,
-                num_labels=NUM_LABELS,
-                model_dir=model_dir,
-                epochs=EPOCHS,
-                n_samples=N_SAMPLES,
-                balanced=True
-            )
+        # 訓練 + 預測全部推文
+        trainer = train_single_model(
+            all_texts,
+            labels,
+            num_categories=NUM_CATEGORIES,
+            model_dir=model_dir,
+            epochs=EPOCHS,
+            n_samples=N_SAMPLES,
+            balanced=True
+        )
         
     print("\n開始預測全部推文...")
     # 預測全部推文 + 輸出 CSV/JSON

@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 parent_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(parent_dir))
-from config_PEPE import COIN_SHORT_NAME, JSON_DICT_NAME
+from config import COIN_SHORT_NAME, JSON_DICT_NAME
 
 '''
 要先把價錢和日期的 csv 檔放在 ../data/coin_price 中
@@ -27,13 +27,16 @@ DOGE_price.csv：
 
 
 '''可修改參數'''
-# === 修改為你的 CSV 檔與 JSON 資料夾路徑 ===
 PRICE_CSV_PATH = f"../data/coin_price/{COIN_SHORT_NAME}_price.csv"
-NORMAL_TWEETS_JSON_GLOB = f"../data/filtered_tweets/normal_tweets/{COIN_SHORT_NAME}/*/*/{COIN_SHORT_NAME}_*_normal.json"  # 是針對 normal_tweet 做運算
-OUTPUT_CSV_PATH = f"../data/coin_price/{COIN_SHORT_NAME}_current_tweet_price_output.csv"
 
-# === 自訂時間範圍 (格式：YYYY/MM/DD) ===
-START_DATE = "2024/02/01"  # "2013/12/15"
+OUTPUT_TWEET_COUNT_PATH = "../data/ml/dataset/coin_price"
+
+IS_FILTERED = False  # 看是否有分 normal 與 bot
+
+IS_RUN_AUGUST = True  # 看現在是不是要跑 2025/08 的資料  START_DATE, END_DATE 會固定
+
+START_DATE = "2013/12/15"
+
 END_DATE   = "2025/07/31"
 
 SHIFT = 5
@@ -42,6 +45,28 @@ FIRST_AND_SECOND_CLASSIFIER_Y = True
 
 SECOND_CLASSIFIER_X = True
 '''可修改參數'''
+
+if IS_RUN_AUGUST:
+    START_DATE = "2025/08/01"
+    END_DATE   = "2025/08/31"
+
+SUFFIX_FILTERED = "" if IS_FILTERED else "_non_filtered"
+SUFFIX_AUGUST   = "" if IS_RUN_AUGUST else "_202508"
+
+# === 修改為你的 CSV 檔與 JSON 資料夾路徑 ===
+OUTPUT_CSV_PATH = f"../data/coin_price/{COIN_SHORT_NAME}_current_tweet_price_output{SUFFIX_FILTERED}{SUFFIX_AUGUST}.csv"
+OUTPUT_TWEET_COUNT_PATH_FILE = f"{OUTPUT_TWEET_COUNT_PATH}/{COIN_SHORT_NAME}_current_tweet_count{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json"
+OUTPUT_SECOND_CLASSIFIER_Y = f"{OUTPUT_TWEET_COUNT_PATH}/{COIN_SHORT_NAME}_price_diff_original{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy"
+OUTPUT_FIERT_CLASSIFIER_Y = f"{OUTPUT_TWEET_COUNT_PATH}/{COIN_SHORT_NAME}_price_diff{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy"
+OUTPUT_SECOND_CLASSIFIER_X = f"{OUTPUT_TWEET_COUNT_PATH}/{COIN_SHORT_NAME}_price_diff_past{SHIFT}days{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy"
+
+if IS_FILTERED:
+    NORMAL_TWEETS_JSON_GLOB = f"../data/filtered_tweets/normal_tweets/{COIN_SHORT_NAME}/*/*/{COIN_SHORT_NAME}_*_normal.json"  # 是針對 normal_tweet 做運算
+else:
+    NORMAL_TWEETS_JSON_GLOB = f"../data/tweets/{COIN_SHORT_NAME}/*/*/{COIN_SHORT_NAME}_*.json"  # 是針對 原始 tweets 做運算
+
+
+os.makedirs(OUTPUT_TWEET_COUNT_PATH, exist_ok=True)
 
 
 
@@ -121,16 +146,16 @@ tweet_count_dict = {
 }
 
 # 儲存成 JSON
-output_tweet_count_path = "../data/ml/dataset/coin_price"
-os.makedirs(output_tweet_count_path, exist_ok=True)
-output_tweet_count_path_file = f"{output_tweet_count_path}/{COIN_SHORT_NAME}_current_tweet_count.json"
-with open(output_tweet_count_path_file, "w", encoding="utf-8") as f:
+with open(OUTPUT_TWEET_COUNT_PATH_FILE, "w", encoding="utf-8") as f:
     json.dump(tweet_count_dict, f, ensure_ascii=False, indent=4)
 
-print(f"✅ 已儲存 {COIN_SHORT_NAME}_tweet_count 到 {output_tweet_count_path_file}")
+print(f"✅ 已儲存 {COIN_SHORT_NAME}_tweet_count 到 {OUTPUT_TWEET_COUNT_PATH_FILE}")
 
 total_tweets = sum(tweet_count.values())
-print(f"\n全部 normal_tweet 的推文數量: {total_tweets}\n")
+if IS_FILTERED:
+    print(f"\n全部 normal_tweet 的推文數量: {total_tweets}\n")
+else:
+    print(f"\n全部 原始 tweets 的推文數量: {total_tweets}\n")
 
 # === 建立最終結果表 ===
 output_rows = []
@@ -153,6 +178,7 @@ for current_date in tqdm(tweet_dates, desc="正在儲存價錢"):
                     "tweet_count": 0,
                     "has_tweet": False
                 })
+                print("當天沒有抓到推文：", d)
     # 當前 tweet 日期
     price = price_df.loc[current_date]['price'] if current_date in price_df.index else ""
     output_rows.append({
@@ -234,10 +260,10 @@ if FIRST_AND_SECOND_CLASSIFIER_Y:
 
     # 先存原始的 price_diff_rate_tomorrow
     original_price_diff_array = filtered_df['price_diff_rate_tomorrow'].to_numpy(dtype=float)
-    original_save_path = f"../data/ml/dataset/coin_price/{COIN_SHORT_NAME}_price_diff_original.npy"
-    np.save(original_save_path, original_price_diff_array)
+
+    np.save(OUTPUT_SECOND_CLASSIFIER_Y, original_price_diff_array)
     print(original_price_diff_array[:20])  # 預覽前 20 筆
-    print(f"✅ 已儲存原始 price_diff_rate_tomorrow 矩陣到 {original_save_path}，共: {len(original_price_diff_array)} 筆\n")
+    print(f"✅ 已儲存原始 price_diff_rate_tomorrow 矩陣到 {OUTPUT_SECOND_CLASSIFIER_Y}，共: {len(original_price_diff_array)} 筆\n")
     
 
     # 依 tweet_count 重複價差
@@ -247,11 +273,11 @@ if FIRST_AND_SECOND_CLASSIFIER_Y:
 
     # 轉成 numpy 陣列並儲存
     price_diff_array = np.array(expanded_price_diffs, dtype=float)
-    save_path = f"../data/ml/dataset/coin_price/{COIN_SHORT_NAME}_price_diff.npy"
-    np.save(save_path, price_diff_array)
+    
+    np.save(OUTPUT_FIERT_CLASSIFIER_Y, price_diff_array)
 
     print(expanded_price_diffs[:20])  # 預覽前 20 筆
-    print(f"\n✅ 已儲存 price_diff_rate_tomorrow 矩陣到 {save_path}，共: {len(expanded_price_diffs)} 筆\n")
+    print(f"\n✅ 已儲存 price_diff_rate_tomorrow 矩陣到 {OUTPUT_FIERT_CLASSIFIER_Y}，共: {len(expanded_price_diffs)} 筆\n")
 
 
 
@@ -275,8 +301,7 @@ if SECOND_CLASSIFIER_X:
     all_price_diffs_array = filtered_df[columns_to_save].to_numpy(dtype=float)
 
     # 儲存
-    save_path = f"../data/ml/dataset/coin_price/{COIN_SHORT_NAME}_price_diff_past{SHIFT}days.npy"
-    np.save(save_path, all_price_diffs_array)
+    np.save(OUTPUT_SECOND_CLASSIFIER_X, all_price_diffs_array)
 
     print(all_price_diffs_array[:10])  # 預覽前 20 筆
     print(f"\n✅ 已儲存 {COIN_SHORT_NAME}_price_diff_past{SHIFT}days.npy，形狀: {all_price_diffs_array.shape}")

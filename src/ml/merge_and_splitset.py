@@ -12,14 +12,19 @@ from pulp import LpProblem, LpVariable, LpMinimize, LpBinary, lpSum, PULP_CBC_CM
 '''可修改參數'''
 INPUT_PATH = "../data/ml/dataset"
 
-MIN_COUNT = 10  # 設定刪掉出現次數 <= MIN_COUNT 的關鍵詞 (column)
+# MIN_COUNT = 10  # 設定刪掉出現次數 <= MIN_COUNT 的關鍵詞 (column)
 
 TOLERANCE = 100  # 資料集中誤差推文數值 (100 => +-100)
 
 # LABEL_COUNT = 5  # Y 中有幾組 labels
 
 random.seed(42)  # 42 可以換成你想要的數字
+
+IS_FILTERED = False  # 看是否有分 normal 與 bot
 '''可修改參數'''
+
+SUFFIX = "" if IS_FILTERED else "_non_filtered"
+
 
 
 
@@ -45,7 +50,7 @@ def print_label_distribution(Y_train, Y_val, Y_test, COIN_SHORT_NAME, split_val=
         val_up, val_down, val_total, val_up_ratio, val_down_ratio = get_stats(Y_val)
     test_up, test_down, test_total, test_up_ratio, test_down_ratio = get_stats(Y_test)
 
-    print(f"{COIN_SHORT_NAME} 標籤分佈：")
+    print(f"{COIN_SHORT_NAME}{SUFFIX} 標籤分佈：")
     print(f"  Train: 總數 {train_total}, 漲 {train_up} ({train_up_ratio:.2%}), 跌 {train_down} ({train_down_ratio:.2%})")
     if split_val:
         print(f"  Val  : 總數 {val_total}, 漲 {val_up} ({val_up_ratio:.2%}), 跌 {val_down} ({val_down_ratio:.2%})")
@@ -130,7 +135,7 @@ def balance_sets_by_swap(train_df, val_df, test_df, target_ratios=(0.8,0.1,0.1))
 def splitset_dates(COIN_SHORT_NAME):
 
     # --- 讀取每條推文的 ID .pkl ---
-    with open(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_ids.pkl", "rb") as f:   # rb = read binary
+    with open(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_ids{SUFFIX}.pkl", "rb") as f:   # rb = read binary
         ids = pickle.load(f)  # array[('coin', 'date', 'no.'), (str, '%Y-%m-%d', int)]
     dates = np.array([row[1] for row in ids])  # 只把 'date' 取出來，並轉成 np.array
     
@@ -150,12 +155,12 @@ def splitset_dates(COIN_SHORT_NAME):
     # 儲存 JSON
     json_output_path = f"{INPUT_PATH}/coin_price"
     os.makedirs(json_output_path, exist_ok=True)
-    with open(f"{json_output_path}/{COIN_SHORT_NAME}_filtered_tweet_count.json", "w", encoding="utf-8") as f:
+    with open(f"{json_output_path}/{COIN_SHORT_NAME}_filtered_tweet_count{SUFFIX}.json", "w", encoding="utf-8") as f:
         json.dump(date_count_dict, f, ensure_ascii=False, indent=4)
 
 
     # --- 讀 JSON ---
-    with open(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_filtered_tweet_count.json", "r", encoding="utf-8") as f:
+    with open(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_filtered_tweet_count{SUFFIX}.json", "r", encoding="utf-8") as f:
         tweet_count_dict = json.load(f)
 
     # --- 轉成 DataFrame ---
@@ -186,9 +191,9 @@ def splitset_dates(COIN_SHORT_NAME):
 
     csv_output_path = f"{INPUT_PATH}/split_dates"
     os.makedirs(csv_output_path, exist_ok=True)
-    train_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_train_dates.csv", index=False, encoding="utf-8-sig")
-    val_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_val_dates.csv", index=False, encoding="utf-8-sig")
-    test_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_test_dates.csv", index=False, encoding="utf-8-sig")
+    train_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_train_dates{SUFFIX}.csv", index=False, encoding="utf-8-sig")
+    val_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_val_dates{SUFFIX}.csv", index=False, encoding="utf-8-sig")
+    test_df_sorted.to_csv(f"{csv_output_path}/{COIN_SHORT_NAME}_test_dates{SUFFIX}.csv", index=False, encoding="utf-8-sig")
 
     # --- 展開成每條推文一個單位 ---
     dates_train_expanded = expand_by_tweet(train_df)
@@ -203,38 +208,44 @@ def splitset_dates(COIN_SHORT_NAME):
 def splitset_XY(COIN_SHORT_NAME, split_val=False):
 
     # 讀取稀疏矩陣
-    X = sparse.load_npz(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_X_sparse.npz")  # 二維陣列：colunm(關鍵詞) row(某天某推文) (但這裡是稀疏矩陣的格式)
+    X = sparse.load_npz(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_X_sparse{SUFFIX}.npz")  # 二維陣列：colunm(關鍵詞) row(某天某推文) (但這裡是稀疏矩陣的格式)
     
     # 一維陣列：存放與 X row 對應的 ID
-    with open(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_ids.pkl", "rb") as f:   # rb = read binary
+    with open(f"{INPUT_PATH}/keyword/{COIN_SHORT_NAME}_ids{SUFFIX}.pkl", "rb") as f:   # rb = read binary
         ids = pickle.load(f)  # array[('coin', 'date', 'no.'), (str, '%Y-%m-%d', int)
     ids = np.array(ids)  # 把 ids 轉成 numpy array
     dates = np.array([row[1] for row in ids])  # 只把 'date' 取出來，並轉成 np.array
 
     # 讀取三個集合的日期 (切割好的 CSV) 
-    train_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_train_dates.csv")['date']
-    val_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_val_dates.csv")['date']
-    test_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_test_dates.csv")['date']
+    train_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_train_dates{SUFFIX}.csv")['date']
+    val_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_val_dates{SUFFIX}.csv")['date']
+    test_dates = pd.read_csv(f"{INPUT_PATH}/split_dates/{COIN_SHORT_NAME}_test_dates{SUFFIX}.csv")['date']
 
     # 讀取 price_diff.npy
-    Y_all = np.load(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_price_diff.npy")  # shape = (總推文數, 1)
+    Y_all = np.load(f"{INPUT_PATH}/coin_price/{COIN_SHORT_NAME}_price_diff{SUFFIX}.npy")  # shape = (總推文數, 1)
 
 
     # 輸出長度 確保一致性
-    print(f"{COIN_SHORT_NAME}：")
+    print(f"{COIN_SHORT_NAME}{SUFFIX}：")
     print("X.shape[0] =", X.shape[0])
     print("ids.shape[0] =", len(ids))
     print("Y.shape[0] =", Y_all.shape[0],"\n")
+
+    print(f"{COIN_SHORT_NAME}{SUFFIX} 的 Y_all 有 {np.sum(Y_all == 0)} 個 0")
 
 
 
     # 把 date 轉成 datetime 格式，方便比對
     dates_datetime = pd.to_datetime(dates)
 
+    print(dates_datetime)
+
     # 轉成 datetime
     train_dates = pd.to_datetime(train_dates)
     val_dates   = pd.to_datetime(val_dates)
     test_dates  = pd.to_datetime(test_dates)
+
+    print(train_dates)
 
     # 找出 index   逐筆檢查 date 中的每一個值，判斷它是否在 train_dates 裡
     train_mask = dates_datetime.isin(train_dates)
@@ -262,6 +273,9 @@ def splitset_XY(COIN_SHORT_NAME, split_val=False):
         Y_test = np.concatenate([Y_val, Y_test])
         ids_test = np.concatenate([ids_val, ids_test])
         X_val, Y_val, ids_val = None, None, None  # 不返回 validation
+
+    print(f"{COIN_SHORT_NAME}{SUFFIX} 的 Y_train 有 {np.sum(Y_train == 0)} 個 0")
+    print(f"{COIN_SHORT_NAME}{SUFFIX} 的 Y_test 有 {np.sum(Y_test == 0)} 個 0")
 
     # 列印各個幣種 split 後 每個資料集的漲跌比例
     # print(Y_train.shape)
@@ -295,14 +309,13 @@ def filter_XY(X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val
             
 
     invalid_rows = -1
-    delete_min_count = -1
     delete_only_test = -1
 
     total_delete_rows = 0
     total_delete_columns = 0
 
     # 若還有功能是可以刪資料的，就再繼續跑
-    while invalid_rows != 0 or delete_min_count != 0 or delete_only_test != 0:
+    while invalid_rows != 0 or delete_only_test != 0:
 
         # --- 功能 1: 刪掉沒有任何關鍵詞的推文 (刪 row) ---
         # train
@@ -330,34 +343,34 @@ def filter_XY(X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val
 
 
         # --- 功能 2: 刪掉在 train 中出現次數 <= min_count 的關鍵詞 (刪 column) ---
-        col_sums = np.array(X_train.sum(axis=0)).ravel()
-        valid_cols = np.where(col_sums > MIN_COUNT)[0]
+        # col_sums = np.array(X_train.sum(axis=0)).ravel()
+        # valid_cols = np.where(col_sums > MIN_COUNT)[0]
 
-        # 每個關鍵詞的出現次數統計
-        keyword_counts = {all_vocab[i]: int(col_sums[i]) for i in range(len(all_vocab))}
-        stats_output_path = os.path.join(INPUT_PATH, "keyword", "keyword_counts.json")
-        with open(stats_output_path, "w", encoding="utf-8") as f:
-            json.dump(keyword_counts, f, ensure_ascii=False, indent=4)
+        # # 每個關鍵詞的出現次數統計
+        # keyword_counts = {all_vocab[i]: int(col_sums[i]) for i in range(len(all_vocab))}
+        # stats_output_path = os.path.join(INPUT_PATH, "keyword", "keyword_counts.json")
+        # with open(stats_output_path, "w", encoding="utf-8") as f:
+        #     json.dump(keyword_counts, f, ensure_ascii=False, indent=4)
 
-        # 開始過濾
-        X_train = X_train[:, valid_cols]
-        X_test  = X_test[:, valid_cols]
-        if X_val is not None:
-            X_val = X_val[:, valid_cols]
+        # # 開始過濾
+        # X_train = X_train[:, valid_cols]
+        # X_test  = X_test[:, valid_cols]
+        # if X_val is not None:
+        #     X_val = X_val[:, valid_cols]
 
-        filtered_vocab = [all_vocab[i] for i in valid_cols]
-        delete_min_count = len(all_vocab) - len(filtered_vocab)
-        total_delete_columns += delete_min_count
-        print("功能 2: 刪掉出現次數 <= min_count 的關鍵詞 (column):")
-        print(f"\t原始 column 數量: {len(all_vocab)}")
-        print(f"\t保留 column 數量: {len(filtered_vocab)}")
-        print(f"\t刪掉 column 數量: {delete_min_count}\n")
+        # filtered_vocab = [all_vocab[i] for i in valid_cols]
+        # delete_min_count = len(all_vocab) - len(filtered_vocab)
+        # total_delete_columns += delete_min_count
+        # print("功能 2: 刪掉出現次數 <= min_count 的關鍵詞 (column):")
+        # print(f"\t原始 column 數量: {len(all_vocab)}")
+        # print(f"\t保留 column 數量: {len(filtered_vocab)}")
+        # print(f"\t刪掉 column 數量: {delete_min_count}\n")
 
-        with open(os.path.join(f"{INPUT_PATH}/keyword", f"filtered_keywords.json"), "w", encoding="utf-8") as f:
-            json.dump(filtered_vocab, f, ensure_ascii=False, indent=4)  
+        # with open(os.path.join(f"{INPUT_PATH}/keyword", f"filtered_keywords.json"), "w", encoding="utf-8") as f:
+        #     json.dump(filtered_vocab, f, ensure_ascii=False, indent=4)  
 
 
-        # --- 功能 3: 只保留 train 出現過的關鍵詞 (刪 column) --- 
+        # --- 功能 2: 只保留 train 出現過的關鍵詞 (刪 column) --- 
         '''
         X_train.nonzero() 會回傳一個 tuple (row_idx, col_idx)：
         row_idx → 非零元素所在的 row（推文 index）。
@@ -373,20 +386,30 @@ def filter_XY(X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val
         keep_cols = np.unique(X_train.nonzero()[1])  # train 出現過的 column index
         new_cols = len(keep_cols)
 
+        # 每個關鍵詞的出現次數統計
+        col_sums = np.array(X_train.sum(axis=0)).ravel()
+        keyword_counts = {all_vocab[i]: int(col_sums[i]) for i in range(len(all_vocab))}
+        stats_output_path = os.path.join(INPUT_PATH, "keyword", f"keyword_counts{SUFFIX}.json")
+        with open(stats_output_path, "w", encoding="utf-8") as f:
+            json.dump(keyword_counts, f, ensure_ascii=False, indent=4)
+
         # column 過濾
         X_train = X_train[:, keep_cols]  # [:, keep_cols] 表示「保留所有 row，但只取出 keep_cols 這些 column」。
         X_test  = X_test[:, keep_cols]
         if X_val is not None:
             X_val = X_val[:, keep_cols]
         if all_vocab is not None:
-            all_vocab = [all_vocab[i] for i in keep_cols]
+            filtered_vocab = [all_vocab[i] for i in keep_cols]
 
         delete_only_test = orig_cols - new_cols
         total_delete_columns += delete_only_test
-        print("功能 3: 只保留 train 出現過的關鍵詞 (column):")
+        print("功能 2: 只保留 train 出現過的關鍵詞 (column):")
         print(f"\t原始 column 數量: {orig_cols}")
         print(f"\t保留 column 數量: {new_cols}")
         print(f"\t刪掉 column 數量: {delete_only_test}\n")
+
+        with open(os.path.join(f"{INPUT_PATH}/keyword", f"filtered_keywords{SUFFIX}.json"), "w", encoding="utf-8") as f:
+            json.dump(filtered_vocab, f, ensure_ascii=False, indent=4)  
 
     print(f"總共刪除 {total_delete_rows} 個推文 (row), {total_delete_columns} 個關鍵詞 (column)")
     print(f"Train 總共保留 {X_train.shape[0]} 個推文 (row), {X_train.shape[1]} 個關鍵詞 (column)\n")
@@ -435,7 +458,7 @@ def count_per_day(ids, dataset_name):
     date_counts = dates_dt.value_counts().sort_index()  # 按日期排序
     df_counts = pd.DataFrame({"date": date_counts.index, "tweet_count": date_counts.values})
 
-    df_counts.to_csv(f"{INPUT_PATH}/dates_{dataset_name}_counts.csv", index=False)
+    df_counts.to_csv(f"{INPUT_PATH}/dates_{dataset_name}_counts{SUFFIX}.csv", index=False)
 
     return df_counts
 
@@ -472,7 +495,7 @@ def merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_
 
     # 將不必要的關鍵詞與推文刪除
     X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val, ids_test = filter_XY(X_train, X_val, X_test, Y_train, Y_val, Y_test, ids_train, ids_val, ids_test, all_vocab)
-    print(ids_train.shape)
+    # print(ids_train.shape)
 
 
     # 打亂順序
@@ -482,24 +505,27 @@ def merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_
         X_val, Y_val, ids_val = shuffle_XY(X_val, Y_val, ids_val)
 
     # 儲存
-    sparse.save_npz(f"{INPUT_PATH}/X_train.npz", X_train)
-    sparse.save_npz(f"{INPUT_PATH}/X_test.npz", X_test)
-    np.savez_compressed(f"{INPUT_PATH}/Y_train.npz", Y=Y_train)
-    np.savez_compressed(f"{INPUT_PATH}/Y_test.npz",  Y=Y_test)
+    sparse.save_npz(f"{INPUT_PATH}/X_train{SUFFIX}.npz", X_train)
+    sparse.save_npz(f"{INPUT_PATH}/X_test{SUFFIX}.npz", X_test)
+    np.savez_compressed(f"{INPUT_PATH}/Y_train{SUFFIX}.npz", Y=Y_train)
+    np.savez_compressed(f"{INPUT_PATH}/Y_test{SUFFIX}.npz",  Y=Y_test)
+
+    print(f"Y_train{SUFFIX} 有 {np.sum(Y_train == 0)} 個 0")
+    print(f"Y_test{SUFFIX} 有 {np.sum(Y_test == 0)} 個 0")
 
     if X_val is not None:
-        sparse.save_npz(f"{INPUT_PATH}/X_val.npz", X_val)
-        np.savez_compressed(f"{INPUT_PATH}/Y_val.npz", Y=Y_val)
+        sparse.save_npz(f"{INPUT_PATH}/X_val{SUFFIX}.npz", X_val)
+        np.savez_compressed(f"{INPUT_PATH}/Y_val{SUFFIX}.npz", Y=Y_val)
 
     if ids_train is not None:
         print(ids_train.shape)
         print(ids_test.shape)
-        with open(f"{INPUT_PATH}/ids_train.pkl", 'wb') as file:
+        with open(f"{INPUT_PATH}/ids_train{SUFFIX}.pkl", 'wb') as file:
             pickle.dump(ids_train.tolist(), file)
-        with open(f"{INPUT_PATH}/ids_test.pkl", 'wb') as file:
+        with open(f"{INPUT_PATH}/ids_test{SUFFIX}.pkl", 'wb') as file:
             pickle.dump(ids_test.tolist(), file)
         if ids_val is not None:
-            with open(f"{INPUT_PATH}/ids_val.pkl", 'wb') as file:
+            with open(f"{INPUT_PATH}/ids_val{SUFFIX}.pkl", 'wb') as file:
                 pickle.dump(ids_val.tolist(), file)
 
     # 檢查資料集維度
@@ -509,7 +535,7 @@ def merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_
         assert X_val.shape[0] == Y_val.shape[0] == len(ids_val), "Val 維度不一致!"
 
 
-    print("Merge 完成，資料已輸出到 ../data/ml/dataset\n")
+    print(f"Merge{SUFFIX} 完成，資料已輸出到 ../data/ml/dataset\n")
 
     # 列印 merge, filter 後 每個資料集的漲跌比例
     # print(Y_train.shape)
@@ -533,7 +559,7 @@ def merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_
 # --- 列印平衡好的結果 ---
 def print_split_number(train_expanded, val_expanded, test_expanded, COIN_SHORT_NAME):
     sum = len(train_expanded) + len(val_expanded) + len(test_expanded)
-    print(COIN_SHORT_NAME + "：")
+    print(f"{COIN_SHORT_NAME}{SUFFIX}：")
     print(f"理論值 Train: {int(sum * 0.8)},                Val: {int(sum * 0.1)},                Test: {int(sum * 0.1)}")
     print(f"實際值 Train: {len(train_expanded)} ({round((len(train_expanded) / sum), 10)}), Val: {len(val_expanded)} ({round((len(val_expanded) / sum), 10)}), Test: {len(test_expanded)} ({round((len(test_expanded) / sum), 10)})\n")
 
@@ -556,7 +582,7 @@ def main():
     
     
     # 讀取所有關鍵詞的名字
-    json_path = os.path.join("../data/keyword/machine_learning", "all_keywords.json")
+    json_path = os.path.join("../data/keyword/machine_learning", f"all_keywords{SUFFIX}.json")
     with open(json_path, "r", encoding="utf-8") as f:
         vocab = json.load(f)
 
@@ -568,7 +594,7 @@ def main():
     print(PEPE_ids_test.shape)
     print(TRUMP_ids_train.shape)
     print(TRUMP_ids_test.shape)
-    
+
     # 合併資料集
     merge(DOGE_X_train, DOGE_X_val, DOGE_X_test, DOGE_Y_train, DOGE_Y_val, DOGE_Y_test,
         PEPE_X_train, PEPE_X_val, PEPE_X_test, PEPE_Y_train, PEPE_Y_val, PEPE_Y_test,
