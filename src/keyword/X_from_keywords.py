@@ -14,11 +14,11 @@ import pickle
 # === 匯入 config ===
 parent_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(parent_dir))
-from config_PEPE import JSON_DICT_NAME, COIN_SHORT_NAME
+from config import JSON_DICT_NAME, COIN_SHORT_NAME
 
 
 '''可修改參數'''
-IS_FILTERED = True  # 看是否有分 normal 與 bot
+IS_FILTERED = False  # 看是否有分 normal 與 bot
 
 IS_RUN_AUGUST = False  # 看現在是不是要跑 2025/08 的資料  START_DATE, END_DATE 會固定
 
@@ -44,7 +44,7 @@ if IS_RUN_AUGUST:
     END_DATE   = "2025/08"
 
 SUFFIX_FILTERED = "" if IS_FILTERED else "_non_filtered"
-SUFFIX_AUGUST   = "" if IS_RUN_AUGUST else "_202508"
+SUFFIX_AUGUST   = "_202508" if IS_RUN_AUGUST else ""
 
 
 
@@ -92,11 +92,13 @@ for year_folder in glob(TWEET_DIR):
         # 找出這個月的所有 JSON
         if IS_FILTERED:
             pattern = os.path.join(month_folder, f"{COIN_SHORT_NAME}_*_normal.json")
+            print(pattern)
         else:
             pattern = os.path.join(month_folder, f"{COIN_SHORT_NAME}_*.json")
+            print(pattern)
         all_files.extend(glob(pattern))
 
-json_files = all_files
+json_files = sorted(all_files)
 print(f"找到 {len(json_files)} 個檔案可處理")
 
 # === 用稀疏矩陣的三元組格式 (row, col, data) ===

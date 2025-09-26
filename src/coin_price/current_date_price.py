@@ -31,15 +31,15 @@ PRICE_CSV_PATH = f"../data/coin_price/{COIN_SHORT_NAME}_price.csv"
 
 OUTPUT_TWEET_COUNT_PATH = "../data/ml/dataset/coin_price"
 
-IS_FILTERED = False  # 看是否有分 normal 與 bot
+IS_FILTERED = True  # 看是否有分 normal 與 bot
 
-IS_RUN_AUGUST = True  # 看現在是不是要跑 2025/08 的資料  START_DATE, END_DATE 會固定
+IS_RUN_AUGUST = False  # 看現在是不是要跑 2025/08 的資料  START_DATE, END_DATE 會固定
 
 START_DATE = "2013/12/15"
 
 END_DATE   = "2025/07/31"
 
-SHIFT = 5
+SHIFT = 5  # 設定現在要多少天前的資料
 
 FIRST_AND_SECOND_CLASSIFIER_Y = True
 
@@ -51,7 +51,7 @@ if IS_RUN_AUGUST:
     END_DATE   = "2025/08/31"
 
 SUFFIX_FILTERED = "" if IS_FILTERED else "_non_filtered"
-SUFFIX_AUGUST   = "" if IS_RUN_AUGUST else "_202508"
+SUFFIX_AUGUST   = "_202508" if IS_RUN_AUGUST else ""
 
 # === 修改為你的 CSV 檔與 JSON 資料夾路徑 ===
 OUTPUT_CSV_PATH = f"../data/coin_price/{COIN_SHORT_NAME}_current_tweet_price_output{SUFFIX_FILTERED}{SUFFIX_AUGUST}.csv"
@@ -90,9 +90,18 @@ else:
     print(f"⚠️ 發現 {len(missing_days)} 天缺少價格資料")
     print(missing_days[:50])  # 只印出前 50 天，避免太多
 
+# 取得 price_df 的最早日期
+earliest_date = price_df.index.min()
 
-# 🔹 過濾價格資料到時間範圍內
-price_df = price_df.loc[(price_df.index >= START_DATE_DT) & (price_df.index <= END_DATE_DT + pd.Timedelta(days=1))]
+# 如果前面至少有 5 天，就往前扣；否則就從最早日期開始
+adjusted_start = max(START_DATE_DT - pd.Timedelta(days=SHIFT), earliest_date)
+print("adjusted_start:", adjusted_start)
+
+# 過濾價格資料到時間範圍內
+price_df = price_df.loc[
+    (price_df.index >= adjusted_start) &
+    (price_df.index <= END_DATE_DT + pd.Timedelta(days=1))
+]
 
 
 # === 儲存推文資訊 若當天沒有推文則不會加進去 set 中 ===
@@ -233,16 +242,21 @@ df_output['price_diff_rate_tomorrow'] = df_output['price_diff_tomorrow'] / df_ou
 # 動態生成「往回 SHIFT 天」的價差與變化率
 for i in range(1, SHIFT + 1):
     col_price_prev = f"price_{i}daysbefore"
-    df_output[col_price_prev] = df_output['price'].shift(i)
+
+    # 計算明天價格：直接用 price_map 查隔天
+    df_output[col_price_prev] = df_output['date_dt'].apply(
+        lambda x: price_map.get(x - pd.Timedelta(days=i), np.nan)
+    )
 
     col_diff = f"price_diff_{i}daysbefore"
     col_rate = f"price_diff_rate_{i}daysbefore"
 
-    # 價差： (i-1) 天前價格 - i 天前價格
-    df_output[col_diff] = df_output['price'].shift(i - 1) - df_output['price'].shift(i)
-
-    # 價差變化率：差 ÷ i 天前價格
-    df_output[col_rate] = df_output[col_diff] / df_output['price'].shift(i)
+    # 價差與變化率
+    if i == 1:
+        df_output[col_diff] = df_output['price'] - df_output[col_price_prev]
+    else:
+        df_output[col_diff] = df_output[f"price_{i - 1}daysbefore"] - df_output[col_price_prev]
+    df_output[col_rate] = df_output[col_diff] / df_output[col_price_prev]
 
 # 移除輔助欄位（所有 shift 出來的 price_*）
 drop_cols = ['date_dt'] + ['price_tomorrow'] + [f"price_{i}daysbefore" for i in range(1, SHIFT + 1)]

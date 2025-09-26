@@ -1,0 +1,686 @@
+{
+    "TRUMP": {
+        "2025-08-01": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                1,
+                0,
+                13,
+                5,
+                47
+            ],
+            "total_counts": 66,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-02": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                2,
+                33,
+                0,
+                42
+            ],
+            "total_counts": 77,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-03": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                19,
+                5,
+                72
+            ],
+            "total_counts": 96,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-04": {
+            "true_label": 3,
+            "majority_pred": 2,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                9,
+                0,
+                5
+            ],
+            "total_counts": 14,
+            "pred_symbols": [
+                "⚪"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-05": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-06": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                0,
+                22
+            ],
+            "total_counts": 22,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-07": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                6,
+                1,
+                28
+            ],
+            "total_counts": 35,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-08": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                33,
+                7,
+                126
+            ],
+            "total_counts": 166,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-09": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                23,
+                4,
+                71
+            ],
+            "total_counts": 98,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-10": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                0,
+                4
+            ],
+            "total_counts": 4,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-11": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-12": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                12,
+                6,
+                62
+            ],
+            "total_counts": 80,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-13": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                1,
+                1,
+                44,
+                12,
+                218
+            ],
+            "total_counts": 276,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-14": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                3,
+                76,
+                7,
+                201
+            ],
+            "total_counts": 287,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-15": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                6,
+                57,
+                14,
+                233
+            ],
+            "total_counts": 312,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-16": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                5,
+                5,
+                55,
+                7,
+                236
+            ],
+            "total_counts": 308,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-17": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                1,
+                2,
+                24,
+                1,
+                67
+            ],
+            "total_counts": 95,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-18": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                7,
+                11,
+                36
+            ],
+            "total_counts": 54,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-19": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                19,
+                5,
+                66,
+                10,
+                262
+            ],
+            "total_counts": 362,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-20": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                2,
+                17,
+                9,
+                29
+            ],
+            "total_counts": 57,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-21": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                1,
+                2,
+                34,
+                15,
+                139
+            ],
+            "total_counts": 191,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-22": {
+            "true_label": 4,
+            "majority_pred": 4,
+            "majority_correct": true,
+            "class_counts": [
+                1,
+                3,
+                49,
+                8,
+                115
+            ],
+            "total_counts": 176,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟢"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-23": {
+            "true_label": 2,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                1,
+                156,
+                14,
+                365
+            ],
+            "total_counts": 536,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "⚪"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-24": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                62,
+                5,
+                88
+            ],
+            "total_counts": 155,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-25": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                8,
+                111,
+                25,
+                372
+            ],
+            "total_counts": 518,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-26": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                1,
+                0,
+                8,
+                0,
+                29
+            ],
+            "total_counts": 38,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-27": {
+            "true_label": 2,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                4,
+                70,
+                52,
+                303
+            ],
+            "total_counts": 431,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "⚪"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-28": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                1,
+                3,
+                55,
+                5,
+                74
+            ],
+            "total_counts": 138,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-29": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                1,
+                4,
+                13,
+                5,
+                99
+            ],
+            "total_counts": 122,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-30": {
+            "true_label": 2,
+            "majority_pred": 2,
+            "majority_correct": true,
+            "class_counts": [
+                1,
+                7,
+                152,
+                32,
+                114
+            ],
+            "total_counts": 306,
+            "pred_symbols": [
+                "⚪"
+            ],
+            "true_symbols": [
+                "⚪"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-31": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                1,
+                1,
+                25,
+                2,
+                59
+            ],
+            "total_counts": 88,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        }
+    }
+}
