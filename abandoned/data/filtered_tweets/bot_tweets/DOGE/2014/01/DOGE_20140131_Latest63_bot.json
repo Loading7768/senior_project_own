@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "Josh",
+            "user_account": "_joshcohen_",
+            "text": "Work pay me in Dogecoin",
+            "created_at": "Fri Jan 31 23:10:04 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=661 #dogecoin, 1 #DOGE = $0.0015 or 188 satoshi ( Coin-E:190 BTER:188 Vircurex:187 Cryptsy:188 ), Coinbase BTC:$804",
+            "created_at": "Fri Jan 31 23:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "The Crypto Post",
+            "user_account": "TheCryptoPost",
+            "text": "Friday 22:30: 1.#bitcoin 2.#litecoin 3.#peercoin 4.#dogecoin 5.#namecoin #altcoins PDF: http://t.co/Ux3g0ukDBo http://t.co/RdevPL7vxW",
+            "created_at": "Fri Jan 31 22:30:31 +0000 2014",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        }
+    ]
+}

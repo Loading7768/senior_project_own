@@ -1,0 +1,34 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "Brick",
+            "user_account": "Why_lent",
+            "text": "Dogecoin http://t.co/4As0p0zLFv",
+            "created_at": "Thu Feb 13 23:57:43 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "N",
+            "user_account": "ShobulN",
+            "text": "@steveklabnik http://t.co/UsLueIgFzm @computionist this startup is not looking bad at all",
+            "created_at": "Thu Feb 13 23:40:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "N",
+            "user_account": "ShobulN",
+            "text": "@BenDoernberg http://t.co/UsLueIgFzm a few other reasons why #dogecoin is here to stay",
+            "created_at": "Thu Feb 13 23:38:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

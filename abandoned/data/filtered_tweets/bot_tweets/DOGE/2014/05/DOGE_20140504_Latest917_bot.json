@@ -1,0 +1,674 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "Jared",
+            "user_account": "YouWent2Jared",
+            "text": "@Lionel_Racing make a Dogecoin car",
+            "created_at": "Sun May 04 23:52:42 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=2097 #dogecoin, 1 #DOGE = $0.0005 or 108 satoshi ( Coin-E:109 BTER:108 Cryptsy:108 ), Coinbase BTC:$440",
+            "created_at": "Sun May 04 23:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "http://t.co/ee28kJloIQ balance is 999999.480911 doge #dogeodds #dogecoin",
+            "created_at": "Sun May 04 23:00:02 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 56.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 64056 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 22:48:54 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5,
+            "username": "CTA",
+            "user_account": "AltCrypt",
+            "text": "@tipreddcoin +give @trutherbot 1000 RDD #TipReddcoinWeek #dogecar #dogecoin",
+            "created_at": "Sun May 04 22:48:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": ".",
+            "user_account": "AKBDQN",
+            "text": "&gt;dogecoin \n\nI aint even mad\n\nhttps://t.co/uT5xuDTXlS",
+            "created_at": "Sun May 04 22:36:30 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "Daniel",
+            "user_account": "ITArtillery",
+            "text": "RT @NASCAR @dogecoin Gotten quite a few photo requests for this underdoge:  http://t.co/Flj2IeKdPM &lt; #Doge #SuchSpeed #MuchPerformance #Wow",
+            "created_at": "Sun May 04 22:30:06 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "GoodShibe",
+            "user_account": "GoodShibe",
+            "text": "If you've been on the fence about checking out that #Dogecoin thing, now's a great chance to come see us at our best! http://t.co/xHNrM40N65",
+            "created_at": "Sun May 04 22:25:29 +0000 2014",
+            "retweet": 4,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9,
+            "username": "CTA",
+            "user_account": "AltCrypt",
+            "text": "@tipreddcoin +give @richardbranson 1000 RDD #TipReddcoinWeek #dogecar #dogecoin",
+            "created_at": "Sun May 04 22:18:43 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10,
+            "username": "Matt",
+            "user_account": "w00dStok",
+            "text": "There was a Dogecoin stock car in a #NASCAR race today? Checkmate, bitcoin.",
+            "created_at": "Sun May 04 22:08:59 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=2089 #dogecoin, 1 #DOGE = $0.0005 or 109 satoshi ( Coin-E:109 BTER:109 Cryptsy:109 ), Coinbase BTC:$439",
+            "created_at": "Sun May 04 22:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 12,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "http://t.co/ee28kJloIQ balance is 1000000.49091 doge #dogeodds #dogecoin",
+            "created_at": "Sun May 04 22:00:02 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "CTA",
+            "user_account": "AltCrypt",
+            "text": "@tipreddcoin +give @maxkeiser 90 RDD #TipReddcoinWeek #dogecar #dogecoin",
+            "created_at": "Sun May 04 21:59:40 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 14,
+            "username": "Alex",
+            "user_account": "ferrarimanf355",
+            "text": "@NASCAR What about the @dogecoin car? #tothemoon",
+            "created_at": "Sun May 04 21:54:16 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "CTA",
+            "user_account": "AltCrypt",
+            "text": "@tipreddcoin +give @BryceWeiner 300 RDD #TipReddcoinWeek #dogecar #dogecoin",
+            "created_at": "Sun May 04 21:44:49 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 16,
+            "username": "CrowdMapped",
+            "user_account": "crowdmapped",
+            "text": "#Crowdfunding Impacts @Dogecoin and the @NASCAR Scene http://t.co/3k6hET1qnr… #racing #sports @reddit @Josh_Wise",
+            "created_at": "Sun May 04 21:30:42 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 17,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 23.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 38899 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:21:55 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 18,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 10000.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 35004 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:20:15 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 25.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 23832 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:19:53 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 20,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 50.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 30414 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:17:49 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 50.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 23986 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:17:31 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 10000.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 33 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:17:12 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 2450.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 33394 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:16:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 24,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 1000.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 55301 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:15:32 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 344.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 58561 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:14:55 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 26,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 5.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 47931 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:14:29 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 546.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 49407 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:14:17 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 28,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 5.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 54980 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:14:00 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 29,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 200.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 61549 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:13:36 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 30,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 100.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 65304 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:12:44 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 31,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 100.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 53856 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:11:30 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 32,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 50.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 16137 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:08:52 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 33,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 800.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 43033 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:08:12 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 400.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 7258 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:08:02 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 35,
+            "username": "Cryptiv",
+            "user_account": "Cryptiv",
+            "text": "@Josh_WIse and his #dogecar finished 20th at 'Dega! Congrates to Josh and his team @PPR98 #dogecoin #NASCAR",
+            "created_at": "Sun May 04 21:07:16 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 36,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 1.03 Doge on http://t.co/ee28kJloIQ and WON with roll: 26493 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:04:21 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 37,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=2099 #dogecoin, 1 #DOGE = $0.0005 or 108 satoshi ( Coin-E:109 BTER:108 Cryptsy:108 ), Coinbase BTC:$440",
+            "created_at": "Sun May 04 21:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 38,
+            "username": "Bunkie Perkins",
+            "user_account": "BunkiePerkins",
+            "text": "The Doge Coin car. Much fast @Reddit #Talladega http://t.co/J200NmzivH",
+            "created_at": "Sun May 04 21:00:50 +0000 2014",
+            "retweet": 0,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 39,
+            "username": "Bunkie Perkins",
+            "user_account": "BunkiePerkins",
+            "text": "The Doge Coin car. Much fast. #Talladega http://t.co/qUMnZYoYrJ",
+            "created_at": "Sun May 04 21:00:50 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 40,
+            "username": "Bunkie Perkins",
+            "user_account": "BunkiePerkins",
+            "text": "The Doge Coin car. Much fast. #Talladega @Reddit http://t.co/4XpWjgyMs3",
+            "created_at": "Sun May 04 21:00:50 +0000 2014",
+            "retweet": 1,
+            "likes": 3,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 41,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "http://t.co/ee28kJloIQ balance is 999870.650911 doge #dogeodds #dogecoin",
+            "created_at": "Sun May 04 21:00:02 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 42,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 25.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 948 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:57:05 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 50.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 17994 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:56:47 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 44,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 25.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 46826 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:56:32 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 45,
+            "username": ".",
+            "user_account": "PlanetX1",
+            "text": "now that Dogecoin and Nascar have united, we can now banish both of them to the void.",
+            "created_at": "Sun May 04 20:37:45 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "Ryan",
+            "user_account": "xRipple",
+            "text": "Can't believe #dogecoin actually got a nascar. #ToTheMoon #dogecar",
+            "created_at": "Sun May 04 20:29:38 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 47,
+            "username": "Jeff",
+            "user_account": "jvirgs",
+            "text": "Really want to see #dogecoin #dogecar of @PPR98 and Josh Wise win #NASCAR",
+            "created_at": "Sun May 04 20:25:06 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 48,
+            "username": "Chris",
+            "user_account": "chris_frame",
+            "text": "To the mooooooon!!! #dogecoin #nascar #joshwise",
+            "created_at": "Sun May 04 20:22:51 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 49,
+            "username": "Ryan",
+            "user_account": "RyanGorges",
+            "text": "“@CNET: Dogecoin Nascar paint scheme unveiled: Wow. Such doge http://t.co/lwmwnWgnec http://t.co/cSyQSaDvdb”\nThat dog doe. @lmaomadi",
+            "created_at": "Sun May 04 20:22:11 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 50,
+            "username": "Rick",
+            "user_account": "KicksAddiction",
+            "text": "RT @CNET: Dogecoin Nascar paint scheme unveiled: Wow. Such doge http://t.co/nwxfL7P0tf http://t.co/qMxXRlAkek",
+            "created_at": "Sun May 04 20:21:30 +0000 2014",
+            "retweet": 1,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 51,
+            "username": "Name",
+            "user_account": "name04213505",
+            "text": "dogecoin barely made it through that one.",
+            "created_at": "Sun May 04 20:17:44 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 52,
+            "username": "Matt",
+            "user_account": "EmptyBox_007",
+            "text": "I have no idea what a dogecoin is, buuut.... I'm pulling for the 98.",
+            "created_at": "Sun May 04 20:16:59 +0000 2014",
+            "retweet": 2,
+            "likes": 4,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 53,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 100.0 Doge on http://t.co/ee28kJloIQ and WON with roll: 7096 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:16:32 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 54,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 50.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 54927 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:16:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 55,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 25.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 51170 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:15:53 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 56,
+            "username": "David",
+            "user_account": "david_foss",
+            "text": "@alexquigley Reddit got over $50,000 together for the sponsorship. #dogecoin",
+            "created_at": "Sun May 04 20:13:50 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 57,
+            "username": "Brandon",
+            "user_account": "brandonnagy",
+            "text": "DOGECOIN ON A REAL NASCAR",
+            "created_at": "Sun May 04 20:13:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 58,
+            "username": "Josh",
+            "user_account": "jphuffine",
+            "text": "Dogecoin to the front!",
+            "created_at": "Sun May 04 20:09:46 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 59,
+            "username": "Dan",
+            "user_account": "atruknad",
+            "text": "Look at that Dogecoin car go!",
+            "created_at": "Sun May 04 20:07:26 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 60,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 4832.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 57523 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:06:16 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 61,
+            "username": "John",
+            "user_account": "CarlsonsRaiders",
+            "text": "Allgaier leading the Dogecoin car in a fairly competitive outside line, this is surreal.",
+            "created_at": "Sun May 04 20:05:52 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 62,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 25000.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 40563 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:05:25 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 63,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 12584.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 39161 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:04:40 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 64,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 6292.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 43277 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:04:02 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 65,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "Someone just bet 3146.0 Doge on http://t.co/ee28kJloIQ and LOST with roll: 55401 #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:03:16 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 66,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=2087 #dogecoin, 1 #DOGE = $0.0005 or 109 satoshi ( Coin-E:109 BTER:109 Cryptsy:109 ), Coinbase BTC:$439",
+            "created_at": "Sun May 04 20:02:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 67,
+            "username": "DogeOdds",
+            "user_account": "DogeOdds",
+            "text": "http://t.co/ee28kJloIQ balance is 1280787.73091 doge #dogeodds #dogecoin",
+            "created_at": "Sun May 04 20:00:01 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}

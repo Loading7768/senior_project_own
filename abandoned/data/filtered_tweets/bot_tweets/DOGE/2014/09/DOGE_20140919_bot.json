@@ -1,0 +1,954 @@
+﻿{
+    "dogecoin": [
+        {
+            "tweet_count": 1,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.0002695 USD. Dogecoin has increased by 3.858E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 23:30:10 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 2,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3684 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:65 BTER:70 Vircurex:70 Cryptsy:70 ), Coinbase BTC:$395",
+            "created_at": "Fri Sep 19 23:02:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 3,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000265642 USD. Dogecoin has decreased by 8.614E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 23:00:16 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 4,
+            "username": "Crypto Enthusiast",
+            "user_account": "OdisDeng",
+            "text": "#dogecoin Receive 7 doge/hour, which is 24x7=168 doge/day. Even have a chance to win 700k doge! Link:  http://t.co/bqfRac5ucT",
+            "created_at": "Fri Sep 19 22:37:15 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 5,
+            "username": "Crypto Enthusiast",
+            "user_account": "OdisDeng",
+            "text": "#dogecoin Receive 7 doge/hour, which is 24x7=168 doge/day. Even have a chance to win 700k doge! Link: http://t.co/bqfRac5ucT",
+            "created_at": "Fri Sep 19 22:37:03 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 6,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000274257 USD. Dogecoin has increased by 2.867E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 22:30:09 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 7,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3642 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:65 BTER:71 Vircurex:70 Cryptsy:70 ), Coinbase BTC:$398",
+            "created_at": "Fri Sep 19 22:02:14 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 8,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.00027139 USD. Dogecoin has decreased by 9.3E-8 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 22:00:09 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 9,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000271483 USD. Dogecoin has increased by 1.541E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 21:30:08 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 10,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000269942 USD. Dogecoin has increased by 1.793E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 21:00:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 11,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000268148 USD. Dogecoin has decreased by 3.804E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 20:30:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 12,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3628 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:66 BTER:70 Vircurex:70 Cryptsy:70 ), Coinbase BTC:$400",
+            "created_at": "Fri Sep 19 20:02:15 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 13,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000271952 USD. Dogecoin has decreased by 4.933E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 20:00:20 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 14,
+            "username": "Crypto Enthusiast",
+            "user_account": "OdisDeng",
+            "text": "#dogecoin Receive 7 doge/hour, which is 24x7=168 doge/day. Even have a chance to win 700k doge! Link:http://t.co/bqfRac5ucT",
+            "created_at": "Fri Sep 19 19:43:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 15,
+            "username": "Crypto Enthusiast",
+            "user_account": "OdisDeng",
+            "text": "#dogecoin My referral link to a great doge faucet: http://t.co/bqfRac5ucT All the doge I receive from referrals will go to Reddit giveaways.",
+            "created_at": "Fri Sep 19 19:42:07 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 16,
+            "username": "Crypto Enthusiast",
+            "user_account": "OdisDeng",
+            "text": "#dogecoin Remember our lost fellow shibe! http://t.co/l04XQEOiic",
+            "created_at": "Fri Sep 19 19:35:27 +0000 2014",
+            "retweet": 2,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 17,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000276885 USD. Dogecoin has increased by 1.412E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 19:30:18 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 18,
+            "username": "ImprintingHub.com",
+            "user_account": "ImprintingHub",
+            "text": "Bitcoin? Yawn. CheapAir Is Now Taking Litecoin and Dogecoin http://t.co/NF0sN5jvYL",
+            "created_at": "Fri Sep 19 19:10:34 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 19,
+            "username": "EmailMarketing4u.com",
+            "user_account": "TryFREECampaign",
+            "text": "Bitcoin? Yawn. CheapAir Is Now Taking Litecoin and Dogecoin http://t.co/B7KrtiS10e",
+            "created_at": "Fri Sep 19 19:10:34 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 20,
+            "username": "CreditCardFunding",
+            "user_account": "CrCardFunding",
+            "text": "Bitcoin? Yawn. CheapAir Is Now Taking Litecoin and Dogecoin http://t.co/Z8MJ0MfJCN",
+            "created_at": "Fri Sep 19 19:10:34 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 21,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3607 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:66 BTER:71 Vircurex:71 Cryptsy:70 ), Coinbase BTC:$399",
+            "created_at": "Fri Sep 19 19:02:14 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 22,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000275473 USD. Dogecoin has increased by 2.354E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 19:00:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 23,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000273119 USD. Dogecoin has decreased by 5.272E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 18:30:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 24,
+            "username": "Michael",
+            "user_account": "michaelbivins44",
+            "text": "@BennyAd19771107 Well. In any event I got 50 #dogecoin from #Reddit. It's go time. @PortlandReddit #Cryptocurrency #bitcoin #fiat #currency",
+            "created_at": "Fri Sep 19 18:27:38 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 25,
+            "username": "Cryptiv",
+            "user_account": "Cryptiv",
+            "text": "@1unl0ck3r Cheers! Tip it forward! Here is a 500 #Dogecoin tip via @Cryptiv! Claim it here http://t.co/613hEbfMDq",
+            "created_at": "Fri Sep 19 18:05:45 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 26,
+            "username": "Cryptiv",
+            "user_account": "Cryptiv",
+            "text": "@hiroshi_02 Enjoy! Here is a 500 #Dogecoin tip via @Cryptiv! Claim it here http://t.co/9mpcGSrkVl",
+            "created_at": "Fri Sep 19 18:04:59 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 27,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3571 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:66 BTER:71 Vircurex:71 Cryptsy:72 ), Coinbase BTC:$400",
+            "created_at": "Fri Sep 19 18:02:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 28,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000278391 USD. Dogecoin has decreased by 2.211E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 18:00:11 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 29,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000280602 USD. Dogecoin has increased by 4.633E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 17:30:08 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 30,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3571 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:66 BTER:71 Vircurex:70 Cryptsy:71 ), Coinbase BTC:$403",
+            "created_at": "Fri Sep 19 17:02:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 31,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000279023 USD. Dogecoin has decreased by 6.581E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 16:30:14 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 32,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3542 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:66 BTER:71 Vircurex:70 Cryptsy:72 ), Coinbase BTC:$405",
+            "created_at": "Fri Sep 19 16:02:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 33,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000285604 USD. Dogecoin has increased by 7.818E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 16:00:21 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 34,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000277786 USD. Dogecoin has decreased by 5.101E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 15:30:20 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 35,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3614 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:65 BTER:72 Vircurex:68 Cryptsy:71 ), Coinbase BTC:$401",
+            "created_at": "Fri Sep 19 15:02:12 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 36,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000282887 USD. Dogecoin has decreased by 3.385E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 15:00:19 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 37,
+            "username": "Michael",
+            "user_account": "michaelbivins44",
+            "text": "@jwmoz @Lite_Coins are bitcoins safer? I wanna get in on a #cryptocurrency but there are a few to choose from. #bitcoin #Dogecoin #peercoin",
+            "created_at": "Fri Sep 19 14:57:17 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 38,
+            "username": "Michael",
+            "user_account": "michaelbivins44",
+            "text": "@dogereward @tipdoge @BennyAd19771107 is #Dogecoin safe for anything other than recreation? #bitcoin #cryptocurrency #litecoin",
+            "created_at": "Fri Sep 19 14:40:31 +0000 2014",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 39,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000286273 USD. Dogecoin has increased by 1.3277E-5 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 14:30:15 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 40,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3634 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:65 BTER:71 Vircurex:70 Cryptsy:71 ), Coinbase BTC:$397",
+            "created_at": "Fri Sep 19 14:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 41,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000272996 USD. Dogecoin has increased by 8.36E-7 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 14:00:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 42,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.00027216 USD. Dogecoin has increased by 5.893E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 13:30:09 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 43,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3713 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:65 BTER:71 Vircurex:70 Cryptsy:72 ), Coinbase BTC:$388",
+            "created_at": "Fri Sep 19 13:02:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 44,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000266267 USD. Dogecoin has increased by 6.1E-8 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 13:00:08 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 45,
+            "username": "hassan gharib",
+            "user_account": "hassangharib13",
+            "text": "99.9% Dice - Bitcoin &amp; Dogecoin Gambling http://t.co/6WCytJqKSQ",
+            "created_at": "Fri Sep 19 12:43:32 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 46,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3671 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:65 BTER:71 Vircurex:69 Cryptsy:72 ), Coinbase BTC:$393",
+            "created_at": "Fri Sep 19 12:02:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 47,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000270806 USD. Dogecoin has increased by 1.881E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 12:00:21 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 48,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000268925 USD. Dogecoin has increased by 8.525E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 11:30:15 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 49,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3740 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:63 BTER:70 Vircurex:72 Cryptsy:72 ), Coinbase BTC:$386",
+            "created_at": "Fri Sep 19 11:02:10 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 50,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.0002604 USD. Dogecoin has decreased by 1.437E-5 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 11:00:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 51,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.00027477 USD. Dogecoin has increased by 2.046E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 10:30:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 52,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3688 #dogecoin, 1 #DOGE = $0.0003 or 67 satoshi ( Coin-E:61 BTER:69 Vircurex:69 Cryptsy:69 ), Coinbase BTC:$405",
+            "created_at": "Fri Sep 19 10:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 53,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000272724 USD. Dogecoin has increased by 1.161E-5 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 10:00:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 54,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000261113 USD. Dogecoin has decreased by 3.847E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 09:30:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 55,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3679 #dogecoin, 1 #DOGE = $0.0003 or 67 satoshi ( Coin-E:61 BTER:68 Vircurex:71 Cryptsy:69 ), Coinbase BTC:$404",
+            "created_at": "Fri Sep 19 09:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 56,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.00026496 USD. Dogecoin has decreased by 8.9E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 09:00:12 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 57,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.00027386 USD. Dogecoin has decreased by 2.5E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 08:30:08 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 58,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3587 #dogecoin, 1 #DOGE = $0.0003 or 68 satoshi ( Coin-E:61 BTER:71 Vircurex:69 Cryptsy:71 ), Coinbase BTC:$410",
+            "created_at": "Fri Sep 19 08:02:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 59,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000276359 USD. Dogecoin has decreased by 7.641E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 08:00:08 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 60,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000284 USD. Dogecoin has decreased by 6.634E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 07:30:21 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 61,
+            "username": "Novacoin Market",
+            "user_account": "MarketNvc",
+            "text": "Follow our other account @DogecoinP, for latest Dogecoin prices. Live Price: http://t.co/uaQCPTefDx",
+            "created_at": "Fri Sep 19 07:30:06 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 62,
+            "username": "PinkMona",
+            "user_account": "pinkmona_org",
+            "text": "#bitcoin #altcoin #dogecoin Let's Hentai! Come on PinkMona!→http://t.co/YU6Wdxd2qE",
+            "created_at": "Fri Sep 19 07:07:31 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 63,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3390 #dogecoin, 1 #DOGE = $0.0003 or 71 satoshi ( Coin-E:70 BTER:71 Vircurex:70 Cryptsy:71 ), Coinbase BTC:$418",
+            "created_at": "Fri Sep 19 07:02:09 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 64,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000290634 USD. Dogecoin has decreased by 3.95E-7 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 07:00:22 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 65,
+            "username": "Namecoin Market",
+            "user_account": "MarketNmc",
+            "text": "Follow our other account @DogecoinP, for latest Dogecoin prices. Live Price: http://t.co/ub6XNlCW36",
+            "created_at": "Fri Sep 19 07:00:07 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 66,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000291029 USD. Dogecoin has increased by 5.055E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 06:30:09 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 67,
+            "username": "InterMedia Web",
+            "user_account": "InterMedia_Web",
+            "text": "Crypto eConomics Bitcoin,Litecoin,Dogecoin |.....\nhttp://t.co/zy64JaR8Y1 Stories via @AllThingsBTC",
+            "created_at": "Fri Sep 19 06:27:18 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 68,
+            "username": "Bitcoin News",
+            "user_account": "BitHalving",
+            "text": "Start accepting #Bitcoin, Litecoin and Dogecoin Payments today! (http://t.co/227HdrPJxz)",
+            "created_at": "Fri Sep 19 06:03:15 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 69,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3403 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:70 BTER:71 Vircurex:69 Cryptsy:70 ), Coinbase BTC:$420",
+            "created_at": "Fri Sep 19 06:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 70,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000285975 USD. Dogecoin has decreased by 7.314E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 06:00:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 71,
+            "username": "Aan Sasuke",
+            "user_account": "aansasuke10",
+            "text": "Much Dogecoin. Mine now. Wow. http://t.co/zCTdOfG4ZG via @SuchMiner",
+            "created_at": "Fri Sep 19 05:33:26 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 72,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000293289 USD. Dogecoin has decreased by 5.01E-7 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 05:30:12 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 73,
+            "username": "Epricity",
+            "user_account": "Epricity",
+            "text": "#KansasCity Startup Incubator Partners with Dogecoin-Based Coinplay.io - CryptoCoinsNews http://t.co/IH5kqq2Ss3",
+            "created_at": "Fri Sep 19 05:16:55 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 74,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3329 #dogecoin, 1 #DOGE = $0.0003 or 71 satoshi ( Coin-E:70 BTER:71 Vircurex:70 Cryptsy:71 ), Coinbase BTC:$426",
+            "created_at": "Fri Sep 19 05:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 75,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.00029379 USD. Dogecoin has increased by 2.17E-7 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 05:00:13 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 76,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000293573 USD. Dogecoin has increased by 4.18E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 04:30:16 +0000 2014",
+            "retweet": 1,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 77,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3332 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:69 BTER:71 Vircurex:71 Cryptsy:69 ), Coinbase BTC:$429",
+            "created_at": "Fri Sep 19 04:02:15 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 78,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000289393 USD. Dogecoin has decreased by 2.166E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 04:00:12 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 79,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000291558 USD. Dogecoin has increased by 2.143E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 03:30:15 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 80,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3394 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:66 BTER:71 Vircurex:71 Cryptsy:70 ), Coinbase BTC:$424",
+            "created_at": "Fri Sep 19 03:02:10 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 81,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000289415 USD. Dogecoin has decreased by 3.4E-8 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 03:00:15 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 82,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000289449 USD. Dogecoin has decreased by 3.453E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 02:30:12 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 83,
+            "username": "Namecoin Market",
+            "user_account": "MarketNmc",
+            "text": "Follow our other account @DogecoinP, for latest Dogecoin prices. Live Price: http://t.co/ub6XNlCW36",
+            "created_at": "Fri Sep 19 02:30:08 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 84,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3371 #dogecoin, 1 #DOGE = $0.0003 or 70 satoshi ( Coin-E:66 BTER:73 Vircurex:71 Cryptsy:69 ), Coinbase BTC:$425",
+            "created_at": "Fri Sep 19 02:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 85,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000292902 USD. Dogecoin has increased by 2.667E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 02:00:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 86,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000290235 USD. Dogecoin has increased by 7.225E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 01:30:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 87,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3442 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:66 BTER:70 Vircurex:69 Cryptsy:70 ), Coinbase BTC:$423",
+            "created_at": "Fri Sep 19 01:02:10 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 88,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.00028301 USD. Dogecoin has decreased by 4.592E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 01:00:14 +0000 2014",
+            "retweet": 2,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 89,
+            "username": "Michael",
+            "user_account": "michaelbivins44",
+            "text": "@gemhq i better get some #Dogecoin then. I regret not getting into #bitcoin when it started. What's best place to buy from# #cryptocurrency?",
+            "created_at": "Fri Sep 19 00:59:39 +0000 2014",
+            "retweet": 1,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 90,
+            "username": "Michael",
+            "user_account": "michaelbivins44",
+            "text": "@gemhq I would be interested to see how a completely #freemarket currency fairs in this new market. #cryptocurrency #bitcoin #Dogecoin",
+            "created_at": "Fri Sep 19 00:42:03 +0000 2014",
+            "retweet": 0,
+            "likes": 2,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 91,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000287602 USD. Dogecoin has increased by 1.139E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 00:30:09 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 92,
+            "username": "AC",
+            "user_account": "CallmeJulian00",
+            "text": "@NPuntIntendedSP @PickCincy @wcowl @BasedDFZ dogecoin",
+            "created_at": "Fri Sep 19 00:04:21 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 93,
+            "username": "dogecoinprice",
+            "user_account": "dogecoinprice",
+            "text": "$1=3421 #dogecoin, 1 #DOGE = $0.0003 or 69 satoshi ( Coin-E:66 BTER:70 Vircurex:69 Cryptsy:70 ), Coinbase BTC:$425",
+            "created_at": "Fri Sep 19 00:02:12 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 94,
+            "username": "Rob Cifre aka Bamboo",
+            "user_account": "robcifre",
+            "text": "wow. pls much coin. Many Thanks! \n\ndogecoin wallet: DKfxfyADYPATaW5i7t7tBidzBj6Q642mKQ #djsE",
+            "created_at": "Fri Sep 19 00:00:44 +0000 2014",
+            "retweet": 0,
+            "likes": 1,
+            "retweeted_tweet": null
+        },
+        {
+            "tweet_count": 95,
+            "username": "DogecoinPrice",
+            "user_account": "DogecoinP",
+            "text": "1 Dogecoin is now 0.000286463 USD. Dogecoin has decreased by 1.795E-6 USD in the last 30 mins #doge #dogecoin",
+            "created_at": "Fri Sep 19 00:00:12 +0000 2014",
+            "retweet": 0,
+            "likes": 0,
+            "retweeted_tweet": null
+        }
+    ]
+}
