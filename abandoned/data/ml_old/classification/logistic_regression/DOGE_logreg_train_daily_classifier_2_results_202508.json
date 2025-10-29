@@ -1,0 +1,686 @@
+{
+    "DOGE": {
+        "2025-08-01": {
+            "true_label": 1,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-02": {
+            "true_label": 1,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-03": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-04": {
+            "true_label": 3,
+            "majority_pred": 1,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟠"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-05": {
+            "true_label": 1,
+            "majority_pred": 1,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟠"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-06": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-07": {
+            "true_label": 4,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟢"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-08": {
+            "true_label": 3,
+            "majority_pred": 1,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟠"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-09": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-10": {
+            "true_label": 1,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-11": {
+            "true_label": 1,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-12": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-13": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-14": {
+            "true_label": 0,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🔴"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-15": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-16": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-17": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-18": {
+            "true_label": 1,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-19": {
+            "true_label": 0,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🔴"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-20": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-21": {
+            "true_label": 1,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-22": {
+            "true_label": 4,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟢"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-23": {
+            "true_label": 1,
+            "majority_pred": 1,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟠"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-24": {
+            "true_label": 1,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-25": {
+            "true_label": 0,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🔴"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-26": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-27": {
+            "true_label": 2,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "⚪"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-28": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-29": {
+            "true_label": 1,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-30": {
+            "true_label": 3,
+            "majority_pred": 3,
+            "majority_correct": true,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-31": {
+            "true_label": 2,
+            "majority_pred": 3,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_counts": 1,
+            "pred_symbols": [
+                "🟡"
+            ],
+            "true_symbols": [
+                "⚪"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        }
+    }
+}

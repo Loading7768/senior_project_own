@@ -1,0 +1,686 @@
+{
+    "DOGE": {
+        "2025-08-01": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                27,
+                49,
+                666,
+                200,
+                4200
+            ],
+            "total_counts": 5142,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-02": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                9,
+                44,
+                215,
+                29,
+                978
+            ],
+            "total_counts": 1275,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-03": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                4,
+                65,
+                358,
+                65,
+                1054
+            ],
+            "total_counts": 1546,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-04": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                9,
+                26,
+                546,
+                100,
+                2637
+            ],
+            "total_counts": 3318,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-05": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                33,
+                200,
+                1747,
+                271,
+                15368
+            ],
+            "total_counts": 17619,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-06": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                16,
+                39,
+                569,
+                59,
+                1970
+            ],
+            "total_counts": 2653,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-07": {
+            "true_label": 4,
+            "majority_pred": 4,
+            "majority_correct": true,
+            "class_counts": [
+                8,
+                39,
+                435,
+                85,
+                1455
+            ],
+            "total_counts": 2022,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟢"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-08": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                4,
+                37,
+                527,
+                79,
+                1411
+            ],
+            "total_counts": 2058,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-09": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                16,
+                72,
+                656,
+                157,
+                2199
+            ],
+            "total_counts": 3100,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-10": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                11,
+                45,
+                874,
+                162,
+                2250
+            ],
+            "total_counts": 3342,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-11": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                16,
+                66,
+                633,
+                156,
+                2282
+            ],
+            "total_counts": 3153,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-12": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                45,
+                320,
+                1864,
+                376,
+                5793
+            ],
+            "total_counts": 8398,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-13": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                6,
+                11,
+                195,
+                57,
+                963
+            ],
+            "total_counts": 1232,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-14": {
+            "true_label": 0,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                11,
+                151,
+                65,
+                515
+            ],
+            "total_counts": 744,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🔴"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-15": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                15,
+                51,
+                469,
+                90,
+                2144
+            ],
+            "total_counts": 2769,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-16": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                7,
+                35,
+                345,
+                44,
+                1338
+            ],
+            "total_counts": 1769,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-17": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                64,
+                153,
+                1372,
+                204,
+                4455
+            ],
+            "total_counts": 6248,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-18": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                5,
+                52,
+                548,
+                110,
+                1741
+            ],
+            "total_counts": 2456,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-19": {
+            "true_label": 0,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                65,
+                68,
+                688,
+                190,
+                2147
+            ],
+            "total_counts": 3158,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🔴"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-20": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                8,
+                18,
+                225,
+                71,
+                957
+            ],
+            "total_counts": 1279,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-21": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                19,
+                100,
+                841,
+                245,
+                2954
+            ],
+            "total_counts": 4159,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-22": {
+            "true_label": 4,
+            "majority_pred": 4,
+            "majority_correct": true,
+            "class_counts": [
+                4,
+                46,
+                358,
+                117,
+                1955
+            ],
+            "total_counts": 2480,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟢"
+            ],
+            "result_symbols": [
+                "✅"
+            ]
+        },
+        "2025-08-23": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                17,
+                79,
+                1028,
+                179,
+                3052
+            ],
+            "total_counts": 4355,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-24": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                7,
+                84,
+                841,
+                235,
+                3044
+            ],
+            "total_counts": 4211,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-25": {
+            "true_label": 0,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                9,
+                55,
+                494,
+                107,
+                1192
+            ],
+            "total_counts": 1857,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🔴"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-26": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                10,
+                126,
+                27,
+                222
+            ],
+            "total_counts": 387,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-27": {
+            "true_label": 2,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                10,
+                147,
+                74,
+                706
+            ],
+            "total_counts": 939,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "⚪"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-28": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                24,
+                184,
+                43,
+                695
+            ],
+            "total_counts": 948,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-29": {
+            "true_label": 1,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                5,
+                64,
+                13,
+                350
+            ],
+            "total_counts": 434,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟠"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-30": {
+            "true_label": 3,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                2,
+                7,
+                133,
+                29,
+                198
+            ],
+            "total_counts": 369,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "🟡"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        },
+        "2025-08-31": {
+            "true_label": 2,
+            "majority_pred": 4,
+            "majority_correct": false,
+            "class_counts": [
+                0,
+                0,
+                4,
+                0,
+                6
+            ],
+            "total_counts": 10,
+            "pred_symbols": [
+                "🟢"
+            ],
+            "true_symbols": [
+                "⚪"
+            ],
+            "result_symbols": [
+                "❌"
+            ]
+        }
+    }
+}
