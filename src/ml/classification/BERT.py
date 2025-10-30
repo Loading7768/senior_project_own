@@ -663,7 +663,8 @@ def train_function(X_train, X_test, y_train, y_test, pipeline_path, model_name="
         else:
             tokenize_path = "non_filtered"
 
-        # 檢查是否已經有 tokenized data
+        # 檢查是否已經有 tokenized data -------------------- 要修改 -------------------------------
+        input("有重新改過程式了嗎，要是先判斷有沒有 merge 的檔案，再看看需不需要 tokenize，還是只要 merge 就好")
         if os.path.exists(f"{OUTPUT_PATH}/tokenize/{tokenize_path}/train_batch0{SUFFIX_FILTERED}.pkl"):
             print("📂 載入已存的 Tokenized Data")
             input("❓ 是否要使用這份 Tokenized Data? (按 Enter 以繼續 或 Ctrl + C ...)")

@@ -154,3 +154,265 @@ $1400 Stimulus is Now Worth(1400stimulus)
 $1200 Stimulus is Now Worth
 DogecoinPrice(DogecoinP)
 dogecoinprice
+
+
+
+Random search 最佳參數: {'C': np.float64(0.00015095542625161965)}
+Random search 最佳交叉驗證準確率: 0.27659200035855286
+最好的 C: 0.00015095542625161965
+[RUN 9] Train acc=0.2845, Test acc=0.2413
+
+=== 所有 Run 的結果 ===
+   run  train_acc  test_acc
+0    0   0.284426  0.241568
+1    1   0.285443  0.242044
+2    2   0.285857  0.240813
+3    3   0.284900  0.241084
+4    4   0.285748  0.241381
+5    5   0.285396  0.241825
+6    6   0.284963  0.241804
+7    7   0.285663  0.242115
+8    8   0.285354  0.240679
+9    9   0.284455  0.241343
+
+=== 最佳模型 ===
+Run 7 | Train acc=0.2857, Test acc=0.2421
+已儲存最佳 pipeline 到 ../data/ml/models/classification/logreg_best_pipeline_1000000.joblib
+
+分類報告 (Test set):
+              precision    recall  f1-score   support
+
+           0       0.25      0.26      0.25    161508
+           1       0.32      0.15      0.20    233102
+           2       0.14      0.22      0.17    103408
+           3       0.24      0.21      0.23    186363
+           4       0.27      0.38      0.32    194989
+
+    accuracy                           0.24    879370
+   macro avg       0.24      0.24      0.23    879370
+weighted avg       0.26      0.24      0.24    879370
+
+(3524427,)
+(879370,)
+
+分類報告 (Train set):
+              precision    recall  f1-score   support
+
+           0       0.25      0.29      0.27    582055
+           1       0.34      0.17      0.22    881206
+           2       0.15      0.26      0.19    375249
+           3       0.34      0.24      0.29    866120
+           4       0.32      0.44      0.37    819797
+
+    accuracy                           0.28   3524427
+   macro avg       0.28      0.28      0.27   3524427
+weighted avg       0.30      0.28      0.28   3524427
+
+
+分類報告 (Test set):
+              precision    recall  f1-score   support
+
+           0       0.25      0.26      0.25    161508
+           1       0.32      0.15      0.20    233102
+           2       0.14      0.22      0.17    103408
+           3       0.24      0.21      0.23    186363
+           4       0.27      0.38      0.32    194989
+
+    accuracy                           0.24    879370
+   macro avg       0.24      0.24      0.23    879370
+weighted avg       0.26      0.24      0.24    879370
+
+已輸出逐日預測結果：
+- train: ../data/ml/classification/logistic_regression/logreg_train_daily_results_1000000.json
+- test:  ../data/ml/classification/logistic_regression/logreg_test_daily_results_1000000.json
+[4 4 4 4 4 4 0 0 0 4 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 4 0 0 4
+ 4 4 4 4 0 0 0 0 0 4 0 0 0]
+DOGE → ../data/ml/classification/logistic_regression/DOGE_logreg_classifier_1_result.npy 已完成, shape=(2180,)
+[2 4 2 2 2 4 2 4 2 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 2 0 2 4 4 4 4 4 4 4 4       
+ 4 4 4 4 4 4 4 4 4 4 4 4 4]
+PEPE → ../data/ml/classification/logistic_regression/PEPE_logreg_classifier_1_result.npy 已完成, shape=(294,)
+[4 0 4 4 4 4 4 4 4 2 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 0 0 0 4 0 0 0 0 0       
+ 0 4 4 3 3 0 4 0 4 4 4 4 0]
+TRUMP → ../data/ml/classification/logistic_regression/TRUMP_logreg_classifier_1_result.npy 已完成, shape=(193,)
+
+合併後的人類可讀版結果已輸出到：../data/ml/classification/logistic_regression/logreg_combined_results_1000000.txt
+
+
+
+merge_second_XY(以第一個分類器的 Train、Test 來分):
+
+normal
+   X_train.shape = (2114, 16)
+   Y_train.shape = (2114,)
+   len(ids_train) = 2114
+   X_test.shape = (528, 16)
+   Y_test.shape = (528,)
+   len(ids_test) = 528
+
+non_filtered
+   X_train.shape = (2113, 16)
+   Y_train.shape = (2113,)
+   len(ids_train) = 2113
+   X_test.shape = (530, 16)
+   Y_test.shape = (530,)
+   len(ids_test) = 530
+
+BERT:
+1. 先寫完以 推文 預測價格的
+2. 再加上以 推文+數值(價格分類器的特徵) 預測價格的
+
+
+
+DOGE:
+======== 階段性檢查 ========
+          train_sum  total_sum  train_ratio
+category
+0            513642     642474     0.799475
+1            692712     866859     0.799106
+2            288948     361316     0.799710
+3            594495     743173     0.799942
+4            601237     751873     0.799652
+
+PEPE:
+======== 階段性檢查 ========
+          train_sum  total_sum  train_ratio
+category
+0             78551      99669     0.788119
+1            223139     277141     0.805146
+2            113480     137169     0.827301
+3            274701     343062     0.800733
+4            182277     227669     0.800623
+
+TRUMP:
+======== 階段性檢查 ========
+          train_sum  total_sum  train_ratio
+category
+0             41054      59258     0.692801
+1             44587      54464     0.818651
+2             12351      15489     0.797405
+3             33361      41942     0.795408
+4             93873     117058     0.801936
+
+
+ml\
+|---classification\  # 存分類器輸出的資料
+   |---logistic_regression\
+      |---keyword_classifier\
+         |---train_result\
+         |---single_coin_result\
+            |---DOGE\
+            |---PEPE\
+            |---TRUMP\
+      |---price_classifier\  # 根據關鍵詞分類器使用的模型是甚麼
+         |---logistic_regression\
+            |---train_result\
+            |---single_coin_result\
+               |---DOGE\
+               |---PEPE\
+               |---TRUMP\
+         |---SGD\
+            |---train_result\
+            |---single_coin_result\
+               |---DOGE\
+               |---PEPE\
+               |---TRUMP\
+         |---random_forest\
+            |---train_result\
+            |---single_coin_result\
+               |---DOGE\
+               |---PEPE\
+               |---TRUMP\
+   |---SGD\
+   |---random_forest\
+|---regression\  # 存回歸器輸出的資料
+|---models\  # 存模型的 joblib
+   |---logistic_regression\
+   |---SGD\
+   |---random_forest\
+|---dataset\  # 所有模型相關的輸入
+   |---X_input\  # 放單個幣種的 X 相關輸入
+      |---keyword_classifier\
+            |---DOGE\
+            |---PEPE\
+            |---TRUMP\
+         |---price_classifier\
+            |---DOGE\
+            |---PEPE\
+            |---TRUMP\
+      |---y_input\  # 放單個幣種的 y 相關輸入
+         |---DOGE\
+         |---PEPE\
+         |---TRUMP\
+      |---ids_input\  # 放單個幣種的 ids 相關輸入
+         |---DOGE\
+         |---PEPE\
+         |---TRUMP\
+      |---split_dates\  # 放切割資料擊的對應日期
+      |---final_input\  # 放合併後的總輸入
+         |---keyword_classifier\
+         |---price_classifier\
+            |---logistic_regression\
+            |---SGD\
+            |---random_forest\
+
+
+logistic_regression：
+C = 0.00015095542625161965
+
+分類報告 (Train set):
+              precision    recall  f1-score   support
+
+          大跌      0.253     0.298     0.273    573972
+          小跌      0.347     0.185     0.241    876224
+          持平      0.160     0.285     0.205    377984
+          小漲      0.323     0.205     0.251    823792
+          大漲      0.306     0.427     0.356    786109
+
+    accuracy                          0.275   3438081
+   macro avg      0.278     0.280     0.265   3438081
+weighted avg      0.295     0.275     0.271   3438081
+
+
+分類報告 (Test set):
+              precision    recall  f1-score   support
+
+          大跌      0.223     0.238     0.230    151781
+          小跌      0.284     0.145     0.192    213895
+          持平      0.119     0.233     0.157     90464
+          小漲      0.302     0.198     0.239    207004
+          大漲      0.279     0.391     0.326    196694
+
+    accuracy                          0.240    859838
+   macro avg      0.241     0.241     0.229    859838
+weighted avg      0.259     0.240     0.237    859838
+
+
+logistic_regression：(non_filtered)
+C = 0.00015095542625161965
+
+分類報告 (Train set):
+              precision    recall  f1-score   support
+
+          大跌      0.252     0.281     0.266    660030
+          小跌      0.345     0.179     0.236   1013218
+          持平      0.159     0.292     0.206    433514
+          小漲      0.323     0.203     0.249    947973
+          大漲      0.299     0.435     0.355    884177
+
+    accuracy                          0.272   3938912
+   macro avg      0.276     0.278     0.262   3938912
+weighted avg      0.294     0.272     0.268   3938912
+
+
+分類報告 (Test set):
+              precision    recall  f1-score   support
+
+          大跌      0.216     0.224     0.220    172681
+          小跌      0.287     0.145     0.193    249567
+          持平      0.129     0.242     0.168    109142
+          小漲      0.302     0.197     0.238    237520
+          大漲      0.269     0.397     0.321    220762
+
+    accuracy                          0.238    989672
+   macro avg      0.241     0.241     0.228    989672
+weighted avg      0.257     0.238     0.234    989672

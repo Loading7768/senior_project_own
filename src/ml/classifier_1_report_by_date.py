@@ -15,9 +15,9 @@ COIN_SHORT_NAME = ['DOGE', 'PEPE', 'TRUMP']
 
 COIN_DELETE_DATE = [13, 0, 12]  # 每個幣種要刪除的天數
 
-MODEL_SHORT_NAME = "logreg"  # "logreg" "rf" "sgd"
+MODEL_SHORT_NAME = "sgd"  # "logreg" "rf" "sgd"
 
-MODEL_PATH_NAME = "logistic_regression"  # "logistic_regression" "random_forest" "SGD"
+MODEL_PATH_NAME = "SGD"  # "logistic_regression" "random_forest" "SGD"
 
 IS_FILTERED = False  # 看是否有分 normal 與 bot
 

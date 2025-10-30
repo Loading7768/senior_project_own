@@ -1,0 +1,20 @@
+\begin{table}[H]
+\centering
+{\fontsize{12.5}{16}\selectfont
+\begin{tabular}{c|ccc|ccc}
+& \multicolumn{3}{c|}{Train set} & \multicolumn{3}{c}{Test set} \\
+\hline
+Class & Precision & Recall & F1-score & Precision & Recall & F1-score \\
+\hline
+大跌 & 0.419 & 0.154 & 0.225 & 0.211 & 0.067 & 0.101 \\
+小跌 & 0.405 & 0.099 & 0.159 & 0.333 & 0.083 & 0.133 \\
+持平 & 0.230 & 0.614 & 0.335 & 0.236 & 0.515 & 0.324 \\
+小漲 & 0.436 & 0.126 & 0.196 & 0.324 & 0.073 & 0.120 \\
+大漲 & 0.174 & 0.528 & 0.262 & 0.192 & 0.632 & 0.295 \\
+\hline
+Macro avg & 0.333 & 0.304 & 0.235 & 0.259 & 0.274 & 0.194 \\
+\end{tabular}
+}
+\caption{Logreg 以日期為單位的訓練與測試準確度}
+\label{tab:classifier_1_report_logreg_non_filtered}
+\end{table}

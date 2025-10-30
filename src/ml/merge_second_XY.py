@@ -8,17 +8,17 @@ from sklearn.model_selection import train_test_split
 '''可修改參數'''
 COIN_SHORT_NAME = ["DOGE", "PEPE", "TRUMP"]
 
-MODEL_NAME = ["logistic_regression", "logreg"]
+MODEL_NAME = ["SGD", "sgd"]  # ["logistic_regression", "logreg"] ["random_forest", "rf"] ["SGD", "sgd"]    
 
 INPUT_PATH = "../data/ml/dataset"
 
-INPUT_FIRST_CLASSIFIER_PATH = "../data/ml/classification/logistic_regression"
+INPUT_FIRST_CLASSIFIER_PATH = f"../data/ml/classification/{MODEL_NAME[0]}"
 
-OUTPUT_PATH = "../data/ml/dataset/final_input/price_classifier"
+OUTPUT_PATH = "../data/ml/dataset/final_input/price_cla ssifier"
 
 MERGE_CLASSIFIER_1_RESULT = True  # 看是否要合併第一個分類器的預測結果
 
-IS_FILTERED = False  # 看是否有分 normal 與 bot
+IS_FILTERED = True  # 看是否有分 normal 與 bot
 
 IS_RUN_AUGUST = False  # 看現在是不是要跑 2025/08 的資料(未完成)
 
