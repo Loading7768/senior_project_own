@@ -9838,24 +9838,24 @@
         },
         "2024-03-02": {
             "true_label": 4,
-            "majority_pred": 1,
-            "majority_correct": false,
+            "majority_pred": 4,
+            "majority_correct": true,
             "class_counts": [
                 0,
-                1,
                 0,
                 0,
-                0
+                0,
+                1
             ],
             "total_counts": 1,
             "pred_symbols": [
-                "🟠"
+                "🟢"
             ],
             "true_symbols": [
                 "🟢"
             ],
             "result_symbols": [
-                "❌"
+                "✅"
             ]
         },
         "2025-07-10": {
@@ -11050,18 +11050,18 @@
         },
         "2025-02-14": {
             "true_label": 4,
-            "majority_pred": 1,
+            "majority_pred": 2,
             "majority_correct": false,
             "class_counts": [
                 0,
-                1,
                 0,
+                1,
                 0,
                 0
             ],
             "total_counts": 1,
             "pred_symbols": [
-                "🟠"
+                "⚪"
             ],
             "true_symbols": [
                 "🟢"
