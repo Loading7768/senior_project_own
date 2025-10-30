@@ -17,7 +17,7 @@ from tqdm import tqdm
 import sys
 parent_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(parent_dir))
-from config import COIN_SHORT_NAME, JSON_DICT_NAME
+from config_TRUMP import COIN_SHORT_NAME, JSON_DICT_NAME
 
 def load_data():
     TWEET_PATH = f'../data/tweets/{COIN_SHORT_NAME}/*/*/{COIN_SHORT_NAME}_*.json'

@@ -30,38 +30,43 @@ N_RUNS = 10  # 設定 random sampling 要跑幾次
 
 # LABELS = 5  # 有多少標籤
 
-# C = 0.18360757138767084
-C = 0.01
+# C = 0.18360757138767084, 0.6351221010640696, 0.00042079886696066364
+C = 0.0001509554262516196  
+# C = 0.18 訓練 rf_logreg 第二個分類器
+# C = 0.00015095542625161965 訓練 logreg 第一個分類器
+# C = 0.7579479953348001 訓練 logreg_logreg 第二個分類器
+# C = 0.037677224948249315 訓練 non_filtered logreg 第一個分類器
+# C = 0.6351221010640696 訓練 non_filtered logreg_logreg 第二個分類器
 
-T1 = 0.0590 # 0.1
+T1, T2, T3, T4 = -0.0590, -0.0102, 0.0060, 0.0657
 
-T2 = 0.0102 # 0.00125
-
-T3 = 0.0060
-
-T4 = 0.0657
-
-PRICE_CSV_PATH = "../data/coin_price"
+# PRICE_CSV_PATH = "../data/coin_price"
 
 INPUT_PATH = "../data/ml/dataset"
 
 OUTPUT_PATH = "../data/ml/classification/logistic_regression"
 
-SAVE_MODEL_PATH = "../data/ml/models/classification"
+SAVE_MODEL_PATH = "../data/ml/models"
 
-MODEL_NAME = "logreg"  # 第二個分類器目前輸入的模型名字
+MODEL_NAME = ["logistic_regression", "logreg"]  # 第二個分類器目前輸入的模型名字  "rf"  "logreg" "sgd"
 
-RUN_FIRST_CLASSIFIER = True  # 是否要跑第一個分類器
+RUN_FIRST_CLASSIFIER = False  # 是否要跑第一個分類器
 
-RUN_SECOND_CLASSIFIER = False  # 是否要跑第二個分類器
+RUN_SECOND_CLASSIFIER = True  # 是否要跑第二個分類器
 
 IS_GROUPED_CV = False  # 是否要跑第二個分類器的交叉驗證
 
 IS_TRAIN = True  # 看是否要訓練
 
-IS_FILTERED = True  # 看是否有分 normal 與 bot
+IS_RANDOM_SEARCH = True  # 是否要 Random Search
+
+N_ITER = 20  # 若有啟用 Random Search 設定要隨機跑幾組
+
+IS_FILTERED = False  # 看是否有分 normal 與 bot
 
 IS_RUN_AUGUST = False  # 看現在是不是要跑 2025/08 的資料
+
+IS_CLASSIFIER_1_RESULT = False  # 看第二個分類器的特徵中 有沒有加入第一個分類器的預測結果
 '''可修改參數'''
 
 os.makedirs(OUTPUT_PATH, exist_ok=True)
@@ -69,6 +74,7 @@ os.makedirs(SAVE_MODEL_PATH, exist_ok=True)
 
 SUFFIX_FILTERED = "" if IS_FILTERED else "_non_filtered"
 SUFFIX_AUGUST   = "_202508" if IS_RUN_AUGUST else ""
+SUFFIX_CLASSIFIER_1 = "" if IS_CLASSIFIER_1_RESULT else "_non_classifier_1"
 
 
 
@@ -132,129 +138,6 @@ def get_random_samples_sparse_stratified(X: csr_matrix, y: np.ndarray, seed: int
             print(f"   Class {cls}: {cnt} samples ({pct:.2f}%)")
 
     return samples
-
-
-
-# def stratified_train_test_balance(X, y, ids, max_per_class=None, seed=42):
-#     labels, counts = np.unique(y, return_counts=True)
-#     print("\n各類別數量（np.unique）:")
-#     for label, count in zip(labels, counts):
-#         print(f"類別 {label}: {count} 筆")
-
-#     # 儲存 index
-#     train_idx = []
-#     test_idx = []
-
-#     # 找出每個類別的所有 index
-#     class_indices = defaultdict(list)
-#     for idx, label in enumerate(y):
-#         class_indices[label].append(idx)
-
-#     rng = np.random.default_rng(seed)  # 建立固定 seed 的隨機生成器
-
-#     for label, indices in class_indices.items():
-#         indices = np.array(indices)
-#         rng.shuffle(indices)  # 使用 rng.shuffle 代替 np.random.shuffle
-#         train_samples = indices[:max_per_class]
-#         test_samples = indices[max_per_class:]
-
-#         train_idx.extend(train_samples)
-#         test_idx.extend(test_samples)
-
-#     # 依照 index 取出資料
-#     X_train = X[train_idx]
-#     y_train = y[train_idx]
-#     ids_train = ids[train_idx]
-
-#     X_test = X[test_idx]
-#     y_test = y[test_idx]
-#     ids_test = ids[test_idx]
-
-#     return X_train, X_test, y_train, y_test, ids_train, ids_test
-
-
-
-# 新增一個函式來平衡訓練集
-# def balance_train_data(X_train, y_train, ids_train):
-    classes = np.unique(y_train)
-    class_indices = defaultdict(list)
-    for idx, label in enumerate(y_train):
-        class_indices[label].append(idx)
-    
-    min_class_count = min(len(indices) for indices in class_indices.values())
-    
-    balanced_indices = []
-    for c in classes:
-        idx_list = class_indices[c]
-        np.random.shuffle(idx_list)
-        balanced_indices.extend(idx_list[:min_class_count])
-    
-    np.random.shuffle(balanced_indices)
-    
-    X_train_balanced = X_train[balanced_indices]
-    y_train_balanced = y_train[balanced_indices]
-    ids_train_balanced = [ids_train[i] for i in balanced_indices]
-    
-    return X_train_balanced, y_train_balanced, ids_train_balanced
-
-
-
-# def evaluate_by_coin_date_2_category(ids, y_true, y_pred):
-    """
-    ids: list/array of (coin, date, idx)
-    y_true: shape (N, num_labels) 或 (N,) 對應真實標籤
-    y_pred: shape (N, num_labels) 或 (N,) 對應預測結果
-    """
-    results = defaultdict(list)
-
-    # 將樣本依照 (coin, date) 聚合
-    for (coin, date, _), t, p in zip(ids, y_true, y_pred):
-        results[(coin, date)].append((t, p))
-
-    daily_summary = {}
-    for (coin, date), samples in results.items():
-        truths, preds = zip(*samples)
-        truths = np.array(truths)
-        preds  = np.array(preds)
-
-        # 如果是單標籤，轉成 2D 方便統一處理
-        if truths.ndim == 1:
-            truths = truths[:, None]
-        if preds.ndim == 1:
-            preds = preds[:, None]
-
-        num_labels = truths.shape[1]
-        majority_pred = []
-
-        for i in range(num_labels):
-            up   = np.sum(preds[:, i] == 1)
-            down = np.sum(preds[:, i] == 0)
-            majority_pred.append(1 if up >= down else 0)
-
-        majority_pred = np.array(majority_pred)
-        # 同一天的真實標籤取第一個樣本 (假設每天同幣種漲跌相同)
-        true_label = truths[0]
-
-        # 計算每個標籤是否正確
-        majority_correct = majority_pred == true_label
-
-        # --- 轉換成符號 ---
-        pred_symbols = ["🟢" if p == 1 else "🔴" for p in majority_pred]
-        true_symbols = ["✅" if c else "❌" for c in majority_correct]
-
-        daily_summary.setdefault(coin, {})
-        daily_summary[coin][date] = {
-            "true_label": true_label.tolist(),
-            "majority_pred": majority_pred.tolist(),
-            "majority_correct": majority_correct.tolist(),
-            "up_counts": np.sum(preds == 1, axis=0).tolist(),
-            "down_counts": np.sum(preds == 0, axis=0).tolist(),
-            "total_counts": len(preds),
-            "pred_symbols": pred_symbols,
-            "true_symbols": true_symbols,
-        }
-
-    return daily_summary, num_labels
 
 
 
@@ -357,22 +240,33 @@ def train_function(X_train, X_test, y_train, y_test, pipeline_path, scaler = Non
     best_run_info = None
 
     # 定義模型
-    log_reg = LogisticRegression(
-        solver='saga', 
-        max_iter=100000, 
-        verbose=1, 
-        penalty='l2', 
-        C = C, 
-        n_jobs=-1,
-        # tol=1e-6  # 收斂容忍度 (越小越嚴格，訓練可能更久)
-    )
+    if IS_RANDOM_SEARCH:
+        log_reg = LogisticRegression(
+            solver='saga', 
+            max_iter=100000, 
+            verbose=1, 
+            # C=C,
+            penalty='l2', 
+            n_jobs=-1,
+            # tol=1e-6  # 收斂容忍度 (越小越嚴格，訓練可能更久)
+        )
+    else:
+        # 不使用 RandomSearch，直接用全域變數 C
+        log_reg = LogisticRegression(
+            solver='saga',
+            max_iter=100000,
+            verbose=1,
+            penalty='l2',
+            C=C,          # 套用全域 C
+            n_jobs=-1
+        )
     
     # model = OneVsRestClassifier(log_reg, n_jobs=-1)
 
-    # 定義參數分布（隨機抽樣）
-    # param_dist = {
-    #     'C': 0.001,   # C 值在 [0.001, 1000] 範圍隨機抽
-    # }
+    # 定義參數分布（隨機抽樣）定義 C 的分布（對數分布）
+    param_dist = {
+        'C': loguniform(1e-4, 1)
+    }
 
     
     if RUN_FIRST_CLASSIFIER:
@@ -391,30 +285,41 @@ def train_function(X_train, X_test, y_train, y_test, pipeline_path, scaler = Non
 
     # --- 執行 N_RUNS 次 Random Sampling (無則執行一次) ---
     for run in range(run_count):  
-        # 隨機搜尋
-        # random_search = RandomizedSearchCV(
-        #     estimator=log_reg,
-        #     param_distributions=param_dist,
-        #     n_iter=1,             # 隨機挑 10 組
-        #     scoring='accuracy',   # 評估方式
-        #     cv=3,                 # 3 折交叉驗證
-        #     verbose=2,
-        #     random_state=42 + run,
-        #     n_jobs=1             # 不使用多核心
-        # )
-
-        # 開始訓練
         X_train_sample, y_train_sample = train_sample[run]
-        log_reg.fit(X_train_sample, y_train_sample)
 
-        # print("Random search 最佳參數:", random_search.best_params_)
-        # print("Random search 最佳交叉驗證準確率:", random_search.best_score_)
+        if IS_RANDOM_SEARCH:
+            # 隨機搜尋
+            random_search = RandomizedSearchCV(
+                estimator=log_reg,
+                param_distributions=param_dist,
+                n_iter=N_ITER,        # 隨機挑 N_ITER 組
+                scoring='accuracy',   # 評估方式
+                cv=3,                 # 3 折交叉驗證
+                verbose=2,
+                random_state=42 + run,
+                n_jobs=1             # 不使用多核心
+            )
 
-        # best_model = random_search.best_estimator_
+            # 開始訓練
+            
+            # log_reg.fit(X_train_sample, y_train_sample)
+            random_search.fit(X_train_sample, y_train_sample)
+
+            print("Random search 最佳參數:", random_search.best_params_)
+            print("Random search 最佳交叉驗證準確率:", random_search.best_score_)
+
+            best_model = random_search.best_estimator_
+            print("最好的 C:", best_model.C)
+        else:
+            # 不使用 RandomizedSearch，直接用預設 log_reg 訓練
+            log_reg.fit(X_train_sample, y_train_sample)
+            best_model = log_reg
 
         # --- 評估 ---
-        train_acc = accuracy_score(y_train_sample, log_reg.predict(X_train_sample))
-        test_acc = accuracy_score(y_test, log_reg.predict(X_test))
+        # train_acc = accuracy_score(y_train_sample, log_reg.predict(X_train_sample))
+        # test_acc = accuracy_score(y_test, log_reg.predict(X_test))
+        train_acc = accuracy_score(y_train_sample, best_model.predict(X_train_sample))
+        test_acc = accuracy_score(y_test, best_model.predict(X_test))
 
         print(f"[RUN {run}] Train acc={train_acc:.4f}, Test acc={test_acc:.4f}")
 
@@ -431,10 +336,12 @@ def train_function(X_train, X_test, y_train, y_test, pipeline_path, scaler = Non
             best_test_acc = test_acc
             best_run_info = {
                 "run": run,
-                "model": log_reg,
+                # "model": log_reg,
+                "model": best_model,
                 "scaler": scaler,
                 "train_acc": train_acc,
-                "test_acc": test_acc
+                "test_acc": test_acc,
+                "C": best_model.C   # 存最佳 C
                 # "params": random_search.best_params_
             }
 
@@ -445,12 +352,16 @@ def train_function(X_train, X_test, y_train, y_test, pipeline_path, scaler = Non
     print(results_df)
 
     if RUN_FIRST_CLASSIFIER:
-        results_df.to_csv(f"{OUTPUT_PATH}/logreg_sampling_results_{N_SAMPLES}{SUFFIX_FILTERED}.csv", index=False)
+        results_df.to_csv(f"{OUTPUT_PATH}/keyword_classifier/train_result/logreg_sampling_results_{N_SAMPLES}{SUFFIX_FILTERED}.csv", index=False)
     elif RUN_SECOND_CLASSIFIER:
-        results_df.to_csv(f"{OUTPUT_PATH}/logreg_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.csv", index=False)
+        results_df.to_csv(f"{OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/train_result/{MODEL_NAME[1]}_logreg_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.csv", index=False)
 
     # 儲存最佳模型
-    model_dict = {"model": best_run_info["model"]}
+    model_dict = {
+        "model": best_run_info["model"],
+        "run": best_run_info['run'],
+        "C": best_run_info['C']
+    }
     if scaler is not None:
         model_dict["scaler"] = scaler
     joblib.dump(model_dict, pipeline_path)
@@ -462,7 +373,7 @@ def train_function(X_train, X_test, y_train, y_test, pipeline_path, scaler = Non
 
     # Test 集分類報告
     print("\n分類報告 (Test set):")
-    print(classification_report(y_test, best_run_info["model"].predict(X_test)))
+    print(classification_report(y_test, best_run_info["model"].predict(X_test), digits=3, target_names=['大跌', '小跌', '持平', '小漲', '大漲']))
 
 
 
@@ -549,6 +460,12 @@ def predict_function(X_train, X_test, y_train, y_test, ids_train, ids_test, pipe
     # === 載入最佳模型 ===
     pipeline = joblib.load(pipeline_path)
     model = pipeline["model"]
+    # best_run = pipeline["run"]
+
+    # if RUN_FIRST_CLASSIFIER:
+    #     # --- 分層隨機抽樣 ---
+    #     train_sample = get_random_samples_sparse_stratified(X_train, y_train)  # 裡面存[(X_sample, y_sample), ...]
+    #     X_train_sample, y_train_sample = train_sample[best_run]
     
     # === 預測所有樣本 ===
     y_pred_train = model.predict(X_train)
@@ -566,9 +483,13 @@ def predict_function(X_train, X_test, y_train, y_test, ids_train, ids_test, pipe
     ids_train = np.array(ids_train)
     ids_test = np.array(ids_test)
 
-    
+    # === Train 集分類報告 ===
+    print("\n分類報告 (Train set):")
+    print(classification_report(y_train, y_pred_train, zero_division=0, digits=3, target_names=['大跌', '小跌', '持平', '小漲', '大漲']))
+
+    # === Test 集分類報告 ===
     print("\n分類報告 (Test set):")
-    print(classification_report(y_test, model.predict(X_test), zero_division=0))
+    print(classification_report(y_test, y_pred_test, zero_division=0, digits=3, target_names=['大跌', '小跌', '持平', '小漲', '大漲']))
 
 
     # === 套用在 train / test ===
@@ -578,15 +499,15 @@ def predict_function(X_train, X_test, y_train, y_test, ids_train, ids_test, pipe
     if RUN_FIRST_CLASSIFIER:
 
         # === 存成 JSON ===
-        with open(f"{OUTPUT_PATH}/logreg_train_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
+        with open(f"{OUTPUT_PATH}/keyword_classifier/train_result/logreg_train_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
             json.dump(train_daily, f, ensure_ascii=False, indent=4, default=int)
 
-        with open(f"{OUTPUT_PATH}/logreg_test_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
+        with open(f"{OUTPUT_PATH}/keyword_classifier/train_result/logreg_test_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
             json.dump(test_daily, f, ensure_ascii=False, indent=4, default=int)
 
         print("已輸出逐日預測結果：")
-        print(f"- train: {OUTPUT_PATH}/logreg_train_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
-        print(f"- test:  {OUTPUT_PATH}/logreg_test_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
+        print(f"- train: {OUTPUT_PATH}/keyword_classifier/train_result/logreg_train_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
+        print(f"- test:  {OUTPUT_PATH}/keyword_classifier/train_result/logreg_test_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
 
         # === 合併 train + test ===
         combined_daily = {}
@@ -596,7 +517,7 @@ def predict_function(X_train, X_test, y_train, y_test, ids_train, ids_test, pipe
             combined_daily.setdefault(coin, {}).update(daily)
 
         # === 存成合併後的 TXT ===
-        txt_path = f"{OUTPUT_PATH}/logreg_combined_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.txt"
+        txt_path = f"{OUTPUT_PATH}/keyword_classifier/train_result/logreg_combined_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.txt"
         with open(txt_path, "w", encoding="utf-8") as f:
             # === 初始化統計器 ===
             label_correct = np.zeros(1, dtype=int)
@@ -642,7 +563,7 @@ def predict_function(X_train, X_test, y_train, y_test, ids_train, ids_test, pipe
                     _, preds = zip(*records)
                     preds = np.array(preds, dtype=np.int32)
 
-                    npy_path = f"{OUTPUT_PATH}/{coin}_logreg_classifier_1_result{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy"
+                    npy_path = f"{OUTPUT_PATH}/keyword_classifier/single_coin_result/{coin}/{coin}_logreg_classifier_1_result{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy"
                     np.save(npy_path, preds)
                     print(preds[:50])
                     print(f"{coin} → {npy_path} 已完成, shape={preds.shape}")
@@ -652,15 +573,15 @@ def predict_function(X_train, X_test, y_train, y_test, ids_train, ids_test, pipe
 
     elif RUN_SECOND_CLASSIFIER:
         # === 存成 JSON ===
-        with open(f"{OUTPUT_PATH}/logreg_train_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
+        with open(f"{OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/train_result/{MODEL_NAME[1]}_logreg_train_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.json", "w", encoding="utf-8") as f:
             json.dump(train_daily, f, ensure_ascii=False, indent=4, default=int)
 
-        with open(f"{OUTPUT_PATH}/logreg_test_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
+        with open(f"{OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/train_result/{MODEL_NAME[1]}_logreg_test_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.json", "w", encoding="utf-8") as f:
             json.dump(test_daily, f, ensure_ascii=False, indent=4, default=int)
 
         print("已輸出逐日預測結果：")
-        print(f"- train: {OUTPUT_PATH}/logreg_train_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
-        print(f"- test:  {OUTPUT_PATH}/logreg_test_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
+        print(f"- train: {OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/train_result/{MODEL_NAME[1]}_logreg_train_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.json")
+        print(f"- test:  {OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/train_result/{MODEL_NAME[1]}_logreg_test_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.json")
 
         # === 合併 train + test ===
         combined_daily = {}
@@ -670,7 +591,7 @@ def predict_function(X_train, X_test, y_train, y_test, ids_train, ids_test, pipe
             combined_daily.setdefault(coin, {}).update(daily)
 
         # === 存成合併後的 TXT ===
-        txt_path = f"{OUTPUT_PATH}/logreg_combined_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.txt"
+        txt_path = f"{OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/train_result/{MODEL_NAME[1]}_logreg_combined_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.txt"
         with open(txt_path, "w", encoding="utf-8") as f:
             label_correct = 0
             label_total = 0
@@ -711,18 +632,18 @@ def predict_august_function(pipeline_path):
     # --- 載入資料 ---
     for coin_short_name in ['DOGE', 'PEPE', 'TRUMP']:
         if RUN_FIRST_CLASSIFIER:
-            X_august = sparse.load_npz(f'{INPUT_PATH}/keyword/{coin_short_name}_X_sparse{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npz')
-            y_august = np.load(f'{INPUT_PATH}/coin_price/{coin_short_name}_price_diff{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy')
-            with open(f'{INPUT_PATH}/keyword/{coin_short_name}_ids{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl', 'rb') as file:
+            X_august = sparse.load_npz(f'{INPUT_PATH}/final_input/keyword_classifier/{coin_short_name}_X_sparse{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npz')
+            y_august = np.load(f'{INPUT_PATH}/y_input/{coin_short_name}/{coin_short_name}_price_diff{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy')
+            with open(f'{INPUT_PATH}/final_input/keyword_classifier/{coin_short_name}_ids{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl', 'rb') as file:
                 ids_august = pickle.load(file)
 
         elif RUN_SECOND_CLASSIFIER:
-            X_august = np.load(f"{INPUT_PATH}/keyword/{coin_short_name}_{MODEL_NAME}_X_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
-            y_august = np.load(f"{INPUT_PATH}/coin_price/{coin_short_name}_price_diff_original{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
-            with open(f"{INPUT_PATH}/keyword/{coin_short_name}_{MODEL_NAME}_ids_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl", 'rb') as file:
+            X_august = np.load(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{coin_short_name}_{MODEL_NAME[1]}_X_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.npy")
+            y_august = np.load(f"{INPUT_PATH}/y_input/{coin_short_name}/{coin_short_name}_price_diff_original{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
+            with open(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{coin_short_name}_{MODEL_NAME[1]}_ids_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl", 'rb') as file:
                 ids_august = pickle.load(file)
 
-        y_august_categorized = categorize_array_multi(y_august, T1, T2, T3, T4)
+        # y_august_categorized = categorize_array_multi(y_august, T1, T2, T3, T4)
 
         # === 載入最佳模型 ===
         pipeline = joblib.load(pipeline_path)
@@ -737,29 +658,29 @@ def predict_august_function(pipeline_path):
 
         
         print(f"\n分類報告 ({coin_short_name} August set):")
-        print(classification_report(y_august_categorized, y_pred_august, zero_division=0))
+        print(classification_report(y_august, y_pred_august, labels=[0,1,2,3,4], zero_division=0, digits=3, target_names=['大跌', '小跌', '持平', '小漲', '大漲']))
 
         # august_score = knn.score(X_august, Y_august)
         print(f'{coin_short_name} August accuracy')  
 
         print("ids_august[:5]", ids_august[:5])
 
-        august_daily, _ = evaluate_by_coin_date(ids_august, y_august_categorized, y_pred_august)
+        august_daily, _ = evaluate_by_coin_date(ids_august, y_august, y_pred_august)
 
         if RUN_FIRST_CLASSIFIER:
             # === 存成 JSON ===
-            with open(f"{OUTPUT_PATH}/{coin_short_name}_logreg_august_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
+            with open(f"{OUTPUT_PATH}/keyword_classifier/single_coin_result/{coin_short_name}/{coin_short_name}_logreg_august_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
                 json.dump(august_daily, f, ensure_ascii=False, indent=4, default=int)
 
             print("已輸出逐日預測結果：")
-            print(f"- august: {OUTPUT_PATH}/{coin_short_name}_logreg_august_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
+            print(f"- august: {OUTPUT_PATH}/keyword_classifier/single_coin_result/{coin_short_name}/{coin_short_name}_logreg_august_daily_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
 
             # === 合併 三種幣種 ===
             for coin, daily in august_daily.items():
                 combined_daily.setdefault(coin, {}).update(daily)
 
             # === 存成合併後的 TXT ===
-            txt_path = f"{OUTPUT_PATH}/logreg_combined_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.txt"
+            txt_path = f"{OUTPUT_PATH}/keyword_classifier/train_result/logreg_combined_results_{N_SAMPLES}{SUFFIX_FILTERED}{SUFFIX_AUGUST}.txt"
             with open(txt_path, "w", encoding="utf-8") as f:
                 # === 初始化統計器 ===
                 label_correct = np.zeros(1, dtype=int)
@@ -805,7 +726,7 @@ def predict_august_function(pipeline_path):
                         _, preds = zip(*records)
                         preds = np.array(preds, dtype=np.int32)
 
-                        npy_path = f"{OUTPUT_PATH}/{coin}_logreg_classifier_1_result{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy"
+                        npy_path = f"{OUTPUT_PATH}/keyword_classifier/single_coin_result/{coin}/{coin}_logreg_classifier_1_result{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy"
                         np.save(npy_path, preds)
                         print(preds[:50])
                         print(f"{coin} → {npy_path} 已完成, shape={preds.shape}")
@@ -816,18 +737,18 @@ def predict_august_function(pipeline_path):
         elif RUN_SECOND_CLASSIFIER:
 
             # === 存成 JSON ===
-            with open(f"{OUTPUT_PATH}/{coin_short_name}_logreg_train_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json", "w", encoding="utf-8") as f:
+            with open(f"{OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/single_coin_result/{coin_short_name}/{coin_short_name}_{MODEL_NAME[1]}_logreg_train_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.json", "w", encoding="utf-8") as f:
                 json.dump(august_daily, f, ensure_ascii=False, indent=4, default=int)
 
             print("已輸出逐日預測結果：")
-            print(f"- august: {OUTPUT_PATH}/{coin_short_name}_logreg_train_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.json")
+            print(f"- august: {OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/single_coin_result/{coin_short_name}/{coin_short_name}_{MODEL_NAME[1]}_logreg_train_daily_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.json")
 
             # === 合併 三種幣種 ===
             for coin, daily in august_daily.items():
                 combined_daily.setdefault(coin, {}).update(daily)
 
             # === 存成合併後的 TXT ===
-            txt_path = f"{OUTPUT_PATH}/logreg_combined_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.txt"
+            txt_path = f"{OUTPUT_PATH}/price_classifier/{MODEL_NAME[0]}/train_result/{MODEL_NAME[1]}_logreg_combined_classifier_2_results{SUFFIX_FILTERED}{SUFFIX_AUGUST}.txt"
             with open(txt_path, "w", encoding="utf-8") as f:
                 label_correct = 0
                 label_total = 0
@@ -862,60 +783,25 @@ def predict_august_function(pipeline_path):
 
 
 
-def categorize_array_multi(Y, t1, t2, t3, t4, ids=None):
-    """
-    Y: np.ndarray, shape = (num_labels,), 價格變化率
-    t1, t2: 五元分類閾值，百分比
-    """
-
-    print(Y.shape)
-    # print(len(ids))
-
-    # 五元分類
-    labels = np.full_like(Y, 2, dtype=int)  # 預設持平
-    labels[Y <= -t1] = 0  # 大跌
-    labels[(Y > -t1) & (Y <= -t2)] = 1  # 跌
-    labels[(Y >= t3) & (Y < t4)] = 3  # 漲
-    labels[Y >= t4] = 4  # 大漲
-
-    if ids is not None:
-        # 找出 Y==0 的索引
-        zero_idx = np.where(Y == 0)[0]
-        # 只取對應的 ids
-        dates_is_0 = set((ids[i][0], ids[i][1]) for i in zero_idx)
-        if len(dates_is_0) > 0:
-            print(f"共有 {len(dates_is_0)} 天 Y==0")
-            for id in sorted(dates_is_0):
-                print(id)
-
-    if np.any(Y == 0):  # 檢查是否有任何元素等於 0
-        count = np.sum(Y == 0)
-        print(f"共有 {count} 個 Y == 0")
-        labels[Y == 0] = 4  # 為了校正 TRUMP 前兩天的價格相同 第一天設為大漲
-
-    return labels
-
-
-
 def load_and_preprocess():
     if RUN_FIRST_CLASSIFIER:
         # 取得 ML 的 X
-        X_train = sparse.load_npz(f"{INPUT_PATH}/X_train{SUFFIX_FILTERED}.npz")
-        X_test = sparse.load_npz(f"{INPUT_PATH}/X_test{SUFFIX_FILTERED}.npz")
+        X_train = sparse.load_npz(f"{INPUT_PATH}/final_input/keyword_classifier/X_train{SUFFIX_FILTERED}.npz")
+        X_test = sparse.load_npz(f"{INPUT_PATH}/final_input/keyword_classifier/X_test{SUFFIX_FILTERED}.npz")
 
         print(X_train.shape)
 
         # 匯入 Y
-        y_train = np.load(f"{INPUT_PATH}/Y_train{SUFFIX_FILTERED}.npz")
+        y_train = np.load(f"{INPUT_PATH}/final_input/keyword_classifier/Y_train{SUFFIX_FILTERED}.npz")
         y_train = y_train['Y']
-        y_test = np.load(f"{INPUT_PATH}/Y_test{SUFFIX_FILTERED}.npz")
+        y_test = np.load(f"{INPUT_PATH}/final_input/keyword_classifier/Y_test{SUFFIX_FILTERED}.npz")
         y_test = y_test['Y']
 
         print(y_train.shape)
 
-        with open(f"{INPUT_PATH}/ids_train{SUFFIX_FILTERED}.pkl", 'rb') as file:
+        with open(f"{INPUT_PATH}/final_input/keyword_classifier/ids_train{SUFFIX_FILTERED}.pkl", 'rb') as file:
             ids_train = pickle.load(file)
-        with open(f"{INPUT_PATH}/ids_test{SUFFIX_FILTERED}.pkl", 'rb') as file:
+        with open(f"{INPUT_PATH}/final_input/keyword_classifier/ids_test{SUFFIX_FILTERED}.pkl", 'rb') as file:
             ids_test = pickle.load(file)
 
         scaler = StandardScaler(with_mean=False)  # 適合 sparse matrix
@@ -923,8 +809,14 @@ def load_and_preprocess():
         X_test = scaler.transform(X_test)
 
         # 取得 all_keywords(features_name)
-        with open(f"{INPUT_PATH}/keyword/filtered_keywords{SUFFIX_FILTERED}.json", "r", encoding="utf-8-sig") as jsonfile:
+        with open(f"{INPUT_PATH}/X_input/keyword_classifier/filtered_keywords{SUFFIX_FILTERED}.json", "r", encoding="utf-8-sig") as jsonfile:
             features_name = json.load(jsonfile)
+
+
+        # 建立 target label：五元分類
+        # y_train_categorized = categorize_array_multi(y_train, T1, T2, T3, T4, ids_train)  # shape (N,)
+        # y_test_categorized  = categorize_array_multi(y_test, T1, T2, T3, T4, ids_test)   # shape (N,)
+        print("已成功分類別")
 
 
         # # 取得 price 的 csv 檔
@@ -955,14 +847,18 @@ def load_and_preprocess():
     
     elif RUN_SECOND_CLASSIFIER:
         # 取得資料
-        X = np.load(f"{INPUT_PATH}/{MODEL_NAME}_X_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
-        y = np.load(f"{INPUT_PATH}/{MODEL_NAME}_Y_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
-        with open(f"{INPUT_PATH}/{MODEL_NAME}_ids_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl", 'rb') as file:
-            ids = pickle.load(file)
+        X_train = np.load(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_X_train_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.npy")
+        X_test = np.load(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_X_test_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}{SUFFIX_CLASSIFIER_1}.npy")
+        y_train = np.load(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_Y_train_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
+        y_test = np.load(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_Y_test_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
+        with open(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_ids_train_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl", 'rb') as file:
+            ids_train = pickle.load(file)
+        with open(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_ids_test_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl", 'rb') as file:
+            ids_test = pickle.load(file)
 
-        X_train, X_test, y_train, y_test, ids_train, ids_test = train_test_split(
-            X, y, ids, test_size=0.2, random_state=42, shuffle=True
-        )
+        # X_train, X_test, y_train, y_test, ids_train, ids_test = train_test_split(
+        #     X, y, ids, test_size=0.2, random_state=42, shuffle=True
+        # )
 
         # X_train, y_train, ids_train = balance_train_data(X_train, y_train, ids_train)
 
@@ -989,32 +885,30 @@ def load_and_preprocess():
         print("Train IDs count:", len(ids_train))
         print("Test IDs count:", len(ids_test))
 
+        # 因第二個分類器的輸入資料集中 Y 已經分類好了，所以不需再執行 categorize_array_multi()
+
     else:
         raise ValueError("必須指定 run_first_classifier 或 run_second_classifier")
     
-    # 建立 target label：五元分類
-    y_train_categorized = categorize_array_multi(y_train, T1, T2, T3, T4, ids_train)  # shape (N,)
-    y_test_categorized  = categorize_array_multi(y_test, T1, T2, T3, T4, ids_test)   # shape (N,)
-    print("已成功分類別")
 
     # 統計每個類別數量
     print(f"大跌：-{T1 * 100:.2f}%以下, 跌：-{T1 * 100:.2f}% ~ -{T2 * 100}%, 持平：-{T2 * 100}% ~ {T3 * 100}%, 漲：{T3 * 100}% ~ {T4 * 100:.2f}%, 大漲：{T4 * 100:.2f}%以上")
-    train_total_row = y_train_categorized.shape[0]
-    test_total_row = y_test_categorized.shape[0]
+    train_total_row = y_train.shape[0]
+    test_total_row = y_test.shape[0]
     # for col in range(y_train_categorized.shape[1]):
-    counts = np.bincount(y_train_categorized, minlength=5)
+    counts = np.bincount(y_train, minlength=5)
     percentages = counts / train_total_row * 100
     percentages_str = " ".join([f"{p:.2f}%" for p in percentages])
     print(f"[TRAIN] column 類別: {percentages_str}")
 
-    counts = np.bincount(y_test_categorized, minlength=5)
+    counts = np.bincount(y_test, minlength=5)
     percentages = counts / test_total_row * 100
     percentages_str = " ".join([f"{p:.2f}%" for p in percentages])
     print(f"[TEST]  column 類別: {percentages_str}\n")
 
     input("pasue...")
 
-    return X_train, X_test, y_train_categorized, y_test_categorized, ids_train, ids_test, scaler, features_name
+    return X_train, X_test, y_train, y_test, ids_train, ids_test, scaler, features_name
 
 
 
@@ -1022,7 +916,7 @@ def main():
 
     if RUN_FIRST_CLASSIFIER:
 
-        pipeline_path = f"{SAVE_MODEL_PATH}/logreg_best_pipeline_{N_SAMPLES}{SUFFIX_FILTERED}.joblib"  # 儲存訓練模型的位置
+        pipeline_path = f"{SAVE_MODEL_PATH}/logistic_regression/logreg_best_pipeline_{N_SAMPLES}{SUFFIX_FILTERED}.joblib"  # 儲存訓練模型的位置
 
         if not IS_RUN_AUGUST:
             # --- 載入資料 ---
@@ -1049,7 +943,7 @@ def main():
 
     elif RUN_SECOND_CLASSIFIER:
 
-        pipeline_path = f"{SAVE_MODEL_PATH}/logreg_classifier_2{SUFFIX_FILTERED}.joblib"  # 儲存訓練模型的位置
+        pipeline_path = f"{SAVE_MODEL_PATH}/logistic_regression/{MODEL_NAME[1]}_logreg_classifier_2{SUFFIX_FILTERED}{SUFFIX_CLASSIFIER_1}.joblib"  # 儲存訓練模型的位置
 
         if not IS_RUN_AUGUST:
             if IS_GROUPED_CV == False:
@@ -1071,14 +965,14 @@ def main():
 
             else:
                 # 取得資料
-                X = np.load(f"{INPUT_PATH}/{MODEL_NAME}_X_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
-                y = np.load(f"{INPUT_PATH}/{MODEL_NAME}_Y_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
-                with open(f"{INPUT_PATH}/{MODEL_NAME}_ids_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl", 'rb') as file:
+                X = np.load(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_X_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
+                y = np.load(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_Y_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.npy")
+                with open(f"{INPUT_PATH}/final_input/price_classifier/{MODEL_NAME[0]}/{MODEL_NAME[1]}_ids_classifier_2{SUFFIX_FILTERED}{SUFFIX_AUGUST}.pkl", 'rb') as file:
                     ids = pickle.load(file)
 
-                y_categorized = categorize_array_multi(y, ids, T1, T2, T3, T4)  # shape (N,)
+                # y_categorized = categorize_array_multi(y, T1, T2, T3, T4, ids)  # shape (N,)
 
-                results_all = coin_month_cv(X, y_categorized, ids, C=C)
+                results_all = coin_month_cv(X, y, ids, C=C)
 
         else:
             # --- 預測 2025-08 ---

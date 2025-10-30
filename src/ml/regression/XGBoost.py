@@ -17,7 +17,7 @@ END_DATE = "2025-08-31"
 
 INPUT_PATH = "../data/coin_price"
 
-OUTPUT_PATH = "../data/ml/dataset/coin_price"
+OUTPUT_PATH = "../data/ml/dataset/y_input"
 '''可修改參數'''
 
 os.makedirs(OUTPUT_PATH, exist_ok=True)
@@ -177,17 +177,17 @@ for coin_short_name, n in zip(COIN_SHORT_NAME, N):
     print(f"{coin_short_name} 日期 shape = {dates.shape}")
 
     # ===== 存成 npy / txt =====
-    np.save(os.path.join(OUTPUT_PATH, f"{coin_short_name}_XGBoost_features.npy"), X_all)
-    np.savetxt(f"{OUTPUT_PATH}/{coin_short_name}_XGBoost_dates.txt", dates, fmt="%s")
+    np.save(os.path.join(OUTPUT_PATH, coin_short_name, f"{coin_short_name}_XGBoost_features.npy"), X_all)
+    np.savetxt(f"{OUTPUT_PATH}/{coin_short_name}/{coin_short_name}_XGBoost_dates.txt", dates, fmt="%s")
 
     # ===== 存成 CSV (合併日期+特徵) =====
     df_features = pd.DataFrame(
         np.hstack([dates, X_all]),
         columns=["Date"] + features
     )
-    df_features.to_csv(f"{OUTPUT_PATH}/{coin_short_name}_XGBoost_features.csv", index=False)
+    df_features.to_csv(f"{OUTPUT_PATH}/{coin_short_name}/{coin_short_name}_XGBoost_features.csv", index=False)
 
-    print(f"✅ {coin_short_name} 已輸出 CSV：{OUTPUT_PATH}/{coin_short_name}_XGBoost_features.csv")
+    print(f"✅ {coin_short_name} 已輸出 CSV：{OUTPUT_PATH}/{coin_short_name}/{coin_short_name}_XGBoost_features.csv")
     
     # =============================
     # 7. 畫圖比較

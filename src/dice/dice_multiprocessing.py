@@ -18,6 +18,22 @@ parent_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(parent_dir))
 from config import JSON_DICT_NAME, COIN_SHORT_NAME
 
+# 🧩 自動檢查並下載必要的 NLTK 資料
+REQUIRED_NLTK_PACKAGES = ["punkt", "punkt_tab", "stopwords"]
+
+for pkg in REQUIRED_NLTK_PACKAGES:
+    try:
+        # 根據資料型態查找對應的路徑
+        if pkg == "stopwords":
+            nltk.data.find("corpora/stopwords")
+        else:
+            nltk.data.find(f"tokenizers/{pkg}")
+    except LookupError:
+        print(f"🔽 正在下載缺少的 NLTK 資料：{pkg} ...")
+        nltk.download(pkg)
+
+
+
 '''可修改參數'''
 FOLDER_PATH = f"../data/author_all/{COIN_SHORT_NAME}"  # 選擇要對哪個資料夾執行
 # "../Kmeans/data/clustered/"
@@ -34,10 +50,12 @@ MAX_PAIRS_THRESHOLD = 1_000_000
 
 IS_RUN_SPAMMER = True
 
-SPAMMER_PATH = f"../data/spammer/{COIN_SHORT_NAME}/"
+SPAMMER_PATH = f"../data/spammer/"
 
 IS_CLUSTERED = False  # 設定是否要用有分群的檔案來比對
 '''可修改參數'''
+
+
 
 # create folders if not existed
 os.makedirs(f"../data/dice/{COIN_SHORT_NAME}/analysis", exist_ok=True)
@@ -165,7 +183,7 @@ def process_tweet_group(tweets_group, json_output, json_output_path, cluster_id=
 
     tweets_group = preprocess_tweets(tweets_group)
 
-    num_processes = min(cpu_count() // 2, 6)
+    num_processes = 12
     pool = Pool(processes=num_processes)
     
     temp_file_path = f"./temp_results_{cluster_id if cluster_id is not None else 'all'}.jsonl"
@@ -252,8 +270,8 @@ if __name__ == "__main__":
 
     # 如果是要跑 spammer_list 的話
     if IS_RUN_SPAMMER:
-        old_spammer_list_path = f"{SPAMMER_PATH}/old_DOGE_spammers.txt"
-        new_spammer_list_path = f"{SPAMMER_PATH}/DOGE_spammers.txt"
+        old_spammer_list_path = f"{SPAMMER_PATH}/old/{COIN_SHORT_NAME}/DOGE_spammers.txt"
+        new_spammer_list_path = f"{SPAMMER_PATH}/{COIN_SHORT_NAME}/DOGE_spammers.txt"
 
         with open(old_spammer_list_path, "r", encoding="utf-8-sig") as f:
             old_spammer_accounts = set(line.strip() for line in f if line.strip())
@@ -264,6 +282,7 @@ if __name__ == "__main__":
         spammer_accounts = old_spammer_accounts - new_spammer_accounts
         print(f"📌 old 有 {len(old_spammer_accounts)} 個，new 有 {len(new_spammer_accounts)} 個")
         print(f"👉 實際要跑 {len(spammer_accounts)} 個 (old 有但 new 沒有)")
+        input("Enter 以繼續...")
     else:
         spammer_accounts = None
 
